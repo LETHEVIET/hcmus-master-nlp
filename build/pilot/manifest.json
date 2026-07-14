@@ -1,0 +1,18 @@
+{
+  "diagnostic_challenge_path": "build/pilot/diagnostic_challenge.jsonl",
+  "double_annotate_fraction": 0.15,
+  "evaluation_random_path": "build/pilot/evaluation_random.jsonl",
+  "note": "evaluation_random: metric chính (F1). diagnostic_challenge: error analysis only, KHÔNG dùng cho metric.",
+  "pilot_size": 200,
+  "seed": 42,
+  "work_quota": {
+    "北史": 25,
+    "北齊書": 25,
+    "後漢書": 25,
+    "東觀漢記_(四庫全書本)": 25,
+    "漢書": 25,
+    "舊五代史": 25,
+    "舊唐書": 25,
+    "諸蕃志": 25
+  }
+}

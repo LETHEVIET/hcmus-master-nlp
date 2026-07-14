@@ -1,0 +1,4956 @@
+[
+  {
+    "sentence_id": "HCH_003_014_000001",
+    "sentence": "后妃下",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000002",
+    "sentence": "齊 武明皇后婁氏 蠕蠕公主 郁久閭氏 彭城太妃爾朱氏 〈 小爾朱氏 〉 上党太妃韓氏 馮翊太妃鄭氏 高陽太妃游氏 〈 馮娘 李娘 〉 文襄敬皇后元氏 〈 琅邪公主 〉 文宣皇后李氏 〈 段昭儀 王嬪 薛嬪 〉 孝昭皇后元氏 武成皇后胡氏 弘德李夫人 後主皇后斛律氏 後主皇后胡氏 後主皇后穆氏 馮淑妃",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      },
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      },
+      {
+        "text": "彭城",
+        "label": "LOC",
+        "start": 19,
+        "end": 21
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 70,
+        "end": 72
+      },
+      {
+        "text": "元氏",
+        "label": "ORG",
+        "start": 72,
+        "end": 74
+      },
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 79,
+        "end": 81
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 86,
+        "end": 88
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 107,
+        "end": 109
+      },
+      {
+        "text": "元氏",
+        "label": "ORG",
+        "start": 109,
+        "end": 111
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 114,
+        "end": 116
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 127,
+        "end": 129
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 135,
+        "end": 137
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 142,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000003",
+    "sentence": "周 文皇后元氏 文宣皇后叱奴氏 孝閔皇后元氏 明敬皇后獨孤氏 武成皇后阿史那氏 武皇后李氏 宣皇后楊氏 宣皇后朱氏 宣皇后陳氏 宣皇后元氏 宣皇后尉遲氏 靜皇后司馬氏",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "元氏",
+        "label": "ORG",
+        "start": 5,
+        "end": 7
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 18,
+        "end": 20
+      },
+      {
+        "text": "元氏",
+        "label": "ORG",
+        "start": 20,
+        "end": 22
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 25,
+        "end": 27
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 33,
+        "end": 35
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 41,
+        "end": 43
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 47,
+        "end": 49
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 53,
+        "end": 55
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 59,
+        "end": 61
+      },
+      {
+        "text": "陳氏",
+        "label": "ORG",
+        "start": 61,
+        "end": 63
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 65,
+        "end": 67
+      },
+      {
+        "text": "元氏",
+        "label": "ORG",
+        "start": 67,
+        "end": 69
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 71,
+        "end": 73
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 78,
+        "end": 80
+      },
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 80,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000004",
+    "sentence": "隋 文獻皇后獨孤氏 宣華夫人陳氏 容華夫人蔡氏 湣皇后蕭氏",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      },
+      {
+        "text": "陳氏",
+        "label": "ORG",
+        "start": 14,
+        "end": 16
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 25,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000005",
+    "sentence": "北朝齊",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000006",
+    "sentence": "高祖神武皇帝",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000007",
+    "sentence": "齊武明皇后婁氏，諱昭君，贈司徒內幹之女也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000008",
+    "sentence": "少明悟，強族多娉之，並不肯行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000009",
+    "sentence": "及見神武城上執役，驚曰：「此真吾夫也。」乃使婢通意，又數致私財，使以娉己，父母不得已而許焉。",
+    "entities": [
+      {
+        "text": "及見神武城",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000010",
+    "sentence": "神武既有澄清之志，傾產以結英豪，密謀秘策，後恆參預。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000011",
+    "sentence": "及拜勃海王妃，閫闈之事悉決焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000012",
+    "sentence": "後高明嚴斷，雅遵儉約，往來外舍，侍從不過十人。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000013",
+    "sentence": "性寬厚，不妒忌，神武姬侍咸加恩待。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000014",
+    "sentence": "神武嘗將西討出師，後夜孿生一男一女，左右以危急，請追告神武。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000015",
+    "sentence": "後弗聽，曰：「王出統大兵，何得以我故輕離軍幕？死生命也，來復何為。」神武聞之，嗟歎良久。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000016",
+    "sentence": "沙苑敗後，侯景屢言請精騎二萬，必能取之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000017",
+    "sentence": "神武悅，以告於後。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000018",
+    "sentence": "後曰：「若如其言，豈有還理？得獺失景，亦有何利。」乃止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000019",
+    "sentence": "神武逼於蠕蠕，欲娶其女而未決。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000020",
+    "sentence": "後曰：「國家大計，願不疑也。」及蠕蠕公主至，後避正室處之，神武愧而拜謝焉。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 18,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000021",
+    "sentence": "曰：「彼將有覺，願絕勿顧。」慈愛諸子，不異己出，躬自紡績，人賜一袍一褲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000022",
+    "sentence": "手縫戎服，以帥左右。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000023",
+    "sentence": "弟昭以功名自達，其餘親屬，未嘗為請爵位，每言有材當用，義不以私亂公。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000024",
+    "sentence": "文襄嗣位，進為太妃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000025",
+    "sentence": "文宣將受魏禪，後固執不許，帝所以中止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000026",
+    "sentence": "天保初，尊為皇太后，宮曰宣訓。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000027",
+    "sentence": "濟南即位，尊為太皇太后。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000028",
+    "sentence": "尚書令楊愔等受遺詔輔政，疏忌諸王。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000029",
+    "sentence": "太皇太后密與孝昭及諸大將定策誅之，下令廢立。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000030",
+    "sentence": "孝昭即位，復為皇太后。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000031",
+    "sentence": "孝昭崩，太后又下詔立武成帝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000032",
+    "sentence": "大寧二年春，太后寢疾，衣忽自舉，用巫媼言，改姓石氏。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000033",
+    "sentence": "四月辛丑，崩于北宮，時年六十二。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000034",
+    "sentence": "五月甲申，合葬義平陵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000035",
+    "sentence": "太后凡孕六男二女，皆感夢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000036",
+    "sentence": "孕文襄則夢一斷龍；孕文宣則夢大龍，首尾屬天地，張口動目，勢狀驚人；孕孝昭則夢蠕龍於地；孕武成則夢龍浴於海；孕魏二後，並夢月入懷；孕襄城、博陵二王，夢鼠入衣下。",
+    "entities": [
+      {
+        "text": "孕襄城",
+        "label": "LOC",
+        "start": 64,
+        "end": 67
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000037",
+    "sentence": "後未崩，有童謠曰：「九龍母死不作孝。」及後崩，武成不改服，緋袍如故。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000038",
+    "sentence": "未幾，登三台，置酒作樂；宮女進白袍，帝怒，投諸台下。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000039",
+    "sentence": "和士開請止樂，帝大怒，撾之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000040",
+    "sentence": "帝于昆季，次實九，蓋其征驗也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000041",
+    "sentence": "蠕蠕公主者，蠕蠕主郁久閭阿那瑰女也。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000042",
+    "sentence": "蠕蠕強盛，與西魏通和，欲連兵東伐。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000043",
+    "sentence": "神武病之，令杜弼使蠕蠕，為世子求婚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000044",
+    "sentence": "阿那瑰曰：「高王自娶則可。」神武猶豫，尉景與武明皇后及文襄並勸請，乃從之。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 24,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000045",
+    "sentence": "武定三年，使慕容儼往娉之，號曰蠕蠕公主。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 17,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000046",
+    "sentence": "八月，神武迎於下館，阿那瑰使其弟禿突佳來送女，且報聘，仍戒曰：「待見外孫，然後返國。」公主性嚴毅，一生不肯華言。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 43,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000047",
+    "sentence": "神武嘗有病，不得往公主所，禿突佳怨恚，神武自射堂輿疾就公主。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      },
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 27,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000048",
+    "sentence": "其見將護如此。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000049",
+    "sentence": "神武崩，文襄從蠕蠕國法，蒸公主，產一女焉。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000050",
+    "sentence": "彭城太妃爾硃氏，榮之女，魏孝莊後也。",
+    "entities": [
+      {
+        "text": "彭城",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000051",
+    "sentence": "神武納為別室，敬重逾于婁妃，見必束帶，自稱下官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000052",
+    "sentence": "神武迎蠕蠕公主還，爾硃氏迎于木井北，與蠕蠕公主前後別行，不相見。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      },
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 21,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000053",
+    "sentence": "公主引角弓仰射翔鴟，應弦而落；妃引長弓斜射飛烏，亦一發而中。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000054",
+    "sentence": "神武喜曰：「我此二婦，並堪擊賊。」後為尼，神武為起佛寺。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000055",
+    "sentence": "天保初，為太妃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000056",
+    "sentence": "及文宣狂酒，將無禮於太妃，太妃不從，遂遇禍。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000057",
+    "sentence": "小爾硃者，兆之女也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000058",
+    "sentence": "初為建明皇后。",
+    "entities": [
+      {
+        "text": "明",
+        "label": "ORG",
+        "start": 3,
+        "end": 4
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000059",
+    "sentence": "神武納之，生任城王。",
+    "entities": [
+      {
+        "text": "生任城",
+        "label": "LOC",
+        "start": 5,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000060",
+    "sentence": "未幾，與趙郡公琛私通，徙於靈州。",
+    "entities": [
+      {
+        "text": "與趙郡",
+        "label": "LOC",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "徙於靈州",
+        "label": "LOC",
+        "start": 11,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000061",
+    "sentence": "後適范陽盧景璋。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000062",
+    "sentence": "上党太妃韓氏，軌之妹也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000063",
+    "sentence": "神武微時欲娉之，軌母不許。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000064",
+    "sentence": "及神武貴，韓氏夫已死，乃納之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000065",
+    "sentence": "馮翊太妃鄭氏，名大車，嚴祖妹也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000066",
+    "sentence": "初為魏廣平王妃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000067",
+    "sentence": "遷鄴後，神武納之，寵冠後庭，生馮翊王潤。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000068",
+    "sentence": "神武之征劉蠡升，文襄蒸於大車。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000069",
+    "sentence": "神武還，一婢告之，二婢為證。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000070",
+    "sentence": "神武杖文襄一百而幽之，武明後亦見隔絕。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000071",
+    "sentence": "時彭城爾硃太妃有寵，生王子浟，神武將有廢立意。",
+    "entities": [
+      {
+        "text": "時彭城",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000072",
+    "sentence": "文襄求救于司馬子如。",
+    "entities": [
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000073",
+    "sentence": "子如來朝，偽為不知者，請武明後。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000074",
+    "sentence": "神武告其故。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000075",
+    "sentence": "子如曰：「消難亦奸子如妾，如此事，正可覆蓋。妃是王結髮婦，常以父母家財奉王，王在懷朔被杖，背無完皮，妃晝夜供給看瘡。後避葛賊，同走并州。貧困，然馬屎，自作靴，恩義何可忘？夫婦相宜，女配至尊，男承大業，又婁領軍勳，何宜搖動？一女子如草芥，況婢言不必信。」神武因使子如鞫之。",
+    "entities": [
+      {
+        "text": "同走并州",
+        "label": "LOC",
+        "start": 63,
+        "end": 67
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000076",
+    "sentence": "子如見文襄，尤之曰：「男兒何意畏威自誣？」因教二婢反辭，脅告者自縊，乃啟神武曰：「果虛言。」神武大悅，召後及文襄。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000077",
+    "sentence": "武明後遙見神武，一步一叩頭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000078",
+    "sentence": "文襄且拜且進，父子夫妻相泣，乃如初。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000079",
+    "sentence": "神武乃置酒曰：「全我父子者，司馬子如。」賜之黃金百三十斤，文襄贈良馬五十匹。",
+    "entities": [
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000080",
+    "sentence": "高陽太妃游氏，父京之，為相州長史。",
+    "entities": [
+      {
+        "text": "為相州",
+        "label": "LOC",
+        "start": 11,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000081",
+    "sentence": "神武克鄴，欲納之；京之不許，遂牽曳取之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000082",
+    "sentence": "京之尋死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000083",
+    "sentence": "游氏于諸太妃中最有德訓，諸王、公主婚嫁，常令主之。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 15,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000084",
+    "sentence": "馮娘者，子昂妹也，初為魏任城王妃，適爾硃世隆。",
+    "entities": [
+      {
+        "text": "初為魏任城",
+        "label": "LOC",
+        "start": 9,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000085",
+    "sentence": "神武納之，生浮陽公主。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000086",
+    "sentence": "李娘者，延實從妹也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000087",
+    "sentence": "初為魏城陽王妃。",
+    "entities": [
+      {
+        "text": "初為魏城",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000088",
+    "sentence": "又王娘生永安王浚，穆娘生平陽王淹。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000089",
+    "sentence": "並早卒，不為太妃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000090",
+    "sentence": "世宗文襄敬皇后",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000091",
+    "sentence": "文襄敬皇后元氏，魏孝靜帝之姊也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "元氏",
+        "label": "ORG",
+        "start": 5,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000092",
+    "sentence": "孝武帝時，封馮翊公主，而歸於文襄。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000093",
+    "sentence": "容德兼美，曲盡和敬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000094",
+    "sentence": "初生河間王孝琬，時文襄為世子，三日而孝靜幸世子第，贈錦彩及布帛萬匹。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000095",
+    "sentence": "世子辭，求通受諸貴禮遺，於是十屋皆滿。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000096",
+    "sentence": "次生兩公主。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000097",
+    "sentence": "文宣受禪，尊為文襄皇后，居靜德宮。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000098",
+    "sentence": "及天保六年，文宣漸致昏狂，乃移居于高陽之宅而取其府庫，曰：「吾兄昔奸我婦，我今須報。」乃淫於後。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000099",
+    "sentence": "其高氏女婦，無親疏皆使左右亂交之於前。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000100",
+    "sentence": "以葛為絙，令魏安德主騎上，使人推引之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000101",
+    "sentence": "又命胡人苦辱之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000102",
+    "sentence": "帝又自呈露，以示群下。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000103",
+    "sentence": "武平中，後崩，祔葬義平陵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000104",
+    "sentence": "琅邪公主名玉儀，魏高陽王斌庶生妹也。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000105",
+    "sentence": "初不見齒，為孫騰妓，騰又放棄。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000106",
+    "sentence": "文襄遇諸途，悅而納之，遂被殊寵，奏魏帝封焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000107",
+    "sentence": "文襄謂崔季舒曰：「爾由來為我求色，不如我自得一絕異者。崔暹必當造直諫，我亦有以待之。」及暹諮事，文襄不復假以顏色。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000108",
+    "sentence": "居三日，暹懷刺，墜之於前。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000109",
+    "sentence": "文襄問：「何用此為？」暹悚然曰：「未得通公主。」文襄大悅，把暹臂入見焉。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 20,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000110",
+    "sentence": "季舒語人曰：「崔暹常忿吾佞，在大將軍前，每言叔父合殺。及自作體佞，乃體過於吾。」玉儀同產姊靜儀，先適黃門郎崔括，文襄亦幸之，皆封公主。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 64,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000111",
+    "sentence": "括父子由是超授，賞賜甚厚焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000112",
+    "sentence": "显祖文宣皇帝",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000113",
+    "sentence": "文宣皇后李氏諱祖娥，趙郡李希宗女也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "趙郡",
+        "label": "LOC",
+        "start": 10,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000114",
+    "sentence": "容德甚美。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000115",
+    "sentence": "初為太其原公夫人。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000116",
+    "sentence": "及帝將建中宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000117",
+    "sentence": "高隆之、高德正言漢婦人不可為天下母，宜更擇美配。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000118",
+    "sentence": "楊愔固請依漢、魏故事，不改元妃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000119",
+    "sentence": "而德正猶固請廢後而立段昭儀，欲以結勳貴之援。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000120",
+    "sentence": "帝竟不從而立後焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000121",
+    "sentence": "帝好捶撻嬪御，乃至有殺戮者，唯後獨家禮敬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000122",
+    "sentence": "天保十年，改為可賀敦皇后。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000123",
+    "sentence": "孝昭即位，降居昭信宮，號昭信皇后。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000124",
+    "sentence": "武成踐阼，逼後淫亂云：「若不許我，當殺爾兒。」後懼，從之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000125",
+    "sentence": "後有娠，太原王紹德至閣，不得見。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000126",
+    "sentence": "慍曰：「兒豈不知邪？姊姊腹大，故不見兒。」後聞之大慚，由是生女不舉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000127",
+    "sentence": "帝橫刀詬曰：「爾殺我女，我何不殺爾兒？」對後前築殺紹德。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000128",
+    "sentence": "後大哭，帝愈怒，裸後亂撾撻之，號天不已。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000129",
+    "sentence": "盛以絹囊，流血淋漉，投諸渠水，良久乃蘇，犢車載送妙勝尼寺。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000130",
+    "sentence": "後性愛佛法，因此為尼。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000131",
+    "sentence": "齊亡，入關，隋時得還趙郡。",
+    "entities": [
+      {
+        "text": "齊",
+        "label": "ORG",
+        "start": 0,
+        "end": 1
+      },
+      {
+        "text": "入關",
+        "label": "LOC",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000132",
+    "sentence": "段昭儀，韶妹也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000133",
+    "sentence": "婚夕，韶妻元氏為俗弄女婿法戲文宣，文宣銜之。",
+    "entities": [
+      {
+        "text": "元氏",
+        "label": "ORG",
+        "start": 5,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000134",
+    "sentence": "後因發怒，謂韶曰：「我會殺爾婦！」元氏懼，匿婁太后家，終文宣世不敢出。",
+    "entities": [
+      {
+        "text": "元氏",
+        "label": "ORG",
+        "start": 17,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000135",
+    "sentence": "昭儀才色兼美，禮遇殆同正嫡。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000136",
+    "sentence": "後主時，改適錄尚書唐邕。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 7,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000137",
+    "sentence": "王嬪者，琅邪人也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000138",
+    "sentence": "嬪姊先適崔修，文宣並幸之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000139",
+    "sentence": "數數降其夫家，超用修為尚書郎。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000140",
+    "sentence": "薛嬪者，本倡家女也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000141",
+    "sentence": "年十四五時，為清河王嶽所好。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000142",
+    "sentence": "其父求內宮中，大被嬖寵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000143",
+    "sentence": "其姊亦俱進禦。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000144",
+    "sentence": "文宣後知先與嶽通，又為其父乞司徒公。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000145",
+    "sentence": "帝大怒，先鋸殺其姊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000146",
+    "sentence": "薛嬪當時有娠，過產亦從戮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000147",
+    "sentence": "肃宗孝昭元皇后",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000148",
+    "sentence": "孝昭皇后元氏，開府元蠻女也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "元氏",
+        "label": "ORG",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000149",
+    "sentence": "初為常山王妃，天保末，賜姓步六孤。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000150",
+    "sentence": "孝昭即位，立為皇后。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 7,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000151",
+    "sentence": "帝崩，從梓宮之鄴。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000152",
+    "sentence": "始度汾橋，武成聞後有奇藥，追索之不得，使閹人就車頓辱。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000153",
+    "sentence": "降居順成宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000154",
+    "sentence": "武成既殺樂陵王，元被閟隔，不得與家相知。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000155",
+    "sentence": "宮闈內忽有飛語，帝令檢推，得後父兄書信，元蠻由是坐免官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000156",
+    "sentence": "後以齊亡，入周氏宮中。",
+    "entities": [
+      {
+        "text": "齊",
+        "label": "ORG",
+        "start": 2,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000157",
+    "sentence": "隋文帝作相，放還山東。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000158",
+    "sentence": "世祖武成皇帝",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000159",
+    "sentence": "武成皇后胡氏，安定胡延之女。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000160",
+    "sentence": "其母范陽盧道約女。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000161",
+    "sentence": "初懷孕，有胡僧詣門曰：「此宅瓠蘆中有月。」既而生後。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000162",
+    "sentence": "天保初，選為長廣王妃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000163",
+    "sentence": "產後主日，有鴞鳴於產帳上。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000164",
+    "sentence": "武成崩，尊為皇太后。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000165",
+    "sentence": "陸媼及和士開密謀殺趙郡王睿，出婁定遠、高文遙為刺史。",
+    "entities": [
+      {
+        "text": "士開密謀殺趙郡",
+        "label": "LOC",
+        "start": 4,
+        "end": 11
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 23,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000166",
+    "sentence": "和、陸諂事太后，無所不至。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000167",
+    "sentence": "初，武成時，後與諸閹人褻狎。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000168",
+    "sentence": "武成寵倖和士開。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000169",
+    "sentence": "每與後握槊，因此與後奸通。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000170",
+    "sentence": "自武成崩後，數出詣佛寺，又與沙門曇獻通。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000171",
+    "sentence": "布金錢於獻度下，又掛寶裝胡床於獻屋壁，武成平生之所禦也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000172",
+    "sentence": "乃置百僧於內殿，托以聽講，日夜與曇獻寢處。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000173",
+    "sentence": "以獻為昭玄統。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000174",
+    "sentence": "僧徒遙指太后以弄曇獻，乃至謂之為太上者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000175",
+    "sentence": "帝聞太后不謹，而未之信。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000176",
+    "sentence": "後朝太后，見二少尼，悅而召之，乃男子也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000177",
+    "sentence": "於是曇獻事亦發，皆伏法。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000178",
+    "sentence": "並殺元山王三郡君，皆太后之所昵也。",
+    "entities": [
+      {
+        "text": "並殺元山王三郡",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000179",
+    "sentence": "帝自晉陽奉太后還鄴，至紫陌，卒遇大風。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000180",
+    "sentence": "兼舍人魏僧伽明風角。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000181",
+    "sentence": "奏言：「即時當有暴逆事。」帝詐云鄴中有急，彎弓纏弰，馳入南城。",
+    "entities": [
+      {
+        "text": "馳入南城",
+        "label": "LOC",
+        "start": 26,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000182",
+    "sentence": "令鄧長顒幽太后北宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000183",
+    "sentence": "仍有敕，內外諸親一不得與太后相見。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000184",
+    "sentence": "久之，帝迎復太后。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000185",
+    "sentence": "太后初聞使者至，大驚，慮有不測。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000186",
+    "sentence": "每太后設食，帝亦不敢嘗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000187",
+    "sentence": "周使元偉來聘，作《述行賦》，敘鄭莊公克段而遷薑氏。",
+    "entities": [
+      {
+        "text": "《述行賦》",
+        "label": "TITLE",
+        "start": 8,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000188",
+    "sentence": "文雖不工，當時深以為愧。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000189",
+    "sentence": "齊亡，入周，恣行奸穢。",
+    "entities": [
+      {
+        "text": "齊",
+        "label": "ORG",
+        "start": 0,
+        "end": 1
+      },
+      {
+        "text": "周",
+        "label": "ORG",
+        "start": 4,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000190",
+    "sentence": "開皇中殂。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000191",
+    "sentence": "弘德夫人李氏，趙郡李叔讓女也。",
+    "entities": [
+      {
+        "text": "趙郡",
+        "label": "LOC",
+        "start": 7,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000192",
+    "sentence": "初為魏靜帝嬪，武成納焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000193",
+    "sentence": "生南陽王仁盛，為太妃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000194",
+    "sentence": "姊為南安王思妃，坐夫反，以燒死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000195",
+    "sentence": "太妃聞之，發狂而薨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000196",
+    "sentence": "文宣王嬪及中人盧勒叉妹，武成並以為嬪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000197",
+    "sentence": "武成崩後，胡後令二嬪自殺。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000198",
+    "sentence": "二嬪悲哭，後主為之惻愴。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000199",
+    "sentence": "私遺衣物，令出外避焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000200",
+    "sentence": "盧養淮南王，後為太妃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000201",
+    "sentence": "又有馬嬪，亦得幸，為後所妒，自縊死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000202",
+    "sentence": "彭榮、任祥並有女，因坐父兄事，皆入宮，為文宣所幸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000203",
+    "sentence": "武成以彭為夫人，養齊安王，任生丹楊王，並為太妃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000204",
+    "sentence": "後主",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000205",
+    "sentence": "後主皇后斛律氏，左丞相光之女也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "丞相",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000206",
+    "sentence": "初為皇太子妃，後主受禪，立為皇后。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000207",
+    "sentence": "武平三年正月，生女。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000208",
+    "sentence": "帝欲悅光，詐稱生男，為之大赦。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000209",
+    "sentence": "光誅，後廢在別宮，後令為尼。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000210",
+    "sentence": "齊滅，嫁為開府元仁妻。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000211",
+    "sentence": "後主皇后胡氏，隴東王長仁女也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000212",
+    "sentence": "胡太后失母儀之道，深以為愧，欲求悅後主，故飾後於宮中。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000213",
+    "sentence": "令帝見之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000214",
+    "sentence": "帝果悅，立為弘德夫人，進左昭儀，大被寵愛。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000215",
+    "sentence": "斛律後廢，陸媼欲以穆夫人代之，太后不許。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000216",
+    "sentence": "祖孝征請立胡昭儀，遂登為皇后。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 12,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000217",
+    "sentence": "陸媼既非勸立，又意在穆夫人，其後于太后前作色而言曰：「何物親侄女，作如此語言！」太后問有何言。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000218",
+    "sentence": "曰：「不可道。」固問之，乃曰：「語大家雲，太后行多非法，不可以訓。」太后大怒，喚後出，立剃其發，送令還家。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000219",
+    "sentence": "帝思之，每致詩以通意。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000220",
+    "sentence": "後與斛律廢後俱召入內。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000221",
+    "sentence": "數日而鄴不守，後亦改嫁云。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000222",
+    "sentence": "後主皇后穆氏，名邪利，本斛律後從婢也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000223",
+    "sentence": "母名輕霄，本穆子倫婢也，轉入侍中宋欽道家，奸私而生後，莫知氏族，或云後即欽道女子也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000224",
+    "sentence": "小字黃花，後字舍利。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000225",
+    "sentence": "欽道婦妒，輕霄面黥為宋字。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000226",
+    "sentence": "欽道伏誅，黃花因此故宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000227",
+    "sentence": "有幸于後主，宮內稱為「舍利大監」。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000228",
+    "sentence": "女侍中陸太姬知其寵，養以為女，薦為弘德夫人。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000229",
+    "sentence": "武平元年六月，生皇子恆。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000230",
+    "sentence": "于時後主未有儲嗣，陸陰結待，以臣撫之任不可無主。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000231",
+    "sentence": "時皇后斛律氏，丞相光之女也，慮其懷恨，先令母養之立為皇太子。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 1,
+        "end": 3
+      },
+      {
+        "text": "丞相",
+        "label": "TITLE",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 27,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000232",
+    "sentence": "陸以國姓之重，穆、陸相對，又奏賜姓穆氏。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000233",
+    "sentence": "胡庶人之廢也，陸有助焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000234",
+    "sentence": "故遂立為皇后，大赦。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000235",
+    "sentence": "初，有折沖將軍元正烈，於鄴城東水中得璽以獻，文曰「天皇后璽」，蓋石氏所作。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      },
+      {
+        "text": "於鄴城",
+        "label": "LOC",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 26,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000236",
+    "sentence": "詔書頒告，以為穆後之瑞焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000237",
+    "sentence": "武成為胡後造真珠裙褲，所費不可稱計，被火燒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000238",
+    "sentence": "後主既立穆皇后，復為營之。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000239",
+    "sentence": "屬周武遭太后喪，詔侍中薛孤、康買等為吊使，又遣商胡齎錦彩三萬疋與吊使同往。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000240",
+    "sentence": "欲市真珠，為皇后造七寶車。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000241",
+    "sentence": "周人不與交易，然而竟造焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000242",
+    "sentence": "先是，童謠曰：「黃花勢欲落，清觴滿杯酌。」言黃花不久也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000243",
+    "sentence": "後主自立穆後以後，昏飲無度，故云「清觴滿杯酌」。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000244",
+    "sentence": "陸息駱提婆，詔改姓為穆；陸，太姬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000245",
+    "sentence": "皆以皇后故也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000246",
+    "sentence": "後既以陸為母，提婆為家，更不采輕霄。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000247",
+    "sentence": "輕霄後自療面，欲求見，為太姬陸媼使禁掌之，竟不得見。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000248",
+    "sentence": "馮淑妃名小憐，大穆後從婢也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000249",
+    "sentence": "穆後愛衰，以五月五日進之，號曰「續命」。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000250",
+    "sentence": "慧黠能彈琵琶，工歌舞。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000251",
+    "sentence": "後主惑之，坐則同席，出則並馬，願得生死一處。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000252",
+    "sentence": "命淑妃處隆基堂，淑妃惡曹昭儀所常居也，悉令反換其地。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000253",
+    "sentence": "周師之取平陽，帝獵於三堆，晉州亟告急。",
+    "entities": [
+      {
+        "text": "晉州",
+        "label": "LOC",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000254",
+    "sentence": "帝將還，淑妃請更殺一圍，帝從其言。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000255",
+    "sentence": "識者以為後主名緯，殺圍言非吉征。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000256",
+    "sentence": "及帝至晉州，城已欲沒矣。",
+    "entities": [
+      {
+        "text": "及帝至晉州",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000257",
+    "sentence": "作地道攻之，城陷十餘步，將士乘勢欲入。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000258",
+    "sentence": "帝敕且止，召淑妃共觀之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000259",
+    "sentence": "淑妃妝點，不獲時至。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000260",
+    "sentence": "周人以木拒塞，城遂不下。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000261",
+    "sentence": "舊俗相傳，晉州城西石上有聖人跡，淑妃欲往觀之。",
+    "entities": [
+      {
+        "text": "晉州城",
+        "label": "LOC",
+        "start": 5,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000262",
+    "sentence": "帝恐弩矢及橋，故抽攻城木造遠橋，監作舍人以不速成受罰。",
+    "entities": [
+      {
+        "text": "故抽攻城",
+        "label": "LOC",
+        "start": 7,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000263",
+    "sentence": "帝與淑妃度橋，橋壞，至夜乃還。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000264",
+    "sentence": "稱妃有功勳，將立為左皇后，即令使馳取禕翟等皇后服御。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 21,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000265",
+    "sentence": "仍與之並騎觀戰，東偏少卻，淑妃怖曰：「軍敗矣！」帝遂以淑妃奔還。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000266",
+    "sentence": "至洪洞戍，淑妃方以粉鏡自玩，後聲亂唱賊至，於是復走。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000267",
+    "sentence": "內參自晉陽以皇后衣至，帝為按轡，命淑妃著之，然後去。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000268",
+    "sentence": "帝奔鄴，太后後至，帝不出迎；淑妃將至，鑿城北門出十里迎之。",
+    "entities": [
+      {
+        "text": "鑿城",
+        "label": "LOC",
+        "start": 19,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000269",
+    "sentence": "復以淑妃奔青州。",
+    "entities": [
+      {
+        "text": "復以淑妃奔青州",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000270",
+    "sentence": "後主至長安，請周武帝乞淑妃，帝曰：「朕視天下如脫屣，一老嫗豈與公惜也！」仍以賜之。",
+    "entities": [
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000271",
+    "sentence": "及帝遇害，以淑妃賜代王達，甚嬖之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000272",
+    "sentence": "淑妃彈琵琶，因弦斷，作詩曰：「雖蒙今日寵，猶憶昔時憐。欲知心斷絕，應看膠上弦。」達妃為淑妃所譖，幾致於死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000273",
+    "sentence": "隋文帝將賜達妃兄李詢，令著布裙配舂。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000274",
+    "sentence": "詢母逼令自殺。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000275",
+    "sentence": "後主以李祖欽女為左昭儀，進為左娥英。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000276",
+    "sentence": "裴氏為右娥英。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000277",
+    "sentence": "娥英者，兼取舜妃娥皇、女英名，陽休之所制。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000278",
+    "sentence": "樂人曹僧奴進二女，大者忤旨，剝面皮；少者彈琵琶，為昭儀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000279",
+    "sentence": "以僧奴為日南王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000280",
+    "sentence": "僧奴死後，又貴其兄弟妙達等二人，同日皆為郡王。",
+    "entities": [
+      {
+        "text": "同日皆為郡",
+        "label": "LOC",
+        "start": 16,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000281",
+    "sentence": "為昭儀別起隆基堂，極為綺麗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000282",
+    "sentence": "陸媼誣以左道，遂殺之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000283",
+    "sentence": "又有董昭儀、毛夫人、彭夫人、王夫人、小王夫人、二李夫人，皆嬖寵之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000284",
+    "sentence": "毛能彈箏，本和士開薦入。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000285",
+    "sentence": "帝所幸彭夫人，亦音妓進；死于晉陽，造佛寺，與總持相埒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000286",
+    "sentence": "一李是隸戶女，以五弦進。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000287",
+    "sentence": "一李即孝貞之女也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000288",
+    "sentence": "小王生一，男，諸閹人在傍，皆蒙賜給。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000289",
+    "sentence": "毛兄思安，超登武衛。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000290",
+    "sentence": "董父賢義，為作軍主，由昭儀亦超登開府。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000291",
+    "sentence": "自餘姻屬，多至大官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000292",
+    "sentence": "北朝周",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000293",
+    "sentence": "太祖文皇帝",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000294",
+    "sentence": "周文皇后元氏，魏孝武之妹也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "元氏",
+        "label": "ORG",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000295",
+    "sentence": "初封平原公主，適開府張歡。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000296",
+    "sentence": "歡性貪殘，遇後無禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000297",
+    "sentence": "帝殺歡，改封後為馮翊公主，以配周文帝。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000298",
+    "sentence": "生孝閔帝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000299",
+    "sentence": "魏 大統十七年 ，薨。",
+    "entities": [
+      {
+        "text": "十七年",
+        "label": "TME",
+        "start": 4,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000300",
+    "sentence": "恭帝三年十二月，合葬成陵。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000301",
+    "sentence": "孝閔踐阼，追尊為王后。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000302",
+    "sentence": "武成初，又追尊為皇后。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000303",
+    "sentence": "文宣皇后叱奴氏，代人也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000304",
+    "sentence": "周文帝為丞相，納為姬，生武帝。",
+    "entities": [
+      {
+        "text": "丞相",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000305",
+    "sentence": "天和二年 六月，尊為皇太后。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000306",
+    "sentence": "建德三年 三月，崩。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000307",
+    "sentence": "五月，葬永固陵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000308",
+    "sentence": "孝閔元皇后",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000309",
+    "sentence": "孝閔皇后元氏，名胡摩，魏文帝第五女也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "元氏",
+        "label": "ORG",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000310",
+    "sentence": "初封晉安公主。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000311",
+    "sentence": "帝之為略陽公也，尚焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000312",
+    "sentence": "及踐阼，立為王后；帝被廢，後出俗為尼。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000313",
+    "sentence": "建德初，武帝誅晉公護，上帝尊號，以後為孝閔皇后，居崇義宮。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 21,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000314",
+    "sentence": "隋革命，後出居裏第。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000315",
+    "sentence": "大業十二年 ，殂。",
+    "entities": [
+      {
+        "text": "大業十二年",
+        "label": "TME",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000316",
+    "sentence": "世宗明敬皇后",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000317",
+    "sentence": "明敬皇后獨孤氏，太保、衛公信之長女也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000318",
+    "sentence": "帝之在籓，納為夫人。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000319",
+    "sentence": "二年正月，立為王后。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000320",
+    "sentence": "四月，崩，葬昭陵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000321",
+    "sentence": "武成初，追崇為皇后。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 7,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000322",
+    "sentence": "明帝崩，與後合葬焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000323",
+    "sentence": "高祖武皇帝",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000324",
+    "sentence": "武成皇后阿史那氏，突厥木杆可汗俟斤之女也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000325",
+    "sentence": "突厥滅蠕蠕後，盡有塞表之地，志陵中夏。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000326",
+    "sentence": "周文方與齊人爭衡。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000327",
+    "sentence": "結以為援。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000328",
+    "sentence": "俟斤初欲以女配帝，既而悔之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000329",
+    "sentence": "武帝即位，前後累遣使焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000330",
+    "sentence": "保定五年 二月，詔陳公純。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000331",
+    "sentence": "許公于文貴、神武公竇毅、南安公楊薦等，備皇后文物及行殿，並六宮以下一百二十人，至俟斤牙所迎後。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 20,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000332",
+    "sentence": "俟斤又許齊婚，將有異志，純等累請，不得反命。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000333",
+    "sentence": "會雷風大起，飄壞其穹廬，俟斤大懼，以為天譴，乃禮送後，純等奉之以歸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000334",
+    "sentence": "天和三年 三月至，武帝接以親迎之禮。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000335",
+    "sentence": "後有姿貌，善容止，帝深敬禮焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000336",
+    "sentence": "宣帝即位，尊後為皇太后。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000337",
+    "sentence": "大象元年 二月，改為天元皇太后。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000338",
+    "sentence": "二年二月，又尊曰天元上皇太后。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000339",
+    "sentence": "宣帝崩，靜帝尊為太皇太后。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000340",
+    "sentence": "隋 開皇二年 ，殂，年三十二。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000341",
+    "sentence": "隋文詔有司備禮，祔葬後於孝陵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000342",
+    "sentence": "李皇后",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 1,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000343",
+    "sentence": "武皇后李氏，名娥姿，楚人也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 1,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000344",
+    "sentence": "于謹平江陵，後家被籍沒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000345",
+    "sentence": "至長安，周文以後賜武帝。",
+    "entities": [
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 1,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000346",
+    "sentence": "後得親幸，生宣帝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000347",
+    "sentence": "宣政元年 七月，尊為帝太后。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000348",
+    "sentence": "大象元年 二月，改為天元帝太后。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000349",
+    "sentence": "七月，又尊為天皇太后。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000350",
+    "sentence": "二年二月，尊為天元聖皇太后。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000351",
+    "sentence": "宣帝崩，靜帝尊為大帝太后。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000352",
+    "sentence": "隋 開皇元年 三月，出俗為尼，改名常悲。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000353",
+    "sentence": "八年，殂，以尼禮葬于京城南。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "以尼禮葬于京城",
+        "label": "LOC",
+        "start": 5,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000354",
+    "sentence": "宣皇帝",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 1,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000355",
+    "sentence": "宣皇后楊氏名麗華，隋文帝之長女也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 1,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000356",
+    "sentence": "帝在東宮，武帝為帝納後為皇太子妃。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000357",
+    "sentence": "宣政元年 閏六月，並為皇后。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000358",
+    "sentence": "帝后自稱天元皇帝，號後為天元皇后。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000359",
+    "sentence": "尋又立天皇后及左右皇后，與為四皇后。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 15,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000360",
+    "sentence": "二年二月，詔取象四星，於是後及三皇后並加大焉。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 16,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000361",
+    "sentence": "冊授後為天元大皇后，又立天中大皇后，與後為五皇后焉。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 15,
+        "end": 17
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 22,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000362",
+    "sentence": "后性柔婉，不妒忌，四皇后及嬪御等咸愛而仰之。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000363",
+    "sentence": "帝後昏暴滋甚，喜怒乖度。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000364",
+    "sentence": "嘗譴後，欲加之罪，後進止詳閑，辭色不撓。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000365",
+    "sentence": "帝大怒，遂賜後死，逼令自引決。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000366",
+    "sentence": "後母獨孤氏聞之，詣閣陳謝，叩頭流血，然後得免。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000367",
+    "sentence": "帝崩，靜帝尊後為皇太后，居弘聖宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000368",
+    "sentence": "初，宣帝不豫，詔隋文帝入禁中侍疾。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000369",
+    "sentence": "及大漸，劉昉、鄭譯等因矯詔以隋文帝受遺輔政。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000370",
+    "sentence": "後初雖不預謀，然以嗣主幼沖，恐權在他族，不利於己，聞昉、譯已行此詔，心甚悅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000371",
+    "sentence": "後知隋文有異圖，意頗不平。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000372",
+    "sentence": "及行禪代，憤惋愈甚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000373",
+    "sentence": "隋文內甚愧之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000374",
+    "sentence": "開皇初，封後為樂平公主。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000375",
+    "sentence": "後又議奪其志，後誓不許，乃止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000376",
+    "sentence": "大業五年 ，從煬帝幸張掖，殂於河西。",
+    "entities": [
+      {
+        "text": "大業五年",
+        "label": "TME",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000377",
+    "sentence": "詔還京，所司備禮，祔葬後於定陵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000378",
+    "sentence": "宣帝后朱氏，名滿月，吳人也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000379",
+    "sentence": "其家坐事，沒入東宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000380",
+    "sentence": "宣帝之為太子，後被選掌衣服，帝召幸之，遂生靜帝。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000381",
+    "sentence": "大象元年 四月，立為天元帝后。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000382",
+    "sentence": "七月，改為天皇后。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000383",
+    "sentence": "二年二月，又改為天大皇后。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000384",
+    "sentence": "後本非良家子，又年長於帝十餘歲，疏賤無寵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000385",
+    "sentence": "以靜帝故，特尊崇之，班亞楊皇后焉。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000386",
+    "sentence": "宣帝崩，靜帝尊後為帝太后。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000387",
+    "sentence": "隋 開皇元年 二月，出俗為尼，改名法靜。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000388",
+    "sentence": "六年，殂，以尼禮葬於京城西。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "以尼禮葬於京城",
+        "label": "LOC",
+        "start": 5,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000389",
+    "sentence": "宣帝后陳氏，名月儀，自雲潁川人，大將軍山提之第八女也。",
+    "entities": [
+      {
+        "text": "陳氏",
+        "label": "ORG",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 16,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000390",
+    "sentence": "大象元年 六月，以選入宮，拜為德妃。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000391",
+    "sentence": "月餘日，立為天左皇后。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000392",
+    "sentence": "二年二月，改為天左大皇后。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000393",
+    "sentence": "三月，又詔以坤儀比德，土數惟五，四大皇后外，增置天中大皇后一人。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 18,
+        "end": 20
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 27,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000394",
+    "sentence": "於是以後為天中大皇后。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000395",
+    "sentence": "帝崩，後出俗為尼，改名華光。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000396",
+    "sentence": "後永徽初終。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000397",
+    "sentence": "父山提，本爾硃兆之隸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000398",
+    "sentence": "仕齊，位特進、開府、東兗州刺史、謝陽王。",
+    "entities": [
+      {
+        "text": "東兗州",
+        "label": "LOC",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000399",
+    "sentence": "武帝平齊，拜大將軍，封淅陽公。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 6,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000400",
+    "sentence": "大象元年，以後父超授上柱國，進鄅國公，除大宗伯。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000401",
+    "sentence": "宣帝皇后元氏，名樂尚，河南洛陽人，開府晟之第二女也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "元氏",
+        "label": "ORG",
+        "start": 4,
+        "end": 6
+      },
+      {
+        "text": "洛陽",
+        "label": "LOC",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000402",
+    "sentence": "年十五，被選入宮，拜貴妃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000403",
+    "sentence": "大象元年 七月，立為天右皇后。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 12,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000404",
+    "sentence": "二年二月，改為天右大皇后。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000405",
+    "sentence": "帝崩，後出家為尼，改名華勝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000406",
+    "sentence": "初，後與陳皇后同時被選入宮，俱拜為妃；及升後，又同日受冊。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000407",
+    "sentence": "帝寵遇二後，禮數均等，年齒復同，特相親愛。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000408",
+    "sentence": "及為尼後，李、硃及尉遲後並相繼殞歿，而二後貞觀中尚存。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000409",
+    "sentence": "後父晟，少以元氏宗室，拜開府。",
+    "entities": [
+      {
+        "text": "元氏",
+        "label": "ORG",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000410",
+    "sentence": "大象元年七月，以後父進位上柱國，封翼國公。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000411",
+    "sentence": "宣帝皇后尉遲氏名繁熾，蜀公迥之孫女也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000412",
+    "sentence": "有美色。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000413",
+    "sentence": "初適杞公亮子西陽公溫，以宗婦例入朝，帝逼幸之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000414",
+    "sentence": "及亮謀逆，帝誅溫，追後入宮，拜長貴妃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000415",
+    "sentence": "大象二年 三月，立為天左大皇后。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000416",
+    "sentence": "帝崩，後出俗為尼，改名華道。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000417",
+    "sentence": "隋 開皇十五年 ，殂。",
+    "entities": [
+      {
+        "text": "十五年",
+        "label": "TME",
+        "start": 4,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000418",
+    "sentence": "靜帝司馬皇后",
+    "entities": [
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000419",
+    "sentence": "靜帝司馬皇后名令姬，柱國、滎陽公消難之女也。",
+    "entities": [
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000420",
+    "sentence": "大象元年 二月，宣帝傳位於帝，七月為帝納後為皇后。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 22,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000421",
+    "sentence": "二年九月，隋文帝以後父奔陳，廢後為庶人。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000422",
+    "sentence": "後嫁為隋司州刺史李丹妻，貞觀初猶存。",
+    "entities": [
+      {
+        "text": "後嫁為隋司州",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000423",
+    "sentence": "隋朝",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000424",
+    "sentence": "文獻皇后",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000425",
+    "sentence": "隋文獻皇后獨孤氏，諱伽羅，河南洛陽人，周大司馬、衛公信之女也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "洛陽",
+        "label": "LOC",
+        "start": 15,
+        "end": 17
+      },
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 21,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000426",
+    "sentence": "信見文帝有奇表，故以後妻焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000427",
+    "sentence": "時年十四。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000428",
+    "sentence": "帝與後相得，誓無異生之子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000429",
+    "sentence": "後姊為周明帝后，長女為周宣帝后；貴戚之盛，莫與為比，而後每謙卑自守。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000430",
+    "sentence": "及周宣帝崩，隋文居禁中，總百揆。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000431",
+    "sentence": "後使李圓通謂文帝曰：「騎獸之勢，必不得下，勉之！」及帝受禪，立為皇后。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 32,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000432",
+    "sentence": "突厥嘗與中國交市，有明珠一篋，價直八百萬；幽州總管陰壽白後市之。",
+    "entities": [
+      {
+        "text": "幽州",
+        "label": "LOC",
+        "start": 21,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000433",
+    "sentence": "後曰：「當今戎狄屢寇，將士罷勞，未若以八百萬分賞有功者。」百寮聞而畢賀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000434",
+    "sentence": "文帝甚寵憚之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000435",
+    "sentence": "帝每臨朝，後輒與上方輦而進，至閣乃止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000436",
+    "sentence": "使宮官伺帝，政有所失，隨則匡諫，多所弘益。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000437",
+    "sentence": "候帝退朝而同反宴寢，相顧欣然。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000438",
+    "sentence": "後早失二親，常懷感慕，見公卿有父母者，每為致禮焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000439",
+    "sentence": "有司奏曰：「《 周禮 》，百官之妻，命于王后。憲章在昔，請依古制。」後曰：「以婦人與政，或從此漸，不可開其源也。」不許。",
+    "entities": [
+      {
+        "text": "《 周禮 》",
+        "label": "TITLE",
+        "start": 6,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000440",
+    "sentence": "後每謂諸公主曰：「周家公主類無婦德，失禮于舅姑，離薄人骨肉，此不順事，爾等當誡之。」後姑子都督崔長仁犯法當斬，文帝以後故免之。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      },
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000441",
+    "sentence": "後曰：「國家之事，焉可顧私！」長仁竟坐死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000442",
+    "sentence": "異母弟陀以貓鬼巫蠱咒詛於後，坐當死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000443",
+    "sentence": "後三日不食，為之請命曰：「陀若蠹政害民者，不敢言。今坐為妾身，請其命。」陀於是減死一等。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000444",
+    "sentence": "後雅性儉約。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000445",
+    "sentence": "帝常合止利藥，須胡粉一兩，宮內不用，求之竟不得。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000446",
+    "sentence": "又欲賜柱國劉嵩妻織成衣領，宮內亦無。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000447",
+    "sentence": "上以後不好華麗，時齊七寶車及鏡臺絕巧麗，使毀車而以鏡臺賜後。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000448",
+    "sentence": "後雅好讀書，識達今古，凡言事皆與上意合，宮中稱為二聖。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000449",
+    "sentence": "嘗夢周阿史那後，言受罪辛苦，求營功德。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000450",
+    "sentence": "明日言之，上為立寺追福焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000451",
+    "sentence": "後兄女，夫死於并州，後嫂以女有娠，請不赴葬。",
+    "entities": [
+      {
+        "text": "夫死於并州",
+        "label": "LOC",
+        "start": 4,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000452",
+    "sentence": "後曰：「婦人事夫，何容不往！其姑在，宜自諮之。」姑不許，女遂行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000453",
+    "sentence": "後頗仁愛，每聞大理決囚，未嘗不流涕。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000454",
+    "sentence": "然性尤妒忌，後宮莫敢進禦。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000455",
+    "sentence": "尉遲迥女孫有美色，先在宮中，帝于仁壽宮見而悅之，因得幸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000456",
+    "sentence": "後伺帝聽朝，陰殺之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000457",
+    "sentence": "上大怒，單騎從苑中出，不由徑路，入山谷間三十餘里。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000458",
+    "sentence": "高熲、楊素等追及，扣馬諫。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000459",
+    "sentence": "帝太息曰：「吾貴為天子，不得自由！」高熲曰：「陛下豈以一婦人而輕天下？」帝意少解，駐馬良久，夜方還宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000460",
+    "sentence": "後候上於閣內，及帝至，流涕拜謝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000461",
+    "sentence": "熲、素等和解之，上置酒極歡。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000462",
+    "sentence": "後自此意頗折。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000463",
+    "sentence": "初，後以高熲是父之家客，甚見親禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000464",
+    "sentence": "至是，聞熲謂己為一婦人，因以銜恨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000465",
+    "sentence": "又以熲夫人死，其妾生男，益不善之，漸加譖毀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000466",
+    "sentence": "帝亦每事唯後言是用。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000467",
+    "sentence": "後見諸王及朝士有妾孕者，必勸帝斥之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000468",
+    "sentence": "時皇太子多內寵，妃元氏暴薨，後意太子愛妾雲氏害之。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "元氏",
+        "label": "ORG",
+        "start": 9,
+        "end": 11
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 16,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000469",
+    "sentence": "由是諷帝，黜高熲，竟廢太子立晉王廣，皆後之謀也。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000470",
+    "sentence": "仁壽二年 八月甲子，日暈四重。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000471",
+    "sentence": "己巳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000472",
+    "sentence": "太白犯軒轅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000473",
+    "sentence": "其夜，後崩于永安宮，時年五十九，葬於太陵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000474",
+    "sentence": "其後宣華夫人陳氏、容華夫人蔡氏俱有寵，帝頗惑之，由是發疾。",
+    "entities": [
+      {
+        "text": "陳氏",
+        "label": "ORG",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000475",
+    "sentence": "及危篤，謂侍者曰「使皇后在，吾不及此」云。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000476",
+    "sentence": "宣華陳夫人",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000477",
+    "sentence": "宣華夫人陳氏，陳宣帝女也。",
+    "entities": [
+      {
+        "text": "陳氏",
+        "label": "ORG",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000478",
+    "sentence": "性聰慧，姿貌無雙。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000479",
+    "sentence": "及陳滅，配掖庭，後選入宮為嬪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000480",
+    "sentence": "時獨孤皇后性妒，後宮罕得進禦，唯陳氏有寵。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "陳氏",
+        "label": "ORG",
+        "start": 16,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000481",
+    "sentence": "煬帝之在籓也，陰有奪宗之計，規為內助，每致禮焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000482",
+    "sentence": "進金蛇、金駝等物，以取媚于陳氏。",
+    "entities": [
+      {
+        "text": "陳氏",
+        "label": "ORG",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000483",
+    "sentence": "皇太子廢立之際，頗有力焉。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 1,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000484",
+    "sentence": "及文獻皇后崩，進位為貴人。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000485",
+    "sentence": "專房擅寵，主斷內事，六宮莫與為比。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000486",
+    "sentence": "及帝大漸，遺詔拜為宣華夫人。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000487",
+    "sentence": "初，帝寢疾于仁壽宮，夫人與皇太子同侍疾。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000488",
+    "sentence": "平旦更衣，為太子所逼，夫人拒之得免。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000489",
+    "sentence": "歸於上所，上怪其神色有異，問之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000490",
+    "sentence": "夫人泣以實對。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000491",
+    "sentence": "帝恚曰：「畜生何堪付大事，獨孤誠誤我！」意謂獻皇后也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 23,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000492",
+    "sentence": "因呼兵部尚書柳述、黃門侍郎元岩曰：「呼我兒！」述等呼太子。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      },
+      {
+        "text": "侍郎",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 26,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000493",
+    "sentence": "帝曰：「勇也。」述、岩出閣為敕書訖，示左僕射楊素。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000494",
+    "sentence": "素以白太子，太子遣張衡入寢殿，遂令夫人及後宮同侍疾者並就別室。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000495",
+    "sentence": "俄聞上崩，而未發喪也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000496",
+    "sentence": "夫人與諸後宮相顧曰：「事變矣！」皆色動股粟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000497",
+    "sentence": "晡後，太子遣使者齎金合，帖紙於際，親署封字，以賜夫人。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000498",
+    "sentence": "夫人見，怕懼，以為鴆毒，不敢發。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000499",
+    "sentence": "使者促之，乃發，見合中有同心結數枚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000500",
+    "sentence": "諸宮人相謂曰：「得免死矣！」陳氏恚而卻坐，不肯致謝。",
+    "entities": [
+      {
+        "text": "陳氏",
+        "label": "ORG",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000501",
+    "sentence": "諸宮人共逼之，乃拜使者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000502",
+    "sentence": "其夜，太子蒸焉。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000503",
+    "sentence": "煬帝即位，出居仙都宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000504",
+    "sentence": "尋召入，歲餘而終，時年二十九。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000505",
+    "sentence": "帝深悼之，為制《神傷賦》。",
+    "entities": [
+      {
+        "text": "《神傷賦》",
+        "label": "TITLE",
+        "start": 7,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000506",
+    "sentence": "容華蔡夫人",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000507",
+    "sentence": "容華夫人蔡氏，丹陽人也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000508",
+    "sentence": "陳滅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000509",
+    "sentence": "以選入宮，為世婦。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000510",
+    "sentence": "容儀婉嬈，帝甚悅之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000511",
+    "sentence": "以文獻後故，希得進幸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000512",
+    "sentence": "後崩後，漸見寵遇，拜為貴人，參斷宮掖，亞于陳氏。",
+    "entities": [
+      {
+        "text": "陳氏",
+        "label": "ORG",
+        "start": 21,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000513",
+    "sentence": "帝寢疾，加號容華夫人。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000514",
+    "sentence": "帝崩後，亦為煬帝所蒸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000515",
+    "sentence": "湣皇后",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 1,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000516",
+    "sentence": "煬帝湣皇后蕭氏，梁明帝巋之女也。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000517",
+    "sentence": "江南風俗，二月生子者不舉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000518",
+    "sentence": "後以二月生，由是季父岌收養之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000519",
+    "sentence": "未歲，岌夫妻俱死，轉養舅張軻家。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000520",
+    "sentence": "軻甚貧窶，後躬親勞苦。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000521",
+    "sentence": "煬帝為晉王，文帝為選妃于梁，卜諸女皆不吉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000522",
+    "sentence": "巋乃迎後於舅氏，令使者占之，曰：「吉。」遂冊為妃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000523",
+    "sentence": "后性婉順，有智識，好學解屬文，頗知占候，文帝大善之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000524",
+    "sentence": "煬帝甚寵敬焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000525",
+    "sentence": "及帝嗣位，立為皇后。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 7,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000526",
+    "sentence": "帝每遊幸，未嘗不隨從。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000527",
+    "sentence": "時後見帝失德，心知不可，不敢措言，因為《述志賦》以自寄焉。",
+    "entities": [
+      {
+        "text": "《述志賦》",
+        "label": "TITLE",
+        "start": 19,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000528",
+    "sentence": "其詞曰：",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000529",
+    "sentence": "承積善之余慶，備箕帚於皇庭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000530",
+    "sentence": "恐修名之不立，將負累於先靈。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000531",
+    "sentence": "乃夙夜而匪懈，實夤懼于玄冥。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000532",
+    "sentence": "雖自強而不息，亮愚蒙之多滯。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000533",
+    "sentence": "思竭節於天衢，才追心而弗逮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000534",
+    "sentence": "實庸薄之多幸，荷隆寵之嘉惠。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000535",
+    "sentence": "賴天高而地厚，屬王道之升平。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000536",
+    "sentence": "均二儀之覆載，與日月而齊明。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000537",
+    "sentence": "乃春生而夏長，等品物而同榮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000538",
+    "sentence": "願立志於恭儉，私自兢於誡盈。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000539",
+    "sentence": "孰有念于知足，苟無希於濫名。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000540",
+    "sentence": "惟至德之弘深，情弗邇於聲色。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000541",
+    "sentence": "感懷舊之餘恩，求故劍於宸極。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000542",
+    "sentence": "叨不世之殊眄，謬非才而奉職。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000543",
+    "sentence": "何寵祿之逾分，撫胸襟而未識。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000544",
+    "sentence": "雖沐浴於恩光，內慚惶而累息。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000545",
+    "sentence": "顧微躬之寡昧，思令淑之良難。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000546",
+    "sentence": "實不遑於啟處，將有情而自安！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000547",
+    "sentence": "若臨深而履薄，心戰粟其如寒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000548",
+    "sentence": "夫居高而必危，每處滿而防溢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000549",
+    "sentence": "知恣誇之非道，乃攝生於沖謐。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000550",
+    "sentence": "嗟寵辱之易驚，尚無為而抱一。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000551",
+    "sentence": "履謙光而守志，且願守乎容膝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000552",
+    "sentence": "珠簾玉箔之奇，金屋瑤台之美；雖時俗之崇麗，蓋哲人之所鄙。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000553",
+    "sentence": "愧絺綌之不工，豈絲竹而喧耳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000554",
+    "sentence": "知道德之可尊，明善惡之由己。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000555",
+    "sentence": "蕩囂煩之俗慮，乃伏膺于經史。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000556",
+    "sentence": "綜箴誡以訓心，觀女圖而作軌。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000557",
+    "sentence": "遵古賢之令范，冀福祿之能綏。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000558",
+    "sentence": "時循躬而三省，覺今是而昨非。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000559",
+    "sentence": "嗤黃、老之損思，信為善之可歸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000560",
+    "sentence": "慕周姒之遺風，美虞妃之聖則。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000561",
+    "sentence": "仰先哲之高才，慕至人之休德。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000562",
+    "sentence": "質非薄而難蹤，心恬愉而去惑。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000563",
+    "sentence": "乃平生之耿介，實禮義之所遵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000564",
+    "sentence": "雖生知之不敏，庶積行以成仁。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000565",
+    "sentence": "懼達人之蓋寡，謂何求而自陳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000566",
+    "sentence": "誠素志之難寫，同絕筆於獲麟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000567",
+    "sentence": "及帝幸江都，臣下離貳，有宮人白後曰：「外聞人人欲反。」後曰：「任汝奏之。」宮人言於帝，帝大怒曰：「非汝宜言！」乃斬之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000568",
+    "sentence": "後宮人復白後曰：「宿衛者往往偶語謀反。」後曰：「天下事一朝至此，勢去已然，無可救也。何用言，徒令帝憂煩耳！」自是無復言者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000569",
+    "sentence": "及宇文化及之亂，隨軍至聊城。",
+    "entities": [
+      {
+        "text": "隨軍至聊城",
+        "label": "LOC",
+        "start": 8,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000570",
+    "sentence": "化及敗，沒于竇建德。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000571",
+    "sentence": "建德妻曹氏妒悍，煬帝妃嬪美人並使出家，並後置於武強縣。",
+    "entities": [
+      {
+        "text": "並後置於武強縣",
+        "label": "LOC",
+        "start": 19,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000572",
+    "sentence": "是時突厥處羅可汗方盛，其可賀敦即隋義城公主也，遣使迎後。",
+    "entities": [
+      {
+        "text": "可賀敦即隋義城",
+        "label": "LOC",
+        "start": 12,
+        "end": 19
+      },
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 19,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000573",
+    "sentence": "建德不敢留，遂攜其孫正道及諸女入於虜庭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000574",
+    "sentence": "大唐 貞觀四年 ，破突厥，皆以禮致之。",
+    "entities": [
+      {
+        "text": "貞觀四年",
+        "label": "TME",
+        "start": 3,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000575",
+    "sentence": "歸於京師，賜宅於興道里。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000576",
+    "sentence": "二十一年，殂。",
+    "entities": [
+      {
+        "text": "二十一年",
+        "label": "TME",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000577",
+    "sentence": "詔以皇后禮于揚州合葬於煬帝陵，諡曰湣。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000578",
+    "sentence": "史論",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000579",
+    "sentence": "論曰：男女正位，人倫大綱。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000580",
+    "sentence": "三代已還，逮于漢、晉，何嘗不敗於嬌詖而興於聖淑。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000581",
+    "sentence": "至如後稷稟靈巨跡，神元生自天女，克昌來葉，異世同符。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000582",
+    "sentence": "魏諸後婦人之識，無足論者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000583",
+    "sentence": "文明邪險，幸不墜國。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000584",
+    "sentence": "靈後淫恣，卒亡天下。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000585",
+    "sentence": "傾城之誡，其在茲乎。",
+    "entities": [
+      {
+        "text": "傾城",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000586",
+    "sentence": "乙後迫於畏逼，有足傷矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000587",
+    "sentence": "昔鉤弋年少子幼，漢武所以行權，魏世遂為常制，子貴而其母必死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000588",
+    "sentence": "矯枉之義，不亦過乎！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000589",
+    "sentence": "孝文終革其失，良有以也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000590",
+    "sentence": "神武肇興齊業，武明追蹤周亂。",
+    "entities": [
+      {
+        "text": "齊",
+        "label": "ORG",
+        "start": 4,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000591",
+    "sentence": "溫公之敗邦家，馮妃比跡褒後。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000592",
+    "sentence": "然則汙隆之義，蓋有系焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000593",
+    "sentence": "其餘作孽為眚，外平內蠹，鑒之近代，于齊為甚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000594",
+    "sentence": "周氏粵自文皇，逮乎武帝，年逾二紀，世曆四君。",
+    "entities": [
+      {
+        "text": "周氏",
+        "label": "ORG",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_014_000595",
+    "sentence": "業非草昧之辰，事殊權宜之日。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000596",
+    "sentence": "乃棄同即異，以夷亂華。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000597",
+    "sentence": "汨婚姻之彝序，求豺狼之外利。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000598",
+    "sentence": "既而報者倦矣，施者無厭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000599",
+    "sentence": "向之所謂和親，未幾已成仇敵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000600",
+    "sentence": "奇正之道，有異於斯。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000601",
+    "sentence": "于時武皇雖受制於人，未親庶政，而謀士韞奇，直臣鉗口，過矣哉！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000602",
+    "sentence": "而曆觀前載，以外戚而居宰輔者多矣；而傾漢室者王族，喪周家者楊氏，何滅亡之禍，若合契焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000603",
+    "sentence": "隋文取鑒於已遠，大革前失，故母后之家不罹禍故。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000604",
+    "sentence": "獨孤權無呂、霍，獲全仁壽之前；蕭氏勢異梁、竇，不傾大業之後。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000605",
+    "sentence": "至或不隕舊基，或更隆克構，豈非處之以道，其所致然乎？",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_014_000606",
+    "sentence": "本唐朝作品在全世界都属于 公有领域 ，因为作者逝世已经遠遠超过100年。",
+    "entities": [
+      {
+        "text": "100年",
+        "label": "TME",
+        "start": 31,
+        "end": 35
+      }
+    ]
+  }
+]

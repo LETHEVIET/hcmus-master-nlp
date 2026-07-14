@@ -1,0 +1,1017 @@
+[
+  {
+    "sentence_id": "HCH_007_012_000001",
+    "sentence": "◎宗室",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000002",
+    "sentence": "廣王全昱，太祖長兄，受禪後封。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000003",
+    "sentence": "乾化元年 ，還睢陽，命內臣拜餞都外。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000004",
+    "sentence": "王出宿至於偃師，仍詔其子衡王友諒侍從以歸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000005",
+    "sentence": "庶人篡位，授宋州節度使。",
+    "entities": [
+      {
+        "text": "授宋州",
+        "label": "LOC",
+        "start": 5,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000006",
+    "sentence": "貞明二年 ，卒。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000007",
+    "sentence": "〈 （《 五代會要 》：全昱，贈尚書令，諡德靖。《 五代史闕文 》：全昱，梁祖之兄也。既受禪，宮中開宴，惟親王得與。因為博戲，全昱酒酣，忽起取骰子擊盆迸散，大呼梁祖曰：「朱三，汝碭山一民，因天下饑荒，入黃巢作賊，天子用汝為四鎮節度使，富貴足矣，何故滅他李家三百年社稷，稱王稱朕，吾不忍見血吾族矣，安用博為！」梁祖不悅而罷。臣護按《梁史》《廣王全昱傳》曰：昱樸野，常呼帝為「三」。宮中博戲之事諱之。夫梁祖弑二君，弑一皇后，名臣被害者不可勝紀。及莊宗即位，盡誅朱氏，惟全昱先令終。至道初，知單州有稱廣王之後與尼訟田者，豈以一言之善，獨存其嗣耶！） 〉",
+    "entities": [
+      {
+        "text": "《 五代會要 》",
+        "label": "TITLE",
+        "start": 3,
+        "end": 11
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 16,
+        "end": 18
+      },
+      {
+        "text": "《 五代史闕文 》",
+        "label": "TITLE",
+        "start": 24,
+        "end": 33
+      },
+      {
+        "text": "天子用汝為四鎮",
+        "label": "LOC",
+        "start": 106,
+        "end": 113
+      },
+      {
+        "text": "三百年",
+        "label": "TME",
+        "start": 128,
+        "end": 131
+      },
+      {
+        "text": "《梁史》",
+        "label": "TITLE",
+        "start": 164,
+        "end": 168
+      },
+      {
+        "text": "《廣王全昱傳》",
+        "label": "TITLE",
+        "start": 168,
+        "end": 175
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 207,
+        "end": 209
+      },
+      {
+        "text": "知單州",
+        "label": "LOC",
+        "start": 242,
+        "end": 245
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000008",
+    "sentence": "友諒，全昱子，初封衡王，後嗣廣王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000009",
+    "sentence": "繼曆藩郡，多行不法。",
+    "entities": [
+      {
+        "text": "繼曆藩郡",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000010",
+    "sentence": "坐弟友能反，廢囚京師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000011",
+    "sentence": "唐師入汴，與友能、友誨同日遇害。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000012",
+    "sentence": "友能，全昱子，封惠王，後為宋、滑二州留後。",
+    "entities": [
+      {
+        "text": "滑二州",
+        "label": "LOC",
+        "start": 15,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000013",
+    "sentence": "〈 （案：友能後以叛廢，詳見《末帝紀》。又，《 通鑒 》云： 龍德元年 夏四月，陳州刺史惠王友能反，舉兵趨大梁。詔陝州留後霍彥威、宣義節度使王彥章、控鶴指揮使張漢傑將兵討之。友能至陳留，兵敗，走還陳州，諸軍圍之。秋七月，惠王友能降。庚子，詔赦其死，降封房陵侯。） 〉",
+    "entities": [
+      {
+        "text": "《末帝紀》",
+        "label": "TITLE",
+        "start": 14,
+        "end": 19
+      },
+      {
+        "text": "《 通鑒 》",
+        "label": "TITLE",
+        "start": 22,
+        "end": 28
+      },
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 33,
+        "end": 35
+      },
+      {
+        "text": "陳州",
+        "label": "LOC",
+        "start": 40,
+        "end": 42
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 42,
+        "end": 44
+      },
+      {
+        "text": "詔陝州",
+        "label": "LOC",
+        "start": 56,
+        "end": 59
+      },
+      {
+        "text": "走還陳州",
+        "label": "LOC",
+        "start": 96,
+        "end": 100
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000014",
+    "sentence": "友誨，全昱子，封邵王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000015",
+    "sentence": "乾化元年，以檢校兵部尚書充控鶴指揮使。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000016",
+    "sentence": "坐友能反廢，後為唐兵所殺。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000017",
+    "sentence": "安王友寧，字安仁，少習詩禮，長喜兵法，有倜儻之風。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000018",
+    "sentence": "太祖鎮汴，累署軍職，每因出師，多命統驍果以從。",
+    "entities": [
+      {
+        "text": "太祖鎮",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000019",
+    "sentence": "及擒秦宗權，太祖令友寧監送宗權西獻於長安，詔加檢校右散騎常侍、行右監門衛將軍。",
+    "entities": [
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 18,
+        "end": 20
+      },
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 36,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000020",
+    "sentence": "自是繼立軍功，累官至檢校司空兼龔、柳二州刺史。",
+    "entities": [
+      {
+        "text": "柳二州",
+        "label": "LOC",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 20,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000021",
+    "sentence": "太祖駐軍岐下，遣友寧領所部兵先歸梁苑，以備守禦。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000022",
+    "sentence": "屬青帥王師範構亂，以關東諸鎮兵悉在岐、隴，欲乘虛竊發，自齊、魯至於華下，羅布奸黨，皆詐以委輸貢奉為名，陰與淮夷、並門結好。",
+    "entities": [
+      {
+        "text": "以關東諸鎮",
+        "label": "LOC",
+        "start": 9,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000023",
+    "sentence": "會有青人詣裴迪言其狀，迪以事告，友寧不俟命乃率兵萬餘人東討。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000024",
+    "sentence": "師範遣其弟將兵圍齊州。",
+    "entities": [
+      {
+        "text": "其弟將兵圍齊州",
+        "label": "LOC",
+        "start": 3,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000025",
+    "sentence": "友寧引兵救之，青寇大敗，奪馬四千蹄，斬首數千級。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000026",
+    "sentence": "及昭宗歸長安，朝廷議迎駕功，友寧授嶺南西道節度使，加特進、檢校司徒，賜號迎鑾毅勇功臣。",
+    "entities": [
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000027",
+    "sentence": "時青寇數千，越險潛伏，欲入兗州。",
+    "entities": [
+      {
+        "text": "欲入兗州",
+        "label": "LOC",
+        "start": 11,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000028",
+    "sentence": "友寧知之，伏兵於兗南邀之，大破賊眾，竟無免者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000029",
+    "sentence": "自是兗壁危窘，友寧督諸軍進逼營兵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000030",
+    "sentence": "首攻博昌縣，月餘未能拔。",
+    "entities": [
+      {
+        "text": "首攻博昌縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000031",
+    "sentence": "太祖怒，遣劉捍督戰。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000032",
+    "sentence": "友寧乃下俘民眾十餘萬，各領負木石、牽牛驢，於城南為土山。",
+    "entities": [
+      {
+        "text": "於城",
+        "label": "LOC",
+        "start": 21,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000033",
+    "sentence": "既至，合人畜木石排而築之，冤枉之聲，聞數十里。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000034",
+    "sentence": "俄而城陷，盡屠其邑人，清河為之不流。",
+    "entities": [
+      {
+        "text": "俄而城",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "盡屠其邑",
+        "label": "LOC",
+        "start": 5,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000035",
+    "sentence": "及進迫寇壘，與青人戰於石樓，王師小卻，友寧旁自峻阜馳騎以赴敵，所乘馬蹶而仆，遂沒於陣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000036",
+    "sentence": "友寧將戰之前日，有大白蛇蟠於帳中，友寧心惡之，既而果遇禍焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000037",
+    "sentence": "密王友倫，幼聰悟，喜筆劄，曉聲律。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000038",
+    "sentence": "及長，好騎射，有經度之智，太祖每奇之，曰：「吾家千里駒也。」年十九，為宣武軍校。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000039",
+    "sentence": "景福初，充元從騎軍都將，尋表為右武衛將軍，漸委戎事。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 18,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000040",
+    "sentence": "太祖征兗、鄆，友倫勒所部兵收聚糧穀，以濟軍須。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000041",
+    "sentence": "幽、滄軍至內黃，友倫前鋒夜渡河擊賊，奪馬千匹，擒斬甚眾。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000042",
+    "sentence": "因引兵往八議關，卒逢晉軍萬餘騎，友倫乃分布兵士，多設疑軍。",
+    "entities": [
+      {
+        "text": "因引兵往八議關",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000043",
+    "sentence": "因聲鼓誓眾，士伍奮躍，追斬數十里。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000044",
+    "sentence": "其後，李罕之請以上黨來歸，為晉軍所圍。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000045",
+    "sentence": "太祖遣友倫總步騎數萬，越險救應，遂大破晉軍。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000046",
+    "sentence": "唐朝加檢校司空、守藤州刺史。",
+    "entities": [
+      {
+        "text": "守藤州",
+        "label": "LOC",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000047",
+    "sentence": "天復元年 ，岐、隴用兵，晉人乘虛侵於北鄙。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000048",
+    "sentence": "友倫率徒兵三萬徑往礬山，晉人望塵奔逸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000049",
+    "sentence": "友倫與氏叔琮等躡其轍，追至太原，摩壘挑戰，獲牛馬萬餘。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000050",
+    "sentence": "二年，領所部兵西赴鳳翔，前後累接戰。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000051",
+    "sentence": "三年，昭宗歸長安，製授友倫寧遠軍節度使、檢校司徒，賜號迎鑾毅勇功臣。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000052",
+    "sentence": "及太祖東歸，留友倫宿衛京師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000053",
+    "sentence": "歲餘，因會賓擊鞠，墜馬而卒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000054",
+    "sentence": "昭宗輟視朝一日，詔贈太傅，歸葬於碭山縣。",
+    "entities": [
+      {
+        "text": "歸葬於碭山縣",
+        "label": "LOC",
+        "start": 13,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000055",
+    "sentence": "開平初，有司上言曰：「東漢受命，伯升預其始謀；西周尚親，叔虞荷其封邑。故皇兄存，凋零霜露，綿曆歲時，恩莫逮於陟岡，禮方宏於事日。皇侄故邕州節度使友寧、故容州節度使友倫，頃因締構，俱習韜鈐，並以戰功，歿於王事，永言帶礪，合議封崇。」於是存追封朗王，友寧追封安王，友倫追封密王。",
+    "entities": [
+      {
+        "text": "叔虞荷其封邑",
+        "label": "LOC",
+        "start": 28,
+        "end": 34
+      },
+      {
+        "text": "皇侄故邕州",
+        "label": "LOC",
+        "start": 64,
+        "end": 69
+      },
+      {
+        "text": "故容州",
+        "label": "LOC",
+        "start": 75,
+        "end": 78
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000056",
+    "sentence": "郴王友裕，字端夫，太祖長子也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000057",
+    "sentence": "幼善射禦，從太祖征伐，性寬厚，頗得士心。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000058",
+    "sentence": "唐中和中，太祖會並帥李克用攻圍華州，賊將黃鄴固守甚堅。",
+    "entities": [
+      {
+        "text": "唐",
+        "label": "ORG",
+        "start": 0,
+        "end": 1
+      },
+      {
+        "text": "李克用攻圍華州",
+        "label": "LOC",
+        "start": 10,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000059",
+    "sentence": "俄有一人登陴大詈，克用令北騎連射，終不能中，命友裕射之，應弦而斃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000060",
+    "sentence": "大軍喜噪，聲震山谷，克用因以良弓百矢遺焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000061",
+    "sentence": "太祖鎮汴，表為宣武軍牙校。",
+    "entities": [
+      {
+        "text": "太祖鎮",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000062",
+    "sentence": "及蔡賊殄滅，朝廷議功，加檢校左僕射，尋為牙內馬步都指揮使。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000063",
+    "sentence": "景福元年 ，總大軍伐徐。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000064",
+    "sentence": "時朱瑾領兗、鄆之眾，為徐戎外援，陣於彭門南石佛山下。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000065",
+    "sentence": "友裕縱兵擊之，斬獲甚眾，瑾領殘黨宵遁。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000066",
+    "sentence": "時都虞候朱友恭羽書聞於太祖，誣友裕按兵不追賊，太祖大怒，因驛騎傳符，令裨將龐師古代友裕為帥，仍令按劾其事。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000067",
+    "sentence": "會使人誤致書於友裕，友裕懼，遂以數騎遁於山中。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000068",
+    "sentence": "尋詣廣王於輝州，以訴其冤。",
+    "entities": [
+      {
+        "text": "尋詣廣王於輝州",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000069",
+    "sentence": "賴元貞皇后聞而召之，令束身歸汴，力為營救，太祖乃舍之，令權知許州。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "令權知許州",
+        "label": "LOC",
+        "start": 27,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000070",
+    "sentence": "乾寧二年 ，加檢校司空，尋為武寧軍節度留後。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000071",
+    "sentence": "四年，太祖下東平，改天平軍留後，加檢校司徒。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000072",
+    "sentence": "光啟元年 ，再領許州。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "再領許州",
+        "label": "LOC",
+        "start": 6,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000073",
+    "sentence": "天復初，為奉國軍節度留後。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000074",
+    "sentence": "太祖兼鎮河中，以友裕為護國軍節度留後，尋遷華州節度使，加檢校太保、興德尹。",
+    "entities": [
+      {
+        "text": "太祖兼鎮",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "尋遷華州",
+        "label": "LOC",
+        "start": 19,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000075",
+    "sentence": "天祐元年 七月，兼行營都統，領步騎數萬，經略邠、岐。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000076",
+    "sentence": "十月，友裕有疾，將校乃謀旋師，尋卒於梨園，歸葬東京。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000077",
+    "sentence": "開平初，追贈郴王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000078",
+    "sentence": "乾化三年 ，又贈太師。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000079",
+    "sentence": "博王友文，本姓康，名勤，太祖養以為子，受禪後封為王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000080",
+    "sentence": "為東京留守，嗜酒，頗怠於為政。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000081",
+    "sentence": "友珪弑逆，並殺友文。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000082",
+    "sentence": "末帝即位，盡復官爵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000083",
+    "sentence": "友珪，小字遙喜，母失其姓，本亳州營妓也。",
+    "entities": [
+      {
+        "text": "本亳州",
+        "label": "LOC",
+        "start": 13,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000084",
+    "sentence": "唐光啟中，帝徇地亳州，召而侍寢。",
+    "entities": [
+      {
+        "text": "帝徇地亳州",
+        "label": "LOC",
+        "start": 5,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000085",
+    "sentence": "月餘，將舍之而去，以娠告。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000086",
+    "sentence": "是時，元貞皇后賢而有寵，帝素憚之，由是不果攜歸大梁，因留亳州，以別宅貯之。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      },
+      {
+        "text": "因留亳州",
+        "label": "LOC",
+        "start": 26,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000087",
+    "sentence": "及期，妓以生男來告，帝喜，故字之曰遙喜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000088",
+    "sentence": "後迎歸汴。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000089",
+    "sentence": "受禪後封郢王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000090",
+    "sentence": "開平四年 十月，檢校司徒，充左右控鶴都指揮使，兼管四蕃將軍。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 27,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000091",
+    "sentence": "乾化元年 ，充諸軍都虞候。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000092",
+    "sentence": "二年，弑太祖篡位，均王以兵討之，自殺，追廢為庶人。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000093",
+    "sentence": "〈 （《五代會要》云：郢王友珪， 開平元年 五月九日封，至 乾化二年 六月三日篡位，偽改鳳曆元年。三月十七日，京城軍亂，侍衛袁象先率兵入宮，友珪自殺。少帝即位，追削為庶人。又載：周廣順中，張昭修實錄，奏云：梁末帝之上，有郢王友珪，篡弑居位，未有紀錄，請依《 宋書 》劉劭例，書為「元凶友珪」。案《梁實錄》今無考。） 〉",
+    "entities": [
+      {
+        "text": "《五代會要》",
+        "label": "TITLE",
+        "start": 3,
+        "end": 9
+      },
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 19,
+        "end": 21
+      },
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 32,
+        "end": 34
+      },
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 46,
+        "end": 48
+      },
+      {
+        "text": "京城",
+        "label": "LOC",
+        "start": 55,
+        "end": 57
+      },
+      {
+        "text": "梁",
+        "label": "ORG",
+        "start": 103,
+        "end": 104
+      },
+      {
+        "text": "《 宋書 》",
+        "label": "TITLE",
+        "start": 127,
+        "end": 133
+      },
+      {
+        "text": "《梁實錄》",
+        "label": "TITLE",
+        "start": 147,
+        "end": 152
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_012_000094",
+    "sentence": "福王友璋，太祖第五子，受禪後封。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000095",
+    "sentence": "賀王友雍，太祖第六子，受禪後封。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000096",
+    "sentence": "建王友徽，太祖第七子，受禪後封。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000097",
+    "sentence": "康王友孜，太祖第八子，末帝即位後封，以反誅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_012_000098",
+    "sentence": "本北宋作品在全世界都属于 公有领域 ，因为作者逝世已经遠遠超过100年。",
+    "entities": [
+      {
+        "text": "100年",
+        "label": "TME",
+        "start": 31,
+        "end": 35
+      }
+    ]
+  }
+]

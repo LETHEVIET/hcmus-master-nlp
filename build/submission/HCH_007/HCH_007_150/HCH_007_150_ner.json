@@ -1,0 +1,3781 @@
+[
+  {
+    "sentence_id": "HCH_007_150_000001",
+    "sentence": "郡縣志",
+    "entities": [
+      {
+        "text": "郡縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000002",
+    "sentence": "序",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_150_000003",
+    "sentence": "〈 （案：《郡縣志序》，原本闕佚。） 〉",
+    "entities": [
+      {
+        "text": "《郡縣志序》",
+        "label": "TITLE",
+        "start": 5,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000004",
+    "sentence": "河南道 〈 （西京 河南府 滑州 許州 陜州 青州 兗州 宋州 陳州 曹州 亳州 鄭州 汝州 單州 濟州 濱州 密州 潁州 濮州 蔡州） 〉",
+    "entities": [
+      {
+        "text": "滑州",
+        "label": "LOC",
+        "start": 14,
+        "end": 16
+      },
+      {
+        "text": "許州",
+        "label": "LOC",
+        "start": 17,
+        "end": 19
+      },
+      {
+        "text": "陜州",
+        "label": "LOC",
+        "start": 20,
+        "end": 22
+      },
+      {
+        "text": "青州",
+        "label": "LOC",
+        "start": 23,
+        "end": 25
+      },
+      {
+        "text": "兗州",
+        "label": "LOC",
+        "start": 26,
+        "end": 28
+      },
+      {
+        "text": "宋州",
+        "label": "LOC",
+        "start": 29,
+        "end": 31
+      },
+      {
+        "text": "陳州",
+        "label": "LOC",
+        "start": 32,
+        "end": 34
+      },
+      {
+        "text": "曹州",
+        "label": "LOC",
+        "start": 35,
+        "end": 37
+      },
+      {
+        "text": "亳州",
+        "label": "LOC",
+        "start": 38,
+        "end": 40
+      },
+      {
+        "text": "鄭州",
+        "label": "LOC",
+        "start": 41,
+        "end": 43
+      },
+      {
+        "text": "汝州",
+        "label": "LOC",
+        "start": 44,
+        "end": 46
+      },
+      {
+        "text": "單州",
+        "label": "LOC",
+        "start": 47,
+        "end": 49
+      },
+      {
+        "text": "濟州",
+        "label": "LOC",
+        "start": 50,
+        "end": 52
+      },
+      {
+        "text": "濱州",
+        "label": "LOC",
+        "start": 53,
+        "end": 55
+      },
+      {
+        "text": "密州",
+        "label": "LOC",
+        "start": 56,
+        "end": 58
+      },
+      {
+        "text": "潁州",
+        "label": "LOC",
+        "start": 59,
+        "end": 61
+      },
+      {
+        "text": "濮州",
+        "label": "LOC",
+        "start": 62,
+        "end": 64
+      },
+      {
+        "text": "蔡州",
+        "label": "LOC",
+        "start": 65,
+        "end": 67
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000005",
+    "sentence": "關西道 〈 （雍州 京兆府 同州 華州 耀州 乾州 隴州 涇州 原州 鄜州 威州 衍州 武州 良州 府州 雄州 警州） 〉",
+    "entities": [
+      {
+        "text": "雍州",
+        "label": "LOC",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "同州",
+        "label": "LOC",
+        "start": 14,
+        "end": 16
+      },
+      {
+        "text": "華州",
+        "label": "LOC",
+        "start": 17,
+        "end": 19
+      },
+      {
+        "text": "耀州",
+        "label": "LOC",
+        "start": 20,
+        "end": 22
+      },
+      {
+        "text": "乾州",
+        "label": "LOC",
+        "start": 23,
+        "end": 25
+      },
+      {
+        "text": "隴州",
+        "label": "LOC",
+        "start": 26,
+        "end": 28
+      },
+      {
+        "text": "涇州",
+        "label": "LOC",
+        "start": 29,
+        "end": 31
+      },
+      {
+        "text": "原州",
+        "label": "LOC",
+        "start": 32,
+        "end": 34
+      },
+      {
+        "text": "鄜州",
+        "label": "LOC",
+        "start": 35,
+        "end": 37
+      },
+      {
+        "text": "威州",
+        "label": "LOC",
+        "start": 38,
+        "end": 40
+      },
+      {
+        "text": "衍州",
+        "label": "LOC",
+        "start": 41,
+        "end": 43
+      },
+      {
+        "text": "武州",
+        "label": "LOC",
+        "start": 44,
+        "end": 46
+      },
+      {
+        "text": "良州",
+        "label": "LOC",
+        "start": 47,
+        "end": 49
+      },
+      {
+        "text": "府州",
+        "label": "LOC",
+        "start": 50,
+        "end": 52
+      },
+      {
+        "text": "雄州",
+        "label": "LOC",
+        "start": 53,
+        "end": 55
+      },
+      {
+        "text": "警州",
+        "label": "LOC",
+        "start": 56,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000006",
+    "sentence": "河東道 〈 （并州 太原府 潞州 澤州 晉州 新州 武州 雲州 應州 絳州 慈州 隰州 遼州 沁州 解州 勝州 河中府） 〉",
+    "entities": [
+      {
+        "text": "并州",
+        "label": "LOC",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "潞州",
+        "label": "LOC",
+        "start": 14,
+        "end": 16
+      },
+      {
+        "text": "澤州",
+        "label": "LOC",
+        "start": 17,
+        "end": 19
+      },
+      {
+        "text": "晉州",
+        "label": "LOC",
+        "start": 20,
+        "end": 22
+      },
+      {
+        "text": "新州",
+        "label": "LOC",
+        "start": 23,
+        "end": 25
+      },
+      {
+        "text": "武州",
+        "label": "LOC",
+        "start": 26,
+        "end": 28
+      },
+      {
+        "text": "雲州",
+        "label": "LOC",
+        "start": 29,
+        "end": 31
+      },
+      {
+        "text": "應州",
+        "label": "LOC",
+        "start": 32,
+        "end": 34
+      },
+      {
+        "text": "絳州",
+        "label": "LOC",
+        "start": 35,
+        "end": 37
+      },
+      {
+        "text": "慈州",
+        "label": "LOC",
+        "start": 38,
+        "end": 40
+      },
+      {
+        "text": "隰州",
+        "label": "LOC",
+        "start": 41,
+        "end": 43
+      },
+      {
+        "text": "遼州",
+        "label": "LOC",
+        "start": 44,
+        "end": 46
+      },
+      {
+        "text": "沁州",
+        "label": "LOC",
+        "start": 47,
+        "end": 49
+      },
+      {
+        "text": "解州",
+        "label": "LOC",
+        "start": 50,
+        "end": 52
+      },
+      {
+        "text": "勝州",
+        "label": "LOC",
+        "start": 53,
+        "end": 55
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000007",
+    "sentence": "河北道 〈 （魏州 大名府 鎮州 真定府滄州 景州 德州 邢州 磁州 澶州 貝州 相州 泰州 雄州 幽州 新城縣 定州 博州 莫州 深州 瑞州 靜安軍） 〉",
+    "entities": [
+      {
+        "text": "魏州",
+        "label": "LOC",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "鎮州",
+        "label": "LOC",
+        "start": 14,
+        "end": 16
+      },
+      {
+        "text": "真定府滄州",
+        "label": "LOC",
+        "start": 17,
+        "end": 22
+      },
+      {
+        "text": "景州",
+        "label": "LOC",
+        "start": 23,
+        "end": 25
+      },
+      {
+        "text": "德州",
+        "label": "LOC",
+        "start": 26,
+        "end": 28
+      },
+      {
+        "text": "邢州",
+        "label": "LOC",
+        "start": 29,
+        "end": 31
+      },
+      {
+        "text": "磁州",
+        "label": "LOC",
+        "start": 32,
+        "end": 34
+      },
+      {
+        "text": "澶州",
+        "label": "LOC",
+        "start": 35,
+        "end": 37
+      },
+      {
+        "text": "貝州",
+        "label": "LOC",
+        "start": 38,
+        "end": 40
+      },
+      {
+        "text": "相州",
+        "label": "LOC",
+        "start": 41,
+        "end": 43
+      },
+      {
+        "text": "泰州",
+        "label": "LOC",
+        "start": 44,
+        "end": 46
+      },
+      {
+        "text": "雄州",
+        "label": "LOC",
+        "start": 47,
+        "end": 49
+      },
+      {
+        "text": "幽州",
+        "label": "LOC",
+        "start": 50,
+        "end": 52
+      },
+      {
+        "text": "新城縣",
+        "label": "LOC",
+        "start": 53,
+        "end": 56
+      },
+      {
+        "text": "定州",
+        "label": "LOC",
+        "start": 57,
+        "end": 59
+      },
+      {
+        "text": "博州",
+        "label": "LOC",
+        "start": 60,
+        "end": 62
+      },
+      {
+        "text": "莫州",
+        "label": "LOC",
+        "start": 63,
+        "end": 65
+      },
+      {
+        "text": "深州",
+        "label": "LOC",
+        "start": 66,
+        "end": 68
+      },
+      {
+        "text": "瑞州",
+        "label": "LOC",
+        "start": 69,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000008",
+    "sentence": "劍南道 〈 （蜀州 漢州 彭州） 〉",
+    "entities": [
+      {
+        "text": "蜀州",
+        "label": "LOC",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "漢州",
+        "label": "LOC",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "彭州",
+        "label": "LOC",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000009",
+    "sentence": "江南道 〈 （黔州 處州 溫州 婺州 湖州 秀州 全州 杭州 福州 台州 明州 虔州 蘇州 邵州 郴州 建州 道州 鄂州 潭州） 〉",
+    "entities": [
+      {
+        "text": "黔州",
+        "label": "LOC",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "處州",
+        "label": "LOC",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "溫州",
+        "label": "LOC",
+        "start": 13,
+        "end": 15
+      },
+      {
+        "text": "婺州",
+        "label": "LOC",
+        "start": 16,
+        "end": 18
+      },
+      {
+        "text": "湖州",
+        "label": "LOC",
+        "start": 19,
+        "end": 21
+      },
+      {
+        "text": "秀州",
+        "label": "LOC",
+        "start": 22,
+        "end": 24
+      },
+      {
+        "text": "全州",
+        "label": "LOC",
+        "start": 25,
+        "end": 27
+      },
+      {
+        "text": "杭州",
+        "label": "LOC",
+        "start": 28,
+        "end": 30
+      },
+      {
+        "text": "福州",
+        "label": "LOC",
+        "start": 31,
+        "end": 33
+      },
+      {
+        "text": "台州",
+        "label": "LOC",
+        "start": 34,
+        "end": 36
+      },
+      {
+        "text": "明州",
+        "label": "LOC",
+        "start": 37,
+        "end": 39
+      },
+      {
+        "text": "虔州",
+        "label": "LOC",
+        "start": 40,
+        "end": 42
+      },
+      {
+        "text": "蘇州",
+        "label": "LOC",
+        "start": 43,
+        "end": 45
+      },
+      {
+        "text": "邵州",
+        "label": "LOC",
+        "start": 46,
+        "end": 48
+      },
+      {
+        "text": "郴州",
+        "label": "LOC",
+        "start": 49,
+        "end": 51
+      },
+      {
+        "text": "建州",
+        "label": "LOC",
+        "start": 52,
+        "end": 54
+      },
+      {
+        "text": "道州",
+        "label": "LOC",
+        "start": 55,
+        "end": 57
+      },
+      {
+        "text": "鄂州",
+        "label": "LOC",
+        "start": 58,
+        "end": 60
+      },
+      {
+        "text": "潭州",
+        "label": "LOC",
+        "start": 61,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000010",
+    "sentence": "淮南道 〈 （安州 廬州 楚州 壽州 天長縣） 〉",
+    "entities": [
+      {
+        "text": "安州",
+        "label": "LOC",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "廬州",
+        "label": "LOC",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "楚州",
+        "label": "LOC",
+        "start": 13,
+        "end": 15
+      },
+      {
+        "text": "壽州",
+        "label": "LOC",
+        "start": 16,
+        "end": 18
+      },
+      {
+        "text": "天長縣",
+        "label": "LOC",
+        "start": 19,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000011",
+    "sentence": "山南道 〈 （襄州 鄧州 唐州 復州 金州 忠州 萬州 夔州 利州 閬州 果州 朗州 集州 鳳州 唐州 商州 隨州 合州 雄勝軍） 〉",
+    "entities": [
+      {
+        "text": "襄州",
+        "label": "LOC",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "鄧州",
+        "label": "LOC",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "唐州",
+        "label": "LOC",
+        "start": 13,
+        "end": 15
+      },
+      {
+        "text": "復州",
+        "label": "LOC",
+        "start": 16,
+        "end": 18
+      },
+      {
+        "text": "金州",
+        "label": "LOC",
+        "start": 19,
+        "end": 21
+      },
+      {
+        "text": "忠州",
+        "label": "LOC",
+        "start": 22,
+        "end": 24
+      },
+      {
+        "text": "萬州",
+        "label": "LOC",
+        "start": 25,
+        "end": 27
+      },
+      {
+        "text": "夔州",
+        "label": "LOC",
+        "start": 28,
+        "end": 30
+      },
+      {
+        "text": "利州",
+        "label": "LOC",
+        "start": 31,
+        "end": 33
+      },
+      {
+        "text": "閬州",
+        "label": "LOC",
+        "start": 34,
+        "end": 36
+      },
+      {
+        "text": "果州",
+        "label": "LOC",
+        "start": 37,
+        "end": 39
+      },
+      {
+        "text": "朗州",
+        "label": "LOC",
+        "start": 40,
+        "end": 42
+      },
+      {
+        "text": "集州",
+        "label": "LOC",
+        "start": 43,
+        "end": 45
+      },
+      {
+        "text": "鳳州",
+        "label": "LOC",
+        "start": 46,
+        "end": 48
+      },
+      {
+        "text": "唐州",
+        "label": "LOC",
+        "start": 49,
+        "end": 51
+      },
+      {
+        "text": "商州",
+        "label": "LOC",
+        "start": 52,
+        "end": 54
+      },
+      {
+        "text": "隨州",
+        "label": "LOC",
+        "start": 55,
+        "end": 57
+      },
+      {
+        "text": "合州",
+        "label": "LOC",
+        "start": 58,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000012",
+    "sentence": "隴右道 〈 （秦州 成州 洮州） 〉",
+    "entities": [
+      {
+        "text": "秦州",
+        "label": "LOC",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "成州",
+        "label": "LOC",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "洮州",
+        "label": "LOC",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000013",
+    "sentence": "嶺南道 〈 （邕州 恩州 溥州 思唐州 潘州 桂州） 〉",
+    "entities": [
+      {
+        "text": "邕州",
+        "label": "LOC",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "恩州",
+        "label": "LOC",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "溥州",
+        "label": "LOC",
+        "start": 13,
+        "end": 15
+      },
+      {
+        "text": "思唐州",
+        "label": "LOC",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "潘州",
+        "label": "LOC",
+        "start": 20,
+        "end": 22
+      },
+      {
+        "text": "桂州",
+        "label": "LOC",
+        "start": 23,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000014",
+    "sentence": "〈 （案：以上〔所載十道、州、府、軍、縣，當是以《 開元十道圖 》為本，而於五代之改制，及仍唐舊制者則闕焉。疑原本有所刪節，〕今仍錄於卷首，以存其舊。） 〉",
+    "entities": [
+      {
+        "text": "《 開元十道圖 》",
+        "label": "TITLE",
+        "start": 24,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000015",
+    "sentence": "梁 開平元年 ，梁祖初開國，升汴州為開封府，建名東京，元管開封、浚儀、陳留、雍丘、封丘、尉氏六縣，至是割滑州之酸棗、長垣，鄭州之中牟、陽武，宋州之襄邑，曹州之戴邑，許州之扶溝、鄢陵，陳州之太康九縣隸焉。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 4,
+        "end": 6
+      },
+      {
+        "text": "升汴州",
+        "label": "LOC",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "尉氏六縣",
+        "label": "LOC",
+        "start": 44,
+        "end": 48
+      },
+      {
+        "text": "至是割滑州",
+        "label": "LOC",
+        "start": 49,
+        "end": 54
+      },
+      {
+        "text": "鄭州",
+        "label": "LOC",
+        "start": 61,
+        "end": 63
+      },
+      {
+        "text": "宋州之襄邑",
+        "label": "LOC",
+        "start": 70,
+        "end": 75
+      },
+      {
+        "text": "曹州之戴邑",
+        "label": "LOC",
+        "start": 76,
+        "end": 81
+      },
+      {
+        "text": "許州",
+        "label": "LOC",
+        "start": 82,
+        "end": 84
+      },
+      {
+        "text": "陳州之太康九縣",
+        "label": "LOC",
+        "start": 91,
+        "end": 98
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000016",
+    "sentence": "後唐復降為汴州，以宣武軍為額，其陽武、長垣、扶溝、考城等四縣仍且隸汴州、其餘五縣卻還本部。",
+    "entities": [
+      {
+        "text": "後唐復降為汴州",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "text": "考城等四縣",
+        "label": "LOC",
+        "start": 25,
+        "end": 30
+      },
+      {
+        "text": "仍且隸汴州",
+        "label": "LOC",
+        "start": 30,
+        "end": 35
+      },
+      {
+        "text": "其餘五縣",
+        "label": "LOC",
+        "start": 36,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000017",
+    "sentence": "晉天福中，復升為東京，復以前五縣隸之，漢、周並因之。",
+    "entities": [
+      {
+        "text": "復以前五縣",
+        "label": "LOC",
+        "start": 11,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000018",
+    "sentence": "單州本單父縣，梁為輝州，後唐同光二年，復舊，隸宋州，周廣順中，割隸曹州。",
+    "entities": [
+      {
+        "text": "單州本單父縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "梁為輝州",
+        "label": "LOC",
+        "start": 7,
+        "end": 11
+      },
+      {
+        "text": "同光二年",
+        "label": "TME",
+        "start": 14,
+        "end": 18
+      },
+      {
+        "text": "隸宋州",
+        "label": "LOC",
+        "start": 22,
+        "end": 25
+      },
+      {
+        "text": "割隸曹州",
+        "label": "LOC",
+        "start": 31,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000019",
+    "sentence": "〈 （案：以上二條見《 太平御覽 》，其餘郡縣闕略不全。今考是書諸誌多本《 五代會要 》，謹采《五代會要》附載於後。） 〉",
+    "entities": [
+      {
+        "text": "《 太平御覽 》",
+        "label": "TITLE",
+        "start": 10,
+        "end": 18
+      },
+      {
+        "text": "其餘郡縣",
+        "label": "LOC",
+        "start": 19,
+        "end": 23
+      },
+      {
+        "text": "《 五代會要 》",
+        "label": "TITLE",
+        "start": 36,
+        "end": 44
+      },
+      {
+        "text": "《五代會要》",
+        "label": "TITLE",
+        "start": 47,
+        "end": 53
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000020",
+    "sentence": "後唐 長興三年 四月，中書門下奏：「據《十道圖》，舊制以王者所都之地為上，本朝都長安，遂以關內道為上。今宗廟宮闕皆在洛陽，請以河南道為上，關內道為二，河東道第三，河北道第四，劍南道第五，江南道第六，淮南道第七，山南道第八，隴右道第九，嶺南道第十。」從之。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 5,
+        "end": 7
+      },
+      {
+        "text": "《十道圖》",
+        "label": "TITLE",
+        "start": 19,
+        "end": 24
+      },
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 40,
+        "end": 42
+      },
+      {
+        "text": "遂以關",
+        "label": "LOC",
+        "start": 43,
+        "end": 46
+      },
+      {
+        "text": "洛陽",
+        "label": "LOC",
+        "start": 58,
+        "end": 60
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000021",
+    "sentence": "道",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_150_000022",
+    "sentence": "河南道",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_150_000023",
+    "sentence": "滑州酸棗縣、長垣縣 〈 （梁 開平三年 二月，割隸汴州。後唐 同光二年 二月，酸棗縣卻隸滑州，長垣縣卻改為匡城縣。晉 天福三年 十月，酸棗縣卻割隸開封府。） 〉",
+    "entities": [
+      {
+        "text": "滑州酸棗縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "長垣縣",
+        "label": "LOC",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 17,
+        "end": 19
+      },
+      {
+        "text": "割隸汴州",
+        "label": "LOC",
+        "start": 23,
+        "end": 27
+      },
+      {
+        "text": "同光二年",
+        "label": "TME",
+        "start": 31,
+        "end": 35
+      },
+      {
+        "text": "酸棗縣卻隸滑州",
+        "label": "LOC",
+        "start": 39,
+        "end": 46
+      },
+      {
+        "text": "長垣縣",
+        "label": "LOC",
+        "start": 47,
+        "end": 50
+      },
+      {
+        "text": "卻改為匡城縣",
+        "label": "LOC",
+        "start": 50,
+        "end": 56
+      },
+      {
+        "text": "晉",
+        "label": "ORG",
+        "start": 57,
+        "end": 58
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 61,
+        "end": 63
+      },
+      {
+        "text": "酸棗縣",
+        "label": "LOC",
+        "start": 67,
+        "end": 70
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000024",
+    "sentence": "鄭州中牟縣、陽開縣 〈 （梁開平三年二月，割隸汴州。後唐同光二年二月，敕：「中牟縣卻隸鄭州。」晉天福三年十月，中牟縣卻割屬開封府。） 〉",
+    "entities": [
+      {
+        "text": "鄭州中牟縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "陽開縣",
+        "label": "LOC",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 16,
+        "end": 18
+      },
+      {
+        "text": "割隸汴州",
+        "label": "LOC",
+        "start": 21,
+        "end": 25
+      },
+      {
+        "text": "同光二年",
+        "label": "TME",
+        "start": 28,
+        "end": 32
+      },
+      {
+        "text": "中牟縣卻隸鄭州",
+        "label": "LOC",
+        "start": 38,
+        "end": 45
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 50,
+        "end": 52
+      },
+      {
+        "text": "中牟縣",
+        "label": "LOC",
+        "start": 55,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000025",
+    "sentence": "宋州襄邑縣 〈 （梁開平三年二月，割隸汴州。後唐同光二年，卻隸宋州。晉天福三年十月，復割隸開封府。） 〉",
+    "entities": [
+      {
+        "text": "宋州襄邑縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 12,
+        "end": 14
+      },
+      {
+        "text": "割隸汴州",
+        "label": "LOC",
+        "start": 17,
+        "end": 21
+      },
+      {
+        "text": "同光二年",
+        "label": "TME",
+        "start": 24,
+        "end": 28
+      },
+      {
+        "text": "卻隸宋州",
+        "label": "LOC",
+        "start": 29,
+        "end": 33
+      },
+      {
+        "text": "晉",
+        "label": "ORG",
+        "start": 34,
+        "end": 35
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 37,
+        "end": 39
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000026",
+    "sentence": "曹州戴邑縣 〈 （梁開平三年二月，割隸汴州。後唐同光二年二月，復為考城縣。） 〉",
+    "entities": [
+      {
+        "text": "曹州戴邑縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 12,
+        "end": 14
+      },
+      {
+        "text": "割隸汴州",
+        "label": "LOC",
+        "start": 17,
+        "end": 21
+      },
+      {
+        "text": "同光二年",
+        "label": "TME",
+        "start": 24,
+        "end": 28
+      },
+      {
+        "text": "復為考城縣",
+        "label": "LOC",
+        "start": 31,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000027",
+    "sentence": "許州扶溝縣、鄢陵縣 〈 （梁開平三年二月，割隸汴州。後唐同光二年二月，鄢陵縣卻隸許州。 天成元年 九月，扶溝縣卻隸許州。晉天福三年十月，並割屬開封府。） 〉",
+    "entities": [
+      {
+        "text": "許州扶溝縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "鄢陵縣",
+        "label": "LOC",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 16,
+        "end": 18
+      },
+      {
+        "text": "割隸汴州",
+        "label": "LOC",
+        "start": 21,
+        "end": 25
+      },
+      {
+        "text": "同光二年",
+        "label": "TME",
+        "start": 28,
+        "end": 32
+      },
+      {
+        "text": "鄢陵縣卻隸許州",
+        "label": "LOC",
+        "start": 35,
+        "end": 42
+      },
+      {
+        "text": "天成元年",
+        "label": "TME",
+        "start": 44,
+        "end": 48
+      },
+      {
+        "text": "扶溝縣卻隸許州",
+        "label": "LOC",
+        "start": 52,
+        "end": 59
+      },
+      {
+        "text": "晉",
+        "label": "ORG",
+        "start": 60,
+        "end": 61
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 63,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000028",
+    "sentence": "陳州太康縣 〈 （梁開平三年二月，割隸汴州。後唐同光二年二月，復隸陳州。晉天福三年十月，卻屬開封府。） 〉",
+    "entities": [
+      {
+        "text": "陳州太康縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 12,
+        "end": 14
+      },
+      {
+        "text": "割隸汴州",
+        "label": "LOC",
+        "start": 17,
+        "end": 21
+      },
+      {
+        "text": "同光二年",
+        "label": "TME",
+        "start": 24,
+        "end": 28
+      },
+      {
+        "text": "復隸陳州",
+        "label": "LOC",
+        "start": 31,
+        "end": 35
+      },
+      {
+        "text": "晉",
+        "label": "ORG",
+        "start": 36,
+        "end": 37
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 39,
+        "end": 41
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000029",
+    "sentence": "單州楚丘縣 〈 （梁 開平四年 四月，割隸宋州。） 〉",
+    "entities": [
+      {
+        "text": "單州楚丘縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 13,
+        "end": 15
+      },
+      {
+        "text": "割隸宋州",
+        "label": "LOC",
+        "start": 19,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000030",
+    "sentence": "碭山縣 〈 （後唐同光二年二月，敕：「碭山縣，偽梁創為輝州，並單州後，理所於輝州。今宜卻屬單州，其輝州依舊為碭山縣。」） 〉",
+    "entities": [
+      {
+        "text": "碭山縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "同光二年",
+        "label": "TME",
+        "start": 9,
+        "end": 13
+      },
+      {
+        "text": "碭山縣",
+        "label": "LOC",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "偽梁創為輝州",
+        "label": "LOC",
+        "start": 23,
+        "end": 29
+      },
+      {
+        "text": "並單州",
+        "label": "LOC",
+        "start": 30,
+        "end": 33
+      },
+      {
+        "text": "理所於輝州",
+        "label": "LOC",
+        "start": 35,
+        "end": 40
+      },
+      {
+        "text": "今宜卻屬單州",
+        "label": "LOC",
+        "start": 41,
+        "end": 47
+      },
+      {
+        "text": "其輝州",
+        "label": "LOC",
+        "start": 48,
+        "end": 51
+      },
+      {
+        "text": "依舊為碭山縣",
+        "label": "LOC",
+        "start": 51,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000031",
+    "sentence": "汝州葉縣、襄城縣 〈 （後唐同光二年十二月，租庸使奏：「二縣原屬汝州，今隸許州，伏緣最鄰京畿，戶口全少，伏乞卻割隸汝州。」從之。） 〉",
+    "entities": [
+      {
+        "text": "汝州葉縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "襄城縣",
+        "label": "LOC",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "同光二年",
+        "label": "TME",
+        "start": 14,
+        "end": 18
+      },
+      {
+        "text": "二縣原屬汝州",
+        "label": "LOC",
+        "start": 28,
+        "end": 34
+      },
+      {
+        "text": "今隸許州",
+        "label": "LOC",
+        "start": 35,
+        "end": 39
+      },
+      {
+        "text": "伏乞卻割隸汝州",
+        "label": "LOC",
+        "start": 52,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000032",
+    "sentence": "臨汝縣 〈 （周 顯德三年 三月廢。） 〉",
+    "entities": [
+      {
+        "text": "臨汝縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "顯德三年",
+        "label": "TME",
+        "start": 9,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000033",
+    "sentence": "密州輔唐縣 〈 （梁 開平二年 八月，改為安丘縣。後唐 同光元年 十月，復為輔唐縣。晉 天福七年 七月，改為膠西縣，避國諱也。） 〉",
+    "entities": [
+      {
+        "text": "密州輔唐縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 13,
+        "end": 15
+      },
+      {
+        "text": "改為安丘縣",
+        "label": "LOC",
+        "start": 19,
+        "end": 24
+      },
+      {
+        "text": "同光元年",
+        "label": "TME",
+        "start": 28,
+        "end": 32
+      },
+      {
+        "text": "復為輔唐縣",
+        "label": "LOC",
+        "start": 36,
+        "end": 41
+      },
+      {
+        "text": "晉",
+        "label": "ORG",
+        "start": 42,
+        "end": 43
+      },
+      {
+        "text": "七年",
+        "label": "TME",
+        "start": 46,
+        "end": 48
+      },
+      {
+        "text": "改為膠西縣",
+        "label": "LOC",
+        "start": 52,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000034",
+    "sentence": "濟州 〈 （周 廣順二年 九月，以鄆州鉅野升為州。其地望為上，割兗州任城、中都，單州金鄉等縣隸之。至其年十二月，又割鄆州鄆城縣隸之，中都縣卻隸鄆州。） 〉",
+    "entities": [
+      {
+        "text": "濟州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "廣順二年",
+        "label": "TME",
+        "start": 8,
+        "end": 12
+      },
+      {
+        "text": "以鄆州",
+        "label": "LOC",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "鉅野升為州",
+        "label": "LOC",
+        "start": 19,
+        "end": 24
+      },
+      {
+        "text": "割兗州任城",
+        "label": "LOC",
+        "start": 31,
+        "end": 36
+      },
+      {
+        "text": "單州金鄉等縣",
+        "label": "LOC",
+        "start": 40,
+        "end": 46
+      },
+      {
+        "text": "又割鄆州鄆城縣",
+        "label": "LOC",
+        "start": 56,
+        "end": 63
+      },
+      {
+        "text": "中都縣卻隸鄆州",
+        "label": "LOC",
+        "start": 66,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000035",
+    "sentence": "濱州 〈 （周顯德三年六月，敕：「以贍國軍升為州。其地望為上，直屬京，割棣州渤海、蒲臺兩縣隸之。」） 〉",
+    "entities": [
+      {
+        "text": "濱州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "顯德三年",
+        "label": "TME",
+        "start": 7,
+        "end": 11
+      },
+      {
+        "text": "以贍國軍升為州",
+        "label": "LOC",
+        "start": 17,
+        "end": 24
+      },
+      {
+        "text": "割棣州",
+        "label": "LOC",
+        "start": 35,
+        "end": 38
+      },
+      {
+        "text": "蒲臺兩縣",
+        "label": "LOC",
+        "start": 41,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000036",
+    "sentence": "關內道",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_150_000037",
+    "sentence": "京兆府奉先縣 〈 （梁開平三年二月，割隸同州。後唐 同光三年 二月，卻隸京兆府。） 〉",
+    "entities": [
+      {
+        "text": "京兆府奉先縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 13,
+        "end": 15
+      },
+      {
+        "text": "割隸同州",
+        "label": "LOC",
+        "start": 18,
+        "end": 22
+      },
+      {
+        "text": "同光三年",
+        "label": "TME",
+        "start": 26,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000038",
+    "sentence": "武功縣、好畤縣 〈 （後唐 長興元年 五月，敕：「並臨等四鄉卻隸京兆府。」） 〉",
+    "entities": [
+      {
+        "text": "武功縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "好畤縣",
+        "label": "LOC",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "並臨等四鄉",
+        "label": "LOC",
+        "start": 25,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000039",
+    "sentence": "渭南縣 〈 （周顯德三年四月，割屬華州。） 〉",
+    "entities": [
+      {
+        "text": "渭南縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "顯德三年",
+        "label": "TME",
+        "start": 8,
+        "end": 12
+      },
+      {
+        "text": "割屬華州",
+        "label": "LOC",
+        "start": 15,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000040",
+    "sentence": "同官縣 〈 （梁開平三年三月，割隸同州。後唐同光三年七月，割隸耀州。） 〉",
+    "entities": [
+      {
+        "text": "同官縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "割隸同州",
+        "label": "LOC",
+        "start": 15,
+        "end": 19
+      },
+      {
+        "text": "同光三年",
+        "label": "TME",
+        "start": 22,
+        "end": 26
+      },
+      {
+        "text": "割隸耀州",
+        "label": "LOC",
+        "start": 29,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000041",
+    "sentence": "美原縣 〈 （後唐同光三年七月，割隸耀州。） 〉",
+    "entities": [
+      {
+        "text": "美原縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "同光三年",
+        "label": "TME",
+        "start": 9,
+        "end": 13
+      },
+      {
+        "text": "割隸耀州",
+        "label": "LOC",
+        "start": 16,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000042",
+    "sentence": "華州洛南縣 〈 （後唐同光三年六月，河中府奏；「韓城、郃陽、澄城縣。偽梁割屬當府，其澄城縣今請卻屬同州，韓城、郃陽縣且屬當府。」從之。 天成元年 七月，敕：「韓城、郃陽二縣卻割隸同州。」） 〉",
+    "entities": [
+      {
+        "text": "華州洛南縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "同光三年",
+        "label": "TME",
+        "start": 11,
+        "end": 15
+      },
+      {
+        "text": "韓城",
+        "label": "LOC",
+        "start": 24,
+        "end": 26
+      },
+      {
+        "text": "澄城縣",
+        "label": "LOC",
+        "start": 30,
+        "end": 33
+      },
+      {
+        "text": "其澄城縣",
+        "label": "LOC",
+        "start": 41,
+        "end": 45
+      },
+      {
+        "text": "今請卻屬同州",
+        "label": "LOC",
+        "start": 45,
+        "end": 51
+      },
+      {
+        "text": "韓城",
+        "label": "LOC",
+        "start": 52,
+        "end": 54
+      },
+      {
+        "text": "郃陽縣",
+        "label": "LOC",
+        "start": 55,
+        "end": 58
+      },
+      {
+        "text": "天成元年",
+        "label": "TME",
+        "start": 68,
+        "end": 72
+      },
+      {
+        "text": "韓城",
+        "label": "LOC",
+        "start": 79,
+        "end": 81
+      },
+      {
+        "text": "郃陽二縣",
+        "label": "LOC",
+        "start": 82,
+        "end": 86
+      },
+      {
+        "text": "卻割隸同州",
+        "label": "LOC",
+        "start": 86,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000043",
+    "sentence": "隴州汧陽縣、汧源縣、吳山縣 〈 （後唐 長興元年 五月，依舊割隸隴州。） 〉",
+    "entities": [
+      {
+        "text": "隴州汧陽縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "汧源縣",
+        "label": "LOC",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "吳山縣",
+        "label": "LOC",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "依舊割隸隴州",
+        "label": "LOC",
+        "start": 28,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000044",
+    "sentence": "涇州平涼縣 〈 （後唐 清泰三年 正月，涇州奏：「平涼縣，自吐蕃陷渭州，權於平涼縣為渭州理所，遂罷平涼縣。又有安國、耀武兩鎮兼屬平涼，其賦租節目，並無縣管。今卻置平涼縣，管安國、耀武兩鎮人戶。」從之。） 〉",
+    "entities": [
+      {
+        "text": "涇州平涼縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 14,
+        "end": 16
+      },
+      {
+        "text": "涇州",
+        "label": "LOC",
+        "start": 20,
+        "end": 22
+      },
+      {
+        "text": "平涼縣",
+        "label": "LOC",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "自吐蕃陷渭州",
+        "label": "LOC",
+        "start": 29,
+        "end": 35
+      },
+      {
+        "text": "權於平涼縣",
+        "label": "LOC",
+        "start": 36,
+        "end": 41
+      },
+      {
+        "text": "為渭州",
+        "label": "LOC",
+        "start": 41,
+        "end": 44
+      },
+      {
+        "text": "遂罷平涼縣",
+        "label": "LOC",
+        "start": 47,
+        "end": 52
+      },
+      {
+        "text": "耀武兩鎮",
+        "label": "LOC",
+        "start": 58,
+        "end": 62
+      },
+      {
+        "text": "並無縣",
+        "label": "LOC",
+        "start": 73,
+        "end": 76
+      },
+      {
+        "text": "今卻置平涼縣",
+        "label": "LOC",
+        "start": 78,
+        "end": 84
+      },
+      {
+        "text": "耀武兩鎮",
+        "label": "LOC",
+        "start": 89,
+        "end": 93
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000045",
+    "sentence": "臨涇縣 〈 （後唐清泰三年二月，原州刺史翟建奏「本州自陷吐蕃，權於臨涇縣為理所。臨涇元屬涇州，刺史只管捕盜，其人戶即涇州管縣。既無屬縣，刺舉何施，伏乞割臨涇屬當州。」從之。） 〉",
+    "entities": [
+      {
+        "text": "臨涇縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 11,
+        "end": 13
+      },
+      {
+        "text": "原州",
+        "label": "LOC",
+        "start": 16,
+        "end": 18
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 18,
+        "end": 20
+      },
+      {
+        "text": "本州",
+        "label": "LOC",
+        "start": 24,
+        "end": 26
+      },
+      {
+        "text": "權於臨涇縣",
+        "label": "LOC",
+        "start": 31,
+        "end": 36
+      },
+      {
+        "text": "臨涇元屬涇州",
+        "label": "LOC",
+        "start": 40,
+        "end": 46
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 47,
+        "end": 49
+      },
+      {
+        "text": "其人戶即涇州",
+        "label": "LOC",
+        "start": 54,
+        "end": 60
+      },
+      {
+        "text": "管縣",
+        "label": "LOC",
+        "start": 60,
+        "end": 62
+      },
+      {
+        "text": "既無屬縣",
+        "label": "LOC",
+        "start": 63,
+        "end": 67
+      },
+      {
+        "text": "乞割臨涇屬當州",
+        "label": "LOC",
+        "start": 74,
+        "end": 81
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000046",
+    "sentence": "鄜州鄜城縣 〈 （梁 開平三年 四月，改為昭化縣。後唐同光元年十月，復為鄜城縣。） 〉",
+    "entities": [
+      {
+        "text": "鄜州鄜城縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 13,
+        "end": 15
+      },
+      {
+        "text": "改為昭化縣",
+        "label": "LOC",
+        "start": 19,
+        "end": 24
+      },
+      {
+        "text": "同光元年",
+        "label": "TME",
+        "start": 27,
+        "end": 31
+      },
+      {
+        "text": "復為鄜城縣",
+        "label": "LOC",
+        "start": 34,
+        "end": 39
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000047",
+    "sentence": "咸寧縣 〈 （周顯德三年三月十日廢。） 〉",
+    "entities": [
+      {
+        "text": "咸寧縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "顯德三年",
+        "label": "TME",
+        "start": 8,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000048",
+    "sentence": "威州 〈 （晉 天福四年 五月，敕：「靈州方渠鎮宜升為威州，隸靈武，仍割寧州木波、馬嶺二鎮隸之。」周 廣順二年 三月，改為環州。 顯德四年 九月，降為通遠軍。） 〉",
+    "entities": [
+      {
+        "text": "威州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "靈州方渠鎮",
+        "label": "LOC",
+        "start": 19,
+        "end": 24
+      },
+      {
+        "text": "宜升為威州",
+        "label": "LOC",
+        "start": 24,
+        "end": 29
+      },
+      {
+        "text": "仍割寧州",
+        "label": "LOC",
+        "start": 34,
+        "end": 38
+      },
+      {
+        "text": "馬嶺二鎮",
+        "label": "LOC",
+        "start": 41,
+        "end": 45
+      },
+      {
+        "text": "廣順二年",
+        "label": "TME",
+        "start": 51,
+        "end": 55
+      },
+      {
+        "text": "改為環州",
+        "label": "LOC",
+        "start": 59,
+        "end": 63
+      },
+      {
+        "text": "顯德四年",
+        "label": "TME",
+        "start": 65,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000049",
+    "sentence": "衍州 〈 （周 顯德五年 六月，廢為定平鎮，隸邠州。） 〉",
+    "entities": [
+      {
+        "text": "衍州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "顯德五年",
+        "label": "TME",
+        "start": 8,
+        "end": 12
+      },
+      {
+        "text": "廢為定平鎮",
+        "label": "LOC",
+        "start": 16,
+        "end": 21
+      },
+      {
+        "text": "隸邠州",
+        "label": "LOC",
+        "start": 22,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000050",
+    "sentence": "武州 〈 （周顯德五年 〉 六月，廢為潘源縣，隸渭州。",
+    "entities": [
+      {
+        "text": "武州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "顯德五年",
+        "label": "TME",
+        "start": 7,
+        "end": 11
+      },
+      {
+        "text": "廢為潘源縣",
+        "label": "LOC",
+        "start": 17,
+        "end": 22
+      },
+      {
+        "text": "隸渭州",
+        "label": "LOC",
+        "start": 23,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000051",
+    "sentence": "）}}",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_150_000052",
+    "sentence": "河東道",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_150_000053",
+    "sentence": "絳州 〈 （梁 開平四年 四月，割屬晉州。後唐 同光二年 六月，卻割屬河中府。） 〉",
+    "entities": [
+      {
+        "text": "絳州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "割屬晉州",
+        "label": "LOC",
+        "start": 16,
+        "end": 20
+      },
+      {
+        "text": "同光二年",
+        "label": "TME",
+        "start": 24,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000054",
+    "sentence": "慈州、隰州 〈 （後唐同光二年六月，割隸晉州。） 〉",
+    "entities": [
+      {
+        "text": "慈州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "隰州",
+        "label": "LOC",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "同光二年",
+        "label": "TME",
+        "start": 11,
+        "end": 15
+      },
+      {
+        "text": "割隸晉州",
+        "label": "LOC",
+        "start": 18,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000055",
+    "sentence": "儀州 〈 （梁開平三年閏八月，敕：「兗州管內已有沂州，其儀州改為遼州。」晉 天福五年 三月，並沁州割隸潞州，六年七月，並沁州卻隸太原。） 〉",
+    "entities": [
+      {
+        "text": "儀州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 9,
+        "end": 11
+      },
+      {
+        "text": "兗州",
+        "label": "LOC",
+        "start": 18,
+        "end": 20
+      },
+      {
+        "text": "管內已有沂州",
+        "label": "LOC",
+        "start": 20,
+        "end": 26
+      },
+      {
+        "text": "其儀州改為遼州",
+        "label": "LOC",
+        "start": 27,
+        "end": 34
+      },
+      {
+        "text": "五年",
+        "label": "TME",
+        "start": 40,
+        "end": 42
+      },
+      {
+        "text": "並沁州割隸潞州",
+        "label": "LOC",
+        "start": 46,
+        "end": 53
+      },
+      {
+        "text": "六年",
+        "label": "TME",
+        "start": 54,
+        "end": 56
+      },
+      {
+        "text": "並沁州",
+        "label": "LOC",
+        "start": 59,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000056",
+    "sentence": "解州 〈 （漢 乾祐元年 九月，升解縣為州，割河中府聞喜、安邑、解三縣為屬邑。） 〉",
+    "entities": [
+      {
+        "text": "解州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "乾祐元年",
+        "label": "TME",
+        "start": 8,
+        "end": 12
+      },
+      {
+        "text": "升解縣為州",
+        "label": "LOC",
+        "start": 16,
+        "end": 21
+      },
+      {
+        "text": "安邑",
+        "label": "LOC",
+        "start": 29,
+        "end": 31
+      },
+      {
+        "text": "解三縣為屬邑",
+        "label": "LOC",
+        "start": 32,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000057",
+    "sentence": "河中府稷山縣 〈 （後唐同光二年正月，割隸絳州。） 〉",
+    "entities": [
+      {
+        "text": "河中府稷山縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "同光二年",
+        "label": "TME",
+        "start": 12,
+        "end": 16
+      },
+      {
+        "text": "割隸絳州",
+        "label": "LOC",
+        "start": 19,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000058",
+    "sentence": "慈州仵城縣、呂香縣 〈 （周 顯德三年 三月降。） 〉",
+    "entities": [
+      {
+        "text": "慈州仵城縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "呂香縣",
+        "label": "LOC",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "顯德三年",
+        "label": "TME",
+        "start": 15,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000059",
+    "sentence": "河北道",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_150_000060",
+    "sentence": "鎮州 〈 （後唐 同光元年 四月，改為北京，至十一月，復改為成德縣。） 〉",
+    "entities": [
+      {
+        "text": "鎮州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "同光元年",
+        "label": "TME",
+        "start": 9,
+        "end": 13
+      },
+      {
+        "text": "復改為成德縣",
+        "label": "LOC",
+        "start": 27,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000061",
+    "sentence": "幽州北平縣 〈 （後唐 長興三年 八月，改為燕平縣。） 〉",
+    "entities": [
+      {
+        "text": "幽州北平縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 14,
+        "end": 16
+      },
+      {
+        "text": "改為燕平縣",
+        "label": "LOC",
+        "start": 20,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000062",
+    "sentence": "滄州長蘆縣、乾符縣 〈 （周顯德三年十月，並入清池縣） 〉",
+    "entities": [
+      {
+        "text": "滄州長蘆縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "乾符縣",
+        "label": "LOC",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "顯德三年",
+        "label": "TME",
+        "start": 14,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000063",
+    "sentence": "無棣縣 〈 （周 顯德五年 ，改為保順軍。） 〉",
+    "entities": [
+      {
+        "text": "無棣縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "顯德五年",
+        "label": "TME",
+        "start": 9,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000064",
+    "sentence": "弓高縣 〈 （周 顯德六年 二月，並入東光縣。 〉",
+    "entities": [
+      {
+        "text": "弓高縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "顯德六年",
+        "label": "TME",
+        "start": 9,
+        "end": 13
+      },
+      {
+        "text": "並入東光縣",
+        "label": "LOC",
+        "start": 17,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000065",
+    "sentence": "博州武水縣 〈 （周 顯德三年 十月，並入聊城。） 〉",
+    "entities": [
+      {
+        "text": "博州武水縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "顯德三年",
+        "label": "TME",
+        "start": 11,
+        "end": 15
+      },
+      {
+        "text": "並入聊城",
+        "label": "LOC",
+        "start": 19,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000066",
+    "sentence": "深州博野縣 〈 （周 顯德四年 五月，割隸定州。） 〉",
+    "entities": [
+      {
+        "text": "深州博野縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "顯德四年",
+        "label": "TME",
+        "start": 11,
+        "end": 15
+      },
+      {
+        "text": "割隸定州",
+        "label": "LOC",
+        "start": 19,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000067",
+    "sentence": "澤州 〈 （梁 開平元年 六月，割隸河陽，四年二月，卻隸潞州。） 〉",
+    "entities": [
+      {
+        "text": "澤州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 21,
+        "end": 23
+      },
+      {
+        "text": "卻隸潞州",
+        "label": "LOC",
+        "start": 26,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000068",
+    "sentence": "德州 〈 （晉 天福五年 十一月，移就長河縣為理所。） 〉",
+    "entities": [
+      {
+        "text": "德州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "五年",
+        "label": "TME",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "移就長河縣",
+        "label": "LOC",
+        "start": 17,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000069",
+    "sentence": "泰州 〈 （後唐 天成三年 三月，升奉化軍為泰州，以清苑縣為理所，至晉 開運二年 九月，移就滿城縣。至周 廣順二年 二月，廢州，其滿城割隸易州。） 〉",
+    "entities": [
+      {
+        "text": "泰州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "天成三年",
+        "label": "TME",
+        "start": 9,
+        "end": 13
+      },
+      {
+        "text": "升奉化軍為泰州",
+        "label": "LOC",
+        "start": 17,
+        "end": 24
+      },
+      {
+        "text": "以清苑縣",
+        "label": "LOC",
+        "start": 25,
+        "end": 29
+      },
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 38,
+        "end": 40
+      },
+      {
+        "text": "移就滿城縣",
+        "label": "LOC",
+        "start": 44,
+        "end": 49
+      },
+      {
+        "text": "廣順二年",
+        "label": "TME",
+        "start": 53,
+        "end": 57
+      },
+      {
+        "text": "廢州",
+        "label": "LOC",
+        "start": 61,
+        "end": 63
+      },
+      {
+        "text": "其滿城割隸易州",
+        "label": "LOC",
+        "start": 64,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000070",
+    "sentence": "雄州、霸州 〈 （周顯德六年五月，以瓦橋關為雄州。割容城、歸義二縣隸之；益津關為霸州，割文安、大成二縣隸之。地望並為中州，時初平關南故也。） 〉",
+    "entities": [
+      {
+        "text": "雄州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "霸州",
+        "label": "LOC",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "顯德六年",
+        "label": "TME",
+        "start": 10,
+        "end": 14
+      },
+      {
+        "text": "以瓦橋關為雄州",
+        "label": "LOC",
+        "start": 17,
+        "end": 24
+      },
+      {
+        "text": "割容城",
+        "label": "LOC",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "歸義二縣",
+        "label": "LOC",
+        "start": 29,
+        "end": 33
+      },
+      {
+        "text": "益津關為霸州",
+        "label": "LOC",
+        "start": 36,
+        "end": 42
+      },
+      {
+        "text": "大成二縣",
+        "label": "LOC",
+        "start": 47,
+        "end": 51
+      },
+      {
+        "text": "地望並為中州",
+        "label": "LOC",
+        "start": 54,
+        "end": 60
+      },
+      {
+        "text": "時初平關",
+        "label": "LOC",
+        "start": 61,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000071",
+    "sentence": "劍南道",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_150_000072",
+    "sentence": "蜀州唐興縣 〈 （梁 開平二年 八月，改為陶胡縣。後唐 同光元年 十月，復為唐興縣。） 〉",
+    "entities": [
+      {
+        "text": "蜀州唐興縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 13,
+        "end": 15
+      },
+      {
+        "text": "改為陶胡縣",
+        "label": "LOC",
+        "start": 19,
+        "end": 24
+      },
+      {
+        "text": "同光元年",
+        "label": "TME",
+        "start": 28,
+        "end": 32
+      },
+      {
+        "text": "復為唐興縣",
+        "label": "LOC",
+        "start": 36,
+        "end": 41
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000073",
+    "sentence": "彭州唐昌縣 〈 （梁開平二年八月，改為歸化縣。後唐同光元年十月，復為唐昌縣。） 〉",
+    "entities": [
+      {
+        "text": "彭州唐昌縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 12,
+        "end": 14
+      },
+      {
+        "text": "改為歸化縣",
+        "label": "LOC",
+        "start": 17,
+        "end": 22
+      },
+      {
+        "text": "同光元年",
+        "label": "TME",
+        "start": 25,
+        "end": 29
+      },
+      {
+        "text": "復為唐昌縣",
+        "label": "LOC",
+        "start": 32,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000074",
+    "sentence": "江南道",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_150_000075",
+    "sentence": "杭州臨安縣 〈 （梁開平二年正月，改為安國縣。） 〉",
+    "entities": [
+      {
+        "text": "杭州臨安縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 12,
+        "end": 14
+      },
+      {
+        "text": "改為安國縣",
+        "label": "LOC",
+        "start": 17,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000076",
+    "sentence": "福州閩清縣 〈 （梁 開平元年 十月，移就梅溪場置。） 〉",
+    "entities": [
+      {
+        "text": "福州閩清縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000077",
+    "sentence": "蘇州吳江縣 〈 （梁 開平三年 閏八月，兩浙奏，於吳松江置縣。） 〉",
+    "entities": [
+      {
+        "text": "蘇州吳江縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 13,
+        "end": 15
+      },
+      {
+        "text": "於吳松江置縣",
+        "label": "LOC",
+        "start": 24,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000078",
+    "sentence": "明州望海縣 〈 （梁開平三年閏八月，兩浙奏置。） 〉",
+    "entities": [
+      {
+        "text": "明州望海縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 12,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000079",
+    "sentence": "處州松楊縣 〈 （梁 開平四年 五月，改為長松縣。） 〉",
+    "entities": [
+      {
+        "text": "處州松楊縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 13,
+        "end": 15
+      },
+      {
+        "text": "改為長松縣",
+        "label": "LOC",
+        "start": 19,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000080",
+    "sentence": "秀州 〈 （晉 天福三年 十月，兩浙錢元瓘奏，以杭州嘉興縣置。） 〉",
+    "entities": [
+      {
+        "text": "秀州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "以杭州嘉興縣",
+        "label": "LOC",
+        "start": 23,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000081",
+    "sentence": "湘州 〈 （晉 天福四年 四月，湖南馬希範奏，以湘川縣置州，仍置清湘縣，並割灌陽縣隸之。） 〉",
+    "entities": [
+      {
+        "text": "湘州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "以湘川縣置州",
+        "label": "LOC",
+        "start": 23,
+        "end": 29
+      },
+      {
+        "text": "仍置清湘縣",
+        "label": "LOC",
+        "start": 30,
+        "end": 35
+      },
+      {
+        "text": "並割灌陽縣",
+        "label": "LOC",
+        "start": 36,
+        "end": 41
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000082",
+    "sentence": "淮南道",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_150_000083",
+    "sentence": "壽州 〈 （周 顯德四年 ，移於潁州下蔡縣，仍以下蔡縣為倚郭，以舊壽州為壽春縣。） 〉",
+    "entities": [
+      {
+        "text": "壽州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "顯德四年",
+        "label": "TME",
+        "start": 8,
+        "end": 12
+      },
+      {
+        "text": "移於潁州下蔡縣",
+        "label": "LOC",
+        "start": 14,
+        "end": 21
+      },
+      {
+        "text": "仍以下蔡縣",
+        "label": "LOC",
+        "start": 22,
+        "end": 27
+      },
+      {
+        "text": "以舊壽州",
+        "label": "LOC",
+        "start": 31,
+        "end": 35
+      },
+      {
+        "text": "為壽春縣",
+        "label": "LOC",
+        "start": 35,
+        "end": 39
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000084",
+    "sentence": "盛唐縣 〈 （梁 開平二年 八月，改為灊山縣。後唐 同光元年 十月，復為盛唐。） 〉",
+    "entities": [
+      {
+        "text": "盛唐縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 11,
+        "end": 13
+      },
+      {
+        "text": "改為灊山縣",
+        "label": "LOC",
+        "start": 17,
+        "end": 22
+      },
+      {
+        "text": "同光元年",
+        "label": "TME",
+        "start": 26,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000085",
+    "sentence": "山南道",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_150_000086",
+    "sentence": "復州 〈 （梁 乾化二年 十月，割隸荊南。後唐天成二年五月，卻隸襄州。晉 天福五年 七月，直屬京，並為防禦。） 〉",
+    "entities": [
+      {
+        "text": "復州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "天成二年",
+        "label": "TME",
+        "start": 23,
+        "end": 27
+      },
+      {
+        "text": "卻隸襄州",
+        "label": "LOC",
+        "start": 30,
+        "end": 34
+      },
+      {
+        "text": "晉",
+        "label": "ORG",
+        "start": 35,
+        "end": 36
+      },
+      {
+        "text": "五年",
+        "label": "TME",
+        "start": 39,
+        "end": 41
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000087",
+    "sentence": "果州 〈 （後唐 天成二年 五月，隸利州。） 〉",
+    "entities": [
+      {
+        "text": "果州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "天成二年",
+        "label": "TME",
+        "start": 9,
+        "end": 13
+      },
+      {
+        "text": "隸利州",
+        "label": "LOC",
+        "start": 17,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000088",
+    "sentence": "唐州慈丘縣 〈 （周 顯德三年 三月廢。） 〉",
+    "entities": [
+      {
+        "text": "唐州慈丘縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "顯德三年",
+        "label": "TME",
+        "start": 11,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000089",
+    "sentence": "鄧州臨湍縣 〈 （漢 乾祐元年 正月，改為臨瀨縣，避廟諱也。） 〉",
+    "entities": [
+      {
+        "text": "鄧州臨湍縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "乾祐元年",
+        "label": "TME",
+        "start": 11,
+        "end": 15
+      },
+      {
+        "text": "改為臨瀨縣",
+        "label": "LOC",
+        "start": 19,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000090",
+    "sentence": "菊潭縣、向城縣 〈 （周 顯德三年 三月廢。） 〉",
+    "entities": [
+      {
+        "text": "菊潭縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "向城縣",
+        "label": "LOC",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "顯德三年",
+        "label": "TME",
+        "start": 13,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000091",
+    "sentence": "商州乾元縣 〈 （漢 乾祐二年 六月，改為乾祐縣，割隸京兆。） 〉",
+    "entities": [
+      {
+        "text": "商州乾元縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "乾祐二年",
+        "label": "TME",
+        "start": 11,
+        "end": 15
+      },
+      {
+        "text": "改為乾祐縣",
+        "label": "LOC",
+        "start": 19,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000092",
+    "sentence": "襄州樂鄉縣 〈 （周 顯德六年 二月，並入宜城。） 〉",
+    "entities": [
+      {
+        "text": "襄州樂鄉縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "顯德六年",
+        "label": "TME",
+        "start": 11,
+        "end": 15
+      },
+      {
+        "text": "並入宜城",
+        "label": "LOC",
+        "start": 19,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000093",
+    "sentence": "隴右道",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_150_000094",
+    "sentence": "秦州天水縣、隴城縣 〈 （後唐 長興三年 二月，秦州奏：「見管長道、成紀、清水三縣外，有十鎮，征科並系鎮將。今請以歸化、恕水、五龍、黃土四鎮就歸化鎮復置舊隴城縣，赤砂、染坊、夕陽、南冶、鐵務五鎮就赤砂鎮復置舊天水縣。其白石、大澤、良恭三鎮割屬長道縣。」從之。） 〉",
+    "entities": [
+      {
+        "text": "秦州天水縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "隴城縣",
+        "label": "LOC",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 18,
+        "end": 20
+      },
+      {
+        "text": "秦州",
+        "label": "LOC",
+        "start": 24,
+        "end": 26
+      },
+      {
+        "text": "清水三縣",
+        "label": "LOC",
+        "start": 37,
+        "end": 41
+      },
+      {
+        "text": "有十鎮",
+        "label": "LOC",
+        "start": 43,
+        "end": 46
+      },
+      {
+        "text": "征科並系鎮",
+        "label": "LOC",
+        "start": 47,
+        "end": 52
+      },
+      {
+        "text": "黃土四鎮",
+        "label": "LOC",
+        "start": 66,
+        "end": 70
+      },
+      {
+        "text": "就歸化鎮",
+        "label": "LOC",
+        "start": 70,
+        "end": 74
+      },
+      {
+        "text": "復置舊隴城縣",
+        "label": "LOC",
+        "start": 74,
+        "end": 80
+      },
+      {
+        "text": "鐵務五鎮",
+        "label": "LOC",
+        "start": 93,
+        "end": 97
+      },
+      {
+        "text": "就赤砂鎮",
+        "label": "LOC",
+        "start": 97,
+        "end": 101
+      },
+      {
+        "text": "復置舊天水縣",
+        "label": "LOC",
+        "start": 101,
+        "end": 107
+      },
+      {
+        "text": "良恭三鎮",
+        "label": "LOC",
+        "start": 115,
+        "end": 119
+      },
+      {
+        "text": "割屬長道縣",
+        "label": "LOC",
+        "start": 119,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000095",
+    "sentence": "成州同谷縣、栗亭縣 〈 （後唐 清泰三年 六月，秦州奏：「階州元管將利、福津兩縣，並無遷鎮，成州元管同谷縣，餘並是鎮，便系征科。今欲取成州西南近便鎮分並入同谷縣，其東界四鎮，別創一縣者，州西南有府城、長豐、魏平三鎮，其地東至泥陽鎮界二十五里，北至黃竹路金砂鎮界五十里，南至興州界三十里，西至白石鎮界一百一十里，西南至舊階州界砂地嶺四十五里。其三鎮管界並入同谷縣，廢其鎮額。州東界有勝仙、泥陽、金砂、栗亭四鎮，東至鳳州美贍鎮界十五里，南至果州界二十里，北至高橋三十五里，西至同谷界三十五里，北至秦州界六十七里，欲並其四鎮地於栗亭縣。其征科委縣司，捕盜委鎮司。」從之。） 〉",
+    "entities": [
+      {
+        "text": "成州同谷縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "栗亭縣",
+        "label": "LOC",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 18,
+        "end": 20
+      },
+      {
+        "text": "秦州",
+        "label": "LOC",
+        "start": 24,
+        "end": 26
+      },
+      {
+        "text": "階州",
+        "label": "LOC",
+        "start": 29,
+        "end": 31
+      },
+      {
+        "text": "福津兩縣",
+        "label": "LOC",
+        "start": 36,
+        "end": 40
+      },
+      {
+        "text": "並無遷鎮",
+        "label": "LOC",
+        "start": 41,
+        "end": 45
+      },
+      {
+        "text": "成州元管同谷縣",
+        "label": "LOC",
+        "start": 46,
+        "end": 53
+      },
+      {
+        "text": "餘並是鎮",
+        "label": "LOC",
+        "start": 54,
+        "end": 58
+      },
+      {
+        "text": "今欲取成州",
+        "label": "LOC",
+        "start": 64,
+        "end": 69
+      },
+      {
+        "text": "西南近便鎮",
+        "label": "LOC",
+        "start": 69,
+        "end": 74
+      },
+      {
+        "text": "分並入同谷縣",
+        "label": "LOC",
+        "start": 74,
+        "end": 80
+      },
+      {
+        "text": "其東界四鎮",
+        "label": "LOC",
+        "start": 81,
+        "end": 86
+      },
+      {
+        "text": "別創一縣",
+        "label": "LOC",
+        "start": 87,
+        "end": 91
+      },
+      {
+        "text": "州西南有府城",
+        "label": "LOC",
+        "start": 93,
+        "end": 99
+      },
+      {
+        "text": "魏平三鎮",
+        "label": "LOC",
+        "start": 103,
+        "end": 107
+      },
+      {
+        "text": "其地東至泥陽鎮",
+        "label": "LOC",
+        "start": 108,
+        "end": 115
+      },
+      {
+        "text": "至黃竹路金砂鎮",
+        "label": "LOC",
+        "start": 122,
+        "end": 129
+      },
+      {
+        "text": "南至興州",
+        "label": "LOC",
+        "start": 134,
+        "end": 138
+      },
+      {
+        "text": "西至白石鎮",
+        "label": "LOC",
+        "start": 143,
+        "end": 148
+      },
+      {
+        "text": "西南至舊階州",
+        "label": "LOC",
+        "start": 155,
+        "end": 161
+      },
+      {
+        "text": "其三鎮",
+        "label": "LOC",
+        "start": 170,
+        "end": 173
+      },
+      {
+        "text": "管界並入同谷縣",
+        "label": "LOC",
+        "start": 173,
+        "end": 180
+      },
+      {
+        "text": "廢其鎮",
+        "label": "LOC",
+        "start": 181,
+        "end": 184
+      },
+      {
+        "text": "栗亭四鎮",
+        "label": "LOC",
+        "start": 199,
+        "end": 203
+      },
+      {
+        "text": "東至鳳州美贍鎮",
+        "label": "LOC",
+        "start": 204,
+        "end": 211
+      },
+      {
+        "text": "南至果州",
+        "label": "LOC",
+        "start": 216,
+        "end": 220
+      },
+      {
+        "text": "北至秦州",
+        "label": "LOC",
+        "start": 244,
+        "end": 248
+      },
+      {
+        "text": "欲並其四鎮",
+        "label": "LOC",
+        "start": 254,
+        "end": 259
+      },
+      {
+        "text": "地於栗亭縣",
+        "label": "LOC",
+        "start": 259,
+        "end": 264
+      },
+      {
+        "text": "其征科委縣",
+        "label": "LOC",
+        "start": 265,
+        "end": 270
+      },
+      {
+        "text": "捕盜委鎮",
+        "label": "LOC",
+        "start": 272,
+        "end": 276
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000096",
+    "sentence": "嶺南道",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_150_000097",
+    "sentence": "潘州茂名縣 〈 （梁 開平元年 五月，改為越裳縣。至後唐 同光元年 十月，復為茂名縣。） 〉",
+    "entities": [
+      {
+        "text": "潘州茂名縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 13,
+        "end": 15
+      },
+      {
+        "text": "改為越裳縣",
+        "label": "LOC",
+        "start": 19,
+        "end": 24
+      },
+      {
+        "text": "同光元年",
+        "label": "TME",
+        "start": 29,
+        "end": 33
+      },
+      {
+        "text": "復為茂名縣",
+        "label": "LOC",
+        "start": 37,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000098",
+    "sentence": "桂州純化縣 〈 （梁開平元年五月，改為歸化縣。後唐同光元年十月，復為純化縣。） 〉",
+    "entities": [
+      {
+        "text": "桂州純化縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 12,
+        "end": 14
+      },
+      {
+        "text": "改為歸化縣",
+        "label": "LOC",
+        "start": 17,
+        "end": 22
+      },
+      {
+        "text": "同光元年",
+        "label": "TME",
+        "start": 25,
+        "end": 29
+      },
+      {
+        "text": "復為純化縣",
+        "label": "LOC",
+        "start": 32,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000099",
+    "sentence": "邕州 〈 （晉 天福七年 七月，改為誠州，避廟諱。） 〉",
+    "entities": [
+      {
+        "text": "邕州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "七年",
+        "label": "TME",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "改為誠州",
+        "label": "LOC",
+        "start": 16,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000100",
+    "sentence": "溥州 〈 （晉 開運三年 三月，升桂州全義縣為州，仍改全義縣為德昌縣，並割桂州臨川、廣明、義寧等三縣隸之，從湖南馬希範奏也。） 〉",
+    "entities": [
+      {
+        "text": "溥州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "升桂州全義縣",
+        "label": "LOC",
+        "start": 16,
+        "end": 22
+      },
+      {
+        "text": "為州",
+        "label": "LOC",
+        "start": 22,
+        "end": 24
+      },
+      {
+        "text": "仍改全義縣",
+        "label": "LOC",
+        "start": 25,
+        "end": 30
+      },
+      {
+        "text": "為德昌縣",
+        "label": "LOC",
+        "start": 30,
+        "end": 34
+      },
+      {
+        "text": "並割桂州",
+        "label": "LOC",
+        "start": 35,
+        "end": 39
+      },
+      {
+        "text": "義寧等三縣",
+        "label": "LOC",
+        "start": 45,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_150_000101",
+    "sentence": "本北宋作品在全世界都属于 公有领域 ，因为作者逝世已经遠遠超过100年。",
+    "entities": [
+      {
+        "text": "100年",
+        "label": "TME",
+        "start": 31,
+        "end": 35
+      }
+    ]
+  }
+]

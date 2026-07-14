@@ -1,0 +1,665 @@
+[
+  {
+    "sentence_id": "HCH_006_002_000001",
+    "sentence": "孝惠皇帝，高祖太子也，母曰呂皇后。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000002",
+    "sentence": "帝年五歲，高祖初為漢王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000003",
+    "sentence": "二年，立為太子。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000004",
+    "sentence": "十二年四月，高祖 崩。",
+    "entities": [
+      {
+        "text": "十二年",
+        "label": "TME",
+        "start": 0,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000005",
+    "sentence": "五月丙寅，太子即皇帝位，尊皇后曰皇太后。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000006",
+    "sentence": "賜民爵一級。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000007",
+    "sentence": "中郎、郎中滿六歲爵三級，四歲二級。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000008",
+    "sentence": "外郎滿六歲二級。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000009",
+    "sentence": "中郎不滿一歲一級。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000010",
+    "sentence": "外郎不滿二歲賜錢萬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000011",
+    "sentence": "宦官尚食比郎中。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000012",
+    "sentence": "謁者、執楯、執戟、武士、騶比外郎。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000013",
+    "sentence": "太子御驂乘賜爵五大夫，舍人滿五歲二級。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000014",
+    "sentence": "賜給喪事者，二千石錢二萬，六百石以上萬，五百石、二百石以 下至佐史五千。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000015",
+    "sentence": "視作斥上者，將軍四十金，二千石二十金，六百石以上六金，五百石以下至佐史二金。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000016",
+    "sentence": "減田租，復十五稅一。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000017",
+    "sentence": "爵五大夫、吏六百石以上及宦皇帝而知 名者有罪當盜械者，皆頌繫。",
+    "entities": [
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000018",
+    "sentence": "上造以上及內外公孫耳孫有罪當刑及當為城旦舂者，皆耐為鬼薪白粲。",
+    "entities": [
+      {
+        "text": "罪當刑及當為城",
+        "label": "LOC",
+        "start": 12,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000019",
+    "sentence": "民年七十以上若不滿十歲有罪當刑者，皆完之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000020",
+    "sentence": "又曰：「吏所以 治民也，能盡其治則民賴之，故重其祿，所以為民也。今吏六百石以上父母妻子與同居，及故吏嘗佩將軍都尉印將兵及佩二千石官印者，家唯給軍賦，他無有所與。令郡諸侯王立高廟。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 52,
+        "end": 54
+      },
+      {
+        "text": "令郡",
+        "label": "LOC",
+        "start": 80,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000021",
+    "sentence": "元年",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000022",
+    "sentence": "元年冬十二月，趙隱王如意薨。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000023",
+    "sentence": "民有罪，得買爵三十級以免死罪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000024",
+    "sentence": "賜民爵，戶一級。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000025",
+    "sentence": "春正月，城長安。",
+    "entities": [
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 5,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000026",
+    "sentence": "二年",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000027",
+    "sentence": "二年冬十月，齊悼惠王來朝，獻城陽郡以益魯元公主邑，尊公主為太后。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "獻城陽郡",
+        "label": "LOC",
+        "start": 13,
+        "end": 17
+      },
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 21,
+        "end": 23
+      },
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 26,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000028",
+    "sentence": "春正月癸酉，有兩龍見蘭陵家人井中，乙亥夕而不見。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000029",
+    "sentence": "隴西地震。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000030",
+    "sentence": "夏旱。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000031",
+    "sentence": "郃陽侯仲薨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000032",
+    "sentence": "秋七月辛未，相國何薨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000033",
+    "sentence": "三年",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000034",
+    "sentence": "三年春，發長安六百里內男女十四萬六千人城長安，三十日罷。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 5,
+        "end": 7
+      },
+      {
+        "text": "十四萬六千人城",
+        "label": "LOC",
+        "start": 13,
+        "end": 20
+      },
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 20,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000035",
+    "sentence": "以宗室女為公主，嫁匈奴單于。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000036",
+    "sentence": "夏五月，立閩越君搖為東海王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000037",
+    "sentence": "六月，發諸侯王、列侯徒隸二萬人城長安。",
+    "entities": [
+      {
+        "text": "侯徒隸二萬人城",
+        "label": "LOC",
+        "start": 9,
+        "end": 16
+      },
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 16,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000038",
+    "sentence": "秋七月，都廄災。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000039",
+    "sentence": "南越王趙佗稱臣奉貢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000040",
+    "sentence": "四年",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000041",
+    "sentence": "四年冬十月壬寅，立皇后張氏。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000042",
+    "sentence": "春正月，舉民孝弟力田者復其身。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000043",
+    "sentence": "三月甲子，皇帝冠，赦天下。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000044",
+    "sentence": "省法令妨吏民者；除挾書律。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000045",
+    "sentence": "長樂宮鴻臺災。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000046",
+    "sentence": "宜陽雨血。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000047",
+    "sentence": "秋七月乙亥，未央宮凌室災；丙子，織室災。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000048",
+    "sentence": "五年",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000049",
+    "sentence": "五年冬十月，剨；桃李華，棗實。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000050",
+    "sentence": "春正月，復發長安六百里內男女十四萬五千人城長安，三十日罷。",
+    "entities": [
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 6,
+        "end": 8
+      },
+      {
+        "text": "十四萬五千人城",
+        "label": "LOC",
+        "start": 14,
+        "end": 21
+      },
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 21,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000051",
+    "sentence": "夏，大旱。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000052",
+    "sentence": "秋八月己丑，相國參薨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000053",
+    "sentence": "九月，長安城成。",
+    "entities": [
+      {
+        "text": "長安城",
+        "label": "LOC",
+        "start": 3,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000054",
+    "sentence": "賜民爵，戶一級。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000055",
+    "sentence": "六年",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000056",
+    "sentence": "六年冬十月辛丑，齊王肥薨。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000057",
+    "sentence": "令民得賣爵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000058",
+    "sentence": "女子年十五以上至三十不嫁，五算。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000059",
+    "sentence": "夏六月，舞陽侯噲薨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000060",
+    "sentence": "起長安西巿，修敖倉。",
+    "entities": [
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 1,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000061",
+    "sentence": "七年",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000062",
+    "sentence": "七年冬十月，發車騎、材官詣滎陽，太尉灌嬰將。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_006_002_000063",
+    "sentence": "春正月辛丑朔，日有蝕之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000064",
+    "sentence": "夏五月丁卯，日有蝕之，既。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000065",
+    "sentence": "秋八月戊寅，帝崩于未央宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000066",
+    "sentence": "九月辛丑，葬安陵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000067",
+    "sentence": "贊曰：孝惠內修親親，外禮宰相，優寵齊悼、趙隱，恩敬篤矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000068",
+    "sentence": "聞叔孫通之諫則懼然，納曹相國之對而心說，可謂寬仁之主。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_006_002_000069",
+    "sentence": "遭呂太后虧損至德，悲夫！",
+    "entities": []
+  }
+]

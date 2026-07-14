@@ -1,0 +1,2401 @@
+[
+  {
+    "sentence_id": "HCH_008_116_000001",
+    "sentence": "肅宗子",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000002",
+    "sentence": "肅宗皇帝十四子：章敬皇后生代宗皇帝，宮人孫氏生越王係，張氏生承天皇帝，王氏生衛王佖，陳婕妤生彭王僅，韋妃生兗王僴，張美人生涇王侹，裴昭儀生襄王僙，段婕妤生杞王倕，崔妃生召王偲，張皇后生恭懿太子佋、定王侗，宮人生鄆王榮、宋王僖。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 15,
+        "end": 17
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 32,
+        "end": 34
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 89,
+        "end": 91
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 94,
+        "end": 96
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000003",
+    "sentence": "越王",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000004",
+    "sentence": "越王係，本名儋，肅宗第二子也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000005",
+    "sentence": "天寶中，封南陽郡王，授特進。",
+    "entities": [
+      {
+        "text": "封南陽郡",
+        "label": "LOC",
+        "start": 4,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000006",
+    "sentence": "至德二年十二月，進封趙王。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000007",
+    "sentence": "乾元二年三月，九節度之兵潰於河北，史思明僭號於相州，王師未集，朝廷震駭。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "思明僭號於相州",
+        "label": "LOC",
+        "start": 18,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000008",
+    "sentence": "詔以李光弼握兵關東以代子儀。",
+    "entities": [
+      {
+        "text": "以李光弼握兵關",
+        "label": "LOC",
+        "start": 1,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000009",
+    "sentence": "光弼請以親賢統師，七月，詔曰：",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000010",
+    "sentence": "握兵之要，古先為重；命帥之道，心膂攸憑。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000011",
+    "sentence": "是知靖難夷兇，必資於金革；總戎授律，實仗於親賢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000012",
+    "sentence": "蓋將底寧邦家，保息黎獻者矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000013",
+    "sentence": "朕以薄德，纘承鴻緒，往屬元兇暴亂，中夏不寧。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000014",
+    "sentence": "上憑宗社之靈，下藉熊羆之力，由是廓清鹹、洛，拯此生人。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000015",
+    "sentence": "頃以河朔殘妖，尚稽天討，蛇豕竊依於城堡，塗炭久被於齊氓，朕為人父母，寧忘閔念。",
+    "entities": [
+      {
+        "text": "蛇豕竊依於城",
+        "label": "LOC",
+        "start": 12,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000016",
+    "sentence": "雖好生息戰，每冀其歸降；而余孽昧恩，靡聞於悔禍。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000017",
+    "sentence": "所以軒後親征於獯鬻，周文致役於昆夷，古之用兵，蓋非獲已。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000018",
+    "sentence": "趙王係幼稟異操，夙懷韜略，負東平之文學，蘊任城之智勇。",
+    "entities": [
+      {
+        "text": "蘊任城",
+        "label": "LOC",
+        "start": 20,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000019",
+    "sentence": "性惟忠孝，持愛敬以立身；誌尚權謀，有經通之遠智。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000020",
+    "sentence": "知子者父，方有屬於維城；擇能而授，俾克申於戎律。",
+    "entities": [
+      {
+        "text": "方有屬於維城",
+        "label": "LOC",
+        "start": 5,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000021",
+    "sentence": "且兇徒嘯聚，頗歷歲時，惡既貫盈，理當撲滅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000022",
+    "sentence": "君親有命，可不敬乎！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000023",
+    "sentence": "俾展龍豹之韜，永清梟獍之類。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000024",
+    "sentence": "可充天下兵馬元帥，仍令司空、兼侍中、薊國公光弼副知節度行營事。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000025",
+    "sentence": "應緣軍司署置，所司準式。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000026",
+    "sentence": "九月，史思明陷洛陽，光弼以副元帥董兵守河陽，王不出京師。",
+    "entities": [
+      {
+        "text": "洛陽",
+        "label": "LOC",
+        "start": 7,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000027",
+    "sentence": "十月，下詔車駕親征，諫官論奏乃止；王請行，不許。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000028",
+    "sentence": "三年四月，改封越王。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000029",
+    "sentence": "寶應元年四月，肅宗寢疾彌留。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000030",
+    "sentence": "皇后張氏與中官李輔國有隙，因皇太子監國，謀誅輔國，使人以肅宗命召太子入宮。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 15,
+        "end": 17
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 32,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000031",
+    "sentence": "皇后謂太子曰：「賊臣輔國，久典禁軍，四方詔令，皆出其口。頃矯制命，逼徙聖皇。今聖體彌留，心懷怏怏，常忌吾與汝。又聞射生內侍程元振結托黃門，將圖不軌，若不誅之，禍在頃刻。」太子泣而對曰：「此二人是陛下勛舊內臣，今聖躬不康，重以此事驚撓聖慮，情所難任。若決行此命，當出外徐圖之。」後知太子難與共事，乃召係謂之曰：「皇太子仁惠，不足以圖平禍難。」復以除輔國謀告之，曰：「汝能行此事乎？」係曰：「能。」後令內謁者監段恆俊與越王謀，召中官有武勇者二百余人，授甲於長生殿。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 85,
+        "end": 87
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 140,
+        "end": 142
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 156,
+        "end": 158
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000032",
+    "sentence": "是月乙丑，皇后矯詔召太子，程元振伺知之，告輔國。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000033",
+    "sentence": "元振握兵於淩霄門候之，太子既至，以難告。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000034",
+    "sentence": "太子曰：「必無此事。聖恙危篤，吾豈懼死不赴召乎？」元振曰：「為社稷計，行則禍及矣。」遂以兵護太子匿於飛龍廄。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 46,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000035",
+    "sentence": "丙寅夜，元振、輔國勒兵於三殿前，收捕越王及同謀內侍硃光輝、段恆俊等百余人。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000036",
+    "sentence": "禁系幽皇后於別殿，侍者十數人隨之。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000037",
+    "sentence": "是日，皇后、越王俱為輔國所害",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000038",
+    "sentence": "係子：建、逌、逾。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000039",
+    "sentence": "建，建中元年十一月，封武威郡王，授殿中監同正員；逌封興道郡王，授殿中監同正員；逾封齊國公，光祿卿同正員。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 4,
+        "end": 6
+      },
+      {
+        "text": "封武威郡",
+        "label": "LOC",
+        "start": 10,
+        "end": 14
+      },
+      {
+        "text": "逌封興道郡",
+        "label": "LOC",
+        "start": 24,
+        "end": 29
+      },
+      {
+        "text": "齊國",
+        "label": "ORG",
+        "start": 41,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000040",
+    "sentence": "承天皇帝",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000041",
+    "sentence": "承天皇帝倓，肅宗第三子也。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000042",
+    "sentence": "天寶中，封建寧郡王，授太常卿同正員。",
+    "entities": [
+      {
+        "text": "封建寧郡",
+        "label": "LOC",
+        "start": 4,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000043",
+    "sentence": "英毅有才略，善射。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000044",
+    "sentence": "祿山之亂，玄宗幸蜀，倓兄弟典親兵扈從。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000045",
+    "sentence": "車駕渡渭，百姓遮道乞留太子，太子諭之曰：「至尊奔播，吾不忍違離左右，俟吾見上奏聞。」倓於行宮謂太子曰：「逆胡犯順，四海分崩，不因人情，何以興復？夫有國家者，大孝莫若存社稷。今從至尊入蜀，則散關已東，非皇家所有，何以維屬人情？殿下宜購募豪傑，暫往河西，收拾戎馬，點集防邊將卒，不下十萬人，光弼、子儀，全軍河朔，謀為興復，計之上也。」廣平王亦贊成之，於是令李輔國奏聞。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 47,
+        "end": 49
+      },
+      {
+        "text": "蜀",
+        "label": "ORG",
+        "start": 91,
+        "end": 92
+      },
+      {
+        "text": "則散關",
+        "label": "LOC",
+        "start": 93,
+        "end": 96
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000046",
+    "sentence": "玄宗欣然聽納，乃分從官、士卒以遣之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000047",
+    "sentence": "時敗卒膽破，兵仗不完，太子既北上，渡渭，一日百戰。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000048",
+    "sentence": "倓自選驍騎數百衛從，每蒼黃顛沛之際，血戰在前。",
+    "entities": [
+      {
+        "text": "沛",
+        "label": "LOC",
+        "start": 14,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000049",
+    "sentence": "太子或過時不得食，倓涕泗不自勝，上尤憐之，軍士屬目歸於倓。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000050",
+    "sentence": "至靈武，太子即帝位。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000051",
+    "sentence": "廣平既為元子，欲以倓為天下兵馬元帥。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000052",
+    "sentence": "侍臣曰：「廣平王冢嗣，有君人之量。」上曰：「廣平地當儲貳，何假更為元帥？」左右曰：「廣平今未冊立，艱難時人尤屬望於元帥。況太子從曰撫軍，守曰監國。今之元帥，撫軍也，廣平為宜。」遂以廣平為元帥，倓典親軍，李輔國為元帥府司馬。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 61,
+        "end": 63
+      },
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 108,
+        "end": 110
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000053",
+    "sentence": "時張良娣有寵，倓性忠謇，因侍上屢言良娣頗自恣，輔國連結內外，欲傾動皇嗣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000054",
+    "sentence": "自是，日為良娣、輔國所構，雲「建寧恨不得兵權，頗畜異志。」肅宗怒，賜倓死。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000055",
+    "sentence": "既而省悟，悔之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000056",
+    "sentence": "明年冬，廣平王收復兩京，遣判官李泌入朝獻捷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000057",
+    "sentence": "泌與上有東宮之舊，從容語及建寧事，肅宗改容謂泌曰：「倓於艱難時實得氣力，無故為下人之所間，欲圖害其兄，朕以社稷大計，割愛而為之所也。」泌對曰：「爾時臣在河西，豈不知其故。廣平兄弟，天倫篤睦，至今廣平言及建寧，則嗚咽不已。陛下之言，出於讒口也。」帝因泣下曰：「事已及此，無如之何！」泌因奏曰：「臣幼稚時念《黃臺瓜辭》，陛下嘗聞其說乎？高宗大帝有八子，睿宗最幼。天後所生四子，自為行第，故睿宗第四。長曰孝敬皇帝，為太子監國，而仁明孝悌。天後方圖臨朝，乃鴆殺孝敬，立雍王賢為太子。賢每日憂惕，知必不保全，與二弟同侍於父母之側，無由敢言。乃作《黃臺瓜辭》，令樂工歌之，冀天後聞之省悟，即生哀湣。辭云：『種瓜黃臺下，瓜熟子離離。一摘使瓜好，再摘令瓜稀，三摘猶尚可，四摘抱蔓歸。』而太子賢終為天後所逐，死於黔中。陛下有今日運祚，已一摘矣，慎無再摘。」上愕然曰：「公安得有是言！」時廣平王立大功，亦為張皇后所忌，潛構流言，泌因事諷動之。",
+    "entities": [
+      {
+        "text": "《黃臺瓜辭》",
+        "label": "TITLE",
+        "start": 151,
+        "end": 157
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 201,
+        "end": 203
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 205,
+        "end": 207
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 234,
+        "end": 236
+      },
+      {
+        "text": "《黃臺瓜辭》",
+        "label": "TITLE",
+        "start": 267,
+        "end": 273
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 335,
+        "end": 337
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 394,
+        "end": 396
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000058",
+    "sentence": "及代宗即位，深思建寧之冤，追贈齊王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000059",
+    "sentence": "大歷三年五月，詔曰：「故齊王倓，承天祚之慶，保鴻名之光。降誌尊賢，高才好學，藝文博洽，智略宏通。斷必知來，謀皆先事，識無不達，理至逾精。乃者寇盜橫流，鑾輿南幸。先聖以宸扆之戀，將侍君親；惟王以宗廟之重，誓寧家國。克協朕誌，載符天時，立辨群議之非，同獻五原之計。中興之盛，實藉奇功。景命不融，早從厚穸，天倫之愛，震惕良深。流涕追封，胙於東海，頃加表飾，未極哀榮。夫以參舊邦再造之勤，成天下一家之業，而存未峻其等，歿未尊其稱，非所以旌徽烈，明至公也。朕以眇身，纘膺大寶，不及讓王之禮，莫申太弟之嗣，所懷靡殫，邈想逾切，非常之命，寵錫攸宜。敬用追謚曰承天皇帝，與興信公主第十四女張氏冥婚，謚曰恭順皇后。有司準式，擇日冊命，改葬於順陵，仍祔於奉天皇帝廟，同殿異室焉。」",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 274,
+        "end": 276
+      },
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 280,
+        "end": 282
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 295,
+        "end": 297
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 319,
+        "end": 321
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000060",
+    "sentence": "衛王",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000061",
+    "sentence": "衛王佖，肅宗第四子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000062",
+    "sentence": "天寶中，封西平郡王，授殿中監同正員。",
+    "entities": [
+      {
+        "text": "封西平郡",
+        "label": "LOC",
+        "start": 4,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000063",
+    "sentence": "早薨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000064",
+    "sentence": "寶應元年五月，追贈衛王。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000065",
+    "sentence": "彭王",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000066",
+    "sentence": "彭王僅，肅宗第五子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000067",
+    "sentence": "天寶中，封新城郡王，授鴻臚卿同正員。",
+    "entities": [
+      {
+        "text": "封新城郡",
+        "label": "LOC",
+        "start": 4,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000068",
+    "sentence": "至德二年十二月，進封彭王。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000069",
+    "sentence": "乾元二年冬，史思明再陷河洛，關東用兵，人情震懼，群臣請以親王遙統兵柄。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000070",
+    "sentence": "三年四月詔曰：",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000071",
+    "sentence": "古之哲王，宅中禦宇，莫不內封子弟，外建籓維。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000072",
+    "sentence": "故周稱百代，抑聞麟趾之美；漢命六官，亦樹犬牙之制。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000073",
+    "sentence": "歷考前載，率由舊章。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000074",
+    "sentence": "朕以薄德，纘承鴻緒，屬豺狼未殄，金革猶虞。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000075",
+    "sentence": "賴文武藎臣，協心同德，庶克清於玄昆，期永保於皇圖。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000076",
+    "sentence": "且授鉞分符，義已先於用武；又維城作翰，道方弘於建親。",
+    "entities": [
+      {
+        "text": "又維城",
+        "label": "LOC",
+        "start": 13,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000077",
+    "sentence": "咨爾分閫之崇，成予磐石之固。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000078",
+    "sentence": "彭王僅等，銀潢毓慶，璿萼分輝，忠孝稟於天成，文武稱其備用。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000079",
+    "sentence": "今三秦之地，萬國來庭，誠宜列皇子以建封，崇懿籓而制勝，是資固本，委以臨戎。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000080",
+    "sentence": "彭王僅可充河西節度大使，兗王僴可充北庭節度大使，涇王侹可充隴右節度大使，杞王倕可充陜西節度大使，興王佋可充鳳翔節度大使。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000081",
+    "sentence": "僅，是歲薨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000082",
+    "sentence": "子鎮，授太仆卿同正員，封常山郡王。",
+    "entities": [
+      {
+        "text": "子鎮",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "封常山郡",
+        "label": "LOC",
+        "start": 11,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000083",
+    "sentence": "兗王",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000084",
+    "sentence": "兗王僴，肅宗第六子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000085",
+    "sentence": "母韋妃，刑部尚書堅之妹。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000086",
+    "sentence": "肅宗在東宮，選為太子妃，生僴及永和公主。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      },
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 17,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000087",
+    "sentence": "堅後為李林甫誣構被誅，太子懼，奏請與妃離異，於別宮安置，僴，天寶中封潁川郡王，授太子詹事同正員。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      },
+      {
+        "text": "天寶中封潁川郡",
+        "label": "LOC",
+        "start": 30,
+        "end": 37
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 40,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000088",
+    "sentence": "至德二年十二月，進封兗王。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000089",
+    "sentence": "乾元三年，領北庭節度大使。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000090",
+    "sentence": "寶應元年薨。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000091",
+    "sentence": "涇王",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000092",
+    "sentence": "涇王侹，肅宗第七子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000093",
+    "sentence": "天寶中，封東陽郡王，授光祿卿同正員。",
+    "entities": [
+      {
+        "text": "封東陽郡",
+        "label": "LOC",
+        "start": 4,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000094",
+    "sentence": "至德二載十二月，進封涇王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000095",
+    "sentence": "乾元三年，領隴右節度大使。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000096",
+    "sentence": "興元元年薨。",
+    "entities": [
+      {
+        "text": "元",
+        "label": "ORG",
+        "start": 1,
+        "end": 2
+      },
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000097",
+    "sentence": "鄆王",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000098",
+    "sentence": "鄆王榮，肅宗第八子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000099",
+    "sentence": "天寶中，封靈昌郡王。",
+    "entities": [
+      {
+        "text": "封靈昌郡",
+        "label": "LOC",
+        "start": 4,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000100",
+    "sentence": "早世。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000101",
+    "sentence": "寶應元年五月，追贈鄆王。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000102",
+    "sentence": "襄王",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000103",
+    "sentence": "襄王僙，肅宗第九子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000104",
+    "sentence": "至德二載十二月，封襄王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000105",
+    "sentence": "貞元七年正月薨。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000106",
+    "sentence": "杞王",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000107",
+    "sentence": "杞王倕，肅宗第十子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000108",
+    "sentence": "母段婕妤，貞元六年六月贈為昭儀。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME",
+        "start": 7,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000109",
+    "sentence": "倕，至德二載封，貞元十四年薨。",
+    "entities": [
+      {
+        "text": "十四年",
+        "label": "TME",
+        "start": 10,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000110",
+    "sentence": "召王",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000111",
+    "sentence": "召王偲，肅宗第十一子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000112",
+    "sentence": "至德二載十二月封，元和元年薨。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 11,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000113",
+    "sentence": "恭懿太子",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000114",
+    "sentence": "恭懿太子佋，肅宗第十二子。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000115",
+    "sentence": "至德二載封興王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000116",
+    "sentence": "上元元年六月薨。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000117",
+    "sentence": "佋，皇后張氏所生，上尤鐘受。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000118",
+    "sentence": "後屢危太子，欲以興王為儲貳，會薨而止。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000119",
+    "sentence": "七月丁亥，詔曰：",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000120",
+    "sentence": "厚禮所以飾終，易名所以表行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000121",
+    "sentence": "況情鐘天屬，寵及褒封，載疇加等之美，式備元儲之贈，永懷軫念，有惻彜章。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000122",
+    "sentence": "第十二子故興王佋，毓慶璿源，分華若木，天資純孝，神假聰明。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000123",
+    "sentence": "河間聚書，幼聞樂善之旨；延陵聽樂，早得知音之妙。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000124",
+    "sentence": "頃以暫嬰沈瘵，殆積旬時，而資敬益彰，穎晤逾爽。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000125",
+    "sentence": "愛親之戀，言不間於斯須；告訣之辭，事先符於夢寐。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000126",
+    "sentence": "顧惟至性，實切深哀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000127",
+    "sentence": "將胙土析珪，載崇籓翰，聞《詩》對《易》，爰就琢磨。",
+    "entities": [
+      {
+        "text": "《詩》",
+        "label": "TITLE",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "《易》",
+        "label": "TITLE",
+        "start": 16,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000128",
+    "sentence": "方冀成立，豈期天喪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000129",
+    "sentence": "瑤英始茂，遽摧於當春；隙駟俄遷，忽沈於厚夜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000130",
+    "sentence": "興言痛悼，閔惜良深。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000131",
+    "sentence": "宜賁寵於青宮，俾哀榮於玄穸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000132",
+    "sentence": "可贈太子，謚曰恭懿。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000133",
+    "sentence": "應緣喪葬，所司準式，仍令京兆尹劉晏充監護使。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000134",
+    "sentence": "詔宰臣李揆持節冊命。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000135",
+    "sentence": "十一月，葬於高陽原。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000136",
+    "sentence": "其哀冊曰：",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000137",
+    "sentence": "維上元元年，太歲庚子，六月己未朔，二十六日甲申，皇第十二子、持節鳳翔等四州節度觀察大使興王佋，薨於中京內邸，殯於寢之西階。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "持節鳳翔等四州",
+        "label": "LOC",
+        "start": 30,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000138",
+    "sentence": "粵八月丁亥，冊贈皇太子，廟號恭懿。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000139",
+    "sentence": "冬十一月庚寅，詔葬於長安之高陽原，禮也。",
+    "entities": [
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 10,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000140",
+    "sentence": "燕隧開封，龍辒進轍，陳祖載而就位，儼塗芻以成列。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000141",
+    "sentence": "皇帝哀玉林之悶景，憫璿萼之罹霜，瞻龍綍而增思，懷雁池而永傷。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000142",
+    "sentence": "考謚惟古，褒崇有式。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000143",
+    "sentence": "爰詔史司，恭宣懿德。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000144",
+    "sentence": "其辭曰：",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000145",
+    "sentence": "惟天祚唐，累葉重光，中興宸景，再紐乾綱。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000146",
+    "sentence": "本枝建國，磐石疏疆，克開龍胤，實曰賢王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000147",
+    "sentence": "驪源孕彩，日幹騰芳，深仁廣孝，蘊藝含章。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000148",
+    "sentence": "秀發童年，惠彰齔齒，蹈禮知方，承尊葉旨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000149",
+    "sentence": "對日流辯，占鳳擅美，魯、衛後塵，間、平絕軌。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000150",
+    "sentence": "胡孽初構，王師未班，爰從繈褓，載歷險艱。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000151",
+    "sentence": "愛備中掖，名崇懿籓，居常稟訓，動不違顏。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000152",
+    "sentence": "禮及佩觿，朝加分器，胙土延渥，登壇受帥。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000153",
+    "sentence": "玉質金聲，文經武緯，樂善為寶，崇儒是貴。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000154",
+    "sentence": "浚哲外朗，溫文內深，閱書成誦，觀樂表音。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000155",
+    "sentence": "《五經》在口，六律諧心，才優藝洽，絕古超今。",
+    "entities": [
+      {
+        "text": "《五經》",
+        "label": "TITLE",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000156",
+    "sentence": "蛇豕猶梗，寰區未乂。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000157",
+    "sentence": "滌慮祈真，焚香演偈。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000158",
+    "sentence": "食去葷血，心依定惠。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000159",
+    "sentence": "庶福邦家，俾清兇穢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000160",
+    "sentence": "霧露嬰疾，聰明害神，沈  彖始遘，彌曠盈旬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000161",
+    "sentence": "止慮無擾，發言有倫，在膏方亟，問膳逾勤。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000162",
+    "sentence": "雲物告征，星辰變象，楚藥無救，秦醫莫仗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000163",
+    "sentence": "靈儀窅而上賓，徽音邈其長往。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000164",
+    "sentence": "違舊邸於青社，即幽陵於黃壤。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000165",
+    "sentence": "嗚呼哀哉！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000166",
+    "sentence": "魂氣奪兮去何之，精靈存兮孝有思。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000167",
+    "sentence": "念君親之永隔，托夢寐而來辭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000168",
+    "sentence": "延桂宮而震悼，貫椒壸而纏悲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000169",
+    "sentence": "旌遺芳於碣館，賁新命於儲闈。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000170",
+    "sentence": "鳴呼哀哉！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000171",
+    "sentence": "先遠戒候，占龜獻吉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000172",
+    "sentence": "指鶉野而西臨，背鳳城而右出。",
+    "entities": [
+      {
+        "text": "背鳳城",
+        "label": "LOC",
+        "start": 7,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000173",
+    "sentence": "天慘慘而苦霧，山蒼蒼而曀日。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000174",
+    "sentence": "望馳道而長辭，赴幽塗而永畢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000175",
+    "sentence": "嗚呼哀哉！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000176",
+    "sentence": "生為寵王兮宸愛所鐘，歿追上嗣兮朝典斯崇。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000177",
+    "sentence": "升玉笙於洞府，閱銀棨於泉宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000178",
+    "sentence": "金石誰固，人生有終，簡冊攸記兮德音無窮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000179",
+    "sentence": "敢直詞於篆美，庶永代而成風。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000180",
+    "sentence": "鳴呼哀哉！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000181",
+    "sentence": "佋薨時年八歲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000182",
+    "sentence": "既薨之夕，肅宗、張後俱夢佋有如平昔，拜辭流涕而去。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000183",
+    "sentence": "帝方寢疾，追念過深，故特以儲闈之贈寵之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000184",
+    "sentence": "上疾累月方平。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000185",
+    "sentence": "定王",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000186",
+    "sentence": "定王侗，肅宗第十三子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000187",
+    "sentence": "亦張後所生，佋之母弟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000188",
+    "sentence": "至德二載，封定王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000189",
+    "sentence": "寶應初薨，時年甚幼。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000190",
+    "sentence": "宋王",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000191",
+    "sentence": "宋王僖，肅宗第十四子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000192",
+    "sentence": "初封淮陽王，早夭，追封宋王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000193",
+    "sentence": "代宗子",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000194",
+    "sentence": "代宗皇帝二十子：睿真皇后沈氏生德宗皇帝，崔妃生昭靖太子，獨孤皇后生韓王迥；余十七王，舊史不載母氏所出。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 17,
+        "end": 19
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 25,
+        "end": 27
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 30,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000195",
+    "sentence": "昭靖太子邈，代宗第二子。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000196",
+    "sentence": "寶應元年 ，封鄭王。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000197",
+    "sentence": "大歷初，代皇太子為天下兵馬元帥。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000198",
+    "sentence": "王好讀書，以儒行聞。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000199",
+    "sentence": "大歷九年薨，廢朝三日，由是罷元帥之職。",
+    "entities": [
+      {
+        "text": "九年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000200",
+    "sentence": "上惜其才早夭，冊贈昭靖太子，葬於萬年縣界。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      },
+      {
+        "text": "葬於萬年縣",
+        "label": "LOC",
+        "start": 14,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000201",
+    "sentence": "均王遐，代宗第三子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000202",
+    "sentence": "早夭， 貞元八年 追封。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000203",
+    "sentence": "睦王述，代宗第四子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000204",
+    "sentence": "大歷九年冬，田承嗣謀亂河朔，時鄭王居長，典兵師，不幸薨落，諸王皆幼，多未封建。",
+    "entities": [
+      {
+        "text": "九年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000205",
+    "sentence": "大臣奏議請封親王，分領戎師，以威天下。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000206",
+    "sentence": "十年二月，詔曰：",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000207",
+    "sentence": "虞、夏之制，諸子疏封；漢、魏以還，十連授律。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000208",
+    "sentence": "是用錫珪班瑞，盤石開疆，信通邑之紀綱，為中都之屏翰。",
+    "entities": [
+      {
+        "text": "信通邑",
+        "label": "LOC",
+        "start": 12,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000209",
+    "sentence": "然則旌鉞之寄，推擇攸難，因親之任，各膺其命。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000210",
+    "sentence": "第四子述、第五子逾、第六子連、第七子迥、第八子遘、第十三子造、第十四子暹、第十五子運、第十六子遇、第十七子遹、第十八子通、第十九子逵、第二十子逸等，並敏茂純懿，稟於衷誠，溫良孝恭，形於進對，動皆合義，居必有常。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000211",
+    "sentence": "可以理眾靖人，撫封宣化，而總列城之賦，繕分閫之謀，克勤公家，允輔王室。",
+    "entities": [
+      {
+        "text": "而總列城",
+        "label": "LOC",
+        "start": 12,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000212",
+    "sentence": "今則均茅社之寵，盛槐庭之儀，授鉞登車，嗣茲朝典，維城之固，爾其懋哉。",
+    "entities": [
+      {
+        "text": "維城",
+        "label": "LOC",
+        "start": 24,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000213",
+    "sentence": "述可封睦王，充嶺南節度支度營田、五府經略觀察處置等大使；逾可封郴王，充渭北鄜、坊等州節度大使；連可封恩王；韓王迥可汴、宋等節度觀察處置等大使；遘可封鄜王；造可封忻王，充昭義軍節度觀察處置等大使；暹可封韶王，運可封嘉王，遇可封端王，遹可封循王，通可封恭王，逵可封原王，逸可封雅王：仍並可封開府儀同三司。",
+    "entities": [
+      {
+        "text": "坊等州",
+        "label": "LOC",
+        "start": 39,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000214",
+    "sentence": "是時，皇子勝衣者盡加王爵，不出閣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000215",
+    "sentence": "德宗朝，述為諸王之長。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000216",
+    "sentence": "時分命中使周行天下，求訪沈太后，詔以睦王為奉迎太后使，以工部尚書喬琳副之。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 30,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000217",
+    "sentence": "貞元七年薨。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000218",
+    "sentence": "丹王逾，代宗第五子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000219",
+    "sentence": "大歷十年，封郴王，領渭北鄜坊節度大使。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000220",
+    "sentence": "建中四年 ，改丹王。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000221",
+    "sentence": "元和十五年 薨。",
+    "entities": [
+      {
+        "text": "十五年",
+        "label": "TME",
+        "start": 2,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000222",
+    "sentence": "恩王連，代宗第六子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000223",
+    "sentence": "大歷十年封， 元和十二年 薨。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "十二年",
+        "label": "TME",
+        "start": 9,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000224",
+    "sentence": "韓王迥，代宗第七子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000225",
+    "sentence": "以母寵，既生而受封，雖沖幼，恩在鄭王之亞。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000226",
+    "sentence": "寶應元年 ，封韓王。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000227",
+    "sentence": "貞元十二年 薨，時年四十七。",
+    "entities": [
+      {
+        "text": "十二年",
+        "label": "TME",
+        "start": 2,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000228",
+    "sentence": "簡王遘，代宗第八子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000229",
+    "sentence": "大歷十年，封鄜王，建中四年，改封簡王。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 11,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000230",
+    "sentence": "元和四年 薨。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000231",
+    "sentence": "益王乃，代宗第九子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000232",
+    "sentence": "大歷四年封。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000233",
+    "sentence": "隋王迅，代宗第十子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000234",
+    "sentence": "大歷十年封， 興元元年 薨。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "元",
+        "label": "ORG",
+        "start": 8,
+        "end": 9
+      },
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000235",
+    "sentence": "荊王選，代宗第十一子，早世。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000236",
+    "sentence": "建中二年 正月，追封荊王，贈開府儀同三司。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000237",
+    "sentence": "蜀王溯，代宗第十二子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000238",
+    "sentence": "大歷十四年封。",
+    "entities": [
+      {
+        "text": "十四年",
+        "label": "TME",
+        "start": 2,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000239",
+    "sentence": "本名遂，建中二年改今名。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000240",
+    "sentence": "忻王造，代宗第十三子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000241",
+    "sentence": "大歷十年封，仍領昭義軍節度觀察大使。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000242",
+    "sentence": "元和六年 薨。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000243",
+    "sentence": "韶王暹，代宗第十四子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000244",
+    "sentence": "大歷十年封， 貞元十二年 薨。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "十二年",
+        "label": "TME",
+        "start": 9,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000245",
+    "sentence": "嘉王運，代宗第十五子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000246",
+    "sentence": "大歷十年封， 貞元十七年 薨。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "十七年",
+        "label": "TME",
+        "start": 9,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000247",
+    "sentence": "端王遇，代宗第十六子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000248",
+    "sentence": "大歷十年封， 貞元七年 薨。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "七年",
+        "label": "TME",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000249",
+    "sentence": "循王遹，代宗第十七子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000250",
+    "sentence": "大歷十年封。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000251",
+    "sentence": "恭王通，代宗第十八子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000252",
+    "sentence": "大歷十年封。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000253",
+    "sentence": "原王逵，代宗第十九子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000254",
+    "sentence": "大歷十年封。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000255",
+    "sentence": "大和六年薨。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000256",
+    "sentence": "雅王逸，代宗第二十子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000257",
+    "sentence": "大歷十年封， 貞元十五年 薨。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "十五年",
+        "label": "TME",
+        "start": 9,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000258",
+    "sentence": "【論】",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000259",
+    "sentence": "史臣曰：艷妻破國，孽子敗宗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000260",
+    "sentence": "前代英傑之君，率不免於斯累者，何也？",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000261",
+    "sentence": "良以愛惡不由於義斷，毀譽遽逐於情移。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000262",
+    "sentence": "雖申生孝己之仁，卒不能回君父之愛，悲哉！",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000263",
+    "sentence": "孝宣皇帝當屯剝之運，收忠義之心，忍行愛子之刑，終宥奸閹之罪，大雅君子，為之痛心。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_008_116_000264",
+    "sentence": "張後卒以兇終，固其宜矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000265",
+    "sentence": "贊曰：床簀之愛，人情易惑。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000266",
+    "sentence": "以義制情，哲王令德。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000267",
+    "sentence": "李侯悟主，韻諧金石。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000268",
+    "sentence": "褒謚建寧，良堪太息。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_116_000269",
+    "sentence": "本五代作品在全世界都属于 公有领域 ，因为作者逝世已经遠遠超过100年。",
+    "entities": [
+      {
+        "text": "100年",
+        "label": "TME",
+        "start": 31,
+        "end": 35
+      }
+    ]
+  }
+]

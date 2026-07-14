@@ -1,0 +1,3615 @@
+[
+  {
+    "sentence_id": "HCH_007_001_000001",
+    "sentence": "案薛史本紀，永樂大典所載俱全，獨梁太祖紀原帙已佚，其散見于各韻者，僅得六十八條，參以通鑑考異、通鑑注所徵引者，又得二十一條，本末不具，未能綴輯成篇。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000002",
+    "sentence": "考冊府元龜閏位部所錄朱梁事蹟，皆本之薛史原文，首尾頗詳，按條採掇，尚可彙萃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000003",
+    "sentence": "謹依前人取魏澹書、高氏小史補北魏書闕篇之例，采冊府元龜梁太祖事，編年系日，次第編排，以補其闕，庶幾畧還薛史之舊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000004",
+    "sentence": "仍于各條下注明原書卷第，以備參核焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000005",
+    "sentence": "太祖神武元聖孝皇帝，姓朱氏，諱晃，本名溫， （ 永樂大典卷八千六百八十七。宋州碭山人。其先舜司徒虎之後，高祖黯，曾祖茂琳，祖信，父誠。帝卽誠之第三子，母曰文惠王皇后。冊府元龜卷一百八十二。案五代會要：梁肅祖宣元皇帝諱黯，舜司徒虎四十二代孫。開平元年七月，追尊宣元皇帝，廟號肅祖，葬興極陵。敬祖光獻皇帝諱茂琳，宣元皇帝長子，母曰宣僖皇后范氏，開平元年七月，追尊光獻皇帝，廟號敬祖，葬永安陵。憲祖昭武皇帝諱信，光獻皇帝長子，母曰光孝皇后楊氏，開平元年七月，追尊昭武皇帝，廟號憲祖，葬光天陵。烈祖文穆皇帝諱誠，昭武皇帝長子，母曰昭懿皇后劉氏，開平元年七月，追尊文穆皇帝，廟號烈祖，葬咸寕陵。） 以唐大中六年嵗在壬申，十月二十一日夜，生于碭山縣午溝里。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 80,
+        "end": 82
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 105,
+        "end": 107
+      },
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 122,
+        "end": 124
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 131,
+        "end": 133
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 148,
+        "end": 150
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 156,
+        "end": 158
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 165,
+        "end": 167
+      },
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 172,
+        "end": 174
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 181,
+        "end": 183
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 198,
+        "end": 200
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 205,
+        "end": 207
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 214,
+        "end": 216
+      },
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 221,
+        "end": 223
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 230,
+        "end": 232
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 247,
+        "end": 249
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 254,
+        "end": 256
+      },
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 263,
+        "end": 265
+      },
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 270,
+        "end": 272
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 279,
+        "end": 281
+      },
+      {
+        "text": "六年",
+        "label": "TME",
+        "start": 298,
+        "end": 300
+      },
+      {
+        "text": "生于碭山縣",
+        "label": "LOC",
+        "start": 313,
+        "end": 318
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000006",
+    "sentence": "是夕，所居廬舍之上有赤氣上騰，里人望之，皆驚奔而來，曰：「朱家火發矣。」及至，則廬舍儼然。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000007",
+    "sentence": "旣入，隣人以誕孩告眾，咸異之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000008",
+    "sentence": "永樂大典卷一萬六千一十九。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000009",
+    "sentence": "案：以上亦見冊府元龜卷一百八十二。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000010",
+    "sentence": "以此推之，知冊府元龜引五代事蹟多本薛史。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000011",
+    "sentence": "昆仲三人，俱未冠而孤，母 （ 案：冊府元龜引此條「母」字下有「王氏」二字。 ）攜養寄於蕭縣人劉崇之家。",
+    "entities": [
+      {
+        "text": "攜養寄於蕭縣",
+        "label": "LOC",
+        "start": 39,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000012",
+    "sentence": "帝旣壯，不事生業，以雄勇自負，里人多厭之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000013",
+    "sentence": "崇以其慵惰，每加譴杖。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000014",
+    "sentence": "唯崇母自幼憐之，親為櫛髮，嘗誡家人曰：「朱三非常人也，汝輩當善待之。」家人問其故，答曰：「我嘗見其熟寐之次，化為一赤蛇。」然眾亦未之信也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000015",
+    "sentence": "永樂大典卷五千九百四十九。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000016",
+    "sentence": "唐僖宗乾符中，關東荐饑，羣賊嘯聚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000017",
+    "sentence": "黃巢因之起于曹、濮，饑民願附者凡數萬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000018",
+    "sentence": "帝乃辭崇家，與仲兄存俱入巢軍，以力戰屢捷，得補為隊長。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000019",
+    "sentence": "唐廣明元年十二月甲申，黃巢陷長安，遣帝領兵屯于東渭橋。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000020",
+    "sentence": "是時，夏州節度使諸葛爽率所部屯于櫟陽，巢命帝招諭爽，爽遂降于巢。",
+    "entities": [
+      {
+        "text": "夏州",
+        "label": "LOC",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000021",
+    "sentence": "中和元年二月，巢以帝為東南面行營先鋒使，令攻南陽，下之。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000022",
+    "sentence": "六月，帝歸長安，巢親勞于灞上。",
+    "entities": [
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 5,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000023",
+    "sentence": "七月，巢遣帝西拒邠、岐、鄜、夏之師于興平，所至皆立功。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000024",
+    "sentence": "二年二月，巢以帝為同州防禦使，使自攻取。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "巢以帝為同州",
+        "label": "LOC",
+        "start": 5,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000025",
+    "sentence": "帝乃自丹州南行，以擊左馮翊，拔之，遂據其郡。",
+    "entities": [
+      {
+        "text": "帝乃自丹州",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "遂據其郡",
+        "label": "LOC",
+        "start": 17,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000026",
+    "sentence": "時河中節度使王重榮屯兵數萬，糾兵諸侯，以圖興復。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000027",
+    "sentence": "帝時與之鄰封，屢為重榮所敗，遂請濟師于巢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000028",
+    "sentence": "表章十上，為偽左軍使孟楷所蔽，不達。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000029",
+    "sentence": "又聞巢軍勢蹙，諸校離心，帝知其必敗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000030",
+    "sentence": "九月，帝遂與左右定計，斬偽監軍使嚴實， 嚴實原書訛作「嚴貴」，今據歐陽史及通鑑改正。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000031",
+    "sentence": "舉郡降于重榮。",
+    "entities": [
+      {
+        "text": "舉郡",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000032",
+    "sentence": "案舊唐書僖宗紀：八月庚子，賊同州防禦使朱溫殺其監軍嚴實，與大將胡真、謝瞳等來降。",
+    "entities": [
+      {
+        "text": "賊同州",
+        "label": "LOC",
+        "start": 13,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000033",
+    "sentence": "薛史作九月，與舊唐書異。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000034",
+    "sentence": "考新唐書：九月丙戌，黃巢將朱溫以同州降。",
+    "entities": [
+      {
+        "text": "巢將朱溫以同州",
+        "label": "LOC",
+        "start": 11,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000035",
+    "sentence": "通鑑亦作九月丙戌，朱溫殺其監軍嚴實，舉州降。",
+    "entities": [
+      {
+        "text": "舉州",
+        "label": "LOC",
+        "start": 18,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000036",
+    "sentence": "皆與薛史同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000037",
+    "sentence": "是朱溫之降，實在九月，舊唐書誤。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000038",
+    "sentence": "重榮卽日飛章上奏，時僖宗在蜀，覽表而喜曰：「是天賜予也。」乃詔授帝左金吾衞大將軍，充河中行營副招討使，仍賜名全忠。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 37,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000039",
+    "sentence": "案歐陽史云：王鐸承制拜溫金吾衞大將軍、河中行營招討副使。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 15,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000040",
+    "sentence": "薛史以為僖宗詔授，與歐陽史異。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000041",
+    "sentence": "考舊唐書：王鐸承制拜溫為華州刺史、潼關防禦鎮國軍等使。",
+    "entities": [
+      {
+        "text": "承制拜溫為華州",
+        "label": "LOC",
+        "start": 7,
+        "end": 14
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      },
+      {
+        "text": "潼關防禦鎮",
+        "label": "LOC",
+        "start": 17,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000042",
+    "sentence": "通鑑作王鐸承制以溫為同華節度使。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000043",
+    "sentence": "是王鐸承制所拜之官，非如歐陽史所載也，至謝瞳奉表行在，乃詔授金吾衞大將軍、河中行營招討副使耳。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 33,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000044",
+    "sentence": "當以薛史為得其實。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000045",
+    "sentence": "案：是書及舊唐書、通鑑皆作僖宗賜名，惟鑑戒錄云：朱太祖統四鎮，除中令日，名溫。",
+    "entities": [
+      {
+        "text": "朱太祖統四鎮",
+        "label": "LOC",
+        "start": 24,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000046",
+    "sentence": "與崔相國連搆大事，崔每奏太祖忠赤，遷之關東，國無患矣。",
+    "entities": [
+      {
+        "text": "遷之關",
+        "label": "LOC",
+        "start": 17,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000047",
+    "sentence": "昭宗遽敕太祖改名全忠，議者謂「全」字人王也，又在「中心」，甚不可也，上方悔焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000048",
+    "sentence": "其說與諸史異，蓋傳聞之不同爾。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000049",
+    "sentence": "自是率所部與河中兵士偕行，所向無不克捷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000050",
+    "sentence": "三年三月，僖宗制授帝宣武軍節度使，依前充河中行營副招討使，仍令候收復京闕，卽得赴鎮。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "卽得赴鎮",
+        "label": "LOC",
+        "start": 37,
+        "end": 41
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000051",
+    "sentence": "案舊唐書：中和三年五月，以檢校尚書右僕射、華州刺史、潼關防禦等使朱溫檢校司空，兼汴州刺史，充宣武節度、觀察等使，仍賜名全忠。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 15,
+        "end": 17
+      },
+      {
+        "text": "華州",
+        "label": "LOC",
+        "start": 21,
+        "end": 23
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 23,
+        "end": 25
+      },
+      {
+        "text": "潼關",
+        "label": "LOC",
+        "start": 26,
+        "end": 28
+      },
+      {
+        "text": "兼汴州",
+        "label": "LOC",
+        "start": 39,
+        "end": 42
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 42,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000052",
+    "sentence": "據薛史則全忠授宣武節度在三月，非五月也；由河中行營招討副使遷授，非由潼關防禦等使也；賜名全忠在二年九月，亦非三年五月也。",
+    "entities": [
+      {
+        "text": "非由潼關",
+        "label": "LOC",
+        "start": 32,
+        "end": 36
+      },
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 47,
+        "end": 49
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 54,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000053",
+    "sentence": "通鑑所叙年月、官爵、名號，皆以薛史為據。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000054",
+    "sentence": "四月，巢軍自藍關南走，帝與諸侯之師俱收長安，乃率部下一旅之眾，仗節東下。",
+    "entities": [
+      {
+        "text": "巢軍自藍關",
+        "label": "LOC",
+        "start": 3,
+        "end": 8
+      },
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 19,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000055",
+    "sentence": "七月丁卯，入于梁苑。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000056",
+    "sentence": "是時帝年三十有二。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000057",
+    "sentence": "時蔡州刺史秦宗權與黃巢餘孽合從肆虐，共圍陳州，久之，僖宗乃命帝為東北面都招討使。",
+    "entities": [
+      {
+        "text": "時蔡州",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "共圍陳州",
+        "label": "LOC",
+        "start": 18,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000058",
+    "sentence": "時汴、宋連年阻饑，公私俱困，帑廩皆虛，外為大敵所攻，內則驕軍難制，交鋒接戰，日甚一日。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000059",
+    "sentence": "人皆危之，惟帝銳氣益振。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000060",
+    "sentence": "是嵗十二月，帝領兵于鹿邑，與巢眾相遇，縱兵擊之，斬首二千餘級，乃引兵入亳州，因是兼有譙郡之地。",
+    "entities": [
+      {
+        "text": "帝領兵于鹿邑",
+        "label": "LOC",
+        "start": 6,
+        "end": 12
+      },
+      {
+        "text": "乃引兵入亳州",
+        "label": "LOC",
+        "start": 31,
+        "end": 37
+      },
+      {
+        "text": "因是兼有譙郡",
+        "label": "LOC",
+        "start": 38,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000061",
+    "sentence": "四年春，帝與許州田從異諸軍同收瓦子寨， 案：瓦子寨，原本作「瓦于寨」，攷通鑑注，黃巢撤民居以為寨屋，謂之瓦子寨，則「于」字形近刊訛耳，今改正。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "帝與許州",
+        "label": "LOC",
+        "start": 4,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000062",
+    "sentence": "殺賊數萬眾。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000063",
+    "sentence": "是時，陳州四面賊寨相望，驅擄編氓，殺以充食，號為「舂磨寨」。",
+    "entities": [
+      {
+        "text": "陳州",
+        "label": "LOC",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000064",
+    "sentence": "帝分兵翦撲，大小凡四十戰。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000065",
+    "sentence": "四月丁巳，收西華寨，賊將黃鄴單騎奔陳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000066",
+    "sentence": "帝乘勝追之，鼓噪而進。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000067",
+    "sentence": "會黃巢遁去，遂入陳州，刺史趙犨迎于馬前。",
+    "entities": [
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000068",
+    "sentence": "俄聞巢黨尚在陳北故陽壘，帝遂逕歸大梁。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000069",
+    "sentence": "是時，河東節度使李克用奉僖宗詔，統騎軍數千同謀破賊，與帝合勢于中牟北邀擊之，賊眾大敗于王滿渡，多束手來降。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000070",
+    "sentence": "時賊將霍存、葛從周、張歸厚、張歸霸皆匍匐于馬前，悉宥而納之，遂逐殘冦，東至于冤句。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000071",
+    "sentence": "五月甲戌，帝與晉軍振旅歸汴，館克用于上源驛。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000072",
+    "sentence": "旣而備犒宴之禮，克用乘醉任氣，帝不平之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000073",
+    "sentence": "是夜，命甲士圍而攻之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000074",
+    "sentence": "案：自「五月甲戌」至此，又見通鑑考異所引薛史梁紀，與冊府元龜所引符合。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000075",
+    "sentence": "會大雨雷電，克用因得于電光中踰墻遁去，惟殺其部下數百人而已。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000076",
+    "sentence": "六月，陳人感解圍之惠，為帝建生祠堂于其郡。",
+    "entities": [
+      {
+        "text": "建生祠堂于其郡",
+        "label": "LOC",
+        "start": 13,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000077",
+    "sentence": "是嵗，黃巢雖歿，而蔡州秦宗權繼為巨孽，有眾數萬，攻陷鄰郡，殺掠吏民，屠害之酷，更甚巢賊，帝患之。",
+    "entities": [
+      {
+        "text": "而蔡州",
+        "label": "LOC",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "攻陷鄰郡",
+        "label": "LOC",
+        "start": 24,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000078",
+    "sentence": "七月，遂與陳人共攻蔡賊于溵水，殺數千人。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000079",
+    "sentence": "九月己未，僖宗就加帝檢校司徒、同平章事，封沛郡侯，食邑千戶。",
+    "entities": [
+      {
+        "text": "封沛郡",
+        "label": "LOC",
+        "start": 20,
+        "end": 23
+      },
+      {
+        "text": "食邑",
+        "label": "LOC",
+        "start": 25,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000080",
+    "sentence": "光啟元年春，蔡賊掠亳、頴二郡，帝帥師以救之，遂東至于焦夷，敗賊眾數千，生擒賊將鐵林，梟首以狥軍而還。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "頴二郡",
+        "label": "LOC",
+        "start": 11,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000081",
+    "sentence": "三月，僖宗自蜀還長安，改元光啟。",
+    "entities": [
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000082",
+    "sentence": "四月戊辰，就加帝檢校太保，增食邑千五百戶。",
+    "entities": [
+      {
+        "text": "增食邑",
+        "label": "LOC",
+        "start": 13,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000083",
+    "sentence": "十二月，河中、太原之師逼長安，觀軍容使田令孜奉僖宗出幸鳳翔。",
+    "entities": [
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 12,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000084",
+    "sentence": "二年春，蔡賊益熾。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000085",
+    "sentence": "時唐室微弱，諸道州兵不為王室所用，故宗權得以縱毒，連陷汝、洛、懷、孟、唐、鄧、許、鄭，圜幅數千里，殆絕人煙，惟宋、亳、滑、潁僅能閉壘而已。",
+    "entities": [
+      {
+        "text": "諸道州",
+        "label": "LOC",
+        "start": 6,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000086",
+    "sentence": "帝累出兵與之交戰，然或勝或負，人甚危之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000087",
+    "sentence": "三月庚辰，僖宗降制就封帝為沛郡王。",
+    "entities": [
+      {
+        "text": "制就封帝為沛郡",
+        "label": "LOC",
+        "start": 8,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000088",
+    "sentence": "案舊唐書：光啟元年三月，以汴州刺史朱全忠為沛郡王，充蔡州西北面行營都統。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "以汴州",
+        "label": "LOC",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 15,
+        "end": 17
+      },
+      {
+        "text": "沛",
+        "label": "LOC",
+        "start": 21,
+        "end": 22
+      },
+      {
+        "text": "充蔡州",
+        "label": "LOC",
+        "start": 25,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000089",
+    "sentence": "據薛史，則元年惟增食邑，至二年三月乃進封為王也，與舊唐書異。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 5,
+        "end": 7
+      },
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000090",
+    "sentence": "歐陽史從薛史。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000091",
+    "sentence": "是月，僖宗移幸興元。",
+    "entities": [
+      {
+        "text": "元",
+        "label": "ORG",
+        "start": 8,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000092",
+    "sentence": "五月，嗣襄王熅僭卽帝位于長安，改元為建貞。",
+    "entities": [
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 12,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000093",
+    "sentence": "遣使賷偽詔至汴，帝命焚之于庭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000094",
+    "sentence": "未幾，襄王果敗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000095",
+    "sentence": "七月，蔡人逼司州，節度使鹿宴弘使來求救，帝遣葛從周等率師赴援。",
+    "entities": [
+      {
+        "text": "蔡人逼司州",
+        "label": "LOC",
+        "start": 3,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000096",
+    "sentence": "師未至而城陷，宴弘為蔡賊所害。",
+    "entities": [
+      {
+        "text": "師未至而城",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000097",
+    "sentence": "十一月，滑州節度使安師儒以怠于軍政，為部下所殺。",
+    "entities": [
+      {
+        "text": "滑州",
+        "label": "LOC",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000098",
+    "sentence": "案舊唐書云：十月壬子朔，滑州軍亂，逐其帥安師儒，推衙將張驍主留後軍務，師儒奔汴，朱全忠殺之。",
+    "entities": [
+      {
+        "text": "滑州",
+        "label": "LOC",
+        "start": 12,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000099",
+    "sentence": "新唐書云：十月，朱全忠陷滑州，執義成軍節度使安師儒。",
+    "entities": [
+      {
+        "text": "朱全忠陷滑州",
+        "label": "LOC",
+        "start": 8,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000100",
+    "sentence": "歐陽史從舊唐書作奔汴，通鑑從新唐書作被擄，據薛史則師儒自為部下所殺，與新、舊唐書異。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000101",
+    "sentence": "又新、舊唐書俱作十月，而薛史作十一月，通鑑仍從薛史。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000102",
+    "sentence": "帝聞之，乃遣朱珍、李唐賓襲而取之，由是遂有滑臺之地。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000103",
+    "sentence": "案舊唐書云：朝廷以汴帥朱全忠兼領義成軍節度使。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000104",
+    "sentence": "據薛史胡真傳云：真以奇兵襲取滑州，乃署為滑州節度留後。",
+    "entities": [
+      {
+        "text": "以奇兵襲取滑州",
+        "label": "LOC",
+        "start": 9,
+        "end": 16
+      },
+      {
+        "text": "乃署為滑州",
+        "label": "LOC",
+        "start": 17,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000105",
+    "sentence": "蓋全忠雖嘗兼領義成，而不之鎮，故署其將胡真為留後。",
+    "entities": [
+      {
+        "text": "而不之鎮",
+        "label": "LOC",
+        "start": 10,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000106",
+    "sentence": "十二月，僖宗降制就加帝檢校太傅，改封吳興郡王，食邑三千戶。",
+    "entities": [
+      {
+        "text": "改封吳興郡",
+        "label": "LOC",
+        "start": 16,
+        "end": 21
+      },
+      {
+        "text": "食邑",
+        "label": "LOC",
+        "start": 23,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000107",
+    "sentence": "是嵗，鄭州為蔡賊所陷，刺史李璠單騎來奔，帝宥而納之，以為行軍司馬。",
+    "entities": [
+      {
+        "text": "鄭州",
+        "label": "LOC",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      },
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 30,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000108",
+    "sentence": "宗權旣得鄭，益驕，帝遣裨將邏于金隄驛，與賊相遇，因擊之，賊眾大敗，追至武陽橋，斬首千餘級。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000109",
+    "sentence": "帝每與蔡人戰于四郊，旣以少擊眾，常出奇以制之，但患師少，未快其旨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000110",
+    "sentence": "宗權又以己眾十倍于帝，恥于頻敗，乃誓眾堅決以攻夷門。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000111",
+    "sentence": "旣而獲蔡之諜者，備知其事，遂謀濟師焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000112",
+    "sentence": "三年春二月乙巳，承制以朱珍為淄州刺史，俾募兵于東道，且慮蔡人暴其麥苗，期以夏首回歸。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "制以朱珍為淄州",
+        "label": "LOC",
+        "start": 9,
+        "end": 16
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 16,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000113",
+    "sentence": "案：自「募兵于東道」至此，亦見通鑑注，與冊府元龜同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000114",
+    "sentence": "珍旣至淄、棣，旬日之內，應募者萬餘人。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000115",
+    "sentence": "又潛襲青州，獲馬千匹，鎧甲稱是，乃鼓行而歸。",
+    "entities": [
+      {
+        "text": "又潛襲青州",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000116",
+    "sentence": "四月辛亥，達于夷門，帝喜曰：「吾事濟矣。」是時，賊將張晊屯于北郊，秦賢屯于版橋，各有眾數萬，樹柵相連二十餘里，其勢甚盛。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000117",
+    "sentence": "帝謂諸將曰：「此賊方今息師蓄銳以俟時，必來攻我。況宗權度我兵少，又未知珍來，謂吾畏懼，止于堅守而已。今出不意，不如先擊之。」乃親引兵攻秦賢寨，將士踴躍爭先，賊果不備，連拔四寨，斬首萬餘級，時賊眾以為神助。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000118",
+    "sentence": "庚午， 案通鑑考異云：長曆四月甲辰朔，無庚午，薛史誤。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000119",
+    "sentence": "今考舊唐書，光啟三年四月正作甲辰朔，以日數計之，庚午乃四月二十七日也。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000120",
+    "sentence": "此非薛史之誤，乃通鑑考異之誤耳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000121",
+    "sentence": "賊將盧瑭領萬餘人于圃田北萬勝戍夾汴水為營，跨河為梁，以扼運路。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000122",
+    "sentence": "案通鑑注引薛史梁紀曰：盧瑭于圃田北夾汴為梁，以扼運路。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000123",
+    "sentence": "視冊府元龜所引，稍有刪節。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000124",
+    "sentence": "帝擇精銳以襲之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000125",
+    "sentence": "是日昏霧四合，兵及賊壘方覺，遂突入掩殺，赴水死者甚眾，盧瑭自投于河。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000126",
+    "sentence": "河南諸賊連敗，不敢復駐，皆并在張晊寨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000127",
+    "sentence": "自是蔡寇皆懷震讋，往往軍中自相驚亂。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000128",
+    "sentence": "帝旋師休息，大行犒賞，繇是軍士各懷憤激，每遇敵無不奮勇。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000129",
+    "sentence": "五月丙子，出酸棗門，自卯至未，短兵相接，賊眾大敗，追斬二十餘里，僵仆就枕。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000130",
+    "sentence": "宗權恥敗，益縱其虐，乃自鄭州親領突將數人，逕入張晊寨。",
+    "entities": [
+      {
+        "text": "乃自鄭州",
+        "label": "LOC",
+        "start": 10,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000131",
+    "sentence": "冊府元龜卷一百八十七。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000132",
+    "sentence": "其日晚，大星隕于賊壘，有聲如雷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000133",
+    "sentence": "永樂大典卷三千二百七十一。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000134",
+    "sentence": "辛巳，兗、鄆、滑軍士皆來赴援，乃陳兵于汴水之上，旌旗器甲甚盛。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000135",
+    "sentence": "蔡人望之，不敢出寨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000136",
+    "sentence": "翌日，分布諸軍，齊攻賊寨，自寅至申，斬首二萬餘級。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000137",
+    "sentence": "會夜收軍，獲牛馬、輜重、生口、器甲不可勝計。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000138",
+    "sentence": "是夜宗權、晊遁去，遲明追之，至陽武橋而還。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000139",
+    "sentence": "宗權至鄭州，乃盡焚其廬舍，屠其郡人而去。",
+    "entities": [
+      {
+        "text": "宗權至鄭州",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "屠其郡",
+        "label": "LOC",
+        "start": 13,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000140",
+    "sentence": "始蔡人分兵冦陝、雒、孟、懷、許、汝，皆先據之，因是敗也，賊眾恐懼，咸棄之而遁。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000141",
+    "sentence": "帝乃慎選將佐，俾完葺壁壘，為戰守之備，于是遠近流亡復歸者眾矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000142",
+    "sentence": "是時，揚州節度使高駢為裨將畢師鐸所害，復有孫儒、楊行密互相攻伐，朝廷不能制，乃就加帝檢校太尉，兼領淮南節度使。",
+    "entities": [
+      {
+        "text": "揚州",
+        "label": "LOC",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000143",
+    "sentence": "案舊唐書：光啟三年十一月，楊行密遣使求援于朱全忠，制授全忠檢校太尉、侍中，兼揚州大都督府長史，充淮南節度觀察使、行營兵馬都統。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "兼揚州",
+        "label": "LOC",
+        "start": 37,
+        "end": 40
+      },
+      {
+        "text": "大都",
+        "label": "LOC",
+        "start": 40,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000144",
+    "sentence": "歐陽史作十二月，通鑑作閏十一月，據薛史則全忠兼領淮南自在九月以前，與諸書異。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000145",
+    "sentence": "又薛史下文作閏十二月，而通鑑作閏十一月，亦有互異，未詳孰是。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000146",
+    "sentence": "九月，亳州裨將謝殷逐刺史宋衮，自據其郡，帝親領軍屯于太清宮，遣霍存討平之。",
+    "entities": [
+      {
+        "text": "亳州",
+        "label": "LOC",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "自據其郡",
+        "label": "LOC",
+        "start": 15,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000147",
+    "sentence": "案新唐書云：光啟三年六月壬戌，亳州將謝殷逐其刺史宋衮。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 8,
+        "end": 10
+      },
+      {
+        "text": "亳州",
+        "label": "LOC",
+        "start": 15,
+        "end": 17
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 22,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000148",
+    "sentence": "八月壬寅，謝殷伏誅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000149",
+    "sentence": "通鑑從新唐書，薛史作九月，與新唐書異。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000150",
+    "sentence": "帝之禦蔡寇也，鄆州朱瑄、案：歐陽史作朱宣，薛史前後皆作「瑄」，舊唐書、通鑑並同薛史。",
+    "entities": [
+      {
+        "text": "鄆州",
+        "label": "LOC",
+        "start": 7,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000151",
+    "sentence": "兗州朱瑾皆領兵來援。",
+    "entities": [
+      {
+        "text": "兗州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000152",
+    "sentence": "及宗權旣敗，帝以瑄、瑾宗人也，又有力于己，皆厚禮以歸之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000153",
+    "sentence": "瑄、瑾以帝軍士勇悍，私心愛之，乃密于曹、濮界上懸金帛以誘之，帝軍利其貨而赴者甚眾，帝乃移檄以讓之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000154",
+    "sentence": "朱瑄來詞不遜， 案通鑑考異引高若拙後史補曰：梁太祖皇帝到梁園，深有大志，然兵力不足，常欲外掠，又虞四境之難，每有鬱然之狀。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 25,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000155",
+    "sentence": "時有薦敬秀才于門下，乃白梁祖曰：「明公方欲圖大事，輜重必為四境所侵，但令麾下將士詐為叛者而逃，明公即奏于主上及告四鄰，以自襲叛徒為名。」梁祖曰；「天降奇人以佐于吾。」初從其議，一出而致眾十倍。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000156",
+    "sentence": "今案高若拙所紀，深得敬翔與梁祖陰謀情狀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000157",
+    "sentence": "薛史止据梁實錄原辭，未及改正。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000158",
+    "sentence": "歐史作移檄兗、鄆，誣其誘汴亡卒以東，亦未詳考。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000159",
+    "sentence": "乃命朱珍侵曹伐濮，以懲其姦。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000160",
+    "sentence": "未幾，珍伐曹州，執刺史丘禮以獻，遂移兵圍濮州。",
+    "entities": [
+      {
+        "text": "珍伐曹州",
+        "label": "LOC",
+        "start": 3,
+        "end": 7
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      },
+      {
+        "text": "遂移兵圍濮州",
+        "label": "LOC",
+        "start": 16,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000161",
+    "sentence": "兗、鄆之釁，自茲而始矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000162",
+    "sentence": "十月，僖宗命水部郎中王贊撰紀功碑以賜帝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000163",
+    "sentence": "是月，帝親帥騎數千巡師于濮上，因破朱瑄援師于范縣。",
+    "entities": [
+      {
+        "text": "朱瑄援師于范縣",
+        "label": "LOC",
+        "start": 17,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000164",
+    "sentence": "丁未，攻陷濮州，刺史朱裕單騎奔鄆。",
+    "entities": [
+      {
+        "text": "攻陷濮州",
+        "label": "LOC",
+        "start": 3,
+        "end": 7
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000165",
+    "sentence": "尋為鄆人所敗，踰月乃還。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000166",
+    "sentence": "十二月，僖宗遣使賜帝鐵券，又命翰林承旨劉崇望撰德政碑以賜帝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000167",
+    "sentence": "閏月甲寅，帝請行營司馬李璠權知淮南留後，乃遣大將郭言領兵援送以赴揚州。",
+    "entities": [
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      },
+      {
+        "text": "兵援送以赴揚州",
+        "label": "LOC",
+        "start": 27,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000168",
+    "sentence": "文德元年正月，帝率師東赴淮海，行次宋州，聞楊行密已拔揚州，遂還。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "行次宋州",
+        "label": "LOC",
+        "start": 15,
+        "end": 19
+      },
+      {
+        "text": "楊行密已拔揚州",
+        "label": "LOC",
+        "start": 21,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000169",
+    "sentence": "是時，李璠、郭言行至淮上，為徐戎所扼，不克進而還。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000170",
+    "sentence": "案歐陽史云：璠之揚州，行密不納。",
+    "entities": [
+      {
+        "text": "璠之揚州",
+        "label": "LOC",
+        "start": 6,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000171",
+    "sentence": "據通鑑云：李璠至泗州，時溥以兵襲之，郭言力戰得免而還。",
+    "entities": [
+      {
+        "text": "李璠至泗州",
+        "label": "LOC",
+        "start": 5,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000172",
+    "sentence": "是李璠未嘗得至揚州也，當以薛史為寔錄。",
+    "entities": [
+      {
+        "text": "璠未嘗得至揚州",
+        "label": "LOC",
+        "start": 2,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000173",
+    "sentence": "帝怒，遂謀伐徐。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000174",
+    "sentence": "二月丙戌，僖宗制以帝為蔡州四面行營都統，繇是諸鎮之師，皆受帝之節制。",
+    "entities": [
+      {
+        "text": "宗制以帝為蔡州",
+        "label": "LOC",
+        "start": 6,
+        "end": 13
+      },
+      {
+        "text": "繇是諸鎮",
+        "label": "LOC",
+        "start": 20,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000175",
+    "sentence": "案新唐書：正月癸亥，朱全忠為蔡州四面行營都統。",
+    "entities": [
+      {
+        "text": "朱全忠為蔡州",
+        "label": "LOC",
+        "start": 10,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000176",
+    "sentence": "舊唐書作五月，與薛史異。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000177",
+    "sentence": "通鑑從新唐書。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000178",
+    "sentence": "三月庚子，昭宗卽位。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000179",
+    "sentence": "是月，蔡人石璠領萬眾以剽陳、亳，帝遣朱珍率精騎數千擒璠以獻。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000180",
+    "sentence": "四月戊辰，魏博樂彥禎失律，其子從訓出奔相州，使來乞師。",
+    "entities": [
+      {
+        "text": "子從訓出奔相州",
+        "label": "LOC",
+        "start": 14,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000181",
+    "sentence": "帝遣朱珍領大軍濟河，連收黎陽、臨河二邑。",
+    "entities": [
+      {
+        "text": "臨河二邑",
+        "label": "LOC",
+        "start": 15,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000182",
+    "sentence": "旣而魏軍推小校羅弘信為帥。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000183",
+    "sentence": "弘信旣立，遣使送款于汴，帝優而納之，遂命班師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000184",
+    "sentence": "是月，河南尹張全義襲李罕之于河陽，克之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000185",
+    "sentence": "罕之單騎出奔，因乞師于太原，李克用為發萬騎以援之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000186",
+    "sentence": "罕之遂收其眾，偕晉軍合勢，急攻河陽。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000187",
+    "sentence": "全義危急，遣使求救于汴，帝遣丁會、牛存節、葛從周領兵赴之，大戰于溫縣，晉人與罕之俱敗。",
+    "entities": [
+      {
+        "text": "大戰于溫縣",
+        "label": "LOC",
+        "start": 29,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000188",
+    "sentence": "于是河橋解圍，全義歸于河陽，因以丁會為河陽留後。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000189",
+    "sentence": "五月己亥，昭宗制以帝檢校侍中，增食邑三千戶。",
+    "entities": [
+      {
+        "text": "增食邑",
+        "label": "LOC",
+        "start": 15,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000190",
+    "sentence": "戊辰，詔改帝鄉曰衣錦鄉，里曰沛王里。",
+    "entities": [
+      {
+        "text": "詔改帝鄉",
+        "label": "LOC",
+        "start": 3,
+        "end": 7
+      },
+      {
+        "text": "曰衣錦鄉",
+        "label": "LOC",
+        "start": 7,
+        "end": 11
+      },
+      {
+        "text": "沛",
+        "label": "LOC",
+        "start": 14,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000191",
+    "sentence": "是月，帝以兼有洛、孟之地，無西顧之患，將大整師徒，畢力誅蔡。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000192",
+    "sentence": "會蔡人趙德諲舉漢南之地以歸于朝廷， 案新唐書昭宗紀：五月壬寅，趙德諲以襄州降。",
+    "entities": [
+      {
+        "text": "趙德諲以襄州",
+        "label": "LOC",
+        "start": 31,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000193",
+    "sentence": "舊唐書及通鑑皆作五月，與薛史同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000194",
+    "sentence": "歐陽史敘其事于三月以前，疑有舛誤。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000195",
+    "sentence": "且遣使送款于帝，仍誓戮力同討宗權。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000196",
+    "sentence": "帝表其事，朝廷因以德諲為蔡州四面副都統。",
+    "entities": [
+      {
+        "text": "因以德諲為蔡州",
+        "label": "LOC",
+        "start": 7,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000197",
+    "sentence": "又以河陽、保義、義昌三節度為帝行軍司馬，兼糧料應接使。",
+    "entities": [
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 17,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000198",
+    "sentence": "冊府元龜卷一百八十七。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000199",
+    "sentence": "至是，帝領諸侯之師會德諲以伐蔡賊于汝水之上，遂薄其城。",
+    "entities": [
+      {
+        "text": "遂薄其城",
+        "label": "LOC",
+        "start": 22,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000200",
+    "sentence": "五日之內，樹二十八寨以環之，蓋象列宿之數也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000201",
+    "sentence": "永樂大典卷一萬五千一百二十。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000202",
+    "sentence": "時帝親臨矢石，一日，飛矢中其左腋，血漬單衣，顧謂左右曰：「勿洩。」 永樂大典卷二萬七百十二。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000203",
+    "sentence": "九月，以糧運不繼，遂班師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000204",
+    "sentence": "是時，帝知宗權殘孽不足為患，遂移兵以伐徐。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000205",
+    "sentence": "十月，先遣朱珍領兵與時溥戰于吳康鎮，徐人大敗，連收豐、蕭二邑，溥攜散騎馳入彭門。",
+    "entities": [
+      {
+        "text": "時溥戰于吳康鎮",
+        "label": "LOC",
+        "start": 10,
+        "end": 17
+      },
+      {
+        "text": "蕭二邑",
+        "label": "LOC",
+        "start": 27,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000206",
+    "sentence": "帝命分兵以攻宿州，刺史張友攜符印以降。",
+    "entities": [
+      {
+        "text": "命分兵以攻宿州",
+        "label": "LOC",
+        "start": 1,
+        "end": 8
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000207",
+    "sentence": "旣而徐人閉壁堅守，遂命龎師古屯兵守之而還。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000208",
+    "sentence": "是月，蔡賊孫儒攻陷揚州，自稱淮南節度使。",
+    "entities": [
+      {
+        "text": "賊孫儒攻陷揚州",
+        "label": "LOC",
+        "start": 4,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000209",
+    "sentence": "龍紀元年正月，龎師古攻陷宿遷縣，進軍于呂梁。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "師古攻陷宿遷縣",
+        "label": "LOC",
+        "start": 8,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000210",
+    "sentence": "時溥領軍二萬，晨壓師古之軍而陣，師古促戰，敗之，斬首二千餘級，溥復入于彭門。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000211",
+    "sentence": "二月，蔡將申叢遣使來告，縛秦宗權于帳下，折其足而囚之矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000212",
+    "sentence": "案舊唐書：文德元年十二月甲子朔，蔡州牙將申叢執秦宗權。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "蔡州",
+        "label": "LOC",
+        "start": 16,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000213",
+    "sentence": "新唐書作十一月辛酉，與舊唐書月日互異。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000214",
+    "sentence": "薛史作龍紀元年二月，蓋卽其遣使來告之月而書之也。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 5,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000215",
+    "sentence": "歐陽史作五月，誤。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000216",
+    "sentence": "帝卽日承制以叢為淮西留後。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000217",
+    "sentence": "未幾，叢復為都將郭璠所殺。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000218",
+    "sentence": "是月，璠執宗權來獻，帝遣行軍司馬李璠、牙校朱克讓檻進于長安。",
+    "entities": [
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      },
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 27,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000219",
+    "sentence": "旣至，昭宗御延喜樓受俘，卽斬宗權于獨柳樹下。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000220",
+    "sentence": "蔡州平。",
+    "entities": [
+      {
+        "text": "蔡州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000221",
+    "sentence": "昭宗詔加帝食實封一百戶，賜莊宅各一區。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000222",
+    "sentence": "三月，又加帝檢校太尉、兼中書令，進封東平王，賞平蔡之功也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000223",
+    "sentence": "案舊唐書：四月壬戌朔，以宣武淮南等節度副大使、知節度事、管內營田觀察處置等使、開府儀同三司、檢校太傅、兼侍中、揚州大都督府長史、汴州刺史、充蔡州四面行營都統、上柱國、沛郡王、食邑四千戶朱全忠為檢校太尉、中書令，進封東平王，仍賜賞軍錢十萬貫。",
+    "entities": [
+      {
+        "text": "揚州",
+        "label": "LOC",
+        "start": 55,
+        "end": 57
+      },
+      {
+        "text": "大都",
+        "label": "LOC",
+        "start": 57,
+        "end": 59
+      },
+      {
+        "text": "汴州",
+        "label": "LOC",
+        "start": 64,
+        "end": 66
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 66,
+        "end": 68
+      },
+      {
+        "text": "充蔡州",
+        "label": "LOC",
+        "start": 69,
+        "end": 72
+      },
+      {
+        "text": "沛郡",
+        "label": "LOC",
+        "start": 83,
+        "end": 85
+      },
+      {
+        "text": "食邑",
+        "label": "LOC",
+        "start": 87,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000224",
+    "sentence": "薛史及歐陽史俱作三月，與舊唐書異。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000225",
+    "sentence": "大順元年四月丙辰，宿州小將張筠逐刺史張紹光，擁眾以附時溥。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "宿州",
+        "label": "LOC",
+        "start": 9,
+        "end": 11
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 16,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000226",
+    "sentence": "帝率親軍討之，殺千餘人，筠遂堅守。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000227",
+    "sentence": "乙卯，時溥出兵暴碭山縣，帝遣朱友裕以兵襲之，敗徐軍三千餘眾，獲沙陀援軍石君和等三十人，斬于宿州城下。",
+    "entities": [
+      {
+        "text": "溥出兵暴碭山縣",
+        "label": "LOC",
+        "start": 4,
+        "end": 11
+      },
+      {
+        "text": "斬于宿州城",
+        "label": "LOC",
+        "start": 43,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000228",
+    "sentence": "六月辛酉，淮南孫儒遣使修好于帝，帝表其事，請以淮南節度授于儒焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000229",
+    "sentence": "辛未，昭宗命帝為宣義軍節度使，充河東東面行營招討使，案 舊唐書：五月，以宣武軍節度使朱全忠為太原東南面招討使。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000230",
+    "sentence": "歐陽史從舊唐書作東南面，通鑑作南面，與舊唐書異。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000231",
+    "sentence": "考新唐書云：五月，以朱全忠為南面招討使。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000232",
+    "sentence": "六月辛未，朱全忠為河東東面行營招討使。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000233",
+    "sentence": "蓋先為南面招討使，後改東面也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000234",
+    "sentence": "又，六月，全忠兼領宣義軍，新、舊唐書皆不載，通鑑用薛史。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000235",
+    "sentence": "時朝廷宰臣張濬將兵討太原故也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000236",
+    "sentence": "八月甲寅，昭義都將馮霸殺沙陀所署節度使李克恭來降，帝請河陽節度使朱崇節為潞州留後。",
+    "entities": [
+      {
+        "text": "使朱崇節為潞州",
+        "label": "LOC",
+        "start": 31,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000237",
+    "sentence": "戊辰，李克用自率蕃漢步騎數萬以圍潞州，帝遣葛從周率驍勇之士，夜中銜枚犯圍而入于潞。",
+    "entities": [
+      {
+        "text": "騎數萬以圍潞州",
+        "label": "LOC",
+        "start": 11,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000238",
+    "sentence": "案舊唐書：五月，潞州軍亂，殺其帥李克恭。",
+    "entities": [
+      {
+        "text": "潞州",
+        "label": "LOC",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000239",
+    "sentence": "七月，朱全忠遣大將葛從周率千騎入潞州。",
+    "entities": [
+      {
+        "text": "周率千騎入潞州",
+        "label": "LOC",
+        "start": 11,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000240",
+    "sentence": "薛史統作八月，蓋據入潞之月而追言之也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000241",
+    "sentence": "九月壬寅，帝至河陽，遣都將李讜引軍趨澤、潞，行至馬牢川，為晉人所敗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000242",
+    "sentence": "帝又遣朱友裕、張全義率精兵至鄆州北以為應援。",
+    "entities": [
+      {
+        "text": "義率精兵至鄆州",
+        "label": "LOC",
+        "start": 9,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000243",
+    "sentence": "旣而崇節、從周棄潞來歸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000244",
+    "sentence": "戊申，帝廷責諸將敗軍之罪，斬李讜、李重胤以狥，遂班師焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000245",
+    "sentence": "案：自「九月壬寅」至此，又見通鑑考異，與冊府元龜同。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000246",
+    "sentence": "十月乙酉，帝自河陽赴滑臺。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000247",
+    "sentence": "時奉詔將討太原，先遣使假道于魏，魏人不從。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000248",
+    "sentence": "先是，帝遣行人雷鄴告糴于魏，旣而為牙軍所殺。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000249",
+    "sentence": "羅弘信懼，故不敢從命，遂通好于太原。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000250",
+    "sentence": "十二月辛丑，帝遣丁會、葛從周率眾渡河取黎陽、臨河，又令龎師古、霍存下淇門、衞縣，帝徐以大軍繼其後。",
+    "entities": [
+      {
+        "text": "衞縣",
+        "label": "LOC",
+        "start": 37,
+        "end": 39
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000251",
+    "sentence": "二年春正月，魏軍屯于內黃。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000252",
+    "sentence": "丙辰，帝與之接戰，自內黃至永定橋，魏軍五敗，斬首萬餘級。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000253",
+    "sentence": "羅弘信懼，遣使持厚幣請和。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000254",
+    "sentence": "帝命止其焚掠而歸其俘，弘信繇是感悅而聽命焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000255",
+    "sentence": "乃收軍屯于河上。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000256",
+    "sentence": "八月己丑，帝遣丁會急攻宿州，刺史張筠堅守其壁，會乃率眾于州東築堰，壅汴水以浸其城。",
+    "entities": [
+      {
+        "text": "遣丁會急攻宿州",
+        "label": "LOC",
+        "start": 6,
+        "end": 13
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      },
+      {
+        "text": "會乃率眾于州",
+        "label": "LOC",
+        "start": 23,
+        "end": 29
+      },
+      {
+        "text": "壅汴水以浸其城",
+        "label": "LOC",
+        "start": 33,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000257",
+    "sentence": "十月壬午，筠遂降，宿州平。",
+    "entities": [
+      {
+        "text": "宿州",
+        "label": "LOC",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000258",
+    "sentence": "案：舊唐書作十一月，汴軍陷宿州，與薛史異。",
+    "entities": [
+      {
+        "text": "汴軍陷宿州",
+        "label": "LOC",
+        "start": 10,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000259",
+    "sentence": "歐陽史及新唐書、通鑑俱從薛史作十月。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000260",
+    "sentence": "十一月丁未，曹州裨將郭紹賓殺刺史郭饒，舉郡來降。",
+    "entities": [
+      {
+        "text": "曹州",
+        "label": "LOC",
+        "start": 6,
+        "end": 8
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      },
+      {
+        "text": "舉郡",
+        "label": "LOC",
+        "start": 19,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000261",
+    "sentence": "案新唐書：十一月己未，曹州將郭誅殺其刺史郭詞，叛附于全忠。",
+    "entities": [
+      {
+        "text": "曹州",
+        "label": "LOC",
+        "start": 11,
+        "end": 13
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 18,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000262",
+    "sentence": "通鑑從新唐書，與薛史異。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000263",
+    "sentence": "歐陽史仍從薛史。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000264",
+    "sentence": "是月，徐將劉知俊率眾二千來降，自是徐軍不振。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000265",
+    "sentence": "十二月，兗州朱瑾領軍三萬寇單父，帝遣丁會領大軍襲之，敗于金鄉界，殺二萬餘眾，瑾單馬遁去。",
+    "entities": [
+      {
+        "text": "兗州",
+        "label": "LOC",
+        "start": 4,
+        "end": 6
+      },
+      {
+        "text": "敗于金鄉",
+        "label": "LOC",
+        "start": 26,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000266",
+    "sentence": "景福元年正月，遣丁會于兗州界徙其民數千戶于許州。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "遣丁會于兗州",
+        "label": "LOC",
+        "start": 7,
+        "end": 13
+      },
+      {
+        "text": "民數千戶于許州",
+        "label": "LOC",
+        "start": 16,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000267",
+    "sentence": "二月戊寅，帝親征鄆，先遣朱友裕屯軍于斗門。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000268",
+    "sentence": "甲申，次衞南，有飛鳥止于峻堞之上，鳴噪甚厲，副使李璠曰：「將有不如意之事。」是夜，鄆州朱瑾率步騎萬人襲朱友裕于斗門，友裕拔軍南去。",
+    "entities": [
+      {
+        "text": "鄆州",
+        "label": "LOC",
+        "start": 41,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000269",
+    "sentence": "乙酉，帝晨救斗門，不知友裕之退，前至斗門者皆為鄆人所殺。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000270",
+    "sentence": "帝追襲鄆人至瓠河，不及，遂領兵于村落間。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000271",
+    "sentence": "案領字攷文義應是頓字之譌。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000272",
+    "sentence": "今改。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000273",
+    "sentence": "時朱瑄尚在濮州。",
+    "entities": [
+      {
+        "text": "時朱瑄尚在濮州",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000274",
+    "sentence": "丁亥，遇朱瑄率兵將歸于鄆，遂來衝擊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000275",
+    "sentence": "帝策馬南馳，為賊所追甚急，前有浚溝，躍馬而過，張歸厚援矟力戰于其後，乃免。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000276",
+    "sentence": "時李璠與都將數人皆為鄆軍所殺。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000277",
+    "sentence": "五月丙午，遣朱克讓率眾暴兗、鄆之麥。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000278",
+    "sentence": "十一月，遣朱友裕率兵攻濮州，下之，擒刺史邵儒以獻，濮州平。",
+    "entities": [
+      {
+        "text": "友裕率兵攻濮州",
+        "label": "LOC",
+        "start": 6,
+        "end": 13
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 18,
+        "end": 20
+      },
+      {
+        "text": "濮州",
+        "label": "LOC",
+        "start": 25,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000279",
+    "sentence": "遂命移軍伐徐州。",
+    "entities": [
+      {
+        "text": "遂命移軍伐徐州",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000280",
+    "sentence": "冊府元龜卷一百八十七。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000281",
+    "sentence": "二年四月丁丑，師古下彭門，梟溥首以獻。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000282",
+    "sentence": "通 鑑考異引薛史梁紀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000283",
+    "sentence": "案：冊府元龜引薛史，于景福二年事多所刪節。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000284",
+    "sentence": "考異是年春有石佛山之戰，今不載。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000285",
+    "sentence": "通鑑注引薛史云：「石佛山在彭門南。」疑卽此處闕文也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000286",
+    "sentence": "八月，帝遣龎師古移兵攻兗，駐于曲阜，與朱瑾屢戰，皆敗之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000287",
+    "sentence": "十二月，師古遣先鋒葛從周引軍以攻齊州，刺史朱威告急于兗、鄆。",
+    "entities": [
+      {
+        "text": "周引軍以攻齊州",
+        "label": "LOC",
+        "start": 11,
+        "end": 18
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 19,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000288",
+    "sentence": "旣而朱瑄以援兵至，遂固其壘。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000289",
+    "sentence": "冊府元龜卷一百八十七。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000290",
+    "sentence": "乾寧元年二月，帝親領大軍由鄆州東路北次于魚山。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "親領大軍由鄆州",
+        "label": "LOC",
+        "start": 8,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000291",
+    "sentence": "魚山，歐陽史作漁山，攷通鑑亦作魚山，今仍其舊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000292",
+    "sentence": "朱瑄覘知，卽以兵逕至，且圖速戰。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000293",
+    "sentence": "帝整軍出寨，時瑄、瑾已陣于前。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000294",
+    "sentence": "須臾，東南風大起，我軍旌旂失次，甚有懼色，卽令騎士揚鞭呼嘯。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000295",
+    "sentence": "俄而西北風驟發，時兩軍皆在草莽中，帝因令縱火。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000296",
+    "sentence": "旣而煙焰亘天，乘勢以攻賊陣，瑄、瑾大敗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000297",
+    "sentence": "永樂大典卷一萬五千一百二十。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000298",
+    "sentence": "殺萬餘人，餘眾擁入清河，因築京觀于魚山之下，駐軍數日而還。",
+    "entities": [
+      {
+        "text": "清",
+        "label": "ORG",
+        "start": 9,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000299",
+    "sentence": "二年正月癸亥，遣朱友恭帥師復伐兗，遂塹而圍之。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000300",
+    "sentence": "未幾，朱瑄自鄆率步騎援粮欲入于兗，友恭設伏以敗之，盡奪其饟于高吳， 通鑑作高梧，攷是書前後俱作高吳，今仍其舊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000301",
+    "sentence": "因擒蕃將安福順、安福慶。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000302",
+    "sentence": "二月己酉，帝領親軍屯于單父，以為友恭之援。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000303",
+    "sentence": "四月，濠、壽二州復為楊行密所陷。",
+    "entities": [
+      {
+        "text": "壽二州",
+        "label": "LOC",
+        "start": 5,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000304",
+    "sentence": "是時，太原遣將史儼兒、李承嗣以萬騎馳入于鄆。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000305",
+    "sentence": "案通鑑：乾寧二年四月，河東遣其將史儼兒、李承嗣以萬人馳入于鄆。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000306",
+    "sentence": "此據薛史梁紀原文，惟史儼兒作史儼為微異耳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000307",
+    "sentence": "下又云：七月，克用遣史儼將三千騎詣石門侍衞。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000308",
+    "sentence": "十二月，李克用遣大將史儼、李承嗣假道于魏以救之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000309",
+    "sentence": "前後復互，且其時汴、鄆日有戰爭，道路且隔，史儼旣于四月入鄆，不應七月已在石門，十二月又過魏也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000310",
+    "sentence": "考舊唐書云：初，兗、鄆求援于太原，克用令蕃將史完府、何懷實等千騎赴之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000311",
+    "sentence": "不言其赴鄆為何時。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000312",
+    "sentence": "據此篇下云：八月，獲蕃將史完府。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000313",
+    "sentence": "十一月，擒何懷寶。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000314",
+    "sentence": "然則四月馳入于鄆者，當是史完府、何懷寶，非史儼、李承嗣也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000315",
+    "sentence": "參考薛史唐武皇紀及李承嗣傳，承嗣等入鄆定在二年之冬，梁紀似有舛誤。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 21,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000316",
+    "sentence": "通鑑並采梁、唐帝紀，亦未能考定畫一。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000317",
+    "sentence": "朱友恭遂歸于汴。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000318",
+    "sentence": "八月，帝領親軍伐鄆，至大仇，遣前軍挑戰，設伏于梁山以待之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000319",
+    "sentence": "旣而獲蕃將史完府，奪馬數百匹。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000320",
+    "sentence": "朱瑄脫身遁去，復入于鄆。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000321",
+    "sentence": "案通鑑：九月辛未，朱全忠自將擊朱瑄，戰于梁山，瑄敗走還鄆。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000322",
+    "sentence": "與薛史異。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000323",
+    "sentence": "歐陽史仍從薛史作八月。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000324",
+    "sentence": "十月，帝駐軍于鄆，齊州刺史朱瓊遣使請降，瓊卽瑾之從父兄也。",
+    "entities": [
+      {
+        "text": "齊州",
+        "label": "LOC",
+        "start": 9,
+        "end": 11
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000325",
+    "sentence": "案新唐書昭宗紀：十一月壬申，齊州刺史朱瓊叛降于朱全忠。",
+    "entities": [
+      {
+        "text": "齊州",
+        "label": "LOC",
+        "start": 14,
+        "end": 16
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 16,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000326",
+    "sentence": "據薛史則朱瓊自請降至見殺皆在十月，與新唐書異。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000327",
+    "sentence": "通鑑從新唐書。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000328",
+    "sentence": "帝因移軍至兗，瓊果來降。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000329",
+    "sentence": "未幾，瓊為朱瑾所紿，掠而殺之，帝卽以其弟玭為齊州防禦使。",
+    "entities": [
+      {
+        "text": "以其弟玭為齊州",
+        "label": "LOC",
+        "start": 17,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000330",
+    "sentence": "十一月，朱瑄復遣將賀瓌、柳存及蕃將何懷寶等萬餘人以襲曹州，何懷寶，通鑑作薛懷寶，攷舊唐書亦作何懷寶，今仍之。",
+    "entities": [
+      {
+        "text": "萬餘人以襲曹州",
+        "label": "LOC",
+        "start": 21,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000331",
+    "sentence": "庶解兗州之圍也。",
+    "entities": [
+      {
+        "text": "庶解兗州",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000332",
+    "sentence": "帝知之，自兗領軍策馬先路至鉅野南，追而敗之，殺戮將盡，生擒賀瓌、柳存、何懷寶及賊黨三千餘人。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000333",
+    "sentence": "是日申時，狂風暴起，沙塵沸湧，帝曰：「此乃殺人未足耳。」遂下令盡殺所獲囚俘，風亦止焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000334",
+    "sentence": "翼日，縶賀瓌等以示于兗，帝素知瓌名，乃釋之，惟斬何懷寶于兗城之下，乃班師。",
+    "entities": [
+      {
+        "text": "斬何懷寶于兗城",
+        "label": "LOC",
+        "start": 23,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000335",
+    "sentence": "十二月，葛從周領兵復伐兗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000336",
+    "sentence": "案通鑑云：朱全忠之去兗州也，留葛從周將兵守之。",
+    "entities": [
+      {
+        "text": "朱全忠之去兗州",
+        "label": "LOC",
+        "start": 5,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000337",
+    "sentence": "與薛史梁紀異。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000338",
+    "sentence": "又，薛史葛從周傳作十月事。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000339",
+    "sentence": "旣至，與朱瑾戰于壘下，殺千餘眾，擒其將孫漢筠已下二十人，遂旋師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000340",
+    "sentence": "三年正月，河東李克用旣破邠州，欲謀爭霸，乃遣蕃將張汚落以萬騎寨于河北之莘縣，聲言欲救兗、鄆。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "李克用旣破邠州",
+        "label": "LOC",
+        "start": 7,
+        "end": 14
+      },
+      {
+        "text": "寨于河北之莘縣",
+        "label": "LOC",
+        "start": 30,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000341",
+    "sentence": "魏博節度使羅弘信患之，使來求援。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000342",
+    "sentence": "冊府元龜卷一百八十七。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000343",
+    "sentence": "二月，帝領親軍屯于單父，會寒食，帝乃親拜文穆皇帝陵于碭山縣午溝里。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 22,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000344",
+    "sentence": "冊府元龜卷一百八十九。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000345",
+    "sentence": "四月辛酉，河東水泛漲，將壞滑城，帝令決隄岸以分其勢為二河，夾滑城而東，為害滋甚。",
+    "entities": [
+      {
+        "text": "將壞滑城",
+        "label": "LOC",
+        "start": 11,
+        "end": 15
+      },
+      {
+        "text": "夾滑城",
+        "label": "LOC",
+        "start": 29,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000346",
+    "sentence": "是月，帝遣許州刺史朱友恭領兵萬人渡淮，以便宜從事。",
+    "entities": [
+      {
+        "text": "帝遣許州",
+        "label": "LOC",
+        "start": 3,
+        "end": 7
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 7,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000347",
+    "sentence": "時黃、鄂二州累遣使求援，故有是行。",
+    "entities": [
+      {
+        "text": "鄂二州",
+        "label": "LOC",
+        "start": 3,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000348",
+    "sentence": "五月，命葛從周統軍屯于洹水，以備蕃軍。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000349",
+    "sentence": "六月，李克用帥蕃漢諸軍營于斥丘，遣其男落落將鐵林小兒三千騎薄于洹水。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000350",
+    "sentence": "從周與戰，大敗之，生擒落落以獻。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000351",
+    "sentence": "克用悲駭，請修舊好以贖其子，帝不許，遂執落落送于羅弘信，斬之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000352",
+    "sentence": "越七日，我軍還屯陽留以伐鄆。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000353",
+    "sentence": "八月，復壁于洹水。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000354",
+    "sentence": "是時，昭宗幸華州，遣使就加帝檢校太師，守中書令。",
+    "entities": [
+      {
+        "text": "昭宗幸華州",
+        "label": "LOC",
+        "start": 3,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000355",
+    "sentence": "四年正月，帝以洹水之師大舉伐鄆。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000356",
+    "sentence": "辛卯，營于濟水之次， 案胡三省云：漢以後無濟水，此濟水蓋即鄆城清河水也。",
+    "entities": [
+      {
+        "text": "此濟水蓋即鄆城",
+        "label": "LOC",
+        "start": 24,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000357",
+    "sentence": "龎師古令諸將撤木為橋。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000358",
+    "sentence": "乙未夜，師古以中軍先濟，聲振于鄆，朱瑄聞之，棄壁夜走。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000359",
+    "sentence": "葛從周逐之至中都北，擒瑄并其妻男以獻， 案：自「辛卯營于濟水之次」至此，又見通鑑考異，惟中少數字，蓋引書間有刪節也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000360",
+    "sentence": "尋斬汴橋下。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000361",
+    "sentence": "鄆州平。",
+    "entities": [
+      {
+        "text": "鄆州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000362",
+    "sentence": "己亥，帝入于鄆，以朱友裕為鄆州兵馬留後。",
+    "entities": [
+      {
+        "text": "以朱友裕為鄆州",
+        "label": "LOC",
+        "start": 8,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000363",
+    "sentence": "案通鑑：正月，以龎師古為天平軍留後。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000364",
+    "sentence": "三月，表朱友裕為天平軍留後。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000365",
+    "sentence": "據薛史郴王友裕傳，四年，帝下東平，卽為天平留後。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000366",
+    "sentence": "與通鑑異。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000367",
+    "sentence": "時帝聞朱瑾與史儼兒在豐沛間搜索糧饋，惟留康懷英守兗州，帝因乘勝遣葛從周以大軍襲兗。",
+    "entities": [
+      {
+        "text": "沛",
+        "label": "LOC",
+        "start": 11,
+        "end": 12
+      },
+      {
+        "text": "留康懷英守兗州",
+        "label": "LOC",
+        "start": 19,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000368",
+    "sentence": "懷英聞鄆失守，俄又我軍大至，乃出降。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000369",
+    "sentence": "朱瑾、史儼兒遂奔淮南。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000370",
+    "sentence": "兗、海、沂、密等州平。",
+    "entities": [
+      {
+        "text": "密等州",
+        "label": "LOC",
+        "start": 6,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000371",
+    "sentence": "案新唐書昭宗紀：四年正月丙申，朱全忠陷鄆州，天平軍節度朱宣死之。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 8,
+        "end": 10
+      },
+      {
+        "text": "朱全忠陷鄆州",
+        "label": "LOC",
+        "start": 15,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000372",
+    "sentence": "二月，朱全忠寇兗州，泰寕軍節度使朱瑾奔于淮南。",
+    "entities": [
+      {
+        "text": "朱全忠寇兗州",
+        "label": "LOC",
+        "start": 3,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000373",
+    "sentence": "舊唐書：正月癸未，汴將龎師古陷鄆州。",
+    "entities": [
+      {
+        "text": "將龎師古陷鄆州",
+        "label": "LOC",
+        "start": 10,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000374",
+    "sentence": "二月戊申，汴將葛從周陷兗州。",
+    "entities": [
+      {
+        "text": "將葛從周陷兗州",
+        "label": "LOC",
+        "start": 6,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000375",
+    "sentence": "與薛史月日前後不同，詳見通鑑考異。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000376",
+    "sentence": "乃以葛從周為兗州留後。",
+    "entities": [
+      {
+        "text": "以葛從周為兗州",
+        "label": "LOC",
+        "start": 1,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000377",
+    "sentence": "冊府元龜卷一百八十七。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000378",
+    "sentence": "五月丁丑，朱友恭遣使上言，大破淮冦于武昌，收復黃、鄂二州。",
+    "entities": [
+      {
+        "text": "鄂二州",
+        "label": "LOC",
+        "start": 25,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000379",
+    "sentence": "通鑑考異引薛史梁紀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000380",
+    "sentence": "八月，陝州節度使王珙遣使來乞師。",
+    "entities": [
+      {
+        "text": "陝州",
+        "label": "LOC",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_007_001_000381",
+    "sentence": "是時，珙弟珂實為蒲帥， 珂，原本訛作「琦」，今據新唐書王重榮傳改正。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000382",
+    "sentence": "迭相憤怒，日尋干戈，而珙兵寡，故來求援。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000383",
+    "sentence": "帝遣張存敬、楊師厚等領兵赴陝，旣而與蒲人戰于猗氏，大敗之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000384",
+    "sentence": "九月，帝以兗、鄆旣平，將士雄勇，遂大舉南征。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000385",
+    "sentence": "案舊唐書昭宗紀，師古渡淮在十月，而清口之敗在十一月，薛史繫于九月，蓋舉南征之議實始于九月，其後遂終言之耳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000386",
+    "sentence": "歐陽史改作九月攻淮南。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000387",
+    "sentence": "則清口之役，乃因雨雪而敗，有九國志可據，斷非九月事也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000388",
+    "sentence": "命龎師古以徐、宿、宋、滑之師直趨清口，葛從周以兗、鄆、曹、濮之眾徑赴安豐。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000389",
+    "sentence": "淮人遣朱瑾領兵以拒師古，因決水以浸軍，遂為淮人所敗，師古歿焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000390",
+    "sentence": "葛從周行及濠梁，聞師古之敗，亦命班師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_007_001_000391",
+    "sentence": "冊府元龜卷一百八十七。",
+    "entities": []
+  }
+]

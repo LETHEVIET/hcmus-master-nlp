@@ -1,0 +1,2661 @@
+[
+  {
+    "sentence_id": "HCH_003_058_000001",
+    "sentence": "周室諸王",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000002",
+    "sentence": "文帝十三王　孝閔帝一王　明帝二王　武帝六王　宣帝二王",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000003",
+    "sentence": "文帝",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000004",
+    "sentence": "周文帝十三子：姚夫人生明帝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000005",
+    "sentence": "後宮生宋獻公震。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000006",
+    "sentence": "文元皇后生孝閔皇帝。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 7,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000007",
+    "sentence": "文宣叱奴皇后生武帝、衛剌王直。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000008",
+    "sentence": "達步妃生齊煬王憲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000009",
+    "sentence": "王姬生趙僭王招。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000010",
+    "sentence": "後宮生譙孝王儉、陳惑王純、越野王盛、代紘王達、冀康公通、滕聞王逌。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000011",
+    "sentence": "宋獻公震，字彌俄突，幼而敏達。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000012",
+    "sentence": "大統十六年，封武邑公，尚魏文帝女。",
+    "entities": [
+      {
+        "text": "十六年",
+        "label": "TME",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "封武邑",
+        "label": "LOC",
+        "start": 6,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000013",
+    "sentence": "其年薨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000014",
+    "sentence": "保定元年，追贈大司馬，封宋國公。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000015",
+    "sentence": "無子，以明帝第三子實嗣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000016",
+    "sentence": "建德三年，進爵為王。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000017",
+    "sentence": "大象中，為大前疑，尋為隋文帝害，國除。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000018",
+    "sentence": "衛剌王直，字豆羅突。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000019",
+    "sentence": "魏恭帝三年，封秦郡公。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "封秦郡",
+        "label": "LOC",
+        "start": 6,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000020",
+    "sentence": "武成初，進封衛國公，歷雍州牧、大司空、襄州總管。",
+    "entities": [
+      {
+        "text": "歷雍州",
+        "label": "LOC",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "襄州",
+        "label": "LOC",
+        "start": 19,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000021",
+    "sentence": "直，武帝母弟也，性浮詭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000022",
+    "sentence": "以晉公護執政，遂貳於帝而昵護。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000023",
+    "sentence": "及南討軍敗，慍於免黜，又請帝除護。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000024",
+    "sentence": "帝宿有誅護意，遂與直謀之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000025",
+    "sentence": "及護誅，帝以齊王憲為大塚宰。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000026",
+    "sentence": "直既乖本望，又請為大司馬，欲擅威權。",
+    "entities": [
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000027",
+    "sentence": "帝知其意，謂曰：「汝兄弟長幼有序，何反居下列也？」以為大司徒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000028",
+    "sentence": "建德三年，進爵為王。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000029",
+    "sentence": "初，帝以直第為東宮，更使直自擇所居。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000030",
+    "sentence": "直歷觀府署，無稱意者，至廢陟屺佛寺，遂欲居之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000031",
+    "sentence": "齊王憲謂曰：「弟兒女成長，此寺偏小，詎是所宜？」直曰：「一身尚不自容，何論兒女！」憲怪而疑之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000032",
+    "sentence": "直嘗從帝校獵而亂行，帝怒，對眾撻之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000033",
+    "sentence": "自是，憤怨滋甚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000034",
+    "sentence": "及帝幸雲陽宮，直在京師反，攻肅章門，司武尉遲運閉門，不得入，退走。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000035",
+    "sentence": "追至荊州獲之，免為庶人，囚諸宮中。",
+    "entities": [
+      {
+        "text": "追至荊州",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000036",
+    "sentence": "尋有異志，及其子十人並誅之，國除。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000037",
+    "sentence": "齊煬王憲，字毗賀突。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000038",
+    "sentence": "性通敏，有度量。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000039",
+    "sentence": "初封涪城縣公。",
+    "entities": [
+      {
+        "text": "初封涪城縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000040",
+    "sentence": "少與武帝俱受詩傳，咸綜機要，得其指歸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000041",
+    "sentence": "文帝嘗賜諸子良馬，唯其所擇。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000042",
+    "sentence": "憲獨取駁者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000043",
+    "sentence": "帝問之，對曰：「此馬色類既殊，或多駿逸。若從軍征伐，牧圉易分。」帝喜曰：「此兒智識不凡，當成重器。」後從上隴，經官馬牧，文帝每見駁馬，輒曰「此我兒馬也」，命取以賜之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000044",
+    "sentence": "魏恭帝元年，進封安城郡公。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "進封安城郡",
+        "label": "LOC",
+        "start": 6,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000045",
+    "sentence": "明帝即位，授大將軍。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 6,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000046",
+    "sentence": "武成初，除益州總管，進封齊國公。",
+    "entities": [
+      {
+        "text": "除益州",
+        "label": "LOC",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "齊國",
+        "label": "ORG",
+        "start": 12,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000047",
+    "sentence": "初，平蜀之後，文帝以其形勝之地，不欲使宿將居之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000048",
+    "sentence": "諸子中欲有推擇，偏問武帝以下，誰欲此行，並未及對，而憲先請。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000049",
+    "sentence": "文帝曰：「刺史當撫眾臨人，非爾所及。以年授者，當歸爾兄。」憲曰：「才用殊不關大小，試而無效，甘受面欺。」文帝以憲年尚幼，未之遣。",
+    "entities": [
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      },
+      {
+        "text": "才用殊不關",
+        "label": "LOC",
+        "start": 33,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000050",
+    "sentence": "明帝追遵先旨，故有此授。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000051",
+    "sentence": "憲時年十六，善於撫綏，留心政術，辭訟輻湊，聽受不疲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000052",
+    "sentence": "蜀人悅之，共立碑頌德。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000053",
+    "sentence": "保定中，徵拜雍州牧。",
+    "entities": [
+      {
+        "text": "徵拜雍州",
+        "label": "LOC",
+        "start": 4,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000054",
+    "sentence": "及晉公護東伐，以尉遲迥為前鋒，圍洛陽。",
+    "entities": [
+      {
+        "text": "洛陽",
+        "label": "LOC",
+        "start": 16,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000055",
+    "sentence": "齊兵數萬，奄出軍後，諸軍恇駭，並各退散。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000056",
+    "sentence": "唯憲與王雄、達奚武拒之，而雄為齊人所敗，三軍震懼。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000057",
+    "sentence": "憲親自督勵，眾心乃安。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000058",
+    "sentence": "時晉公護執政，雅相親委，賞罰之際，皆得預焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000059",
+    "sentence": "天和三年，以憲為大司馬，行小冢宰，雍州牧如故。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      },
+      {
+        "text": "雍州",
+        "label": "LOC",
+        "start": 17,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000060",
+    "sentence": "四年，齊將獨孤永業來寇，詔憲與柱國李穆出宜陽，築崇德等五城，絕其糧道。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "築崇德等五城",
+        "label": "LOC",
+        "start": 23,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000061",
+    "sentence": "齊將斛律明月築壘洛南。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000062",
+    "sentence": "五年，憲涉洛邀之，明月遁走。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000063",
+    "sentence": "是歲，明月又於汾北築城，西至龍門。",
+    "entities": [
+      {
+        "text": "月又於汾北築城",
+        "label": "LOC",
+        "start": 4,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000064",
+    "sentence": "晉公護問計於憲，憲曰：「兄宜暫出同州為威容，憲請以精兵居前，隨機攻取。」六年，憲率眾出自龍門，齊將新蔡王康得潛軍宵遁。",
+    "entities": [
+      {
+        "text": "兄宜暫出同州",
+        "label": "LOC",
+        "start": 12,
+        "end": 18
+      },
+      {
+        "text": "六年",
+        "label": "TME",
+        "start": 36,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000065",
+    "sentence": "憲乃度河，攻其伏龍等四城，二日盡拔。",
+    "entities": [
+      {
+        "text": "攻其伏龍等四城",
+        "label": "LOC",
+        "start": 5,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000066",
+    "sentence": "又攻張壁，克之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000067",
+    "sentence": "斛律明月時在華容，弗能救，乃北攻姚襄城，陷之。",
+    "entities": [
+      {
+        "text": "乃北攻姚襄城",
+        "label": "LOC",
+        "start": 13,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000068",
+    "sentence": "汾州又見圍日久，憲遣柱國宇文盛運粟饋之。",
+    "entities": [
+      {
+        "text": "汾州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000069",
+    "sentence": "憲自入兩乳谷，襲克齊伯杜城。",
+    "entities": [
+      {
+        "text": "襲克齊伯杜城",
+        "label": "LOC",
+        "start": 7,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000070",
+    "sentence": "使柱國譚公會築石殿城以為汾州之援。",
+    "entities": [
+      {
+        "text": "譚公會築石殿城",
+        "label": "LOC",
+        "start": 3,
+        "end": 10
+      },
+      {
+        "text": "以為汾州",
+        "label": "LOC",
+        "start": 10,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000071",
+    "sentence": "齊平原王段孝先、蘭陵王高長恭引兵大至，大將軍韓歡為齊人所乘，遂退。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 19,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000072",
+    "sentence": "憲身自督戰，齊眾稍卻。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000073",
+    "sentence": "會日暮，乃各收軍。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000074",
+    "sentence": "及晉公護誅，武帝召憲入，免冠拜謝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000075",
+    "sentence": "帝謂曰：「汝親則同氣，休戚共之，事不相涉，何煩致謝？」乃詔憲往護第，收兵符及諸簿籍等。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000076",
+    "sentence": "尋以憲為大冢宰。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000077",
+    "sentence": "時帝既誅宰臣，親覽朝政，方欲齊之以刑，爰及親親，亦為刻薄。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000078",
+    "sentence": "憲既為護所任，自天和後，威勢漸隆。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000079",
+    "sentence": "護欲有所陳，多令憲奏。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000080",
+    "sentence": "其間或有可不，憲慮主相嫌隙，每曲而暢之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000081",
+    "sentence": "帝亦悉其此心，故得無患。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000082",
+    "sentence": "然猶以威名過重，終不能平，雖遷授塚宰，實奪其權也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000083",
+    "sentence": "開府裴文舉，憲之侍讀，帝嘗御內殿引見，謂曰：「昔魏末不綱，太祖匡輔元氏；有周受命，晉公復執威權。積習生常，便謂法應須爾。豈有三十歲天子可為人所制乎？且近代以來，又有一弊，暫經隸屬，便即禮若君臣，此乃亂時權宜，非經國之術。爾雖陪侍齊公，不得即同臣主。且太祖十兒，寧可悉為天子？卿宜規以正道，無令兄弟自致嫌疑。」文舉再拜而出，歸以白憲。",
+    "entities": [
+      {
+        "text": "魏",
+        "label": "ORG",
+        "start": 24,
+        "end": 25
+      },
+      {
+        "text": "元氏",
+        "label": "ORG",
+        "start": 33,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000084",
+    "sentence": "憲指心撫幾曰：「吾心公寧不悉？但當盡忠竭節耳，知復何言！」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000085",
+    "sentence": "建德三年，進爵為王。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000086",
+    "sentence": "甯友劉休徵獻王箴一首，憲美之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000087",
+    "sentence": "休徵後又以箴上之，帝方翦削諸弟，甚悅其文。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000088",
+    "sentence": "憲嘗以兵書繁廣，自刊為要略五篇，至是表陳之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000089",
+    "sentence": "帝覽而稱善。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000090",
+    "sentence": "其秋，帝于雲陽寢疾，衛王直于京師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000091",
+    "sentence": "帝召憲謂曰：「汝為前軍，吾亦續發。」直尋敗走。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000092",
+    "sentence": "帝至京師，憲與趙王招俱入拜謝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000093",
+    "sentence": "帝曰：「管、蔡為戮，周公作輔，人心不同，有如其面。但愧兄弟親尋干戈，於我為不能耳。」初，直內忌憲，憲隱而容之，且以帝母弟，每加友敬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000094",
+    "sentence": "晉公護之誅也，直固請及憲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000095",
+    "sentence": "帝曰：「齊公心跡，吾自悉之，不得更有所疑。」及文宣皇后崩，直又密啟憲飲酒食肉與平昔不異。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 25,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000096",
+    "sentence": "帝曰：「吾與齊王異生，俱非正嫡，特為吾意，今袒括是同。汝當愧之，何論得失。汝親太后之子，但須自助。」直乃止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000097",
+    "sentence": "四年，帝將東討，獨與內史王誼謀之，余人莫知。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000098",
+    "sentence": "後以諸弟才略，無出憲右，遂告之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000099",
+    "sentence": "憲即贊成其事。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000100",
+    "sentence": "及大軍將出，憲表上金寶等一十六件以助軍資。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000101",
+    "sentence": "詔不納，以憲表示公卿曰：「人臣當如此，朕貴其心耳，寧資此物。」乃詔寧為前軍，趣黎陽。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000102",
+    "sentence": "帝親圍河陰，未克。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000103",
+    "sentence": "憲攻拔武濟，進圍洛口，拔其東西二城。",
+    "entities": [
+      {
+        "text": "拔其東西二城",
+        "label": "LOC",
+        "start": 11,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000104",
+    "sentence": "以帝疾班師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000105",
+    "sentence": "是歲，初置上柱國，以憲為之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000106",
+    "sentence": "五年，大舉東討，憲復為前鋒，守雀鼠穀。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000107",
+    "sentence": "帝親圍晉州，憲進克洪洞、永安二城，更圖進取。",
+    "entities": [
+      {
+        "text": "帝親圍晉州",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "永安二城",
+        "label": "LOC",
+        "start": 12,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000108",
+    "sentence": "齊主聞晉州見圍，自來援之。",
+    "entities": [
+      {
+        "text": "齊主聞晉州",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000109",
+    "sentence": "時陳王純頓千里徑，大將軍永是公椿屯雞棲原，大將軍宇文盛守汾水關，並受憲節度。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "宇文盛守汾水關",
+        "label": "LOC",
+        "start": 24,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000110",
+    "sentence": "憲密謂椿曰：「捕者詭道，汝今為營，不須張幕，可伐柏為庵，示有處所。令兵去之後，賊猶致疑。」時齊主分軍萬人向千里徑，又令其眾出汾水關，自率大兵與椿對。",
+    "entities": [
+      {
+        "text": "令其眾出汾水關",
+        "label": "LOC",
+        "start": 58,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000111",
+    "sentence": "宇文盛馳告急，憲自救之，齊人遽退。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000112",
+    "sentence": "盛與柱國侯莫陳芮逐之，多有斬獲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000113",
+    "sentence": "俄而椿告齊眾稍逼，憲又救之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000114",
+    "sentence": "會椿被敕追還，率兵夜反。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000115",
+    "sentence": "齊人果謂柏庵為帳幕，不疑軍退，翌日始悟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000116",
+    "sentence": "時帝已去晉州，留憲後拒。",
+    "entities": [
+      {
+        "text": "時帝已去晉州",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000117",
+    "sentence": "憲阻水為陣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000118",
+    "sentence": "齊領軍段暢至橋。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000119",
+    "sentence": "憲隔水問暢姓名，暢曰：「領軍段暢也，公復為誰？」憲曰：「我虞候大都督耳。」暢曰：「觀公言語，不是凡人，何用隱名位。」憲乃曰：「我齊王也。」偏指陳王純已下，並以告之。",
+    "entities": [
+      {
+        "text": "大都",
+        "label": "LOC",
+        "start": 31,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000120",
+    "sentence": "暢鞭馬去，憲即命旋軍。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000121",
+    "sentence": "齊人遽追之，戈甲甚銳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000122",
+    "sentence": "憲與開府宇文忻為殿拒之，斬其驍將賀蘭豹子、山褥環等，齊眾乃退。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000123",
+    "sentence": "帝又命憲援晉州。",
+    "entities": [
+      {
+        "text": "帝又命憲援晉州",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000124",
+    "sentence": "齊主攻圍晉州，帝次於高顯，憲率所部先向晉州。",
+    "entities": [
+      {
+        "text": "齊主攻圍晉州",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "率所部先向晉州",
+        "label": "LOC",
+        "start": 14,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000125",
+    "sentence": "明日諸軍總集，稍逼城下。",
+    "entities": [
+      {
+        "text": "稍逼城",
+        "label": "LOC",
+        "start": 7,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000126",
+    "sentence": "齊人大陣于營南，帝召憲馳往觀之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000127",
+    "sentence": "憲反命曰：「請破之而後食。」帝悅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000128",
+    "sentence": "既而諸軍俱進，應時大潰，齊主遁走。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000129",
+    "sentence": "齊人復據高壁及洛女，帝命憲攻洛女，破之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000130",
+    "sentence": "齊主已走鄴，留其安德王延宗據并州。",
+    "entities": [
+      {
+        "text": "德王延宗據并州",
+        "label": "LOC",
+        "start": 9,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000131",
+    "sentence": "帝進圍其城，憲攻其西面，克之。",
+    "entities": [
+      {
+        "text": "帝進圍其城",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000132",
+    "sentence": "延宗遁走，追而獲之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000133",
+    "sentence": "以功進封第二子安城公質為河間王，拜第三子賓為大將軍。",
+    "entities": [
+      {
+        "text": "進封第二子安城",
+        "label": "LOC",
+        "start": 2,
+        "end": 9
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 22,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000134",
+    "sentence": "仍詔憲趣鄴，進克鄴城。",
+    "entities": [
+      {
+        "text": "進克鄴城",
+        "label": "LOC",
+        "start": 6,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000135",
+    "sentence": "憲善兵謀，長於撫御，摧鋒陷陣，為士卒先。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000136",
+    "sentence": "齊人聞風，憚其勇略。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000137",
+    "sentence": "齊任城王湝、廣甯王孝珩等守信都，復詔憲討之。",
+    "entities": [
+      {
+        "text": "齊任城",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000138",
+    "sentence": "仍令齊主手書招湝，湝不納。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000139",
+    "sentence": "憲軍過趙州，湝令間諜二人覘，候騎執以白憲。",
+    "entities": [
+      {
+        "text": "憲軍過趙州",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000140",
+    "sentence": "憲乃集齊舊將，偏將示之曰：「吾所爭者大，不在汝等。」即放還，令充使，乃與湝書。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000141",
+    "sentence": "憲至信都，湝陣于城南，登張耳塚望之。",
+    "entities": [
+      {
+        "text": "湝陣于城",
+        "label": "LOC",
+        "start": 5,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000142",
+    "sentence": "俄而湝所署領軍尉相願偽出略陣，遂降，湝殺其妻子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000143",
+    "sentence": "明日擒湝及孝珩等。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000144",
+    "sentence": "先是稽胡劉沒鐸自稱皇帝，又詔憲督趙王招等平之。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000145",
+    "sentence": "憲自以威名日重，潛思摒退。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000146",
+    "sentence": "及帝欲親征北蕃，乃辭以疾。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000147",
+    "sentence": "尋而帝崩，宣帝嗣位，以憲屬尊望重，深忌之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000148",
+    "sentence": "時尚未葬，諸王在內居服。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000149",
+    "sentence": "司衛長孫覽總兵輔政，恐諸王有異志，奏令開府于智察其動靜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000150",
+    "sentence": "及山陵還，帝又命智就宅候憲，因是告憲有謀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000151",
+    "sentence": "帝遣小冢宰宇文孝伯謂憲曰：「今欲以叔為太師，九叔為太傅，十一叔為太保，何如？」憲辭以才輕。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000152",
+    "sentence": "孝伯返命，復來曰：「詔王晚共諸王俱入。」既至殿門，憲獨被引進。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000153",
+    "sentence": "帝先伏壯士于別室，至即執之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000154",
+    "sentence": "憲辭色不撓，固自陳說。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000155",
+    "sentence": "帝使于智對憲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000156",
+    "sentence": "憲目光如炬，與智相質。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000157",
+    "sentence": "或曰：「以王今日事勢，何用多言！」憲曰：「我位重屬尊，一旦至此，死生有命，寧復圖存？但老母在堂，恐留慈恨耳。」因擲笏於地，乃縊之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000158",
+    "sentence": "時年三十五。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000159",
+    "sentence": "帝以于智為柱國，封齊國公。",
+    "entities": [
+      {
+        "text": "齊國",
+        "label": "ORG",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000160",
+    "sentence": "又殺上大將軍安邑公王興、上開府獨孤熊、開府豆盧紹等，皆以昵於憲也。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 3,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000161",
+    "sentence": "帝既誅憲，無以為辭，故託興等與憲結謀，遂加戮焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000162",
+    "sentence": "時人知其冤酷，咸云伴憲死也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000163",
+    "sentence": "憲所生達步幹氏，蠕蠕人也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000164",
+    "sentence": "建德三年，上冊為齊國太妃。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "齊國",
+        "label": "ORG",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000165",
+    "sentence": "憲有至性，事母以孝聞。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000166",
+    "sentence": "太妃舊患，屢經發動，憲衣不解帶，扶持左右。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000167",
+    "sentence": "憲或東西從役，每心驚，母必有疾，乃馳使參問，果如所慮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000168",
+    "sentence": "六子，貴、質、賨、貢、乾禧、乾洽。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000169",
+    "sentence": "貴字乾福，少聰敏，尤便騎射。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000170",
+    "sentence": "始讀孝經，便謂人曰：「讀此一經，足為立身之本。」十歲，封安定郡公。",
+    "entities": [
+      {
+        "text": "封安定郡",
+        "label": "LOC",
+        "start": 27,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000171",
+    "sentence": "文帝始封此郡，未嘗假人，至是封焉。",
+    "entities": [
+      {
+        "text": "文帝始封此郡",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000172",
+    "sentence": "年十一，從憲獵於監州，一圍中，手射野馬及鹿一十有五。",
+    "entities": [
+      {
+        "text": "從憲獵於監州",
+        "label": "LOC",
+        "start": 4,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000173",
+    "sentence": "建德二年，拜齊國世子。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "齊國",
+        "label": "ORG",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000174",
+    "sentence": "後出為豳州刺史。",
+    "entities": [
+      {
+        "text": "後出為豳州",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000175",
+    "sentence": "貴雖出自深宮，而留心庶政。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000176",
+    "sentence": "性聰敏，過目輒記，嘗道逢二人，謂其左右曰：「此人是縣党，何因輒行？」左右不識，貴便說其姓名，莫不嗟伏。",
+    "entities": [
+      {
+        "text": "此人是縣",
+        "label": "LOC",
+        "start": 22,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000177",
+    "sentence": "白獸烽經為商人所燒，烽帥受貨，不言其罪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000178",
+    "sentence": "他日，此帥隨例來參，貴乃問云：「商人燒烽，何因私放？」烽帥愕然，遂即首伏。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000179",
+    "sentence": "其明察如此。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000180",
+    "sentence": "卒時年十七，武帝甚痛惜之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000181",
+    "sentence": "質字乾佑，以憲勳封河間郡王。",
+    "entities": [
+      {
+        "text": "以憲勳封河間郡",
+        "label": "LOC",
+        "start": 5,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000182",
+    "sentence": "賓字乾禮，中壩公。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000183",
+    "sentence": "貢出後莒莊公，乾禧，安城公。",
+    "entities": [
+      {
+        "text": "安城",
+        "label": "LOC",
+        "start": 10,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000184",
+    "sentence": "乾洽，龍涸公。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000185",
+    "sentence": "並與憲俱被誅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000186",
+    "sentence": "趙僭王招，字豆盧突。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000187",
+    "sentence": "幼聰穎，博涉群書，好屬文，學庾信體，詞多輕豔。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000188",
+    "sentence": "魏恭帝三年，封正平郡公。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "封正平郡",
+        "label": "LOC",
+        "start": 6,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000189",
+    "sentence": "武城初，進封趙國公。",
+    "entities": [
+      {
+        "text": "武城",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000190",
+    "sentence": "曆益州總管、大司空、大司馬，進爵為王，除雍州牧。",
+    "entities": [
+      {
+        "text": "曆益州",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      },
+      {
+        "text": "除雍州",
+        "label": "LOC",
+        "start": 19,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000191",
+    "sentence": "建德五年，從東伐，以功進位上柱國。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000192",
+    "sentence": "又與齊王憲討平稽胡，斬賊帥劉沒鐸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000193",
+    "sentence": "宣政中，拜太師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000194",
+    "sentence": "大象元年，詔以洺州襄國郡邑萬戶為趙王國，招出就國。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "詔以洺州襄國郡",
+        "label": "LOC",
+        "start": 5,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000195",
+    "sentence": "二年，宣帝不豫，徵招及陳、越、代、滕五王赴闕。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000196",
+    "sentence": "比招等至而帝已崩。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000197",
+    "sentence": "隋文帝輔政，加招等殊禮，入朝不趨，劍履上殿。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000198",
+    "sentence": "隋文帝將遷周鼎，招密欲圖之，以匡社稷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000199",
+    "sentence": "乃要隋文帝至第，飲於寢室。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000200",
+    "sentence": "招子員、貫及妃弟魯封、所親人史胄皆先在左右，佩刀而立。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000201",
+    "sentence": "又藏兵刃于帷席間，後院亦伏壯士。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000202",
+    "sentence": "隋文帝從者多在合外，惟楊弘、元胄胄弟威及陶徹坐戶側。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000203",
+    "sentence": "招屢以佩刀割瓜啖隋文，隋文未之疑。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000204",
+    "sentence": "元胄覺變，扣刀而入。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000205",
+    "sentence": "招乃以大觴親飲胄酒，又命胄向廚取漿。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000206",
+    "sentence": "胄不為之動。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000207",
+    "sentence": "滕王逌後至，隋文降階迎，胄因得耳語曰：「公宜速出。」隋文共逌等就坐，須臾辭出。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000208",
+    "sentence": "後事覺，陷以謀反，其年秋，誅招及其子德廣公員、永康王貫、越公乾銑、弟乾鏗等，國除。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000209",
+    "sentence": "招所著文集十卷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000210",
+    "sentence": "譙孝王儉，字侯幼突。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000211",
+    "sentence": "武成初，封譙國公。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000212",
+    "sentence": "建德三年，進為王。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000213",
+    "sentence": "從平鄴，拜大冢宰。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000214",
+    "sentence": "薨，子乾惲嗣，為隋文帝所害，國除。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000215",
+    "sentence": "陳惑王純，字堙智突。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000216",
+    "sentence": "武成初，封陳國公。",
+    "entities": [
+      {
+        "text": "陳國",
+        "label": "ORG",
+        "start": 5,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000217",
+    "sentence": "保定中，使突厥迎皇后，歷秦、陝二州總管。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      },
+      {
+        "text": "陝二州",
+        "label": "LOC",
+        "start": 14,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000218",
+    "sentence": "建德三年，進爵為王。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000219",
+    "sentence": "從平齊，進位上柱國。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000220",
+    "sentence": "歷并州總管、雍州牧、太傅。",
+    "entities": [
+      {
+        "text": "歷并州",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "雍州",
+        "label": "LOC",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000221",
+    "sentence": "大象元年，詔以濟南郡邑萬戶為陳國，純出就國。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "詔以濟南郡邑",
+        "label": "LOC",
+        "start": 5,
+        "end": 11
+      },
+      {
+        "text": "陳國",
+        "label": "ORG",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000222",
+    "sentence": "二年，朝京師，並其子為隋文帝所害，國除。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000223",
+    "sentence": "越野王盛，字立久突。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000224",
+    "sentence": "武成初，封越國公。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000225",
+    "sentence": "建德三年，進爵為王。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000226",
+    "sentence": "從平齊，進位上柱國。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000227",
+    "sentence": "歷相州總管、大冢宰。",
+    "entities": [
+      {
+        "text": "歷相州",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000228",
+    "sentence": "大象元年，遷大前疑、太保。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000229",
+    "sentence": "其年，詔以豐州武當、安昌二郡，邑萬戶為越國，盛出就國。",
+    "entities": [
+      {
+        "text": "詔以豐州",
+        "label": "LOC",
+        "start": 3,
+        "end": 7
+      },
+      {
+        "text": "安昌二郡",
+        "label": "LOC",
+        "start": 10,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000230",
+    "sentence": "二年，朝京師，並其子為隋文帝所害，國除。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000231",
+    "sentence": "代奰王達，字度斤突。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000232",
+    "sentence": "性果決，善騎射。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000233",
+    "sentence": "武成初，封代國公。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000234",
+    "sentence": "建德初，進位柱國。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000235",
+    "sentence": "出為荊州刺史，有政績，武帝手敕褒美之。",
+    "entities": [
+      {
+        "text": "出為荊州",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000236",
+    "sentence": "所管禮州刺史蔡澤黷貨被訟。",
+    "entities": [
+      {
+        "text": "所管禮州",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000237",
+    "sentence": "達以其勳庸，不可加戮，若曲法貸之，又非奉上之體，乃令所司精加案劾，密表奏之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000238",
+    "sentence": "事竟得釋，終亦不言。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000239",
+    "sentence": "其處事周慎如此。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000240",
+    "sentence": "雅好節儉，食無兼膳，侍姬不過數四，皆衣綈衣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000241",
+    "sentence": "又未嘗營產，國無儲積。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000242",
+    "sentence": "左右嘗以為言。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000243",
+    "sentence": "達曰：「君子憂道不憂貧，何煩於此。」三年，進為王。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 18,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000244",
+    "sentence": "從平齊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000245",
+    "sentence": "齊淑妃馮氏尤為齊後主所幸，見獲，帝以達不邇聲色，特以馮氏賜之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000246",
+    "sentence": "宣帝即位，進上柱國。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000247",
+    "sentence": "大象元年，拜大右弼。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000248",
+    "sentence": "其年，詔以潞州上党郡邑萬戶為代國，達出就國。",
+    "entities": [
+      {
+        "text": "詔以潞州上党郡",
+        "label": "LOC",
+        "start": 3,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000249",
+    "sentence": "二年，朝京師，及其子為隋文帝所害，國除。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000250",
+    "sentence": "冀康公通，字屈率突。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000251",
+    "sentence": "武成初，封冀國公。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000252",
+    "sentence": "薨，子絢嗣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000253",
+    "sentence": "建德三年，進為王。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000254",
+    "sentence": "大定中，亦為隋文帝所害。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000255",
+    "sentence": "國除。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000256",
+    "sentence": "滕聞王逌，字爾固突。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000257",
+    "sentence": "少好經史，解屬文。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000258",
+    "sentence": "武成初，封滕國公。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000259",
+    "sentence": "建德三年，進爵為王。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000260",
+    "sentence": "宣政元年，進位上柱國。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000261",
+    "sentence": "大象元年，詔以荊州新野郡邑萬戶為滕國，逌出就國。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "詔以荊州新野郡",
+        "label": "LOC",
+        "start": 5,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000262",
+    "sentence": "三年，朝京師，為隋文帝所害，並其子，國除。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000263",
+    "sentence": "逌所著文章頗行於世。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000264",
+    "sentence": "孝閔帝",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000265",
+    "sentence": "孝閔帝一男：陸夫人生紀厲王康，字乾安。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000266",
+    "sentence": "保定初，封紀國公。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000267",
+    "sentence": "建德三年，進爵為王，出為利州總管。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "出為利州",
+        "label": "LOC",
+        "start": 10,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000268",
+    "sentence": "康驕侈無度，遂有異謀，司錄裴融諫，康殺之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000269",
+    "sentence": "五年，詔賜康死。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000270",
+    "sentence": "子湜嗣，大定中，為隋文帝所害，國除。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000271",
+    "sentence": "明帝",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000272",
+    "sentence": "明帝三男：徐妃生畢剌王賢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000273",
+    "sentence": "後宮生豐王貞、宋王實。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000274",
+    "sentence": "實出後宋獻公震。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000275",
+    "sentence": "畢剌王賢，字乾陽。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000276",
+    "sentence": "保定四年，封畢公。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000277",
+    "sentence": "建德三年，進爵為王。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000278",
+    "sentence": "歷荊州總管、大司空。",
+    "entities": [
+      {
+        "text": "歷荊州",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000279",
+    "sentence": "大象初，進上柱國、雍州牧、太師。",
+    "entities": [
+      {
+        "text": "雍州",
+        "label": "LOC",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000280",
+    "sentence": "明年，宣帝崩。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000281",
+    "sentence": "賢性強濟，有威略，慮隋文帝傾覆宗祐。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000282",
+    "sentence": "言泄，並其子被害，國除。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000283",
+    "sentence": "豐王貞，字乾雅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000284",
+    "sentence": "初封豐國公，建德三年，進爵為王。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000285",
+    "sentence": "大象初，為大冢宰。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000286",
+    "sentence": "大定中，並其子為隋文帝所害，國除。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000287",
+    "sentence": "武帝",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000288",
+    "sentence": "武帝七男：李皇后生宣帝、漢王贊。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000289",
+    "sentence": "庫汗姬生秦王贄、曹王允。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000290",
+    "sentence": "馮姬生道王充。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000291",
+    "sentence": "薛世婦生蔡王兌。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000292",
+    "sentence": "鄭姬生荊王元。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000293",
+    "sentence": "漢王贊，字乾依。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000294",
+    "sentence": "初封漢國公，建德三年，進爵為王。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000295",
+    "sentence": "大象末，隋文帝輔政，欲順物情，乃進贊位上柱國，拜右大丞相。",
+    "entities": [
+      {
+        "text": "丞相",
+        "label": "TITLE",
+        "start": 26,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000296",
+    "sentence": "外示尊崇，實無所綜理。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000297",
+    "sentence": "轉太師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000298",
+    "sentence": "尋及秦王贄、曹王允、道王充、蔡王兌荊王元並為隋文帝所害，國除。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000299",
+    "sentence": "宣帝",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000300",
+    "sentence": "宣帝三子：朱皇后生靜皇帝。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000301",
+    "sentence": "王姬生萊王衍。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000302",
+    "sentence": "皇甫姬生郢王術。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000303",
+    "sentence": "衍及術並大象二年封，並為隋文帝所害，國除。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000304",
+    "sentence": "【論】",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000305",
+    "sentence": "論曰：昔賢之議者，咸以周建五等，曆載八百；秦立郡縣，二世而亡。",
+    "entities": [
+      {
+        "text": "秦立郡縣",
+        "label": "LOC",
+        "start": 21,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000306",
+    "sentence": "雖得失之跡可尋，是非之理互起，而因循莫變，復古未聞。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000307",
+    "sentence": "良由著論者溺於貴遠，司契者難於易業，詳求適變之道，並未窮於至當也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000308",
+    "sentence": "嘗試論之：夫皇王迭興，為國之道匪一；聖賢間出，立德之指殊塗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000309",
+    "sentence": "斯豈故為相反哉，亦云為政而已矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000310",
+    "sentence": "何則？",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000311",
+    "sentence": "五等之制，行于商、周之前；郡縣之設，始于秦、漢之後。",
+    "entities": [
+      {
+        "text": "郡縣",
+        "label": "LOC",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000312",
+    "sentence": "論時則澆淳理隔，易地則用舍或殊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000313",
+    "sentence": "譬猶干戚日用，難以成垓下之業；稷嗣所述，不可施成周之朝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000314",
+    "sentence": "是知因時制宜者，為政之上務也；觀人立教才，經國之長策也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000315",
+    "sentence": "且夫裂封疆，建侯伯，擇賢能，署牧守，循名雖曰異軫，責實抑亦同歸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000316",
+    "sentence": "盛則與之共安，衰則與之共患。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000317",
+    "sentence": "共安系乎善惡，非禮義無以敦風共患寄以存亡，非甲兵不能靖亂。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000318",
+    "sentence": "是以齊、晉帥禮，鼎業傾而復振；溫、陶釋位，王綱弛而更張。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000319",
+    "sentence": "然則周之列國，非一姓也，晉之群臣，非一族也，豈齊、晉忠於列國，溫、陶賢於群臣哉？",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000320",
+    "sentence": "蓋位重者易以立功，權輕者難以盡節故也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000321",
+    "sentence": "由斯言之，建侯置守，乃古今之異術；兵權爵位，蓋安危之所階乎。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000322",
+    "sentence": "周文之初定關右，日不暇給，既以人臣禮終，未遑蕃屏之事。",
+    "entities": [
+      {
+        "text": "周文之初定關",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000323",
+    "sentence": "晉蕩輔政，爰樹其黨，宗室長幼，並握兵權，雖海內謝隆平之風而國家有磐石之固矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000324",
+    "sentence": "武皇克翦芒刺，思弘政術，懲專朝之為患，忘維城之遠圖，外崇寵任，內結猜阻。",
+    "entities": [
+      {
+        "text": "忘維城",
+        "label": "LOC",
+        "start": 19,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000325",
+    "sentence": "自是配天之基，潛有朽壤之墟矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000326",
+    "sentence": "宣皇嗣位，凶暴是崇，芟刈先其本枝，削黜偏於公族。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000327",
+    "sentence": "以齊王之奇姿傑出，足可牢籠於前載。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000328",
+    "sentence": "處周公之地，居上將之重，肋冠俗，攻戰如神，敵國系以存亡，鼎命由其輕重。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000329",
+    "sentence": "屬道消之日，挾震主之威，斯人而嬰斯戮，君子是以知國祚之不永也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000330",
+    "sentence": "其餘雖地惟叔父，親則同生，假文能輔主，武能威敵，莫不謝卿士于當年，從侯服于郡國，號為千乘，位侔匹夫。",
+    "entities": [
+      {
+        "text": "從侯服于郡",
+        "label": "LOC",
+        "start": 33,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_058_000331",
+    "sentence": "是以權臣乘其機，謀士因其隙，遷龜鼎速於俯拾，殲王侯烈于燎原，悠悠邃古，未聞茲酷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000332",
+    "sentence": "豈非摧枯振朽，易為力乎？",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000333",
+    "sentence": "向使宣皇擇姬、劉之制，覽聖哲之術，分命賢戚，布於內外，料其輕重，間以親疏，首尾相持，遠近為用，使其位足以扶危，其權不能為亂，事業既定，僥倖自息，雖使臥赤子，朝委裘，社稷固以久安，憶兆可以無患矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000334",
+    "sentence": "何後族之地而能窺其神器哉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000335",
+    "sentence": "昔張耳、陳餘，賓客廝役，所居皆取卿相，而齊王之文武僚吏，其後亦多臺牧，異代相符，可謂賢矣哉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_058_000336",
+    "sentence": "本唐朝作品在全世界都属于 公有领域 ，因为作者逝世已经遠遠超过100年。",
+    "entities": [
+      {
+        "text": "100年",
+        "label": "TME",
+        "start": 31,
+        "end": 35
+      }
+    ]
+  }
+]

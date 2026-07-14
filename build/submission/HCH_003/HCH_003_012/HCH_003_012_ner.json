@@ -1,0 +1,5659 @@
+[
+  {
+    "sentence_id": "HCH_003_012_000001",
+    "sentence": "隋本紀下第十二",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000002",
+    "sentence": "煬帝 恭帝",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000003",
+    "sentence": "煬帝",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000004",
+    "sentence": "煬皇帝諱廣，一名英，小字阿 𡡉 ，高祖第二子也。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 1,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000005",
+    "sentence": "母曰文獻獨孤皇后。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000006",
+    "sentence": "上美姿儀，少敏慧。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000007",
+    "sentence": "高祖及後於諸子中，特所鐘愛。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000008",
+    "sentence": "在周以高祖勛，封雁門郡公。",
+    "entities": [
+      {
+        "text": "封雁門郡",
+        "label": "LOC",
+        "start": 7,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000009",
+    "sentence": "開皇元年 ，立為晉王，拜柱國、并州總管，時年十三。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "并州",
+        "label": "LOC",
+        "start": 15,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000010",
+    "sentence": "尋授武衛大將軍，進上柱國、河北道行臺尚書令，大將軍如故。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 18,
+        "end": 20
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 22,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000011",
+    "sentence": "高祖令項城公歆、安道公李徹輔導之。",
+    "entities": [
+      {
+        "text": "高祖令項城",
+        "label": "LOC",
+        "start": 0,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000012",
+    "sentence": "上好學，善屬文，沈深嚴重，朝野屬望。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000013",
+    "sentence": "高祖密令善相者來和遍視諸子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000014",
+    "sentence": "和曰：「晉王眉上雙骨隆起，貴不可言。」既而高祖幸上所居第，見樂器弦多斷絕，又有塵埃，若不用者，以為不好聲妓之玩。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000015",
+    "sentence": "上尤自矯飾，當時稱為仁孝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000016",
+    "sentence": "嘗觀獵遇雨，左右進油衣，上曰：「士卒皆沾濕，我獨衣此乎！」乃令持去。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000017",
+    "sentence": "六年，轉淮南道行臺尚書令。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000018",
+    "sentence": "其年，徵拜雍州牧、內史令。",
+    "entities": [
+      {
+        "text": "徵拜雍州",
+        "label": "LOC",
+        "start": 3,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000019",
+    "sentence": "八年冬，大舉伐陳，以上為行軍元帥。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "陳",
+        "label": "ORG",
+        "start": 7,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000020",
+    "sentence": "及陳平，執陳湘州刺史施文慶、散騎常侍沈客卿、市令湯慧朗、刑法監徐析、尚書都令史暨慧，以其邪佞，有害於民，斬之石闕下以謝三吳。",
+    "entities": [
+      {
+        "text": "執陳湘州",
+        "label": "LOC",
+        "start": 4,
+        "end": 8
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 34,
+        "end": 36
+      },
+      {
+        "text": "令史",
+        "label": "TITLE",
+        "start": 37,
+        "end": 39
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000021",
+    "sentence": "於是封府庫資財，無所取，天下稱賢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000022",
+    "sentence": "進位太尉，賜路車、乘馬、袞冕之服，玄圭、白璧各一雙。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000023",
+    "sentence": "復拜并州總管。",
+    "entities": [
+      {
+        "text": "復拜并州",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000024",
+    "sentence": "俄而江南高智慧等相聚作亂，徙上為揚州總管，鎮江都，每歲一朝。",
+    "entities": [
+      {
+        "text": "徙上為揚州",
+        "label": "LOC",
+        "start": 13,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000025",
+    "sentence": "高祖之祠太山也，領武候大將軍。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 11,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000026",
+    "sentence": "明年，歸籓，後數載，突厥寇邊，復為行軍元帥，出靈武。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000027",
+    "sentence": "無虜而旋。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000028",
+    "sentence": "及太子勇廢，立上為皇太子。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 1,
+        "end": 3
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000029",
+    "sentence": "是月，當受冊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000030",
+    "sentence": "高祖曰：「吾以大興公成帝業。」令上出舍大興。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000031",
+    "sentence": "其夜，烈風大雪，地震山崩，民舍多壞，壓死者百餘口。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000032",
+    "sentence": "仁壽初，奉詔巡撫東南。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000033",
+    "sentence": "是後，高祖每避署仁壽宮，恒令上監國。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000034",
+    "sentence": "四年七月，高祖崩，上即皇帝位於仁壽宮。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000035",
+    "sentence": "八月，奉梓宮還京師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000036",
+    "sentence": "并州總管、漢王諒舉兵反，詔尚書左僕射楊素討平之。",
+    "entities": [
+      {
+        "text": "并州",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000037",
+    "sentence": "九月乙巳，以備身將軍崔彭為左領軍大將軍。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 16,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000038",
+    "sentence": "十一月乙未，幸洛陽。",
+    "entities": [
+      {
+        "text": "洛陽",
+        "label": "LOC",
+        "start": 7,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000039",
+    "sentence": "丙申，發丁男十數萬掘塹，自龍門東接長平、汲郡，抵臨清關，度河，至浚儀，襄城，達於上洛，以置關防。",
+    "entities": [
+      {
+        "text": "汲郡",
+        "label": "LOC",
+        "start": 20,
+        "end": 22
+      },
+      {
+        "text": "抵臨清關",
+        "label": "LOC",
+        "start": 23,
+        "end": 27
+      },
+      {
+        "text": "襄城",
+        "label": "LOC",
+        "start": 35,
+        "end": 37
+      },
+      {
+        "text": "以置關",
+        "label": "LOC",
+        "start": 43,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000040",
+    "sentence": "癸丑，詔曰：",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000041",
+    "sentence": "十二月乙丑，以右武衛將軍來護兒為右驍衛大將軍。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 19,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000042",
+    "sentence": "戊辰，以柱國李景為右武衛大將軍，以右衛率周羅㬋為右武候大將軍。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 27,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000043",
+    "sentence": "大業元年 春正月壬辰朔，大赦，改元。",
+    "entities": [
+      {
+        "text": "大業元年",
+        "label": "TME",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000044",
+    "sentence": "立妃蕭氏為皇后。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000045",
+    "sentence": "改豫州為溱州，洛州為豫州。",
+    "entities": [
+      {
+        "text": "改豫州為溱州",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "洛州為豫州",
+        "label": "LOC",
+        "start": 7,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000046",
+    "sentence": "廢諸州總管府。",
+    "entities": [
+      {
+        "text": "廢諸州",
+        "label": "LOC",
+        "start": 0,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000047",
+    "sentence": "丙申，立晉王昭為皇太子。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000048",
+    "sentence": "丁酉，以上柱國宇文述為左衛大將軍，上柱國郭衍為左武衛大將軍，延壽公於仲文為右衛大將軍。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 39,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000049",
+    "sentence": "己亥，以豫章王暕為豫州牧。",
+    "entities": [
+      {
+        "text": "豫章王暕為豫州",
+        "label": "LOC",
+        "start": 4,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000050",
+    "sentence": "戊申，發八使巡省風俗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000051",
+    "sentence": "下詔曰：",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000052",
+    "sentence": "己酉，以吳州總管宇文弼為刑部尚書。",
+    "entities": [
+      {
+        "text": "以吳州",
+        "label": "LOC",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000053",
+    "sentence": "二月己卯，以尚書左僕射楊素為尚書令。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000054",
+    "sentence": "三月丁未，詔尚書令楊素、納言楊達、將作大匠宇文愷營建東京，徙豫州郭下居民以實之。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      },
+      {
+        "text": "徙豫州",
+        "label": "LOC",
+        "start": 29,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000055",
+    "sentence": "戊申，詔曰：「聽采輿頌，謀及黎庶，故能審政刑之得失。是知昧旦思治，欲使幽枉必達，彜倫有章。而牧宰任稱朝委，茍為僥幸，以求考課，虛立殿最，不存理實。綱紀於是不理，冤屈所以莫申。關河重阻，無由自達。朕故建立東京，躬親存問。今將巡歷淮海，觀省風俗。眷求讜言，徒繁詞翰，而鄉校之內，闕爾無聞；恇然夕惕，用勞興寢。其民下有知州縣官人政理苛刻，侵害百姓，背公徇私，不便於民者，聽詣朝堂封奏。庶乎四聰以達，天下無冤。」又於皂澗營顯仁宮，采海內奇禽異獸草木之類，以實園苑。",
+    "entities": [
+      {
+        "text": "而鄉",
+        "label": "LOC",
+        "start": 131,
+        "end": 133
+      },
+      {
+        "text": "其民下有知州縣",
+        "label": "LOC",
+        "start": 152,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000056",
+    "sentence": "徙天下富商大賈數萬家於東京。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000057",
+    "sentence": "辛亥，發河南諸郡男女七百萬開通濟渠，自西苑引穀、洛水達於河，自板渚引河通於淮。",
+    "entities": [
+      {
+        "text": "發河南諸郡",
+        "label": "LOC",
+        "start": 3,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000058",
+    "sentence": "庚申，遣黃門侍郎王弘、上儀同於士澄往江南采木，造龍舟、鳳拚、黃龍、赤艦樓船等數萬艘。",
+    "entities": [
+      {
+        "text": "侍郎",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000059",
+    "sentence": "夏四月癸亥，大將軍劉仲方擊林邑破之。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 6,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000060",
+    "sentence": "五月庚戌，戶部尚書、義豐侯韋沖卒。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 7,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000061",
+    "sentence": "甲子，熒惑入太微。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000062",
+    "sentence": "秋七月丁酉，制戰亡之家，給復十年。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000063",
+    "sentence": "丙午，滕王綸、衛王集並奪爵徙邊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000064",
+    "sentence": "閏七月甲子，以尚書令楊素為太子太師，安德王雄為太子太傅，河間王弘為太子太保。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 13,
+        "end": 15
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 23,
+        "end": 25
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 33,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000065",
+    "sentence": "丙子，詔曰：",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000066",
+    "sentence": "八月壬寅，上御龍舟幸江都，以左武衛大將軍郭衍為前軍，右武衛大將軍李景為後軍。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 29,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000067",
+    "sentence": "文武官五品以上給樓船，九品以上給黃篾。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000068",
+    "sentence": "舳艫相接，二百餘里。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000069",
+    "sentence": "冬十月己丑，赦江、淮已南，揚州給復五年；舊總管內，給復三年。",
+    "entities": [
+      {
+        "text": "揚州",
+        "label": "LOC",
+        "start": 13,
+        "end": 15
+      },
+      {
+        "text": "五年",
+        "label": "TME",
+        "start": 17,
+        "end": 19
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 27,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000070",
+    "sentence": "十一月己未，以大將軍崔仲方為禮部尚書。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 16,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000071",
+    "sentence": "二年春正月辛酉，東京成，賜監督者有差。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000072",
+    "sentence": "以大理卿梁毗為刑部尚書。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000073",
+    "sentence": "丁卯，遣十使，並省州縣。",
+    "entities": [
+      {
+        "text": "並省州縣",
+        "label": "LOC",
+        "start": 7,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000074",
+    "sentence": "二月丙戌，詔尚書令楊素、吏部尚書牛弘、大將軍宇文愷、內史侍郎虞世基、禮部侍郎許善心制定輿服。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "侍郎",
+        "label": "TITLE",
+        "start": 28,
+        "end": 30
+      },
+      {
+        "text": "侍郎",
+        "label": "TITLE",
+        "start": 36,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000075",
+    "sentence": "始備輦輅及五時副車。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000076",
+    "sentence": "上常服皮弁，十有二琪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000077",
+    "sentence": "文官弁服，佩玉；五品已上，給犢車通幰；三公、親王加油絡。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000078",
+    "sentence": "武官平巾幘，褲褶；三品已上，給瓟槊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000079",
+    "sentence": "下至胥吏，服色各有差。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000080",
+    "sentence": "非庶人不得戎服。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000081",
+    "sentence": "戊戌，置都尉官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000082",
+    "sentence": "三月庚午，車駕發江都。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000083",
+    "sentence": "先是，太府少卿何稠、太府丞雲定興盛修儀仗，於是課州縣送羽毛。",
+    "entities": [
+      {
+        "text": "於是課州縣",
+        "label": "LOC",
+        "start": 21,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000084",
+    "sentence": "百姓求捕之，網羅被水陸，禽獸有堪氈毦之用者，殆無遺類。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000085",
+    "sentence": "至是而成。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000086",
+    "sentence": "夏四月庚戌，上自伊闕，陳法駕，備千乘萬騎，入於東京。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000087",
+    "sentence": "辛亥，上御端門，大赦天下，免今年租賦。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000088",
+    "sentence": "癸丑，以冀州刺史楊文思為民部尚書。",
+    "entities": [
+      {
+        "text": "以冀州",
+        "label": "LOC",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000089",
+    "sentence": "五月甲寅，金紫光祿大夫、兵部尚書李通坐事免。",
+    "entities": [
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000090",
+    "sentence": "乙卯，詔曰：「旌表先哲，式在饗祀。所以優禮賢能，顯彰遺愛。朕永鑒前修，尚想名德，何嘗不興嘆九原，屬懷千載。其自古以來賢人君子，有能樹聲立德，佐世匡時，博利殊功，有益於人者，並宜營立祠宇，以時致祭。墳壟之處，不得侵踐。有司量為條式，稱朕意焉。」六月壬子，以尚書令、太子太師楊素為司徒。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 127,
+        "end": 129
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 131,
+        "end": 133
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000091",
+    "sentence": "進封豫章王暕為齊王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000092",
+    "sentence": "秋七月癸丑，以衛尉卿衛玄為工部尚書。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 15,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000093",
+    "sentence": "庚申，制百官不得計考增級。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000094",
+    "sentence": "必有德行功能，灼然顯著者，擢之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000095",
+    "sentence": "壬戌，擢籓邸舊臣鮮于羅等二十七人，官爵有差。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000096",
+    "sentence": "甲戌，皇太子昭薨。",
+    "entities": [
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000097",
+    "sentence": "乙亥，上柱國、司徒、楚國公楊素薨。",
+    "entities": [
+      {
+        "text": "楚國",
+        "label": "ORG",
+        "start": 10,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000098",
+    "sentence": "八月辛卯，封皇孫倓為燕王，侗為越王，侑為代王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000099",
+    "sentence": "九月乙丑，立秦王俊子浩為秦王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000100",
+    "sentence": "冬十月戊子，以靈州刺史段文振為兵部尚書。",
+    "entities": [
+      {
+        "text": "以靈州",
+        "label": "LOC",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "刺史",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 17,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000101",
+    "sentence": "十二月庚寅，詔曰：「前代帝王，因時創業，君民建國，禮尊南面。面歷運推移，年代永久，丘壟殘毀，樵牧相趨；塋兆堙蕪，封樹莫辨。興言淪滅，有愴於懷。自古以來帝王陵墓，可給隨近十戶，蠲其雜役，以供守視。」",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000102",
+    "sentence": "三年春正月癸亥，敕并州逆人已流配而逃亡者，所獲之處，即宜斬決。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "敕并州",
+        "label": "LOC",
+        "start": 8,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000103",
+    "sentence": "丙子，長星竟天，出於東壁，二旬而止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000104",
+    "sentence": "是月，武陽郡上言河水清。",
+    "entities": [
+      {
+        "text": "武陽郡",
+        "label": "LOC",
+        "start": 3,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000105",
+    "sentence": "二月己丑，慧星見於東井、文昌；歷大陵、五車、北河，入太微，掃帝座，前後百餘日而止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000106",
+    "sentence": "三月辛亥，車駕還京師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000107",
+    "sentence": "壬子，以大將軍姚辯為左衛將軍。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 12,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000108",
+    "sentence": "癸丑，遣羽騎朱寬使於流求國。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000109",
+    "sentence": "乙卯，河間王弘薨。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000110",
+    "sentence": "夏四月庚辰，詔曰：「古者帝王觀風俗，皆所以憂勤兆庶，安集遐荒。自蕃夷內附，未遑親撫，山東經亂，須加存恤。今欲安輯河北，巡省趙、魏，所司依式。」甲申，頒律令，大赦天下，關內給復三年。",
+    "entities": [
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 87,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000111",
+    "sentence": "壬辰，改州為郡。",
+    "entities": [
+      {
+        "text": "改州為郡",
+        "label": "LOC",
+        "start": 3,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000112",
+    "sentence": "改度量衡，並依古式。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000113",
+    "sentence": "改上柱國以下官為大夫。",
+    "entities": [
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000114",
+    "sentence": "甲午，詔曰：",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000115",
+    "sentence": "丙申，車駕北巡狩。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000116",
+    "sentence": "丁酉，以刑部尚書宇文弼為禮部尚書。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000117",
+    "sentence": "戊戌，敕百司不得踐暴禾稼。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000118",
+    "sentence": "其有須開為路者，有司計地所收，即以近倉酬賜，務從優厚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000119",
+    "sentence": "己亥，至赤岸澤，以太牢祭故太師李穆。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000120",
+    "sentence": "五月丁巳，突厥啟民可汗遣子拓特勒來朝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000121",
+    "sentence": "戊午，發河北十餘郡丁男，自太行山達於并州，以通馳道。",
+    "entities": [
+      {
+        "text": "發河北十餘郡",
+        "label": "LOC",
+        "start": 3,
+        "end": 9
+      },
+      {
+        "text": "太行山達於并州",
+        "label": "LOC",
+        "start": 13,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000122",
+    "sentence": "丙寅，啟民可汗遣其兄子毗黎伽特勒來朝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000123",
+    "sentence": "辛未，啟民可汗使請自入寒奉迎輿駕，上不許。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000124",
+    "sentence": "癸酉，有星孛於文昌，上將星常皆動搖。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000125",
+    "sentence": "六月辛巳，獵於連谷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000126",
+    "sentence": "丁亥，詔曰：",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000127",
+    "sentence": "戊子，次榆林郡。",
+    "entities": [
+      {
+        "text": "次榆林郡",
+        "label": "LOC",
+        "start": 3,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000128",
+    "sentence": "丁酉，啟民可汗來朝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000129",
+    "sentence": "己亥，吐谷渾、高昌並遣使貢方物。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000130",
+    "sentence": "甲辰，上御北樓，觀漁於河，以宴百僚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000131",
+    "sentence": "秋七月辛亥，啟民可汗上表請變服，襲冠帶。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000132",
+    "sentence": "詔啟民贊拜不名，在諸侯王上。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000133",
+    "sentence": "甲寅，上於郡城東禦大帳，其下備儀衛，建旌旗，宴啟民及其部落三千五百人。",
+    "entities": [
+      {
+        "text": "上於郡城",
+        "label": "LOC",
+        "start": 3,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000134",
+    "sentence": "奏百戲之樂，賜啟民及其部落各有差。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000135",
+    "sentence": "丙子，殺光祿大夫賀苦弼、禮部尚書宇文弼、太常卿高颎。",
+    "entities": [
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000136",
+    "sentence": "尚書左僕射蘇威坐事免。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000137",
+    "sentence": "發丁男百餘萬築長城，西鉅榆林，東至紫河，二旬而罷，死者十五六。",
+    "entities": [
+      {
+        "text": "男百餘萬築長城",
+        "label": "LOC",
+        "start": 2,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000138",
+    "sentence": "八月壬午，車駕發榆林。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000139",
+    "sentence": "乙酉，啟民飾盧清道以候乘輿，帝幸其帳。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000140",
+    "sentence": "啟民奉觴上壽，宴賜極厚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000141",
+    "sentence": "上謂高麗使者曰：「歸語爾王，當早來朝見。不然者，吾與啟民巡彼土矣。」皇后亦幸義城公主帳。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 34,
+        "end": 36
+      },
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 40,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000142",
+    "sentence": "己丑，啟民可汗歸蕃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000143",
+    "sentence": "癸巳，入樓煩關。",
+    "entities": [
+      {
+        "text": "入樓煩關",
+        "label": "LOC",
+        "start": 3,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000144",
+    "sentence": "壬寅，次太原，詔營晉陽宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000145",
+    "sentence": "九月己未，次濟源，幸御史大夫張衡宅，宴享極歡。",
+    "entities": [
+      {
+        "text": "御史",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 12,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000146",
+    "sentence": "己巳，至於東都。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000147",
+    "sentence": "壬申，以齊王暕為河南尹、開府儀同三司。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000148",
+    "sentence": "癸酉，以戶部尚書楊文思為納言。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000149",
+    "sentence": "四年春正月乙巳，詔發河北諸郡男女百餘萬開永濟渠，引沁水南達於河，北通涿郡。",
+    "entities": [
+      {
+        "text": "四年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "詔發河北諸郡",
+        "label": "LOC",
+        "start": 8,
+        "end": 14
+      },
+      {
+        "text": "北通涿郡",
+        "label": "LOC",
+        "start": 32,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000150",
+    "sentence": "庚戌，百僚大射於允武殿。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000151",
+    "sentence": "丁卯，賜城內居民米各十石。",
+    "entities": [
+      {
+        "text": "賜城",
+        "label": "LOC",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000152",
+    "sentence": "壬申，以太府卿元壽為內史令，鴻臚卿楊玄感為禮部尚書。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 23,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000153",
+    "sentence": "癸酉，以工部尚書衛玄為右武候大將軍，大理卿長孫熾為戶部尚書。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 27,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000154",
+    "sentence": "二月己卯，遣司朝謁者崔毅使突厥處羅，致汗血馬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000155",
+    "sentence": "三月辛酉，以將作大匠宇文愷為工部尚書。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 16,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000156",
+    "sentence": "壬戌，百濟、倭、赤土、迦羅含國並遣使貢方物。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000157",
+    "sentence": "乙丑，車駕幸五原，因出塞，巡長城。",
+    "entities": [
+      {
+        "text": "巡長城",
+        "label": "LOC",
+        "start": 13,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000158",
+    "sentence": "丙寅，遣屯田主事常駿使赤土，致羅罽。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000159",
+    "sentence": "夏四月丙午，以離石之汾源、臨泉，雁門之秀容為樓煩郡。",
+    "entities": [
+      {
+        "text": "之秀容為樓煩郡",
+        "label": "LOC",
+        "start": 18,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000160",
+    "sentence": "起汾陽宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000161",
+    "sentence": "癸丑，以河內太守張定和為左屯衛大將軍。",
+    "entities": [
+      {
+        "text": "太守",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 15,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000162",
+    "sentence": "乙卯，詔曰：「突厥意利珍豆啟民可汗率領部落，保附關塞，遵奉朝禮，思改戎俗。頻入謁覲，屢有陳請。以氈墻毳幕，事窮荒陋；上棟下宇，願同比屋。誠心懇切，朕之所重。宜於萬壽戍置城造屋，其帷帳床褥以上，隨事量給，務從優厚，稱朕意焉。」五月壬申，蜀郡獲三足烏，張掖獲玄狐，各一。",
+    "entities": [
+      {
+        "text": "保附關",
+        "label": "LOC",
+        "start": 22,
+        "end": 25
+      },
+      {
+        "text": "宜於萬壽戍置城",
+        "label": "LOC",
+        "start": 78,
+        "end": 85
+      },
+      {
+        "text": "蜀郡",
+        "label": "LOC",
+        "start": 117,
+        "end": 119
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000163",
+    "sentence": "秋七月辛巳，發丁男二十餘萬築長城，自榆林谷而東。",
+    "entities": [
+      {
+        "text": "二十餘萬築長城",
+        "label": "LOC",
+        "start": 9,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000164",
+    "sentence": "乙未，左翊衛大將軍宇文述破吐谷渾於曼頭、赤水。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 6,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000165",
+    "sentence": "八月辛酉，親祠恒嶽，河北道郡守畢集。",
+    "entities": [
+      {
+        "text": "河北道郡",
+        "label": "LOC",
+        "start": 10,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000166",
+    "sentence": "大赦天下，車駕所經郡縣，免一年租調。",
+    "entities": [
+      {
+        "text": "車駕所經郡縣",
+        "label": "LOC",
+        "start": 5,
+        "end": 11
+      },
+      {
+        "text": "一年",
+        "label": "TME",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000167",
+    "sentence": "九月辛未，征天下鷹師，悉集東京，至者萬餘人。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000168",
+    "sentence": "戊寅，慧星出五車，掃文昌，至房而滅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000169",
+    "sentence": "辛巳，詔免長城役者一年租賦。",
+    "entities": [
+      {
+        "text": "詔免長城",
+        "label": "LOC",
+        "start": 3,
+        "end": 7
+      },
+      {
+        "text": "一年",
+        "label": "TME",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000170",
+    "sentence": "冬十月丙午，詔曰：「先師尼父，聖德在躬，誕發天縱之姿，憲章文武之道；命世膺期，蘊茲素王。而頹山之嘆，忽逾於千祀；盛德之美，不在於百代。永惟懿範，宜有優崇。可立孔子後為紹聖侯，有司求其苗裔，錄以申上。」辛亥，詔曰：「昔周王下車，首封唐虞之胤；漢帝承歷，亦命殷周之後。皆所以褒立先代，憲章在昔。朕嗣膺景業，傍求雅訓，有一弘益，欽若令典。以為周兼夏殷，文質大備；漢有天下，車書混一；魏晉沿襲，風流未遠。並宜立後，以存繼絕之義。有司可求其胄緒，列聞。」乙卯，頒新式於天下。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000171",
+    "sentence": "五年春正月丙子，改東京為東都。",
+    "entities": [
+      {
+        "text": "五年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000172",
+    "sentence": "癸未，詔天下均田。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000173",
+    "sentence": "戊子，上自東都還京師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000174",
+    "sentence": "己丑，制民間鐵叉搭鉤刃之類，皆禁絕之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000175",
+    "sentence": "太守每歲密上屬官景跡。",
+    "entities": [
+      {
+        "text": "太守",
+        "label": "TITLE",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000176",
+    "sentence": "二月戊戌，次於閿鄉。",
+    "entities": [
+      {
+        "text": "次於閿鄉",
+        "label": "LOC",
+        "start": 5,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000177",
+    "sentence": "詔祭古帝王陵及開皇功臣墓。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000178",
+    "sentence": "庚子，制魏、周官不得為廕。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000179",
+    "sentence": "辛丑，赤土國遣使貢方物。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000180",
+    "sentence": "戊申，車駕至京師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000181",
+    "sentence": "丙辰，宴耆舊四百人於武德殿，頒賜各有差。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000182",
+    "sentence": "己未，上御崇德殿之西院，愀然不悅，顧謂左右曰：「此先帝所居，實用增感，情所未安。於此院之西，別營一殿。」壬戌，制父母聽隨子之官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000183",
+    "sentence": "三月己巳，車駕西巡河右。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000184",
+    "sentence": "庚午，有司言武功男子史永遵與從父昆弟同居，上嘉之，賜物一百段，米二百石，表其門閭。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000185",
+    "sentence": "乙亥，幸扶風舊宅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000186",
+    "sentence": "夏四月己亥，大獵於隴西。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000187",
+    "sentence": "壬寅，高麗、吐谷渾、伊吾並遣使來朝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000188",
+    "sentence": "乙巳，次狄道。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000189",
+    "sentence": "党項羌來貢方物。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000190",
+    "sentence": "癸亥，出臨津關，度黃河，至西平，陳兵講武。",
+    "entities": [
+      {
+        "text": "出臨津關",
+        "label": "LOC",
+        "start": 3,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000191",
+    "sentence": "五月乙亥，上大獵於延山。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000192",
+    "sentence": "長圍周亙二千里。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000193",
+    "sentence": "庚辰，入長寧谷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000194",
+    "sentence": "壬午，度星嶺。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000195",
+    "sentence": "甲申，宴郡臣於金山之上。",
+    "entities": [
+      {
+        "text": "宴郡",
+        "label": "LOC",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000196",
+    "sentence": "丙戌，梁浩亹，御馬度而橋壞，斬朝散大夫黃亙及督役者九人。",
+    "entities": [
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 17,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000197",
+    "sentence": "吐谷渾主率眾保覆袁川。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000198",
+    "sentence": "帝分命內史元壽南屯金山，兵部尚書段文振北屯雪山，太僕卿楊義臣東屯琵琶峽，將軍張壽西屯泥嶺，四面圍之。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      },
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 36,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000199",
+    "sentence": "吐谷渾主伏允以數十騎遁出，遣其名王詐稱伏允，保車我真山。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000200",
+    "sentence": "壬辰，詔右屯衛大將軍張定和往捕之。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 7,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000201",
+    "sentence": "定和挺身挑戰，為賊所殺。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000202",
+    "sentence": "亞將柳武建擊破之，斬首數百級。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000203",
+    "sentence": "甲午，其仙頭王窮蹙，率男女十餘萬口來降。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000204",
+    "sentence": "六月丁酉，遣左光祿大夫梁默、右翊衛將軍李瓊等追吐谷渾主，皆遇賊，死之。",
+    "entities": [
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      },
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 17,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000205",
+    "sentence": "癸卯，經大鬥拔谷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000206",
+    "sentence": "山路隘險，魚貫而出，風霰晦暝，與後宮相失。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000207",
+    "sentence": "士卒凍死者大半。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000208",
+    "sentence": "丙午，次張掖。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000209",
+    "sentence": "辛亥，詔諸郡學業該通，才藝優洽；膂力驍壯，超絕等倫；在官勤奮，堪理政事；立性正直，不避強禦：四科舉人。",
+    "entities": [
+      {
+        "text": "詔諸郡",
+        "label": "LOC",
+        "start": 3,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000210",
+    "sentence": "壬子，高昌王曲伯雅來朝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000211",
+    "sentence": "伊吾吐屯設等獻西域數千里之地，上大悅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000212",
+    "sentence": "癸丑，置西海、河源、鄯善、且末等四郡。",
+    "entities": [
+      {
+        "text": "且末等四郡",
+        "label": "LOC",
+        "start": 13,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000213",
+    "sentence": "丙辰，上御觀風行殿，盛陳文物；奏九部樂，設魚龍曼延，宴高昌王、吐屯設於殿上，以寵異之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000214",
+    "sentence": "其蠻夷陪列者，三十餘國。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000215",
+    "sentence": "戊午，大赦天下。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000216",
+    "sentence": "開皇已來流配，悉放還鄉。",
+    "entities": [
+      {
+        "text": "悉放還鄉",
+        "label": "LOC",
+        "start": 7,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000217",
+    "sentence": "晉陽逆黨，不在此例。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000218",
+    "sentence": "隴右諸郡，給復三年。",
+    "entities": [
+      {
+        "text": "隴右諸郡",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "三年",
+        "label": "TME",
+        "start": 7,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000219",
+    "sentence": "秋七月丁卯，置馬牧於青海渚中，以求龍種，無效而止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000220",
+    "sentence": "九月癸未，車駕入長安。",
+    "entities": [
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000221",
+    "sentence": "冬十月癸亥，詔曰：「優德尚齒，載之典訓；尊事乞言，義彰膠序。鬻熊為師，無取筋力；方叔元老，克壯其猷。朕永言稽古，用求至理。是以龐眉黃髮，更令收敘；務簡秩優，無虧藥餌，庶等臥理，佇其弘益。今歲耆老赴集者，可於近郡處置。年七十已上，疾患沈滯不堪居職，即給賜帛，送還本郡。其官至七品以上者，量給廩以終厥身。」十一月丙子，車駕幸東都。",
+    "entities": [
+      {
+        "text": "可於近郡",
+        "label": "LOC",
+        "start": 101,
+        "end": 105
+      },
+      {
+        "text": "送還本郡",
+        "label": "LOC",
+        "start": 128,
+        "end": 132
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000222",
+    "sentence": "六年春正月癸亥朔，旦，有盜數十人，皆素冠練衣，焚香持華，自稱彌勒佛，入自建國門，監門者皆稽首，既而奪衛士仗，將為亂。",
+    "entities": [
+      {
+        "text": "六年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000223",
+    "sentence": "齊王暕遇而斬之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000224",
+    "sentence": "於是都下大索，與相連坐者千餘家。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000225",
+    "sentence": "丁丑，角抵大戲於端門街，天下奇伎異藝畢集，終月而罷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000226",
+    "sentence": "帝數微服往觀之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000227",
+    "sentence": "己丑，倭國遣使貢方物。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000228",
+    "sentence": "二月乙巳，武賁郎將陳棱、朝請大夫張鎮州擊流水破之。",
+    "entities": [
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000229",
+    "sentence": "獻俘萬七千口，頒賜百官。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000230",
+    "sentence": "乙卯，詔曰：「夫帝圖草創，王業艱難，咸依股肱，葉同心德；用能救厥頹運，克膺大寶。然後疇庸茂賞，開國承家；誓以山河，傳之不朽。近代雕喪，四海未壹。茅土妄假，名實相乖；歷茲永久，莫能懲革。皇運之初，百度伊始，猶循舊貫，未暇改作。今天下交泰，文軌攸同。宜率遵先典，永垂大訓。自今已後，唯有功勛，乃得賜封，仍令子孫承襲。」丙辰，改封安德王雄為觀王，河間王子慶為郇王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000231",
+    "sentence": "庚申，征魏、齊、周、陳樂人，悉配太常。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000232",
+    "sentence": "三月癸亥，幸江都宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000233",
+    "sentence": "甲子，以鴻臚卿史祥為左驍衛大將軍。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 13,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000234",
+    "sentence": "夏四月丁未，宴江、淮已南父老，頒賜各有差。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000235",
+    "sentence": "六月辛卯，室韋、赤土並遣使貢方物。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000236",
+    "sentence": "壬辰，雁門賊帥尉文通，聚眾三千，保於莫壁谷，遣鷹揚楊伯泉擊破之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000237",
+    "sentence": "甲寅，制江都太守，秩同京尹。",
+    "entities": [
+      {
+        "text": "太守",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000238",
+    "sentence": "冬十月壬申，刑部尚書梁毗卒。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000239",
+    "sentence": "壬子，戶部尚書、銀青光祿大夫長孫熾卒。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      },
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 12,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000240",
+    "sentence": "十二月己未，左光祿大夫、吏部尚書牛弘卒。",
+    "entities": [
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000241",
+    "sentence": "辛酉，朱崖人王萬昌舉兵作亂，遣隴西太守韓洪討平之。",
+    "entities": [
+      {
+        "text": "太守",
+        "label": "TITLE",
+        "start": 17,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000242",
+    "sentence": "七年春正月壬寅，左武衛大將軍、光祿大夫、真定侯郭衍卒。",
+    "entities": [
+      {
+        "text": "七年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 17,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000243",
+    "sentence": "二月己未，上升釣臺，臨楊子津，大宴百僚，頒賜各有差。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000244",
+    "sentence": "庚申，百濟遣使朝貢。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000245",
+    "sentence": "乙亥，上自江都禦龍舟入通濟渠，遂幸於涿郡。",
+    "entities": [
+      {
+        "text": "遂幸於涿郡",
+        "label": "LOC",
+        "start": 15,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000246",
+    "sentence": "壬午，詔曰：「武有七德，先之以安民；政有六本，興之以教義。高麗虧失籓禮，將欲問罪遼左，恢宣勝略。雖懷伐國，仍事省力。今往涿郡，巡撫民俗。其河北諸郡及山西、山東年九十已上，版授太守；八十者，授縣令。」三月丁亥，右光祿大夫、左屯衛大將軍姚辯卒。",
+    "entities": [
+      {
+        "text": "今往涿郡",
+        "label": "LOC",
+        "start": 58,
+        "end": 62
+      },
+      {
+        "text": "其河北諸郡",
+        "label": "LOC",
+        "start": 68,
+        "end": 73
+      },
+      {
+        "text": "太守",
+        "label": "TITLE",
+        "start": 87,
+        "end": 89
+      },
+      {
+        "text": "縣令",
+        "label": "TITLE",
+        "start": 95,
+        "end": 97
+      },
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 107,
+        "end": 109
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 113,
+        "end": 116
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000247",
+    "sentence": "夏四月庚午，幸涿郡之臨朔宮。",
+    "entities": [
+      {
+        "text": "幸涿郡",
+        "label": "LOC",
+        "start": 6,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000248",
+    "sentence": "五月戊子，以武威太守樊子蓋為民部尚書。",
+    "entities": [
+      {
+        "text": "太守",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 16,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000249",
+    "sentence": "秋，大水，山東、河南漂沒三十餘郡，民相賣為奴婢。",
+    "entities": [
+      {
+        "text": "南漂沒三十餘郡",
+        "label": "LOC",
+        "start": 9,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000250",
+    "sentence": "冬十月乙卯，底柱山崩，偃水逆流數十里。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000251",
+    "sentence": "戊午，以東平太守吐萬緒為左屯衛大將軍。",
+    "entities": [
+      {
+        "text": "太守",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 15,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000252",
+    "sentence": "十二月己酉，突厥處羅多利可汗來朝，帝大悅，接以殊禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000253",
+    "sentence": "於時，遼東戰士及饋運者填咽於道，晝夜不絕。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000254",
+    "sentence": "苦役者，始為群盜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000255",
+    "sentence": "甲子，敕都尉、鷹揚與郡縣相知追捕，隨獲斬決之。",
+    "entities": [
+      {
+        "text": "鷹揚與郡縣",
+        "label": "LOC",
+        "start": 7,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000256",
+    "sentence": "八年春正月辛巳，大軍集於涿郡。",
+    "entities": [
+      {
+        "text": "八年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "大軍集於涿郡",
+        "label": "LOC",
+        "start": 8,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000257",
+    "sentence": "以兵部尚書段文振為左候衛大將軍。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 12,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000258",
+    "sentence": "壬午，下詔曰：",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000259",
+    "sentence": "總一百一十三萬三千八百，號二百萬，其饋運者倍之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000260",
+    "sentence": "癸未，第一軍發，終四十日，引師乃盡。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000261",
+    "sentence": "旌旗亙千里，近古出師之盛，未之有也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000262",
+    "sentence": "乙未，以右候衛大將軍衛玄為刑部尚書。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 15,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000263",
+    "sentence": "甲辰，內史令元壽卒。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000264",
+    "sentence": "二月甲寅，詔曰：「朕觀風燕裔，問罪遼濱，文武葉力，爪牙思奮；莫不執銳勤王，舍家從役。罕蓄倉廩之資，兼捐播殖之務。朕所以夕惕愀然，慮其匱乏。雖復素飽之眾，情在忘私；悅使之徒，宜從其厚。諸行從一品以下佽飛募人以上家口，郡縣宜數存問。若有糧食乏少，皆賑給之。或雖有田疇，貧弱不能自耕重，可於多丁富室，勤課相助。使夫居者有斂積之豐，行役無顧後之慮。」壬戎，司空、京兆尹、光祿大夫、觀王雄薨。",
+    "entities": [
+      {
+        "text": "郡縣",
+        "label": "LOC",
+        "start": 107,
+        "end": 109
+      },
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 183,
+        "end": 185
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000265",
+    "sentence": "三月辛卯，兵部尚書、左候衛大將軍段文振卒。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 13,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000266",
+    "sentence": "癸巳，上御師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000267",
+    "sentence": "甲午，臨戎於遼水橋。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000268",
+    "sentence": "戊戌，大軍為賊所拒，不果濟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000269",
+    "sentence": "右屯衛大將軍左光祿大夫麥鐵杖、武賁郎將錢士雄、孟金叉等皆死之。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000270",
+    "sentence": "甲午，車駕度遼，大戰于東岸，擊賊破之，進圍遼東。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000271",
+    "sentence": "乙未，大頓。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000272",
+    "sentence": "見二大鳥，高丈餘，皓身朱足，遊泳自若。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000273",
+    "sentence": "上異之，命工圖寫，並立銘頌。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000274",
+    "sentence": "五月戊午，納言楊達卒，於時，諸將各奉旨，不敢越機。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000275",
+    "sentence": "既而高麗各固城守，攻之不下。",
+    "entities": [
+      {
+        "text": "既而高麗各固城",
+        "label": "LOC",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000276",
+    "sentence": "六月己未，幸遼東，責怒諸將，止城西數里，禦六合城。",
+    "entities": [
+      {
+        "text": "止城",
+        "label": "LOC",
+        "start": 14,
+        "end": 16
+      },
+      {
+        "text": "禦六合城",
+        "label": "LOC",
+        "start": 20,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000277",
+    "sentence": "七月壬午，宇文述等敗績於薩水，右屯衛將軍薛世雄死之。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 18,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000278",
+    "sentence": "九軍並陷，師奔還，亡者千餘騎。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000279",
+    "sentence": "癸卯，班師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000280",
+    "sentence": "九月庚辰，上至東都，己丑，詔：「軍國異容，文武殊用，匡危拯難，則霸德攸興；化人成俗，則王道斯貴。時當撥亂，屠販可以登朝；世屬隆平，經術然後升仕。豐都爰肇，儒服無預於周行；建武之朝，功臣不參於吏職。自三方未一，四海交爭；不遑文教，唯尚武功。設官分職，罕以才授；班朝理人，乃由勛敘。莫非拔足行陣，出自勇夫。學敩之道，既所不習；政事之方，故亦無取。是非暗於在己，威福專於下吏。貪冒貨賄，不知紀極；蠹政害民，實由於此。自今已後，諸授勛官者，並不得回授文武職事。庶遵彼更張，取類於調瑟；求諸名制，不傷於美錦。若吏部輒擬用者，御史即宜糾彈。」冬十月戊寅，工部尚書宇文愷卒。",
+    "entities": [
+      {
+        "text": "御史",
+        "label": "TITLE",
+        "start": 257,
+        "end": 259
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 273,
+        "end": 275
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000281",
+    "sentence": "十一月己卯，以宗女華容公主嫁於高昌王。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000282",
+    "sentence": "辛巳，光祿大夫韓壽卒。",
+    "entities": [
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000283",
+    "sentence": "甲申，敗將宇文述、於仲文等除名為民，斬尚書右丞劉士龍以謝天下。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 19,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000284",
+    "sentence": "是歲，大旱疫，人多死，山東尤甚。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000285",
+    "sentence": "密詔江、淮南諸郡，閱視民間童女姿質端麗者，每歲貢之。",
+    "entities": [
+      {
+        "text": "淮南諸郡",
+        "label": "LOC",
+        "start": 4,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000286",
+    "sentence": "九年春正月丁丑，征天下兵，募民為驍果，集於涿郡。",
+    "entities": [
+      {
+        "text": "九年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "集於涿郡",
+        "label": "LOC",
+        "start": 19,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000287",
+    "sentence": "壬午，賊帥杜彥永、王潤等陷平原郡，大掠而去。",
+    "entities": [
+      {
+        "text": "王潤等陷平原郡",
+        "label": "LOC",
+        "start": 9,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000288",
+    "sentence": "辛卯，置折沖、果毅、武勇、雄武等郎將官，以領驍果。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000289",
+    "sentence": "乙未，平原李德逸聚眾數萬，稱阿舅賊，劫掠山東。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000290",
+    "sentence": "靈武白榆妄稱奴賊，劫掠牧馬；北連突厥，隴右多被其患。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000291",
+    "sentence": "遣將軍範貴討之，連年不能克。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 1,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000292",
+    "sentence": "戊戌，大赦。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000293",
+    "sentence": "己亥，遣代王侑、刑部尚書衛玄鎮京師。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 10,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000294",
+    "sentence": "辛丑，以右驍衛將軍李渾為右驍衛大將軍。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 15,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000295",
+    "sentence": "二月己未，濟北人韓進洛聚眾數萬為群盜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000296",
+    "sentence": "壬午，復宇文述等官爵，又征兵討高麗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000297",
+    "sentence": "三月丙子，濟北人孟海公起兵為盜，眾至數萬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000298",
+    "sentence": "丁丑，發丁男十萬城大興。",
+    "entities": [
+      {
+        "text": "發丁男十萬城",
+        "label": "LOC",
+        "start": 3,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000299",
+    "sentence": "戊寅，幸遼東。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000300",
+    "sentence": "以越王侗、工部尚書樊子蓋鎮東都。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 7,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000301",
+    "sentence": "庚子，北海人郭方預聚徒為賊，自號盧公，眾至三萬，攻陷郡城，大掠而去。",
+    "entities": [
+      {
+        "text": "攻陷郡城",
+        "label": "LOC",
+        "start": 24,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000302",
+    "sentence": "夏四月庚午，車駕度遼。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000303",
+    "sentence": "壬申，遣宇文述、楊義臣趣平壤城。",
+    "entities": [
+      {
+        "text": "楊義臣趣平壤城",
+        "label": "LOC",
+        "start": 8,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000304",
+    "sentence": "五月丁丑，熒惑入南斗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000305",
+    "sentence": "己卯，濟北人甄寶車聚眾萬餘，寇掠城邑。",
+    "entities": [
+      {
+        "text": "寇掠城邑",
+        "label": "LOC",
+        "start": 14,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000306",
+    "sentence": "六月乙巳，禮部尚書楊玄感反於黎陽。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 7,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000307",
+    "sentence": "丙辰，玄感逼東都。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000308",
+    "sentence": "河南贊理裴弘策拒之，反為賊所敗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000309",
+    "sentence": "戊辰，兵部侍郎斛斯政奔於高麗。",
+    "entities": [
+      {
+        "text": "侍郎",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000310",
+    "sentence": "庚午，上班師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000311",
+    "sentence": "高麗犯後軍，敕右武衛大將軍李景為後拒，遣左翊衛大將軍宇文述、左候衛將軍屈突通等馳傳發兵，以討玄感。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 33,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000312",
+    "sentence": "秋七月己卯，令所在發人城縣府驛。",
+    "entities": [
+      {
+        "text": "令所在發人城縣",
+        "label": "LOC",
+        "start": 6,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000313",
+    "sentence": "癸未，餘杭人劉元進舉兵反，眾至數萬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000314",
+    "sentence": "八月壬寅，左翊衛大將軍宇文述等破楊玄感於閿鄉，斬之。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "破楊玄感於閿鄉",
+        "label": "LOC",
+        "start": 15,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000315",
+    "sentence": "餘黨悉平。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000316",
+    "sentence": "癸卯，吳人朱燮、晉陵人管崇擁眾十萬餘，自稱將軍，寇江左。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 21,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000317",
+    "sentence": "甲辰，制驍果之家，蠲免賦役。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000318",
+    "sentence": "丁未，詔郡縣城去道過五里已上者，徙就之。",
+    "entities": [
+      {
+        "text": "詔郡縣城",
+        "label": "LOC",
+        "start": 3,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000319",
+    "sentence": "戊申，制盜賊籍沒其家。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000320",
+    "sentence": "乙卯，賊帥陳瑱等三萬，攻陷信安郡。",
+    "entities": [
+      {
+        "text": "攻陷信安郡",
+        "label": "LOC",
+        "start": 11,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000321",
+    "sentence": "辛酉，司農卿、光祿大夫、葛國公趙元淑以罪伏誅。",
+    "entities": [
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000322",
+    "sentence": "九月己卯，濟陰人吳海流、東海人彭孝才並舉兵為盜，眾數萬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000323",
+    "sentence": "庚辰，賊帥梁慧尚聚眾四萬，陷蒼梧郡。",
+    "entities": [
+      {
+        "text": "陷蒼梧郡",
+        "label": "LOC",
+        "start": 13,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000324",
+    "sentence": "甲午，車駕次上谷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000325",
+    "sentence": "以供費不給，上大怒，免太守虞荷等官。",
+    "entities": [
+      {
+        "text": "太守",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000326",
+    "sentence": "丁酉，東陽人李三兒、向但子舉兵作亂，眾至萬餘。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000327",
+    "sentence": "閏月己巳，幸博陵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000328",
+    "sentence": "庚午，上謂侍臣曰：「朕昔從先朝，周旋於此，年甫八歲。日月不居，倏經三紀，追惟曩昔，不可復希。」言未卒，流涕嗚咽。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000329",
+    "sentence": "侍衛者皆泣下沾襟。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000330",
+    "sentence": "冬十月丁丑，賊帥呂明星率眾數千圍東郡，武賁郎將費青奴擊斬之。",
+    "entities": [
+      {
+        "text": "率眾數千圍東郡",
+        "label": "LOC",
+        "start": 11,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000331",
+    "sentence": "乙酉，詔曰：「博陵昔為定州，地居沖要；先王歷試所基，王化斯遠。故以道冠《豳風》，義高姚邑。朕巡撫氓庶，爰屆茲邦，瞻望郊廛，緬懷敬止。思所以宣播慶澤，覃被下人；崇紀顯號，式光令緒。可改博陵為高陽郡，赦境內死罪以下，給復一年。」於是召高祖時故吏，皆量才授職。",
+    "entities": [
+      {
+        "text": "博陵昔為定州",
+        "label": "LOC",
+        "start": 7,
+        "end": 13
+      },
+      {
+        "text": "《豳風》",
+        "label": "TITLE",
+        "start": 35,
+        "end": 39
+      },
+      {
+        "text": "義高姚邑",
+        "label": "LOC",
+        "start": 40,
+        "end": 44
+      },
+      {
+        "text": "改博陵為高陽郡",
+        "label": "LOC",
+        "start": 90,
+        "end": 97
+      },
+      {
+        "text": "一年",
+        "label": "TME",
+        "start": 108,
+        "end": 110
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000332",
+    "sentence": "壬辰，以納言蘇威為開府儀同三司。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000333",
+    "sentence": "朱燮、管崇推劉元進為天子，遣將軍吐萬緒、魚俱羅討之，連年不能克。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000334",
+    "sentence": "齊人孟讓、王薄等眾十餘萬，據長白山，攻剽諸郡。",
+    "entities": [
+      {
+        "text": "攻剽諸郡",
+        "label": "LOC",
+        "start": 18,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000335",
+    "sentence": "清河賊張金稱眾各數萬，勃海賊帥格謙，自號燕王，孫宣雅自號齊王，眾各十萬，山東苦之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000336",
+    "sentence": "丁亥，以右候衛將軍郭榮為右候衛大將軍。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 15,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000337",
+    "sentence": "十一月己酉，右候衛將軍馮孝慈討張金稱於清河，反為所敗，孝慈死之。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000338",
+    "sentence": "十二月甲辰，車裂楊玄感弟朝散大夫積善及黨與十餘人，仍焚而揚之。",
+    "entities": [
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000339",
+    "sentence": "丁亥，扶風人向海明舉兵作亂，稱皇帝，建元白烏。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 15,
+        "end": 17
+      },
+      {
+        "text": "元",
+        "label": "ORG",
+        "start": 19,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000340",
+    "sentence": "遣太僕卿楊義臣擊破之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000341",
+    "sentence": "十年春正月甲寅，以宗女為信義公主，嫁於突厥曷娑那可汗。",
+    "entities": [
+      {
+        "text": "十年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000342",
+    "sentence": "二月辛未，詔百寮議伐高麗，數日無敢言者。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000343",
+    "sentence": "戊子，詔曰：「竭力王役，致身戎事，咸由徇義，莫匪勤誠。委命草芥，暴骸原野；興言念之，每懷湣惻。往年問罪，將屆遼濱；廟算勝略，具有進止。而諒昏凶，罔識成敗；高颎愎狠，本無智謀。臨三軍猶兒戲，視人命如草芥；不遵成規，坐貽撓退。遂令死亡者眾，不及埋藏。今宜遣使人，分道收葬。設祭於遼西郡，立道場一所。恩加泉壤，庶弭窮魂之冤；澤及枯骨，用弘仁者之惠。」辛卯，詔曰：",
+    "entities": [
+      {
+        "text": "設祭於遼西郡",
+        "label": "LOC",
+        "start": 134,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000344",
+    "sentence": "丁酉，扶風人唐弼舉兵反，眾十萬，推李弘為天子，自稱唐王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000345",
+    "sentence": "三月壬子，行幸涿郡。",
+    "entities": [
+      {
+        "text": "行幸涿郡",
+        "label": "LOC",
+        "start": 5,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000346",
+    "sentence": "癸亥，次臨渝宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000347",
+    "sentence": "親禦戎服，祃祭黃帝，斬叛軍者以釁鼓。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000348",
+    "sentence": "夏四月辛未，彭城賊張大彪聚眾數萬，保縣薄山為盜，遣榆林太守董純擊破斬之。",
+    "entities": [
+      {
+        "text": "彭城",
+        "label": "LOC",
+        "start": 6,
+        "end": 8
+      },
+      {
+        "text": "保縣",
+        "label": "LOC",
+        "start": 17,
+        "end": 19
+      },
+      {
+        "text": "太守",
+        "label": "TITLE",
+        "start": 27,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000349",
+    "sentence": "甲午，車駕次北平。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000350",
+    "sentence": "五月庚子，詔舉郡孝悌廉潔各十人。",
+    "entities": [
+      {
+        "text": "詔舉郡",
+        "label": "LOC",
+        "start": 5,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000351",
+    "sentence": "壬寅，賊帥宋世謨陷瑯邪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000352",
+    "sentence": "庚申，延安人劉迦論舉兵反，自稱皇王，建元大世。",
+    "entities": [
+      {
+        "text": "元",
+        "label": "ORG",
+        "start": 19,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000353",
+    "sentence": "六月辛未，賊帥鄭文雅、林寶護等眾三萬，陷建安郡，太守楊景祥死之。",
+    "entities": [
+      {
+        "text": "陷建安郡",
+        "label": "LOC",
+        "start": 19,
+        "end": 23
+      },
+      {
+        "text": "太守",
+        "label": "TITLE",
+        "start": 24,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000354",
+    "sentence": "秋七月癸丑，車駕次懷遠鎮。",
+    "entities": [
+      {
+        "text": "車駕次懷遠鎮",
+        "label": "LOC",
+        "start": 6,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000355",
+    "sentence": "乙卯，曹國遣使貢方物。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000356",
+    "sentence": "甲子，高麗遣使請降，囚送斛斯政。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000357",
+    "sentence": "上大悅。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000358",
+    "sentence": "八月己巳，班師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000359",
+    "sentence": "右衛大將軍、左光祿大夫鄭榮卒。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 9,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000360",
+    "sentence": "冬十月丁卯，上至東都。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000361",
+    "sentence": "己丑，還京師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000362",
+    "sentence": "十一月丙申，支解斛斯政於金光門外。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000363",
+    "sentence": "乙巳，有事於南郊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000364",
+    "sentence": "己酉，賊帥司馬長安破長平郡。",
+    "entities": [
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      },
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 7,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000365",
+    "sentence": "乙卯，離石胡劉苗王舉兵反，自稱天子，以其弟六兒為永安王，眾至數萬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000366",
+    "sentence": "將軍潘長文討之，不能克。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000367",
+    "sentence": "是月，賊帥王德仁擁眾數萬，保林慮山為盜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000368",
+    "sentence": "十二月壬申，上如東都，其日大赦天下。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000369",
+    "sentence": "戊子，入東都。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000370",
+    "sentence": "庚寅，賊帥孟讓眾十餘萬，據都梁宮。",
+    "entities": [
+      {
+        "text": "梁",
+        "label": "ORG",
+        "start": 14,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000371",
+    "sentence": "遣江都丞王世充擊破之，盡虜其眾。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000372",
+    "sentence": "十一年春正月甲午朔，宴百寮。",
+    "entities": [
+      {
+        "text": "十一年",
+        "label": "TME",
+        "start": 0,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000373",
+    "sentence": "突厥、新羅、靺鞨、畢大辭、訶咄、傅越、烏那曷、波臘吐火羅、俱慮建、忽論、靺鞨、訶多、沛汗、龜茲、疏勒、于闐、安國、曹國、何國、穆國、畢、衣密、失範延、伽折、契丹等國，並遣使朝貢。",
+    "entities": [
+      {
+        "text": "沛",
+        "label": "LOC",
+        "start": 42,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000374",
+    "sentence": "戊戌，武賁郎將高建毗破賊帥顏宣政於齊郡，虜男女數千口。",
+    "entities": [
+      {
+        "text": "帥顏宣政於齊郡",
+        "label": "LOC",
+        "start": 12,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000375",
+    "sentence": "乙卯，大會蠻夷，設魚龍曼延之樂，頒賜各有差。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000376",
+    "sentence": "二月戊辰，賊帥楊仲緒等率眾萬餘攻北平，滑公李景破斬之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000377",
+    "sentence": "庚午，詔曰：「設險守國，著自前經；重門禦暴，事彰往策。所以宅土寧邦，禁邪固本。而近代戰爭，居人散逸，田疇無伍，郛郭不修。遂使遊惰實繁，寇攘未息。今天下平一，海內晏如；宜令人悉城居，田隨近給。使強弱相容，力役兼濟；穿窬無所厝其奸宄，雚蒲不得聚其逋逃。有司具為事條，務令得所。」丙子，王須拔反，自稱漫天王，國號燕。",
+    "entities": [
+      {
+        "text": "宜令人悉城",
+        "label": "LOC",
+        "start": 83,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000378",
+    "sentence": "賊帥魏刀兒自稱歷山飛，眾各十餘萬，北連突厥，南寇趙。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000379",
+    "sentence": "三月丁酉，殺右驍衛大將軍光祿大夫郕公李渾、將作監光祿大夫李敏，並族滅其家。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 14,
+        "end": 16
+      },
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 26,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000380",
+    "sentence": "癸卯，賊帥司馬長安破西河。",
+    "entities": [
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      },
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 7,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000381",
+    "sentence": "己酉，幸太原，避暑汾陽宮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000382",
+    "sentence": "秋七月己亥，淮南人張起緒舉兵為盜，眾至三萬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000383",
+    "sentence": "辛丑，光祿大夫、右禦衛大將軍張壽卒。",
+    "entities": [
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 11,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000384",
+    "sentence": "八月乙卯，巡北塞。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000385",
+    "sentence": "戊辰，突厥始畢可汗率騎數十萬，謀襲乘輿；義成公主遣使告變。",
+    "entities": [
+      {
+        "text": "公主",
+        "label": "TITLE",
+        "start": 22,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000386",
+    "sentence": "壬申，車駕馳幸雁門。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000387",
+    "sentence": "癸酉，突厥圍城，官軍頻戰不利。",
+    "entities": [
+      {
+        "text": "突厥圍城",
+        "label": "LOC",
+        "start": 3,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000388",
+    "sentence": "上大懼，欲率精騎潰圍而出；民部尚書樊子蓋固諫，乃止。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 15,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000389",
+    "sentence": "齊王暕以後軍保於崞縣。",
+    "entities": [
+      {
+        "text": "以後軍保於崞縣",
+        "label": "LOC",
+        "start": 3,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000390",
+    "sentence": "甲申，詔天下諸郡募兵。",
+    "entities": [
+      {
+        "text": "詔天下諸郡",
+        "label": "LOC",
+        "start": 3,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000391",
+    "sentence": "於是守令各來赴難。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000392",
+    "sentence": "九月甲辰，突厥解圍而去。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000393",
+    "sentence": "丁未，曲赦太原、雁門死罪已下。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000394",
+    "sentence": "冬十月壬戌，上至於東都。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000395",
+    "sentence": "丁卯，彭城人魏騏驎聚眾萬餘為盜，寇魯郡。",
+    "entities": [
+      {
+        "text": "彭城",
+        "label": "LOC",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "寇魯郡",
+        "label": "LOC",
+        "start": 16,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000396",
+    "sentence": "壬申，賊帥盧明月聚眾十餘萬，寇陳、汝間。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000397",
+    "sentence": "東海賊李子通擁眾度淮，自號楚王，建元明政，寇江都。",
+    "entities": [
+      {
+        "text": "元",
+        "label": "ORG",
+        "start": 17,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000398",
+    "sentence": "十一月乙卯，賊帥王須拔破高陽郡。",
+    "entities": [
+      {
+        "text": "王須拔破高陽郡",
+        "label": "LOC",
+        "start": 8,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000399",
+    "sentence": "十二月戊寅，有大流星如斛，墜明月營，破其沖車。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000400",
+    "sentence": "庚辰，詔民部尚書樊子蓋發關中兵，討絳郡賊敬盤陁、柴保昌等，經年不能克。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 6,
+        "end": 8
+      },
+      {
+        "text": "討絳郡",
+        "label": "LOC",
+        "start": 16,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000401",
+    "sentence": "譙郡人朱粲擁眾數十萬寇荊、襄，僭稱楚帝，建元昌達。",
+    "entities": [
+      {
+        "text": "譙郡",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "元",
+        "label": "ORG",
+        "start": 21,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000402",
+    "sentence": "漢南諸郡，多為所陷焉。",
+    "entities": [
+      {
+        "text": "漢南諸郡",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000403",
+    "sentence": "十二年春正月甲午，雁門人翟松柏起兵於靈丘，眾至數萬，轉攻傍縣。",
+    "entities": [
+      {
+        "text": "十二年",
+        "label": "TME",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "轉攻傍縣",
+        "label": "LOC",
+        "start": 26,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000404",
+    "sentence": "二月己未，真臘遣使貢方物。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000405",
+    "sentence": "甲子夜，有二大鳥似雕，飛入大業殿，止於禦幄，至明而去。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000406",
+    "sentence": "癸亥，東海賊盧公暹率眾萬餘，保於蒼山。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000407",
+    "sentence": "夏四月丁巳，顯陽門災。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000408",
+    "sentence": "癸亥，魏刀兒所部將甄翟兒號歷山飛，眾十萬，轉寇太原。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000409",
+    "sentence": "將軍潘長文討之，反為所敗，長文死之。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000410",
+    "sentence": "五月丙戌朔，日有蝕之，既。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000411",
+    "sentence": "癸巳，大流星殞於吳郡，為石。",
+    "entities": [
+      {
+        "text": "大流星殞於吳郡",
+        "label": "LOC",
+        "start": 3,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000412",
+    "sentence": "壬午，上於景華宮征求螢火，得數斛，夜出遊山而放之，光遍巖谷。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000413",
+    "sentence": "秋七月壬戌，民部尚書、光祿大夫、濟北公樊子蓋卒。",
+    "entities": [
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      },
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000414",
+    "sentence": "甲子，幸江都宮，以越王侗、光祿大夫段達、太府卿元文都、檢校民部尚書韋津、右武衛將軍皇甫無逸、右司郎盧楚等總留守事。",
+    "entities": [
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 15,
+        "end": 17
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 31,
+        "end": 33
+      },
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 39,
+        "end": 41
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000415",
+    "sentence": "奉信郎崔民象以盜賊充斥，於建國門表諫不宜巡幸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000416",
+    "sentence": "上大怒，先解其頤，乃斬之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000417",
+    "sentence": "戊辰，馮翊人孫華自號總管，舉兵為盜。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000418",
+    "sentence": "高涼通守洗寶徹舉兵作亂，嶺南溪洞多應之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000419",
+    "sentence": "己巳，熒惑守羽林，月餘乃退。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000420",
+    "sentence": "車駕次汜水，奉信郎王愛仁以盜賊日盛，諫上，請還西京。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000421",
+    "sentence": "上怒，斬之而行。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000422",
+    "sentence": "八月乙巳，賊帥趙萬海眾數十萬，自恒山寇高陽。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000423",
+    "sentence": "壬子，有大流星如鬥，出王良、閣道，聲如壞墻。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000424",
+    "sentence": "癸丑，大流星如甕，出羽林。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000425",
+    "sentence": "九月丁酉，東海人杜伏威、揚州沈覓敵等作亂，眾至數萬，右禦衛將軍陳棱擊破之。",
+    "entities": [
+      {
+        "text": "揚州",
+        "label": "LOC",
+        "start": 12,
+        "end": 14
+      },
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 29,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000426",
+    "sentence": "戊午，有二枉矢，出北斗魁，委曲蛇形，註於南斗。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000427",
+    "sentence": "壬戌，安定人荔非世雄殺臨涇令，舉兵作亂，自號將軍。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 22,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000428",
+    "sentence": "冬十月己丑，開府儀同三司、左翊衛大將軍、光祿大夫、許公宇文述薨。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 22,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000429",
+    "sentence": "十二月癸未，鄱陽賊操天成舉兵反，自號元興王，建元始興，攻陷豫章郡。",
+    "entities": [
+      {
+        "text": "元",
+        "label": "ORG",
+        "start": 23,
+        "end": 24
+      },
+      {
+        "text": "攻陷豫章郡",
+        "label": "LOC",
+        "start": 27,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000430",
+    "sentence": "乙酉，以右翊衛大將軍來護為開府儀同三司，行左翊衛大將軍。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 24,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000431",
+    "sentence": "壬辰，鄱陽人林士弘自稱皇帝，國號楚，建元太平。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      },
+      {
+        "text": "元",
+        "label": "ORG",
+        "start": 19,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000432",
+    "sentence": "攻陷九江、廬陵郡。",
+    "entities": [
+      {
+        "text": "廬陵郡",
+        "label": "LOC",
+        "start": 5,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000433",
+    "sentence": "唐公破甄翟兒於西河，虜男女千口。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000434",
+    "sentence": "十三年春正月壬子，齊郡賊杜伏威率眾度淮，攻陷歷陽郡。",
+    "entities": [
+      {
+        "text": "十三年",
+        "label": "TME",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "齊郡",
+        "label": "LOC",
+        "start": 9,
+        "end": 11
+      },
+      {
+        "text": "攻陷歷陽郡",
+        "label": "LOC",
+        "start": 20,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000435",
+    "sentence": "丙辰，勃海賊竇建德設壇於河間之樂壽，自稱長樂王，建元丁丑。",
+    "entities": [
+      {
+        "text": "元",
+        "label": "ORG",
+        "start": 25,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000436",
+    "sentence": "辛巳，賊帥徐圓郎率眾數千破東平郡。",
+    "entities": [
+      {
+        "text": "眾數千破東平郡",
+        "label": "LOC",
+        "start": 9,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000437",
+    "sentence": "弘化人刘企成聚眾萬餘人為盜，傍郡苦之。",
+    "entities": [
+      {
+        "text": "傍郡",
+        "label": "LOC",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000438",
+    "sentence": "二月壬午，朔方人梁師都殺郡丞唐世宗，據郡反，自稱大丞相。",
+    "entities": [
+      {
+        "text": "方人梁師都殺郡",
+        "label": "LOC",
+        "start": 6,
+        "end": 13
+      },
+      {
+        "text": "據郡",
+        "label": "LOC",
+        "start": 18,
+        "end": 20
+      },
+      {
+        "text": "丞相",
+        "label": "TITLE",
+        "start": 25,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000439",
+    "sentence": "遣銀青光祿大夫張世隆擊之，反為所敗。",
+    "entities": [
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000440",
+    "sentence": "戊子，賊帥王子英破上谷郡。",
+    "entities": [
+      {
+        "text": "王子英破上谷郡",
+        "label": "LOC",
+        "start": 5,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000441",
+    "sentence": "己丑，馬邑校尉劉武周殺太守王仁恭，舉兵作亂，北連突厥，自稱定楊可汗。",
+    "entities": [
+      {
+        "text": "馬邑",
+        "label": "LOC",
+        "start": 3,
+        "end": 5
+      },
+      {
+        "text": "校尉",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      },
+      {
+        "text": "太守",
+        "label": "TITLE",
+        "start": 11,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000442",
+    "sentence": "庚寅，賊帥李密、翟讓等陷興洛倉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000443",
+    "sentence": "越王侗遣武賁郎將劉長恭、光祿少卿房崱擊之，反為所敗，死者十五六。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000444",
+    "sentence": "庚子，李密自號魏公，稱元年；開倉以賑群盜，眾至數十萬。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 11,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000445",
+    "sentence": "河南諸郡，相繼皆陷焉。",
+    "entities": [
+      {
+        "text": "河南諸郡",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000446",
+    "sentence": "壬寅，劉武周破武賁郎將王智辯於桑幹鎮，智辯死之。",
+    "entities": [
+      {
+        "text": "王智辯於桑幹鎮",
+        "label": "LOC",
+        "start": 11,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000447",
+    "sentence": "三月戊午，廬江人張子路舉兵反，遣右禦衛將軍陳棱討平之。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 19,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000448",
+    "sentence": "丁丑，賊帥李通德眾十萬寇廬江，左屯衛將軍張鎮州擊破之。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 18,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000449",
+    "sentence": "夏四月癸未，金城校尉薛舉率眾反，自稱西秦霸王，建元秦興。",
+    "entities": [
+      {
+        "text": "金城",
+        "label": "LOC",
+        "start": 6,
+        "end": 8
+      },
+      {
+        "text": "校尉",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      },
+      {
+        "text": "元",
+        "label": "ORG",
+        "start": 24,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000450",
+    "sentence": "攻陷隴右諸郡。",
+    "entities": [
+      {
+        "text": "攻陷隴右諸郡",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000451",
+    "sentence": "己丑，賊帥孟讓夜入東都外郭，燒豐都市而去。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000452",
+    "sentence": "癸巳，李密陷迥洛東倉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000453",
+    "sentence": "丁酉，賊帥房憲伯陷汝陰郡。",
+    "entities": [
+      {
+        "text": "房憲伯陷汝陰郡",
+        "label": "LOC",
+        "start": 5,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000454",
+    "sentence": "是月，光祿大夫武賁郎將裴仁基、淮陽太守趙佗等，並以眾叛歸李密。",
+    "entities": [
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      },
+      {
+        "text": "太守",
+        "label": "TITLE",
+        "start": 17,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000455",
+    "sentence": "五月辛酉夜，有流星如甕，墜於江都，甲子，唐公起義師於太原。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000456",
+    "sentence": "丙寅，突厥數千寇太原，唐公擊破之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000457",
+    "sentence": "秋七月壬子，熒惑守積屍。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000458",
+    "sentence": "丙辰，武威人李軌舉兵反，攻陷河曲諸郡，自稱涼王，建元安樂。",
+    "entities": [
+      {
+        "text": "攻陷河曲諸郡",
+        "label": "LOC",
+        "start": 12,
+        "end": 18
+      },
+      {
+        "text": "元",
+        "label": "ORG",
+        "start": 25,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000459",
+    "sentence": "八月辛巳，唐公破武牙郎將宋老生於霍邑，斬之。",
+    "entities": [
+      {
+        "text": "將宋老生於霍邑",
+        "label": "LOC",
+        "start": 11,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000460",
+    "sentence": "九月己丑，帝括江都人女、寡婦以配從兵。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000461",
+    "sentence": "是月，武陽郡丞元寶藏以郡叛歸李密，與賊帥李文相攻陷黎陽倉。",
+    "entities": [
+      {
+        "text": "武陽郡",
+        "label": "LOC",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "丞元寶藏以郡",
+        "label": "LOC",
+        "start": 6,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000462",
+    "sentence": "彗星見於營室。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000463",
+    "sentence": "冬十月丁亥，太原陽世洛聚眾萬餘人。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000464",
+    "sentence": "寇掠城邑。",
+    "entities": [
+      {
+        "text": "寇掠城邑",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000465",
+    "sentence": "丙申，羅令蕭銑以縣反，鄱陽人董景珍以郡反，迎銑於羅縣，號為梁王，攻陷傍郡。",
+    "entities": [
+      {
+        "text": "羅令蕭銑以縣",
+        "label": "LOC",
+        "start": 3,
+        "end": 9
+      },
+      {
+        "text": "陽人董景珍以郡",
+        "label": "LOC",
+        "start": 12,
+        "end": 19
+      },
+      {
+        "text": "迎銑於羅縣",
+        "label": "LOC",
+        "start": 21,
+        "end": 26
+      },
+      {
+        "text": "攻陷傍郡",
+        "label": "LOC",
+        "start": 32,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000466",
+    "sentence": "戊戌，武賁郎將高毗敗濟北郡賊甄寶車於 𡽳 山。",
+    "entities": [
+      {
+        "text": "將高毗敗濟北郡",
+        "label": "LOC",
+        "start": 6,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000467",
+    "sentence": "十一月丙辰，唐公入京師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000468",
+    "sentence": "辛酉，遙尊帝為太上皇，立代王侑為帝，改元義寧。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000469",
+    "sentence": "上起宮丹楊，將遜於江左。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000470",
+    "sentence": "有烏鵲來巢幄帳，驅不能止。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000471",
+    "sentence": "熒惑犯太微。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000472",
+    "sentence": "有石自江浮入於楊子，日光四散如流血，上甚惡之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000473",
+    "sentence": "二年三月，右屯衛將軍宇文化及、武賁郎將司馬德戡、元禮、監門直閣裴虔通、將作少監宇文智及、武勇郎將趙行樞、鷹揚郎將孟景、內史舍人元敏、符璽郎李覆、牛方裕、千牛左右李孝本、弟孝質、直長許弘仁、薛世良、城門郎唐奉義、醫正張愷等，以驍果作亂，入犯宮闈。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      },
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 19,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000474",
+    "sentence": "上崩於溫室，時年五十。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000475",
+    "sentence": "蕭後令宮人撤床簀為棺，以埋之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000476",
+    "sentence": "化及發後，右禦衛將軍陳棱奉梓宮於成象殿，葬吳公臺下。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000477",
+    "sentence": "發斂之始，容貌若生，眾咸異之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000478",
+    "sentence": "大唐平江南之後，改葬雷塘。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000479",
+    "sentence": "初，上自以蕃王，次不當立，每矯情飾行，以釣虛名，陰有奪宗之計。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000480",
+    "sentence": "時高祖雅重文獻皇后，而性忌妾媵；皇太子勇內多嬖幸，以此失愛。",
+    "entities": [
+      {
+        "text": "皇后",
+        "label": "TITLE",
+        "start": 7,
+        "end": 9
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 17,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000481",
+    "sentence": "帝後庭有子皆不育之，示無私寵，取媚於後。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000482",
+    "sentence": "大臣用事者，傾心與交。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000483",
+    "sentence": "中使至第，無貴賤，皆曲承顏色，申以厚禮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000484",
+    "sentence": "婢仆往來者，無不稱其仁孝。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000485",
+    "sentence": "又常私入宮掖，密謀於文獻後。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000486",
+    "sentence": "楊素等因機構扇，遂成廢立。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000487",
+    "sentence": "自高祖大漸暨諒暗之中，蒸淫無度。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000488",
+    "sentence": "山陵始就，即事巡遊。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000489",
+    "sentence": "以天下承平日久，士馬全盛。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000490",
+    "sentence": "慨然慕秦皇、漢武之事。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000491",
+    "sentence": "乃盛理宮室，窮極侈靡。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000492",
+    "sentence": "召募行人，分使絕域。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000493",
+    "sentence": "諸蕃至者，厚加禮賜；有不恭命，以兵擊之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000494",
+    "sentence": "盛興屯田於玉門、柳城之外。",
+    "entities": [
+      {
+        "text": "柳城",
+        "label": "LOC",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000495",
+    "sentence": "課天下富室分道市武馬，疋直十餘萬。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000496",
+    "sentence": "富強坐是而凍餒者，十家而九。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000497",
+    "sentence": "性多詭譎。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000498",
+    "sentence": "所幸之處，不欲人知；每幸之所，輒數道置頓。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000499",
+    "sentence": "四海珍羞殊味，水陸必備焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000500",
+    "sentence": "求市者無遠不至。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000501",
+    "sentence": "郡縣官人，競為獻食；豐厚者進擢，疏儉者獲罪。",
+    "entities": [
+      {
+        "text": "郡縣",
+        "label": "LOC",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000502",
+    "sentence": "奸吏侵漁，內外虛竭；頭會箕斂，人不聊生。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000503",
+    "sentence": "於時，軍國多務，日不暇給。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000504",
+    "sentence": "帝方驕怠，惡聞政事；冤屈不理，奏請罕決。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000505",
+    "sentence": "又猜忌臣下，無所專任。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000506",
+    "sentence": "朝臣有不合意者，必構其罪而族滅之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000507",
+    "sentence": "高颎、賀若弼先皇心膂，參謀帷幄；張衡、李金才籓邸惟舊，績著經綸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000508",
+    "sentence": "惡其直道，忌其正義；求其無形之罪，加以丹頸之戮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000509",
+    "sentence": "其餘事君盡禮，謇謇匪躬；無辜無罪，橫受夷戮者，不可勝紀。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000510",
+    "sentence": "政刑弛紊，賄貨公行，莫敢有言，道路以目。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000511",
+    "sentence": "六軍不息，百役繁興；行者不歸，居者失業；人饑相食，邑落為墟，上弗之恤也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000512",
+    "sentence": "東西行幸，靡有定居；每以供費不給，逆收數年之賦。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000513",
+    "sentence": "所至，唯與後宮流連耽湎，惟日不足。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000514",
+    "sentence": "招迎姥媼，朝夕共肆醜言。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000515",
+    "sentence": "又引少年，令與宮人穢亂。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000516",
+    "sentence": "不軌不遜，以為娛樂。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000517",
+    "sentence": "區宇之內，盜賊蜂起；劫掠從官，屠陷城邑。",
+    "entities": [
+      {
+        "text": "屠陷城邑",
+        "label": "LOC",
+        "start": 15,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000518",
+    "sentence": "近臣互相掩蔽，皆隱賊數，不以實對。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000519",
+    "sentence": "或有言賊多者，輒大被詰責。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000520",
+    "sentence": "各求茍免，上下相蒙。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000521",
+    "sentence": "每出師徒，敗亡相繼。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000522",
+    "sentence": "戰士盡力，不加賞賜；百姓無辜，咸受屠戮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000523",
+    "sentence": "蒸庶積怨，天下土崩；至於就禽，而猶未之寤也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000524",
+    "sentence": "恭帝",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000525",
+    "sentence": "恭皇帝諱侑，元德太子之子也。",
+    "entities": [
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 1,
+        "end": 3
+      },
+      {
+        "text": "太子",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000526",
+    "sentence": "母曰韋妃。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000527",
+    "sentence": "性聰敏，有氣度。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000528",
+    "sentence": "大業三年 ，立為陳王。",
+    "entities": [
+      {
+        "text": "大業三年",
+        "label": "TME",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000529",
+    "sentence": "後數載，徙為代王。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000530",
+    "sentence": "及煬帝親征遼東，令於京師總留事。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000531",
+    "sentence": "十一年，從幸晉陽，拜太原太守，尋鎮京師。",
+    "entities": [
+      {
+        "text": "十一年",
+        "label": "TME",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "太守",
+        "label": "TITLE",
+        "start": 12,
+        "end": 14
+      },
+      {
+        "text": "尋鎮",
+        "label": "LOC",
+        "start": 15,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000532",
+    "sentence": "義兵入長安，尊煬帝為太上皇，奉帝纂業。",
+    "entities": [
+      {
+        "text": "長安",
+        "label": "LOC",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000533",
+    "sentence": "義寧元年 十一月壬戌，上即皇帝位於大興殿。",
+    "entities": [
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "皇帝",
+        "label": "TITLE",
+        "start": 13,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000534",
+    "sentence": "詔曰：「王道喪亂，天步不康；屬之於朕，逢此百罹。繈褓之歲，夙遭憫凶；孺子之辰，太上播越。興言感動，實疚於懷。太尉唐公，膺期作宰，糾合義兵，翼戴皇室。爰奉明詔，弼予幼沖，顯命光臨，天威咫尺。對揚尊號，悼心失圖；一人在遠，三讓不遂；僶勉南面，厝身無所。茍利社稷，莫敢或違；俯從群議，奉遵聖旨。可大赦天下。改 大業十三年 為義寧元年。十一月十六日昧爽以前，大辟罪已下，皆赦除之；常赦所不免者，不在赦限。」甲子，以光祿大夫、大將軍、太尉唐公為假黃鉞、使持節、大都督內外諸軍事、尚書令、大丞相，進封唐王。",
+    "entities": [
+      {
+        "text": "大業十三年",
+        "label": "TME",
+        "start": 152,
+        "end": 157
+      },
+      {
+        "text": "元年",
+        "label": "TME",
+        "start": 161,
+        "end": 163
+      },
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 205,
+        "end": 207
+      },
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 208,
+        "end": 211
+      },
+      {
+        "text": "大都",
+        "label": "LOC",
+        "start": 225,
+        "end": 227
+      },
+      {
+        "text": "尚書",
+        "label": "TITLE",
+        "start": 234,
+        "end": 236
+      },
+      {
+        "text": "丞相",
+        "label": "TITLE",
+        "start": 239,
+        "end": 241
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000535",
+    "sentence": "丙寅，詔曰：「朕惟孺子，未出深宮；太上遠巡，追蹤穆滿。時逢多難，委當尊極；辭不獲免，恭己臨朝。若涉大川，罔知所濟；民之情偽，曾未之聞。賴股肱戮力，上宰賢良；匡佐沖人，輔其不逮。軍國機務，事無大小；文武設官，位無貴賤；憲章賞罰，咸歸相府。庶績其凝，責成斯屬。」己巳，以唐王子隴西公建成為唐國世子；敦煌公為京兆尹，改封秦公；元吉為齊公。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000536",
+    "sentence": "太原置鎮北府。",
+    "entities": [
+      {
+        "text": "太原置鎮",
+        "label": "LOC",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000537",
+    "sentence": "乙亥，張掖康老和舉兵反。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000538",
+    "sentence": "十二月癸未，薛舉自稱天子，寇扶風，秦公為元帥擊破之。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000539",
+    "sentence": "丁亥，桂陽人曹武徹舉兵反，建元通聖。",
+    "entities": [
+      {
+        "text": "元",
+        "label": "ORG",
+        "start": 14,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000540",
+    "sentence": "丁酉，義師禽驍衛大將軍屈突通於閿鄉。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 8,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000541",
+    "sentence": "乙巳，賊帥張善安陷廬江郡。",
+    "entities": [
+      {
+        "text": "張善安陷廬江郡",
+        "label": "LOC",
+        "start": 5,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000542",
+    "sentence": "二年春正月丁未，詔唐王劍履上殿，入朝不趨，贊拜不名，加前後羽葆鼓吹。",
+    "entities": [
+      {
+        "text": "二年",
+        "label": "TME",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000543",
+    "sentence": "壬戌，將軍王世充為李密所敗，河內通守孟善誼、武賁郎將王辯、楊威、劉長恭、梁德、董智通皆死之。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000544",
+    "sentence": "庚戌，河陽郡尉獨孤武都降於李密。",
+    "entities": [
+      {
+        "text": "河陽郡",
+        "label": "LOC",
+        "start": 3,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000545",
+    "sentence": "三月丙辰，右屯衛將軍宇文化及弒太上皇於江都宮。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 8,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000546",
+    "sentence": "右禦衛將軍獨孤盛死之。",
+    "entities": [
+      {
+        "text": "將軍",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000547",
+    "sentence": "齊王暕、趙王杲、燕王倓、右翊衛大將軍宇文協、內史侍郎虞世基、御史大夫裴蘊、給事郎許善心皆遇害。",
+    "entities": [
+      {
+        "text": "大將軍",
+        "label": "TITLE",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "侍郎",
+        "label": "TITLE",
+        "start": 24,
+        "end": 26
+      },
+      {
+        "text": "御史",
+        "label": "TITLE",
+        "start": 30,
+        "end": 32
+      },
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 32,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000548",
+    "sentence": "化及立秦王浩為帝，自稱大丞相，朝士文武，皆受其官爵。",
+    "entities": [
+      {
+        "text": "丞相",
+        "label": "TITLE",
+        "start": 12,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000549",
+    "sentence": "光祿大夫宿公麥才、折沖郎將朝請大夫沈光同謀討賊，夜襲化及營，反為所害。",
+    "entities": [
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 2,
+        "end": 4
+      },
+      {
+        "text": "大夫",
+        "label": "TITLE",
+        "start": 15,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000550",
+    "sentence": "戊辰，詔唐王備九錫之禮，加璽紱、遠遊冠、綠綟綬，位在諸侯王上。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000551",
+    "sentence": "唐國置丞相已下，一依舊式。",
+    "entities": [
+      {
+        "text": "丞相",
+        "label": "TITLE",
+        "start": 3,
+        "end": 5
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000552",
+    "sentence": "五月乙巳朔，詔唐王冕十有二旒，建天子旌旗；出警入蹕，金根車，駕備五時副車，置旄頭雲罕車；舞八佾，設鐘虞宮縣。",
+    "entities": [
+      {
+        "text": "設鐘虞宮縣",
+        "label": "LOC",
+        "start": 48,
+        "end": 53
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000553",
+    "sentence": "王後、王子、王女爵命之號，一遵舊典。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000554",
+    "sentence": "戊午，詔曰：「天禍隋國，大行太上皇遇盜江都。憫予小子，哀號永感，仰惟荼毒，仇復靡申。相國唐王膺期命世，扶危拯溺；自北徂南，東征西怨。總九合於一匡，決百勝於千里。糾率夷夏，大庇氓黎；保義朕躬，繄王是賴。德侔造化，功格蒼旻；兆庶歸心，歷數斯在；屈為人臣，載違天命。當今九服崩離，三靈改卜，大運去矣，請避賢路。私僮命駕，須歸籓國。予本代王，及予而代，天之所廢，豈期如是。庶憑稽古之聖，以誅四凶；幸值惟新之恩，預充三恪。雪冤恥於皇祖，守禋祀為孝孫；朝聞夕殞，及泉無恨。今遵故事，遜於舊邸。庶官群辟，改事唐朝。宜依前典，趣上尊號。若釋重負，感泰兼懷。假手真人，俾除醜逆。」仍敕有司，凡有表奏，皆不得以聞。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000555",
+    "sentence": "是日，上遜位於大唐。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000556",
+    "sentence": "以為酅國公。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000557",
+    "sentence": "武德二年 夏五月崩，時年十五。",
+    "entities": [
+      {
+        "text": "武德二年",
+        "label": "TME",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000558",
+    "sentence": "論",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000559",
+    "sentence": "史臣曰：煬帝爰在弱齡，早有誌尚，南平吳會，北卻匈奴，昆弟之中，獨著聲績。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000560",
+    "sentence": "於是矯情飾貌，肆厥奸回，故得獻後鐘心，文皇革慮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000561",
+    "sentence": "天方肇亂，遂升儲兩。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000562",
+    "sentence": "踐峻極之榮基，承丕顯之休命。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000563",
+    "sentence": "地廣三代，威振八纮。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000564",
+    "sentence": "單于頓顙，越常重譯。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000565",
+    "sentence": "赤仄之泉，流溢於都內；紅腐之粟，充積於塞下。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000566",
+    "sentence": "負其富強之資，思逞無厭之欲。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000567",
+    "sentence": "狹殷周之制度，尚秦漢之規摹。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000568",
+    "sentence": "恃才矜己，傲狠明德。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000569",
+    "sentence": "內懷險躁，外示凝簡。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000570",
+    "sentence": "盛冠服以塞其奸，除諫官以掩其過。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000571",
+    "sentence": "淫荒無度，法令滋彰；教絕四維，刑參五虐。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000572",
+    "sentence": "誅鋤骨肉，屠劓忠良。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000573",
+    "sentence": "受賞者莫見其功，為戮者莫聞其罪。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000574",
+    "sentence": "驕怒之兵屢動，土木之功不息。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000575",
+    "sentence": "頻出朔方，三駕遼左。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000576",
+    "sentence": "旌旗萬里，征稅百端。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000577",
+    "sentence": "猾吏侵漁，人弗堪命。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000578",
+    "sentence": "乃急令暴賦以擾之，嚴刑峻法以臨之，甲兵威武以董之，自是海內騷然，無聊生矣。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000579",
+    "sentence": "俄而玄感肇黎陽之亂，匈奴有雁門之圍。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000580",
+    "sentence": "天子方棄中土，遠之揚、越。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000581",
+    "sentence": "奸宄乘釁，強弱相陵；關梁閉而不通，皇輿往而莫返。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000582",
+    "sentence": "加之以師旅，因之以饑饉，流離道路，轉死溝壑，十七八焉。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000583",
+    "sentence": "於是相聚雚蒲，猬毛而起。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000584",
+    "sentence": "大則跨州連郡，稱帝稱王；小則千百為群，攻城剽邑。",
+    "entities": [
+      {
+        "text": "大則跨州連郡",
+        "label": "LOC",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "text": "攻城剽邑",
+        "label": "LOC",
+        "start": 19,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000585",
+    "sentence": "流血成川澤，死人如亂麻；炊者不及析骸，食者不遑易子。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000586",
+    "sentence": "茫茫九土，並為糜鹿之場；惵惵黔黎，俱充蛇豕之餌。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000587",
+    "sentence": "四方萬里，簡書相續。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000588",
+    "sentence": "猶謂鼠竊狗盜，不足為虞；上下相蒙，莫肯念亂。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000589",
+    "sentence": "振蜉蝣之羽，窮長夜之樂。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000590",
+    "sentence": "土崩魚爛，貫盈惡稔。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000591",
+    "sentence": "普天之下，莫匪仇讎；左右之人，皆為敵國。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000592",
+    "sentence": "終然不悟，同彼望夷；遂以萬乘之尊，死於疋夫之手。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000593",
+    "sentence": "億兆靡感恩之士，九牧無勤王之師。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000594",
+    "sentence": "子弟同就誅夷，體骨棄而莫掩。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000595",
+    "sentence": "社稷顛隕，本枝殄絕。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000596",
+    "sentence": "自肇有書契，以迄於茲，宇宙崩離，生靈塗炭，喪身滅國，未有若斯之甚也。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000597",
+    "sentence": "《書》曰：「天作孽，猶可違；自作孽，不可逭。」《傳》曰：「吉凶由人，妖不妄作。」又曰：「兵猶火也，不戢將自焚。」觀隋室之存亡，斯言有征矣。",
+    "entities": [
+      {
+        "text": "《書》",
+        "label": "TITLE",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "《傳》",
+        "label": "TITLE",
+        "start": 23,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "sentence_id": "HCH_003_012_000598",
+    "sentence": "恭帝年在幼沖，遭家金難。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000599",
+    "sentence": "一人失德，四海土崩；群盜螽起，豺狼塞路；南巢遂往，流彘不歸。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000600",
+    "sentence": "既鐘百六之期，躬踐數終之運，謳歌有屬，笙鐘變響。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000601",
+    "sentence": "雖欲不遵堯、舜之跡，庸可得乎。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_003_012_000602",
+    "sentence": "本唐朝作品在全世界都属于 公有领域 ，因为作者逝世已经遠遠超过100年。",
+    "entities": [
+      {
+        "text": "100年",
+        "label": "TME",
+        "start": 31,
+        "end": 35
+      }
+    ]
+  }
+]

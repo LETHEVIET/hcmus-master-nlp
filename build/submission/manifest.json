@@ -1,0 +1,33 @@
+{
+  "annotation_status": "preannotation_needs_review",
+  "entities": 192109,
+  "excluded_sentences": {
+    "unchecked": 0,
+    "unknown_label": 0,
+    "unresolved": 0
+  },
+  "include_provenance": false,
+  "input": "build/corpus_preannotated.jsonl",
+  "input_sha256": "94f00fd880bd049a4e7fe115c6e157766637495668334a40e02d821943dbfaeb",
+  "input_type": "text",
+  "label_schema": [
+    "PER",
+    "LOC",
+    "ORG",
+    "TITLE",
+    "TME",
+    "NUM"
+  ],
+  "mapping_confirmed": false,
+  "mapping_version": "0.2.0",
+  "mode": "draft",
+  "output": "build/submission",
+  "raw_files": "not generated; raw text is preserved under dataset/",
+  "scope": "full",
+  "sentences": 271471,
+  "source_corpus_sha256": "94f00fd880bd049a4e7fe115c6e157766637495668334a40e02d821943dbfaeb",
+  "source_validation_report_sha256": null,
+  "submission_shape": "minimal",
+  "volumes": 787,
+  "works": 8
+}
