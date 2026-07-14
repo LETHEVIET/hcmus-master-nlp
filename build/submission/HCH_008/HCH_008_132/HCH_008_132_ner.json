@@ -2,17 +2,62 @@
   {
     "sentence_id": "HCH_008_132_000001",
     "sentence": "○李抱玉　李抱真　王虔休　盧從史　李芃李澄 族弟元素",
-    "entities": []
+    "entities": [
+      {
+        "text": "李抱玉",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "李抱真",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "王虔休",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "盧從史",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000002",
     "sentence": "李抱玉",
-    "entities": []
+    "entities": [
+      {
+        "text": "李抱玉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000003",
     "sentence": "李抱玉，武德功臣安興貴之裔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李抱玉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "安興貴",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000004",
@@ -45,6 +90,12 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -101,6 +152,12 @@
     "sentence": "時史思明陷洛陽，光弼守河陽，賊兵鋒方盛，光弼謂抱玉曰：「將軍能為我守南城二日乎？」抱玉曰：「過期若何？」光弼曰：「過期而救不至，任棄城也。」賊帥周摯領安太清、徐黃玉等先次南城，將陷之，抱玉乃紿之曰：「吾糧盡，明日當降。」賊眾大喜，斂軍以俟之。",
     "entities": [
       {
+        "text": "史思明",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "洛陽",
         "label": "LOC",
         "start": 5,
@@ -117,6 +174,12 @@
         "label": "LOC",
         "start": 64,
         "end": 67
+      },
+      {
+        "text": "安太清",
+        "label": "PER",
+        "start": 75,
+        "end": 78
       },
       {
         "text": "黃玉等先次南城",
@@ -281,6 +344,12 @@
         "label": "LOC",
         "start": 31,
         "end": 33
+      },
+      {
+        "text": "薛景仙",
+        "label": "PER",
+        "start": 50,
+        "end": 53
       }
     ]
   },
@@ -368,41 +437,48 @@
   {
     "sentence_id": "HCH_008_132_000027",
     "sentence": "李抱真",
-    "entities": []
+    "entities": [
+      {
+        "text": "李抱真",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000028",
     "sentence": "李抱真，抱玉從父弟也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李抱真",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000029",
     "sentence": "抱玉為澤潞節度使，甚器抱真，任以軍事，累授汾州別駕。",
-    "entities": [
-      {
-        "text": "累授汾州",
-        "label": "LOC",
-        "start": 19,
-        "end": 23
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_132_000030",
     "sentence": "當是時，僕固懷恩反於汾州，抱真陷焉，乃脫身歸京師。",
-    "entities": [
-      {
-        "text": "固懷恩反於汾州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_132_000031",
     "sentence": "代宗以懷恩倚回紇，所將朔方兵又勁，憂甚，召見抱真問狀，因奏曰：「郭子儀領朔方之眾，人多思之。懷恩欺其眾，曰『子儀為朝恩所殺』，詐而用之。今復子儀之位，可不戰而克。」其後懷恩子瑒為其下所殺，懷恩奔遁，多如抱真策，因是遷殿中少監。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000032",
@@ -499,7 +575,14 @@
   {
     "sentence_id": "HCH_008_132_000039",
     "sentence": "無幾，復代李承昭為昭義軍及磁邢節度觀察留後，加散騎常侍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李承昭",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000040",
@@ -590,6 +673,12 @@
     "sentence": "時悅窘蹙，硃滔、王武俊皆反，聯兵救悅，抱真與燧等退次魏縣。",
     "entities": [
       {
+        "text": "王武俊",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "與燧等退次魏縣",
         "label": "LOC",
         "start": 21,
@@ -607,6 +696,12 @@
     "sentence": "李懷光席捲奔命，馬燧、李芃各引兵歸鎮。",
     "entities": [
       {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "李芃各引兵歸鎮",
         "label": "LOC",
         "start": 11,
@@ -618,6 +713,12 @@
     "sentence_id": "HCH_008_132_000048",
     "sentence": "硃泚既汙宮闕，時李希烈陷大梁，李納亦反鄆州。",
     "entities": [
+      {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "李納亦反鄆州",
         "label": "LOC",
@@ -635,6 +736,12 @@
         "label": "LOC",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -698,6 +805,12 @@
         "label": "TITLE",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "盧玄卿",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -825,7 +938,14 @@
   {
     "sentence_id": "HCH_008_132_000073",
     "sentence": "營田副使盧會昌令抱真從甥元仲經潛與緘謀，其明日，將吏會集，仲經詐為抱真令曰：「吾疾甚，不能蒞職，今令緘掌軍事，諸軍善佐之。」節度副使李說及諸將吏俯首，皆曰：「諾」。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧會昌",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000074",
@@ -835,7 +955,14 @@
   {
     "sentence_id": "HCH_008_132_000075",
     "sentence": "盧會昌仍詐為抱真表，請以職事付緘。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧會昌",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000076",
@@ -880,22 +1007,49 @@
   {
     "sentence_id": "HCH_008_132_000084",
     "sentence": "既歸罪仲經，盧會昌得不坐。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧會昌",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000085",
     "sentence": "緘初謀亂，遣裨將陳榮詐以文書告成德節度使王武俊，求假財帛，武俊大怒曰：「吾與汝府公善者，冀恭王命，非同惡也。今聞已亡，孰詐令其子而不俟朝旨耶？何敢告我，況有求也！」乃囚陳榮而遣使讓緘焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王武俊",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000086",
     "sentence": "王虔休",
-    "entities": []
+    "entities": [
+      {
+        "text": "王虔休",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000087",
     "sentence": "王虔休，字君佐，汝州梁人也。",
     "entities": [
+      {
+        "text": "王虔休",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "汝州",
         "label": "LOC",
@@ -935,7 +1089,14 @@
   {
     "sentence_id": "HCH_008_132_000091",
     "sentence": "久之，澤潞節度李抱真聞名，厚以財帛招之，累授兵馬使押衙。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李抱真",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000092",
@@ -1202,12 +1363,26 @@
   {
     "sentence_id": "HCH_008_132_000118",
     "sentence": "盧從史",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧從史",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000119",
     "sentence": "盧從史，其先自元魏已來，冠冕頗盛。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧從史",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000120",
@@ -1236,7 +1411,14 @@
   {
     "sentence_id": "HCH_008_132_000121",
     "sentence": "從史少矜力，習騎射，游澤、潞間，節度使李長榮用為大將。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李長榮",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000122",
@@ -1256,7 +1438,14 @@
   {
     "sentence_id": "HCH_008_132_000125",
     "sentence": "前年丁父憂，朝旨未議起復，屬王士真卒，從史竊獻誅承宗計，以希上意，用是起授，委其成功。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王士真",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000126",
@@ -1291,7 +1480,14 @@
   {
     "sentence_id": "HCH_008_132_000132",
     "sentence": "都將烏重胤素懷忠順，乃嚴戒其軍，眾不敢動。",
-    "entities": []
+    "entities": [
+      {
+        "text": "烏重胤",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000133",
@@ -1333,7 +1529,14 @@
   {
     "sentence_id": "HCH_008_132_000139",
     "sentence": "前昭義軍節度副大使、知節度事盧從史，擢自裨將，居於大籓，不思報國之誠，每設徇身之計。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧從史",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000140",
@@ -1689,6 +1892,12 @@
         "end": 3
       },
       {
+        "text": "路嗣恭",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "河陽三城懷州",
         "label": "LOC",
         "start": 21,
@@ -1903,12 +2112,6 @@
         "label": "TME",
         "start": 0,
         "end": 2
-      },
-      {
-        "text": "李希烈陷汴州",
-        "label": "LOC",
-        "start": 4,
-        "end": 10
       },
       {
         "text": "澄遂以城",
@@ -2198,6 +2401,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "歸崇敬",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },
@@ -2267,12 +2476,26 @@
   {
     "sentence_id": "HCH_008_132_000221",
     "sentence": "李元素",
-    "entities": []
+    "entities": [
+      {
+        "text": "李元素",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000222",
     "sentence": "李元素，字大朴，蒲山公密之孫。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李元素",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000223",
@@ -2283,6 +2506,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "令狐運",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       },
       {
         "text": "會盜發洛城",
@@ -2468,6 +2697,12 @@
     "sentence": "妻族上訴，乃詔曰：「李元素病中上表，懇切披陳，雲『妻王氏，禮義殊乖，願與離絕』。初謂素有醜行，不能顯言，以其大官之家，所以令自處置。訪聞不曾告報妻族，亦無明過可書，蓋是中情不和，遂至於此。脅以王命，當日遣歸，給送之間，又至單薄。不唯王氏受辱，實亦朝情悉驚。如此理家，合當懲責。宜停官，仍令與王氏錢物，通所奏數滿五千貫。」元和五年卒，贈陝州大都督。",
     "entities": [
       {
+        "text": "李元素",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "五年",
         "label": "TME",
         "start": 162,
@@ -2495,7 +2730,20 @@
   {
     "sentence_id": "HCH_008_132_000247",
     "sentence": "史臣曰：李抱玉、李抱真，以武勇之材，兼忠義之行，有唐之良將也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李抱玉",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "李抱真",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000248",
@@ -2510,7 +2758,20 @@
   {
     "sentence_id": "HCH_008_132_000250",
     "sentence": "王虔休不黨僭命，有足可嘉；盧從史動多懷奸，自貽伊戚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王虔休",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "盧從史",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_132_000251",

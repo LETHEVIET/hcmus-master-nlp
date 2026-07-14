@@ -167,6 +167,12 @@
         "end": 4
       },
       {
+        "text": "李夷簡",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 10,
@@ -182,7 +188,14 @@
   {
     "sentence_id": "HCH_008_164_000021",
     "sentence": "十月，代許孟容為京兆尹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許孟容",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_164_000022",
@@ -282,12 +295,26 @@
   {
     "sentence_id": "HCH_008_164_000033",
     "sentence": "當王師討吳元濟，令异乘傳往江淮，賦輿大集，以至賊平，深有力焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳元濟",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_164_000034",
     "sentence": "及皇甫鎛用事，恐播大用，乃請以使務命程异領之，播守本官而已。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫鎛",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_164_000035",
@@ -316,7 +343,14 @@
   {
     "sentence_id": "HCH_008_164_000036",
     "sentence": "穆宗即位，皇甫鎛貶，播累表求還京師。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫鎛",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_164_000037",
@@ -405,7 +439,14 @@
   {
     "sentence_id": "HCH_008_164_000047",
     "sentence": "時中尉王守澄用事，播自落利權，廣求珍異，令腹心吏內結守澄，以為之助。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王守澄",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_164_000048",
@@ -421,6 +462,48 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "獨孤朗",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "張仲方",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "孔敏行",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "柳公權",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "宋申錫",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "韋仁實",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "李景讓",
+        "label": "PER",
+        "start": 39,
+        "end": 42
       }
     ]
   },
@@ -594,14 +677,7 @@
   {
     "sentence_id": "HCH_008_164_000071",
     "sentence": "宰相李吉甫鎮淮南，以監察充掌書記。",
-    "entities": [
-      {
-        "text": "宰相李吉甫鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_164_000072",
@@ -651,7 +727,14 @@
   {
     "sentence_id": "HCH_008_164_000077",
     "sentence": "詔起與同職白居易覆試，覆落者多。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白居易",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_164_000078",
@@ -1619,7 +1702,14 @@
   {
     "sentence_id": "HCH_008_164_000175",
     "sentence": "太和中，依倚鄭註，謁王守澄，為中丞歸融所劾，出為江陵少尹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王守澄",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_164_000176",
@@ -1773,6 +1863,12 @@
     "sentence": "時宰相韋保衡以拔擢之恩，事鐸尤謹，累兼刑部、吏部尚書。",
     "entities": [
       {
+        "text": "韋保衡",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 24,
@@ -1819,6 +1915,12 @@
         "end": 4
       },
       {
+        "text": "田令孜",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 39,
@@ -1835,6 +1937,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "楊知溫",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2165,16 +2273,22 @@
         "end": 17
       },
       {
-        "text": "王敬武據青州",
-        "label": "LOC",
-        "start": 18,
-        "end": 24
-      },
-      {
         "text": "周岌據許州",
         "label": "LOC",
         "start": 25,
         "end": 30
+      },
+      {
+        "text": "王重榮",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      },
+      {
+        "text": "諸葛爽",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       }
     ]
   },
@@ -2199,6 +2313,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "秦宗權",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2210,7 +2330,20 @@
   {
     "sentence_id": "HCH_008_164_000235",
     "sentence": "十軍軍容使田令孜，以內官楊復光有監護用師之功，尤忌儒臣立事，故有時溥之授。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田令孜",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "楊復光",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_164_000236",
@@ -2247,9 +2380,9 @@
     "sentence": "時楊全玫在滄州，聞鐸之來，訴於魏州樂彥貞。",
     "entities": [
       {
-        "text": "時楊全玫在滄州",
+        "text": "滄州",
         "label": "LOC",
-        "start": 0,
+        "start": 5,
         "end": 7
       },
       {
@@ -2563,7 +2696,14 @@
   {
     "sentence_id": "HCH_008_164_000277",
     "sentence": "近者，閻巨源請立紀聖功碑，陛下詳盡事宜，皆不允許。",
-    "entities": []
+    "entities": [
+      {
+        "text": "閻巨源",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_164_000278",
@@ -2627,7 +2767,20 @@
   {
     "sentence_id": "HCH_008_164_000287",
     "sentence": "前後朝臣裴武、柳公綽、白居易等，或為奸人所排陷，特加貶黜；絳每以密疏申論，皆獲寬宥。",
-    "entities": []
+    "entities": [
+      {
+        "text": "柳公綽",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "白居易",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_164_000288",
@@ -2638,6 +2791,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "王士真",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -2689,7 +2848,14 @@
   {
     "sentence_id": "HCH_008_164_000294",
     "sentence": "同列李吉甫便僻，善逢迎上意；絳梗直，多所規諫，故與吉甫不協。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_164_000295",
@@ -2757,6 +2923,18 @@
         "label": "TME",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -2799,6 +2977,12 @@
     "sentence_id": "HCH_008_164_000313",
     "sentence": "其秋，魏博節度使田季安死，其子懷諫幼弱，軍中立其大將田興，使主軍事，興卒以六州之地歸命。",
     "entities": [
+      {
+        "text": "田季安",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "興卒以六州",
         "label": "LOC",
@@ -3131,7 +3315,20 @@
   {
     "sentence_id": "HCH_008_164_000340",
     "sentence": "時宰相李逢吉、王守澄已受從諫賂，俱請以從諫留後，不能用絳言。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "王守澄",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_164_000341",
@@ -3159,6 +3356,12 @@
     "sentence_id": "HCH_008_164_000344",
     "sentence": "李逢吉佑播惡絳，乃罷絳僕射，改授太子少師，分司東都。",
     "entities": [
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -3276,7 +3479,14 @@
   {
     "sentence_id": "HCH_008_164_000358",
     "sentence": "乃並從事趙存約、薛齊俱死焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙存約",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_164_000359",
@@ -3380,12 +3590,26 @@
   {
     "sentence_id": "HCH_008_164_000366",
     "sentence": "楊於陵",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊於陵",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_164_000367",
     "sentence": "楊於陵，字達夫，弘農人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊於陵",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_164_000368",
@@ -3545,7 +3769,14 @@
   {
     "sentence_id": "HCH_008_164_000388",
     "sentence": "時李實為京兆尹，恃承恩寵，於陵與給事中許孟容俱不附協，為實媒孽，孟容改太常少卿，於陵為秘書少監。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許孟容",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_164_000389",
@@ -3624,7 +3855,14 @@
   {
     "sentence_id": "HCH_008_164_000396",
     "sentence": "元和初，以考策，升直言極諫牛僧孺等，為執政所怒，出為嶺南節度使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_164_000397",
@@ -3691,6 +3929,12 @@
         "end": 7
       },
       {
+        "text": "張仲素",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      },
+      {
         "text": "博士",
         "label": "TITLE",
         "start": 41,
@@ -3754,7 +3998,14 @@
   {
     "sentence_id": "HCH_008_164_000409",
     "sentence": "時淮西用兵，於陵用所親為唐鄧供軍使，節度使高霞寓以供軍有闕，移牒度支，於陵不為之易，其闕如舊。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高霞寓",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_164_000410",
@@ -3800,6 +4051,12 @@
     "sentence_id": "HCH_008_164_000414",
     "sentence": "會誅李師道，分其地為三鎮，朝廷思有所制置，以於陵兼御史大夫，充淄、青十二州宣慰使，還奏合旨。",
     "entities": [
+      {
+        "text": "李師道",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "分其地為三鎮",
         "label": "LOC",

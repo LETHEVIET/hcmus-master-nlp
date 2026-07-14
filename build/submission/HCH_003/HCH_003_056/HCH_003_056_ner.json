@@ -2,7 +2,20 @@
   {
     "sentence_id": "HCH_003_056_000001",
     "sentence": "魏收 魏長賢 魏季景 魏蘭根",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏長賢",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "魏蘭根",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_056_000002",
@@ -12,7 +25,20 @@
   {
     "sentence_id": "HCH_003_056_000003",
     "sentence": "魏收魏長賢魏季景子澹魏蘭根族子愷",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏長賢",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "魏蘭根",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_056_000004",
@@ -73,6 +99,12 @@
         "label": "LOC",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "李孝伯",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -282,6 +314,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "傅豎眼",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -395,7 +433,14 @@
   {
     "sentence_id": "HCH_003_056_000041",
     "sentence": "初，元顥內逼，莊帝北幸，子建謂所親盧義僖曰：「北海自絕社稷，稱籓蕭衍，吾老矣，豈能為陪臣！」遂攜家口居洛南。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧義僖",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_056_000042",
@@ -447,7 +492,14 @@
   {
     "sentence_id": "HCH_003_056_000050",
     "sentence": "子建謂姨弟盧道虔曰：「朝廷誅翦權強，凶徒尚梗，未聞有奇謀異略，恐不可濟。此乃李門禍始，吊賀無乃匆匆！」及永安之後，李氏宗族流離，或遇誅夷，如其所慮。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧道虔",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_056_000051",
@@ -488,6 +540,12 @@
         "end": 14
       },
       {
+        "text": "盧義僖",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "姨弟涇州",
         "label": "LOC",
         "start": 18,
@@ -498,6 +556,12 @@
         "label": "TITLE",
         "start": 22,
         "end": 24
+      },
+      {
+        "text": "盧道裕",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -800,6 +864,12 @@
     "sentence_id": "HCH_003_056_000095",
     "sentence": "舅崔孝芬怪而問之，收曰：「懼有晉陽之甲。」尋而神武南上，帝西入關。",
     "entities": [
+      {
+        "text": "崔孝芬",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "帝西入關",
         "label": "LOC",
@@ -1166,7 +1236,14 @@
   {
     "sentence_id": "HCH_003_056_000136",
     "sentence": "時齊將受禪，楊愔奏收置之別館，令撰禪代詔冊諸文，遣徐之才守門，不聽出。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_056_000137",
@@ -1240,6 +1317,12 @@
         "label": "ORG",
         "start": 2,
         "end": 3
+      },
+      {
+        "text": "李琰之",
+        "label": "PER",
+        "start": 36,
+        "end": 39
       }
     ]
   },
@@ -1263,7 +1346,14 @@
   {
     "sentence_id": "HCH_003_056_000146",
     "sentence": "又命崔鴻、王遵業補續焉，下訖孝明，事甚委悉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王遵業",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_056_000147",
@@ -1470,7 +1560,14 @@
   {
     "sentence_id": "HCH_003_056_000174",
     "sentence": "時太原王松年亦謗史，及斐、庶並獲罪，各被鞭配甲坊，或因以致死。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王松年",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_056_000175",
@@ -1591,7 +1688,14 @@
   {
     "sentence_id": "HCH_003_056_000190",
     "sentence": "魏太常劉芳孫女、中書郎崔肇師女，夫家坐事，帝並賜收為妻。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔肇師",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_056_000191",
@@ -1849,6 +1953,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1885,7 +1995,14 @@
   {
     "sentence_id": "HCH_003_056_000228",
     "sentence": "武平中，黃門郎顏之推以二公意問僕射祖珽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_056_000229",
@@ -1929,7 +2046,14 @@
   {
     "sentence_id": "HCH_003_056_000234",
     "sentence": "其年，又以托附陳使封孝琰，牒令其門客與行，遇昆侖舶至，得奇貨：猓然褥表、美玉盈尺等數十件。",
-    "entities": []
+    "entities": [
+      {
+        "text": "封孝琰",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_056_000235",
@@ -2365,7 +2489,20 @@
   {
     "sentence_id": "HCH_003_056_000308",
     "sentence": "收奏請趙彥深、和士開、徐之才共監，先以告士開，士開驚，辭以不學。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_056_000309",
@@ -2658,7 +2795,14 @@
   {
     "sentence_id": "HCH_003_056_000345",
     "sentence": "魏長賢，收之族叔也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏長賢",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_056_000346",
@@ -3383,7 +3527,14 @@
   {
     "sentence_id": "HCH_003_056_000446",
     "sentence": "除殿中郎、中書舍人，與李德林修國史。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_056_000447",
@@ -3593,7 +3744,14 @@
   {
     "sentence_id": "HCH_003_056_000467",
     "sentence": "魏蘭根，字蘭根，收族叔也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏蘭根",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_056_000468",
@@ -3755,12 +3913,6 @@
     "sentence_id": "HCH_003_056_000482",
     "sentence": "及蕭寶夤敗於涇州，岐州人囚蘭根降賊。",
     "entities": [
-      {
-        "text": "蕭寶夤敗於涇州",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      },
       {
         "text": "岐州",
         "label": "LOC",
@@ -4164,7 +4316,14 @@
   {
     "sentence_id": "HCH_003_056_000528",
     "sentence": "王松年、李庶等並論正家門，未為謗議，遂憑附時宰，鼓動淫刑，庶因鞭撻而終，此公之失德。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王松年",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_056_000529",

@@ -380,6 +380,12 @@
     "sentence": "時楊愔、燕子獻、可朱渾天和、宋欽道、鄭子默等以帝威望旣重，內懼權逼，請以帝為太師、司州牧、錄尚書事；長廣王湛為大司馬、錄幷省尚書事，解京畿大都督。",
     "entities": [
       {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "司州",
         "label": "LOC",
         "start": 41,
@@ -435,6 +441,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -787,6 +799,18 @@
         "label": "TITLE",
         "start": 137,
         "end": 139
+      },
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 154,
+        "end": 158
+      },
+      {
+        "text": "破六韓常",
+        "label": "PER",
+        "start": 187,
+        "end": 191
       }
     ]
   },

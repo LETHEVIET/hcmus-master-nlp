@@ -2,7 +2,32 @@
   {
     "sentence_id": "HCH_003_061_000001",
     "sentence": "王盟 獨孤信 竇熾 賀蘭祥 叱列伏龜 閻慶 史寧 權景宣",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "賀蘭祥",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "叱列伏龜",
+        "label": "PER",
+        "start": 14,
+        "end": 18
+      },
+      {
+        "text": "權景宣",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_061_000002",
@@ -12,7 +37,32 @@
   {
     "sentence_id": "HCH_003_061_000003",
     "sentence": "王盟子勱從孫誼獨孤信子羅竇熾兄子榮定毅賀蘭祥叱列伏龜閻慶子毗史寧子雄祥權景宣",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "賀蘭祥",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "叱列伏龜",
+        "label": "PER",
+        "start": 22,
+        "end": 26
+      },
+      {
+        "text": "權景宣",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_061_000004",
@@ -94,6 +144,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -117,12 +173,25 @@
   {
     "sentence_id": "HCH_003_061_000012",
     "sentence": "隋賀拔岳禽萬俊志願奴，平秦隴，常先登力戰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_061_000013",
     "sentence": "及周文帝平侯莫陳悅，除盟原州刺史。",
     "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 5,
+        "end": 9
+      },
       {
         "text": "除盟原州",
         "label": "LOC",
@@ -584,6 +653,12 @@
     "sentence": "時大塚宰宇文護執政，帝拱默無所關預。",
     "entities": [
       {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "帝拱默無所關",
         "label": "LOC",
         "start": 10,
@@ -926,7 +1001,14 @@
   {
     "sentence_id": "HCH_003_061_000091",
     "sentence": "獨孤信，雲中人也，本名如願。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_061_000092",
@@ -1034,6 +1116,12 @@
     "sentence_id": "HCH_003_061_000103",
     "sentence": "及勝弟岳為侯莫陳悅所害，勝乃令信入關，撫岳餘眾。",
     "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 5,
+        "end": 9
+      },
       {
         "text": "勝乃令信入關",
         "label": "LOC",
@@ -1162,7 +1250,14 @@
   {
     "sentence_id": "HCH_003_061_000112",
     "sentence": "東魏又遣其將高敖曹、侯景等奄至。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高敖曹",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_061_000113",
@@ -1282,6 +1377,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "元季海",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       },
       {
         "text": "洛陽",
@@ -1832,7 +1933,14 @@
   {
     "sentence_id": "HCH_003_061_000176",
     "sentence": "及信為宇文護誅，羅始見釋。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_061_000177",
@@ -1842,7 +1950,14 @@
   {
     "sentence_id": "HCH_003_061_000178",
     "sentence": "齊將獨孤永業以宗族故，哀之，為買田宅，遺以資畜。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤永業",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_061_000179",
@@ -2265,6 +2380,12 @@
     "sentence_id": "HCH_003_061_000217",
     "sentence": "坐父徙蜀十餘年，宇文護誅，始歸長安。",
     "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "長安",
         "label": "LOC",
@@ -4157,7 +4278,14 @@
   {
     "sentence_id": "HCH_003_061_000394",
     "sentence": "賀蘭祥，字盛樂，其先與魏俱起，有乞伏者，為賀蘭莫何弗，因以為氏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀蘭祥",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_061_000395",
@@ -4248,6 +4376,12 @@
     "sentence_id": "HCH_003_061_000404",
     "sentence": "從平侯莫陳悅，又迎魏孝武，以前後功封撫夷縣伯。",
     "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      },
       {
         "text": "前後功封撫夷縣",
         "label": "LOC",
@@ -4514,6 +4648,12 @@
         "label": "LOC",
         "start": 4,
         "end": 11
+      },
+      {
+        "text": "宇文貴",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -4763,6 +4903,12 @@
     "sentence_id": "HCH_003_061_000446",
     "sentence": "叱列伏龜，字摩頭陀，代郡西部人也。",
     "entities": [
+      {
+        "text": "叱列伏龜",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
       {
         "text": "代郡",
         "label": "LOC",
@@ -5972,6 +6118,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -6026,7 +6178,20 @@
   {
     "sentence_id": "HCH_003_061_000561",
     "sentence": "詔甯率軍與宇文貴、豆盧寧等討之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文貴",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "豆盧寧",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_061_000562",
@@ -6843,7 +7008,14 @@
   {
     "sentence_id": "HCH_003_061_000652",
     "sentence": "權景宣，字暉遠，天水顯親人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "權景宣",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_061_000653",
@@ -6878,6 +7050,12 @@
     "sentence_id": "HCH_003_061_000655",
     "sentence": "年十七，魏行台蕭寶夤見而奇之，表為輕車將軍。",
     "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "將軍",
         "label": "TITLE",
@@ -6992,6 +7170,12 @@
         "label": "LOC",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "元季海",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       },
       {
         "text": "屬城",
@@ -7281,6 +7465,12 @@
     "sentence": "景宣又與開府楊忠取梁將柳仲禮，拔安陸、隨郡。",
     "entities": [
       {
+        "text": "柳仲禮",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "隨郡",
         "label": "LOC",
         "start": 19,
@@ -7448,6 +7638,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "李洪遠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -7465,6 +7661,12 @@
     "sentence_id": "HCH_003_061_000713",
     "sentence": "燕公於謹征江陵，景宣別破梁司空陸法和司馬羊亮于溳水。",
     "entities": [
+      {
+        "text": "陸法和",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
       {
         "text": "司馬",
         "label": "TITLE",
@@ -7563,6 +7765,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "王士良",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "永州",
@@ -7788,6 +7996,12 @@
     "sentence": "獨孤信威申南服，化洽西州，信著遐方，光昭鄰國，雖不免其身，慶延於後，三代外戚，何其盛歟！",
     "entities": [
       {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "化洽西州",
         "label": "LOC",
         "start": 8,
@@ -7823,12 +8037,32 @@
   {
     "sentence_id": "HCH_003_061_000747",
     "sentence": "賀蘭祥、叱列伏龜、閻慶等雖階緣戚屬，各以功名自終，而毗製造之功，亦足傳于後葉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀蘭祥",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "叱列伏龜",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_061_000748",
     "sentence": "史甯、權景宣並以將帥之才，受內外之寵，總戎薄伐，著克敵之功，布政蒞人，垂稱職之譽，若此者，豈非有國之良翰歟！",
-    "entities": []
+    "entities": [
+      {
+        "text": "權景宣",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_061_000749",

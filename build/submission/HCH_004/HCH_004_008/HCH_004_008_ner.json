@@ -170,6 +170,12 @@
     "sentence": "太尉斛律光為大將軍，東安王婁叡為太尉，尚書右僕射趙彥深為左僕射。",
     "entities": [
       {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 6,
@@ -180,6 +186,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -678,6 +690,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -710,6 +728,12 @@
         "end": 24
       },
       {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 31,
@@ -726,6 +750,12 @@
         "label": "TITLE",
         "start": 46,
         "end": 48
+      },
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 55,
+        "end": 58
       }
     ]
   },
@@ -774,6 +804,12 @@
         "label": "TITLE",
         "start": 73,
         "end": 76
+      },
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 76,
+        "end": 79
       },
       {
         "text": "大將軍",
@@ -1273,6 +1309,12 @@
     "sentence": "十一月辛丑，詔乙太保斛律光為太傅，大司馬、馮翊王潤為太保，大將軍、琅邪王儼為大司馬。",
     "entities": [
       {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 18,
@@ -1386,6 +1428,12 @@
     "sentence": "己巳，乙太傅、咸陽王斛律光為右丞相，幷州刺史、右丞相、安定王賀拔仁為錄尚書事，冀州刺史、任城王湝為太師。",
     "entities": [
       {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "丞相",
         "label": "TITLE",
         "start": 15,
@@ -1456,6 +1504,12 @@
     "sentence_id": "HCH_004_008_000115",
     "sentence": "三月辛酉，以開府儀同三司徐之才為尚書左僕射。",
     "entities": [
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -1613,6 +1667,12 @@
         "end": 4
       },
       {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "修城",
         "label": "LOC",
         "start": 12,
@@ -1679,6 +1739,12 @@
         "end": 25
       },
       {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 33,
@@ -1691,6 +1757,12 @@
         "end": 42
       },
       {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 51,
@@ -1701,6 +1773,12 @@
         "label": "TITLE",
         "start": 67,
         "end": 69
+      },
+      {
+        "text": "馮子琮",
+        "label": "PER",
+        "start": 69,
+        "end": 72
       }
     ]
   },
@@ -1779,6 +1857,12 @@
         "label": "TITLE",
         "start": 22,
         "end": 24
+      },
+      {
+        "text": "馮子琮",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -1889,6 +1973,12 @@
         "end": 7
       },
       {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "丞相",
         "label": "TITLE",
         "start": 12,
@@ -1986,7 +2076,14 @@
   {
     "sentence_id": "HCH_004_008_000159",
     "sentence": "是月，周誅冢宰宇文護。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_008_000160",
@@ -2002,12 +2099,6 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
-      },
-      {
-        "text": "律光及其弟幽州",
-        "label": "LOC",
-        "start": 15,
-        "end": 22
       }
     ]
   },
@@ -2352,6 +2443,12 @@
         "label": "TITLE",
         "start": 44,
         "end": 47
+      },
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 81,
+        "end": 84
       }
     ]
   },
@@ -2387,6 +2484,12 @@
     "sentence": "癸巳，以領軍穆提婆為尚書左僕射，以侍中、中書監段孝言為右僕射。",
     "entities": [
       {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 10,
@@ -2398,6 +2501,12 @@
     "sentence_id": "HCH_004_008_000193",
     "sentence": "是月，開府儀同三司尉破胡、長孫洪略等與陳將吳明徹戰於呂梁南，大敗，破胡走以免，洪略戰沒，遂陷秦、涇二州。",
     "entities": [
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
       {
         "text": "涇二州",
         "label": "LOC",
@@ -2458,12 +2567,25 @@
   {
     "sentence_id": "HCH_004_008_000201",
     "sentence": "冬十月，陳將吳明徹陷壽陽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_008_000202",
     "sentence": "辛丑，殺侍中崔季舒、張彫虎，散騎常侍劉逖、封孝琰，黃門侍郎裴澤、郭遵。",
     "entities": [
+      {
+        "text": "封孝琰",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
       {
         "text": "侍郎",
         "label": "TITLE",
@@ -2712,7 +2834,14 @@
   {
     "sentence_id": "HCH_004_008_000231",
     "sentence": "庚辰，以司空趙彥深為司徒，斛律阿列羅為司空。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_008_000232",
@@ -2778,7 +2907,14 @@
   {
     "sentence_id": "HCH_004_008_000240",
     "sentence": "庚申，司徒趙彥深薨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_008_000241",
@@ -3022,7 +3158,14 @@
   {
     "sentence_id": "HCH_004_008_000270",
     "sentence": "其日，穆提婆降周。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_008_000271",
@@ -3143,6 +3286,12 @@
     "sentence": "又引高元海、宋士素、盧思道、李德林等，欲議禪位皇太子。",
     "entities": [
       {
+        "text": "李德林",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 24,
@@ -3240,6 +3389,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "侍郎",
@@ -3451,6 +3606,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -3507,6 +3668,12 @@
     "sentence": "初琅邪王舉兵，人告者誤云厙狄伏連反，帝曰：「此必仁威也。」又斛律光死後，諸武官舉高思好堪大將軍，帝曰：「思好喜反。」皆如所言。",
     "entities": [
       {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 44,
@@ -3537,7 +3704,14 @@
   {
     "sentence_id": "HCH_004_008_000322",
     "sentence": "任陸令萱、和士開、高阿那肱、穆提婆、韓長鸞等宰製天下，陳德信、鄧長顒、何洪珍參預機權。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_008_000323",

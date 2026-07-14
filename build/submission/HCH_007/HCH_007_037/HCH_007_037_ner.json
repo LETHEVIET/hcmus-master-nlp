@@ -27,12 +27,6 @@
         "end": 2
       },
       {
-        "text": "度使霍彥威移鎮",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      },
-      {
         "text": "青州",
         "label": "LOC",
         "start": 10,
@@ -60,6 +54,12 @@
         "label": "LOC",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -137,6 +137,12 @@
     "sentence_id": "HCH_007_037_000010",
     "sentence": "荊南高季興上言，峽內三州，請朝廷不除刺史。",
     "entities": [
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "峽內三州",
         "label": "LOC",
@@ -269,6 +275,12 @@
         "end": 4
       },
       {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "處斬新登州",
         "label": "LOC",
         "start": 12,
@@ -297,7 +309,14 @@
   {
     "sentence_id": "HCH_007_037_000017",
     "sentence": "趙在禮之據魏州，習奉詔以本軍進討，俄而帝為亂軍所劫，習即罷歸。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏",
+        "label": "ORG",
+        "start": 5,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_037_000018",
@@ -371,6 +390,12 @@
     "sentence_id": "HCH_007_037_000024",
     "sentence": "公儼不時赴任，即以霍彥威代符習，聚兵淄州，以圖進取。",
     "entities": [
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
       {
         "text": "聚兵淄州",
         "label": "LOC",
@@ -498,6 +523,12 @@
         "end": 6
       },
       {
+        "text": "婁繼英",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "刺史",
         "label": "TITLE",
         "start": 12,
@@ -607,14 +638,7 @@
   {
     "sentence_id": "HCH_007_037_000039",
     "sentence": "兩浙節度留後、靜海軍節度、嶺南西道觀察處置等使、檢校太尉、兼中書令錢元瓘加食邑。",
-    "entities": [
-      {
-        "text": "令錢元瓘加食邑",
-        "label": "LOC",
-        "start": 32,
-        "end": 39
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_037_000040",
@@ -656,6 +680,12 @@
     "sentence_id": "HCH_007_037_000042",
     "sentence": "己卯，以光祿卿羅周敬為右金吾衛大將軍，充街使。",
     "entities": [
+      {
+        "text": "羅周敬",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -719,7 +749,14 @@
   {
     "sentence_id": "HCH_007_037_000047",
     "sentence": "帝顧謂判三司任圜曰：「百僚散未？」圜奏曰：「 臣聞本朝給春冬服，遍及百僚。喪亂已來，急於軍旅，人君所賜，未能周給。今止近臣而已，外臣無所賜。」帝曰：「外臣亦吾臣也，卿宜計度。」圜遂與安重誨據品秩之差，以定春冬之賜，其後遂以為常。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 91,
+        "end": 94
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_037_000048",
@@ -741,6 +778,12 @@
         "label": "TITLE",
         "start": 55,
         "end": 57
+      },
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 57,
+        "end": 60
       }
     ]
   },
@@ -861,6 +904,12 @@
         "label": "LOC",
         "start": 11,
         "end": 17
+      },
+      {
+        "text": "盧文進",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -910,6 +959,12 @@
         "end": 5
       },
       {
+        "text": "盧文進",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "孳畜人口在平州",
         "label": "LOC",
         "start": 14,
@@ -926,6 +981,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "御史",
@@ -1004,20 +1065,19 @@
         "label": "LOC",
         "start": 31,
         "end": 37
+      },
+      {
+        "text": "馬希振",
+        "label": "PER",
+        "start": 54,
+        "end": 57
       }
     ]
   },
   {
     "sentence_id": "HCH_007_037_000062",
     "sentence": "盧文進至幽州，遣軍吏奉表來上。",
-    "entities": [
-      {
-        "text": "盧文進至幽州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_037_000063",
@@ -1208,6 +1268,12 @@
     "sentence": "壬午，靜海軍節度、安南管內觀察等使、檢校太尉、兼侍中錢元球加開府階，進食邑。",
     "entities": [
       {
+        "text": "錢元球",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      },
+      {
         "text": "進食邑",
         "label": "LOC",
         "start": 34,
@@ -1226,6 +1292,12 @@
         "end": 5
       },
       {
+        "text": "盧文進",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "三年",
         "label": "TME",
         "start": 23,
@@ -1236,7 +1308,14 @@
   {
     "sentence_id": "HCH_007_037_000075",
     "sentence": "十二月戊子，盧文進及將吏四百人見，賜鞍馬、玉帶、衣被、器玩、錢帛有差。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧文進",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_037_000076",
@@ -1260,6 +1339,12 @@
     "sentence_id": "HCH_007_037_000077",
     "sentence": "甲午，以契丹盧龍軍節度使盧文進為檢校太尉、同平章事，充滑州節度使。",
     "entities": [
+      {
+        "text": "盧文進",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
       {
         "text": "充滑州",
         "label": "LOC",

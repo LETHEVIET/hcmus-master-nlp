@@ -444,6 +444,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -532,7 +538,14 @@
   {
     "sentence_id": "HCH_004_046_000068",
     "sentence": "梁吳明徹率衆攻圍海西，基獎勵兵民，固守百餘日，軍糧且罄，戎仗亦盡，乃至削木為箭，剪紙為羽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_046_000069",
@@ -706,12 +719,26 @@
   {
     "sentence_id": "HCH_004_046_000088",
     "sentence": "崔伯謙",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔伯謙",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_046_000089",
     "sentence": "崔伯謙，字士遜，博陵人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔伯謙",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_046_000090",
@@ -1227,6 +1254,12 @@
     "sentence": "畢義雲為御史中丞，以猛暴任職，理官忌憚，莫敢有違。",
     "entities": [
       {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 4,
@@ -1360,7 +1393,14 @@
   {
     "sentence_id": "HCH_004_046_000160",
     "sentence": "釋褐開府參軍，兼行臺郎中，隨慕容紹宗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 14,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_046_000161",

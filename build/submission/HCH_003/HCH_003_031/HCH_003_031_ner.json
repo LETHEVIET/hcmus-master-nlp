@@ -17,7 +17,14 @@
   {
     "sentence_id": "HCH_003_031_000004",
     "sentence": "曾祖慶，慕容垂司空。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_031_000005",
@@ -46,7 +53,14 @@
   {
     "sentence_id": "HCH_003_031_000007",
     "sentence": "亦仕慕容垂，為太尉從事中郎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_031_000008",
@@ -2410,7 +2424,14 @@
   {
     "sentence_id": "HCH_003_031_000281",
     "sentence": "後與游明根、高閭、李沖等入議律令，親對御坐，時有陳奏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "游明根",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_031_000282",
@@ -2795,7 +2816,14 @@
   {
     "sentence_id": "HCH_003_031_000326",
     "sentence": "祖展，慕容寶黃門郎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_031_000327",
@@ -2921,14 +2949,7 @@
   {
     "sentence_id": "HCH_003_031_000338",
     "sentence": "祐曰：「印上有籀書二字，文曰'宋壽'，壽者命也，我獲其命，亦是歸我之征。」獻文初，宋義陽王昶來奔，薛安都等以五州降附，時謂祐言有驗。",
-    "entities": [
-      {
-        "text": "薛安都等以五州",
-        "label": "LOC",
-        "start": 49,
-        "end": 56
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_031_000339",
@@ -3233,7 +3254,14 @@
   {
     "sentence_id": "HCH_003_031_000374",
     "sentence": "散騎常侍徐之才館客宋景業，先為天文圖讖學，又陳山提家客楊子術有所援引，並因德正勸文宣行禪代事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_031_000375",
@@ -3312,7 +3340,14 @@
   {
     "sentence_id": "HCH_003_031_000387",
     "sentence": "徐之才、宋景業等每言卜筮雜占陰陽緯候，必宜以五月應天命。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_031_000388",
@@ -3372,6 +3407,12 @@
         "label": "TITLE",
         "start": 51,
         "end": 53
+      },
+      {
+        "text": "裴讓之",
+        "label": "PER",
+        "start": 53,
+        "end": 56
       }
     ]
   },
@@ -3409,6 +3450,12 @@
     "sentence": "德正與徐之才苦請曰：「山提先去，恐其漏泄，不果。」即命司馬子如、杜弼馳驛續入，觀察物情。",
     "entities": [
       {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 27,
@@ -3441,7 +3488,14 @@
   {
     "sentence_id": "HCH_003_031_000401",
     "sentence": "受禪日，堯難宗染赤雀以獻。",
-    "entities": []
+    "entities": [
+      {
+        "text": "堯難宗",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_031_000402",
@@ -3738,6 +3792,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "元法僧",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -4083,6 +4143,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "封隆之",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -4163,6 +4229,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "劉靈助",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -4180,6 +4252,12 @@
         "label": "LOC",
         "start": 6,
         "end": 9
+      },
+      {
+        "text": "封隆之",
+        "label": "PER",
+        "start": 62,
+        "end": 65
       }
     ]
   },
@@ -4226,6 +4304,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "李元忠",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "龍山舉兵逼其城",
@@ -4323,6 +4407,12 @@
     "sentence": "時禁園養部曲稍至千人，驟令元士弼、王思政詣賀拔岳計，又以岳兄勝為荊州刺史。",
     "entities": [
       {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "以岳兄勝為荊州",
         "label": "LOC",
         "start": 27,
@@ -4400,6 +4490,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 78,
+        "end": 81
       },
       {
         "text": "尚書",
@@ -5066,7 +5162,14 @@
   {
     "sentence_id": "HCH_003_031_000570",
     "sentence": "昂度河祭河伯曰：「河伯，水中之神；高敖曹，地上之虎。行經君所，故相決醉。」時山道峻阻，巴寇守險，昂轉鬥而進，莫有當鋒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高敖曹",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_031_000571",
@@ -5246,6 +5349,12 @@
         "label": "LOC",
         "start": 3,
         "end": 8
+      },
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -5692,6 +5801,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "李元忠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },

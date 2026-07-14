@@ -130,7 +130,14 @@
   {
     "sentence_id": "HCH_008_032_000016",
     "sentence": "所以張胄玄佩印而沸騰，劉孝孫輿棺而慟哭，俾諸後學，益用為疑。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉孝孫",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_032_000017",
@@ -152,12 +159,25 @@
   {
     "sentence_id": "HCH_008_032_000019",
     "sentence": "祖孝孫、李淳風立理駁之，仁均條答甚詳，故法行於貞觀之世。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李淳風",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_032_000020",
     "sentence": "高宗時，太史奏舊曆加時浸差，宜有改定，乃詔李淳風造《麟德曆》。",
     "entities": [
+      {
+        "text": "李淳風",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
       {
         "text": "《麟德曆》",
         "label": "TITLE",
@@ -289,6 +309,12 @@
     "sentence": "德宗時，徐承嗣造《正元曆》。",
     "entities": [
       {
+        "text": "徐承嗣",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "《正元曆》",
         "label": "TITLE",
         "start": 8,
@@ -327,6 +353,12 @@
     "sentence_id": "HCH_008_032_000035",
     "sentence": "前史取傅仁均、李淳風、南宮說、一行四家歷經，為《曆志》四卷。",
     "entities": [
+      {
+        "text": "李淳風",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "《曆志》",
         "label": "TITLE",
@@ -2466,6 +2498,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "王孝通",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2478,6 +2516,12 @@
         "label": "LOC",
         "start": 2,
         "end": 9
+      },
+      {
+        "text": "崔善為",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },

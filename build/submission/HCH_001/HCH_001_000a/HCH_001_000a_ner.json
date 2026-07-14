@@ -2615,6 +2615,12 @@
         "end": 8
       },
       {
+        "text": "方千里",
+        "label": "PER",
+        "start": 62,
+        "end": 65
+      },
+      {
         "text": "《鬼市》",
         "label": "TITLE",
         "start": 133,
@@ -3106,7 +3112,14 @@
   {
     "sentence_id": "HCH_001_000a_000494",
     "sentence": "提舶林之奇記其實。",
-    "entities": []
+    "entities": [
+      {
+        "text": "林之奇",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_001_000a_000495",

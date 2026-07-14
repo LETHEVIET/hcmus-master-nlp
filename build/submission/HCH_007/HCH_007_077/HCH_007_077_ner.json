@@ -131,14 +131,7 @@
   {
     "sentence_id": "HCH_007_077_000011",
     "sentence": "甲申，荊南節度使高從誨加食邑實封。",
-    "entities": [
-      {
-        "text": "使高從誨加食邑",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_077_000012",
@@ -160,7 +153,14 @@
   {
     "sentence_id": "HCH_007_077_000014",
     "sentence": "乙未，御劄曰：「曾有宣示百官，令進封事，今據到者未及十人。朕雖無德，自行敕後已是數月，至於假手於人，也合各有一件事敷奏。食祿於朝，豈當如是！言而不用，朕所甘心；用而不言，誰之責也。」丙申，制武清軍節度使馬希萼改威武軍節度使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬希萼",
+        "label": "PER",
+        "start": 101,
+        "end": 104
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_077_000015",
@@ -183,6 +183,12 @@
         "label": "LOC",
         "start": 241,
         "end": 244
+      },
+      {
+        "text": "史匡翰",
+        "label": "PER",
+        "start": 245,
+        "end": 248
       },
       {
         "text": "八年",
@@ -288,22 +294,50 @@
   {
     "sentence_id": "HCH_007_077_000024",
     "sentence": "戊子，宣武軍節度、侍衛親軍馬步軍都指揮使、廣晉府行營都招討使楊光遠加兼中書令。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_077_000025",
     "sentence": "昭義節度使、侍衛馬軍都指揮使、廣晉府行營都排陣使杜重威，河陽節度使兼奉國左右廂都指揮使、廣晉府行營馬步都虞候侯益，並加檢校太傅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_077_000026",
     "sentence": "鳳翔節度使、檢校太師、兼中書令、岐王李從嚴進封秦王，平盧軍節度使、檢校太尉、兼中書令、臨淄王王建立進封東平王。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王建立",
+        "label": "PER",
+        "start": 46,
+        "end": 49
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_077_000027",
     "sentence": "甲午，泰寧軍節度使李從溫、西京留守京兆尹李周、歸德軍節度使趙在禮，並加兼侍中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_077_000028",
@@ -343,6 +377,12 @@
     "sentence_id": "HCH_007_077_000032",
     "sentence": "庚申，以楊光遠男承祚為檢校工部尚書、左威衛將軍、駙馬都尉。",
     "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -482,6 +522,12 @@
         "label": "LOC",
         "start": 38,
         "end": 42
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 70,
+        "end": 73
       },
       {
         "text": "並改鄉",
@@ -633,6 +679,12 @@
     "sentence": "宰臣趙瑩、桑維翰、李崧各改鄉里名號。",
     "entities": [
       {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "李崧各改鄉",
         "label": "LOC",
         "start": 9,
@@ -644,12 +696,6 @@
     "sentence_id": "HCH_007_077_000051",
     "sentence": "荊南節度使高從誨本貫汴州浚儀縣王畿鄉表節東坊，改為擁旌鄉浴鳳裏。",
     "entities": [
-      {
-        "text": "高從誨本貫汴州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      },
       {
         "text": "浚儀縣王畿鄉",
         "label": "LOC",
@@ -804,6 +850,12 @@
         "end": 2
       },
       {
+        "text": "王建立",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "王仁翟乞放歸鄉",
         "label": "LOC",
         "start": 14,
@@ -865,6 +917,12 @@
         "label": "TITLE",
         "start": 30,
         "end": 32
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       }
     ]
   },
@@ -957,7 +1015,14 @@
   {
     "sentence_id": "HCH_007_077_000076",
     "sentence": "遣宣徽南院使劉處讓權知魏府軍府事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉處讓",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_077_000077",
@@ -1072,6 +1137,12 @@
         "end": 469
       },
       {
+        "text": "藥元福",
+        "label": "PER",
+        "start": 482,
+        "end": 485
+      },
+      {
         "text": "深州",
         "label": "LOC",
         "start": 491,
@@ -1102,6 +1173,12 @@
         "end": 536
       },
       {
+        "text": "李彥珣",
+        "label": "PER",
+        "start": 536,
+        "end": 539
+      },
+      {
         "text": "坊州",
         "label": "LOC",
         "start": 545,
@@ -1123,17 +1200,38 @@
   {
     "sentence_id": "HCH_007_077_000079",
     "sentence": "庚午，遣客省使李守貞押器幣賜魏府立功將校。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_077_000080",
     "sentence": "辛未，以魏府招討使楊光遠檢校太師、兼中書令，行廣晉尹，充天雄軍節度使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_077_000081",
     "sentence": "十月乙亥，福建節度使王繼恭遣使貢方物。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王繼恭",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_077_000082",
@@ -1248,6 +1346,12 @@
         "end": 293
       },
       {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 293,
+        "end": 296
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 307,
@@ -1293,7 +1397,14 @@
   {
     "sentence_id": "HCH_007_077_000089",
     "sentence": "以前天平軍節度使、檢校太尉、同平章事安審琦為晉昌軍節度使，行京兆尹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_077_000090",
@@ -1316,6 +1427,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       },
       {
         "text": "尚書",
@@ -1346,7 +1463,14 @@
   {
     "sentence_id": "HCH_007_077_000093",
     "sentence": "庚子，楊光遠朝覲到闕，對於便殿，錫賫甚厚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_077_000094",
@@ -1368,6 +1492,12 @@
         "label": "LOC",
         "start": 6,
         "end": 9
+      },
+      {
+        "text": "錢元瓘",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1465,6 +1595,12 @@
     "sentence": "以威武軍節度、福建管內觀察處置等使王繼恭為特進、檢校太傅，仍封臨海郡王。",
     "entities": [
       {
+        "text": "王繼恭",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "仍封臨海郡",
         "label": "LOC",
         "start": 29,
@@ -1475,7 +1611,14 @@
   {
     "sentence_id": "HCH_007_077_000103",
     "sentence": "以魏博節度使楊光遠為守太尉、洛京留守，兼河陽節度使，判六軍諸衛事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_077_000104",
@@ -1601,6 +1744,12 @@
     "sentence": "以西京留守高行周為廣晉尹、鄴都留守；廣晉府行營中軍使、貝州防禦使王庭允加檢校太傅，充相州彰德軍節度使；廣晉府行營步軍都指揮使、右神武統軍王周為貝州永清軍節度使。",
     "entities": [
       {
+        "text": "高行周",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "貝州",
         "label": "LOC",
         "start": 27,
@@ -1641,6 +1790,24 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 49,
+        "end": 52
+      },
+      {
+        "text": "劉知遠",
+        "label": "PER",
+        "start": 78,
+        "end": 81
       }
     ]
   },

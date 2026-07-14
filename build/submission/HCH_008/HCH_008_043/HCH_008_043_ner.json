@@ -8125,7 +8125,14 @@
   {
     "sentence_id": "HCH_008_043_001029",
     "sentence": "初用人皆輕，貞觀末，李義府為之，自是用士人為之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_043_001030",
@@ -8946,7 +8953,26 @@
   {
     "sentence_id": "HCH_008_043_001142",
     "sentence": "永淳中，始詔郭正一、郭待舉、魏玄同等，與中書門下同承受進旨平章事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭正一",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "郭待舉",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "魏玄同",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_043_001143",
@@ -8982,10 +9008,22 @@
         "end": 9
       },
       {
+        "text": "張文瓘",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "戴至德",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -9009,6 +9047,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "劉齊賢",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -9640,6 +9684,18 @@
         "label": "ORG",
         "start": 9,
         "end": 10
+      },
+      {
+        "text": "褚無量",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "馬懷素",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -9682,6 +9738,18 @@
         "label": "ORG",
         "start": 6,
         "end": 7
+      },
+      {
+        "text": "褚無量",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "馬懷素",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -9817,6 +9885,12 @@
         "label": "TME",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -10042,22 +10116,92 @@
   {
     "sentence_id": "HCH_008_043_001300",
     "sentence": "武德、貞觀時，有溫大雅、魏徵、李百藥、岑文本、許敬宗、褚遂良。",
-    "entities": []
+    "entities": [
+      {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_043_001301",
     "sentence": "永徽後，有許敬宗、上官儀，皆召入禁中驅使，未有名目。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "上官儀",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_043_001302",
     "sentence": "乾封中，劉懿之劉禕之兄弟、周思茂、元萬頃、範履冰，皆以文詞召入待詔，常於北門候進止，時號北門學士。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉懿之",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "劉禕之",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "周思茂",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "元萬頃",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_043_001303",
     "sentence": "天后時，蘇味道、韋承慶，皆待詔禁中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇味道",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "韋承慶",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_043_001304",
@@ -10067,12 +10211,32 @@
   {
     "sentence_id": "HCH_008_043_001305",
     "sentence": "睿宗時、薛稷、賈膺福、崔湜，又代其任。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賈膺福",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_043_001306",
     "sentence": "玄宗即位，張說，陸堅、張九齡、徐安貞、張垍等，召入禁中，謂之翰林待詔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張九齡",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "徐安貞",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_043_001307",

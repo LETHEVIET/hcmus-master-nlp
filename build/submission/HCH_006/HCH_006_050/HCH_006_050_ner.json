@@ -519,7 +519,14 @@
   {
     "sentence_id": "HCH_006_050_000081",
     "sentence": "善灌夫、鄭當時及宗正劉棄疾。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭當時",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_050_000082",
@@ -653,6 +660,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -734,7 +747,14 @@
   {
     "sentence_id": "HCH_006_050_000108",
     "sentence": "淮南王謀反，憚黯，曰：「黯好直諫，守節死義；至說公孫弘等，如發蒙耳。」",
-    "entities": []
+    "entities": [
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_050_000109",
@@ -744,7 +764,14 @@
   {
     "sentence_id": "HCH_006_050_000110",
     "sentence": "始黯列九卿矣，而公孫弘、張湯為小吏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_050_000111",
@@ -995,12 +1022,26 @@
   {
     "sentence_id": "HCH_006_050_000138",
     "sentence": "鄭當時",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭當時",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_050_000139",
     "sentence": "鄭當時字莊，陳人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭當時",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_050_000140",
@@ -1218,7 +1259,14 @@
   {
     "sentence_id": "HCH_006_050_000173",
     "sentence": "贊曰：張釋之之守法，馮唐之論將，汲黯之正直，鄭當時之推士，不如是，亦何以成名哉！",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭當時",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_050_000174",

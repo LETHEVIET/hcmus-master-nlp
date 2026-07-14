@@ -139,12 +139,6 @@
         "label": "LOC",
         "start": 3,
         "end": 6
-      },
-      {
-        "text": "使劉知俊為潞州",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
       }
     ]
   },
@@ -162,6 +156,12 @@
     "sentence_id": "HCH_007_004_000018",
     "sentence": "丙申，招討使劉知俊上章請車駕還東京，蓋小郡湫隘，非久駐蹕之所。",
     "entities": [
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "蓋小郡",
         "label": "LOC",
@@ -438,7 +438,14 @@
   {
     "sentence_id": "HCH_007_004_000049",
     "sentence": "軍前行營都將康懷英、孫海金以下主將四十三人，於右銀台門進狀待罪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_004_000050",
@@ -524,6 +531,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -908,7 +921,14 @@
   {
     "sentence_id": "HCH_007_004_000093",
     "sentence": "乙丑，六軍統軍牛存節、黃文靖各領所部將士赴行在。",
-    "entities": []
+    "entities": [
+      {
+        "text": "牛存節",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_004_000094",
@@ -1440,6 +1460,12 @@
         "end": 67
       },
       {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 70,
+        "end": 73
+      },
+      {
         "text": "延州",
         "label": "LOC",
         "start": 75,
@@ -1559,6 +1585,12 @@
     "sentence": "制：易定節度使王處直進封北平王，福建節度使王審知封閩王，廣州節度使劉隱封南平王，同州節度使劉知俊封大彭郡王，山南東道節度使楊師厚封宏農郡王。",
     "entities": [
       {
+        "text": "王審知",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "廣州",
         "label": "LOC",
         "start": 28,
@@ -1569,12 +1601,6 @@
         "label": "LOC",
         "start": 40,
         "end": 42
-      },
-      {
-        "text": "劉知俊封大彭郡",
-        "label": "LOC",
-        "start": 45,
-        "end": 52
       },
       {
         "text": "楊師厚封宏農郡",
@@ -1639,10 +1665,10 @@
         "end": 7
       },
       {
-        "text": "使劉知俊據本郡",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -1656,6 +1682,12 @@
     "sentence": "活捉得劉知俊者，賞錢一萬貫文，便授忠武軍節度使，並賜莊宅各一所；如活捉得劉知浣者，賞錢一千貫文，便與除刺史，有官者超轉三階，無官者特授兵部尚書；如活捉得劉知俊骨肉及近上都將並梟送闕廷者，賞賜有差。",
     "entities": [
       {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "刺史",
         "label": "TITLE",
         "start": 51,
@@ -1666,6 +1698,12 @@
         "label": "TITLE",
         "start": 69,
         "end": 71
+      },
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 76,
+        "end": 79
       }
     ]
   },
@@ -1685,6 +1723,12 @@
     "sentence_id": "HCH_007_004_000166",
     "sentence": "劉知俊弟內直右保勝指揮使知浣自洛奔至潼關，右龍虎軍十將張溫以上二十二人於潼關擒獲劉知浣，送至行在。",
     "entities": [
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "浣自洛奔至潼關",
         "label": "LOC",
@@ -1923,7 +1967,14 @@
   {
     "sentence_id": "HCH_007_004_000183",
     "sentence": "匪躬嘗為劉知俊判官，知俊反，不偕行，為亂兵所害。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_004_000184",

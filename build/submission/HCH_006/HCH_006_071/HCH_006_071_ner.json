@@ -2,17 +2,44 @@
   {
     "sentence_id": "HCH_006_071_000001",
     "sentence": "雋不疑 疏廣 于定國 薛廣德 平當 彭宣",
-    "entities": []
+    "entities": [
+      {
+        "text": "雋不疑",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "薛廣德",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_071_000002",
     "sentence": "雋不疑",
-    "entities": []
+    "entities": [
+      {
+        "text": "雋不疑",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_071_000003",
     "sentence": "雋不疑字曼倩，勃海人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "雋不疑",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_071_000004",
@@ -310,7 +337,14 @@
   {
     "sentence_id": "HCH_006_071_000031",
     "sentence": "後趙廣漢為京兆尹，言：「我禁奸止邪，行於吏民，至於朝廷事，不及不疑遠甚。」廷尉驗治何人，竟得奸詐。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙廣漢",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_071_000032",
@@ -929,6 +963,12 @@
     "sentence": "時陳萬年為御史大夫，與定國並位八年，論議無所拂。",
     "entities": [
       {
+        "text": "陳萬年",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 5,
@@ -1181,12 +1221,25 @@
   {
     "sentence_id": "HCH_006_071_000105",
     "sentence": "薛廣德",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛廣德",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_071_000106",
     "sentence": "薛廣德字長卿，沛郡相人也。",
     "entities": [
+      {
+        "text": "薛廣德",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "沛郡",
         "label": "LOC",
@@ -1217,6 +1270,12 @@
     "sentence_id": "HCH_006_071_000108",
     "sentence": "蕭望之為御史大夫，除廣德為屬，數與論議，器之，薦廣德經行宜充本朝。",
     "entities": [
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -1445,7 +1504,14 @@
   {
     "sentence_id": "HCH_006_071_000124",
     "sentence": "文雅雖不能及蕭望之、匡衡，然指意略同。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_071_000125",
@@ -1874,7 +1940,14 @@
   {
     "sentence_id": "HCH_006_071_000159",
     "sentence": "贊曰：雋不疑學以從政，臨事不惑，遂立名跡，終始可述。",
-    "entities": []
+    "entities": [
+      {
+        "text": "雋不疑",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_071_000160",
@@ -1889,14 +1962,7 @@
   {
     "sentence_id": "HCH_006_071_000162",
     "sentence": "薛廣德保縣車之榮，平當逡遁有恥，彭宣見險而止，異乎「苟患失之」者矣。",
-    "entities": [
-      {
-        "text": "薛廣德保縣",
-        "label": "LOC",
-        "start": 0,
-        "end": 5
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_006_071_000163",

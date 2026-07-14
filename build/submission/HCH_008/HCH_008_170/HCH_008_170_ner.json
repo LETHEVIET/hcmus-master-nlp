@@ -88,6 +88,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "田季安",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -211,7 +217,14 @@
   {
     "sentence_id": "HCH_008_170_000025",
     "sentence": "宰相武元衡等以理開悟，帝怒不解。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武元衡",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000026",
@@ -249,7 +262,14 @@
   {
     "sentence_id": "HCH_008_170_000030",
     "sentence": "既還，帝問諸將之才，度曰：「臣觀李光顏見義能勇，終有所成。」不數日，光顏奏大破賊軍於時曲，帝尤嘆度之知人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李光顏",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000031",
@@ -260,6 +280,24 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "李師道",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "武元衡",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -410,19 +448,20 @@
         "label": "LOC",
         "start": 3,
         "end": 5
-      },
-      {
-        "text": "霞寓兵敗於鐵城",
-        "label": "LOC",
-        "start": 13,
-        "end": 20
       }
     ]
   },
   {
     "sentence_id": "HCH_008_170_000051",
     "sentence": "先是，詔群臣各獻誅吳元濟可否之狀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳元濟",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000052",
@@ -465,6 +504,12 @@
         "end": 3
       },
       {
+        "text": "李光顏",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "四年",
         "label": "TME",
         "start": 22,
@@ -475,7 +520,14 @@
   {
     "sentence_id": "HCH_008_170_000059",
     "sentence": "宰相李逢吉、王涯等三人，以勞師弊賦，意欲罷兵，見上互陳利害。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000060",
@@ -490,7 +542,14 @@
   {
     "sentence_id": "HCH_008_170_000062",
     "sentence": "度復奏曰：「臣昨見吳元濟乞降表，料此逆賊勢實窘蹙。但諸將不一，未能迫之，故未降耳。若臣自赴行營，則諸將各欲立功以固恩寵，破賊必矣！」上然之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳元濟",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000063",
@@ -679,6 +738,18 @@
         "label": "TITLE",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "李正封",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "text": "李宗閔",
+        "label": "PER",
+        "start": 51,
+        "end": 54
       }
     ]
   },
@@ -761,12 +832,38 @@
   {
     "sentence_id": "HCH_008_170_000099",
     "sentence": "上以李逢吉與度不協，乃罷知政事，出為劍南東川節度。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000100",
     "sentence": "既離京，淮西行營大將李光顏、烏重胤謂監軍梁守謙曰：「若俟度至而有功，即非我利。可疾戰，先事立功。」是月六日，將出兵，與賊戰於賈店，為賊所敗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李光顏",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "烏重胤",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "梁守謙",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000101",
@@ -816,6 +913,12 @@
         "label": "LOC",
         "start": 14,
         "end": 19
+      },
+      {
+        "text": "吳元濟",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -921,6 +1024,12 @@
     "sentence": "上欲盡誅元濟舊將，封二劍以授梁守謙，使往蔡州。",
     "entities": [
       {
+        "text": "梁守謙",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "使往蔡州",
         "label": "LOC",
         "start": 18,
@@ -972,12 +1081,26 @@
   {
     "sentence_id": "HCH_008_170_000125",
     "sentence": "憲宗以淮西賊平，因功臣李光顏等來朝，欲開內宴，詔六軍使修麟德殿之東廊。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李光顏",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000126",
     "sentence": "軍使張奉國以公費不足，出私財以助用，訴於執政。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張奉國",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000127",
@@ -1068,7 +1191,14 @@
   {
     "sentence_id": "HCH_008_170_000140",
     "sentence": "初，淮、蔡既平，鎮、冀王承宗甚懼。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000141",
@@ -1083,7 +1213,14 @@
   {
     "sentence_id": "HCH_008_170_000143",
     "sentence": "故承宗求援於田弘正，由度使客諷動之，故兵不血刃，而承宗鼠伏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田弘正",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000144",
@@ -1094,13 +1231,32 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "李師道",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "田弘正",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       }
     ]
   },
   {
     "sentence_id": "HCH_008_170_000145",
     "sentence": "弘正奏請取黎陽渡河，會李光顏等軍齊進。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李光顏",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000146",
@@ -1165,16 +1321,10 @@
         "end": 9
       },
       {
-        "text": "張弘靖為幽州",
-        "label": "LOC",
-        "start": 11,
-        "end": 17
-      },
-      {
-        "text": "田弘正於鎮州",
-        "label": "LOC",
-        "start": 21,
-        "end": 27
+        "text": "王廷湊",
+        "label": "PER",
+        "start": 34,
+        "end": 37
       },
       {
         "text": "詔度以本官充鎮",
@@ -1192,7 +1342,20 @@
   {
     "sentence_id": "HCH_008_170_000153",
     "sentence": "雖李光顏、烏重胤等稱為名將，以十數萬兵擊賊，無尺寸之功。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李光顏",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "烏重胤",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000154",
@@ -1224,7 +1387,14 @@
   {
     "sentence_id": "HCH_008_170_000158",
     "sentence": "時翰林學士元稹，交結內官，求為宰相，與知樞密魏弘簡為刎頸之交。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏弘簡",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000159",
@@ -1479,7 +1649,14 @@
   {
     "sentence_id": "HCH_008_170_000202",
     "sentence": "穆宗雖不悅，雖懼大臣正議，乃以魏弘簡為弓箭庫使，罷元稹內職。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏弘簡",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000203",
@@ -1589,6 +1766,18 @@
     "sentence": "時朱克融、王廷湊雖受朝廷節鉞，未解深州之圍。",
     "entities": [
       {
+        "text": "朱克融",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "王廷湊",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "未解深州",
         "label": "LOC",
         "start": 15,
@@ -1634,6 +1823,12 @@
         "label": "LOC",
         "start": 2,
         "end": 9
+      },
+      {
+        "text": "牛元翼",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -1693,6 +1888,12 @@
         "label": "LOC",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "王智興",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -1716,7 +1917,14 @@
   {
     "sentence_id": "HCH_008_170_000233",
     "sentence": "度與李逢吉素不協。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000234",
@@ -1733,12 +1941,26 @@
   {
     "sentence_id": "HCH_008_170_000235",
     "sentence": "度既復知政事，而魏弘簡、劉承偕之黨在禁中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏弘簡",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000236",
     "sentence": "逢吉用族子仲言之謀，因醫人鄭註與中尉王守澄交結，內官皆為之助。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王守澄",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000237",
@@ -1755,7 +1977,14 @@
   {
     "sentence_id": "HCH_008_170_000238",
     "sentence": "詔左僕射韓臯、給事中鄭覃與李逢吉三人鞫於方之獄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000239",
@@ -1772,6 +2001,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -1779,6 +2014,18 @@
     "sentence_id": "HCH_008_170_000240",
     "sentence": "自是，逢吉之黨李仲言、張又新、李續等，內結中官，外扇朝士，立朋黨以沮度，時號「八關十六子」，皆交結相關之人數也。",
     "entities": [
+      {
+        "text": "李仲言",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "張又新",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "八關",
         "label": "LOC",
@@ -1807,6 +2054,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "牛元翼",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -1819,6 +2072,12 @@
         "label": "LOC",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "王廷湊",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -1842,7 +2101,14 @@
   {
     "sentence_id": "HCH_008_170_000246",
     "sentence": "翰林學士韋處厚上言曰：",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋處厚",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000247",
@@ -1926,7 +2192,14 @@
   {
     "sentence_id": "HCH_008_170_000260",
     "sentence": "臣與李逢吉素無讎嫌，臣嘗被裴度因事貶黜。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000261",
@@ -1975,6 +2248,12 @@
         "label": "LOC",
         "start": 14,
         "end": 19
+      },
+      {
+        "text": "吳元濟",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -2027,7 +2306,20 @@
   {
     "sentence_id": "HCH_008_170_000271",
     "sentence": "而奸邪之黨，使衛尉卿劉遵古從人安再榮告事，言武昭欲謀害李逢吉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉遵古",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000272",
@@ -2082,6 +2374,12 @@
         "label": "ORG",
         "start": 3,
         "end": 4
+      },
+      {
+        "text": "吳元濟",
+        "label": "PER",
+        "start": 76,
+        "end": 79
       }
     ]
   },
@@ -2124,6 +2422,12 @@
         "end": 8
       },
       {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "洛陽",
         "label": "LOC",
         "start": 186,
@@ -2152,6 +2456,12 @@
         "label": "TME",
         "start": 62,
         "end": 64
+      },
+      {
+        "text": "史憲誠",
+        "label": "PER",
+        "start": 111,
+        "end": 114
       }
     ]
   },
@@ -2224,7 +2534,14 @@
   {
     "sentence_id": "HCH_008_170_000294",
     "sentence": "時滄景節度使李全略死，其子同捷竊弄兵柄，以求繼襲。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李全略",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000295",
@@ -2453,7 +2770,20 @@
   {
     "sentence_id": "HCH_008_170_000329",
     "sentence": "而後進宰相李宗閔、牛僧孺等不悅其所為，故因度謝病罷相位，復出為襄陽節度。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李宗閔",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000330",
@@ -2510,7 +2840,14 @@
   {
     "sentence_id": "HCH_008_170_000335",
     "sentence": "十一月，誅李訓、王涯、賈餗、舒元輿等四宰相，其親屬門人從坐者數十百人；下獄訊劾，欲加流竄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "舒元輿",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000336",
@@ -2552,7 +2889,20 @@
   {
     "sentence_id": "HCH_008_170_000342",
     "sentence": "度視事之隙，與詩人白居易、劉禹錫酣宴終日，高歌放言，以詩酒琴書自樂，當時名士，皆從之遊。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白居易",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "劉禹錫",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000343",
@@ -2708,6 +3058,12 @@
     "sentence_id": "HCH_008_170_000366",
     "sentence": "時威望德業，侔於郭子儀，出入中外，以身系國之安危、時之輕重者二十年。",
     "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "二十年",
         "label": "TME",
@@ -2975,7 +3331,14 @@
   {
     "sentence_id": "HCH_008_170_000385",
     "sentence": "始得杜邠公，用高崇文誅劉辟。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高崇文",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_170_000386",

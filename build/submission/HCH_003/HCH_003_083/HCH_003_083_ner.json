@@ -7,7 +7,14 @@
   {
     "sentence_id": "HCH_003_083_000002",
     "sentence": "溫子升　荀濟　祖鴻勳　李廣　樊遜　荀士遜　王褒　庾信　顏之推 弟:之儀 虞世基　柳䛒　許善心　李文博　明克讓　劉臻　諸葛潁　王貞　虞綽　王胄　庾自直　潘徽　常德志　尹式　劉善經　祖君彥　孔德紹　劉斌",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_083_000003",
@@ -316,7 +323,14 @@
   {
     "sentence_id": "HCH_003_083_000049",
     "sentence": "其李廣、樊遜、李德林、盧詢祖、盧思道始以文章著名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_083_000050",
@@ -345,6 +359,12 @@
     "sentence": "及在武平，李若、荀士遜、李德林、薛道衡並爲中書侍郎，典司綸綍。",
     "entities": [
       {
+        "text": "李德林",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 23,
@@ -372,6 +392,12 @@
         "label": "LOC",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -407,6 +433,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -419,6 +451,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "韋道遜",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "太子",
@@ -463,10 +501,22 @@
     "sentence": "復命散騎常侍封孝琰、前樂陵太守鄭元禮、衞尉少卿杜台卿、通直散騎常侍楊訓、前南兗州長史羊肅、通直散騎侍郎馬元熙、並省三公郎中劉瑉、開府行參軍李師上、溫君悠入館，亦令撰書。",
     "entities": [
       {
+        "text": "封孝琰",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "太守",
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "鄭元禮",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       },
       {
         "text": "前南兗州",
@@ -503,6 +553,12 @@
         "label": "TITLE",
         "start": 27,
         "end": 29
+      },
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -601,7 +657,14 @@
   {
     "sentence_id": "HCH_003_083_000068",
     "sentence": "其外如廣平宋孝王、信都劉善經輩三數人，論其才性，入館諸賢亦十三四不逮之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋孝王",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_083_000069",
@@ -786,6 +849,12 @@
     "sentence": "時之文人，見稱當世者，則齊人范陽盧思道、安平李德林、河東薛道衡、趙郡李元操、钜鹿魏澹，陳人會稽虞世基、河東柳䛒、高陽許善心等，或鷹揚河朔，或獨步漢南，俱騁龍光，並驅雲路矣。",
     "entities": [
       {
+        "text": "李德林",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
         "text": "趙郡",
         "label": "LOC",
         "start": 32,
@@ -822,6 +891,12 @@
         "end": 6
       },
       {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
         "text": "《 文苑傳 》",
         "label": "TITLE",
         "start": 28,
@@ -845,6 +920,12 @@
     "sentence_id": "HCH_003_083_000098",
     "sentence": "顏之推竟從齊入周，故列在王、庾之下。",
     "entities": [
+      {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "周",
         "label": "ORG",
@@ -1233,6 +1314,18 @@
     "sentence": "濟陰王暉業嘗云：「江左文人，宋有顏延之、謝靈運，梁有沈約、任昉，我子升足以陵顏轢謝，含任吐沈。」楊遵彥作《文德論》，以爲古今辭人皆負才遺行，澆薄險忌，唯邢子才、王元景、溫子升彬彬有德素。",
     "entities": [
       {
+        "text": "顏延之",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "謝靈運",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "《文德論》",
         "label": "TITLE",
         "start": 52,
@@ -1454,12 +1547,6 @@
         "label": "LOC",
         "start": 5,
         "end": 8
-      },
-      {
-        "text": "盧文符並爲州",
-        "label": "LOC",
-        "start": 8,
-        "end": 14
       }
     ]
   },
@@ -1613,7 +1700,14 @@
   {
     "sentence_id": "HCH_003_083_000193",
     "sentence": "嘗薦畢義雲于崔暹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_083_000194",
@@ -1699,7 +1793,14 @@
   {
     "sentence_id": "HCH_003_083_000206",
     "sentence": "仍薦之於右僕射崔暹，與遼東李廣、勃海封孝琰等爲暹賓客。",
-    "entities": []
+    "entities": [
+      {
+        "text": "封孝琰",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_083_000207",
@@ -2437,7 +2538,14 @@
   {
     "sentence_id": "HCH_003_083_000271",
     "sentence": "初，元帝平侯景及禽武陵王紀後，以建鄴凋殘，時江陵殷盛，便欲安之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武陵王紀",
+        "label": "PER",
+        "start": 9,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_083_000272",
@@ -2458,6 +2566,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "胡僧祐",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       },
       {
         "text": "尚書",
@@ -2527,6 +2641,12 @@
     "sentence": "褒與王克、劉玨、宗懍、殷不害等數十人俱至長安，周文喜曰：「昔平吳之利，二陸而已；今定楚之功，群賢畢至，可謂過之矣。」又謂褒及王克曰：「吾即王氏甥也，卿等並吾之舅氏，當以親戚爲情，勿以去鄉介意。」於是授褒及殷不害等車騎大將軍、儀同三司。",
     "entities": [
       {
+        "text": "殷不害",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "長安",
         "label": "LOC",
         "start": 20,
@@ -2537,6 +2657,12 @@
         "label": "LOC",
         "start": 89,
         "end": 93
+      },
+      {
+        "text": "殷不害",
+        "label": "PER",
+        "start": 102,
+        "end": 105
       },
       {
         "text": "大將軍",
@@ -2945,7 +3071,14 @@
   {
     "sentence_id": "HCH_003_083_000327",
     "sentence": "武帝唯放王克、殷不害等，信及褒並惜而不遣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "殷不害",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_083_000328",
@@ -3045,12 +3178,26 @@
   {
     "sentence_id": "HCH_003_083_000339",
     "sentence": "顏之推",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_083_000340",
     "sentence": "顏之推，字介，琅邪臨沂人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_083_000341",
@@ -3855,6 +4002,12 @@
         "end": 27
       },
       {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 33,
@@ -4635,6 +4788,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 5
+      },
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -4704,7 +4863,14 @@
   {
     "sentence_id": "HCH_003_083_000539",
     "sentence": "後數月，述譖善心曰：「陳叔寶卒，善心共周羅碶、虞世基、袁充、蔡徵等同往送葬。善心爲祭文，謂爲『陛下』。敢於今日加叔寶尊號。」召問有實，自援古例，事得釋，而甚惡之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳叔寶",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_083_000540",
@@ -6004,7 +6170,14 @@
   {
     "sentence_id": "HCH_003_083_000690",
     "sentence": "周塚宰宇文護辟爲中外府記室，軍書羽檄，多成其手。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_083_000691",
@@ -6665,7 +6838,14 @@
   {
     "sentence_id": "HCH_003_083_000762",
     "sentence": "帝令大理卿鄭善果窮理其事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭善果",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_083_000763",
@@ -7534,7 +7714,14 @@
   {
     "sentence_id": "HCH_003_083_000872",
     "sentence": "王褒、庾信、顏之推、虞世基、柳䛒、許善心、明克讓、劉臻、王貞、虞綽、王胄等，並極南土譽望，又加之以才名，其爲貴顯，固其宜也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_083_000873",

@@ -2,17 +2,43 @@
   {
     "sentence_id": "HCH_008_113_000001",
     "sentence": "○苗晉卿裴冕裴遵慶子向向子寅寅子樞",
-    "entities": []
+    "entities": [
+      {
+        "text": "苗晉卿",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "裴遵慶",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_113_000002",
     "sentence": "苗晉卿",
-    "entities": []
+    "entities": [
+      {
+        "text": "苗晉卿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_113_000003",
     "sentence": "苗晉卿，上黨壺關人。",
     "entities": [
+      {
+        "text": "苗晉卿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "上黨壺關",
         "label": "LOC",
@@ -190,6 +216,12 @@
     "sentence": "李林甫為尚書，專任廟堂，銓事唯委晉卿及同列侍郎宋遙主之。",
     "entities": [
       {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 4,
@@ -234,7 +266,14 @@
   {
     "sentence_id": "HCH_008_113_000022",
     "sentence": "有蘇孝慍者，嘗為范陽薊令，事安祿山，具其事告之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_113_000023",
@@ -406,6 +445,12 @@
     "sentence": "屬祿山叛逆，楊國忠以晉卿有時望，將抑之，乃奏云：「宜以大臣鎮東道。」遂出為陜州刺史、陜虢兩州防禦使。",
     "entities": [
       {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "宜以大臣鎮",
         "label": "LOC",
         "start": 25,
@@ -447,6 +492,12 @@
     "sentence_id": "HCH_008_113_000035",
     "sentence": "及朝廷失守，衣冠流離道路，多為逆黨所脅，自陳希烈、張均已下數十人盡赴洛陽，晉卿潛遁山谷，南投金州。",
     "entities": [
+      {
+        "text": "陳希烈",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
       {
         "text": "洛陽",
         "label": "LOC",
@@ -697,7 +748,14 @@
   {
     "sentence_id": "HCH_008_113_000065",
     "sentence": "及鉷得罪伏法，時宰臣李林甫方竊權柄，人鹹懼之，鉷賓佐數百，不敢窺鉷門。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_113_000066",
@@ -708,6 +766,12 @@
     "sentence_id": "HCH_008_113_000067",
     "sentence": "河西節度使哥舒翰表為行軍司馬，累遷員外郎中。",
     "entities": [
+      {
+        "text": "哥舒翰",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "司馬",
         "label": "TITLE",
@@ -775,10 +839,22 @@
     "sentence": "冕與杜鴻漸、崔漪等勸進曰：「主上厭勤大位，南幸蜀川，宗社神器，須有所歸，天意人事，不可固違。若逡巡退讓，失億兆心，則大事去矣！臣等猶知之，況賢智乎！」太子曰：「南平寇逆，奉迎鑾輿，退居儲貳，侍膳左右，豈不樂哉！公等何言之過也？」冕與杜鴻漸又進曰：「殿下藉累聖之資，有天下之表。元貞萬國，二十余年，殷憂啟聖，正在今日。所從殿下六軍將士，皆關輔百姓，日夜思歸。大軍一散，不可復集，不如因而撫之以從眾，臣等敢以死請。」凡勸進五上，乃依。",
     "entities": [
       {
+        "text": "杜鴻漸",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 75,
         "end": 77
+      },
+      {
+        "text": "杜鴻漸",
+        "label": "PER",
+        "start": 116,
+        "end": 119
       },
       {
         "text": "元",
@@ -869,6 +945,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "裴遵慶",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -893,7 +975,14 @@
   {
     "sentence_id": "HCH_008_113_000082",
     "sentence": "冕以幸臣李輔國權盛，將附之，乃表輔國親昵術士中書舍人劉烜充山陵使判官。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李輔國",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_113_000083",
@@ -951,7 +1040,14 @@
   {
     "sentence_id": "HCH_008_113_000087",
     "sentence": "會宰臣杜鴻漸卒，載遂舉冕代之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜鴻漸",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_113_000088",
@@ -1008,12 +1104,25 @@
   {
     "sentence_id": "HCH_008_113_000097",
     "sentence": "裴遵慶",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴遵慶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_113_000098",
     "sentence": "裴遵慶，絳州聞喜人也。",
     "entities": [
+      {
+        "text": "裴遵慶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "絳州",
         "label": "LOC",
@@ -1061,6 +1170,12 @@
     "sentence_id": "HCH_008_113_000106",
     "sentence": "天寶末，楊國忠當國，出不附己者例為外官，遵慶亦出為郡守。",
     "entities": [
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "遵慶亦出為郡",
         "label": "LOC",
@@ -1273,6 +1388,12 @@
     "sentence_id": "HCH_008_113_000124",
     "sentence": "硃泚反，李懷光又叛河中，使其將趙貴先築壘於同州，紓來奔奉天，向領州務。",
     "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "貴先築壘於同州",
         "label": "LOC",
@@ -1545,14 +1666,7 @@
   {
     "sentence_id": "HCH_008_113_000146",
     "sentence": "宰相杜審權出鎮河中，辟為從事，得秘書省校書郎，再遷藍田尉。",
-    "entities": [
-      {
-        "text": "宰相杜審權出鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_113_000147",
@@ -1743,6 +1857,12 @@
     "sentence_id": "HCH_008_113_000164",
     "sentence": "哀帝初嗣位，柳璨用事，全忠嘗奏用牙將張廷範為太常卿，諸相議，樞曰：「廷範勛臣，幸有方鎮節鉞之命，何藉樂卿？恐非元帥梁王之旨。」乃持之不下。",
     "entities": [
+      {
+        "text": "張廷範",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
       {
         "text": "幸有方鎮",
         "label": "LOC",

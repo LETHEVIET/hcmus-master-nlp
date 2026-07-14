@@ -7,7 +7,32 @@
   {
     "sentence_id": "HCH_003_092_000002",
     "sentence": "王睿 王仲興 寇猛 趙修 茹皓 趙邕 侯剛 徐紇 宗愛 仇洛齊 段霸 王琚 趙默 孫小 張宗之 劇鵬 張祐 抱嶷 王遇 苻承祖 王質 李堅 秦松 白整 劉騰 賈粲 楊范 成軌 王溫 孟欒 平季 封津 劉思逸 張景嵩 毛暢 郭秀 和士開 穆提婆 高阿那肱 韓鳳齊 諸宦者",
-    "entities": []
+    "entities": [
+      {
+        "text": "仇洛齊",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
+        "text": "張宗之",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      },
+      {
+        "text": "苻承祖",
+        "label": "PER",
+        "start": 60,
+        "end": 63
+      },
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 118,
+        "end": 121
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_092_000003",
@@ -1790,6 +1815,12 @@
     "sentence": "掃靜、徐義恭，並彭城舊營人。",
     "entities": [
       {
+        "text": "徐義恭",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "並彭城",
         "label": "LOC",
         "start": 7,
@@ -2133,14 +2164,7 @@
   {
     "sentence_id": "HCH_003_092_000255",
     "sentence": "司空、任城王澄以其起由膳宰，頗竊侮之云：「此近為我舉食。」然公坐對集，敬遇不虧。",
-    "entities": [
-      {
-        "text": "任城",
-        "label": "LOC",
-        "start": 3,
-        "end": 5
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_092_000256",
@@ -2163,12 +2187,6 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
-      },
-      {
-        "text": "任城",
-        "label": "LOC",
-        "start": 4,
-        "end": 6
       }
     ]
   },
@@ -2415,6 +2433,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "王遵業",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -2686,7 +2710,14 @@
   {
     "sentence_id": "HCH_003_092_000325",
     "sentence": "仇洛齊，中山人也，本姓侯氏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "仇洛齊",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_092_000326",
@@ -2697,6 +2728,12 @@
     "sentence_id": "HCH_003_092_000327",
     "sentence": "仕慕容暐為烏丸護軍、長水校尉。",
     "entities": [
+      {
+        "text": "慕容暐",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "校尉",
         "label": "TITLE",
@@ -2714,6 +2751,12 @@
     "sentence_id": "HCH_003_092_000329",
     "sentence": "嵩仕慕容垂，遷居中山，位殿中侍御史。",
     "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -3407,7 +3450,14 @@
   {
     "sentence_id": "HCH_003_092_000399",
     "sentence": "張宗之，字益宗，河南鞏人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張宗之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_092_000400",
@@ -4117,7 +4167,14 @@
   {
     "sentence_id": "HCH_003_092_000488",
     "sentence": "苻承祖，略陽氐人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "苻承祖",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_092_000489",
@@ -4662,7 +4719,14 @@
   {
     "sentence_id": "HCH_003_092_000557",
     "sentence": "右衛奚康生之謀殺叉也，靈太后、明帝同升于宣光殿，左右侍臣，俱立西階下。",
-    "entities": []
+    "entities": [
+      {
+        "text": "奚康生",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_092_000558",
@@ -5508,6 +5572,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -5682,6 +5752,24 @@
         "label": "TME",
         "start": 52,
         "end": 54
+      },
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 82,
+        "end": 85
+      },
+      {
+        "text": "馮子琮",
+        "label": "PER",
+        "start": 108,
+        "end": 111
+      },
+      {
+        "text": "胡長粲",
+        "label": "PER",
+        "start": 112,
+        "end": 115
       }
     ]
   },
@@ -5746,7 +5834,14 @@
   {
     "sentence_id": "HCH_003_092_000687",
     "sentence": "段韶呼胡長粲傳言于太后。",
-    "entities": []
+    "entities": [
+      {
+        "text": "胡長粲",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_092_000688",
@@ -5912,6 +6007,12 @@
         "end": 13
       },
       {
+        "text": "馮子琮",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 26,
@@ -5986,7 +6087,14 @@
   {
     "sentence_id": "HCH_003_092_000711",
     "sentence": "自餘皆辮頭反縛，付趙彥深於涼風堂推問，死者十餘人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_092_000712",
@@ -6176,7 +6284,14 @@
   {
     "sentence_id": "HCH_003_092_000737",
     "sentence": "穆提婆，本性駱，漢陽人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_092_000738",
@@ -6835,7 +6950,14 @@
   {
     "sentence_id": "HCH_003_092_000793",
     "sentence": "後主從穆提婆觀戰，東偏頗有退者，提婆怖曰：「大家去！大家去！」帝與淑妃奔高梁。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_092_000794",
@@ -7078,6 +7200,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -7217,7 +7345,14 @@
   {
     "sentence_id": "HCH_003_092_000832",
     "sentence": "與高阿那肱、穆提婆共處衡軸，號曰三貴。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_092_000833",
@@ -7228,6 +7363,12 @@
     "sentence_id": "HCH_003_092_000834",
     "sentence": "壽陽陷沒，鳳與穆提婆聞告敗，握槊不輟曰：「他家物，從他去。」後帝使于黎陽臨河築城戍，曰：「急時且守此作龜茲國子。更可憐人生如寄，唯當行樂，何用愁為？」君臣應和若此。",
     "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "于黎陽臨河築城",
         "label": "LOC",
@@ -7266,7 +7407,14 @@
   {
     "sentence_id": "HCH_003_092_000839",
     "sentence": "陳德信馳驛檢行，見孝言役官夫匠自營宅，即語云：「僕射為至尊起台殿未訖，何用先自營造？」鳳及穆提婆亦遣孝言分工匠為己造宅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 45,
+        "end": 48
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_092_000840",

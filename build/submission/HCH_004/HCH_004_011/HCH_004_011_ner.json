@@ -303,12 +303,6 @@
         "end": 19
       },
       {
-        "text": "獨孤永業領洛州",
-        "label": "LOC",
-        "start": 20,
-        "end": 27
-      },
-      {
         "text": "兵趣潼關",
         "label": "LOC",
         "start": 27,
@@ -1401,7 +1395,14 @@
   {
     "sentence_id": "HCH_004_011_000164",
     "sentence": "未幾，周武誣後主及延宗等，云遙應穆提婆反，使並賜死。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_011_000165",
@@ -1489,6 +1490,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "鄭道蓋",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },
@@ -1626,6 +1633,12 @@
         "label": "TME",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },

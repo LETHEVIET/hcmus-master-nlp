@@ -2,7 +2,32 @@
   {
     "sentence_id": "HCH_003_045_000001",
     "sentence": "裴叔業 夏侯道遷 李元護 席法友 王世弼 江悅之 淳于誕 沈文秀 張讜 李苗 劉藻 傅永 傅竪眼 張烈 李叔彪 路恃慶 房亮 曹世表 潘永基 朱元旭",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "夏侯道遷",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      },
+      {
+        "text": "席法友",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "淳于誕",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000002",
@@ -12,12 +37,26 @@
   {
     "sentence_id": "HCH_003_045_000003",
     "sentence": "裴叔業",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000004",
     "sentence": "裴叔業，河東聞喜人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000005",
@@ -189,6 +228,12 @@
     "sentence": "會陳顯達圍建鄴，叔業遣司馬李元護應之，及顯達敗而還。",
     "entities": [
       {
+        "text": "陳顯達",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 11,
@@ -261,6 +306,12 @@
         "label": "TITLE",
         "start": 169,
         "end": 171
+      },
+      {
+        "text": "薛真度",
+        "label": "PER",
+        "start": 171,
+        "end": 174
       }
     ]
   },
@@ -339,6 +390,12 @@
     "sentence_id": "HCH_003_045_000032",
     "sentence": "軍未度淮，叔業病卒，李元護、席法友等推叔業兄子植監州事。",
     "entities": [
+      {
+        "text": "席法友",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
       {
         "text": "叔業兄子植監州",
         "label": "LOC",
@@ -707,6 +764,12 @@
     "sentence": "叔業卒，席法友、柳玄達等共舉植監州。",
     "entities": [
       {
+        "text": "席法友",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "達等共舉植監州",
         "label": "LOC",
         "start": 10,
@@ -849,6 +912,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "田益宗",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -926,7 +995,14 @@
   {
     "sentence_id": "HCH_003_045_000087",
     "sentence": "植母，夏侯道遷姊也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "夏侯道遷",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000088",
@@ -1605,7 +1681,14 @@
   {
     "sentence_id": "HCH_003_045_000152",
     "sentence": "尋而鑒所部別將嵇宗馳驛告變，乃詔衍與都督源子邕、李神軌等討鑒，平之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "源子邕",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000153",
@@ -1674,7 +1757,14 @@
   {
     "sentence_id": "HCH_003_045_000157",
     "sentence": "叔業之歸魏，又有尹挺、柳玄達、韋伯昕、皇甫光、梁祐、崔高容、閻慶胤、柳僧習並預其功。",
-    "entities": []
+    "entities": [
+      {
+        "text": "柳僧習",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000158",
@@ -1905,12 +1995,6 @@
     "sentence": "兄椿齡，從薛安都于彭城內附，除岐州刺史。",
     "entities": [
       {
-        "text": "從薛安都于彭城",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      },
-      {
         "text": "除岐州",
         "label": "LOC",
         "start": 14,
@@ -2130,17 +2214,38 @@
   {
     "sentence_id": "HCH_003_045_000201",
     "sentence": "柳僧習見其子虯傳。",
-    "entities": []
+    "entities": [
+      {
+        "text": "柳僧習",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000202",
     "sentence": "夏侯道遷",
-    "entities": []
+    "entities": [
+      {
+        "text": "夏侯道遷",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000203",
     "sentence": "夏侯道遷，譙國人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "夏侯道遷",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000204",
@@ -2173,6 +2278,12 @@
     "sentence_id": "HCH_003_045_000208",
     "sentence": "後隨裴叔業于壽春，為南譙太守。",
     "entities": [
+      {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "太守",
         "label": "TITLE",
@@ -2330,6 +2441,12 @@
         "label": "LOC",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -2584,7 +2701,14 @@
   {
     "sentence_id": "HCH_003_045_000246",
     "sentence": "初，夬與南人辛諶、庾遵、江文遙等終日遊聚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "江文遙",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000247",
@@ -2649,6 +2773,12 @@
     "sentence_id": "HCH_003_045_000256",
     "sentence": "道遷之謀，又襄陽羅道珍、北海王安世、潁川辛諶、漢中薑永等皆參其勳末。",
     "entities": [
+      {
+        "text": "王安世",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
       {
         "text": "漢",
         "label": "ORG",
@@ -2804,12 +2934,25 @@
   {
     "sentence_id": "HCH_003_045_000271",
     "sentence": "沉孫根，仕慕容寶，為中書監。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000272",
     "sentence": "根子後智等隨慕容德南渡河，居青州，數世無名，三齊豪門多輕之。",
     "entities": [
+      {
+        "text": "慕容德",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "居青州",
         "label": "LOC",
@@ -2844,6 +2987,12 @@
     "sentence_id": "HCH_003_045_000276",
     "sentence": "後為裴叔業司馬，帶汝陰太守。",
     "entities": [
+      {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "司馬",
         "label": "TITLE",
@@ -3077,12 +3226,26 @@
   {
     "sentence_id": "HCH_003_045_000299",
     "sentence": "席法友",
-    "entities": []
+    "entities": [
+      {
+        "text": "席法友",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000300",
     "sentence": "席法友，安定人也，祖、父南奔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "席法友",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000301",
@@ -3106,6 +3269,12 @@
     "sentence_id": "HCH_003_045_000302",
     "sentence": "後與裴叔業同謀歸魏，拜豫州刺史、苞信縣伯。",
     "entities": [
+      {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "拜豫州",
         "label": "LOC",
@@ -3275,7 +3444,14 @@
   {
     "sentence_id": "HCH_003_045_000319",
     "sentence": "仕齊為軍主，助戍壽春，遂與裴叔業同謀歸誠。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000320",
@@ -3496,6 +3672,12 @@
         "end": 1
       },
       {
+        "text": "劉季連",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 15,
@@ -3525,10 +3707,10 @@
         "end": 7
       },
       {
-        "text": "天與等謀以梁州",
-        "label": "LOC",
-        "start": 35,
-        "end": 42
+        "text": "夏侯道遷",
+        "label": "PER",
+        "start": 12,
+        "end": 16
       }
     ]
   },
@@ -3541,12 +3723,6 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
-      },
-      {
-        "text": "尹天寶率眾向州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
       }
     ]
   },
@@ -3760,12 +3936,25 @@
   {
     "sentence_id": "HCH_003_045_000361",
     "sentence": "淳于誕",
-    "entities": []
+    "entities": [
+      {
+        "text": "淳于誕",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000362",
     "sentence": "淳于誕，字靈遠，其先太山博人也，後世居蜀漢，或家安固之桓陵縣。",
     "entities": [
+      {
+        "text": "淳于誕",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "家安固之桓陵縣",
         "label": "LOC",
@@ -3903,6 +4092,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "魏子建",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -4340,7 +4535,14 @@
   {
     "sentence_id": "HCH_003_045_000416",
     "sentence": "畢眾敬等皆敬重之，高允之徒亦相器待。",
-    "entities": []
+    "entities": [
+      {
+        "text": "畢眾敬",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000417",
@@ -4537,6 +4739,12 @@
     "sentence": "讜兄子安世，正始中，自梁漢同夏侯道遷歸款，為客積年，出為東河間太守。",
     "entities": [
       {
+        "text": "夏侯道遷",
+        "label": "PER",
+        "start": 14,
+        "end": 18
+      },
+      {
         "text": "太守",
         "label": "TITLE",
         "start": 31,
@@ -4694,6 +4902,18 @@
         "label": "LOC",
         "start": 51,
         "end": 55
+      },
+      {
+        "text": "淳于誕",
+        "label": "PER",
+        "start": 173,
+        "end": 176
+      },
+      {
+        "text": "魏子建",
+        "label": "PER",
+        "start": 184,
+        "end": 187
       }
     ]
   },
@@ -5291,7 +5511,14 @@
   {
     "sentence_id": "HCH_003_045_000519",
     "sentence": "時裴叔業率王茂先、李定等東侵楚王戍，肅復令永將伏兵，擊其後軍，破之，獲叔業傘扇鼓幕甲仗萬餘。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000520",
@@ -5337,6 +5564,12 @@
     "sentence_id": "HCH_003_045_000523",
     "sentence": "裴叔業又圍渦陽，時帝在豫州，遣永為統軍，與高聰、劉藻、成道益、任莫問等救之。",
     "entities": [
+      {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "時帝在豫州",
         "label": "LOC",
@@ -5392,13 +5625,26 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
   {
     "sentence_id": "HCH_003_045_000530",
     "sentence": "及將迎納，詔永為統軍，與楊大眼、奚康生等諸軍俱入壽春。",
-    "entities": []
+    "entities": [
+      {
+        "text": "奚康生",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000531",
@@ -5473,6 +5719,12 @@
     "sentence_id": "HCH_003_045_000538",
     "sentence": "齊將馬仙琕連營稍進，規解城圍。",
     "entities": [
+      {
+        "text": "馬仙琕",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "規解城",
         "label": "LOC",
@@ -5671,7 +5923,14 @@
   {
     "sentence_id": "HCH_003_045_000560",
     "sentence": "事經司徒，司徒胡國珍感其所慕，許叔偉葬焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "胡國珍",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000561",
@@ -5715,12 +5974,26 @@
   {
     "sentence_id": "HCH_003_045_000566",
     "sentence": "傅豎眼",
-    "entities": []
+    "entities": [
+      {
+        "text": "傅豎眼",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000567",
     "sentence": "傅豎眼，本清河人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "傅豎眼",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000568",
@@ -6032,6 +6305,12 @@
     "sentence": "子勳敗，靈越軍眾散亡，為明帝將王廣之軍人所擒，厲聲曰：「我傅靈越也，汝得賊何不即殺！」廣之生送詣宋輔國司馬劉勔，勔躬自慰勞。",
     "entities": [
       {
+        "text": "王廣之",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 51,
@@ -6148,6 +6427,12 @@
         "label": "LOC",
         "start": 4,
         "end": 8
+      },
+      {
+        "text": "元法僧",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       },
       {
         "text": "益州",
@@ -6586,6 +6871,12 @@
     "sentence": "曾祖恂，散騎常侍，隨慕容德南度，因居齊郡之臨淄縣。",
     "entities": [
       {
+        "text": "慕容德",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "因居齊郡",
         "label": "LOC",
         "start": 16,
@@ -6638,6 +6929,12 @@
     "sentence_id": "HCH_003_045_000657",
     "sentence": "齊將陳顯達謀將入寇，時順陽太守王青石，世官江南，荊州刺史、廣陽王嘉慮其有異，表請代之。",
     "entities": [
+      {
+        "text": "陳顯達",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "太守",
         "label": "TITLE",
@@ -6696,6 +6993,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "崔慧景",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -7667,7 +7970,14 @@
   {
     "sentence_id": "HCH_003_045_000754",
     "sentence": "元旭與隴西辛雄、范陽祖瑩、太山羊深、西平源子恭並以才用見留。",
-    "entities": []
+    "entities": [
+      {
+        "text": "源子恭",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000755",
@@ -7696,6 +8006,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -7807,7 +8123,20 @@
   {
     "sentence_id": "HCH_003_045_000765",
     "sentence": "裴叔業、夏侯道遷體運知機，翻然鵲起，舉地而來，功誠兩茂，其以大啟茅賦，兼列旄ＣＭ，固其宜矣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "夏侯道遷",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000766",
@@ -7827,7 +8156,14 @@
   {
     "sentence_id": "HCH_003_045_000769",
     "sentence": "淳于誕好立功名，有志竟不遂也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "淳于誕",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_045_000770",

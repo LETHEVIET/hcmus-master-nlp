@@ -707,7 +707,14 @@
   {
     "sentence_id": "HCH_003_032_000070",
     "sentence": "齊神武召補相府兼功曹，稱之曰：「崔伯謙清直奉公，真良佐也。」轉七兵、殿中、左戶三曹郎中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔伯謙",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_032_000071",
@@ -1282,7 +1289,14 @@
   {
     "sentence_id": "HCH_003_032_000129",
     "sentence": "巨倫姑，趙國李叔胤之妻，聞而悲感曰：「吾兄盛德，不幸早世，豈令此女，屈事卑族！」乃為子翼納之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李叔胤",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_032_000130",
@@ -1308,12 +1322,6 @@
     "sentence_id": "HCH_003_032_000134",
     "sentence": "蕭寶夤討關、隴，引為西征別將，屢有戰功，封槐里縣伯。",
     "entities": [
-      {
-        "text": "蕭寶夤討關",
-        "label": "LOC",
-        "start": 0,
-        "end": 5
-      },
       {
         "text": "封槐里縣",
         "label": "LOC",
@@ -1712,10 +1720,10 @@
     "sentence": "又破柳仲禮於隨郡，討李遷哲于魏興，並有功，進驃騎大將軍、開府儀同三司、直州刺史。",
     "entities": [
       {
-        "text": "破柳仲禮於隨郡",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
+        "text": "李遷哲",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "大將軍",
@@ -1932,14 +1940,7 @@
   {
     "sentence_id": "HCH_003_032_000190",
     "sentence": "隋文帝為相，周陳王純鎮齊州。",
-    "entities": [
-      {
-        "text": "周陳王純鎮齊州",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_032_000191",
@@ -2349,6 +2350,12 @@
     "sentence": "年十七，周大塚宰宇文護引為親信，累轉大都督。",
     "entities": [
       {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "大都",
         "label": "LOC",
         "start": 18,
@@ -2404,7 +2411,20 @@
   {
     "sentence_id": "HCH_003_032_000238",
     "sentence": "尋從汝南公宇文神舉破盧昌期於范陽，鄖公韋孝寬經略淮南。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文神舉",
+        "label": "PER",
+        "start": 5,
+        "end": 9
+      },
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_032_000239",
@@ -2433,7 +2453,14 @@
   {
     "sentence_id": "HCH_003_032_000241",
     "sentence": "及尉遲迥反，弘度以行軍總管從韋孝寬討之，所當無不披靡。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_032_000242",
@@ -2816,7 +2843,14 @@
   {
     "sentence_id": "HCH_003_032_000287",
     "sentence": "與宇文述等同敗，奔還，發病卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_032_000288",
@@ -3301,14 +3335,7 @@
   {
     "sentence_id": "HCH_003_032_000340",
     "sentence": "長於剖判，甚有能名，府主任城王澄雅重之。",
-    "entities": [
-      {
-        "text": "府主任城",
-        "label": "LOC",
-        "start": 10,
-        "end": 14
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_032_000341",
@@ -3323,7 +3350,14 @@
   {
     "sentence_id": "HCH_003_032_000343",
     "sentence": "孝昌初，梁將裴邃等寇淮南，詔行台酈道元、都督河間王榮討之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "酈道元",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_032_000344",
@@ -4030,6 +4064,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "崔士謙",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -4247,6 +4287,12 @@
     "sentence": "後以明經為晉公宇文護參軍，轉記室，遷司正大夫，與斛斯征、柳敏等同修禮律。",
     "entities": [
       {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 20,
@@ -4321,7 +4367,14 @@
   {
     "sentence_id": "HCH_003_032_000446",
     "sentence": "後以行軍長史從郯國公王軌禽陳將吳明徹于呂梁，仲方策居多。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_032_000447",
@@ -6252,7 +6305,14 @@
   {
     "sentence_id": "HCH_003_032_000666",
     "sentence": "時貴臣趙彥深、唐邕、段孝言等初亦同心，臨時疑貳，季舒與爭，未決。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_032_000667",
@@ -6263,6 +6323,12 @@
         "label": "LOC",
         "start": 17,
         "end": 24
+      },
+      {
+        "text": "封孝琰",
+        "label": "PER",
+        "start": 61,
+        "end": 64
       }
     ]
   },
@@ -6274,7 +6340,14 @@
   {
     "sentence_id": "HCH_003_032_000669",
     "sentence": "自外同署，將加鞭撻，趙彥深執諫獲免。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_032_000670",
@@ -6344,6 +6417,12 @@
     "sentence_id": "HCH_003_032_000680",
     "sentence": "周武帝滅齊，詔斛律光與季舒等六人同被優贈，季舒贈開府儀同大將軍、定州刺史。",
     "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -6442,14 +6521,7 @@
   {
     "sentence_id": "HCH_003_032_000687",
     "sentence": "雅為任城王澄所禮待，及澄為本部，接了無人王敬，王忻然容下之。",
-    "entities": [
-      {
-        "text": "雅為任城",
-        "label": "LOC",
-        "start": 0,
-        "end": 4
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_032_000688",
@@ -6651,6 +6723,18 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "御史",
@@ -6961,7 +7045,14 @@
   {
     "sentence_id": "HCH_003_032_000746",
     "sentence": "及踐阼，譖毀者猶不息，帝令都督陳山提、舍人獨孤永業搜暹家。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤永業",
+        "label": "PER",
+        "start": 21,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_032_000747",

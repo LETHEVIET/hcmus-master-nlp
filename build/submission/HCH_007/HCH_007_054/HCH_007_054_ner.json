@@ -111,6 +111,12 @@
     "sentence": "大順中，武皇將李存孝既平邢、洺，因獻謀於武皇，欲兼並鎮、定，乃連年出師以擾鎮之屬邑。",
     "entities": [
       {
+        "text": "李存孝",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "欲兼並鎮",
         "label": "LOC",
         "start": 23,
@@ -169,6 +175,12 @@
         "label": "LOC",
         "start": 56,
         "end": 63
+      },
+      {
+        "text": "李存孝",
+        "label": "PER",
+        "start": 78,
+        "end": 81
       },
       {
         "text": "鎔求援於幽州",
@@ -316,6 +328,12 @@
         "end": 8
       },
       {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "三年",
         "label": "TME",
         "start": 38,
@@ -383,6 +401,12 @@
     "sentence_id": "HCH_007_054_000036",
     "sentence": "其後梁祖常慮河朔悠久難製，會羅紹威卒，因欲除移鎮、定。",
     "entities": [
+      {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
       {
         "text": "因欲除移鎮",
         "label": "LOC",
@@ -937,7 +961,14 @@
   {
     "sentence_id": "HCH_007_054_000104",
     "sentence": "既而安重誨用事，稍以朝政厘之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_054_000105",
@@ -959,6 +990,18 @@
         "label": "LOC",
         "start": 39,
         "end": 41
+      },
+      {
+        "text": "王建立",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 48,
+        "end": 51
       }
     ]
   },
@@ -987,6 +1030,12 @@
         "label": "LOC",
         "start": 13,
         "end": 16
+      },
+      {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -1068,7 +1117,14 @@
   {
     "sentence_id": "HCH_007_054_000117",
     "sentence": "天成初，安重誨知其本末，付段佪養之為兒；佪知其不稱，許其就便。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_054_000118",

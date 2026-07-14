@@ -71,7 +71,14 @@
   {
     "sentence_id": "HCH_005_076_000012",
     "sentence": "又第五倫、宋均之徒，亦足有可稱談。",
-    "entities": []
+    "entities": [
+      {
+        "text": "第五倫",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_076_000013",
@@ -81,7 +88,14 @@
   {
     "sentence_id": "HCH_005_076_000014",
     "sentence": "故朱浮數上諫書，箴切峻政，鍾離意等亦規諷殷勤，以長者爲言，而不能得也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鍾離意",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_076_000015",
@@ -1784,6 +1798,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "第五倫",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -2170,12 +2190,26 @@
   {
     "sentence_id": "HCH_005_076_000258",
     "sentence": "第五訪",
-    "entities": []
+    "entities": [
+      {
+        "text": "第五訪",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_076_000259",
     "sentence": "第五訪，字仲謀，京兆長陵人，司空倫之族孫也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "第五訪",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_076_000260",

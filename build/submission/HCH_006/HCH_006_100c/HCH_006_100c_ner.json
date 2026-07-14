@@ -307,6 +307,12 @@
         "end": 17
       },
       {
+        "text": "薛廣德",
+        "label": "PER",
+        "start": 75,
+        "end": 78
+      },
+      {
         "text": "不徙民著縣",
         "label": "LOC",
         "start": 111,
@@ -1608,7 +1614,14 @@
   {
     "sentence_id": "HCH_006_100c_000261",
     "sentence": "述衛青霍去病傳第二十五。",
-    "entities": []
+    "entities": [
+      {
+        "text": "霍去病",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_100c_000262",
@@ -1643,7 +1656,14 @@
   {
     "sentence_id": "HCH_006_100c_000264",
     "sentence": "〔三〕述董仲舒傳第二十六。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_100c_000265",
@@ -1690,7 +1710,14 @@
   {
     "sentence_id": "HCH_006_100c_000272",
     "sentence": "述公孫弘卜式兒寬傳第二十八。",
-    "entities": []
+    "entities": [
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_100c_000273",
@@ -1910,6 +1937,12 @@
     "sentence": "〔一〕　師古曰：「公孫賀妻，衛皇后姊，故云內寵也。」 〔二〕　張晏曰：「千秋訟衛太子冤，發言值時也。」師古曰：「宜春侯，王訢也。」 〔三〕　如淳曰：「若此人等無益於治，可為庶幾而已也。」師古曰：「敞，楊敞。義，蔡義。」",
     "entities": [
       {
+        "text": "公孫賀",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "皇后",
         "label": "TITLE",
         "start": 15,
@@ -1991,7 +2024,20 @@
   {
     "sentence_id": "HCH_006_100c_000324",
     "sentence": "述趙充國辛慶忌傳第三十九。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "辛慶忌",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_100c_000325",
@@ -2052,6 +2098,12 @@
         "label": "TITLE",
         "start": 33,
         "end": 35
+      },
+      {
+        "text": "薛廣德",
+        "label": "PER",
+        "start": 177,
+        "end": 180
       }
     ]
   },
@@ -2242,7 +2294,14 @@
   {
     "sentence_id": "HCH_006_100c_000370",
     "sentence": "〔二〕述蕭望之傳第四十八。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_100c_000371",
@@ -2257,7 +2316,14 @@
   {
     "sentence_id": "HCH_006_100c_000373",
     "sentence": "述馮奉世傳第四十九。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮奉世",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_100c_000374",
@@ -2387,7 +2453,14 @@
   {
     "sentence_id": "HCH_006_100c_000395",
     "sentence": "〔一〕述翟方進傳第五十四。",
-    "entities": []
+    "entities": [
+      {
+        "text": "翟方進",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_100c_000396",

@@ -8,6 +8,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 8
+      },
+      {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -291,6 +297,18 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "姜寶誼",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "李仲文",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -398,6 +416,12 @@
         "end": 2
       },
       {
+        "text": "呂崇茂",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "縣令",
         "label": "TITLE",
         "start": 8,
@@ -430,6 +454,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "韋雲起",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -493,6 +523,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 12,
+        "end": 16
       }
     ]
   },
@@ -517,6 +553,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       },
       {
         "text": "削食邑",
@@ -661,12 +703,25 @@
   {
     "sentence_id": "HCH_008_057_000061",
     "sentence": "劉文靜",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000062",
     "sentence": "劉文靜，字肇仁，自雲彭城人，代居京兆之武功。",
     "entities": [
+      {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "自雲彭城",
         "label": "LOC",
@@ -898,7 +953,14 @@
   {
     "sentence_id": "HCH_008_057_000082",
     "sentence": "太宗遣文靜及長孫順德等分部募兵，以討武周為辭；又令文靜與裴寂偽作符敕，出宮監庫物以供留守資用，因募兵集眾。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫順德",
+        "label": "PER",
+        "start": 6,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000083",
@@ -914,6 +976,12 @@
         "label": "LOC",
         "start": 21,
         "end": 24
+      },
+      {
+        "text": "劉世龍",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
@@ -926,6 +994,12 @@
         "label": "TITLE",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "劉政會",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -1235,10 +1309,22 @@
         "end": 6
       },
       {
+        "text": "長孫順德",
+        "label": "PER",
+        "start": 6,
+        "end": 10
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 14,
         "end": 17
+      },
+      {
+        "text": "劉弘基",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       },
       {
         "text": "大將軍",
@@ -1265,10 +1351,52 @@
         "end": 50
       },
       {
+        "text": "劉世龍",
+        "label": "PER",
+        "start": 57,
+        "end": 60
+      },
+      {
+        "text": "劉政會",
+        "label": "PER",
+        "start": 65,
+        "end": 68
+      },
+      {
+        "text": "趙文恪",
+        "label": "PER",
+        "start": 72,
+        "end": 75
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 86,
         "end": 88
+      },
+      {
+        "text": "張平高",
+        "label": "PER",
+        "start": 88,
+        "end": 91
+      },
+      {
+        "text": "李思行",
+        "label": "PER",
+        "start": 92,
+        "end": 95
+      },
+      {
+        "text": "李高遷",
+        "label": "PER",
+        "start": 96,
+        "end": 99
+      },
+      {
+        "text": "許世緒",
+        "label": "PER",
+        "start": 106,
+        "end": 109
       }
     ]
   },
@@ -1283,10 +1411,46 @@
         "end": 4
       },
       {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 42,
+        "end": 46
+      },
+      {
+        "text": "王君廓",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      },
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 51,
+        "end": 55
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 56,
+        "end": 59
+      },
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 60,
+        "end": 63
+      },
+      {
         "text": "食邑",
         "label": "LOC",
         "start": 67,
         "end": 69
+      },
+      {
+        "text": "長孫順德",
+        "label": "PER",
+        "start": 75,
+        "end": 79
       },
       {
         "text": "趙郡",
@@ -1301,16 +1465,118 @@
         "end": 97
       },
       {
-        "text": "師立等三人食邑",
-        "label": "LOC",
-        "start": 112,
-        "end": 119
+        "text": "侯君集",
+        "label": "PER",
+        "start": 103,
+        "end": 106
       },
       {
-        "text": "劉弘基二人食邑",
-        "label": "LOC",
-        "start": 126,
-        "end": 133
+        "text": "張公謹",
+        "label": "PER",
+        "start": 107,
+        "end": 110
+      },
+      {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 137,
+        "end": 140
+      },
+      {
+        "text": "宇文士及",
+        "label": "PER",
+        "start": 141,
+        "end": 145
+      },
+      {
+        "text": "程知節",
+        "label": "PER",
+        "start": 150,
+        "end": 153
+      },
+      {
+        "text": "安興貴",
+        "label": "PER",
+        "start": 160,
+        "end": 163
+      },
+      {
+        "text": "安修仁",
+        "label": "PER",
+        "start": 164,
+        "end": 167
+      },
+      {
+        "text": "劉義節",
+        "label": "PER",
+        "start": 185,
+        "end": 188
+      },
+      {
+        "text": "錢九隴",
+        "label": "PER",
+        "start": 197,
+        "end": 200
+      },
+      {
+        "text": "公孫武達",
+        "label": "PER",
+        "start": 204,
+        "end": 208
+      },
+      {
+        "text": "李孟嘗",
+        "label": "PER",
+        "start": 209,
+        "end": 212
+      },
+      {
+        "text": "段志玄",
+        "label": "PER",
+        "start": 213,
+        "end": 216
+      },
+      {
+        "text": "龐卿惲",
+        "label": "PER",
+        "start": 217,
+        "end": 220
+      },
+      {
+        "text": "李藥師",
+        "label": "PER",
+        "start": 224,
+        "end": 227
+      },
+      {
+        "text": "張長遜",
+        "label": "PER",
+        "start": 243,
+        "end": 246
+      },
+      {
+        "text": "張平高",
+        "label": "PER",
+        "start": 247,
+        "end": 250
+      },
+      {
+        "text": "李安遠",
+        "label": "PER",
+        "start": 251,
+        "end": 254
+      },
+      {
+        "text": "李子和",
+        "label": "PER",
+        "start": 255,
+        "end": 258
+      },
+      {
+        "text": "馬三寶",
+        "label": "PER",
+        "start": 263,
+        "end": 266
       }
     ]
   },
@@ -1319,10 +1585,28 @@
     "sentence": "其王君廓事在《廬江王瑗傳》，安興貴、安修仁事在《 李軌傳 》，李子和事在《 梁師都傳 》，馬三寶事在《 柴紹傳 》。",
     "entities": [
       {
+        "text": "王君廓",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "《廬江王瑗傳》",
         "label": "TITLE",
         "start": 6,
         "end": 13
+      },
+      {
+        "text": "安興貴",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "安修仁",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       },
       {
         "text": "《 李軌傳 》",
@@ -1331,10 +1615,22 @@
         "end": 30
       },
       {
+        "text": "李子和",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      },
+      {
         "text": "《 梁師都傳 》",
         "label": "TITLE",
         "start": 36,
         "end": 44
+      },
+      {
+        "text": "馬三寶",
+        "label": "PER",
+        "start": 45,
+        "end": 48
       },
       {
         "text": "《 柴紹傳 》",
@@ -1347,12 +1643,25 @@
   {
     "sentence_id": "HCH_008_057_000119",
     "sentence": "李孟嘗 秦行師",
-    "entities": []
+    "entities": [
+      {
+        "text": "李孟嘗",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000120",
     "sentence": "李孟嘗，趙州平棘人，官至右威衛大將軍、漢東郡公。",
     "entities": [
+      {
+        "text": "李孟嘗",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "趙州",
         "label": "LOC",
@@ -1434,12 +1743,25 @@
   {
     "sentence_id": "HCH_008_057_000125",
     "sentence": "劉世龍",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉世龍",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000126",
     "sentence": "劉世龍者，并州晉陽人。",
     "entities": [
+      {
+        "text": "劉世龍",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "并州",
         "label": "LOC",
@@ -1514,14 +1836,7 @@
   {
     "sentence_id": "HCH_008_057_000134",
     "sentence": "貞觀初，轉少府監，以罪配流嶺南，尋授欽州別駕，卒。",
-    "entities": [
-      {
-        "text": "尋授欽州",
-        "label": "LOC",
-        "start": 16,
-        "end": 20
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_057_000135",
@@ -1610,16 +1925,34 @@
         "end": 4
       },
       {
+        "text": "李元素",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 10,
         "end": 12
       },
       {
+        "text": "孫元亨",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "石抱忠",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       },
       {
         "text": "劇兄前涇州",
@@ -1638,13 +1971,26 @@
         "label": "TITLE",
         "start": 42,
         "end": 44
+      },
+      {
+        "text": "路敬淳",
+        "label": "PER",
+        "start": 47,
+        "end": 50
       }
     ]
   },
   {
     "sentence_id": "HCH_008_057_000142",
     "sentence": "初，則天命河內王武懿宗按思禮之獄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武懿宗",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000143",
@@ -1664,12 +2010,25 @@
   {
     "sentence_id": "HCH_008_057_000146",
     "sentence": "趙文恪",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙文恪",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000147",
     "sentence": "趙文恪者，并州太原人也。",
     "entities": [
+      {
+        "text": "趙文恪",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "并州",
         "label": "LOC",
@@ -1752,12 +2111,6 @@
         "label": "LOC",
         "start": 0,
         "end": 2
-      },
-      {
-        "text": "李仲文退守浩州",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
       }
     ]
   },
@@ -1776,12 +2129,25 @@
   {
     "sentence_id": "HCH_008_057_000155",
     "sentence": "張平高",
-    "entities": []
+    "entities": [
+      {
+        "text": "張平高",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000156",
     "sentence": "張平高，綏州膚施人也。",
     "entities": [
+      {
+        "text": "張平高",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "綏州",
         "label": "LOC",
@@ -1875,12 +2241,25 @@
   {
     "sentence_id": "HCH_008_057_000163",
     "sentence": "李思行",
-    "entities": []
+    "entities": [
+      {
+        "text": "李思行",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000164",
     "sentence": "李思行，趙州人也。",
     "entities": [
+      {
+        "text": "李思行",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "趙州",
         "label": "LOC",
@@ -1951,12 +2330,25 @@
   {
     "sentence_id": "HCH_008_057_000169",
     "sentence": "李高遷",
-    "entities": []
+    "entities": [
+      {
+        "text": "李高遷",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000170",
     "sentence": "李高遷，岐州岐山人也。",
     "entities": [
+      {
+        "text": "李高遷",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "岐州",
         "label": "LOC",
@@ -2041,6 +2433,12 @@
         "end": 12
       },
       {
+        "text": "高滿政",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "令高遷督兵助鎮",
         "label": "LOC",
         "start": 22,
@@ -2099,12 +2497,25 @@
   {
     "sentence_id": "HCH_008_057_000178",
     "sentence": "許世緒",
-    "entities": []
+    "entities": [
+      {
+        "text": "許世緒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000179",
     "sentence": "許世緒者，并州人也。",
     "entities": [
+      {
+        "text": "許世緒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "并州",
         "label": "LOC",
@@ -2199,12 +2610,25 @@
   {
     "sentence_id": "HCH_008_057_000186",
     "sentence": "劉師立",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉師立",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000187",
     "sentence": "劉師立者，宋州虞城人也。",
     "entities": [
+      {
+        "text": "劉師立",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "宋州虞城",
         "label": "LOC",
@@ -2245,7 +2669,26 @@
   {
     "sentence_id": "HCH_008_057_000191",
     "sentence": "其後師立與尉遲敬德、龐卿惲、李孟嘗等九人，同誅建成有功，超拜左衛率。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 5,
+        "end": 9
+      },
+      {
+        "text": "龐卿惲",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "李孟嘗",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000192",
@@ -2399,12 +2842,26 @@
   {
     "sentence_id": "HCH_008_057_000207",
     "sentence": "錢九隴",
-    "entities": []
+    "entities": [
+      {
+        "text": "錢九隴",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000208",
     "sentence": "錢九隴，本晉陵人也，父在陳為境上所獲，沒為皇家隸人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "錢九隴",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000209",
@@ -2451,6 +2908,12 @@
     "sentence_id": "HCH_008_057_000213",
     "sentence": "其後從太宗擒獲竇建德，平王世充；從隱太子討劉黑闥於魏州，力戰破賊，策勳為最。",
     "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -2568,7 +3031,14 @@
   {
     "sentence_id": "HCH_008_057_000221",
     "sentence": "又從太宗破薛舉，平王世充、竇建德，積戰功，累封營國公，賜物二千段、黃金三十鋌。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000222",
@@ -2625,7 +3095,14 @@
   {
     "sentence_id": "HCH_008_057_000226",
     "sentence": "太宗之征遼東，以興忠謹，令副司空房玄齡，留守京師。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000227",
@@ -2660,12 +3137,25 @@
   {
     "sentence_id": "HCH_008_057_000229",
     "sentence": "公孫武達",
-    "entities": []
+    "entities": [
+      {
+        "text": "公孫武達",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000230",
     "sentence": "公孫武達者，雍州櫟陽人也。",
     "entities": [
+      {
+        "text": "公孫武達",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
       {
         "text": "雍州",
         "label": "LOC",
@@ -2693,6 +3183,12 @@
     "sentence_id": "HCH_008_057_000234",
     "sentence": "又從平王世充、竇建德，累遷秦王府右三軍驃騎，封清水縣公。",
     "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "封清水縣",
         "label": "LOC",
@@ -2826,12 +3322,25 @@
   {
     "sentence_id": "HCH_008_057_000246",
     "sentence": "龐卿惲",
-    "entities": []
+    "entities": [
+      {
+        "text": "龐卿惲",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000247",
     "sentence": "龐卿惲者，并州太原人。",
     "entities": [
+      {
+        "text": "龐卿惲",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "并州",
         "label": "LOC",
@@ -2896,12 +3405,25 @@
   {
     "sentence_id": "HCH_008_057_000252",
     "sentence": "張長遜",
-    "entities": []
+    "entities": [
+      {
+        "text": "張長遜",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000253",
     "sentence": "張長遜，雍州櫟陽人也。",
     "entities": [
+      {
+        "text": "張長遜",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "雍州",
         "label": "LOC",
@@ -3074,12 +3596,25 @@
   {
     "sentence_id": "HCH_008_057_000268",
     "sentence": "李安遠",
-    "entities": []
+    "entities": [
+      {
+        "text": "李安遠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_057_000269",
     "sentence": "李安遠者，夏州朔方人也。",
     "entities": [
+      {
+        "text": "李安遠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "夏州",
         "label": "LOC",

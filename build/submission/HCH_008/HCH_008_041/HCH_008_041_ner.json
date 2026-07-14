@@ -7107,7 +7107,14 @@
   {
     "sentence_id": "HCH_008_041_000483",
     "sentence": "三月，劍南節度使盧元裕請升為中都督府。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧元裕",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_041_000484",
@@ -14823,7 +14830,20 @@
   {
     "sentence_id": "HCH_008_041_001020",
     "sentence": "天寶末，楊國忠用事，蜀帥撫慰不謹，蠻王閣羅鳳不恭，國忠命鮮于仲通興師十萬，渡瀘討之，大為羅鳳所敗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "鮮于仲通",
+        "label": "PER",
+        "start": 28,
+        "end": 32
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_041_001021",
@@ -14833,14 +14853,7 @@
   {
     "sentence_id": "HCH_008_041_001022",
     "sentence": "大和中，杜元穎鎮蜀，蠻王鹺顛侵蜀，自是或臣或否。",
-    "entities": [
-      {
-        "text": "杜元穎鎮",
-        "label": "LOC",
-        "start": 4,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_041_001023",
@@ -17015,6 +17028,12 @@
         "end": 8
       },
       {
+        "text": "董和那蓬",
+        "label": "PER",
+        "start": 10,
+        "end": 14
+      },
+      {
         "text": "特敕於通軌縣",
         "label": "LOC",
         "start": 19,
@@ -17911,6 +17930,12 @@
         "end": 10
       },
       {
+        "text": "董晏立",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "刺史",
         "label": "TITLE",
         "start": 16,
@@ -17969,6 +17994,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "董嘉俊",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       },
       {
         "text": "西山管內天保郡",
@@ -35561,12 +35592,6 @@
         "end": 8
       },
       {
-        "text": "公李弘節遣欽州",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
-      },
-      {
         "text": "置瀼州",
         "label": "LOC",
         "start": 40,
@@ -38120,6 +38145,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "謝法成",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -39217,7 +39248,14 @@
   {
     "sentence_id": "HCH_008_041_002611",
     "sentence": "其王梵志遁走，方收其廟主一十八人，皆鑄金為之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王梵志",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_041_002612",
@@ -40682,12 +40720,6 @@
         "end": 7
       },
       {
-        "text": "公李弘節遣龔州",
-        "label": "LOC",
-        "start": 10,
-        "end": 17
-      },
-      {
         "text": "大同縣",
         "label": "LOC",
         "start": 17,
@@ -40853,6 +40885,12 @@
         "label": "TME",
         "start": 3,
         "end": 8
+      },
+      {
+        "text": "李弘節",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       },
       {
         "text": "置環州",
@@ -41813,6 +41851,12 @@
         "label": "TITLE",
         "start": 60,
         "end": 62
+      },
+      {
+        "text": "張少逸",
+        "label": "PER",
+        "start": 62,
+        "end": 65
       },
       {
         "text": "今已收復舊城",

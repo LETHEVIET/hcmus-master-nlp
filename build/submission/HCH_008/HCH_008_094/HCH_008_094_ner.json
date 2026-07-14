@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_008_094_000001",
     "sentence": "蘇味道",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇味道",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_094_000002",
     "sentence": "蘇味道，趙州欒城人也。",
     "entities": [
+      {
+        "text": "蘇味道",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "趙州欒城",
         "label": "LOC",
@@ -54,6 +67,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "裴行儉",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -66,6 +85,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "裴居道",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "將軍",
@@ -208,6 +233,12 @@
     "sentence_id": "HCH_008_094_000016",
     "sentence": "神龍初，以親附張易之，昌宗貶授郿州刺史。",
     "entities": [
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "昌宗貶授郿州",
         "label": "LOC",
@@ -363,6 +394,36 @@
     "sentence_id": "HCH_008_094_000030",
     "sentence": "時酷吏來俊臣構陷狄仁傑、李嗣真、裴宣禮等三家，奏請誅之，則天使嶠與大理少卿張德裕、侍御史劉憲覆其獄。",
     "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "狄仁傑",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "李嗣真",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "裴宣禮",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "張德裕",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -719,6 +780,12 @@
     "sentence": "中宗即位，嶠以附會張易之兄弟，出為豫州刺史。",
     "entities": [
       {
+        "text": "張易之",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "出為豫州",
         "label": "LOC",
         "start": 15,
@@ -795,6 +862,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "韋安石",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -922,14 +995,7 @@
   {
     "sentence_id": "HCH_008_094_000093",
     "sentence": "”尋起為盧州別駕而卒。",
-    "entities": [
-      {
-        "text": "尋起為盧州",
-        "label": "LOC",
-        "start": 1,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_094_000094",
@@ -1025,6 +1091,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "張昌宗",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "左授婺州",
@@ -1653,10 +1725,28 @@
     "sentence": "時張易之兄弟頗招集文學之士，融與納言李嶠、鳳閣侍郎蘇味道、麟台少監王紹宗等俱以文才降節事之。",
     "entities": [
       {
+        "text": "張易之",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "蘇味道",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "王紹宗",
+        "label": "PER",
+        "start": 33,
+        "end": 36
       }
     ]
   },
@@ -1768,12 +1858,25 @@
   {
     "sentence_id": "HCH_008_094_000207",
     "sentence": "盧藏用",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧藏用",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_094_000208",
     "sentence": "盧藏用，字子潛，度支尚書承慶之侄孫也。",
     "entities": [
+      {
+        "text": "盧藏用",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -2312,7 +2415,14 @@
   {
     "sentence_id": "HCH_008_094_000285",
     "sentence": "少與陳子昂、趙貞固友善，二人並早卒，藏用厚撫其子，為時所稱。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳子昂",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_094_000286",
@@ -2322,12 +2432,25 @@
   {
     "sentence_id": "HCH_008_094_000287",
     "sentence": "徐彥伯",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐彥伯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_094_000288",
     "sentence": "徐彥伯，兗州瑕丘人也。",
     "entities": [
+      {
+        "text": "徐彥伯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "兗州",
         "label": "LOC",
@@ -2357,6 +2480,12 @@
     "sentence_id": "HCH_008_094_000291",
     "sentence": "彥伯聖曆中累除給事中，時王公卿士多以言語不慎，密為酷吏周興、來俊臣等所陷，彥伯乃著《樞機論》以誡於代，其辭曰：",
     "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      },
       {
         "text": "《樞機論》",
         "label": "TITLE",
@@ -2777,7 +2906,14 @@
   {
     "sentence_id": "HCH_008_094_000350",
     "sentence": "蘇味道、李嶠等，俱為輔相，各處穹崇。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇味道",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_094_000351",
@@ -2787,7 +2923,14 @@
   {
     "sentence_id": "HCH_008_094_000352",
     "sentence": "故狄仁傑有言曰：“蘇、李足為文吏矣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "狄仁傑",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_094_000353",
@@ -2802,7 +2945,20 @@
   {
     "sentence_id": "HCH_008_094_000355",
     "sentence": "崔融、盧藏用、徐彥伯等，文學之功，不讓蘇、李，知有守常之道，而無應變之機。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧藏用",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "徐彥伯",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_094_000356",

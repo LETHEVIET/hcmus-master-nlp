@@ -2,17 +2,44 @@
   {
     "sentence_id": "HCH_004_035_000001",
     "sentence": "裴讓之 弟諏之　讞之 李構　張宴之　陸卬　王松年　劉禕",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴讓之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "王松年",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_035_000002",
     "sentence": "裴讓之",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴讓之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_035_000003",
     "sentence": "裴讓之，字士禮。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴讓之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_035_000004",
@@ -47,7 +74,14 @@
   {
     "sentence_id": "HCH_004_035_000010",
     "sentence": "累遷屯田主客郎中，省中語曰：「能賦詩，裴讓之。」爲太原公開府記室。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴讓之",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_035_000011",
@@ -168,10 +202,22 @@
     "sentence": "侍中高德政舊與讓之不協，案奏言：「當陛下受禪之時，讓之眷戀魏朝，嗚咽流涕，比爲內官，情非所願。」旣而楊愔請救之，云：「罪不合死。」文宣大怒，謂愔曰：「欲得與裴讓之同冢耶！」於是無敢言者。",
     "entities": [
       {
+        "text": "高德政",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "魏朝",
         "label": "ORG",
         "start": 29,
         "end": 31
+      },
+      {
+        "text": "裴讓之",
+        "label": "PER",
+        "start": 78,
+        "end": 81
       }
     ]
   },
@@ -244,6 +290,12 @@
     "sentence_id": "HCH_004_035_000034",
     "sentence": "遷鄴後，諏之留在河南，西魏領軍獨孤信入據金墉，以諏之爲開府屬，號曰「洛陽遺彥。」信敗，諏之居南山，洛州刺史王元軌召爲中從事。",
     "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
       {
         "text": "金",
         "label": "ORG",
@@ -437,6 +489,12 @@
         "end": 5
       },
       {
+        "text": "夏侯道遷",
+        "label": "PER",
+        "start": 10,
+        "end": 14
+      },
+      {
         "text": "魏",
         "label": "ORG",
         "start": 15,
@@ -471,6 +529,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "羊靈祐",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       },
       {
         "text": "司馬",
@@ -566,6 +630,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "王松年",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -945,12 +1015,26 @@
   {
     "sentence_id": "HCH_004_035_000106",
     "sentence": "王松年",
-    "entities": []
+    "entities": [
+      {
+        "text": "王松年",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_035_000107",
     "sentence": "王松年，少知名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王松年",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_035_000108",

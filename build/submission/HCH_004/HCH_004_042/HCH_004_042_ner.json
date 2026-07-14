@@ -453,6 +453,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 16
+      },
+      {
+        "text": "王松年",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -782,6 +788,12 @@
     "sentence_id": "HCH_004_042_000068",
     "sentence": "潛嘆曰：「正恐不久復來耳。」至鄴未幾，陳將吳明徹渡江侵掠，復以潛為揚州道行臺尚書。",
     "entities": [
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
       {
         "text": "復以潛為揚州",
         "label": "LOC",
@@ -1757,7 +1769,14 @@
   {
     "sentence_id": "HCH_004_042_000154",
     "sentence": "周將宇文神舉以其有名德，收而葬之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文神舉",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_042_000155",
@@ -2010,6 +2029,12 @@
         "label": "TITLE",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "長孫稚",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -2207,6 +2232,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "崔長謙",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -2332,7 +2363,14 @@
   {
     "sentence_id": "HCH_004_042_000197",
     "sentence": "於後高德政以聞，顯祖忿之而未發。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高德政",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_042_000198",
@@ -2655,7 +2693,14 @@
   {
     "sentence_id": "HCH_004_042_000226",
     "sentence": "及鄧長颙、顏之推奏立文林館，之推本意不欲令耆舊貴人居之，休之便相附會，與少年朝請、參軍之徒同入待詔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_042_000227",
@@ -2744,6 +2789,12 @@
         "end": 10
       },
       {
+        "text": "李祖欽",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 23,
@@ -2780,10 +2831,22 @@
         "end": 93
       },
       {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 93,
+        "end": 96
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 106,
         "end": 108
+      },
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 108,
+        "end": 111
       },
       {
         "text": "侍郎",
@@ -3138,6 +3201,12 @@
         "label": "TITLE",
         "start": 29,
         "end": 31
+      },
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -3189,7 +3258,14 @@
   {
     "sentence_id": "HCH_004_042_000274",
     "sentence": "在郎署之日，值趙彥深為水部郎中，同在一院，因成交友。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_042_000275",
@@ -3216,7 +3292,14 @@
   {
     "sentence_id": "HCH_004_042_000278",
     "sentence": "初，馮子琮以僕射攝選，婚嫁相尋，聿修常非笑之，語人云：「馮公營婚，日不暇給。」及自居選曹，亦不能免，時論以為地勢然也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮子琮",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_042_000279",

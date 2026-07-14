@@ -2,7 +2,14 @@
   {
     "sentence_id": "HCH_008_079_000001",
     "sentence": "○祖孝孫　傅仁均　傅弈　李淳風　呂才",
-    "entities": []
+    "entities": [
+      {
+        "text": "李淳風",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_079_000002",
@@ -195,6 +202,12 @@
     "sentence": "其後，協律郎張文收復采《三禮》，增損樂章，然因孝孫之本音。",
     "entities": [
       {
+        "text": "張文收",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "《三禮》",
         "label": "TITLE",
         "start": 11,
@@ -310,6 +323,12 @@
     "sentence_id": "HCH_008_079_000036",
     "sentence": "又太史丞王孝通執《甲辰曆法》以駁之曰：",
     "entities": [
+      {
+        "text": "王孝通",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "《甲辰曆法》",
         "label": "TITLE",
@@ -650,7 +669,20 @@
   {
     "sentence_id": "HCH_008_079_000083",
     "sentence": "李淳風復駁仁均歷十有八事，敕大理卿崔善為考二家得失，七條改從淳風，余一十一條並依舊定。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李淳風",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "崔善為",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_079_000084",
@@ -910,7 +942,14 @@
   {
     "sentence_id": "HCH_008_079_000124",
     "sentence": "高祖付群官詳議，唯太僕卿張道源稱奕奏合理。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張道源",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_079_000125",
@@ -997,12 +1036,25 @@
   {
     "sentence_id": "HCH_008_079_000132",
     "sentence": "李淳風",
-    "entities": []
+    "entities": [
+      {
+        "text": "李淳風",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_079_000133",
     "sentence": "李淳風，岐州雍人也。",
     "entities": [
+      {
+        "text": "李淳風",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "岐州",
         "label": "LOC",
@@ -1434,7 +1486,14 @@
   {
     "sentence_id": "HCH_008_079_000169",
     "sentence": "太宗令侍臣更訪能者，中書令溫彥博奏才聰明多能，眼所未見，耳所未聞，一聞一見，皆達其妙，尤長於聲樂，請令考之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "溫彥博",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_079_000170",
@@ -1462,6 +1521,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "蔡允恭",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2513,6 +2578,18 @@
         "end": 191
       },
       {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 227,
+        "end": 231
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 240,
+        "end": 243
+      },
+      {
         "text": "《奉和雪詩》",
         "label": "TITLE",
         "start": 244,
@@ -2541,7 +2618,26 @@
   {
     "sentence_id": "HCH_008_079_000289",
     "sentence": "詔中書令許敬宗與才及李淳風、禮部郎中孔志約，並諸名醫，增損舊本，仍令司空李勣總監定之，併圖合成五十四卷，大行於代。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "李淳風",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "孔志約",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_079_000290",

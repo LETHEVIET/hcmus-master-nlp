@@ -102,7 +102,14 @@
   {
     "sentence_id": "HCH_003_098_000021",
     "sentence": "遣長孫嵩及長孫肥追之，度磧。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_098_000022",
@@ -544,6 +551,12 @@
     "sentence": "平陽王長孫翰等從黑漠；汝陰公長孫道生從白黑兩漠間；車駕從中道；東平公娥清次西，從栗園；宜城王奚斤、將軍安原等西道，從爾寒山。",
     "entities": [
       {
+        "text": "長孫道生",
+        "label": "PER",
+        "start": 14,
+        "end": 18
+      },
+      {
         "text": "宜城",
         "label": "LOC",
         "start": 43,
@@ -820,7 +833,14 @@
   {
     "sentence_id": "HCH_003_098_000124",
     "sentence": "司空長孫道生拒之於吐頹山。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫道生",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_098_000125",
@@ -1662,7 +1682,14 @@
   {
     "sentence_id": "HCH_003_098_000240",
     "sentence": "八月，詔兼散騎常侍王遵業馳驛宣旨慰喻阿那瑰，並申賜賚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王遵業",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_098_000241",
@@ -1703,6 +1730,12 @@
         "label": "TITLE",
         "start": 46,
         "end": 48
+      },
+      {
+        "text": "元修義",
+        "label": "PER",
+        "start": 48,
+        "end": 51
       },
       {
         "text": "尚書",
@@ -2708,31 +2741,37 @@
   {
     "sentence_id": "HCH_003_098_000353",
     "sentence": "莫廆遣弟屈雲攻慕容廆，慕容廆擊破之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容廆",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "慕容廆",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_098_000354",
     "sentence": "又遣別部素延伐慕容廆於棘城，復為慕容廆所破，時莫廆部眾強盛，自稱單于，塞外諸部咸憚之。",
     "entities": [
       {
-        "text": "伐慕容廆於棘城",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
+        "text": "慕容廆",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
   {
     "sentence_id": "HCH_003_098_000355",
     "sentence": "莫廆死，子遜昵延立，率眾攻慕容廆於棘城。",
-    "entities": [
-      {
-        "text": "攻慕容廆於棘城",
-        "label": "LOC",
-        "start": 12,
-        "end": 19
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_098_000356",
@@ -2782,7 +2821,14 @@
   {
     "sentence_id": "HCH_003_098_000365",
     "sentence": "復伐慕容廆，廆拒之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容廆",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_098_000366",
@@ -3921,7 +3967,14 @@
   {
     "sentence_id": "HCH_003_098_000530",
     "sentence": "慕容寶夜來攻營，軍人驚，走還于國。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_098_000531",

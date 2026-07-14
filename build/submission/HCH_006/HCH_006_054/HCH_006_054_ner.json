@@ -106,6 +106,12 @@
     "sentence": "典屬國公孫昆邪爲上泣曰：「李廣材氣，天下亡雙，自負其能，數與虜確，恐亡之。」上乃徙廣爲上郡太守。",
     "entities": [
       {
+        "text": "公孫昆邪",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      },
+      {
         "text": "上乃徙廣爲上郡",
         "label": "LOC",
         "start": 38,
@@ -206,12 +212,25 @@
   {
     "sentence_id": "HCH_006_054_000027",
     "sentence": "武帝即位，左右言廣名將也，由是入爲未央衞尉，而程不識時亦爲長樂衞尉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "程不識",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_054_000028",
     "sentence": "程不識故與廣俱以邊太守將屯。",
     "entities": [
+      {
+        "text": "程不識",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "太守",
         "label": "TITLE",
@@ -228,7 +247,14 @@
   {
     "sentence_id": "HCH_006_054_000030",
     "sentence": "程不識正部曲行伍營陳，擊刁斗，吏治軍簿至明，軍不得自便。",
-    "entities": []
+    "entities": [
+      {
+        "text": "程不識",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_054_000031",
@@ -245,6 +271,18 @@
         "label": "LOC",
         "start": 50,
         "end": 53
+      },
+      {
+        "text": "程不識",
+        "label": "PER",
+        "start": 56,
+        "end": 59
+      },
+      {
+        "text": "程不識",
+        "label": "PER",
+        "start": 77,
+        "end": 80
       }
     ]
   },
@@ -624,6 +662,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "丞相",
@@ -2209,6 +2253,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "張安世",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -2330,6 +2380,12 @@
         "end": 25
       },
       {
+        "text": "張安世",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 36,
@@ -2340,6 +2396,12 @@
         "label": "TITLE",
         "start": 47,
         "end": 49
+      },
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 52,
+        "end": 55
       },
       {
         "text": "丞相",
@@ -2366,6 +2428,12 @@
         "end": 82
       },
       {
+        "text": "杜延年",
+        "label": "PER",
+        "start": 85,
+        "end": 88
+      },
+      {
         "text": "次曰宗正陽城",
         "label": "LOC",
         "start": 89,
@@ -2376,6 +2444,12 @@
         "label": "TITLE",
         "start": 109,
         "end": 111
+      },
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 113,
+        "end": 116
       }
     ]
   },
@@ -2404,6 +2478,12 @@
         "label": "LOC",
         "start": 12,
         "end": 17
+      },
+      {
+        "text": "尹翁歸",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },

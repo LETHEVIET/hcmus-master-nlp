@@ -651,12 +651,6 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
-      },
-      {
-        "text": "任城",
-        "label": "LOC",
-        "start": 4,
-        "end": 6
       }
     ]
   },
@@ -884,7 +878,20 @@
   {
     "sentence_id": "HCH_003_043_000090",
     "sentence": "與盧陽烏、李安人等結為親友，往來朝會，常相追隨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧陽烏",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "李安人",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_043_000091",
@@ -2010,6 +2017,12 @@
         "end": 5
       },
       {
+        "text": "夏侯道遷",
+        "label": "PER",
+        "start": 7,
+        "end": 11
+      },
+      {
         "text": "漢",
         "label": "ORG",
         "start": 12,
@@ -2106,6 +2119,12 @@
         "end": 49
       },
       {
+        "text": "劉季連",
+        "label": "PER",
+        "start": 51,
+        "end": 54
+      },
+      {
         "text": "蜀",
         "label": "ORG",
         "start": 119,
@@ -2194,7 +2213,14 @@
   {
     "sentence_id": "HCH_003_043_000235",
     "sentence": "武興氐楊集起等反，巒遣統軍傅豎眼討平之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "傅豎眼",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_043_000236",
@@ -3659,6 +3685,12 @@
         "label": "TITLE",
         "start": 25,
         "end": 27
+      },
+      {
+        "text": "李琰之",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -3831,6 +3863,12 @@
     "sentence_id": "HCH_003_043_000409",
     "sentence": "南人曾問賓司：「邢子才故應是北間第一才士，何為不作聘使？」答云：「子才文辭實無所愧，但官位已高，恐非復行限。」南人曰：「鄭伯猷，護軍猶得將命，國子祭酒何為不可？」邵既不行，復請還故郡。",
     "entities": [
+      {
+        "text": "鄭伯猷",
+        "label": "PER",
+        "start": 60,
+        "end": 63
+      },
       {
         "text": "復請還故郡",
         "label": "LOC",
@@ -5095,6 +5133,18 @@
     "sentence": "又遣二將昌義之、王神念率水軍溯淮而上，規取壽春，田道龍寇邊城，路長平寇五門，胡興茂寇開、霍。",
     "entities": [
       {
+        "text": "昌義之",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "王神念",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "田道龍寇邊城",
         "label": "LOC",
         "start": 24,
@@ -5187,6 +5237,12 @@
         "label": "TITLE",
         "start": 25,
         "end": 27
+      },
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -5681,6 +5737,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "李叔仁",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -5705,6 +5767,12 @@
         "label": "TITLE",
         "start": 56,
         "end": 58
+      },
+      {
+        "text": "元修義",
+        "label": "PER",
+        "start": 58,
+        "end": 61
       }
     ]
   },
@@ -5717,6 +5785,12 @@
         "label": "LOC",
         "start": 25,
         "end": 29
+      },
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 78,
+        "end": 81
       },
       {
         "text": "大都",
@@ -5797,6 +5871,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "元法僧",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "安樂王鑒為徐州",
@@ -6087,6 +6167,12 @@
         "label": "LOC",
         "start": 6,
         "end": 12
+      },
+      {
+        "text": "源子邕",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -6527,12 +6613,6 @@
         "end": 2
       },
       {
-        "text": "任城",
-        "label": "LOC",
-        "start": 4,
-        "end": 6
-      },
-      {
         "text": "靈太后乃封武邑",
         "label": "LOC",
         "start": 16,
@@ -6603,6 +6683,24 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "崔延伯",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "王神念",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "昌義之",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
@@ -7064,6 +7162,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "王松年",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -7245,7 +7349,14 @@
   {
     "sentence_id": "HCH_003_043_000781",
     "sentence": "武成以斛律金舊老，每朝，賜羊車上殿。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_043_000782",

@@ -131,16 +131,16 @@
     "sentence": "王行本守蒲州城不降，敕工部尚書獨孤懷恩率兵屯於其東，以經略之。",
     "entities": [
       {
-        "text": "王行本守蒲州城",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      },
-      {
         "text": "尚書",
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "獨孤懷恩",
+        "label": "PER",
+        "start": 15,
+        "end": 19
       }
     ]
   },
@@ -155,16 +155,16 @@
         "end": 4
       },
       {
-        "text": "人呂崇茂以城",
-        "label": "LOC",
-        "start": 4,
-        "end": 10
-      },
-      {
         "text": "尚書",
         "label": "TITLE",
         "start": 29,
         "end": 31
+      },
+      {
+        "text": "獨孤懷恩",
+        "label": "PER",
+        "start": 31,
+        "end": 35
       },
       {
         "text": "陝州",
@@ -206,6 +206,12 @@
         "label": "LOC",
         "start": 122,
         "end": 126
+      },
+      {
+        "text": "劉世讓",
+        "label": "PER",
+        "start": 152,
+        "end": 155
       }
     ]
   },
@@ -213,12 +219,6 @@
     "sentence_id": "HCH_008_058_000016",
     "sentence": "適遇王行本以蒲州歸降，高祖將入其城，浮舟至中流，世讓謁見，高祖讀奏，大驚曰：「豈非天命也！」回舟而歸，分捕反者按驗之，懷恩自縊，餘黨伏誅。",
     "entities": [
-      {
-        "text": "遇王行本以蒲州",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      },
       {
         "text": "高祖將入其城",
         "label": "LOC",
@@ -277,7 +277,14 @@
   {
     "sentence_id": "HCH_008_058_000020",
     "sentence": "貞觀初，使於突厥，說誘之，因以隋蕭後及楊正道以歸。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊正道",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_058_000021",
@@ -358,6 +365,12 @@
         "end": 7
       },
       {
+        "text": "張臣合",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 16,
@@ -425,12 +438,25 @@
   {
     "sentence_id": "HCH_008_058_000035",
     "sentence": "長孫順德",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫順德",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_058_000036",
     "sentence": "長孫順德，文德順聖皇后之族叔也。",
     "entities": [
+      {
+        "text": "長孫順德",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
       {
         "text": "皇后",
         "label": "TITLE",
@@ -482,7 +508,14 @@
   {
     "sentence_id": "HCH_008_058_000041",
     "sentence": "太宗外以討賊為名，因令順德與劉弘基等召募，旬月之間，眾至萬餘人，結營於郭下，遂誅王威、高君雅等。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉弘基",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_058_000042",
@@ -511,6 +544,12 @@
     "sentence_id": "HCH_008_058_000044",
     "sentence": "尋與劉文靜擊屈突通於潼關，每戰摧鋒。",
     "entities": [
+      {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "擊屈突通於潼關",
         "label": "LOC",
@@ -574,12 +613,26 @@
   {
     "sentence_id": "HCH_008_058_000050",
     "sentence": "大理少卿胡演進曰：「順德枉法受財，罪不可恕，奈何又賜之絹？」太宗曰：「人生性靈，得絹甚於刑戮；如不知愧，一禽獸耳，殺之何益！」尋坐與李孝常交通除名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李孝常",
+        "label": "PER",
+        "start": 66,
+        "end": 69
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_058_000051",
     "sentence": "歲餘，太宗閱功臣圖，見順德之像，閔然憐之，遣宇文士及視其所為，見順德頹然而醉，論者以為達命。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文士及",
+        "label": "PER",
+        "start": 22,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_058_000052",
@@ -624,6 +677,18 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "張長貴",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "趙士達",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -636,6 +701,12 @@
     "sentence_id": "HCH_008_058_000057",
     "sentence": "發疾，太宗聞而鄙之，謂房玄齡曰：「順德無慷慨之節，多兒女之情，今有此疾，何足問也！」未幾而卒，太宗為之罷朝，遣使弔祭，贈荊州都督，謚曰襄。",
     "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "贈荊州",
         "label": "LOC",
@@ -671,12 +742,25 @@
   {
     "sentence_id": "HCH_008_058_000060",
     "sentence": "劉弘基",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉弘基",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_058_000061",
     "sentence": "劉弘基，雍州池陽人也。",
     "entities": [
+      {
+        "text": "劉弘基",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "雍州",
         "label": "LOC",
@@ -750,7 +834,14 @@
   {
     "sentence_id": "HCH_008_058_000069",
     "sentence": "王威、高君雅欲為變，高祖伏弘基及長孫順德於廳事之後，弘基因麾左右執威等。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫順德",
+        "label": "PER",
+        "start": 16,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_058_000070",
@@ -900,6 +991,12 @@
         "label": "LOC",
         "start": 3,
         "end": 10
+      },
+      {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -1024,7 +1121,20 @@
   {
     "sentence_id": "HCH_008_058_000102",
     "sentence": "李孝常、長孫安業之謀逆也，坐與交遊除名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李孝常",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "長孫安業",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_058_000103",
@@ -1242,10 +1352,22 @@
     "sentence": "又與統軍劉弘基率兵六萬屯長安故城，隋將衛孝節自金光門出戰，嶠與弘基擊破之。",
     "entities": [
       {
+        "text": "劉弘基",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "六萬屯長安故城",
         "label": "LOC",
         "start": 9,
         "end": 16
+      },
+      {
+        "text": "衛孝節",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -1300,7 +1422,14 @@
   {
     "sentence_id": "HCH_008_058_000128",
     "sentence": "時太宗有疾，委軍於劉文靜，誡之曰：「賊眾遠來，利在急戰，難與爭鋒。且宜持久，待糧盡，然後可圖。」嶠退謂文靜曰：「王體不安，慮公不濟，故發此言。宜因機破賊，何乃以勍敵遺王也！」久之，言於文靜曰：「王不豫，恐賊輕我，請耀武以威之。」遂陳兵於折墌，為舉所乘，軍乃大敗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_058_000129",
@@ -1366,6 +1495,12 @@
         "label": "TITLE",
         "start": 31,
         "end": 33
+      },
+      {
+        "text": "劉政會",
+        "label": "PER",
+        "start": 33,
+        "end": 36
       }
     ]
   },
@@ -1378,6 +1513,30 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 6,
+        "end": 10
+      },
+      {
+        "text": "長孫順德",
+        "label": "PER",
+        "start": 14,
+        "end": 18
+      },
+      {
+        "text": "劉弘基",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "劉政會",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -1431,12 +1590,25 @@
   {
     "sentence_id": "HCH_008_058_000141",
     "sentence": "劉政會",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉政會",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_058_000142",
     "sentence": "劉政會，滑州胙城人也。",
     "entities": [
+      {
+        "text": "劉政會",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "滑州胙城",
         "label": "LOC",
@@ -1483,7 +1655,14 @@
   {
     "sentence_id": "HCH_008_058_000146",
     "sentence": "太宗與劉文靜謀起義兵，副留守王威、高君雅獨懷猜貳。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_058_000147",
@@ -1836,6 +2015,12 @@
     "sentence": "隋將桑顯和來擊，孫華率精銳渡河以援之，紹引軍直掩其背，與史大奈合勢擊之，顯和大敗，因與諸將進下京城。",
     "entities": [
       {
+        "text": "史大奈",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
         "text": "與諸將進下京城",
         "label": "LOC",
         "start": 42,
@@ -1870,6 +2055,12 @@
         "label": "LOC",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       },
       {
         "text": "大將軍",
@@ -2107,6 +2298,12 @@
         "end": 2
       },
       {
+        "text": "馬三寶",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "潘仁攻鄠縣",
         "label": "LOC",
         "start": 13,
@@ -2117,7 +2314,20 @@
   {
     "sentence_id": "HCH_008_058_000199",
     "sentence": "三寶又說群盜李仲文、向善志、丘師利等，各率眾數千人來會。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李仲文",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "丘師利",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_058_000200",
@@ -2328,6 +2538,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "房遺愛",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2351,12 +2567,25 @@
   {
     "sentence_id": "HCH_008_058_000218",
     "sentence": "馬三寶 〈 附 〉",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬三寶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_058_000219",
     "sentence": "馬三寶，初以平京城功，拜太子監門率。",
     "entities": [
+      {
+        "text": "馬三寶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "初以平京城",
         "label": "LOC",
@@ -2465,7 +2694,20 @@
   {
     "sentence_id": "HCH_008_058_000230",
     "sentence": "時盜賊蜂起，士鸊嘗陰勸高祖舉兵，自進兵書及符瑞，高祖謂曰：「幸勿多言。兵書禁物，尚能將來，深識雅意，當同富貴耳。」及義兵將起，高祖募人，遣劉弘基、長孫順德等分統之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉弘基",
+        "label": "PER",
+        "start": 69,
+        "end": 72
+      },
+      {
+        "text": "長孫順德",
+        "label": "PER",
+        "start": 73,
+        "end": 77
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_058_000231",
@@ -2475,7 +2717,14 @@
   {
     "sentence_id": "HCH_008_058_000232",
     "sentence": "留守司兵田德平又欲勸威等鞫問募人之狀，士鸊謂德平曰：「討捕之兵，總隸唐公。王威、高君雅等，並寄坐耳，彼何能為！」德平遂止。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田德平",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_058_000233",
@@ -2626,7 +2875,14 @@
   {
     "sentence_id": "HCH_008_058_000245",
     "sentence": "〈 次兄 〉 武士逸",
-    "entities": []
+    "entities": [
+      {
+        "text": "武士逸",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_058_000246",
@@ -2721,12 +2977,25 @@
   {
     "sentence_id": "HCH_008_058_000253",
     "sentence": "殷嶠、劉政會、柴嗣昌並在太原，首預舉義，從微至著，善始令終。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉政會",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_058_000254",
     "sentence": "馬三寶出廝養之徒，處將軍之位，亦馬之善走者也。",
     "entities": [
+      {
+        "text": "馬三寶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "將軍",
         "label": "TITLE",

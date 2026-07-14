@@ -35,6 +35,12 @@
         "label": "TME",
         "start": 2,
         "end": 5
+      },
+      {
+        "text": "歸崇敬",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -213,6 +219,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "王彥威",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -797,6 +809,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "薛元賞",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -1057,6 +1075,12 @@
         "label": "TME",
         "start": 80,
         "end": 82
+      },
+      {
+        "text": "顏真卿",
+        "label": "PER",
+        "start": 86,
+        "end": 89
       }
     ]
   },
@@ -1995,6 +2019,12 @@
         "label": "LOC",
         "start": 26,
         "end": 27
+      },
+      {
+        "text": "顏師古",
+        "label": "PER",
+        "start": 49,
+        "end": 52
       }
     ]
   },
@@ -2997,7 +3027,20 @@
   {
     "sentence_id": "HCH_008_026_000330",
     "sentence": "禮部員外郎崔宗之駁下太常，令更詳議，令集賢學士陸善經等更加詳核，善經亦以其議為允。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔宗之",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "陸善經",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_026_000331",
@@ -3155,6 +3198,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "顏真卿",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "皇帝",
@@ -3401,6 +3450,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "朱子奢",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -3510,6 +3565,12 @@
         "label": "TME",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "顏真卿",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -3964,7 +4025,14 @@
   {
     "sentence_id": "HCH_008_026_000451",
     "sentence": "其時禮儀使顏真卿因是上狀，與京議異，京議未行。",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏真卿",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_026_000452",
@@ -4050,6 +4118,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "仲子陵",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -4203,6 +4277,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "姚南仲",
+        "label": "PER",
+        "start": 92,
+        "end": 95
       }
     ]
   },
@@ -4385,6 +4465,12 @@
         "label": "TITLE",
         "start": 49,
         "end": 51
+      },
+      {
+        "text": "劉政會",
+        "label": "PER",
+        "start": 54,
+        "end": 57
       }
     ]
   },
@@ -4399,16 +4485,34 @@
         "end": 10
       },
       {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 15,
         "end": 17
       },
       {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 27,
         "end": 29
+      },
+      {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       }
     ]
   },
@@ -4421,6 +4525,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "張行成",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       },
       {
         "text": "中書令高唐縣",
@@ -4451,6 +4561,12 @@
         "label": "LOC",
         "start": 25,
         "end": 31
+      },
+      {
+        "text": "袁恕己",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },
@@ -4475,6 +4591,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "劉幽求",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -4517,7 +4639,56 @@
   {
     "sentence_id": "HCH_008_026_000498",
     "sentence": "太廟配饗功臣，高祖室加裴寂、劉文靜，太宗室加長孫無忌、李靖、杜如晦，高宗室加褚遂良、高季輔、劉仁軌，中宗室加狄仁傑、魏元忠、王同皎等十一人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 22,
+        "end": 26
+      },
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 38,
+        "end": 41
+      },
+      {
+        "text": "劉仁軌",
+        "label": "PER",
+        "start": 46,
+        "end": 49
+      },
+      {
+        "text": "狄仁傑",
+        "label": "PER",
+        "start": 54,
+        "end": 57
+      },
+      {
+        "text": "魏元忠",
+        "label": "PER",
+        "start": 58,
+        "end": 61
+      },
+      {
+        "text": "王同皎",
+        "label": "PER",
+        "start": 62,
+        "end": 65
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_026_000499",

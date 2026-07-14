@@ -271,10 +271,22 @@
     "sentence": "俄而宇文化及作難，太府卿元文都、武衛將軍皇甫無逸、右司郎中盧楚，奉越王侗嗣位於東都，拜世充為吏部尚書，封鄭國公。",
     "entities": [
       {
+        "text": "宇文化及",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "皇甫無逸",
+        "label": "PER",
+        "start": 20,
+        "end": 24
       },
       {
         "text": "尚書",
@@ -580,6 +592,12 @@
     "sentence": "有道士桓法嗣者，自言解圖讖，乃上《孔子閉房記》，畫作丈夫持一竿以驅羊。",
     "entities": [
       {
+        "text": "桓法嗣",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "《孔子閉房記》",
         "label": "TITLE",
         "start": 16,
@@ -761,6 +779,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "羅士信",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -779,14 +803,7 @@
   {
     "sentence_id": "HCH_008_054_000095",
     "sentence": "十一月，竇建德入世充之殷州，殺掠居人，焚燒積聚，以報黎陽之役。",
-    "entities": [
-      {
-        "text": "德入世充之殷州",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_054_000096",
@@ -797,6 +814,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "豆盧達",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -929,6 +952,12 @@
     "sentence": "九月，王君廓攻拔世充之轘轅縣，東徇地至管城而還，於是河南州縣相次降附。",
     "entities": [
       {
+        "text": "王君廓",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "拔世充之轘轅縣",
         "label": "LOC",
         "start": 7,
@@ -951,24 +980,31 @@
   {
     "sentence_id": "HCH_008_054_000111",
     "sentence": "竇建德自侵殷州之後，與世充遂結深隙，信使斷絕。",
+    "entities": []
+  },
+  {
+    "sentence_id": "HCH_008_054_000112",
+    "sentence": "十一月，竇建德又遣人結好，並陳救援之意。",
     "entities": [
       {
-        "text": "竇建德自侵殷州",
-        "label": "LOC",
-        "start": 0,
+        "text": "竇建德",
+        "label": "PER",
+        "start": 4,
         "end": 7
       }
     ]
   },
   {
-    "sentence_id": "HCH_008_054_000112",
-    "sentence": "十一月，竇建德又遣人結好，並陳救援之意。",
-    "entities": []
-  },
-  {
     "sentence_id": "HCH_008_054_000113",
     "sentence": "世充乃遣其兄子琬及內史令長孫安世報聘，且乞師。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫安世",
+        "label": "PER",
+        "start": 12,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_054_000114",
@@ -1015,6 +1051,12 @@
     "sentence_id": "HCH_008_054_000118",
     "sentence": "三月，秦王擒建德並王琬、長孫安世等於武牢，回至東都城下以示之，且遣安世入城，使言敗狀。",
     "entities": [
+      {
+        "text": "長孫安世",
+        "label": "PER",
+        "start": 12,
+        "end": 16
+      },
       {
         "text": "回至東都城",
         "label": "LOC",
@@ -1078,6 +1120,12 @@
         "label": "TITLE",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "獨孤修德",
+        "label": "PER",
+        "start": 22,
+        "end": 26
       }
     ]
   },
@@ -1101,12 +1149,25 @@
   {
     "sentence_id": "HCH_008_054_000126",
     "sentence": "竇建德",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_054_000127",
     "sentence": "竇建德，貝州漳南人也。",
     "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "貝州",
         "label": "LOC",
@@ -1594,6 +1655,12 @@
         "label": "LOC",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "孔德紹",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -1630,16 +1697,16 @@
         "end": 2
       },
       {
-        "text": "化及僭號於魏縣",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      },
-      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 25,
         "end": 27
+      },
+      {
+        "text": "孔德紹",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       },
       {
         "text": "十年",
@@ -1652,6 +1719,12 @@
         "label": "LOC",
         "start": 105,
         "end": 108
+      },
+      {
+        "text": "宇文化及",
+        "label": "PER",
+        "start": 131,
+        "end": 135
       },
       {
         "text": "隋",
@@ -1705,7 +1778,14 @@
   {
     "sentence_id": "HCH_008_054_000190",
     "sentence": "悉收弒煬帝元謀者宇文智及、楊士覽、元武達、許弘仁、孟景，集隋文武官，對而斬之，梟首轅門之外。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文智及",
+        "label": "PER",
+        "start": 8,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_054_000191",
@@ -1772,6 +1852,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "崔君肅",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       },
       {
         "text": "尚書",
@@ -1976,6 +2062,12 @@
         "label": "LOC",
         "start": 2,
         "end": 8
+      },
+      {
+        "text": "徐圓朗",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -2060,6 +2152,18 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "陳君賓",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "張道源",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -2227,6 +2331,12 @@
         "label": "LOC",
         "start": 16,
         "end": 23
+      },
+      {
+        "text": "徐圓朗",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -2302,6 +2412,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "王君廓",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -2326,6 +2442,12 @@
         "label": "LOC",
         "start": 13,
         "end": 17
+      },
+      {
+        "text": "長孫安世",
+        "label": "PER",
+        "start": 120,
+        "end": 124
       }
     ]
   },
@@ -2377,6 +2499,12 @@
     "sentence_id": "HCH_008_054_000246",
     "sentence": "建德所領兵眾，一時奔潰，妻曹氏及其左僕射齊善行將數百騎遁於洺州。",
     "entities": [
+      {
+        "text": "齊善行",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
       {
         "text": "數百騎遁於洺州",
         "label": "LOC",

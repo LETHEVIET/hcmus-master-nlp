@@ -12,7 +12,14 @@
   {
     "sentence_id": "HCH_003_090_000003",
     "sentence": "周澹李修徐謇從孫之才王顯馬嗣明姚僧垣褚該許智藏萬寶常蔣少游何稠",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚僧垣",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_090_000004",
@@ -117,7 +124,14 @@
   {
     "sentence_id": "HCH_003_090_000020",
     "sentence": "修兄元孫隨畢眾敬赴平陽，亦遵父業而不及，以功拜奉朝請。",
-    "entities": []
+    "entities": [
+      {
+        "text": "畢眾敬",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_090_000021",
@@ -975,7 +989,14 @@
   {
     "sentence_id": "HCH_003_090_000119",
     "sentence": "鄭道育常戲之才為師公，之才曰：「既為汝師，又為汝公，在三之義，頓居其兩。」又嘲王昕姓云：「有言則𧥶，近犬便狂，加頸足而為馬，施角尾而成羊。」盧元明因戲之才云：「卿姓是未入人，名是子之誤，之當為之也。」即答云：「卿姓，在上為虐，在丘為虛，生男則為虜，配馬則為驢。」又常與朝士出遊，遙望群犬競走，諸人試令目之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭道育",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_090_000120",
@@ -1310,7 +1331,14 @@
   {
     "sentence_id": "HCH_003_090_000168",
     "sentence": "臨執呼冤，直閣伊盆生以刀鐶撞其腋下，傷中吐血，至右衛府，一宿死。",
-    "entities": []
+    "entities": [
+      {
+        "text": "伊盆生",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_090_000169",
@@ -1545,17 +1573,38 @@
   {
     "sentence_id": "HCH_003_090_000204",
     "sentence": "然性自矜大，輕諸醫人，自徐之才、崔叔鸞以還，俱為其所輕。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_090_000205",
     "sentence": "姚僧垣",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚僧垣",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_090_000206",
     "sentence": "姚僧垣，字法衛，吳興武康人，吳太常信之八世孫也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚僧垣",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_090_000207",
@@ -1719,6 +1768,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "伊婁穆",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2298,7 +2353,14 @@
   {
     "sentence_id": "HCH_003_090_000297",
     "sentence": "自許奭死後，該稍為時人所重，賓客迎候，亞于姚僧垣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚僧垣",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_090_000298",
@@ -2449,10 +2511,22 @@
     "sentence": "澄父奭，仕梁，為中軍長史，隨柳仲禮入長安，與姚僧垣齊名，拜上儀同三司。",
     "entities": [
       {
+        "text": "柳仲禮",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "長安",
         "label": "LOC",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "姚僧垣",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -2918,6 +2992,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "侯文和",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -3613,7 +3693,26 @@
   {
     "sentence_id": "HCH_003_090_000466",
     "sentence": "晁崇、張深、殷紹、王早、耿玄、劉靈助、李順興、檀特師、由吾道榮、顏惡頭、王春、信都芳、宋景業、許遵、吳遵世、趙輔和、皇甫玉、解法選、魏甯、綦母懷文、張子信、陸法和、蔣升、強練、庾季才、盧太翼、耿詢、來和、蕭吉、楊伯醜、臨孝恭、劉祐、張胄玄等，皆魏來術藝之士也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉靈助",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "陸法和",
+        "label": "PER",
+        "start": 78,
+        "end": 81
+      },
+      {
+        "text": "庾季才",
+        "label": "PER",
+        "start": 88,
+        "end": 91
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_090_000467",
@@ -3645,7 +3744,14 @@
   {
     "sentence_id": "HCH_003_090_000471",
     "sentence": "周澹、李脩、徐謇、謇兄孫之才、王顯、馬嗣明、姚僧垣、褚該、許智藏方藥特妙，各一時之美也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚僧垣",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_090_000472",

@@ -2604,6 +2604,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "歐陽歙",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2815,7 +2821,14 @@
   {
     "sentence_id": "HCH_005_001c_000207",
     "sentence": "冬十一月甲戌，大司徒歐陽歙下獄死。",
-    "entities": []
+    "entities": [
+      {
+        "text": "歐陽歙",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_001c_000208",

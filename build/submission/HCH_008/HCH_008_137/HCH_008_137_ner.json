@@ -55,6 +55,12 @@
         "end": 2
       },
       {
+        "text": "張守珪",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 16,
@@ -88,6 +94,12 @@
     "sentence_id": "HCH_008_137_000010",
     "sentence": "安祿山反，出為襄陽太守、本郡防禦使，賜以金紫之服。",
     "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "太守",
         "label": "TITLE",
@@ -189,10 +201,10 @@
         "end": 22
       },
       {
-        "text": "坐貶明州",
-        "label": "LOC",
-        "start": 28,
-        "end": 32
+        "text": "李棲筠",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -406,7 +418,14 @@
   {
     "sentence_id": "HCH_008_137_000035",
     "sentence": "朝廷方討淮、蔡，環誣奏博宣受吳少誠賂為反間，又妄說國家休咎，扇惑軍情。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳少誠",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000036",
@@ -488,6 +507,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "陳正儀",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -508,6 +533,24 @@
         "end": 227
       },
       {
+        "text": "張九齡",
+        "label": "PER",
+        "start": 228,
+        "end": 231
+      },
+      {
+        "text": "吳仲孺",
+        "label": "PER",
+        "start": 268,
+        "end": 271
+      },
+      {
+        "text": "劉長卿",
+        "label": "PER",
+        "start": 277,
+        "end": 280
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 300,
@@ -523,12 +566,25 @@
   {
     "sentence_id": "HCH_008_137_000043",
     "sentence": "劉太真",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉太真",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000044",
     "sentence": "劉太真，宣州人。",
     "entities": [
+      {
+        "text": "劉太真",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "宣州",
         "label": "LOC",
@@ -540,7 +596,14 @@
   {
     "sentence_id": "HCH_008_137_000045",
     "sentence": "涉學，善屬文，少師事詞人蕭穎士。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭穎士",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000046",
@@ -550,7 +613,14 @@
   {
     "sentence_id": "HCH_008_137_000047",
     "sentence": "大歷中，為淮南節度使陳少遊掌書記，征拜起居郎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳少遊",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000048",
@@ -777,6 +847,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "李季卿",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -843,6 +919,12 @@
     "sentence_id": "HCH_008_137_000078",
     "sentence": "李懷光誅，河東節度及諸軍會河中，詔往宣勞節度，使還，敷奏合旨，拜禮部侍郎。",
     "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "侍郎",
         "label": "TITLE",
@@ -957,12 +1039,26 @@
   {
     "sentence_id": "HCH_008_137_000088",
     "sentence": "舉進士，為史思明判官，歷事思明、朝義，常掌兵事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000089",
     "sentence": "朝義之敗，說降於軍前，郭子儀愛其才，留於幕下。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000090",
@@ -1003,6 +1099,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 41,
+        "end": 44
       },
       {
         "text": "三年",
@@ -1109,6 +1211,12 @@
         "end": 21
       },
       {
+        "text": "李抱玉",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      },
+      {
         "text": "超遷梓州",
         "label": "LOC",
         "start": 40,
@@ -1213,18 +1321,6 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
-      },
-      {
-        "text": "坐貶衢州",
-        "label": "LOC",
-        "start": 15,
-        "end": 19
-      },
-      {
-        "text": "移江州",
-        "label": "LOC",
-        "start": 22,
-        "end": 25
       }
     ]
   },
@@ -1250,6 +1346,12 @@
     "sentence": "崔元翰年近五十，始舉進士，邵異其文，擢第甲科，且曰：「不十五年，當掌詔令。」竟如其言。",
     "entities": [
       {
+        "text": "崔元翰",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "十五年",
         "label": "TME",
         "start": 28,
@@ -1260,7 +1362,14 @@
   {
     "sentence_id": "HCH_008_137_000110",
     "sentence": "獨孤授舉博學宏詞，吏部考為乙第，在中書覆升甲科，人稱其當。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤授",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000111",
@@ -1270,12 +1379,26 @@
   {
     "sentence_id": "HCH_008_137_000112",
     "sentence": "崔元翰",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔元翰",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000113",
     "sentence": "崔元翰者，博陵人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔元翰",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000114",
@@ -1356,12 +1479,26 @@
   {
     "sentence_id": "HCH_008_137_000125",
     "sentence": "于公異",
-    "entities": []
+    "entities": [
+      {
+        "text": "于公異",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000126",
     "sentence": "于公異者，吳人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "于公異",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000127",
@@ -1400,7 +1537,14 @@
   {
     "sentence_id": "HCH_008_137_000130",
     "sentence": "既而曰：「不知誰為之？」或對曰：「于公異之詞也。」上稱善久之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "于公異",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000131",
@@ -1430,6 +1574,12 @@
     "sentence": "詔曰：「祠部員外郎于公異，頃以才名，升於省闥。其少也，為父母之所不容，宜其引慝在躬，孝行不匱，匿名跡於畎畝，候安否於門閭，俾其親之過不彰，庶其誠之至必感。安於棄斥，遊學遠方，忘其溫凊之戀，竟至存亡之隔，為人子者，忍至是乎！宜放歸田里，俾自循省。其舉公異官尚書左丞盧邁，宜奪俸兩月。」時中書舍人高郢薦監察御史元敦義，及睹公異譴逐，懼為所累，乃上疏首陳敦義虧於禮教，詔嘉郢之知過，俾敦義罷歸。",
     "entities": [
       {
+        "text": "于公異",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 127,
@@ -1440,6 +1590,12 @@
         "label": "TITLE",
         "start": 151,
         "end": 153
+      },
+      {
+        "text": "元敦義",
+        "label": "PER",
+        "start": 153,
+        "end": 156
       }
     ]
   },
@@ -1616,7 +1772,14 @@
   {
     "sentence_id": "HCH_008_137_000146",
     "sentence": "渭又結附裴延齡之子操，舉進士，文詞非工，渭擢之登第，為正人嗤鄙。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴延齡",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000147",
@@ -1685,6 +1848,12 @@
         "label": "ORG",
         "start": 7,
         "end": 8
+      },
+      {
+        "text": "韋執誼",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -1692,6 +1861,12 @@
     "sentence_id": "HCH_008_137_000152",
     "sentence": "順宗在東宮，侍書王叔文勸太子招納時之英俊以自輔，溫與執誼尤為叔文所睠，起家再命拜左拾遺。",
     "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -1732,7 +1907,14 @@
   {
     "sentence_id": "HCH_008_137_000155",
     "sentence": "時王叔文用事，故與溫同遊東宮者，皆不次任用，溫在蕃中，悲嘆久之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000156",
@@ -1749,7 +1931,14 @@
   {
     "sentence_id": "HCH_008_137_000157",
     "sentence": "時柳宗元等九人坐叔文貶逐。",
-    "entities": []
+    "entities": [
+      {
+        "text": "柳宗元",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000158",
@@ -1759,22 +1948,54 @@
   {
     "sentence_id": "HCH_008_137_000159",
     "sentence": "溫天才俊拔，文彩贍逸，為時流柳宗元、劉禹錫所稱。",
-    "entities": []
+    "entities": [
+      {
+        "text": "柳宗元",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "劉禹錫",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000160",
     "sentence": "然性多險詐，好奇近利，與竇群、羊士諤趣尚相狎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "羊士諤",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000161",
     "sentence": "群為韋夏卿所薦，自處士不數年至御史中丞，李吉甫尤奇待之。",
     "entities": [
       {
+        "text": "韋夏卿",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -1822,12 +2043,6 @@
     "sentence_id": "HCH_008_137_000166",
     "sentence": "憲宗異之，召登面訊，其事皆虛，乃貶群為湖南觀察使，羊士諤資州刺史，溫均州刺史。",
     "entities": [
-      {
-        "text": "羊士諤資州",
-        "label": "LOC",
-        "start": 25,
-        "end": 30
-      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -1928,17 +2143,38 @@
   {
     "sentence_id": "HCH_008_137_000172",
     "sentence": "自後吉甫再入中書，長慶以後，李德裕黨盛，呂氏諸子無至達官者。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000173",
     "sentence": "鄭雲逵",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭雲逵",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000174",
     "sentence": "鄭雲逵，滎陽人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭雲逵",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000175",
@@ -2056,12 +2292,6 @@
         "label": "TME",
         "start": 0,
         "end": 2
-      },
-      {
-        "text": "張延賞任揚州",
-        "label": "LOC",
-        "start": 63,
-        "end": 69
       },
       {
         "text": "慶等州",
@@ -2304,7 +2534,14 @@
   {
     "sentence_id": "HCH_008_137_000213",
     "sentence": "然太真以畏懦聞，邵說以僭侈失，于公異、呂渭、李益皆有微累，故知全其德者罕矣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "于公異",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_137_000214",

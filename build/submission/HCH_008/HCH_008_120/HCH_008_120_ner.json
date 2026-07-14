@@ -2,17 +2,37 @@
   {
     "sentence_id": "HCH_008_120_000001",
     "sentence": "郭子儀 子:曜 晞 曖 曙 晤 映 晞子:鋼 曖子:釗 鏦 釗子:仲文 族弟 幼明 子昕",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000002",
     "sentence": "郭子儀",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000003",
     "sentence": "郭子儀 ，華州鄭縣人。",
     "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "華州鄭縣",
         "label": "LOC",
@@ -77,7 +97,14 @@
   {
     "sentence_id": "HCH_008_120_000008",
     "sentence": "十四載，安祿山反。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000009",
@@ -107,6 +134,12 @@
     "sentence": "祿山遣大同軍使高秀巖寇河曲，子儀擊敗之，進收雲中馬邑，開東陘，以功加御史大夫。",
     "entities": [
       {
+        "text": "高秀巖",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "進收雲中馬邑",
         "label": "LOC",
         "start": 20,
@@ -131,10 +164,10 @@
     "sentence": "十五載正月，賊將蔡希德陷常山郡，執顏杲卿，河北郡縣皆為賊守。",
     "entities": [
       {
-        "text": "蔡希德陷常山郡",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
+        "text": "顏杲卿",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       },
       {
         "text": "河北郡縣",
@@ -148,6 +181,12 @@
     "sentence_id": "HCH_008_120_000013",
     "sentence": "二月，子儀與河東節度使李光弼率師下井陘，拔常山郡，破賊於九門，南攻趙郡，生擒賊四千，皆舍之，斬偽太守郭獻璆，獲兵仗數萬。",
     "entities": [
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "拔常山郡",
         "label": "LOC",
@@ -165,13 +204,26 @@
         "label": "TITLE",
         "start": 48,
         "end": 50
+      },
+      {
+        "text": "郭獻璆",
+        "label": "PER",
+        "start": 50,
+        "end": 53
       }
     ]
   },
   {
     "sentence_id": "HCH_008_120_000014",
     "sentence": "師還常山，賊將史思明以數萬人踵其後，我行亦行，我止亦止。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000015",
@@ -196,7 +248,38 @@
   {
     "sentence_id": "HCH_008_120_000019",
     "sentence": "數日，光弼議曰：「賊怠矣，可以戰。」六月，子儀、光弼率僕固懷恩、渾釋之、陳回光等陣於嘉山，賊將史思明、蔡希德、尹子奇等亦結陣而至，一戰敗之，斬馘四萬級，生擒五千人，獲馬五千匹，思明露髪跣足奔於博陵。",
-    "entities": []
+    "entities": [
+      {
+        "text": "僕固懷恩",
+        "label": "PER",
+        "start": 27,
+        "end": 31
+      },
+      {
+        "text": "渾釋之",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      },
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      },
+      {
+        "text": "蔡希德",
+        "label": "PER",
+        "start": 51,
+        "end": 54
+      },
+      {
+        "text": "尹子奇",
+        "label": "PER",
+        "start": 55,
+        "end": 58
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000020",
@@ -220,10 +303,22 @@
     "sentence": "是月， 哥舒翰 為賊所敗，潼關不守，玄宗幸蜀，肅宗幸靈武，子儀副使杜鴻漸為朔方留後，奏迎車駕。",
     "entities": [
       {
+        "text": "哥舒翰",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "潼關",
         "label": "LOC",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "杜鴻漸",
+        "label": "PER",
+        "start": 33,
+        "end": 36
       }
     ]
   },
@@ -235,7 +330,14 @@
   {
     "sentence_id": "HCH_008_120_000024",
     "sentence": "八月，子儀與李光弼率步騎五萬至自河北。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000025",
@@ -321,6 +423,12 @@
     "sentence": "賊將 崔乾祐 守潼關。",
     "entities": [
       {
+        "text": "崔乾祐",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "守潼關",
         "label": "LOC",
         "start": 7,
@@ -343,6 +451,12 @@
         "label": "LOC",
         "start": 6,
         "end": 13
+      },
+      {
+        "text": "崔乾祐",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -408,7 +522,14 @@
   {
     "sentence_id": "HCH_008_120_000040",
     "sentence": "是月，安祿山死，朝廷欲圖大舉，詔子儀還鳳翔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000041",
@@ -437,7 +558,14 @@
   {
     "sentence_id": "HCH_008_120_000043",
     "sentence": "師於潏水之西，與賊將安太清、安守忠戰，王師不利，其眾大潰，盡委兵仗於清渠之上。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安太清",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000044",
@@ -476,7 +604,14 @@
   {
     "sentence_id": "HCH_008_120_000048",
     "sentence": "歸仁先薄我軍，我軍亂，李嗣業奮命馳突，擒賊十餘騎乃定。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣業",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000049",
@@ -487,6 +622,12 @@
     "sentence_id": "HCH_008_120_000050",
     "sentence": "賊將張通儒守長安，聞歸仁等敗，是夜奔陜郡。",
     "entities": [
+      {
+        "text": "張通儒",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "長安",
         "label": "LOC",
@@ -516,10 +657,22 @@
     "sentence": "十月，安慶緒遣嚴莊悉其眾十萬來赴陜州，與張通儒同抗官軍。",
     "entities": [
       {
+        "text": "安慶緒",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "眾十萬來赴陜州",
         "label": "LOC",
         "start": 11,
         "end": 18
+      },
+      {
+        "text": "張通儒",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -548,16 +701,16 @@
     "sentence": "嚴莊、張通儒走歸洛陽，遂與安慶緒渡河保相州。",
     "entities": [
       {
+        "text": "張通儒",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "洛陽",
         "label": "LOC",
         "start": 8,
         "end": 10
-      },
-      {
-        "text": "慶緒渡河保相州",
-        "label": "LOC",
-        "start": 14,
-        "end": 21
       }
     ]
   },
@@ -569,7 +722,14 @@
   {
     "sentence_id": "HCH_008_120_000060",
     "sentence": "偽侍中陳希烈、偽中書令張垍等三百餘人素服請罪，王慰撫遣之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳希烈",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000061",
@@ -614,7 +774,50 @@
   {
     "sentence_id": "HCH_008_120_000065",
     "sentence": "九月，奉詔大舉，子儀與河東節度使李光弼、關內節度使王思禮、北庭行營節度李嗣業、襄鄧節度使魯炅、荊南節度季廣琛、河南節度使崔光遠、滑濮節度許叔冀、平盧兵馬使董秦等九節度之師討安慶緒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "王思禮",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "李嗣業",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      },
+      {
+        "text": "季廣琛",
+        "label": "PER",
+        "start": 51,
+        "end": 54
+      },
+      {
+        "text": "崔光遠",
+        "label": "PER",
+        "start": 60,
+        "end": 63
+      },
+      {
+        "text": "許叔冀",
+        "label": "PER",
+        "start": 68,
+        "end": 71
+      },
+      {
+        "text": "安慶緒",
+        "label": "PER",
+        "start": 86,
+        "end": 89
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000066",
@@ -624,7 +827,14 @@
   {
     "sentence_id": "HCH_008_120_000067",
     "sentence": "唯以中官魚朝恩為觀軍容宣慰使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000068",
@@ -641,7 +851,26 @@
   {
     "sentence_id": "HCH_008_120_000069",
     "sentence": "安慶緒與其驍將安雄俊、崔乾祐、薛嵩、田承嗣悉其眾來援，分為三軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安慶緒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "崔乾祐",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "田承嗣",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000070",
@@ -675,7 +904,14 @@
   {
     "sentence_id": "HCH_008_120_000073",
     "sentence": "慶緒遣薛嵩以所乘馬十匹求救於史思明，且言禪代。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000074",
@@ -691,6 +927,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "陽精卒復陷魏州",
@@ -727,7 +969,26 @@
   {
     "sentence_id": "HCH_008_120_000078",
     "sentence": "李光弼、王思禮、許叔冀、魯炅前軍遇賊於鄴南，與之接戰，夷傷相半，魯炅中流矢。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "王思禮",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "許叔冀",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000079",
@@ -764,12 +1025,26 @@
   {
     "sentence_id": "HCH_008_120_000084",
     "sentence": "中官 魚朝恩 素害子儀之功，因其不振，媒孽之，尋召還京師。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000085",
     "sentence": "天子以趙王系為天下兵馬元帥，李光弼副之，委以陜東軍事，代子儀之任。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000086",
@@ -780,6 +1055,12 @@
     "sentence_id": "HCH_008_120_000087",
     "sentence": "俄而史思明再陷河洛，朝廷旰食，復慮蕃寇逼迫京畿，三年正月，授子儀邠寧、鄜坊兩鎮節度使，仍留京師。",
     "entities": [
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "三年",
         "label": "TME",
@@ -810,6 +1091,12 @@
         "end": 4
       },
       {
+        "text": "管崇嗣",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "河東諸鎮",
         "label": "LOC",
         "start": 38,
@@ -833,6 +1120,18 @@
         "end": 4
       },
       {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
         "text": "退保陜州",
         "label": "LOC",
         "start": 29,
@@ -849,13 +1148,26 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李國貞",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
   {
     "sentence_id": "HCH_008_120_000093",
     "sentence": "時太原節度鄧景山亦為部下所殺，恐其合從連賊，朝廷憂之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄧景山",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000094",
@@ -912,6 +1224,12 @@
     "sentence_id": "HCH_008_120_000099",
     "sentence": "太原辛雲京聞子儀誅元振，亦誅害景山者，由是河東諸鎮率皆奉法。",
     "entities": [
+      {
+        "text": "辛雲京",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "由是河東諸鎮",
         "label": "LOC",
@@ -1021,10 +1339,22 @@
     "sentence": "時 史朝義 尚據洛陽，元帥雍王率師進討，代宗欲以子儀副之，而魚朝恩、程元振亂政，殺 裴茂 、 來瑱 ，子儀既為所間，其事遂寢，乃留京師。",
     "entities": [
       {
+        "text": "史朝義",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "洛陽",
         "label": "LOC",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       }
     ]
   },
@@ -1032,6 +1362,18 @@
     "sentence_id": "HCH_008_120_000116",
     "sentence": "俄而 梁崇義 據襄陽叛， 僕固懷恩 阻兵於汾州，引回紇、吐蕃之眾入寇河西。",
     "entities": [
+      {
+        "text": "梁崇義",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "僕固懷恩",
+        "label": "PER",
+        "start": 13,
+        "end": 17
+      },
       {
         "text": "阻兵於汾州",
         "label": "LOC",
@@ -1067,7 +1409,14 @@
   {
     "sentence_id": "HCH_008_120_000118",
     "sentence": "渭北行營兵馬使呂日將逆戰於盩厔，自辰至酉，殺蕃軍數千，然其徒多殞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "呂日將",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000119",
@@ -1096,6 +1445,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -1169,7 +1524,20 @@
   {
     "sentence_id": "HCH_008_120_000129",
     "sentence": "子儀遣六軍兵馬使張知節、烏崇福、羽林軍使長孫全緒等將兵萬人為前鋒，營於韓公堆，盛張旗幟，鼓鞞震山谷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "烏崇福",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "長孫全緒",
+        "label": "PER",
+        "start": 20,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000130",
@@ -1186,7 +1554,14 @@
   {
     "sentence_id": "HCH_008_120_000131",
     "sentence": "大將李忠義先屯兵苑中，渭北節度使王仲升守朝堂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李忠義",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000132",
@@ -1243,6 +1618,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "張重光",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -1443,6 +1824,12 @@
     "sentence": "是時，河北副元帥 僕固懷恩 方頓軍汾州，掠并、汾諸縣以為己邑。",
     "entities": [
       {
+        "text": "僕固懷恩",
+        "label": "PER",
+        "start": 9,
+        "end": 13
+      },
+      {
         "text": "方頓軍汾州",
         "label": "LOC",
         "start": 14,
@@ -1477,7 +1864,14 @@
   {
     "sentence_id": "HCH_008_120_000170",
     "sentence": "蕃戎既退，僕固懷恩部下離散。",
-    "entities": []
+    "entities": [
+      {
+        "text": "僕固懷恩",
+        "label": "PER",
+        "start": 5,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000171",
@@ -1523,6 +1917,12 @@
     "sentence": "十月，僕固懷恩引吐蕃、回紇、党項數十萬南下，京師大恐，子儀出鎮奉天。",
     "entities": [
       {
+        "text": "僕固懷恩",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      },
+      {
         "text": "子儀出鎮",
         "label": "LOC",
         "start": 27,
@@ -1539,12 +1939,6 @@
         "label": "LOC",
         "start": 111,
         "end": 115
-      },
-      {
-        "text": "度使白孝德閉城",
-        "label": "LOC",
-        "start": 142,
-        "end": 149
       }
     ]
   },
@@ -1686,7 +2080,14 @@
   {
     "sentence_id": "HCH_008_120_000197",
     "sentence": "手詔答曰：「 優崇之命，所以報功；總領之司，期於賦政。卿入居臺鉉，出統戎旃，爰自先朝，累匡多難，靖群氛於海表，凝庶績於天階。敏事而寡言，居敬而行簡，人難其易，爾易其難。所以命掌六聯，首茲百辟，顧循時議，僉謂允諧。而屢拜封章，懇懷讓揖，守淳素之道，語政理之源，無待禮成，曲從德讓。宜宣示於外，編之史冊。 」遣內侍魚朝恩傳詔，賜美人盧氏等六人、從者八人，並車服、帷帳、床蓐、珍玩之具。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 155,
+        "end": 158
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000198",
@@ -1723,6 +2124,12 @@
     "sentence": "八月，僕固懷恩誘吐蕃、回紇、党項、羌、渾、奴剌，山賊任敷、鄭庭、郝德、劉開元等三十餘萬南下，先發數萬人掠同州，期自華陰趨藍田，以扼南路，懷恩率重兵繼其後。",
     "entities": [
       {
+        "text": "僕固懷恩",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      },
+      {
         "text": "發數萬人掠同州",
         "label": "LOC",
         "start": 47,
@@ -1738,18 +2145,37 @@
   {
     "sentence_id": "HCH_008_120_000202",
     "sentence": "京師震恐，天子下詔親征，命李忠臣屯東渭橋，李光進屯雲陽，馬璘、郝廷玉屯便橋，駱奉先、李日越屯盩啡，李抱玉屯鳳翔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李忠臣",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "李光進",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "郝廷玉",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      },
+      {
+        "text": "李抱玉",
+        "label": "PER",
+        "start": 49,
+        "end": 52
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000203",
     "sentence": "周智光屯同州，杜冕屯坊州，天子以禁軍屯苑內。",
     "entities": [
-      {
-        "text": "周智光屯同州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      },
       {
         "text": "杜冕屯坊州",
         "label": "LOC",
@@ -1780,6 +2206,12 @@
     "sentence": "魚朝恩括士庶私馬，重兵捉城門，市民由竇穴而遁去，人情危迫。",
     "entities": [
       {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "重兵捉城",
         "label": "LOC",
         "start": 9,
@@ -1800,12 +2232,25 @@
   {
     "sentence_id": "HCH_008_120_000209",
     "sentence": "子儀使李國臣、高升拒其東，魏楚玉當其南，陳回光當其西，朱元琮當其北。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李國臣",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000210",
     "sentence": "子儀率甲騎二千出沒於左右前後，虜見而問：「此誰也？」報曰：「郭令公也。」回紇曰：「令公存乎？僕固懷恩言天可汗已棄四海，令公亦謝世，中國無主，故從其來。今令公存，天可汗存乎？」報之曰：「皇帝萬歲無疆。」回紇皆曰：「懷恩欺我。」子儀又使諭之曰：「公等頃年遠涉萬里，翦除兇逆，恢復二京。是時子儀與公等周旋艱難，何日忘之。今忽棄舊好，助一叛臣，何其愚也！且懷恩背主棄親，於公等何有？」回紇曰：「謂令公亡矣，不然，何以至此。令公誠存，安得而見之？」子儀將出，諸將諫曰：「戎狄之心，不可信也，請無往。」子儀曰：「虜有數十倍之眾，今力固不敵，且至誠感神，況虜輩乎！」諸將曰：「請選鐵騎五百衛從。」子儀曰：「適足以為害也。」乃傳呼曰：「令公來！」虜初疑，持滿註矢以待之。",
     "entities": [
+      {
+        "text": "僕固懷恩",
+        "label": "PER",
+        "start": 46,
+        "end": 50
+      },
       {
         "text": "皇帝",
         "label": "TITLE",
@@ -1827,7 +2272,14 @@
   {
     "sentence_id": "HCH_008_120_000213",
     "sentence": "子儀遣朔方兵馬使白元光與回紇會軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白元光",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000214",
@@ -1868,6 +2320,12 @@
         "end": 10
       },
       {
+        "text": "周智光",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 40,
@@ -1894,6 +2352,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -1929,7 +2393,14 @@
   {
     "sentence_id": "HCH_008_120_000224",
     "sentence": "人以魚朝恩素惡子儀，疑其使之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000225",
@@ -1973,7 +2444,14 @@
   {
     "sentence_id": "HCH_008_120_000230",
     "sentence": "是月，白元光大破吐蕃靈武。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白元光",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000231",
@@ -2394,7 +2872,14 @@
   {
     "sentence_id": "HCH_008_120_000291",
     "sentence": "前後遭罹幸臣程元振、魚朝恩譖毀百端，時方握強兵，或方臨戎敵，詔命徵之，未嘗不即日應召，故讒謗不能行。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000292",
@@ -2405,6 +2890,12 @@
     "sentence_id": "HCH_008_120_000293",
     "sentence": "田承嗣 方跋扈魏州，傲狠無禮，子儀嘗遣使至，承嗣西望拜之，指其膝謂使者曰：「茲膝不屈於人若干歲矣，今為公拜。」 李靈曜 據汴州，公私財賦一皆遏絕，獨子儀封幣經其境，莫敢留之，必持兵衛送。",
     "entities": [
+      {
+        "text": "田承嗣",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "方跋扈魏州",
         "label": "LOC",
@@ -2427,7 +2918,14 @@
   {
     "sentence_id": "HCH_008_120_000295",
     "sentence": "麾下老將若 李懷光 輩數十人，皆王侯重貴，子儀頤指進退，如僕隸焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000296",
@@ -2437,7 +2935,14 @@
   {
     "sentence_id": "HCH_008_120_000297",
     "sentence": "始與李光弼齊名，雖威略不逮，而寬厚得人過之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000298",
@@ -2553,7 +3058,14 @@
   {
     "sentence_id": "HCH_008_120_000316",
     "sentence": "子儀之婿太僕卿趙縱、少府少監李洞清、光祿卿王宰，皆以有人告訐細過，相次貶黜。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李洞清",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000317",
@@ -2631,6 +3143,18 @@
     "sentence": "後河中軍亂，殺節度使李國貞、荔非元禮於絳，詔以子儀為河東關內副元帥，鎮絳州，時四方擾叛，多逐戎帥，子儀至絳，誅其元惡，其黨頗不自安，欲謀翻變。",
     "entities": [
       {
+        "text": "李國貞",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "荔非元禮",
+        "label": "PER",
+        "start": 14,
+        "end": 18
+      },
+      {
         "text": "以子儀為河東關",
         "label": "LOC",
         "start": 22,
@@ -2658,6 +3182,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "僕固懷恩",
+        "label": "PER",
+        "start": 5,
+        "end": 9
       }
     ]
   },
@@ -2849,6 +3379,12 @@
     "sentence": "晞子鋼為朔方節度使杜希全賓佐，希全以鋼攝豐州刺史。",
     "entities": [
       {
+        "text": "杜希全",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "希全以鋼攝豐州",
         "label": "LOC",
         "start": 15,
@@ -2882,7 +3418,14 @@
   {
     "sentence_id": "HCH_008_120_000344",
     "sentence": "蕃將見鋼獨叛，不納，置之筏上，流入黃河令歸，杜希全得之，送赴京師，賜鋼自盡，晞亦坐子免官。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜希全",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000345",
@@ -2966,7 +3509,14 @@
   {
     "sentence_id": "HCH_008_120_000354",
     "sentence": "升平有脂粉硙兩輪，郭子儀私硙兩輪，所司未敢毀徹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000355",
@@ -3411,6 +3961,12 @@
         "end": 12
       },
       {
+        "text": "杜元穎",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "軍陷成都府外城",
         "label": "LOC",
         "start": 27,
@@ -3438,7 +3994,14 @@
   {
     "sentence_id": "HCH_008_120_000393",
     "sentence": "釗致書於蠻首領泬巔，責以侵寇之意，泬巔曰：「杜元穎不守疆埸，屢侵吾圉，以是修報也。」與釗修好而退。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜元穎",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000394",
@@ -3656,6 +4219,12 @@
         "end": 67
       },
       {
+        "text": "郭仲文",
+        "label": "PER",
+        "start": 118,
+        "end": 121
+      },
+      {
         "text": "以萬年縣",
         "label": "LOC",
         "start": 200,
@@ -3765,6 +4334,18 @@
         "label": "LOC",
         "start": 12,
         "end": 15
+      },
+      {
+        "text": "李嗣業",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "荔非元禮",
+        "label": "PER",
+        "start": 25,
+        "end": 29
       }
     ]
   },
@@ -3783,6 +4364,12 @@
         "label": "TME",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "李元忠",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -3801,6 +4388,12 @@
         "label": "LOC",
         "start": 34,
         "end": 36
+      },
+      {
+        "text": "李元忠",
+        "label": "PER",
+        "start": 87,
+        "end": 90
       },
       {
         "text": "大都",
@@ -3831,7 +4424,14 @@
   {
     "sentence_id": "HCH_008_120_000424",
     "sentence": "李元忠，本姓曹，名令忠，以功賜姓名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李元忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_120_000425",
@@ -3842,6 +4442,12 @@
     "sentence_id": "HCH_008_120_000426",
     "sentence": "又有袁光庭者，為伊州刺史，隴右諸郡皆陷，光庭堅守伊州，吐蕃攻之累年，兵盡食竭，光庭先刃其妻子，自焚而死。",
     "entities": [
+      {
+        "text": "袁光庭",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "為伊州",
         "label": "LOC",

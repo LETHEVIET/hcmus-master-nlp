@@ -171,6 +171,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -303,6 +309,12 @@
         "label": "TITLE",
         "start": 125,
         "end": 127
+      },
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 127,
+        "end": 130
       },
       {
         "text": "皇帝",
@@ -544,6 +556,12 @@
         "end": 6
       },
       {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 13,
@@ -603,6 +621,12 @@
         "end": 37
       },
       {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 38,
+        "end": 41
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 46,
@@ -641,7 +665,14 @@
   {
     "sentence_id": "HCH_004_007_000041",
     "sentence": "冬十一月丁丑，詔兼散騎常侍封孝琰使於陳。",
-    "entities": []
+    "entities": [
+      {
+        "text": "封孝琰",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_007_000042",
@@ -722,6 +753,12 @@
     "sentence": "三月乙丑，詔司空斛律光督五營軍士築戍於軹關。",
     "entities": [
       {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "軍士築戍於軹關",
         "label": "LOC",
         "start": 14,
@@ -743,6 +780,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -853,6 +896,12 @@
         "end": 14
       },
       {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "萬至東雍及晉州",
         "label": "LOC",
         "start": 20,
@@ -932,6 +981,12 @@
     "sentence_id": "HCH_004_007_000072",
     "sentence": "庚辰，以司空斛律光為司徒，以侍中、武興王普為尚書左僕射。",
     "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -1113,6 +1168,12 @@
         "label": "LOC",
         "start": 17,
         "end": 22
+      },
+      {
+        "text": "權景宣",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -1160,6 +1221,18 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "王士良",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "權景宣",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -1219,6 +1292,12 @@
     "sentence_id": "HCH_004_007_000099",
     "sentence": "己巳，乙太師段韶為太宰，以司徒斛律光為太尉，幷州刺史蘭陵王長恭為尚書令。",
     "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
       {
         "text": "幷州",
         "label": "LOC",

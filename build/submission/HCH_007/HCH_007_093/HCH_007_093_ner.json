@@ -111,7 +111,14 @@
   {
     "sentence_id": "HCH_007_093_000012",
     "sentence": "武皇厭代，其弟克寧握兵柄，有嗣襲之望，質與張承業等密謀，同立莊宗爲嗣，有翊贊之功。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_093_000013",
@@ -644,7 +651,14 @@
   {
     "sentence_id": "HCH_007_093_000064",
     "sentence": "及高祖臨朝，崧爲樞密使，與桑維翰同列，維翰與專美亦有舊，乃協力以奏之，遂復朝序，位至九卿。",
-    "entities": []
+    "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_093_000065",
@@ -868,6 +882,12 @@
     "sentence_id": "HCH_007_093_000090",
     "sentence": "嘗草制，爲宰相桑維翰所改，棁以唐故事，學士草制有所改者，當罷職，乃引經據爭，維翰不能詰，命權知二年貢舉。",
     "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "二年",
         "label": "TME",
@@ -1194,12 +1214,6 @@
     "sentence": "〈 （《歐陽史·張彥澤傳》：國珍與御史中丞王易簡率三院御史詣閣門，連疏論張彥澤，不報。） 〉 又求爲御史中丞，時宰政不復爲請，國珍銜之。",
     "entities": [
       {
-        "text": "《歐陽史·張彥澤傳》",
-        "label": "TITLE",
-        "start": 3,
-        "end": 13
-      },
-      {
         "text": "御史",
         "label": "TITLE",
         "start": 17,
@@ -1210,6 +1224,12 @@
         "label": "TITLE",
         "start": 27,
         "end": 29
+      },
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 36,
+        "end": 39
       },
       {
         "text": "御史",
@@ -1246,6 +1266,12 @@
         "label": "LOC",
         "start": 38,
         "end": 44
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 51,
+        "end": 54
       },
       {
         "text": "出爲陜州",
@@ -1495,6 +1521,12 @@
     "sentence": "天福中，承詔與張昭遠等修《唐史》，竟集其功。",
     "entities": [
       {
+        "text": "張昭遠",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "《唐史》",
         "label": "TITLE",
         "start": 12,
@@ -1650,12 +1682,25 @@
   {
     "sentence_id": "HCH_007_093_000165",
     "sentence": "尹玉羽",
-    "entities": []
+    "entities": [
+      {
+        "text": "尹玉羽",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_093_000166",
     "sentence": "尹玉羽，京兆長安人。",
     "entities": [
+      {
+        "text": "尹玉羽",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "長安",
         "label": "LOC",
@@ -1718,6 +1763,12 @@
         "label": "LOC",
         "start": 55,
         "end": 57
+      },
+      {
+        "text": "尹玉羽",
+        "label": "PER",
+        "start": 61,
+        "end": 64
       },
       {
         "text": "輦入城",

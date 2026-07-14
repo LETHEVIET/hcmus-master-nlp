@@ -820,6 +820,12 @@
     "sentence": "元帝初即位，太傅蕭望之為前將軍，少傅周堪為諸吏光祿大夫，皆領尚書事，甚見尊任。",
     "entities": [
       {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 13,
@@ -914,6 +920,12 @@
         "end": 6
       },
       {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 26,
@@ -983,6 +995,12 @@
     "sentence_id": "HCH_006_036_000118",
     "sentence": "又董仲舒坐私為災異書，主父偃取奏之，下吏，罪至不道，幸蒙不誅，復為太中大夫，膠西相，以老病免歸。",
     "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "大夫",
         "label": "TITLE",
@@ -1737,6 +1755,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "諸葛豐",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -2902,6 +2926,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "翟方進",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -3118,7 +3148,14 @@
   {
     "sentence_id": "HCH_006_036_000418",
     "sentence": "天漢之後，孔安國獻之，遭巫蠱倉卒之難，未及施行。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孔安國",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_036_000419",
@@ -3354,6 +3391,12 @@
     "sentence_id": "HCH_006_036_000449",
     "sentence": "贊曰：仲尼稱「材難不其然與！」自孔子後，綴文之士眾矣，唯孟軻、孫況，董仲舒、司馬遷、劉向、揚雄。",
     "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      },
       {
         "text": "司馬",
         "label": "TITLE",

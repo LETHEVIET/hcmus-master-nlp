@@ -524,7 +524,14 @@
   {
     "sentence_id": "HCH_006_083_000046",
     "sentence": "貢者，趙廣漢之兄子也，為吏亦有能名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙廣漢",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_083_000047",
@@ -644,6 +651,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "翟方進",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },

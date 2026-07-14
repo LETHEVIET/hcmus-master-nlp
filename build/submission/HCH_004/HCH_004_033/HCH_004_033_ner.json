@@ -2,7 +2,14 @@
   {
     "sentence_id": "HCH_004_033_000001",
     "sentence": "蕭明　蕭祗　蕭退　蕭放　徐之才",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_033_000002",
@@ -117,6 +124,18 @@
     "sentence": "是時梁太尉王僧辯、司空陳霸先在建鄴，推晉安王方智為丞相。",
     "entities": [
       {
+        "text": "王僧辯",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "陳霸先",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "丞相",
         "label": "TITLE",
         "start": 25,
@@ -143,6 +162,12 @@
         "label": "LOC",
         "start": 1,
         "end": 8
+      },
+      {
+        "text": "裴之橫",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -190,6 +215,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "王僧辯",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "司馬",
@@ -294,7 +325,14 @@
   {
     "sentence_id": "HCH_004_033_000033",
     "sentence": "蕭祗，字敬式，梁武弟南平王偉之子也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王偉之",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_033_000034",
@@ -450,7 +488,14 @@
   {
     "sentence_id": "HCH_004_033_000047",
     "sentence": "蕭退，梁武帝弟司空鄱陽王恢之子也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王恢之",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_033_000048",
@@ -562,12 +607,26 @@
   {
     "sentence_id": "HCH_004_033_000064",
     "sentence": "徐之才",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_033_000065",
     "sentence": "徐之才，丹陽人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_033_000066",
@@ -809,7 +868,14 @@
   {
     "sentence_id": "HCH_004_033_000088",
     "sentence": "之才少解天文，兼圖讖之學，共館客宋景業參校吉兇，知午年必有革易，因高德政啟之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高德政",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_033_000089",
@@ -1152,7 +1218,14 @@
   {
     "sentence_id": "HCH_004_033_000129",
     "sentence": "鄭道育常戲之才為師公。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭道育",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_033_000130",

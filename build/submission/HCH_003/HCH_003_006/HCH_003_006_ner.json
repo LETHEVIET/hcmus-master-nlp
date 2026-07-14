@@ -46,7 +46,14 @@
   {
     "sentence_id": "HCH_003_006_000007",
     "sentence": "及慕容寶敗，國亂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_006_000008",
@@ -250,6 +257,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "賈顯智",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -261,7 +274,14 @@
   {
     "sentence_id": "HCH_003_006_000034",
     "sentence": "劉貴嘗得一白鷹，與神武及尉景、蔡俊、子如、賈顯智等獵於沃野。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賈顯智",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_006_000035",
@@ -763,7 +783,14 @@
   {
     "sentence_id": "HCH_003_006_000113",
     "sentence": "其長史慕容紹宗諫曰：「不可，今四方擾擾，人懷異望，況高公雄略，又握大兵，將不可為。」兆曰：「香火重誓，何所慮邪？」紹宗曰：「親兄弟尚難信，何論香火！」時兆左右已受神武金，因譖紹宗與神武舊隙，兆乃禁紹宗而催神武發。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_006_000114",
@@ -943,6 +970,12 @@
         "end": 5
       },
       {
+        "text": "封隆之",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "遂據冀州",
         "label": "LOC",
         "start": 26,
@@ -1066,7 +1099,14 @@
   {
     "sentence_id": "HCH_003_006_000151",
     "sentence": "神武曰：「若不得已，明日，椎牛饗士，喻以討爾朱兆之意。」封隆之進曰：「千載一時，普天幸甚。」神武曰：「討賊，大順也。拯時，大業也。吾雖不武，以死繼之，何敢讓焉。」",
-    "entities": []
+    "entities": [
+      {
+        "text": "封隆之",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_006_000152",
@@ -1077,12 +1117,6 @@
     "sentence_id": "HCH_003_006_000153",
     "sentence": "及李元忠與高幹平殷州，斬爾朱羽生首來謁，神武撫膺曰：「今日反決矣！」乃以元忠為殷州刺史。",
     "entities": [
-      {
-        "text": "忠與高幹平殷州",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      },
       {
         "text": "乃以元忠為殷州",
         "label": "LOC",
@@ -1116,6 +1150,12 @@
         "label": "LOC",
         "start": 3,
         "end": 10
+      },
+      {
+        "text": "李元忠",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1305,7 +1345,14 @@
   {
     "sentence_id": "HCH_003_006_000172",
     "sentence": "神武令封隆之守鄴，自出頓紫陌。",
-    "entities": []
+    "entities": [
+      {
+        "text": "封隆之",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_006_000173",
@@ -1335,7 +1382,14 @@
   {
     "sentence_id": "HCH_003_006_000178",
     "sentence": "爾朱兆對慕容紹宗叩心曰：「不用公言，以此。」將輕走，紹宗反旗鳴角，收聚散卒，成軍容而西上。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_006_000179",
@@ -1350,7 +1404,14 @@
   {
     "sentence_id": "HCH_003_006_000181",
     "sentence": "斛斯椿倍道先據河橋。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_006_000182",
@@ -1379,6 +1440,12 @@
     "sentence": "四月，斛斯椿執天光、度律以送洛陽。",
     "entities": [
       {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "洛陽",
         "label": "LOC",
         "start": 14,
@@ -1390,6 +1457,12 @@
     "sentence_id": "HCH_003_006_000186",
     "sentence": "長孫承業遣都督賈顯智、張歡入洛陽。",
     "entities": [
+      {
+        "text": "賈顯智",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "洛陽",
         "label": "LOC",
@@ -1519,7 +1592,26 @@
   {
     "sentence_id": "HCH_003_006_000199",
     "sentence": "封隆之言，侍中斛斯椿、賀拔勝、賈顯智等往事爾朱，普皆反噬。",
-    "entities": []
+    "entities": [
+      {
+        "text": "封隆之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "賈顯智",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_006_000200",
@@ -1622,6 +1714,12 @@
     "sentence": "慕容紹宗以爾朱榮妻子及余眾自保烏突城。",
     "entities": [
       {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
+      {
         "text": "余眾自保烏突城",
         "label": "LOC",
         "start": 11,
@@ -1648,6 +1746,12 @@
     "sentence_id": "HCH_003_006_000219",
     "sentence": "斛斯椿由是內不自安，乃與南陽王寶炬及武衛將軍元毗、魏光祿、王思政構神武於魏帝。",
     "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "將軍",
         "label": "TITLE",
@@ -1844,12 +1948,26 @@
   {
     "sentence_id": "HCH_003_006_000249",
     "sentence": "若曰：「永寧見災，魏不寧矣。飛入東海，勃海應矣。」魏帝既有異圖，時侍中封隆之與孫騰私言，隆之喪妻，魏帝欲妻以從妹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "封隆之",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_006_000250",
     "sentence": "騰亦未之信，心害隆之，泄其言於斛斯椿，椿以白魏帝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_006_000251",
@@ -1872,6 +1990,12 @@
     "sentence_id": "HCH_003_006_000253",
     "sentence": "魏帝於是以斛斯椿兼領軍，分置督將及河南、關西諸刺史。",
     "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -1937,12 +2061,6 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
-      },
-      {
-        "text": "府賈顯智為濟州",
-        "label": "LOC",
-        "start": 21,
-        "end": 28
       }
     ]
   },
@@ -2018,6 +2136,12 @@
         "label": "TITLE",
         "start": 64,
         "end": 66
+      },
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 66,
+        "end": 69
       },
       {
         "text": "大將軍",
@@ -2098,6 +2222,12 @@
         "end": 143
       },
       {
+        "text": "高敖曹",
+        "label": "PER",
+        "start": 143,
+        "end": 146
+      },
+      {
         "text": "濟州",
         "label": "LOC",
         "start": 147,
@@ -2108,6 +2238,12 @@
         "label": "TITLE",
         "start": 149,
         "end": 151
+      },
+      {
+        "text": "封隆之",
+        "label": "PER",
+        "start": 157,
+        "end": 160
       }
     ]
   },
@@ -2240,6 +2376,12 @@
     "sentence": "神武亦勒馬宣告曰：「孤遇爾朱擅權，舉大義於四海。奉戴主上，義貫幽明。橫為斛斯椿讒構，以誠節為逆首。昔趙鞅興晉陽之甲，誅君側惡人。今者南邁，誅椿而已。」以高昂為前鋒，曰：「若用司空言，豈有今日之舉！」司馬子如答神武曰：「本欲立小者，正為此耳。」魏帝征兵關右。",
     "entities": [
       {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 36,
+        "end": 39
+      },
+      {
         "text": "晉",
         "label": "ORG",
         "start": 53,
@@ -2268,12 +2410,6 @@
         "label": "LOC",
         "start": 18,
         "end": 20
-      },
-      {
-        "text": "斛斯椿共鎮",
-        "label": "LOC",
-        "start": 27,
-        "end": 32
       }
     ]
   },
@@ -2292,12 +2428,6 @@
         "label": "TITLE",
         "start": 18,
         "end": 20
-      },
-      {
-        "text": "賈顯智率豫州",
-        "label": "LOC",
-        "start": 26,
-        "end": 32
       },
       {
         "text": "刺史",
@@ -2386,7 +2516,14 @@
   {
     "sentence_id": "HCH_003_006_000289",
     "sentence": "而元斌之與斛斯椿爭權不睦，斌之棄椿徑還，紿帝雲神武兵至。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_006_000290",
@@ -2420,6 +2557,12 @@
         "label": "TITLE",
         "start": 77,
         "end": 79
+      },
+      {
+        "text": "崔孝芬",
+        "label": "PER",
+        "start": 79,
+        "end": 82
       },
       {
         "text": "尚書",
@@ -2897,6 +3040,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "万俟普撥",
+        "label": "PER",
+        "start": 19,
+        "end": 23
       }
     ]
   },
@@ -2921,6 +3070,12 @@
         "label": "TITLE",
         "start": 27,
         "end": 29
+      },
+      {
+        "text": "破六韓常",
+        "label": "PER",
+        "start": 29,
+        "end": 33
       }
     ]
   },
@@ -3069,7 +3224,14 @@
   {
     "sentence_id": "HCH_003_006_000360",
     "sentence": "七月壬午，行臺侯景、司徒高昂圍西魏將獨孤信於金墉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_006_000361",
@@ -3108,14 +3270,7 @@
   {
     "sentence_id": "HCH_003_006_000365",
     "sentence": "西師之敗，獨孤信先入關，周文留其都督長孫子彥守金墉，遂燒營以遁。",
-    "entities": [
-      {
-        "text": "獨孤信先入關",
-        "label": "LOC",
-        "start": 5,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_006_000366",
@@ -3675,6 +3830,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -3758,7 +3919,14 @@
   {
     "sentence_id": "HCH_003_006_000448",
     "sentence": "有惡鳥集於亭樹，世子使斛律光射殺之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_006_000449",
@@ -3783,7 +3951,14 @@
   {
     "sentence_id": "HCH_003_006_000453",
     "sentence": "使斛律金敕勒歌，神武自和之，哀感流涕。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_006_000454",
@@ -3831,6 +4006,18 @@
         "label": "TME",
         "start": 30,
         "end": 33
+      },
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 74,
+        "end": 77
+      },
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 175,
+        "end": 179
       }
     ]
   },
@@ -4653,6 +4840,12 @@
     "sentence_id": "HCH_003_006_000554",
     "sentence": "使大行臺慕容紹宗與太尉高嶽、大都督劉豐討王思政於潁川。",
     "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      },
       {
         "text": "大都",
         "label": "LOC",

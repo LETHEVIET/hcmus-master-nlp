@@ -2,7 +2,20 @@
   {
     "sentence_id": "HCH_003_060_000001",
     "sentence": "李弼 宇文貴 侯莫陳崇 王雄",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文貴",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "侯莫陳崇",
+        "label": "PER",
+        "start": 7,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_060_000002",
@@ -12,7 +25,20 @@
   {
     "sentence_id": "HCH_003_060_000003",
     "sentence": "李弼曾孫密 宇文貴子忻愷 侯莫陳崇子穎崇兄順 王雄子謙",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文貴",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "侯莫陳崇",
+        "label": "PER",
+        "start": 13,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_060_000004",
@@ -27,7 +53,14 @@
   {
     "sentence_id": "HCH_003_060_000006",
     "sentence": "六世祖振，慕容垂黃門郎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_060_000007",
@@ -73,7 +106,14 @@
   {
     "sentence_id": "HCH_003_060_000010",
     "sentence": "又與賀拔岳討萬俊醜奴、萬俊道洛、王慶雲，皆破之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_060_000011",
@@ -90,12 +130,26 @@
   {
     "sentence_id": "HCH_003_060_000012",
     "sentence": "及天光赴洛，弼隸侯莫陳悅，征討屢有克捷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 8,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_060_000013",
     "sentence": "及悅害賀拔岳，周文帝自平涼討悅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_060_000014",
@@ -878,7 +932,14 @@
   {
     "sentence_id": "HCH_003_060_000103",
     "sentence": "及宇文述、來護等軍且至，玄感謂密計將安出。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_060_000104",
@@ -1773,12 +1834,25 @@
   {
     "sentence_id": "HCH_003_060_000214",
     "sentence": "宇文貴",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文貴",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_060_000215",
     "sentence": "宇文貴，字永貴，其先昌黎大棘人也，徙居夏州。",
     "entities": [
+      {
+        "text": "宇文貴",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "徙居夏州",
         "label": "LOC",
@@ -1843,6 +1917,12 @@
         "label": "TITLE",
         "start": 48,
         "end": 50
+      },
+      {
+        "text": "源子邕",
+        "label": "PER",
+        "start": 50,
+        "end": 53
       }
     ]
   },
@@ -1931,6 +2011,12 @@
     "sentence": "大統初，與獨孤信入洛陽。",
     "entities": [
       {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "洛陽",
         "label": "LOC",
         "start": 9,
@@ -1947,6 +2033,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "賀若統",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -2178,7 +2270,14 @@
   {
     "sentence_id": "HCH_003_060_000253",
     "sentence": "武成初，與賀蘭祥討吐谷渾。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀蘭祥",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_060_000254",
@@ -2301,6 +2400,12 @@
     "sentence": "韋孝寬以忻驍勇，請與鎮玉壁，以戰功加開府，進爵化政郡公。",
     "entities": [
       {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "請與鎮",
         "label": "LOC",
         "start": 8,
@@ -2382,6 +2487,12 @@
     "sentence": "尋與烏丸軌破陳將吳明徹于呂梁，進位柱國，除豫州總管。",
     "entities": [
       {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "除豫州",
         "label": "LOC",
         "start": 20,
@@ -2404,7 +2515,14 @@
   {
     "sentence_id": "HCH_003_060_000283",
     "sentence": "尉遲迥作亂，以忻為行軍總管，隋韋孝寬擊之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_060_000284",
@@ -2517,7 +2635,14 @@
   {
     "sentence_id": "HCH_003_060_000300",
     "sentence": "與梁士彥昵狎，數相往來。",
-    "entities": []
+    "entities": [
+      {
+        "text": "梁士彥",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_060_000301",
@@ -3484,12 +3609,26 @@
   {
     "sentence_id": "HCH_003_060_000397",
     "sentence": "侯莫陳崇",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳崇",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_060_000398",
     "sentence": "侯莫陳崇，字尚樂，代武川人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳崇",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_060_000399",
@@ -3585,7 +3724,14 @@
   {
     "sentence_id": "HCH_003_060_000409",
     "sentence": "及岳為侯莫陳悅所害，崇與諸將同謀迎周文帝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_060_000410",
@@ -3821,7 +3967,14 @@
   {
     "sentence_id": "HCH_003_060_000436",
     "sentence": "穎與柱國豆盧勣分路而進，穎懸軍五百餘里，破其三柵。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧勣",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_060_000437",
@@ -4356,12 +4509,6 @@
         "end": 1
       },
       {
-        "text": "從賀拔岳入關",
-        "label": "LOC",
-        "start": 3,
-        "end": 9
-      },
-      {
         "text": "大夫",
         "label": "TITLE",
         "start": 15,
@@ -4694,6 +4841,12 @@
         "label": "ORG",
         "start": 47,
         "end": 49
+      },
+      {
+        "text": "豆盧勣",
+        "label": "PER",
+        "start": 50,
+        "end": 53
       }
     ]
   },
@@ -4819,7 +4972,14 @@
   {
     "sentence_id": "HCH_003_060_000529",
     "sentence": "宇文貴負將帥之材，蘊剛銳之氣，遭逢喪亂，險阻備嘗，自致高位，亦云美矣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文貴",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_060_000530",
@@ -4863,7 +5023,14 @@
   {
     "sentence_id": "HCH_003_060_000535",
     "sentence": "侯莫陳崇以勇悍之氣，逢戰爭之秋，輕騎啟高平之扉，疋馬和長坑之俊。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳崇",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_060_000536",
@@ -5071,6 +5238,12 @@
         "label": "LOC",
         "start": 18,
         "end": 21
+      },
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -5143,6 +5316,12 @@
         "label": "LOC",
         "start": 17,
         "end": 20
+      },
+      {
+        "text": "侯莫陳崇",
+        "label": "PER",
+        "start": 23,
+        "end": 27
       }
     ]
   },
@@ -5268,6 +5447,12 @@
         "label": "LOC",
         "start": 23,
         "end": 26
+      },
+      {
+        "text": "宇文導",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -5310,6 +5495,12 @@
         "label": "LOC",
         "start": 23,
         "end": 26
+      },
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -5358,6 +5549,12 @@
         "label": "LOC",
         "start": 12,
         "end": 15
+      },
+      {
+        "text": "豆盧寧",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -5382,6 +5579,12 @@
         "label": "LOC",
         "start": 12,
         "end": 15
+      },
+      {
+        "text": "宇文貴",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -5424,6 +5627,12 @@
         "label": "LOC",
         "start": 23,
         "end": 26
+      },
+      {
+        "text": "賀蘭祥",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },

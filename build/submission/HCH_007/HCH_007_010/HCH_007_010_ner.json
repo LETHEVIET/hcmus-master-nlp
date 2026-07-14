@@ -26,6 +26,12 @@
         "label": "LOC",
         "start": 28,
         "end": 31
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 53,
+        "end": 56
       }
     ]
   },
@@ -457,6 +463,12 @@
         "label": "LOC",
         "start": 5,
         "end": 12
+      },
+      {
+        "text": "程全暉",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -680,6 +692,12 @@
         "label": "TITLE",
         "start": 30,
         "end": 32
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 37,
+        "end": 40
       },
       {
         "text": "濮等州",
@@ -1106,6 +1124,18 @@
     "sentence": "丁亥，詔曰：「郊禋大禮，舊有渥恩，御殿改元，比無賞給。今則不循舊例，別示特恩。其行營將士賞賚已給付本家，宜令招討使霍彥威、副招討使王彥章、陳州行營都指揮使張漢傑曉示諸軍知委。是月，兗州節度使、充河東道行營都招討使劉鄩卒。",
     "entities": [
       {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 57,
+        "end": 60
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 65,
+        "end": 68
+      },
+      {
         "text": "陳州",
         "label": "LOC",
         "start": 69,
@@ -1196,6 +1226,12 @@
     "sentence": "冬十月，北面招討使戴思遠攻德勝寨之北城，晉人來援，思遠敗於戚城。",
     "entities": [
       {
+        "text": "戴思遠",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "攻德勝寨之北城",
         "label": "LOC",
         "start": 12,
@@ -1218,12 +1254,6 @@
         "label": "TME",
         "start": 2,
         "end": 4
-      },
-      {
-        "text": "思遠率師襲魏州",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
       }
     ]
   },
@@ -1272,6 +1302,12 @@
     "sentence_id": "HCH_007_010_000103",
     "sentence": "戴思遠又下淇門、共城、新鄉等三縣。",
     "entities": [
+      {
+        "text": "戴思遠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "共城",
         "label": "LOC",
@@ -1457,13 +1493,26 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
   {
     "sentence_id": "HCH_007_010_000113",
     "sentence": "辛酉，王彥章率舟師自楊村寨浮河而下，斷德勝之浮梁。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_010_000114",
@@ -1494,6 +1543,12 @@
     "sentence": "己巳，王彥章、段凝圍楊劉城。",
     "entities": [
       {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "段凝圍楊劉城",
         "label": "LOC",
         "start": 7,
@@ -1518,6 +1573,12 @@
     "sentence": "戊子，王彥章、杜晏球率兵急攻博州之新壘，不克，遂退保於鄒口。",
     "entities": [
       {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "球率兵急攻博州",
         "label": "LOC",
         "start": 9,
@@ -1533,7 +1594,14 @@
   {
     "sentence_id": "HCH_007_010_000120",
     "sentence": "王彥章棄鄒口，復至楊劉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_010_000121",
@@ -1543,7 +1611,14 @@
   {
     "sentence_id": "HCH_007_010_000122",
     "sentence": "八月，以段凝代王彥章為北面行營招討使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_010_000123",
@@ -1583,6 +1658,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -1606,7 +1687,20 @@
   {
     "sentence_id": "HCH_007_010_000129",
     "sentence": "甲戌，唐帝引師襲中都，王彥章兵潰，於是彥章與監軍張漢傑及趙廷隱、劉嗣彬、李知節、唐文通、王山興等皆為唐人所獲。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "趙廷隱",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_010_000130",
@@ -1761,6 +1855,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "婁繼英",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "將軍",

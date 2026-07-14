@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_008_174_000001",
     "sentence": "李德裕",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_174_000002",
     "sentence": "李德裕，字文饒，趙郡人。",
     "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "趙郡",
         "label": "LOC",
@@ -105,6 +118,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "張弘靖",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -206,7 +225,20 @@
   {
     "sentence_id": "HCH_008_174_000023",
     "sentence": "初，吉甫在相位時，牛僧孺、李宗閔應制舉直言極諫科。",
-    "entities": []
+    "entities": [
+      {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "李宗閔",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_174_000024",
@@ -216,19 +248,19 @@
   {
     "sentence_id": "HCH_008_174_000025",
     "sentence": "由是，考策官皆貶，事在《李宗閔傳》。",
-    "entities": [
-      {
-        "text": "《李宗閔傳》",
-        "label": "TITLE",
-        "start": 11,
-        "end": 17
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_174_000026",
     "sentence": "元和初，用兵伐叛，始於杜黃裳誅蜀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜黃裳",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_174_000027",
@@ -243,7 +275,20 @@
   {
     "sentence_id": "HCH_008_174_000029",
     "sentence": "而韋貫之、李逢吉沮議，深以用兵為非。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋貫之",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_174_000030",
@@ -297,7 +342,14 @@
   {
     "sentence_id": "HCH_008_174_000037",
     "sentence": "是月，李逢吉亦自襄陽入朝，乃密賂纖人，構成於方獄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_174_000038",
@@ -342,7 +394,14 @@
   {
     "sentence_id": "HCH_008_174_000042",
     "sentence": "時德裕與牛僧孺俱有相望，逢吉欲引僧孺，懼紳與德裕禁中沮之；九月，出德裕為浙西觀察使，尋引僧孺同平章事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_174_000043",
@@ -358,6 +417,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "竇易直",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -722,6 +787,12 @@
         "label": "LOC",
         "start": 7,
         "end": 12
+      },
+      {
+        "text": "李大亮",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -750,6 +821,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "倪若水",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -853,6 +930,12 @@
         "end": 2
       },
       {
+        "text": "王智興",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "請於泗州",
         "label": "LOC",
         "start": 19,
@@ -873,14 +956,7 @@
   {
     "sentence_id": "HCH_008_174_000118",
     "sentence": "王智興於所屬泗州置僧尼戒壇，自去冬於江、淮已南，所在懸榜招置。",
-    "entities": [
-      {
-        "text": "智興於所屬泗州",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_174_000119",
@@ -1201,7 +1277,14 @@
   {
     "sentence_id": "HCH_008_174_000149",
     "sentence": "帝雖不能盡用其言，命學士韋處厚殷勤答詔，頗嘉納其心焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋處厚",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_174_000150",
@@ -1240,6 +1323,12 @@
         "label": "ORG",
         "start": 161,
         "end": 162
+      },
+      {
+        "text": "令狐楚",
+        "label": "PER",
+        "start": 191,
+        "end": 194
       }
     ]
   },
@@ -1465,6 +1554,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "李宗閔",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1515,7 +1610,14 @@
   {
     "sentence_id": "HCH_008_174_000194",
     "sentence": "宗閔尋引牛僧孺同知政事，二憾相結，凡德裕之善者，皆斥之於外。",
-    "entities": []
+    "entities": [
+      {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_174_000195",
@@ -1758,6 +1860,12 @@
     "sentence": "時牛僧孺沮議，言新與吐蕃結盟，不宜敗約，語在《僧孺傳》。",
     "entities": [
       {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "《僧孺傳》",
         "label": "TITLE",
         "start": 22,
@@ -1894,12 +2002,26 @@
   {
     "sentence_id": "HCH_008_174_000227",
     "sentence": "由是王守澄進鄭註。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王守澄",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_174_000228",
     "sentence": "初，註構宋申錫事，帝深惡之，欲令京兆尹杖殺之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋申錫",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_174_000229",
@@ -2025,6 +2147,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "杜仲陽",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -2067,7 +2195,14 @@
   {
     "sentence_id": "HCH_008_174_000243",
     "sentence": "四月，帝於蓬萊殿召王涯、李固言、路隨、王璠、李漢、鄭註等，面證其事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李固言",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_174_000244",
@@ -2119,6 +2254,12 @@
     "sentence_id": "HCH_008_174_000249",
     "sentence": "其年七月，宗閔坐救楊虞卿，貶處州。",
     "entities": [
+      {
+        "text": "楊虞卿",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
       {
         "text": "貶處州",
         "label": "LOC",
@@ -2225,6 +2366,12 @@
         "label": "LOC",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },
@@ -2276,7 +2423,20 @@
   {
     "sentence_id": "HCH_008_174_000262",
     "sentence": "補闕王績、魏謨，崔黨韋有翼、拾遺令狐綯書左僕射。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋有翼",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "令狐綯",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_174_000263",
@@ -2398,6 +2558,12 @@
     "sentence": "德裕曰：「頃者國家艱難之際，回紇繼立大功。今國破家亡，竄投無所，自居塞上，未至侵淫。以窮來歸，遽行殺伐，非漢宣待呼韓邪之道也。不如聊濟資糧，徐觀其變。」宰相陳夷行曰：「此借寇兵而資盜糧，非計也，不如擊之便。」德裕曰：「田牟、韋仲平言沙陀、退渾並願擊賊，此緩急不可恃也。夫見利則進，遇敵則散，是雜虜之常態，必不肯為國家扞禦邊境。天德一城，戍兵寡弱，而欲與勁虜結讎，陷之必矣。不如以理恤之，俟其越軼，用兵為便。」帝以為然，許借米三萬石。",
     "entities": [
       {
+        "text": "陳夷行",
+        "label": "PER",
+        "start": 78,
+        "end": 81
+      },
+      {
         "text": "天德一城",
         "label": "LOC",
         "start": 163,
@@ -2437,14 +2603,7 @@
   {
     "sentence_id": "HCH_008_174_000279",
     "sentence": "沙陁、退渾皆以其家保山險；雲州張獻節嬰城自固。",
-    "entities": [
-      {
-        "text": "雲州張獻節嬰城",
-        "label": "LOC",
-        "start": 13,
-        "end": 20
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_174_000280",
@@ -2611,12 +2770,6 @@
         "label": "LOC",
         "start": 21,
         "end": 28
-      },
-      {
-        "text": "仁傑亦請棄四鎮",
-        "label": "LOC",
-        "start": 34,
-        "end": 41
       }
     ]
   },
@@ -2666,6 +2819,12 @@
         "label": "LOC",
         "start": 13,
         "end": 17
+      },
+      {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       },
       {
         "text": "終失維州",
@@ -3095,12 +3254,25 @@
   {
     "sentence_id": "HCH_008_174_000356",
     "sentence": "四月，澤潞節度使劉從諫卒，軍人以其侄稹擅總留後，三軍請降旄鉞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉從諫",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_174_000357",
     "sentence": "帝與宰臣議可否，德裕曰：「澤潞國家內地，不同河朔。前後命帥，皆用儒臣。頃者李抱真成立此軍，身歿之後，德宗尚不許繼襲，令李緘護喪歸洛。洎劉悟作鎮，長慶中頗亦自專。屬敬宗因循，遂許從諫繼襲。",
     "entities": [
+      {
+        "text": "李抱真",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      },
       {
         "text": "洎劉悟作鎮",
         "label": "LOC",
@@ -3200,6 +3372,18 @@
         "label": "LOC",
         "start": 137,
         "end": 140
+      },
+      {
+        "text": "何弘敬",
+        "label": "PER",
+        "start": 161,
+        "end": 164
+      },
+      {
+        "text": "王元逵",
+        "label": "PER",
+        "start": 165,
+        "end": 168
       }
     ]
   },
@@ -3275,7 +3459,14 @@
   {
     "sentence_id": "HCH_008_174_000369",
     "sentence": "遣中使馬元貫往太原宣諭，覘其所為。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬元貫",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_174_000370",
@@ -3303,7 +3494,14 @@
   {
     "sentence_id": "HCH_008_174_000372",
     "sentence": "德裕奏曰：「楊弁微賊，決不可恕！如國力不及，寧舍劉稹。」即時請降詔，令王逢起榆社軍，又令王元逵兵自土門入，會於太原。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王元逵",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_174_000373",
@@ -3384,7 +3582,20 @@
   {
     "sentence_id": "HCH_008_174_000383",
     "sentence": "白敏中、令狐綯，在會昌中德裕不以朋黨疑之，置之臺閣，顧待甚優。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白敏中",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "令狐綯",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_174_000384",
@@ -3441,6 +3652,12 @@
         "label": "LOC",
         "start": 2,
         "end": 9
+      },
+      {
+        "text": "吳汝納",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "訟李紳鎮揚州",
@@ -3534,7 +3751,14 @@
   {
     "sentence_id": "HCH_008_174_000396",
     "sentence": "有劉三復者，長於章奏，尤奇待之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉三復",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_174_000397",

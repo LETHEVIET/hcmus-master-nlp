@@ -317,6 +317,12 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "雋不疑",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -523,14 +529,7 @@
   {
     "sentence_id": "HCH_006_007_000050",
     "sentence": "冬，遣大鴻臚田廣明擊益州。",
-    "entities": [
-      {
-        "text": "臚田廣明擊益州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_006_007_000051",
@@ -919,6 +918,12 @@
         "end": 82
       },
       {
+        "text": "杜延年",
+        "label": "PER",
+        "start": 89,
+        "end": 92
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 93,
@@ -1093,7 +1098,14 @@
   {
     "sentence_id": "HCH_006_007_000091",
     "sentence": "夏四月，少府徐仁、廷尉王平、左馮翊賈勝胡皆坐縱反者，仁自殺，平、勝胡皆要斬。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賈勝胡",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_007_000092",
@@ -1352,6 +1364,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "張安世",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },

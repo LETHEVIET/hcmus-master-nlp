@@ -2,7 +2,14 @@
   {
     "sentence_id": "HCH_006_077_000001",
     "sentence": "蓋寬饒　諸葛豐　劉輔　鄭崇　孫寶　毌將隆　何並",
-    "entities": []
+    "entities": [
+      {
+        "text": "諸葛豐",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_077_000002",
@@ -54,6 +61,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "張安世",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -334,12 +347,26 @@
   {
     "sentence_id": "HCH_006_077_000034",
     "sentence": "諸葛豐",
-    "entities": []
+    "entities": [
+      {
+        "text": "諸葛豐",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_077_000035",
     "sentence": "諸葛豐字少季，琅邪人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "諸葛豐",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_077_000036",
@@ -585,6 +612,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "辛慶忌",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "將軍",
@@ -1782,7 +1815,14 @@
   {
     "sentence_id": "HCH_006_077_000178",
     "sentence": "何並之節，亞尹翁歸云。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尹翁歸",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_077_000179",

@@ -67,7 +67,14 @@
   {
     "sentence_id": "HCH_007_042_000006",
     "sentence": "丙戌，荊南節度使高從誨落起復，加兼中書令。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高從誨",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_042_000007",
@@ -95,7 +102,14 @@
   {
     "sentence_id": "HCH_007_042_000009",
     "sentence": "丁酉，幸至德宮，又幸安元信、東丹王突欲之第。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安元信",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_042_000010",
@@ -105,7 +119,14 @@
   {
     "sentence_id": "HCH_007_042_000011",
     "sentence": "以樞密院使、守太尉、兼中書令安重誨為檢校太師、兼中書令，充河中節度使，進封沂國公。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_042_000012",
@@ -168,12 +189,6 @@
         "label": "LOC",
         "start": 3,
         "end": 5
-      },
-      {
-        "text": "度使李敬周移鎮",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
       },
       {
         "text": "徐州",
@@ -262,14 +277,7 @@
   {
     "sentence_id": "HCH_007_042_000024",
     "sentence": "從珂自河中失守，歸清化裏第，至是安重誨出鎮河中，帝召見，泣而謂之曰：「如重誨意，爾安得更相見耶！」因有是命。",
-    "entities": [
-      {
-        "text": "至是安重誨出鎮",
-        "label": "LOC",
-        "start": 14,
-        "end": 21
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_042_000025",
@@ -292,6 +300,12 @@
         "label": "ORG",
         "start": 12,
         "end": 13
+      },
+      {
+        "text": "王思同",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -304,12 +318,6 @@
         "label": "LOC",
         "start": 15,
         "end": 19
-      },
-      {
-        "text": "使楊漢章為安州",
-        "label": "LOC",
-        "start": 21,
-        "end": 28
       }
     ]
   },
@@ -350,7 +358,14 @@
   {
     "sentence_id": "HCH_007_042_000032",
     "sentence": "誅內官安希倫，以其受安重誨密指，令於內中伺帝起居故也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_042_000033",
@@ -389,6 +404,12 @@
         "label": "LOC",
         "start": 20,
         "end": 23
+      },
+      {
+        "text": "符存審",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -401,6 +422,12 @@
         "label": "LOC",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "張虔釗",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -472,12 +499,25 @@
   {
     "sentence_id": "HCH_007_042_000042",
     "sentence": "己酉，天雄軍節度使石敬瑭兼六軍諸衛副使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_042_000043",
     "sentence": "辛亥，以前鳳翔節度使朱宏昭為左武衛上將軍，充宣徽南院使。",
     "entities": [
+      {
+        "text": "朱宏昭",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "將軍",
         "label": "TITLE",
@@ -685,6 +725,12 @@
     "sentence": "閏月庚寅，製河中節度使、檢校太師、兼中書令安重誨可太子太師致仕。",
     "entities": [
       {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 25,
@@ -792,6 +838,12 @@
     "sentence": "丁酉，安重誨奏：「男崇讚、崇緒等到州，臣已拘送赴闕。」崇緒至陝州，詔令下獄。",
     "entities": [
       {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "崇緒等到州",
         "label": "LOC",
         "start": 13,
@@ -808,7 +860,14 @@
   {
     "sentence_id": "HCH_007_042_000068",
     "sentence": "已亥，詔安重誨宜削奪在身官爵，並妻阿張、男崇讚崇緒等並賜死，其餘親不問。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_042_000069",
@@ -819,6 +878,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "崔居儉",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "尚書",
@@ -849,19 +914,20 @@
         "label": "LOC",
         "start": 13,
         "end": 15
-      },
-      {
-        "text": "使安從進為陝州",
-        "label": "LOC",
-        "start": 17,
-        "end": 24
       }
     ]
   },
   {
     "sentence_id": "HCH_007_042_000071",
     "sentence": "丁未，以前中書舍人楊凝式為左散騎常侍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊凝式",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_042_000072",
@@ -896,14 +962,7 @@
   {
     "sentence_id": "HCH_007_042_000074",
     "sentence": "壬子，以隨駕步軍都指揮使藥彥稠為邠州節度使。",
-    "entities": [
-      {
-        "text": "使藥彥稠為邠州",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_042_000075",
@@ -998,6 +1057,12 @@
         "label": "ORG",
         "start": 16,
         "end": 17
+      },
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -1015,12 +1080,6 @@
         "label": "LOC",
         "start": 3,
         "end": 5
-      },
-      {
-        "text": "度使李從敏移鎮",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
       },
       {
         "text": "盧質為滄州",
@@ -1115,6 +1174,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "張從實",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -1122,6 +1187,12 @@
     "sentence_id": "HCH_007_042_000091",
     "sentence": "壬辰，福建王延鈞上言：「當境廟七所，乞封王號。」敕：「如諸史傳有名，宜封為閩越富義王，其餘任自於境內祭享。」乙未，詔：「諸道奏薦州縣官，使相先許一年薦三人，今許薦五人；不帶使相先許薦二人，今許薦三人；直屬京防禦、團練使先許薦一人，今許薦二人。」詔：「應州縣官內，有曾在朝行及曾佐幕府，罷任後，準前資朝官賓從別處分。其帶省銜，並內供奉裏行及諸已出選門者，或降授令錄，罷任日，並依出選門例處分，便與除官，更不在赴常調。州縣官其間書得十六考者，準格敘加朝散階，亦準出選門例處分。」三司奏：「先許百姓造曲，不來官場收買。伏恐課額不逮，請復已前曲法，鄉戶與在城條法一例指揮，仍據已造到曲納官，量支還麥本。」從之。",
     "entities": [
+      {
+        "text": "王延鈞",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "諸道奏薦州縣",
         "label": "LOC",
@@ -1237,6 +1308,12 @@
     "sentence": "癸亥，以太常少卿盧文紀為秘書監，以秘書監馬縞為太子賓客，左監門上將軍羅周敬為右領軍上將軍，前懷州刺史婁繼英為左監門上將軍。",
     "entities": [
       {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 23,
@@ -1247,6 +1324,12 @@
         "label": "TITLE",
         "start": 32,
         "end": 34
+      },
+      {
+        "text": "羅周敬",
+        "label": "PER",
+        "start": 34,
+        "end": 37
       },
       {
         "text": "將軍",
@@ -1267,6 +1350,12 @@
         "end": 50
       },
       {
+        "text": "婁繼英",
+        "label": "PER",
+        "start": 50,
+        "end": 53
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 58,
@@ -1278,6 +1367,12 @@
     "sentence_id": "HCH_007_042_000098",
     "sentence": "乙丑，詔：「大理寺官員，宜同台省官例升進，法直官比禮直官任使。仍於諸道贓罰錢內，每月支錢一百貫文，賜刑部、大理兩司，其刑部於所賜錢三分與一分。」丙寅，以武平軍節度使馬希振依前檢校太尉、兼侍中，充虔州昭信軍節度使。",
     "entities": [
+      {
+        "text": "馬希振",
+        "label": "PER",
+        "start": 82,
+        "end": 85
+      },
       {
         "text": "充虔州",
         "label": "LOC",
@@ -1295,6 +1390,12 @@
         "label": "LOC",
         "start": 19,
         "end": 23
+      },
+      {
+        "text": "王建立",
+        "label": "PER",
+        "start": 46,
+        "end": 49
       },
       {
         "text": "太子",
@@ -1330,14 +1431,7 @@
   {
     "sentence_id": "HCH_007_042_000102",
     "sentence": "壬申，以左龍武統軍李承約為潞州節度使。",
-    "entities": [
-      {
-        "text": "軍李承約為潞州",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_042_000103",
@@ -1401,6 +1495,12 @@
         "label": "LOC",
         "start": 5,
         "end": 9
+      },
+      {
+        "text": "符彥超",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -1550,12 +1650,6 @@
         "label": "LOC",
         "start": 27,
         "end": 30
-      },
-      {
-        "text": "使張希崇為靈州",
-        "label": "LOC",
-        "start": 32,
-        "end": 39
       }
     ]
   },
@@ -1580,6 +1674,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "王延鈞",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "誅建州",

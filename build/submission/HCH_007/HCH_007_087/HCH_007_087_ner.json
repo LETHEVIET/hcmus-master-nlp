@@ -560,12 +560,25 @@
   {
     "sentence_id": "HCH_007_087_000051",
     "sentence": "未幾，鄴都範延光叛，朝廷遣楊光遠討之，詔前靈武節度使、洛都巡檢使張從賓發盟津屯兵赴鄴下。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_087_000052",
     "sentence": "會從賓密通延光，與婁繼英等先劫河橋，次亂洛邑，因害重乂於河南府，時年十九。",
     "entities": [
+      {
+        "text": "婁繼英",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
       {
         "text": "次亂洛邑",
         "label": "LOC",
@@ -668,6 +681,12 @@
         "end": 12
       },
       {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 69,
+        "end": 72
+      },
+      {
         "text": "《五代會要》",
         "label": "TITLE",
         "start": 94,
@@ -707,6 +726,12 @@
         "label": "TITLE",
         "start": 27,
         "end": 31
+      },
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 33,
+        "end": 36
       },
       {
         "text": "為皇子鎮",

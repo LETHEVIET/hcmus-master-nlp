@@ -212,7 +212,14 @@
   {
     "sentence_id": "HCH_005_045_000024",
     "sentence": "太尉鄭弘﹑司空第五倫皆恨之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "第五倫",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_045_000025",
@@ -234,7 +241,14 @@
   {
     "sentence_id": "HCH_005_045_000027",
     "sentence": "明年，代第五倫為司空。",
-    "entities": []
+    "entities": [
+      {
+        "text": "第五倫",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_045_000028",
@@ -662,6 +676,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "第五倫",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },

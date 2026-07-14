@@ -2190,6 +2190,12 @@
         "label": "LOC",
         "start": 30,
         "end": 33
+      },
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 34,
+        "end": 37
       }
     ]
   },
@@ -2539,6 +2545,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 16
+      },
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -2609,6 +2621,12 @@
         "label": "TITLE",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "鄭餘慶",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -2702,6 +2720,12 @@
         "label": "TITLE",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "段文昌",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -2744,6 +2768,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "徐彥伯",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -2865,6 +2895,12 @@
         "label": "TITLE",
         "start": 27,
         "end": 29
+      },
+      {
+        "text": "張齊賢",
+        "label": "PER",
+        "start": 37,
+        "end": 40
       }
     ]
   },
@@ -2903,6 +2939,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "鄭善玉",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -3196,6 +3238,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "員半千",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -3239,6 +3287,12 @@
         "label": "TITLE",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "祝欽明",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -3275,7 +3329,14 @@
   {
     "sentence_id": "HCH_008_031_000462",
     "sentence": "迎神一本有此章而無徐彥伯之詞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐彥伯",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_031_000463",
@@ -3305,7 +3366,14 @@
   {
     "sentence_id": "HCH_008_031_000468",
     "sentence": "送神一本有此章而無祝欽明之詞：",
-    "entities": []
+    "entities": [
+      {
+        "text": "祝欽明",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_031_000469",

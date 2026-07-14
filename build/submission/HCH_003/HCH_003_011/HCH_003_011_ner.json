@@ -134,7 +134,14 @@
   {
     "sentence_id": "HCH_003_011_000014",
     "sentence": "後從獨孤信，屢有軍功，又與信從魏孝武西遷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_011_000015",
@@ -331,6 +338,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "柳仲禮",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -405,6 +418,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "邵陵王綸",
+        "label": "PER",
+        "start": 10,
+        "end": 14
       }
     ]
   },
@@ -426,7 +445,14 @@
   {
     "sentence_id": "HCH_003_011_000043",
     "sentence": "初，皇考禽柳仲禮，遇之甚厚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "柳仲禮",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_011_000044",
@@ -496,6 +522,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -584,6 +616,12 @@
     "sentence": "武嘆曰：「達奚武自言是天下健兒，今日服矣。」進位柱國大將軍。",
     "entities": [
       {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 26,
@@ -654,7 +692,14 @@
   {
     "sentence_id": "HCH_003_011_000068",
     "sentence": "又令達奚武帥步騎三萬自南道進，期會晉陽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_011_000069",
@@ -999,7 +1044,14 @@
   {
     "sentence_id": "HCH_003_011_000105",
     "sentence": "宇文護執政，尤忌帝，屢將害焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_011_000106",
@@ -1260,6 +1312,12 @@
     "sentence": "六月，趙王招、陳王純、趙王盛、代王達、滕王悄並至長安。",
     "entities": [
       {
+        "text": "陳王純",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "長安",
         "label": "LOC",
         "start": 24,
@@ -1322,7 +1380,14 @@
   {
     "sentence_id": "HCH_003_011_000135",
     "sentence": "帝命上柱國、鄖公韋孝寬討之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_011_000136",
@@ -1359,7 +1424,14 @@
   {
     "sentence_id": "HCH_003_011_000141",
     "sentence": "八月庚午，韋孝寬破尉遲迥，斬之，傳首闕下，余黨悉平。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_011_000142",
@@ -1406,6 +1478,12 @@
         "label": "LOC",
         "start": 10,
         "end": 13
+      },
+      {
+        "text": "賀若誼",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -1525,7 +1603,14 @@
   {
     "sentence_id": "HCH_003_011_000152",
     "sentence": "壬戌，誅陳王純。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳王純",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_011_000153",
@@ -1800,6 +1885,12 @@
         "end": 45
       },
       {
+        "text": "李德林",
+        "label": "PER",
+        "start": 50,
+        "end": 53
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 67,
@@ -1828,6 +1919,12 @@
         "label": "TITLE",
         "start": 108,
         "end": 110
+      },
+      {
+        "text": "楊尚希",
+        "label": "PER",
+        "start": 117,
+        "end": 120
       },
       {
         "text": "尚書",
@@ -1992,6 +2089,12 @@
         "label": "LOC",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "田仁恭",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       },
       {
         "text": "太子",
@@ -2184,7 +2287,14 @@
   {
     "sentence_id": "HCH_003_011_000209",
     "sentence": "庚午，陳將周羅㬋攻陷胡墅，蕭摩訶寇江北。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭摩訶",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_011_000210",
@@ -2201,7 +2311,20 @@
   {
     "sentence_id": "HCH_003_011_000211",
     "sentence": "壬申，以薛公長孫覽、宋安公元景山並為行軍元帥。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫覽",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "元景山",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_011_000212",
@@ -2515,6 +2638,12 @@
     "sentence": "五月戊申，以上開府長孫平為度支尚書。",
     "entities": [
       {
+        "text": "長孫平",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 15,
@@ -2622,6 +2751,12 @@
         "label": "LOC",
         "start": 15,
         "end": 18
+      },
+      {
+        "text": "賀婁子幹",
+        "label": "PER",
+        "start": 19,
+        "end": 23
       }
     ]
   },
@@ -2666,6 +2801,12 @@
     "sentence_id": "HCH_003_011_000256",
     "sentence": "辛卯，以營新都副監賀婁子幹為工部尚書。",
     "entities": [
+      {
+        "text": "賀婁子幹",
+        "label": "PER",
+        "start": 9,
+        "end": 13
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -2784,6 +2925,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 10
+      },
+      {
+        "text": "李禮成",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "大將軍",
@@ -3274,6 +3421,12 @@
         "end": 22
       },
       {
+        "text": "楊尚希",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 28,
@@ -3290,6 +3443,12 @@
         "label": "TITLE",
         "start": 33,
         "end": 35
+      },
+      {
+        "text": "劉仁恩",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       },
       {
         "text": "尚書",
@@ -3734,7 +3893,14 @@
   {
     "sentence_id": "HCH_003_011_000378",
     "sentence": "丙子，上柱國郕公梁士彥、上柱國杞公宇文忻、柱國舒公劉昉謀反，伏誅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "梁士彥",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_011_000379",
@@ -3744,12 +3910,26 @@
   {
     "sentence_id": "HCH_003_011_000380",
     "sentence": "九月辛巳，帝素服御射殿，詔百寮射梁士彥三家資物。",
-    "entities": []
+    "entities": [
+      {
+        "text": "梁士彥",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_011_000381",
     "sentence": "丙戌，上柱國、宋安公元景山卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "元景山",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_011_000382",
@@ -3789,6 +3969,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "楊尚希",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "尚書",
@@ -4152,6 +4338,12 @@
         "end": 27
       },
       {
+        "text": "劉仁恩",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
         "text": "襄邑",
         "label": "LOC",
         "start": 53,
@@ -4190,7 +4382,14 @@
   {
     "sentence_id": "HCH_003_011_000425",
     "sentence": "詔購陳叔寶，位上柱國、萬戶公。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳叔寶",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_011_000426",
@@ -4242,6 +4441,12 @@
     "sentence_id": "HCH_003_011_000430",
     "sentence": "丙子，賀若弼敗陳師於蔣山，獲其將蕭摩訶，韓擒進師入建鄴，獲陳主叔寶，陳國平。",
     "entities": [
+      {
+        "text": "蕭摩訶",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
       {
         "text": "陳國",
         "label": "ORG",
@@ -5067,7 +5272,14 @@
   {
     "sentence_id": "HCH_003_011_000512",
     "sentence": "冬十一月乙卯，上柱國、華陽公梁彥光卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "梁彥光",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_011_000513",
@@ -5129,6 +5341,12 @@
     "sentence_id": "HCH_003_011_000520",
     "sentence": "冬閏十月甲寅，詔曰：「梁、齊、陳往皆創業一方，綿歷年代。既宗祀廢絕，祭奠無主，興言矜念，良以愴然。莒國公蕭琮及高仁英、陳叔寶等，宜令以時世修祭祀，所須器物，有司給之。乙卯，制外官九品以上，父母及子年十五不得從之官。十一月壬戌，制州縣佐史，三年一代，不得重任。癸未，有星孛於角、亢。十二月乙未，東巡狩。",
     "entities": [
+      {
+        "text": "陳叔寶",
+        "label": "PER",
+        "start": 59,
+        "end": 62
+      },
       {
         "text": "制州縣",
         "label": "LOC",

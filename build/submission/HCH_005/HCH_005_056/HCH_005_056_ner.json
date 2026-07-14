@@ -2271,7 +2271,14 @@
   {
     "sentence_id": "HCH_005_056_000276",
     "sentence": "推達名臣橋玄﹑皇甫規等，為稱職相。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫規",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_056_000277",

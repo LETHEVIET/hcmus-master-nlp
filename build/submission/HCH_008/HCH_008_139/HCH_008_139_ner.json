@@ -316,6 +316,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -419,7 +425,20 @@
   {
     "sentence_id": "HCH_008_139_000064",
     "sentence": "而鄜坊節度李建徽、神策行營陽惠元猶在咸陽，贄慮懷光並建徽等軍，又奏曰：",
-    "entities": []
+    "entities": [
+      {
+        "text": "李建徽",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "陽惠元",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_139_000065",
@@ -434,7 +453,20 @@
   {
     "sentence_id": "HCH_008_139_000067",
     "sentence": "比者又遣李晟、李建徽、陽惠元三節度之眾附麗其營，無益成功，只憂生事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李建徽",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "陽惠元",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_139_000068",
@@ -584,7 +616,14 @@
   {
     "sentence_id": "HCH_008_139_000093",
     "sentence": "先是，鳳翔衙將李楚琳乘涇師之亂，殺節度使張鎰，歸款硃泚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李楚琳",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_139_000094",
@@ -825,12 +864,32 @@
   {
     "sentence_id": "HCH_008_139_000137",
     "sentence": "吳通微兄弟俱在翰林，亦承德宗寵遇，文章才器不迨贄；而能交結權幸，共短贄於上前。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳通微",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_139_000138",
     "sentence": "故劉從一、姜公輔自卑品蒼黃之中，皆登輔相；而贄為朋黨所擠，同職害其能，加以言事激切，動失上之歡心，故久之不為輔相。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉從一",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "姜公輔",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_139_000139",
@@ -846,6 +905,12 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "李抱真",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -943,7 +1008,14 @@
   {
     "sentence_id": "HCH_008_139_000151",
     "sentence": "時崔元翰、梁肅文藝冠時，贄輸心於肅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔元翰",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_139_000152",
@@ -2611,6 +2683,12 @@
         "label": "LOC",
         "start": 2,
         "end": 8
+      },
+      {
+        "text": "劉士寧",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -2622,7 +2700,14 @@
   {
     "sentence_id": "HCH_008_139_000431",
     "sentence": "會右庶子姜公輔於上前聞奏，稱「竇參嘗語臣云：陛下怒臣未已」，德宗怒，再貶參，竟殺之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姜公輔",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_139_000432",
@@ -2643,6 +2728,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "裴延齡",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2711,12 +2802,6 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
-      },
-      {
-        "text": "乃貶贄為忠州",
-        "label": "LOC",
-        "start": 24,
-        "end": 30
       }
     ]
   },
@@ -2811,12 +2896,6 @@
     "sentence_id": "HCH_008_139_000453",
     "sentence": "初，贄秉政，貶駕部員外郎李吉甫為明州長史，量移忠州刺史。",
     "entities": [
-      {
-        "text": "郎李吉甫為明州",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
-      },
       {
         "text": "量移忠州",
         "label": "LOC",

@@ -322,10 +322,10 @@
     "sentence": "留殷開山、劉弘基屯長安故城。",
     "entities": [
       {
-        "text": "弘基屯長安故城",
+        "text": "長安",
         "label": "LOC",
-        "start": 6,
-        "end": 13
+        "start": 9,
+        "end": 11
       }
     ]
   },
@@ -333,6 +333,12 @@
     "sentence_id": "HCH_008_002_000041",
     "sentence": "太宗自趣司竹，賊帥李仲文、何潘仁、向善志等皆來會，頓於阿城，獲兵十三萬。",
     "entities": [
+      {
+        "text": "李仲文",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
       {
         "text": "頓於阿城",
         "label": "LOC",
@@ -653,18 +659,6 @@
     "sentence": "高祖以王行本尚據蒲州，呂崇茂反於夏縣，晉、澮二州相繼陷沒，關中震駭，乃手敕曰：「賊勢如此，難與爭鋒，宜棄河東之地，謹守關西而已。」太宗上表曰：「太原王業所基，國之根本，河東殷實，京邑所資。若舉而棄之，臣竊憤恨。願假精兵三萬，必能平殄武周，克復汾、晉。」高祖於是悉發關中兵以益之，又幸長春宮親送太宗。",
     "entities": [
       {
-        "text": "王行本尚據蒲州",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      },
-      {
-        "text": "呂崇茂反於夏縣",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
-      },
-      {
         "text": "澮二州",
         "label": "LOC",
         "start": 21,
@@ -719,6 +713,18 @@
         "end": 11
       },
       {
+        "text": "獨孤懷恩",
+        "label": "PER",
+        "start": 15,
+        "end": 19
+      },
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 29,
+        "end": 33
+      },
+      {
         "text": "將還澮州",
         "label": "LOC",
         "start": 36,
@@ -762,7 +768,14 @@
   {
     "sentence_id": "HCH_008_002_000081",
     "sentence": "太宗遣總管李世勣、程咬金、秦叔寶當其北，翟長孫、秦武通當其南。",
-    "entities": []
+    "entities": [
+      {
+        "text": "秦武通",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_002_000082",
@@ -865,12 +878,37 @@
   {
     "sentence_id": "HCH_008_002_000095",
     "sentence": "太宗遣行軍總管史萬寶自宜陽南據龍門，劉德威自太行東圍河內，王君廓自洛口斷賊糧道。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史萬寶",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "劉德威",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "王君廓",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_002_000096",
     "sentence": "又遣黃君漢夜從孝水河中下舟師襲回洛城，克之。",
     "entities": [
+      {
+        "text": "黃君漢",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "下舟師襲回洛城",
         "label": "LOC",
@@ -921,7 +959,14 @@
   {
     "sentence_id": "HCH_008_002_000102",
     "sentence": "世充遂求救於竇建德。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_002_000103",
@@ -993,7 +1038,14 @@
   {
     "sentence_id": "HCH_008_002_000111",
     "sentence": "吳王杜伏威遣其將陳正通、徐召宗率精兵二千來會於軍所。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜伏威",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_002_000112",
@@ -1016,13 +1068,32 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "王君廓",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "王行本",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
   {
     "sentence_id": "HCH_008_002_000113",
     "sentence": "會竇建德以兵十餘萬來援世充，至於酸棗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_002_000114",
@@ -1098,7 +1169,20 @@
   {
     "sentence_id": "HCH_008_002_000124",
     "sentence": "太宗率史大奈、程咬金、秦叔寶、宇文歆等揮幡而入，直突出其陣後，張我旗幟。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史大奈",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "宇文歆",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_002_000125",
@@ -1142,6 +1226,12 @@
         "label": "LOC",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -1224,12 +1314,25 @@
   {
     "sentence_id": "HCH_008_002_000141",
     "sentence": "行臺司勛郎中杜如晦等十有八人為學士，每更直閣下，降以溫顏，與之討論經義，或夜分而罷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_002_000142",
     "sentence": "未幾，竇建德舊將劉黑闥舉兵反，據洺州。",
     "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "據洺州",
         "label": "LOC",
@@ -1291,6 +1394,12 @@
     "sentence": "時徐圓朗阻兵徐、兗，太宗回師討平之，於是河、濟、江、淮諸郡邑皆平。",
     "entities": [
       {
+        "text": "徐圓朗",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "淮諸郡邑",
         "label": "LOC",
         "start": 26,
@@ -1349,6 +1458,12 @@
         "label": "TITLE",
         "start": 44,
         "end": 46
+      },
+      {
+        "text": "宇文士及",
+        "label": "PER",
+        "start": 46,
+        "end": 50
       }
     ]
   },
@@ -1417,7 +1532,68 @@
   {
     "sentence_id": "HCH_008_002_000161",
     "sentence": "六月四日，太宗率長孫無忌、尉遲敬德、房玄齡、杜如晦、宇文士及、高士廉、侯君集、程知節、秦叔寶、段志玄、屈突通、張士貴等於玄武門誅之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 8,
+        "end": 12
+      },
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 13,
+        "end": 17
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
+        "text": "宇文士及",
+        "label": "PER",
+        "start": 26,
+        "end": 30
+      },
+      {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      },
+      {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      },
+      {
+        "text": "程知節",
+        "label": "PER",
+        "start": 39,
+        "end": 42
+      },
+      {
+        "text": "段志玄",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      },
+      {
+        "text": "張士貴",
+        "label": "PER",
+        "start": 55,
+        "end": 58
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_002_000162",
@@ -1523,6 +1699,18 @@
         "end": 7
       },
       {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 28,
@@ -1541,16 +1729,34 @@
         "end": 46
       },
       {
+        "text": "楊恭仁",
+        "label": "PER",
+        "start": 46,
+        "end": 49
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 54,
         "end": 56
       },
       {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 59,
+        "end": 63
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 66,
         "end": 68
+      },
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 72,
+        "end": 75
       },
       {
         "text": "尚書",
@@ -1563,6 +1769,12 @@
         "label": "TITLE",
         "start": 81,
         "end": 83
+      },
+      {
+        "text": "宇文士及",
+        "label": "PER",
+        "start": 85,
+        "end": 89
       },
       {
         "text": "尚書",
@@ -1672,12 +1884,26 @@
   {
     "sentence_id": "HCH_008_002_000181",
     "sentence": "辛巳，行軍總管尉遲敬德與突厥戰於涇陽，大破之，斬首千餘級。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 7,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_002_000182",
     "sentence": "癸未，突厥頡利至於渭水便橋之北，遣其酋帥執失思力入朝為覘，自張形勢，太宗命囚之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "執失思力",
+        "label": "PER",
+        "start": 20,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_002_000183",
@@ -1747,16 +1973,46 @@
     "sentence": "長孫無忌封齊國公，房玄齡邢國公，尉遲敬德吳國公，杜如晦蔡國公，侯君集潞國公。",
     "entities": [
       {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
+      {
         "text": "齊國",
         "label": "ORG",
         "start": 5,
         "end": 7
       },
       {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 16,
+        "end": 20
+      },
+      {
         "text": "吳國",
         "label": "ORG",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -1782,10 +2038,166 @@
     "sentence": "癸酉，裴寂食實封一千五百戶，長孫無忌、王君廓、尉遲敬德、房玄齡、杜如晦一千三百戶，長孫順德、柴紹、羅藝、趙郡王孝恭一千二百戶，侯君集、張公謹、劉師立一千戶，李世勣、劉弘基九百戶，高士廉、宇文士及、秦叔寶、程知節七百戶，安興貴、安修仁、唐儉、竇軌、屈突通、蕭瑀、封德彞、劉義節六百戶，錢九隴、樊世興、公孫武達、李孟常、段志玄、龐卿惲、張亮、李藥師、杜淹、元仲文四百戶，張長遜、張平高、李安遠、李子和、秦行師、馬三寶三百戶。",
     "entities": [
       {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 14,
+        "end": 18
+      },
+      {
+        "text": "王君廓",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 23,
+        "end": 27
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      },
+      {
+        "text": "長孫順德",
+        "label": "PER",
+        "start": 41,
+        "end": 45
+      },
+      {
         "text": "趙郡",
         "label": "LOC",
         "start": 52,
         "end": 54
+      },
+      {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 63,
+        "end": 66
+      },
+      {
+        "text": "張公謹",
+        "label": "PER",
+        "start": 67,
+        "end": 70
+      },
+      {
+        "text": "劉師立",
+        "label": "PER",
+        "start": 71,
+        "end": 74
+      },
+      {
+        "text": "劉弘基",
+        "label": "PER",
+        "start": 82,
+        "end": 85
+      },
+      {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 89,
+        "end": 92
+      },
+      {
+        "text": "宇文士及",
+        "label": "PER",
+        "start": 93,
+        "end": 97
+      },
+      {
+        "text": "程知節",
+        "label": "PER",
+        "start": 102,
+        "end": 105
+      },
+      {
+        "text": "安興貴",
+        "label": "PER",
+        "start": 109,
+        "end": 112
+      },
+      {
+        "text": "安修仁",
+        "label": "PER",
+        "start": 113,
+        "end": 116
+      },
+      {
+        "text": "劉義節",
+        "label": "PER",
+        "start": 134,
+        "end": 137
+      },
+      {
+        "text": "錢九隴",
+        "label": "PER",
+        "start": 141,
+        "end": 144
+      },
+      {
+        "text": "公孫武達",
+        "label": "PER",
+        "start": 149,
+        "end": 153
+      },
+      {
+        "text": "段志玄",
+        "label": "PER",
+        "start": 158,
+        "end": 161
+      },
+      {
+        "text": "龐卿惲",
+        "label": "PER",
+        "start": 162,
+        "end": 165
+      },
+      {
+        "text": "李藥師",
+        "label": "PER",
+        "start": 169,
+        "end": 172
+      },
+      {
+        "text": "張長遜",
+        "label": "PER",
+        "start": 183,
+        "end": 186
+      },
+      {
+        "text": "張平高",
+        "label": "PER",
+        "start": 187,
+        "end": 190
+      },
+      {
+        "text": "李安遠",
+        "label": "PER",
+        "start": 191,
+        "end": 194
+      },
+      {
+        "text": "李子和",
+        "label": "PER",
+        "start": 195,
+        "end": 198
+      },
+      {
+        "text": "馬三寶",
+        "label": "PER",
+        "start": 203,
+        "end": 206
       }
     ]
   },
@@ -2002,6 +2414,12 @@
         "end": 13
       },
       {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 14,
+        "end": 18
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 19,
@@ -2018,12 +2436,6 @@
         "label": "LOC",
         "start": 9,
         "end": 12
-      },
-      {
-        "text": "公高士廉為安州",
-        "label": "LOC",
-        "start": 12,
-        "end": 19
       },
       {
         "text": "大都",
@@ -2068,6 +2480,12 @@
         "end": 10
       },
       {
+        "text": "溫彥博",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 14,
@@ -2084,7 +2502,14 @@
   {
     "sentence_id": "HCH_008_002_000216",
     "sentence": "中書令、郢國公宇文士及為殿中監。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文士及",
+        "label": "PER",
+        "start": 7,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_002_000217",
@@ -2196,6 +2621,12 @@
         "label": "ORG",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 17,
+        "end": 21
       }
     ]
   },
@@ -2367,7 +2798,14 @@
   {
     "sentence_id": "HCH_008_002_000237",
     "sentence": "辛卯，上謂侍臣曰：「君雖不君，臣不可以不臣。裴虔通，煬帝舊左右也，而親為亂首。朕方崇獎敬義，豈可猶使宰民訓俗。」詔曰：",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴虔通",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_002_000238",
@@ -2434,6 +2872,12 @@
         "end": 8
       },
       {
+        "text": "裴虔通",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "隋",
         "label": "ORG",
         "start": 15,
@@ -2485,6 +2929,12 @@
         "end": 13
       },
       {
+        "text": "牛方裕",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "絳州",
         "label": "LOC",
         "start": 17,
@@ -2497,16 +2947,40 @@
         "end": 21
       },
       {
+        "text": "薛世良",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "廣州",
         "label": "LOC",
         "start": 25,
         "end": 27
       },
       {
+        "text": "唐奉義",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      },
+      {
         "text": "隋",
         "label": "ORG",
         "start": 47,
         "end": 48
+      },
+      {
+        "text": "宇文化及",
+        "label": "PER",
+        "start": 57,
+        "end": 61
+      },
+      {
+        "text": "裴虔通",
+        "label": "PER",
+        "start": 69,
+        "end": 72
       }
     ]
   },
@@ -2534,6 +3008,12 @@
         "label": "TITLE",
         "start": 289,
         "end": 291
+      },
+      {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 299,
+        "end": 302
       }
     ]
   },
@@ -2576,6 +3056,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "盧祖尚",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2647,6 +3133,12 @@
     "sentence": "二月戊寅，中書令、邢國公房玄齡為尚書左僕射，兵部尚書、檢校侍中、蔡國公杜如晦為尚書右僕射，刑部尚書、檢校中書令、永康縣公李靖為兵部尚書，右丞魏徵為守秘書監，參預朝政。",
     "entities": [
       {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 16,
@@ -2657,6 +3149,12 @@
         "label": "TITLE",
         "start": 24,
         "end": 26
+      },
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       },
       {
         "text": "尚書",
@@ -2697,7 +3195,14 @@
   {
     "sentence_id": "HCH_008_002_000267",
     "sentence": "五月，周王元方薨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王元方",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_002_000268",
@@ -2709,10 +3214,16 @@
     "sentence": "遣長孫無忌、房玄齡等祈雨於名山大川，中書舍人杜正倫等往關內諸州慰撫。",
     "entities": [
       {
-        "text": "人杜正倫等往關",
-        "label": "LOC",
-        "start": 21,
-        "end": 28
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 1,
+        "end": 5
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "內諸州",
@@ -2785,7 +3296,14 @@
   {
     "sentence_id": "HCH_008_002_000278",
     "sentence": "癸未，杜如晦以疾辭位，許之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_002_000279",
@@ -2795,7 +3313,32 @@
   {
     "sentence_id": "HCH_008_002_000280",
     "sentence": "建義以來交兵之處，為義士勇夫殞身戎陣者各立一寺，命虞世南、李伯藥、褚亮、顏師古、岑文本、許敬宗、硃子奢等為之碑銘，以紀功業。",
-    "entities": []
+    "entities": [
+      {
+        "text": "虞世南",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "顏師古",
+        "label": "PER",
+        "start": 36,
+        "end": 39
+      },
+      {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 40,
+        "end": 43
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_002_000281",

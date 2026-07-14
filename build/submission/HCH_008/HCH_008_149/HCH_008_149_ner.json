@@ -2,17 +2,56 @@
   {
     "sentence_id": "HCH_008_149_000001",
     "sentence": "于休烈 子:肅　肅子:敖　敖子:琮 令狐峘　歸崇敬 子:登　登子:融 奚陟　張薦 子:又新　希復　希復子:讀 蔣乂 子:係　伸 柳登 弟:冕　冕子:璟 沈傳師 子:詢",
-    "entities": []
+    "entities": [
+      {
+        "text": "于休烈",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "令狐峘",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "歸崇敬",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
+        "text": "沈傳師",
+        "label": "PER",
+        "start": 76,
+        "end": 79
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000002",
     "sentence": "于休烈",
-    "entities": []
+    "entities": [
+      {
+        "text": "于休烈",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000003",
     "sentence": "于休烈，河南人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "于休烈",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000004",
@@ -45,7 +84,14 @@
   {
     "sentence_id": "HCH_008_149_000007",
     "sentence": "自幼好學，善屬文，與會稽賀朝、萬齊融、延陵包融為文詞之友，齊名一時。",
-    "entities": []
+    "entities": [
+      {
+        "text": "萬齊融",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000008",
@@ -61,6 +107,12 @@
     "sentence_id": "HCH_008_149_000010",
     "sentence": "楊國忠輔政，排不附己者，出為中部郡太守。",
     "entities": [
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "出為中部郡",
         "label": "LOC",
@@ -409,7 +461,14 @@
   {
     "sentence_id": "HCH_008_149_000044",
     "sentence": "湖南觀察使楊憑辟為從事；府罷，鳳翔節度使李鄘、鄂嶽觀察使呂元膺相繼辟召。",
-    "entities": []
+    "entities": [
+      {
+        "text": "呂元膺",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000045",
@@ -467,7 +526,14 @@
   {
     "sentence_id": "HCH_008_149_000048",
     "sentence": "昭湣初即位，李逢吉用事，與翰林學士李紳素不葉，遂誣紳以不測之罪，逐於嶺外。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000049",
@@ -661,12 +727,26 @@
   {
     "sentence_id": "HCH_008_149_000072",
     "sentence": "令狐峘",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐峘",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000073",
     "sentence": "令狐峘，德棻之玄孫。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐峘",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000074",
@@ -1008,14 +1088,7 @@
   {
     "sentence_id": "HCH_008_149_000124",
     "sentence": "德宗出疏問炎，炎具言其事，德宗怒甚，曰：「此奸人，無可奈何！」欲決杖流之，炎苦救解，貶衡州別駕。",
-    "entities": [
-      {
-        "text": "貶衡州",
-        "label": "LOC",
-        "start": 42,
-        "end": 45
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_149_000125",
@@ -1055,7 +1128,14 @@
   {
     "sentence_id": "HCH_008_149_000128",
     "sentence": "在史館，與同職孔述睿等爭忿細故，數侵述睿。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孔述睿",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000129",
@@ -1065,14 +1145,7 @@
   {
     "sentence_id": "HCH_008_149_000130",
     "sentence": "無何，泌卒，竇參秉政，惡其為人，貶吉州別駕。",
-    "entities": [
-      {
-        "text": "貶吉州",
-        "label": "LOC",
-        "start": 16,
-        "end": 19
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_149_000131",
@@ -1145,12 +1218,6 @@
         "label": "LOC",
         "start": 0,
         "end": 3
-      },
-      {
-        "text": "貶衢州",
-        "label": "LOC",
-        "start": 24,
-        "end": 27
       }
     ]
   },
@@ -1248,12 +1315,25 @@
   {
     "sentence_id": "HCH_008_149_000148",
     "sentence": "歸崇敬",
-    "entities": []
+    "entities": [
+      {
+        "text": "歸崇敬",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000149",
     "sentence": "歸崇敬，字正禮，蘇州吳郡人也。",
     "entities": [
+      {
+        "text": "歸崇敬",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "蘇州吳郡",
         "label": "LOC",
@@ -2209,6 +2289,12 @@
     "sentence": "時裴延齡以奸佞有恩，欲為相，諫議大夫陽城上疏切直，德宗赫怒。",
     "entities": [
       {
+        "text": "裴延齡",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 16,
@@ -2219,7 +2305,14 @@
   {
     "sentence_id": "HCH_008_149_000249",
     "sentence": "右補闕熊執易等亦以危言忤旨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "熊執易",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000250",
@@ -2274,6 +2367,12 @@
     "sentence_id": "HCH_008_149_000257",
     "sentence": "與孟簡、劉伯芻、蕭俛受詔同翻譯《大乘本生心地觀經》。",
     "entities": [
+      {
+        "text": "劉伯芻",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "《大乘本生心地觀經》",
         "label": "TITLE",
@@ -2368,7 +2467,14 @@
   {
     "sentence_id": "HCH_008_149_000268",
     "sentence": "常慕陸象先之為人，議者亦以為近之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陸象先",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000269",
@@ -2448,7 +2554,14 @@
   {
     "sentence_id": "HCH_008_149_000276",
     "sentence": "湖南觀察使盧周仁違敕進羨餘錢十萬貫。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧周仁",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000277",
@@ -2477,12 +2590,6 @@
     "sentence_id": "HCH_008_149_000279",
     "sentence": "上問融曰：「韓益所犯，與盧元中、姚康孰甚？」對曰：「元中與康枉破官錢三萬餘貫，益所取受人事，比之殊輕。」乃貶梧州司戶。",
     "entities": [
-      {
-        "text": "元",
-        "label": "ORG",
-        "start": 13,
-        "end": 14
-      },
       {
         "text": "元",
         "label": "ORG",
@@ -2527,7 +2634,14 @@
   {
     "sentence_id": "HCH_008_149_000284",
     "sentence": "上曰：「去年重陽，取九月十九日，未失重陽之意，今改取十三日可也。」既而李固言作相，素不悅融，罷尹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李固言",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000285",
@@ -2538,6 +2652,12 @@
     "sentence_id": "HCH_008_149_000286",
     "sentence": "俄而固言罷，楊嗣復輔政，以融權知兵部侍郎。",
     "entities": [
+      {
+        "text": "楊嗣復",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "侍郎",
         "label": "TITLE",
@@ -2750,12 +2870,26 @@
   {
     "sentence_id": "HCH_008_149_000310",
     "sentence": "裴延齡惡京兆尹李充有能政，專意陷害之，誣奏充結陸贄，數厚賂遺金帛。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴延齡",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000311",
     "sentence": "充既貶官，又奏充比者妄破用京兆府錢穀至多，請令比部勾覆，以比部郎中崔元翰陷充，怨惡贄也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔元翰",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000312",
@@ -2897,7 +3031,14 @@
   {
     "sentence_id": "HCH_008_149_000330",
     "sentence": "員外郎員半千謂人曰：「張子之文如青錢，萬簡萬中，未聞退時。」時流重之，目為「青錢學士」。",
-    "entities": []
+    "entities": [
+      {
+        "text": "員半千",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000331",
@@ -2919,6 +3060,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "李全交",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -2931,6 +3078,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "李日知",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2961,6 +3114,12 @@
     "sentence": "天後朝，中使馬仙童陷默啜，默啜謂仙童曰：「張文成在否？」曰：「近自御史貶官。」默啜曰：「國有此人而不用，漢無能為也。」新羅、日本東夷諸蕃，尤重其文，每遣使入朝，必重出金貝以購其文，其才名遠播如此。",
     "entities": [
       {
+        "text": "張文成",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 33,
@@ -2971,7 +3130,14 @@
   {
     "sentence_id": "HCH_008_149_000338",
     "sentence": "薦少精史傳，顏真卿一見嘆賞之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏真卿",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000339",
@@ -3099,6 +3265,12 @@
     "sentence_id": "HCH_008_149_000349",
     "sentence": "時裴延齡恃寵，譖毀士大夫。",
     "entities": [
+      {
+        "text": "裴延齡",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "大夫",
         "label": "TITLE",
@@ -3257,12 +3429,26 @@
   {
     "sentence_id": "HCH_008_149_000364",
     "sentence": "長慶中，宰相李逢吉用事，翰林學士李紳深為穆宗所寵，逢吉惡之；求朝臣中兇險敢言者掎摭紳陰事，俾暴揚於搢紳間。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000365",
     "sentence": "又新與拾遺李續之、劉棲楚，尤蒙逢吉睠待，指為鷹犬。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉棲楚",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000366",
@@ -3513,6 +3699,12 @@
         "end": 3
       },
       {
+        "text": "張茂昭",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "公主",
         "label": "TITLE",
         "start": 26,
@@ -3577,6 +3769,12 @@
     "sentence": "上嘆曰：「虞世南暗寫《列女傳》，無以加也。」十八年，遷起居舍人，轉司勛員外郎，皆兼史職。",
     "entities": [
       {
+        "text": "虞世南",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "《列女傳》",
         "label": "TITLE",
         "start": 10,
@@ -3603,7 +3801,14 @@
   {
     "sentence_id": "HCH_008_149_000398",
     "sentence": "乂征引根源，事甚詳悉，宰臣高郢、鄭珣瑜相對曰：「集賢有人矣！」翌日，詔兼判集賢院事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭珣瑜",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000399",
@@ -3635,7 +3840,20 @@
   {
     "sentence_id": "HCH_008_149_000403",
     "sentence": "與許孟容、韋貫之等受詔刪定制敕，成三十卷，奏行用。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許孟容",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "韋貫之",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000404",
@@ -3646,6 +3864,18 @@
     "sentence_id": "HCH_008_149_000405",
     "sentence": "尋奉詔與獨孤郁、韋處厚同修《德宗實錄》。",
     "entities": [
+      {
+        "text": "獨孤郁",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "韋處厚",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "《德宗實錄》",
         "label": "TITLE",
@@ -3675,7 +3905,14 @@
   {
     "sentence_id": "HCH_008_149_000407",
     "sentence": "明年監修國史裴垍罷相，李吉甫再入，以乂垍之修撰，改授太常少卿。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000408",
@@ -3815,6 +4052,18 @@
     "sentence": "與同職沈傳師、鄭浣、陳夷行、李漢等受詔撰《憲宗實錄》。",
     "entities": [
       {
+        "text": "沈傳師",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "陳夷行",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "《憲宗實錄》",
         "label": "TITLE",
         "start": 20,
@@ -3843,7 +4092,20 @@
   {
     "sentence_id": "HCH_008_149_000425",
     "sentence": "宰相宋申錫為北軍羅織，罪在不測，係與諫官崔玄亮泣諫於玉階之下，申錫亦減死，時論稱之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋申錫",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "崔玄亮",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000426",
@@ -3860,7 +4122,14 @@
   {
     "sentence_id": "HCH_008_149_000427",
     "sentence": "武宗朝，李德裕用事，惡李漢，以係與漢僚婿，出為桂管都護禦觀察使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000428",
@@ -4100,12 +4369,6 @@
         "label": "ORG",
         "start": 1,
         "end": 2
-      },
-      {
-        "text": "高力士亦貶巫州",
-        "label": "LOC",
-        "start": 12,
-        "end": 19
       }
     ]
   },
@@ -4161,6 +4424,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "許孟容",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -4491,6 +4760,12 @@
         "label": "TITLE",
         "start": 154,
         "end": 156
+      },
+      {
+        "text": "鄭叔則",
+        "label": "PER",
+        "start": 200,
+        "end": 203
       }
     ]
   },
@@ -4661,7 +4936,14 @@
   {
     "sentence_id": "HCH_008_149_000488",
     "sentence": "以政無狀，詔以閻濟美代歸而卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "閻濟美",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000489",
@@ -4810,12 +5092,26 @@
   {
     "sentence_id": "HCH_008_149_000500",
     "sentence": "沈傳師",
-    "entities": []
+    "entities": [
+      {
+        "text": "沈傳師",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000501",
     "sentence": "沈傳師，字子言，吳人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "沈傳師",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_149_000502",

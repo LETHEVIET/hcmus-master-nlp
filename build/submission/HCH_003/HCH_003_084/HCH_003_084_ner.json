@@ -7,7 +7,14 @@
   {
     "sentence_id": "HCH_003_084_000002",
     "sentence": "長孫慮 乞伏保孫益德董洛生楊引閻元明吳悉達王續生李顯達倉跋張升王崇郭文恭荊可秦族皇甫遐張元王頒弟頍楊慶田翼紐因劉仕俊翟普林華秋徐孝肅",
-    "entities": []
+    "entities": [
+      {
+        "text": "李顯達",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_084_000003",
@@ -149,6 +156,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 7
+      },
+      {
+        "text": "李顯達",
+        "label": "PER",
+        "start": 42,
+        "end": 45
       },
       {
         "text": "《 孝感傳 》",
@@ -776,7 +789,14 @@
   {
     "sentence_id": "HCH_003_084_000096",
     "sentence": "李顯達，潁川陽翟人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李顯達",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_084_000097",

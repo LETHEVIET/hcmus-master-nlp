@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_008_102_000001",
     "sentence": "馬懷素",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬懷素",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_102_000002",
     "sentence": "馬懷素，潤州丹徒人也。",
     "entities": [
+      {
+        "text": "馬懷素",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "潤州",
         "label": "LOC",
@@ -61,10 +74,28 @@
         "end": 8
       },
       {
+        "text": "魏元忠",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "崔貞慎",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -87,13 +118,38 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "李迥秀",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
   {
     "sentence_id": "HCH_008_102_000010",
     "sentence": "懷素累轉禮部員外郎，與源乾曜、盧懷慎、李傑等充十道黜陟使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "源乾曜",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "盧懷慎",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_102_000011",
@@ -143,7 +199,14 @@
   {
     "sentence_id": "HCH_008_102_000015",
     "sentence": "懷素雖居吏職，而篤學，手不釋卷，謙恭謹慎，深為玄宗所禮，令與左散騎常侍褚無量同為侍讀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "褚無量",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_102_000016",
@@ -206,12 +269,25 @@
   {
     "sentence_id": "HCH_008_102_000020",
     "sentence": "褚無量",
-    "entities": []
+    "entities": [
+      {
+        "text": "褚無量",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_102_000021",
     "sentence": "褚無量，字弘度，杭州鹽官人也。",
     "entities": [
+      {
+        "text": "褚無量",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "杭州",
         "label": "LOC",
@@ -276,6 +352,18 @@
     "sentence": "國子祭酒祝欽明、司業郭山惲皆希旨，請以皇后為亞獻，無量獨與太常博士唐紹、蔣欽緒固爭，以為不可。",
     "entities": [
       {
+        "text": "祝欽明",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "郭山惲",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "皇后",
         "label": "TITLE",
         "start": 19,
@@ -286,6 +374,12 @@
         "label": "TITLE",
         "start": 31,
         "end": 33
+      },
+      {
+        "text": "蔣欽緒",
+        "label": "PER",
+        "start": 36,
+        "end": 39
       }
     ]
   },
@@ -587,7 +681,14 @@
   {
     "sentence_id": "HCH_008_102_000058",
     "sentence": "時左僕射韋巨源等阿旨，葉同欽明之議，竟不從無量所奏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋巨源",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_102_000059",
@@ -826,6 +927,12 @@
     "sentence": "初，無量與馬懷素俱為侍讀，顧待甚厚；及無量等卒後，秘書少監康子原、國子博士侯行果等又入侍講，雖屢加賞賜，而禮遇不逮褚焉。",
     "entities": [
       {
+        "text": "馬懷素",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "博士",
         "label": "TITLE",
         "start": 35,
@@ -889,6 +996,12 @@
         "end": 4
       },
       {
+        "text": "蘇味道",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "《豪士》",
         "label": "TITLE",
         "start": 18,
@@ -930,23 +1043,60 @@
     "sentence": "時侍中韋巨源紀處訥、中書令楊再思、兵部尚書宗楚客、中書侍郎蕭至忠並監修國史，知幾以監修者多，甚為國史之弊。",
     "entities": [
       {
+        "text": "韋巨源",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "紀處訥",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "楊再思",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 19,
         "end": 21
       },
       {
+        "text": "宗楚客",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 27,
         "end": 29
+      },
+      {
+        "text": "蕭至忠",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
   {
     "sentence_id": "HCH_008_102_000093",
     "sentence": "蕭至忠又嘗責知幾著述無課，知幾於是求罷史任，奏記於至忠曰：",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭至忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_102_000094",
@@ -1275,7 +1425,14 @@
   {
     "sentence_id": "HCH_008_102_000148",
     "sentence": "宗楚客嫉其正直，謂諸史官曰：「此人作書如是，欲置我何地！」",
-    "entities": []
+    "entities": [
+      {
+        "text": "宗楚客",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_102_000149",
@@ -1498,7 +1655,14 @@
   {
     "sentence_id": "HCH_008_102_000165",
     "sentence": "又顏延之罷官後，好騎馬出入閭裏，當代稱其放誕。",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏延之",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_102_000166",
@@ -1591,6 +1755,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 25
+      },
+      {
+        "text": "閻立本",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       },
       {
         "text": "《明君入匈奴》",
@@ -1722,6 +1892,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "鄭惟忠",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2119,10 +2295,22 @@
         "end": 15
       },
       {
+        "text": "楊再思",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "王方慶",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -2143,6 +2331,18 @@
     "sentence": "又賞其文章典實，常稱曰：「掌綸誥之選也。」再思亦曰：「此鳳閣舍人樣，如此才識，走避不得。」堅又與給事中徐彥伯、定王府倉曹劉知幾、右補闕張說同修《三教珠英》。",
     "entities": [
       {
+        "text": "徐彥伯",
+        "label": "PER",
+        "start": 51,
+        "end": 54
+      },
+      {
+        "text": "劉知幾",
+        "label": "PER",
+        "start": 60,
+        "end": 63
+      },
+      {
         "text": "《三教珠英》",
         "label": "TITLE",
         "start": 71,
@@ -2153,7 +2353,14 @@
   {
     "sentence_id": "HCH_008_102_000231",
     "sentence": "時麟臺監張昌宗及成均祭酒李嶠總領其事，廣引文詞之士，日夕談論，賦詩聚會，歷年未能下筆。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張昌宗",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_102_000232",
@@ -2210,6 +2417,18 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "韋月將",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -2258,12 +2477,6 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
-      },
-      {
-        "text": "古請兵以擊姚州",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
       },
       {
         "text": "又請築城",
@@ -2434,7 +2647,14 @@
   {
     "sentence_id": "HCH_008_102_000258",
     "sentence": "舉進士，累轉通事舍人，納言狄仁傑甚重之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "狄仁傑",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_102_000259",
@@ -2615,10 +2835,22 @@
     "sentence": "先是，秘書監馬懷素集學者續王儉《今書七志》，左散騎常侍褚無量於麗正殿校寫四部書，事未就而懷素、無量卒，詔行沖總代其職。",
     "entities": [
       {
+        "text": "馬懷素",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "《今書七志》",
         "label": "TITLE",
         "start": 15,
         "end": 21
+      },
+      {
+        "text": "褚無量",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -2643,6 +2875,12 @@
         "label": "LOC",
         "start": 37,
         "end": 39
+      },
+      {
+        "text": "殷踐猷",
+        "label": "PER",
+        "start": 43,
+        "end": 46
       }
     ]
   },
@@ -2668,6 +2906,12 @@
     "sentence": "初，有左衛率府長史魏光乘奏請行用魏征所註《類禮》，上遽令行沖集學者撰《義疏》，將立學官。",
     "entities": [
       {
+        "text": "魏光乘",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "《類禮》",
         "label": "TITLE",
         "start": 20,
@@ -2690,6 +2934,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "施敬本",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       },
       {
         "text": "十四年",
@@ -2926,6 +3176,12 @@
         "end": 2
       },
       {
+        "text": "魏元忠",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "亳州",
         "label": "LOC",
         "start": 7,
@@ -2942,6 +3198,12 @@
     "sentence_id": "HCH_008_102_000297",
     "sentence": "神龍中，遷右補闕，與韋承慶、崔融、劉子玄撰《則天實錄》成，轉起居郎。",
     "entities": [
+      {
+        "text": "韋承慶",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "《則天實錄》",
         "label": "TITLE",
@@ -3131,7 +3393,14 @@
   {
     "sentence_id": "HCH_008_102_000308",
     "sentence": "兢雖衰耗，猶希史職，而行步傴僂，李林甫以其年老不用。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_102_000309",
@@ -3274,6 +3543,12 @@
     "sentence": "考功員外郎宋之問曰：「韋學士童年有何事業？」述對曰：「性好著書。述有所撰《唐春秋》三十卷，恨未終篇。至如詞策，仰待明試。」之問曰：「本求異才，果得遷、固。」是歲登科。",
     "entities": [
       {
+        "text": "宋之問",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "《唐春秋》",
         "label": "TITLE",
         "start": 36,
@@ -3296,7 +3571,14 @@
   {
     "sentence_id": "HCH_008_102_000326",
     "sentence": "秘書監馬懷素受詔編次圖書，乃奏用左散騎常侍元行沖、左庶子齊澣、秘書少監王珣、衛尉少卿吳兢並述等二十六人，同於秘閣詳錄四部書。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬懷素",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_102_000327",
@@ -3358,12 +3640,38 @@
   {
     "sentence_id": "HCH_008_102_000333",
     "sentence": "說重詞學之士，述與張九齡、許景先、袁暉、趙冬曦、孫逖、王幹常遊其門。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張九齡",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "許景先",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "趙冬曦",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_102_000334",
     "sentence": "趙冬曦兄冬日，弟知壁、居貞、安貞、頤貞等六人，述弟迪、逌、迥、起、巡亦六人，並詞學登科。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙冬曦",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_102_000335",
@@ -3380,7 +3688,20 @@
   {
     "sentence_id": "HCH_008_102_000336",
     "sentence": "及張九齡為中書令，即集賢之同職，裴耀卿為侍中，即述之舅，皆相推重，語必移晷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張九齡",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "裴耀卿",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_102_000337",
@@ -3461,7 +3782,14 @@
   {
     "sentence_id": "HCH_008_102_000343",
     "sentence": "國史自令狐德棻至於吳兢，雖累修撰，竟未成一家之言。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐德棻",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_102_000344",
@@ -3478,6 +3806,12 @@
         "label": "TITLE",
         "start": 26,
         "end": 30
+      },
+      {
+        "text": "蕭穎士",
+        "label": "PER",
+        "start": 48,
+        "end": 51
       }
     ]
   },
@@ -3541,6 +3875,12 @@
     "sentence_id": "HCH_008_102_000351",
     "sentence": "其甥蕭直為太尉李光弼判官，廣德二年，直因入奏言事稱旨，乃上疏理述於蒼黃之際，能存《國史》，致聖朝大典，得無遺逸，以功補過，合霑恩宥。",
     "entities": [
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "二年",
         "label": "TME",
@@ -3629,12 +3969,26 @@
   {
     "sentence_id": "HCH_008_102_000361",
     "sentence": "蕭穎士",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭穎士",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_102_000362",
     "sentence": "蕭穎士者，聰儁過人，富詞學，有名於時，賈曾、席豫、張垍及述皆引為談客。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭穎士",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_102_000363",
@@ -3680,6 +4034,12 @@
         "label": "LOC",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "殷踐猷",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -3692,12 +4052,6 @@
         "label": "LOC",
         "start": 3,
         "end": 5
-      },
-      {
-        "text": "刺史",
-        "label": "TITLE",
-        "start": 5,
-        "end": 7
       },
       {
         "text": "《班史》",
@@ -3730,7 +4084,20 @@
   {
     "sentence_id": "HCH_008_102_000372",
     "sentence": "馬懷素、褚無量好古嗜學，博識多聞，遇好文之君，隆師資之禮，儒者之榮，可謂際會矣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬懷素",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "褚無量",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_102_000373",

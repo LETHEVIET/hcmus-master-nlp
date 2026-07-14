@@ -292,7 +292,14 @@
   {
     "sentence_id": "HCH_004_041_000016",
     "sentence": "時高岳、慕容紹宗等討景，即配顯士馬，隨岳等破景於渦陽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_041_000017",
@@ -425,6 +432,12 @@
     "sentence": "處斷未訖，為合肥被圍，遣與步汗薩、慕容儼等同攻梁北徐州。",
     "entities": [
       {
+        "text": "慕容儼",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "等同攻梁北徐州",
         "label": "LOC",
         "start": 20,
@@ -495,6 +508,12 @@
         "label": "TITLE",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "許法光",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -502,12 +521,6 @@
     "sentence_id": "HCH_004_041_000029",
     "sentence": "于時梁將蕭循與侯瑱等圍慕容儼於郢州，復以顯為水軍大都督，從攝口入江救之。",
     "entities": [
-      {
-        "text": "圍慕容儼於郢州",
-        "label": "LOC",
-        "start": 10,
-        "end": 17
-      },
       {
         "text": "大都",
         "label": "LOC",
@@ -674,12 +687,26 @@
   {
     "sentence_id": "HCH_004_041_000039",
     "sentence": "皮景和",
-    "entities": []
+    "entities": [
+      {
+        "text": "皮景和",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_041_000040",
     "sentence": "皮景和，瑯邪下邳人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皮景和",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_041_000041",
@@ -981,6 +1008,12 @@
     "sentence": "又隨斛律光率衆西討，剋姚襄、白亭二城，別封永寧郡開國公。",
     "entities": [
       {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "白亭二城",
         "label": "LOC",
         "start": 14,
@@ -1087,6 +1120,12 @@
     "sentence": "陳將吳明徹寇淮南，令景和率衆拒之，除領軍大將軍，封文城郡王，轉食高陽郡幹。",
     "entities": [
       {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 20,
@@ -1154,7 +1193,14 @@
   {
     "sentence_id": "HCH_004_041_000079",
     "sentence": "及吳明徹圍壽陽，勑令景和與賀拔伏恩等赴救。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_041_000080",
@@ -1171,6 +1217,12 @@
     "sentence": "陳將蕭摩訶率步騎於淮北倉陵城截之，景和得整旅逆戰，摩訶退歸。",
     "entities": [
       {
+        "text": "蕭摩訶",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "騎於淮北倉陵城",
         "label": "LOC",
         "start": 7,
@@ -1182,6 +1234,12 @@
     "sentence_id": "HCH_004_041_000083",
     "sentence": "是時拒吳明徹者多致傾覆，唯景和全軍而還，由是獲賞，除尚書令，別封西河郡開國公，賜錢二十萬，酒米十車。",
     "entities": [
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -2147,7 +2205,14 @@
   {
     "sentence_id": "HCH_004_041_000162",
     "sentence": "趙彥深以猛武將之中頗疾姦佞，言議時有可采，故引知機事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_041_000163",
@@ -2510,7 +2575,20 @@
   {
     "sentence_id": "HCH_004_041_000191",
     "sentence": "於時江南款附，朝貢相尋，景安妙閑馳騁，雅有容則，每梁使至，恒令與斛律光、皮景和等對客騎射，見者稱善。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      },
+      {
+        "text": "皮景和",
+        "label": "PER",
+        "start": 36,
+        "end": 39
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_041_000192",
@@ -3077,12 +3155,26 @@
   {
     "sentence_id": "HCH_004_041_000235",
     "sentence": "獨孤永業",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤永業",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_041_000236",
     "sentence": "獨孤永業，字世基，本姓劉，中山人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤永業",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_041_000237",
@@ -3258,7 +3350,14 @@
   {
     "sentence_id": "HCH_004_041_000252",
     "sentence": "斛律光求二婢弗得，毀之於朝廷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_041_000253",
@@ -3537,6 +3636,12 @@
         "end": 4
       },
       {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "幷州",
         "label": "LOC",
         "start": 20,
@@ -3697,7 +3802,14 @@
   {
     "sentence_id": "HCH_004_041_000292",
     "sentence": "顏之推重其勤學，甚加開獎，後遂通顯。",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_041_000293",
@@ -3855,7 +3967,14 @@
   {
     "sentence_id": "HCH_004_041_000310",
     "sentence": "至潞河，知周將宇文神舉已屠范陽，還據黃龍，竟不臣周。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文神舉",
+        "label": "PER",
+        "start": 7,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_041_000311",
@@ -3866,6 +3985,12 @@
     "sentence_id": "HCH_004_041_000312",
     "sentence": "史臣曰：皮景和等爰自霸基，策名戎幕，間關夷險，迄於末運，位高任重，咸遂本誠，亦各遇其時也。",
     "entities": [
+      {
+        "text": "皮景和",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "間關",
         "label": "LOC",

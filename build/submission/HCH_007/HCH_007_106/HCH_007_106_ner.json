@@ -39,10 +39,16 @@
         "end": 12
       },
       {
-        "text": "安重榮以鎮州",
-        "label": "LOC",
-        "start": 22,
-        "end": 28
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       },
       {
         "text": "以功授貝州",
@@ -67,7 +73,14 @@
   {
     "sentence_id": "HCH_007_106_000006",
     "sentence": "先是，前帥張彥澤在任苛虐，部民逃者五千餘戶，及下車，革前弊二十餘事，逃民歸復，賜詔褒美。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_106_000007",
@@ -108,6 +121,12 @@
     "sentence_id": "HCH_007_106_000010",
     "sentence": "開運末，杜重威降於契丹，引契丹主臨城諭之。",
     "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "引契丹主臨城",
         "label": "LOC",
@@ -196,12 +215,25 @@
   {
     "sentence_id": "HCH_007_106_000017",
     "sentence": "劉審交",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉審交",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_106_000018",
     "sentence": "劉審交，字求益，幽州文安人也。",
     "entities": [
+      {
+        "text": "劉審交",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "幽州",
         "label": "LOC",
@@ -247,14 +279,7 @@
   {
     "sentence_id": "HCH_007_106_000023",
     "sentence": "同光初，趙德鈞鎮幽州，朝廷以內官馬紹宏為北面轉運使，辟審交為判官。",
-    "entities": [
-      {
-        "text": "趙德鈞鎮幽州",
-        "label": "LOC",
-        "start": 4,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_106_000024",
@@ -265,6 +290,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "以勞授遼州",
@@ -312,6 +343,12 @@
         "label": "LOC",
         "start": 6,
         "end": 12
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -367,6 +404,12 @@
         "end": 2
       },
       {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "平盧軍為防禦州",
         "label": "LOC",
         "start": 8,
@@ -393,6 +436,12 @@
         "label": "LOC",
         "start": 4,
         "end": 10
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -989,6 +1038,12 @@
         "end": 6
       },
       {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "路由易州",
         "label": "LOC",
         "start": 19,
@@ -1011,6 +1066,12 @@
         "label": "ORG",
         "start": 13,
         "end": 14
+      },
+      {
+        "text": "萇從簡",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -1037,10 +1098,10 @@
     "sentence": "天福中，李金全以安州叛，在明從李守貞攻之，大破淮賊，以功授安州防禦使，明年，移絳州。",
     "entities": [
       {
-        "text": "李金全以安州",
-        "label": "LOC",
-        "start": 4,
-        "end": 10
+        "text": "李守貞",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       },
       {
         "text": "以功授安州",
@@ -1060,12 +1121,6 @@
     "sentence_id": "HCH_007_106_000089",
     "sentence": "楊光遠據青州叛，召為行營馬步軍都指揮使，領齊州防禦使。",
     "entities": [
-      {
-        "text": "楊光遠據青州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      },
       {
         "text": "領齊州",
         "label": "LOC",
@@ -1435,6 +1490,12 @@
     "sentence": "趙暉討王景崇於岐下，彥從為兵馬都監，破川軍有功，賊平，授濮州刺史，治有政能，百姓悅之。",
     "entities": [
       {
+        "text": "王景崇",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "授濮州",
         "label": "LOC",
         "start": 27,
@@ -1682,7 +1743,20 @@
   {
     "sentence_id": "HCH_007_106_000141",
     "sentence": "性純謹，明宗深委信之，王建立、安重誨策名委質、皆在立後。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王建立",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_106_000142",
@@ -2014,6 +2088,12 @@
         "label": "LOC",
         "start": 10,
         "end": 13
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },

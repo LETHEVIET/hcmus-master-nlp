@@ -140,7 +140,14 @@
   {
     "sentence_id": "HCH_003_058_000018",
     "sentence": "衛剌王直，字豆羅突。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆羅突",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_058_000019",
@@ -260,7 +267,14 @@
   {
     "sentence_id": "HCH_003_058_000034",
     "sentence": "及帝幸雲陽宮，直在京師反，攻肅章門，司武尉遲運閉門，不得入，退走。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉遲運",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_058_000035",
@@ -444,7 +458,14 @@
   {
     "sentence_id": "HCH_003_058_000056",
     "sentence": "唯憲與王雄、達奚武拒之，而雄為齊人所敗，三軍震懼。",
-    "entities": []
+    "entities": [
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_058_000057",
@@ -489,6 +510,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "獨孤永業",
+        "label": "PER",
+        "start": 5,
+        "end": 9
       },
       {
         "text": "築崇德等五城",
@@ -583,6 +610,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "宇文盛",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -687,6 +720,12 @@
     "sentence_id": "HCH_003_058_000083",
     "sentence": "開府裴文舉，憲之侍讀，帝嘗御內殿引見，謂曰：「昔魏末不綱，太祖匡輔元氏；有周受命，晉公復執威權。積習生常，便謂法應須爾。豈有三十歲天子可為人所制乎？且近代以來，又有一弊，暫經隸屬，便即禮若君臣，此乃亂時權宜，非經國之術。爾雖陪侍齊公，不得即同臣主。且太祖十兒，寧可悉為天子？卿宜規以正道，無令兄弟自致嫌疑。」文舉再拜而出，歸以白憲。",
     "entities": [
+      {
+        "text": "裴文舉",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "魏",
         "label": "ORG",
@@ -886,6 +925,12 @@
     "sentence": "時陳王純頓千里徑，大將軍永是公椿屯雞棲原，大將軍宇文盛守汾水關，並受憲節度。",
     "entities": [
       {
+        "text": "陳王純",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 9,
@@ -896,12 +941,6 @@
         "label": "TITLE",
         "start": 21,
         "end": 24
-      },
-      {
-        "text": "宇文盛守汾水關",
-        "label": "LOC",
-        "start": 24,
-        "end": 31
       }
     ]
   },
@@ -920,7 +959,14 @@
   {
     "sentence_id": "HCH_003_058_000111",
     "sentence": "宇文盛馳告急，憲自救之，齊人遽退。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文盛",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_058_000112",
@@ -973,6 +1019,12 @@
         "label": "LOC",
         "start": 31,
         "end": 33
+      },
+      {
+        "text": "陳王純",
+        "label": "PER",
+        "start": 71,
+        "end": 74
       }
     ]
   },
@@ -1213,7 +1265,14 @@
   {
     "sentence_id": "HCH_003_058_000149",
     "sentence": "司衛長孫覽總兵輔政，恐諸王有異志，奏令開府于智察其動靜。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫覽",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_058_000150",

@@ -928,7 +928,14 @@
   {
     "sentence_id": "HCH_005_022_000078",
     "sentence": "數月征人，代歐陽歙為河南尹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "歐陽歙",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_022_000079",

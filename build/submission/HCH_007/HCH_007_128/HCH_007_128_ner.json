@@ -441,12 +441,26 @@
   {
     "sentence_id": "HCH_007_128_000051",
     "sentence": "楊凝式",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊凝式",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_128_000052",
     "sentence": "楊凝式，華陰人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊凝式",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_128_000053",
@@ -658,6 +672,12 @@
     "sentence": "晉開運中，宰相桑維翰知其絕俸，艱於家食，奏除太子少保，分司於洛。",
     "entities": [
       {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 22,
@@ -767,18 +787,38 @@
         "label": "TITLE",
         "start": 390,
         "end": 396
+      },
+      {
+        "text": "楊凝式",
+        "label": "PER",
+        "start": 397,
+        "end": 400
       }
     ]
   },
   {
     "sentence_id": "HCH_007_128_000074",
     "sentence": "薛仁謙",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛仁謙",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_128_000075",
     "sentence": "薛仁謙，字守訓，代居河東，近世徙家於汴，今為浚儀人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛仁謙",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_128_000076",
@@ -801,7 +841,14 @@
   {
     "sentence_id": "HCH_007_128_000077",
     "sentence": "仁謙謹厚廉恪，深通世務，梁鄴王羅紹威甚重之，累署府職。",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_128_000078",
@@ -1137,7 +1184,14 @@
   {
     "sentence_id": "HCH_007_128_000117",
     "sentence": "清泰中，盧文紀作相，密與損參議時政。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_128_000118",
@@ -1222,12 +1276,26 @@
   {
     "sentence_id": "HCH_007_128_000127",
     "sentence": "王仁裕",
-    "entities": []
+    "entities": [
+      {
+        "text": "王仁裕",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_128_000128",
     "sentence": "王仁裕，字德輦，天水人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王仁裕",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_128_000129",
@@ -1253,6 +1321,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 17
+      },
+      {
+        "text": "王仁裕",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       },
       {
         "text": "《西江集》",
@@ -1351,7 +1425,14 @@
   {
     "sentence_id": "HCH_007_128_000139",
     "sentence": "時安重誨用事，削奪吳越王封爵，羽被留於錢塘，經歲不得歸，後重誨死，後吳越復通中國，羽始得還。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_128_000140",
@@ -1396,12 +1477,26 @@
   {
     "sentence_id": "HCH_007_128_000144",
     "sentence": "段希堯",
-    "entities": []
+    "entities": [
+      {
+        "text": "段希堯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_128_000145",
     "sentence": "段希堯，河內人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "段希堯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_128_000146",
@@ -2127,6 +2222,12 @@
     "sentence_id": "HCH_007_128_000208",
     "sentence": "後依杜重威，凡歷數鎮從事。",
     "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "凡歷數鎮",
         "label": "LOC",

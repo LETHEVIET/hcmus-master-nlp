@@ -349,7 +349,14 @@
   {
     "sentence_id": "HCH_007_135_000033",
     "sentence": "羅紹威求援於汴，汴將李思安、葛從周赴之，思安屯內黃。",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_135_000034",
@@ -777,6 +784,12 @@
         "label": "LOC",
         "start": 223,
         "end": 228
+      },
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 238,
+        "end": 241
       }
     ]
   },
@@ -902,6 +915,12 @@
         "label": "LOC",
         "start": 8,
         "end": 15
+      },
+      {
+        "text": "劉守奇",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -1020,6 +1039,12 @@
     "sentence_id": "HCH_007_135_000102",
     "sentence": "令副使盧汝弼、李存霸拘送仁恭至代州，於武皇靈前刺心血以祭，誅於雁門山下。",
     "entities": [
+      {
+        "text": "李存霸",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "拘送仁恭至代州",
         "label": "LOC",
@@ -1868,6 +1893,12 @@
         "label": "LOC",
         "start": 8,
         "end": 15
+      },
+      {
+        "text": "折德扆",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },

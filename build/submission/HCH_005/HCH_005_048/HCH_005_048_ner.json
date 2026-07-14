@@ -120,7 +120,14 @@
   {
     "sentence_id": "HCH_005_048_000007",
     "sentence": "司空第五倫亦同終議。",
-    "entities": []
+    "entities": [
+      {
+        "text": "第五倫",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_048_000008",

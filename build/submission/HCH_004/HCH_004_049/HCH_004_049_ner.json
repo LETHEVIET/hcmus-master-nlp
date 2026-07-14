@@ -319,6 +319,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 14
+      },
+      {
+        "text": "何承天",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       }
     ]
   },
@@ -361,6 +367,12 @@
     "sentence": "顯祖作相，在晉陽，景業因高德政上言：「《易稽覽圖》曰：『《鼎》，五月，聖人君，天與延年齒，東北水中，庶人王，高得之。』謹案東北水謂渤海也，高得之，明高氏得天下也。」是時魏 武定八年 五月也。",
     "entities": [
       {
+        "text": "高德政",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "《易稽覽圖》",
         "label": "TITLE",
         "start": 19,
@@ -383,7 +395,20 @@
   {
     "sentence_id": "HCH_004_049_000048",
     "sentence": "高德政、徐之才並勸顯祖應天受禪，乃之鄴。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高德政",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_049_000049",

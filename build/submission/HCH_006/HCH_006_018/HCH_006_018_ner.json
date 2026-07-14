@@ -37,7 +37,14 @@
   {
     "sentence_id": "HCH_006_018_000008",
     "sentence": "會上亦興文學，進拔幽隱，公孫弘自海瀕而登宰相， [ 5 ] 於是寵以列侯之爵。",
-    "entities": []
+    "entities": [
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_018_000009",

@@ -2,17 +2,44 @@
   {
     "sentence_id": "HCH_008_106_000001",
     "sentence": "○李林甫 楊國忠 張暐 王琚 王毛仲 陳玄禮附",
-    "entities": []
+    "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000002",
     "sentence": "李林甫",
-    "entities": []
+    "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000003",
     "sentence": "李林甫，高祖從父弟長平王叔良之曾孫。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000004",
@@ -64,12 +91,26 @@
   {
     "sentence_id": "HCH_008_106_000008",
     "sentence": "時源乾曜為侍中，乾曜侄孫光乘，姜皎妹婿，乾曜與之親。",
-    "entities": []
+    "entities": [
+      {
+        "text": "源乾曜",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000009",
     "sentence": "乾曜之男潔白其父曰：「李林甫求為司門郎中。」乾曜曰：「郎官須有素行才望高者，哥奴豈是郎官耶？」數日，除諭德。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000010",
@@ -90,6 +131,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "宇文融",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       },
       {
         "text": "御史",
@@ -131,12 +178,32 @@
   {
     "sentence_id": "HCH_008_106_000015",
     "sentence": "初，侍中裴光庭妻武三思女，詭譎有材略，與林甫私。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴光庭",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000016",
     "sentence": "中官高力士本出三思家，及光庭卒，武氏銜哀祈於力士，請林甫代其夫位，力士未敢言，玄宗使中書令蕭嵩擇相，嵩久之以右丞韓休對，玄宗然之，乃令草詔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高力士",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000017",
@@ -172,10 +239,22 @@
         "end": 10
       },
       {
+        "text": "裴耀卿",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 22,
         "end": 24
+      },
+      {
+        "text": "張九齡",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       },
       {
         "text": "尚書",
@@ -250,14 +329,7 @@
   {
     "sentence_id": "HCH_008_106_000027",
     "sentence": "林甫惘然而退，初無言，既而謂中貴人曰：「家事何須謀及於人。」時朔方節度使牛仙客在鎮，有政能，玄宗加實封，九齡又奏曰：「邊將馴兵秣馬，儲蓄軍實，常務耳，陛下賞之可也；欲賜實賦，恐未得宜。惟聖慮思之。」帝默然。",
-    "entities": [
-      {
-        "text": "度使牛仙客在鎮",
-        "label": "LOC",
-        "start": 34,
-        "end": 41
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_106_000028",
@@ -290,6 +362,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "嚴挺之",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -308,6 +386,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "王元琰",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -320,6 +404,24 @@
     "sentence_id": "HCH_008_106_000034",
     "sentence": "玄宗察之，謂九齡曰：「王元琰不無贓罪，嚴挺之囑托所由輩有顏面。」九齡曰：「此挺之前妻，今已婚崔氏，不合有情。」玄宗曰：「卿不知，雖離之。亦卻有私。」玄宗籍前事，以九齡有黨，與裴耀卿俱罷知政事，拜左、右丞相，出挺之為洺州刺史，元琰流於嶺外。",
     "entities": [
+      {
+        "text": "王元琰",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "嚴挺之",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "裴耀卿",
+        "label": "PER",
+        "start": 87,
+        "end": 90
+      },
       {
         "text": "丞相",
         "label": "TITLE",
@@ -344,6 +446,12 @@
     "sentence_id": "HCH_008_106_000035",
     "sentence": "即日林甫代九齡為中書、集賢殿大學士、修國史；拜牛仙客工部尚書、同中書門下平章事，知門下省事。",
     "entities": [
+      {
+        "text": "牛仙客",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -487,7 +595,14 @@
   {
     "sentence_id": "HCH_008_106_000049",
     "sentence": "與宰相李適之雖同宗屬，而適之輕率，嘗與林甫同論時政，多失大體，由是主恩益疏，以至罷免。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李適之",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000050",
@@ -498,6 +613,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "陳希烈",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -575,6 +696,12 @@
         "label": "TITLE",
         "start": 33,
         "end": 35
+      },
+      {
+        "text": "楊慎矜",
+        "label": "PER",
+        "start": 37,
+        "end": 40
       }
     ]
   },
@@ -605,12 +732,31 @@
   {
     "sentence_id": "HCH_008_106_000063",
     "sentence": "林甫因是奏李適之與堅昵狎，及裴寬、韓朝宗並曲附適之，上以為然，賜堅自盡，裴、韓皆坐之斥逐。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李適之",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "韓朝宗",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000064",
     "sentence": "後楊慎矜權位漸盛，林甫又忌之，乃引王鉷為御史中丞，托以心腹。",
     "entities": [
+      {
+        "text": "楊慎矜",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -627,7 +773,14 @@
   {
     "sentence_id": "HCH_008_106_000066",
     "sentence": "楊國忠以椒房之親，出入中禁，奏請多允，乃擢在臺省，令按刑獄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000067",
@@ -644,7 +797,14 @@
   {
     "sentence_id": "HCH_008_106_000068",
     "sentence": "鉷與國忠附會林甫奏之，於是賜有鄰自盡，出良娣為庶人，李邕、裴敦復枝黨數人並坐極法。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴敦復",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000069",
@@ -673,6 +833,12 @@
     "sentence_id": "HCH_008_106_000071",
     "sentence": "林甫嘗令濟陽別駕魏林告隴右、河西節度使王忠嗣，林往任朔州刺史，忠嗣時為山東節度，自雲與忠王同養宮中，情意相得，欲擁兵以佐太子。",
     "entities": [
+      {
+        "text": "王忠嗣",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
       {
         "text": "林往任朔州",
         "label": "LOC",
@@ -743,12 +909,26 @@
   {
     "sentence_id": "HCH_008_106_000076",
     "sentence": "十一載，以朔方副使李獻忠叛，讓節度，舉安思順自代。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安思順",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000077",
     "sentence": "國家武德、貞觀已來，蕃將如阿史那杜爾、契苾何力，忠孝有才略，亦不專委大將之任，多以重臣領使以制之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "契苾何力",
+        "label": "PER",
+        "start": 19,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000078",
@@ -759,13 +939,32 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "張嘉貞",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
   {
     "sentence_id": "HCH_008_106_000079",
     "sentence": "自是高仙芝、哥舒翰皆專任大將，林甫利其不識文字，無入相由，然而祿山竟為亂階，由專得大將之任故也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高仙芝",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "哥舒翰",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000080",
@@ -780,7 +979,14 @@
   {
     "sentence_id": "HCH_008_106_000082",
     "sentence": "而郭慎微、苑咸文士之闒茸者，代為題尺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭慎微",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000083",
@@ -802,7 +1008,14 @@
   {
     "sentence_id": "HCH_008_106_000085",
     "sentence": "初，楊國忠登朝，林甫以微才不之忌；及位至中司，權傾朝列，林甫始惡之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000086",
@@ -891,6 +1104,12 @@
     "sentence": "有子二十五人、女二十五人：岫為將作監，崿為司儲郎中，嶼為太常少卿；子婿張博濟為鴻臚少卿，鄭平為戶部員外郎，杜位為右補闕，齊宣為諫議大夫，元捴為京兆府戶曹。",
     "entities": [
       {
+        "text": "張博濟",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 65,
@@ -924,6 +1143,12 @@
         "label": "TITLE",
         "start": 33,
         "end": 35
+      },
+      {
+        "text": "李適之",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       }
     ]
   },
@@ -931,6 +1156,12 @@
     "sentence_id": "HCH_008_106_000100",
     "sentence": "是時楊國忠始為金吾胄曹參軍，至是不十年，林甫卒，國忠竟代其任，其形狀亦類寬焉。",
     "entities": [
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "十年",
         "label": "TME",
@@ -979,12 +1210,25 @@
   {
     "sentence_id": "HCH_008_106_000107",
     "sentence": "楊國忠",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000108",
     "sentence": "楊國忠，本名釗，蒲州永樂人也。",
     "entities": [
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "蒲州",
         "label": "LOC",
@@ -1008,7 +1252,14 @@
   {
     "sentence_id": "HCH_008_106_000110",
     "sentence": "則天朝幸臣張易之，即國忠之舅也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000111",
@@ -1042,6 +1293,12 @@
     "sentence": "天寶初，太真有寵，劍南節度使章仇兼瓊引國忠為賓佐，既而擢授監察御史。",
     "entities": [
       {
+        "text": "章仇兼瓊",
+        "label": "PER",
+        "start": 14,
+        "end": 18
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 31,
@@ -1058,6 +1315,12 @@
     "sentence_id": "HCH_008_106_000117",
     "sentence": "時李林甫將不利於皇太子，掎摭陰事以傾之。",
     "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -1077,10 +1340,22 @@
         "end": 3
       },
       {
+        "text": "楊慎矜",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "皇甫惟明",
+        "label": "PER",
+        "start": 19,
+        "end": 23
       },
       {
         "text": "太子",
@@ -1099,6 +1374,12 @@
         "label": "TITLE",
         "start": 28,
         "end": 30
+      },
+      {
+        "text": "杜昆吾",
+        "label": "PER",
+        "start": 40,
+        "end": 43
       }
     ]
   },
@@ -1174,6 +1455,12 @@
     "sentence_id": "HCH_008_106_000128",
     "sentence": "初，楊慎矜希林甫旨，引王鉷為御史中丞，同構大獄，以傾東宮。",
     "entities": [
+      {
+        "text": "楊慎矜",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -1255,7 +1542,20 @@
   {
     "sentence_id": "HCH_008_106_000135",
     "sentence": "乃窮竟邢縡獄，令引林甫交私鉷、銲與阿布思事狀，而陳希烈、哥舒翰附會國忠，證成其狀，上由是疏薄林甫。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳希烈",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
+        "text": "哥舒翰",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000136",
@@ -1271,12 +1571,6 @@
         "label": "LOC",
         "start": 0,
         "end": 5
-      },
-      {
-        "text": "鮮于仲通為益州",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
       }
     ]
   },
@@ -1405,7 +1699,14 @@
   {
     "sentence_id": "HCH_008_106_000154",
     "sentence": "主書吳珣持籍就左相陳希烈之第，希烈引籍署名，都無可否。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳希烈",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000155",
@@ -1484,10 +1785,22 @@
     "sentence": "國忠註官時，呼左相陳希烈於座隅，給事中在列，曰：「既對註擬，過門下了矣。」吏部侍郎韋見素、張倚皆衣紫，是日與本曹郎官同咨事，趨走於屏樹之間。",
     "entities": [
       {
+        "text": "陳希烈",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 39,
         "end": 41
+      },
+      {
+        "text": "韋見素",
+        "label": "PER",
+        "start": 41,
+        "end": 44
       }
     ]
   },
@@ -1500,6 +1813,12 @@
     "sentence_id": "HCH_008_106_000166",
     "sentence": "其所昵京兆尹鮮于仲通、中書舍人竇華、侍御史鄭昂諷選人於省門立碑，以頌國忠銓綜之能。",
     "entities": [
+      {
+        "text": "鮮于仲通",
+        "label": "PER",
+        "start": 6,
+        "end": 10
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -1541,7 +1860,14 @@
   {
     "sentence_id": "HCH_008_106_000173",
     "sentence": "時安祿山恩寵特深，總握兵柄，國忠知其跋扈，終不出其下，將圖之，屢於上前言其悖逆之狀，上不之信。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000174",
@@ -1616,12 +1942,6 @@
     "sentence": "及哥舒翰守潼關，諸將以函關距京師三百里，利在守險，不利出攻。",
     "entities": [
       {
-        "text": "及哥舒翰守潼關",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      },
-      {
         "text": "諸將以函關",
         "label": "LOC",
         "start": 8,
@@ -1672,6 +1992,18 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "韋見素",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "魏方進",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
@@ -1699,6 +2031,18 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 45,
+        "end": 48
+      },
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 123,
+        "end": 126
       }
     ]
   },
@@ -1722,6 +2066,18 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "魏方進",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "韋見素",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1738,12 +2094,32 @@
   {
     "sentence_id": "HCH_008_106_000195",
     "sentence": "李光弼、郭子儀統河朔勁卒，連收恆、定，若崤、函固守，兵不妄動，則AT逆之勢，不討自弊。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000196",
     "sentence": "及哥舒翰出師，凡不數日，乘輿遷幸，朝廷陷沒，百僚系頸，妃主被戮，兵滿天下，毒流四海，皆國忠之召禍也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "哥舒翰",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000197",
@@ -1844,14 +2220,7 @@
   {
     "sentence_id": "HCH_008_106_000207",
     "sentence": "會臨淄王為潞州別駕，暐潛識英姿，傾身事之，日奉遊處。",
-    "entities": [
-      {
-        "text": "會臨淄王為潞州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_106_000208",
@@ -1886,6 +2255,24 @@
         "label": "TITLE",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "李令問",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      },
+      {
+        "text": "王守一",
+        "label": "PER",
+        "start": 41,
+        "end": 44
+      },
+      {
+        "text": "薛伯陽",
+        "label": "PER",
+        "start": 45,
+        "end": 48
       },
       {
         "text": "太子",
@@ -1940,6 +2327,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "劉幽求",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -2141,12 +2534,32 @@
   {
     "sentence_id": "HCH_008_106_000232",
     "sentence": "神龍初，年二十餘，嘗謁駙馬王同皎，同皎甚器之，益歡洽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王同皎",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000233",
     "sentence": "言及刺武三思事，琚義而許之，與周璟、張仲之為忘年之友。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "張仲之",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000234",
@@ -2250,6 +2663,18 @@
         "label": "TITLE",
         "start": 99,
         "end": 101
+      },
+      {
+        "text": "劉幽求",
+        "label": "PER",
+        "start": 151,
+        "end": 154
+      },
+      {
+        "text": "郭元振",
+        "label": "PER",
+        "start": 158,
+        "end": 161
       }
     ]
   },
@@ -2315,7 +2740,14 @@
   {
     "sentence_id": "HCH_008_106_000246",
     "sentence": "時劉幽求、張暐並流於嶺外，琚見事迫，請早為之計。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉幽求",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000247",
@@ -2326,6 +2758,18 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李令問",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
+        "text": "王守一",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -2333,6 +2777,12 @@
     "sentence_id": "HCH_008_106_000248",
     "sentence": "時睿宗聞鼓噪聲，召郭元振升承天樓，宣詔下關，侍御史任知古召募數百人於朝堂，不得入。",
     "entities": [
+      {
+        "text": "郭元振",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
       {
         "text": "宣詔下關",
         "label": "LOC",
@@ -2350,7 +2800,20 @@
   {
     "sentence_id": "HCH_008_106_000249",
     "sentence": "頃間，琚等從玄宗至樓上，誅蕭至忠、岑義、竇懷貞、常元楷、李慈、李猷等。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭至忠",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "竇懷貞",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000250",
@@ -2721,7 +3184,14 @@
   {
     "sentence_id": "HCH_008_106_000278",
     "sentence": "至任未幾，林甫使羅希奭重按之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅希奭",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000279",
@@ -2781,14 +3251,7 @@
   {
     "sentence_id": "HCH_008_106_000286",
     "sentence": "及出兼潞州別駕，又見李宜德趫捷善騎射，為人蒼頭，以錢五萬買之。",
-    "entities": [
-      {
-        "text": "及出兼潞州",
-        "label": "LOC",
-        "start": 0,
-        "end": 5
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_106_000287",
@@ -2854,7 +3317,20 @@
   {
     "sentence_id": "HCH_008_106_000294",
     "sentence": "其營長葛福順、陳玄禮等相與見玄宗訴冤，會玄宗已與劉幽求、麻嗣宗、薛崇簡等謀舉大計，相顧益歡，令幽求諷之，皆願決死從命。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉幽求",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
+        "text": "薛崇簡",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000295",
@@ -3101,6 +3577,12 @@
         "label": "TITLE",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "高力士",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       }
     ]
   },
@@ -3131,6 +3613,12 @@
         "label": "LOC",
         "start": 35,
         "end": 39
+      },
+      {
+        "text": "裴伷先",
+        "label": "PER",
+        "start": 41,
+        "end": 44
       }
     ]
   },
@@ -3161,6 +3649,12 @@
     "sentence": "於嶽下以宰相源乾曜、張說加左右丞相，毛仲加開府儀同三司。",
     "entities": [
       {
+        "text": "源乾曜",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "丞相",
         "label": "TITLE",
         "start": 15,
@@ -3172,6 +3666,12 @@
     "sentence_id": "HCH_008_106_000324",
     "sentence": "自玄宗先天正位後，以後父王同皎及姚崇、宋璟及毛仲十五年間四人至開府，又敕張說為《監牧頌》以美之。",
     "entities": [
+      {
+        "text": "王同皎",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
       {
         "text": "十五年",
         "label": "TME",
@@ -3255,18 +3755,19 @@
   {
     "sentence_id": "HCH_008_106_000333",
     "sentence": "後毛仲索甲仗於太原軍器監，時嚴挺之為少尹，奏之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "嚴挺之",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000334",
     "sentence": "玄宗恐其黨震懼為亂，乃隱其實狀，詔曰：「開府儀同三司、兼殿中監、霍國公、內外閑廄監牧都使王毛仲，是惟微細，非有功績，擢自家臣，升於朝位。恩寵莫二，委任斯崇。無涓塵之益，肆驕盈之誌。往屬艱難，遽茲逃匿，念深惟舊，義在優容，仍荷殊榮，蔑聞悛悔。在公無竭盡之效，居常多怨望之詞。跡其深愆，合從誅殛；恕其庸昧，宜從遠貶。可瀼州別駕員外置長任，差使馳驛領送至任，忽許東西及判事。」左領軍大將軍耿國公葛福順，貶壁州員外別駕；左監門將軍盧龍子唐地文，貶振州員外別駕；右武衛將軍成紀侯李守德，貶嚴州員外別駕，守德，本宜德也，立功後改名；右威衛將軍王景耀，貶黨州員外別駕；右威衛將軍高廣濟，貶道州員外別駕。",
     "entities": [
-      {
-        "text": "可瀼州",
-        "label": "LOC",
-        "start": 156,
-        "end": 159
-      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -3415,10 +3916,22 @@
     "sentence": "及安祿山反，玄禮欲於城中誅楊國忠，事不果，竟於馬嵬斬之。",
     "entities": [
       {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "玄禮欲於城",
         "label": "LOC",
         "start": 6,
         "end": 11
+      },
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -3447,12 +3960,26 @@
   {
     "sentence_id": "HCH_008_106_000345",
     "sentence": "史臣曰：李林甫以諂佞進身，位極臺輔，不懼盈滿，蔽主聰明，生既唯務陷人，死亦為人所陷，得非彼蒼假手，以示禍淫者乎！",
-    "entities": []
+    "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000346",
     "sentence": "楊國忠稟性奸回，才薄行穢，領四十余使，恣弄威權，天子莫見其非，群臣由之杜口，致祿山叛逆，鑾輅播遷，梟首覆宗，莫救艱步。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_106_000347",

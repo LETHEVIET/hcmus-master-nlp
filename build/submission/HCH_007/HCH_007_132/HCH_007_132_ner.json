@@ -1097,6 +1097,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "楊崇本",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1109,18 +1115,6 @@
         "label": "LOC",
         "start": 29,
         "end": 33
-      },
-      {
-        "text": "將王重師守雍州",
-        "label": "LOC",
-        "start": 38,
-        "end": 45
-      },
-      {
-        "text": "劉知俊守同州",
-        "label": "LOC",
-        "start": 46,
-        "end": 52
       }
     ]
   },
@@ -1133,6 +1127,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "劉萬子",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -1157,6 +1157,12 @@
     "sentence_id": "HCH_007_132_000119",
     "sentence": "梁祖以萬興為鄜延招撫使，與劉知俊合兵攻收鄜、坊、丹、延等州，梁祖乃分四州為二鎮，以萬興、萬金皆為帥。",
     "entities": [
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
       {
         "text": "延等州",
         "label": "LOC",
@@ -1336,14 +1342,7 @@
   {
     "sentence_id": "HCH_007_132_000135",
     "sentence": "開平中，梁將劉知俊自同州叛歸鳳翔，李茂貞以地褊不能容，乃借兵以窺靈武，且圖牧圉之地。",
-    "entities": [
-      {
-        "text": "將劉知俊自同州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_132_000136",
@@ -1495,12 +1494,25 @@
   {
     "sentence_id": "HCH_007_132_000147",
     "sentence": "李仁福",
-    "entities": []
+    "entities": [
+      {
+        "text": "李仁福",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_132_000148",
     "sentence": "李仁福，世為夏州牙將，本拓拔氏之族也。",
     "entities": [
+      {
+        "text": "李仁福",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "世為夏州",
         "label": "LOC",
@@ -1650,12 +1662,6 @@
         "label": "LOC",
         "start": 56,
         "end": 63
-      },
-      {
-        "text": "帥安從進為夏州",
-        "label": "LOC",
-        "start": 68,
-        "end": 75
       }
     ]
   },
@@ -1668,6 +1674,12 @@
         "label": "LOC",
         "start": 7,
         "end": 10
+      },
+      {
+        "text": "藥彥稠",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       },
       {
         "text": "師援送從進赴鎮",
@@ -1692,14 +1704,7 @@
   {
     "sentence_id": "HCH_007_132_000164",
     "sentence": "五月，安從進領軍至城下，彜超不受代，從進駐軍以攻之。",
-    "entities": [
-      {
-        "text": "安從進領軍至城",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_132_000165",
@@ -1844,6 +1849,12 @@
     "sentence_id": "HCH_007_132_000176",
     "sentence": "是歲，李守貞叛於河中，潛使人構之，彜興為之出師，駐於延州之北境，既而聞守貞被圍，乃收軍而退。",
     "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "駐於延州",
         "label": "LOC",

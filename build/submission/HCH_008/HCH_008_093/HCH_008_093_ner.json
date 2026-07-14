@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_008_093_000001",
     "sentence": "婁師德",
-    "entities": []
+    "entities": [
+      {
+        "text": "婁師德",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_093_000002",
     "sentence": "婁師德，鄭州原武人也。",
     "entities": [
+      {
+        "text": "婁師德",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "鄭州",
         "label": "LOC",
@@ -30,6 +43,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "盧承業",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -216,6 +235,12 @@
         "end": 19
       },
       {
+        "text": "王孝傑",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
         "text": "師德貶授原州",
         "label": "LOC",
         "start": 48,
@@ -262,6 +287,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "狄仁傑",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       },
       {
         "text": "道安撫河北諸州",
@@ -327,7 +358,14 @@
   {
     "sentence_id": "HCH_008_093_000022",
     "sentence": "初，狄仁傑未入相時，師德嚐薦之，及爲宰相，不知師德薦已，數排師德，令充外使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "狄仁傑",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_093_000023",
@@ -347,12 +385,26 @@
   {
     "sentence_id": "HCH_008_093_000026",
     "sentence": "王孝傑",
-    "entities": []
+    "entities": [
+      {
+        "text": "王孝傑",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_093_000027",
     "sentence": "王孝傑，京兆新豐人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王孝傑",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_093_000028",
@@ -363,6 +415,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "劉審禮",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -403,6 +461,12 @@
         "label": "TITLE",
         "start": 16,
         "end": 19
+      },
+      {
+        "text": "阿史那忠",
+        "label": "PER",
+        "start": 19,
+        "end": 23
       },
       {
         "text": "碎葉四鎮",
@@ -539,12 +603,26 @@
   {
     "sentence_id": "HCH_008_093_000047",
     "sentence": "唐休璟",
-    "entities": []
+    "entities": [
+      {
+        "text": "唐休璟",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_093_000048",
     "sentence": "唐休璟，京兆始平人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "唐休璟",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_093_000049",
@@ -622,6 +700,12 @@
     "sentence": "都督周道務遣休璟將兵擊破之於獨護山，斬獲甚眾，超拜豐州司馬。",
     "entities": [
       {
+        "text": "周道務",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "超拜豐州",
         "label": "LOC",
         "start": 23,
@@ -644,6 +728,12 @@
         "label": "LOC",
         "start": 4,
         "end": 9
+      },
+      {
+        "text": "崔智辯",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -703,7 +793,20 @@
   {
     "sentence_id": "HCH_008_093_000059",
     "sentence": "會吐蕃攻破焉耆，安息道大總管、文昌右相韋待價及副使閻溫古失利，休璟收其餘眾，以安西土。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋待價",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "閻溫古",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_093_000060",
@@ -727,6 +830,12 @@
     "sentence_id": "HCH_008_093_000061",
     "sentence": "則天遣王孝傑破吐蕃，拔四鎮，亦休璟之謀也。",
     "entities": [
+      {
+        "text": "王孝傑",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "拔四鎮",
         "label": "LOC",
@@ -873,7 +982,32 @@
   {
     "sentence_id": "HCH_008_093_000072",
     "sentence": "又謂魏元忠及楊再思、李嶠、姚元崇、李迥秀等曰：「休璟諳練邊事，卿等十不當一也。」",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏元忠",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "楊再思",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "姚元崇",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "李迥秀",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_093_000073",
@@ -914,6 +1048,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       },
       {
         "text": "大將軍",
@@ -1105,12 +1245,25 @@
   {
     "sentence_id": "HCH_008_093_000092",
     "sentence": "張仁愿",
-    "entities": []
+    "entities": [
+      {
+        "text": "張仁愿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_093_000093",
     "sentence": "張仁愿，華州下邽人也。",
     "entities": [
+      {
+        "text": "張仁愿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "華州",
         "label": "LOC",
@@ -1147,12 +1300,6 @@
         "end": 4
       },
       {
-        "text": "人張嘉福與洛州",
-        "label": "LOC",
-        "start": 20,
-        "end": 27
-      },
-      {
         "text": "太子",
         "label": "TITLE",
         "start": 39,
@@ -1169,6 +1316,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "王孝傑",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -1204,6 +1357,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "孫承景",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1328,12 +1487,6 @@
     "sentence": "初，髙宗時賈敦頤爲洛州刺史，亦有政績，與仁愿皆爲一時之最。",
     "entities": [
       {
-        "text": "時賈敦頤爲洛州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 11,
@@ -1424,6 +1577,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "唐休璟",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       },
       {
         "text": "今於寇境築城",
@@ -1539,6 +1698,12 @@
         "end": 12
       },
       {
+        "text": "張敬忠",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "長安",
         "label": "LOC",
         "start": 19,
@@ -1551,10 +1716,34 @@
         "end": 28
       },
       {
+        "text": "王易從",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "劉體微",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 45,
         "end": 47
+      },
+      {
+        "text": "柳彥昭",
+        "label": "PER",
+        "start": 49,
+        "end": 52
+      },
+      {
+        "text": "晁良貞",
+        "label": "PER",
+        "start": 59,
+        "end": 62
       }
     ]
   },
@@ -1689,6 +1878,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -1814,6 +2009,12 @@
         "end": 13
       },
       {
+        "text": "杜賓客",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "定州",
         "label": "LOC",
         "start": 17,
@@ -1826,6 +2027,12 @@
         "end": 21
       },
       {
+        "text": "崔宣道",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "出檀州",
         "label": "LOC",
         "start": 30,
@@ -1836,12 +2043,26 @@
   {
     "sentence_id": "HCH_008_093_000154",
     "sentence": "杜賓客以爲時屬炎暑，將土負戈甲，齎資糧，深入寇境，恐難爲製勝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜賓客",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_093_000155",
     "sentence": "中書令姚元崇亦以爲然。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚元崇",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_093_000156",
@@ -1861,7 +2082,20 @@
   {
     "sentence_id": "HCH_008_093_000159",
     "sentence": "訥脫身走免，歸罪於崔宣道及蕃將李思敬等八人，詔盡令斬之，特免杜賓客之罪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔宣道",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "杜賓客",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_093_000160",
@@ -1937,6 +2171,12 @@
         "label": "LOC",
         "start": 6,
         "end": 11
+      },
+      {
+        "text": "王海賓",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -1962,6 +2202,12 @@
     "sentence": "追贈王海賓左金吾衛大將軍，賜物三百段、粟三百石，名其稚子爲忠嗣，拜朝散大夫。",
     "entities": [
       {
+        "text": "王海賓",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 9,
@@ -1979,6 +2225,12 @@
     "sentence_id": "HCH_008_093_000168",
     "sentence": "命紫微舍人倪若水往，即便敘錄功狀，拜訥爲左羽林軍大將軍，復封平陽郡公，仍拜子暢朝散大夫。",
     "entities": [
+      {
+        "text": "倪若水",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -2119,7 +2371,14 @@
   {
     "sentence_id": "HCH_008_093_000178",
     "sentence": "時朔方軍元帥魏元忠討賊失利，歸罪於副將韓思忠，奏請誅之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏元忠",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_093_000179",
@@ -2672,13 +2931,26 @@
         "label": "TITLE",
         "start": 33,
         "end": 35
+      },
+      {
+        "text": "郭知運",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       }
     ]
   },
   {
     "sentence_id": "HCH_008_093_000240",
     "sentence": "晙奏：「朔方軍兵自有餘力，其郭知運請還本軍。」未報，而知運兵至，與晙頗不相協。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭知運",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_093_000241",
@@ -2812,6 +3084,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "源乾曜",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -2878,7 +3156,20 @@
   {
     "sentence_id": "HCH_008_093_000253",
     "sentence": "往歳，魏元忠爲張易之、昌宗所構，左授髙要尉，晙密狀申明之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏元忠",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_093_000254",
@@ -2934,12 +3225,38 @@
   {
     "sentence_id": "HCH_008_093_000260",
     "sentence": "史臣曰：婁師德應召而慷愾，勇也；薦仁傑而入用，忠也；不使仁傑知之，公也；營田贍軍，智也；恭勤接下，和也；參知政事，功名有卒，是人之難也，又何愧於將相乎！",
-    "entities": []
+    "entities": [
+      {
+        "text": "婁師德",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_093_000261",
     "sentence": "王孝傑，唐休璟、張仁愿、薛訥、王晙等，皆韜武幹，亟立邊功。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王孝傑",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "唐休璟",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "張仁愿",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_093_000262",

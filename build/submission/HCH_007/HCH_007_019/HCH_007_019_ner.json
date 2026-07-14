@@ -384,12 +384,25 @@
   {
     "sentence_id": "HCH_007_019_000041",
     "sentence": "王重師",
-    "entities": []
+    "entities": [
+      {
+        "text": "王重師",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_019_000042",
     "sentence": "王重師，潁州長社人也。",
     "entities": [
+      {
+        "text": "王重師",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "潁州",
         "label": "LOC",
@@ -556,6 +569,12 @@
         "label": "LOC",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "王重師",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "貶溪州",
@@ -1348,6 +1367,12 @@
     "sentence": "其年冬，與康懷英渡淮，入壽春之境，下安豐、霍丘，至光州而還。",
     "entities": [
       {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "至光州",
         "label": "LOC",
         "start": 24,
@@ -1889,6 +1914,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       },
       {
         "text": "寇魏郡",

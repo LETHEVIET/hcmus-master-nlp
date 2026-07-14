@@ -145,6 +145,12 @@
         "end": 6
       },
       {
+        "text": "令狐子伯",
+        "label": "PER",
+        "start": 6,
+        "end": 10
+      },
+      {
         "text": "而其子為郡",
         "label": "LOC",
         "start": 20,
@@ -313,6 +319,12 @@
     "sentence_id": "HCH_005_084_000047",
     "sentence": "扶風曹世叔妻者，同郡班彪之女也，名昭，字惠班，一名姬。",
     "entities": [
+      {
+        "text": "曹世叔",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "同郡",
         "label": "LOC",
@@ -1018,12 +1030,26 @@
   {
     "sentence_id": "HCH_005_084_000169",
     "sentence": "樂羊子妻",
-    "entities": []
+    "entities": [
+      {
+        "text": "樂羊子",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_084_000170",
     "sentence": "河南樂羊子之妻者，不知何氏之女也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "樂羊子",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_084_000171",
@@ -1114,7 +1140,14 @@
   {
     "sentence_id": "HCH_005_084_000184",
     "sentence": "李穆姜",
-    "entities": []
+    "entities": [
+      {
+        "text": "李穆姜",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_084_000185",
@@ -1485,7 +1518,14 @@
   {
     "sentence_id": "HCH_005_084_000239",
     "sentence": "劉長卿妻桓氏",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉長卿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_084_000240",
@@ -1496,6 +1536,12 @@
         "label": "LOC",
         "start": 0,
         "end": 1
+      },
+      {
+        "text": "劉長卿",
+        "label": "PER",
+        "start": 1,
+        "end": 4
       },
       {
         "text": "同郡",
@@ -1557,12 +1603,26 @@
   {
     "sentence_id": "HCH_005_084_000247",
     "sentence": "皇甫規妻",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫規",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_084_000248",
     "sentence": "安定皇甫規妻者，不知何氏女也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫規",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_084_000249",
@@ -1691,7 +1751,14 @@
   {
     "sentence_id": "HCH_005_084_000271",
     "sentence": "趙媛姜",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙媛姜",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_084_000272",
@@ -1755,12 +1822,26 @@
   {
     "sentence_id": "HCH_005_084_000281",
     "sentence": "叔先雄",
-    "entities": []
+    "entities": [
+      {
+        "text": "叔先雄",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_084_000282",
     "sentence": "孝女叔先雄者，犍為人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "叔先雄",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_084_000283",

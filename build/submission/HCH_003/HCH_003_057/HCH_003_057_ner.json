@@ -203,19 +203,18 @@
   {
     "sentence_id": "HCH_003_057_000029",
     "sentence": "與文帝隨賀拔岳入關，常從征伐。",
-    "entities": [
-      {
-        "text": "帝隨賀拔岳入關",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_057_000030",
     "sentence": "文帝討侯莫陳悅，導追斬之牽屯山，以功封饒陽縣伯。",
     "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      },
       {
         "text": "以功封饒陽縣",
         "label": "LOC",
@@ -245,7 +244,14 @@
   {
     "sentence_id": "HCH_003_057_000032",
     "sentence": "既而趙青雀、于伏德、慕容思慶等作亂，導禽伏德，斬思慶，屯渭橋會文帝軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容思慶",
+        "label": "PER",
+        "start": 10,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_057_000033",
@@ -310,6 +316,12 @@
         "label": "LOC",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       },
       {
         "text": "令導代信為秦州",
@@ -507,7 +519,14 @@
   {
     "sentence_id": "HCH_003_057_000051",
     "sentence": "時晉公護諸子及廣弟杞公亮等侈靡逾制，廣獨率禮，又折節待士，朝野稱焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杞公亮",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_057_000052",
@@ -610,7 +629,14 @@
   {
     "sentence_id": "HCH_003_057_000065",
     "sentence": "無子，以杞公亮子溫嗣，後坐亮反誅，國除。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杞公亮",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_057_000066",
@@ -688,7 +714,14 @@
   {
     "sentence_id": "HCH_003_057_000075",
     "sentence": "文帝至平涼，以護為都督，從破侯莫陳悅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 14,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_057_000076",
@@ -838,7 +871,14 @@
   {
     "sentence_id": "HCH_003_057_000094",
     "sentence": "趙貴、獨孤信等將謀襲護，護因貴入朝，執之，黨與皆伏誅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_057_000095",
@@ -904,6 +944,12 @@
     "sentence_id": "HCH_003_057_000103",
     "sentence": "光洛告護，護乃召柱國賀蘭祥、小司馬尉遲綱等以鳳謀告之。",
     "entities": [
+      {
+        "text": "賀蘭祥",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "司馬",
         "label": "TITLE",
@@ -1266,6 +1312,12 @@
         "end": 20
       },
       {
+        "text": "權景宣",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "率山南兵出豫州",
         "label": "LOC",
         "start": 23,
@@ -1293,6 +1345,12 @@
         "label": "LOC",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -1401,7 +1459,14 @@
   {
     "sentence_id": "HCH_003_057_000165",
     "sentence": "初，帝欲圖護，王軌、宇文神舉、宇文孝伯頗預其謀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文神舉",
+        "label": "PER",
+        "start": 10,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_057_000166",
@@ -1412,6 +1477,12 @@
     "sentence_id": "HCH_003_057_000167",
     "sentence": "殺護訖，乃召宮伯長孫覽等，即令收護子柱國譚國公會、大將軍莒國公至、崇業公靜、正平公乾嘉及乾基、乾蔚、乾祖、乾威等，並柱國侯伏侯龍恩、龍恩弟大將軍萬壽、大將軍劉勇、中外府司錄尹公正、袁傑、膳部下大夫李安等，於殿中殺之。",
     "entities": [
+      {
+        "text": "長孫覽",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -1664,7 +1735,14 @@
   {
     "sentence_id": "HCH_003_057_000185",
     "sentence": "晉公護既殺孫恆、李植等，欲委腹心于司會柳慶、司憲令狐整等，二人並辭，俱薦協。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐整",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_057_000186",
@@ -1938,6 +2016,12 @@
     "sentence_id": "HCH_003_057_000222",
     "sentence": "大象初，以行軍總管與元帥鄭國公韋孝寬等伐陳。",
     "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
       {
         "text": "陳",
         "label": "ORG",
@@ -2497,12 +2581,6 @@
         "label": "LOC",
         "start": 10,
         "end": 17
-      },
-      {
-        "text": "高敖曹圍洛州",
-        "label": "LOC",
-        "start": 18,
-        "end": 24
       }
     ]
   },
@@ -2728,7 +2806,14 @@
   {
     "sentence_id": "HCH_003_057_000327",
     "sentence": "及將誅晉公護，密與衛王直圖之，惟孝伯及王軌、宇文神舉等頗得參預。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文神舉",
+        "label": "PER",
+        "start": 22,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_057_000328",
@@ -2757,6 +2842,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "尉遲運",
+        "label": "PER",
+        "start": 116,
+        "end": 119
       },
       {
         "text": "大夫",
@@ -2897,7 +2988,14 @@
   {
     "sentence_id": "HCH_003_057_000345",
     "sentence": "尉遲運懼，私謂孝伯曰：「吾徒必不免禍，奈何？」孝伯曰：「有老母，地下有武帝，為臣為子，知欲何之！且委質事人，本徇名義，諫而不入，將焉逃死？足下若為身計，宜且遠之。」於是各行其志。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉遲運",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_057_000346",
@@ -3421,7 +3519,14 @@
   {
     "sentence_id": "HCH_003_057_000403",
     "sentence": "及誅宇文護，慶有謀焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_057_000404",
@@ -3727,7 +3832,14 @@
   {
     "sentence_id": "HCH_003_057_000440",
     "sentence": "有周受命之始，宇文護實預艱難。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_057_000441",
@@ -3775,7 +3887,14 @@
   {
     "sentence_id": "HCH_003_057_000447",
     "sentence": "宇文測兄弟驅馳于經綸之日，孝伯、神舉盡言于父子之間，觀其智勇忠概，並可追從于古人矣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文測",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_057_000448",

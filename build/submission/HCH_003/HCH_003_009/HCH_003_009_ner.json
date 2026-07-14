@@ -77,7 +77,14 @@
   {
     "sentence_id": "HCH_003_009_000012",
     "sentence": "及慕容寶敗，歸魏，拜都牧主，賜爵安定侯。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_009_000013",
@@ -324,6 +331,12 @@
         "label": "TITLE",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 28,
+        "end": 32
       }
     ]
   },
@@ -410,6 +423,12 @@
     "sentence_id": "HCH_003_009_000046",
     "sentence": "帝還，謂嶽曰：「高歡豈人臣邪，逆謀未發者，憚公兄弟耳。侯莫陳悅本實庸材，亦不為歡忌，但為之備，圖之不難。今費也頭控弦之騎，不下一萬，夏州刺史解拔彌俄突，勝兵三千餘人，及靈州刺史曹泥，並恃僻遠，常懷異望。河西流人紇豆陵伊利等，戶口富實，未奉朝風。今若移軍近隴，扼其要害，示之以威，懷之以德，即可收其士馬，以資吾軍，西輯氐、羌，北撫沙塞，還軍長安，匡輔魏室，此桓文之舉也。」嶽大悅。",
     "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 27,
+        "end": 31
+      },
       {
         "text": "夏州",
         "label": "LOC",
@@ -539,6 +558,12 @@
         "label": "LOC",
         "start": 4,
         "end": 8
+      },
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 16,
+        "end": 20
       }
     ]
   },
@@ -614,7 +639,14 @@
   {
     "sentence_id": "HCH_003_009_000066",
     "sentence": "吐哺上馬，謂曰：「賀拔公雖死，宇文泰尚存，卿何為也？」景失色曰：「我猶箭耳，隨人所射者也。」景於此還。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文泰",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_009_000067",
@@ -646,7 +678,14 @@
   {
     "sentence_id": "HCH_003_009_000071",
     "sentence": "時斛斯椿在帝所，曰：「景，人傑也，何故放之？」帝亦悔，驛追之不及。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_009_000072",
@@ -684,7 +723,14 @@
   {
     "sentence_id": "HCH_003_009_000076",
     "sentence": "侯莫陳悅亦被敕追還。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_009_000077",
@@ -699,7 +745,14 @@
   {
     "sentence_id": "HCH_003_009_000079",
     "sentence": "及毗還，帝表於魏帝，辭以高歡至河東，侯莫陳悅在水洛，首尾受敵，乞少停緩。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 18,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_009_000080",
@@ -753,6 +806,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "万俟普撥",
+        "label": "PER",
+        "start": 11,
+        "end": 15
       }
     ]
   },
@@ -1057,14 +1116,7 @@
   {
     "sentence_id": "HCH_003_009_000119",
     "sentence": "而齊神武稍逼京師，魏帝親總六軍屯河橋，令左衛元斌之、領軍斛斯椿鎮武牢。",
-    "entities": [
-      {
-        "text": "領軍斛斯椿鎮",
-        "label": "LOC",
-        "start": 26,
-        "end": 32
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_009_000120",
@@ -1106,6 +1158,12 @@
     "sentence_id": "HCH_003_009_000122",
     "sentence": "會斌之與斛斯椿爭權，鎮防不守，魏帝遂輕騎入關。",
     "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "魏帝遂輕騎入關",
         "label": "LOC",
@@ -1392,6 +1450,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "万俟普撥",
+        "label": "PER",
+        "start": 13,
+        "end": 17
       }
     ]
   },
@@ -1498,6 +1562,24 @@
     "sentence_id": "HCH_003_009_000154",
     "sentence": "八月丁丑，帝率李弼、獨孤信、梁禦、趙貴、於謹、若干惠、怡峰、劉亮、王德、侯莫陳崇、李遠、達奚武等十二將東伐，至潼關。",
     "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "侯莫陳崇",
+        "label": "PER",
+        "start": 36,
+        "end": 40
+      },
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      },
       {
         "text": "至潼關",
         "label": "LOC",
@@ -1749,6 +1831,18 @@
     "sentence": "以左僕射、馮翊王元季海為行臺，與開府獨孤信帥步騎二萬向洛陽。",
     "entities": [
       {
+        "text": "元季海",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "洛陽",
         "label": "LOC",
         "start": 27,
@@ -1808,6 +1902,12 @@
     "sentence": "獨孤信至新安，昂復走度河，遂入洛陽。",
     "entities": [
       {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "洛陽",
         "label": "LOC",
         "start": 15,
@@ -1828,7 +1928,14 @@
   {
     "sentence_id": "HCH_003_009_000193",
     "sentence": "帝遣儀同宇文貴、梁遷等逆擊，大破之，趙育來降。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文貴",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_009_000194",
@@ -1838,14 +1945,7 @@
   {
     "sentence_id": "HCH_003_009_000195",
     "sentence": "又遣都督韋孝寬取豫州。",
-    "entities": [
-      {
-        "text": "督韋孝寬取豫州",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_009_000196",
@@ -1893,6 +1993,12 @@
     "sentence_id": "HCH_003_009_000198",
     "sentence": "七月，東魏將侯景等圍獨孤信於洛陽，齊神武繼之。",
     "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "洛陽",
         "label": "LOC",
@@ -1956,7 +2062,14 @@
   {
     "sentence_id": "HCH_003_009_000208",
     "sentence": "獨孤信、李遠居右，趙貴、怡峰居左，戰並不利。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_009_000209",
@@ -2112,6 +2225,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "宇文導",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2208,14 +2327,7 @@
   {
     "sentence_id": "HCH_003_009_000229",
     "sentence": "帝遣開府李弼、獨孤信各率騎出武關，景乃還。",
-    "entities": [
-      {
-        "text": "信各率騎出武關",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_009_000230",
@@ -2344,7 +2456,14 @@
   {
     "sentence_id": "HCH_003_009_000244",
     "sentence": "神武進至陜，開府達奚武等禦之，乃退。",
-    "entities": []
+    "entities": [
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_009_000245",
@@ -2459,6 +2578,12 @@
         "label": "TITLE",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       }
     ]
   },
@@ -2478,12 +2603,6 @@
     "sentence_id": "HCH_003_009_000256",
     "sentence": "五月，獨孤信平涼州，禽仲和，遷其百姓六千餘家於長安。",
     "entities": [
-      {
-        "text": "獨孤信平涼州",
-        "label": "LOC",
-        "start": 3,
-        "end": 9
-      },
       {
         "text": "長安",
         "label": "LOC",
@@ -2726,6 +2845,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "柳仲禮",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -2916,6 +3041,12 @@
         "label": "TITLE",
         "start": 21,
         "end": 24
+      },
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -2940,7 +3071,14 @@
   {
     "sentence_id": "HCH_003_009_000294",
     "sentence": "四月，達奚武圍南鄭。",
-    "entities": []
+    "entities": [
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_009_000295",
@@ -3233,6 +3371,12 @@
         "label": "TITLE",
         "start": 43,
         "end": 46
+      },
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 49,
+        "end": 52
       }
     ]
   },
@@ -3320,6 +3464,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 8
+      },
+      {
+        "text": "豆盧寧",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -3625,6 +3775,12 @@
         "end": 148
       },
       {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 152,
+        "end": 155
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 170,
@@ -3635,6 +3791,18 @@
         "label": "TITLE",
         "start": 174,
         "end": 177
+      },
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 185,
+        "end": 188
+      },
+      {
+        "text": "豆盧寧",
+        "label": "PER",
+        "start": 192,
+        "end": 195
       },
       {
         "text": "司馬",
@@ -3731,7 +3899,14 @@
   {
     "sentence_id": "HCH_003_009_000372",
     "sentence": "太保獨孤信罪免。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_009_000373",
@@ -3742,6 +3917,12 @@
         "label": "ORG",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "侯莫陳崇",
+        "label": "PER",
+        "start": 11,
+        "end": 15
       },
       {
         "text": "司馬",
@@ -3756,17 +3937,36 @@
         "end": 45
       },
       {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 49,
+        "end": 52
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 57,
         "end": 60
+      },
+      {
+        "text": "宇文貴",
+        "label": "PER",
+        "start": 64,
+        "end": 67
       }
     ]
   },
   {
     "sentence_id": "HCH_003_009_000374",
     "sentence": "三月己酉，衛國公獨孤信賜死。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_009_000375",
@@ -3925,6 +4125,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "賀蘭祥",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -4343,6 +4549,12 @@
         "label": "ORG",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "侯莫陳崇",
+        "label": "PER",
+        "start": 13,
+        "end": 17
       }
     ]
   },
@@ -4505,6 +4717,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "賀蘭祥",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -4529,6 +4747,24 @@
         "end": 10
       },
       {
+        "text": "侯莫陳崇",
+        "label": "PER",
+        "start": 11,
+        "end": 15
+      },
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
+        "text": "豆盧寧",
+        "label": "PER",
+        "start": 38,
+        "end": 41
+      },
+      {
         "text": "輔城",
         "label": "LOC",
         "start": 49,
@@ -4551,6 +4787,12 @@
         "label": "ORG",
         "start": 66,
         "end": 68
+      },
+      {
+        "text": "賀蘭祥",
+        "label": "PER",
+        "start": 122,
+        "end": 125
       },
       {
         "text": "洪和二城",

@@ -2,17 +2,67 @@
   {
     "sentence_id": "HCH_008_083_000001",
     "sentence": "○郭孝恪張儉蘇定方薛仁貴程務挺張士貴趙道興",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭孝恪",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "薛仁貴",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "程務挺",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "張士貴",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "趙道興",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000002",
     "sentence": "郭孝恪",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭孝恪",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000003",
     "sentence": "郭孝恪，許州陽翟人也，少有誌節。",
     "entities": [
+      {
+        "text": "郭孝恪",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "許州",
         "label": "LOC",
@@ -85,6 +135,12 @@
     "sentence": "其後，竇建德率眾來援王世充，孝恪於青城宮進策於太宗曰：“世充日踧月迫，力盡計窮，懸首麵縛，翹足可待。",
     "entities": [
       {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "孝恪於青城",
         "label": "LOC",
         "start": 14,
@@ -116,6 +172,12 @@
         "label": "LOC",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "郭孝恪",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -393,7 +455,14 @@
   {
     "sentence_id": "HCH_008_083_000042",
     "sentence": "嚐以遺行軍大總管阿史那社爾，社爾一無所受。",
-    "entities": []
+    "entities": [
+      {
+        "text": "阿史那社爾",
+        "label": "PER",
+        "start": 8,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000043",
@@ -403,7 +472,14 @@
   {
     "sentence_id": "HCH_008_083_000044",
     "sentence": "郭孝恪今為寇虜所屠，可謂自貽伊咎耳。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭孝恪",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000045",
@@ -420,7 +496,14 @@
   {
     "sentence_id": "HCH_008_083_000046",
     "sentence": "咸亨中，與薛仁貴率兵討吐蕃，於大非川戰敗，減死除名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛仁貴",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000047",
@@ -811,12 +894,25 @@
   {
     "sentence_id": "HCH_008_083_000083",
     "sentence": "蘇定方",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000084",
     "sentence": "蘇定方，冀州武邑人也。",
     "entities": [
+      {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "冀州武邑",
         "label": "LOC",
@@ -869,7 +965,14 @@
   {
     "sentence_id": "HCH_008_083_000088",
     "sentence": "後仕竇建德，建德將高雅賢甚愛之，養以為子。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000089",
@@ -944,13 +1047,26 @@
         "label": "TITLE",
         "start": 17,
         "end": 20
+      },
+      {
+        "text": "程知節",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
   {
     "sentence_id": "HCH_008_083_000096",
     "sentence": "至鷹娑川，突厥有二萬騎來拒，總管蘇海政與戰，互有前卻。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇海政",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000097",
@@ -1047,7 +1163,14 @@
   {
     "sentence_id": "HCH_008_083_000114",
     "sentence": "明年，擢定方為行軍大總管，又征賀魯，以任雅相、回紇婆潤為副。",
-    "entities": []
+    "entities": [
+      {
+        "text": "任雅相",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000115",
@@ -1097,7 +1220,14 @@
   {
     "sentence_id": "HCH_008_083_000124",
     "sentence": "賀魯及咥運十餘騎逼夜亡走，定方遣副將蕭嗣業追捕之，至於石國，擒之而還。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭嗣業",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000125",
@@ -1377,7 +1507,14 @@
   {
     "sentence_id": "HCH_008_083_000150",
     "sentence": "高宗聞而傷惜，謂侍臣曰：“蘇定方於國有功，例合褒贈，卿等不言，遂使哀榮未及。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000151",
@@ -1399,12 +1536,25 @@
   {
     "sentence_id": "HCH_008_083_000153",
     "sentence": "薛仁貴",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛仁貴",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000154",
     "sentence": "薛仁貴，絳州龍門人。",
     "entities": [
+      {
+        "text": "薛仁貴",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "絳州",
         "label": "LOC",
@@ -1422,6 +1572,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "張士貴",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -1439,6 +1595,12 @@
         "label": "LOC",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "高惠真",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -1514,7 +1676,14 @@
   {
     "sentence_id": "HCH_008_083_000169",
     "sentence": "蘇定方之討賀魯也，於是仁貴上疏曰：“臣聞兵出無名，事故不成，明其為賊，敵乃可伏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000170",
@@ -1547,6 +1716,12 @@
         "end": 4
       },
       {
+        "text": "程名振",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "破高麗於貴端城",
         "label": "LOC",
         "start": 18,
@@ -1574,7 +1749,14 @@
   {
     "sentence_id": "HCH_008_083_000177",
     "sentence": "俄又與辛文陵破契丹於黑山，擒契丹王阿卜固及諸首領赴東都。",
-    "entities": []
+    "entities": [
+      {
+        "text": "辛文陵",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000178",
@@ -1640,10 +1822,22 @@
     "sentence": "乾封初，高麗大將泉男生率眾內附，高宗遣將軍龐同善、高等迎接之。",
     "entities": [
       {
+        "text": "泉男生",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "龐同善",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -1758,6 +1952,12 @@
     "sentence_id": "HCH_008_083_000201",
     "sentence": "高麗既降，詔仁貴率兵二萬人與劉仁軌於平壤留守，仍授右威衛大將軍，封平陽郡公，兼檢校安東都護。",
     "entities": [
+      {
+        "text": "劉仁軌",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -2012,12 +2212,25 @@
   {
     "sentence_id": "HCH_008_083_000228",
     "sentence": "程務挺",
-    "entities": []
+    "entities": [
+      {
+        "text": "程務挺",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000229",
     "sentence": "程務挺，洺州平恩人也。",
     "entities": [
+      {
+        "text": "程務挺",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "洺州",
         "label": "LOC",
@@ -2029,7 +2242,14 @@
   {
     "sentence_id": "HCH_008_083_000230",
     "sentence": "父名振，大業末，仕竇建德為普樂令，甚有能名，諸賊不敢犯其境。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000231",
@@ -2078,6 +2298,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "陳君賓",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -2147,7 +2373,14 @@
   {
     "sentence_id": "HCH_008_083_000243",
     "sentence": "太宗將征遼東，召名振問以經略之事，名振初對失旨；太宗動色詰之，名振酬對逾辯，太宗意解，謂左右曰：“房玄齡常在我前，每見別嗔餘人，猶顏色無主。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 49,
+        "end": 52
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000244",
@@ -2272,6 +2505,12 @@
         "end": 6
       },
       {
+        "text": "裴行儉",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "仍檢校豐州",
         "label": "LOC",
         "start": 20,
@@ -2282,7 +2521,14 @@
   {
     "sentence_id": "HCH_008_083_000254",
     "sentence": "時伏念屯於金牙山，務挺與副總管唐玄表引兵先逼之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "唐玄表",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000255",
@@ -2339,6 +2585,12 @@
         "label": "LOC",
         "start": 50,
         "end": 56
+      },
+      {
+        "text": "王方翼",
+        "label": "PER",
+        "start": 58,
+        "end": 61
       }
     ]
   },
@@ -2438,7 +2690,20 @@
   {
     "sentence_id": "HCH_008_083_000267",
     "sentence": "務挺素與唐之奇、杜求仁友善，或構言務挺與裴炎、徐敬業皆潛相應接。",
-    "entities": []
+    "entities": [
+      {
+        "text": "唐之奇",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "徐敬業",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000268",
@@ -2449,6 +2714,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "裴紹業",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2460,17 +2731,43 @@
   {
     "sentence_id": "HCH_008_083_000270",
     "sentence": "貞觀、永徽間，軍將又有張士貴、趙道興，狀跡可錄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張士貴",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "趙道興",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000271",
     "sentence": "張士貴",
-    "entities": []
+    "entities": [
+      {
+        "text": "張士貴",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000272",
     "sentence": "張士貴者，虢州盧氏人也。",
     "entities": [
+      {
+        "text": "張士貴",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "虢州",
         "label": "LOC",
@@ -2599,12 +2896,25 @@
   {
     "sentence_id": "HCH_008_083_000284",
     "sentence": "趙道興",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙道興",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_083_000285",
     "sentence": "趙道興者，甘州酒泉人。",
     "entities": [
+      {
+        "text": "趙道興",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "甘州",
         "label": "LOC",

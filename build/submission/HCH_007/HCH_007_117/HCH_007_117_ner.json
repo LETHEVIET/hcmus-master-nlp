@@ -81,6 +81,12 @@
         "end": 87
       },
       {
+        "text": "李重進",
+        "label": "PER",
+        "start": 143,
+        "end": 146
+      },
+      {
         "text": "賊五千人於壽州",
         "label": "LOC",
         "start": 150,
@@ -103,6 +109,12 @@
         "label": "LOC",
         "start": 20,
         "end": 25
+      },
+      {
+        "text": "許文縝",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       },
       {
         "text": "與城",
@@ -190,6 +202,12 @@
         "label": "LOC",
         "start": 13,
         "end": 19
+      },
+      {
+        "text": "許文縝",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -226,6 +244,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "劉重進",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "賊三千人於壽州",
@@ -268,7 +292,14 @@
   {
     "sentence_id": "HCH_007_117_000023",
     "sentence": "壬寅，賜淮南降軍許文縝、邊鎬已下萬五百人衣服錢帛有差。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許文縝",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_117_000024",
@@ -279,6 +310,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "劉仁贍",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "門使張保績入城",
@@ -302,6 +339,12 @@
         "label": "LOC",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "劉仁贍",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -395,6 +438,12 @@
     "sentence": "辛亥，以偽命清淮軍節度使、檢校太尉、兼侍中劉仁贍為特進、檢校太尉、兼中書令、鄆州節度使，以右羽林統軍楊信為壽州節度使。",
     "entities": [
       {
+        "text": "劉仁贍",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "鄆州",
         "label": "LOC",
         "start": 38,
@@ -411,7 +460,14 @@
   {
     "sentence_id": "HCH_007_117_000037",
     "sentence": "是日，劉仁贍卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉仁贍",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_117_000038",
@@ -513,12 +569,6 @@
     "sentence": "〈 （《宋史·韓令坤傳》云：倫法當棄市，令坤泣請於世宗，遂免死。） 〉 遣左諫議大夫尹日就於壽州開倉賑饑民。",
     "entities": [
       {
-        "text": "《宋史·韓令坤傳》",
-        "label": "TITLE",
-        "start": 3,
-        "end": 12
-      },
-      {
         "text": "大夫",
         "label": "TITLE",
         "start": 40,
@@ -540,6 +590,12 @@
     "sentence_id": "HCH_007_117_000046",
     "sentence": "辛未，以江南偽命西北面行營應援使、前永安軍節度使、檢校太尉許文縝為左監門衛上將軍、檢校太尉，以偽命西北面行營應援都軍使、前武安軍節度使邊鎬為左千牛衛上將軍、檢校太傅。",
     "entities": [
+      {
+        "text": "許文縝",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
       {
         "text": "將軍",
         "label": "TITLE",
@@ -732,6 +788,12 @@
         "end": 14
       },
       {
+        "text": "李重進",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
         "text": "度使向訓為徐州",
         "label": "LOC",
         "start": 50,
@@ -833,12 +895,6 @@
         "end": 12
       },
       {
-        "text": "使韓令坤為陳州",
-        "label": "LOC",
-        "start": 14,
-        "end": 21
-      },
-      {
         "text": "岳州",
         "label": "LOC",
         "start": 42,
@@ -856,12 +912,6 @@
     "sentence_id": "HCH_007_117_000066",
     "sentence": "己亥，以左神武統軍劉重進為鄧州節度使，以虎捷左廂都指揮使、閬州防禦使趙晁為河陽節度使，以兗州防禦使白延遇為同州節度使。",
     "entities": [
-      {
-        "text": "軍劉重進為鄧州",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
-      },
       {
         "text": "閬州",
         "label": "LOC",
@@ -908,6 +958,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "劉重進",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1148,6 +1204,12 @@
         "end": 10
       },
       {
+        "text": "許文縝",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 18,
@@ -1158,6 +1220,12 @@
         "label": "TITLE",
         "start": 25,
         "end": 28
+      },
+      {
+        "text": "馮延魯",
+        "label": "PER",
+        "start": 41,
+        "end": 44
       }
     ]
   },
@@ -1273,12 +1341,6 @@
         "label": "LOC",
         "start": 11,
         "end": 13
-      },
-      {
-        "text": "使李重進為鄆州",
-        "label": "LOC",
-        "start": 15,
-        "end": 22
       }
     ]
   },
@@ -1376,6 +1438,12 @@
         "end": 11
       },
       {
+        "text": "楊重訓",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "授重訓本州",
         "label": "LOC",
         "start": 19,
@@ -1407,12 +1475,6 @@
         "label": "LOC",
         "start": 3,
         "end": 7
-      },
-      {
-        "text": "使郭從義為徐州",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
       },
       {
         "text": "以徐州",

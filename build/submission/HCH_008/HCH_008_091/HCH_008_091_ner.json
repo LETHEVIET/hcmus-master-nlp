@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_008_091_000001",
     "sentence": "桓彥範",
-    "entities": []
+    "entities": [
+      {
+        "text": "桓彥範",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_091_000002",
     "sentence": "桓彥範，潤州曲阿人也。",
     "entities": [
+      {
+        "text": "桓彥範",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "潤州",
         "label": "LOC",
@@ -35,6 +48,12 @@
     "sentence_id": "HCH_008_091_000006",
     "sentence": "納言狄仁傑特相禮異，嚐謂曰：「足下才識如是，必能自致遠大。」尋擢授監察御史。",
     "entities": [
+      {
+        "text": "狄仁傑",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -83,6 +102,18 @@
     "sentence_id": "HCH_008_091_000009",
     "sentence": "時司仆卿張昌宗坐遣術人李弘泰占己有天分，御史中丞宋璟請收付製獄，窮理其罪，則天不許。",
     "entities": [
+      {
+        "text": "張昌宗",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "李弘泰",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -166,6 +197,12 @@
     "sentence": "時又內史李嶠等奏稱：「往屬革命之時，人多逆節，鞫訊決斷，刑獄至嚴，刻薄之吏，恣行酷法。其周興、丘勣、來俊臣所劾破家者，並請雪免。」彥範又奏請自文明元年以後得罪人，除揚、豫、博三州及諸謀逆魁首，一切赦之。",
     "entities": [
       {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 50,
+        "end": 53
+      },
+      {
         "text": "元年",
         "label": "TME",
         "start": 73,
@@ -202,7 +239,14 @@
   {
     "sentence_id": "HCH_008_091_000029",
     "sentence": "張易之與弟昌宗入閣侍疾，潛圖逆亂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_091_000030",
@@ -213,6 +257,18 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "張柬之",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "桓彥範",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -263,16 +319,40 @@
         "end": 18
       },
       {
+        "text": "李多祚",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 28,
         "end": 30
       },
       {
+        "text": "楊元琰",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 37,
         "end": 39
+      },
+      {
+        "text": "薛思行",
+        "label": "PER",
+        "start": 39,
+        "end": 42
+      },
+      {
+        "text": "李多祚",
+        "label": "PER",
+        "start": 71,
+        "end": 74
       },
       {
         "text": "太子",
@@ -400,7 +480,26 @@
   {
     "sentence_id": "HCH_008_091_000043",
     "sentence": "帝曰：「既要用之，無容便止。」彥範又對曰：「陛下自龍飛寶位，遽下製云：『軍國政化，皆依貞觀故事。』昔貞觀中嚐以魏徵、虞世南、顏師古爲秘書監，孔穎達爲國子祭酒。至如普思等是方伎庸流，豈足以比蹤前烈？臣恐物議謂陛下官不擇才，濫以天秩加於私愛。惟陛下少加慎擇。」帝竟不納。",
-    "entities": []
+    "entities": [
+      {
+        "text": "虞世南",
+        "label": "PER",
+        "start": 58,
+        "end": 61
+      },
+      {
+        "text": "顏師古",
+        "label": "PER",
+        "start": 62,
+        "end": 65
+      },
+      {
+        "text": "孔穎達",
+        "label": "PER",
+        "start": 70,
+        "end": 73
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_091_000044",
@@ -417,6 +516,12 @@
         "label": "LOC",
         "start": 9,
         "end": 12
+      },
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -449,21 +554,9 @@
         "end": 23
       },
       {
-        "text": "張柬之爲漢陽郡",
+        "text": "南陽郡",
         "label": "LOC",
-        "start": 25,
-        "end": 32
-      },
-      {
-        "text": "崔玄暐爲博陵郡",
-        "label": "LOC",
-        "start": 34,
-        "end": 41
-      },
-      {
-        "text": "袁恕己爲南陽郡",
-        "label": "LOC",
-        "start": 43,
+        "start": 47,
         "end": 50
       }
     ]
@@ -500,6 +593,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "趙履溫",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -557,6 +656,18 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "王同皎",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -601,34 +712,16 @@
         "end": 16
       },
       {
-        "text": "袁恕己竇州",
-        "label": "LOC",
-        "start": 17,
-        "end": 22
-      },
-      {
         "text": "司馬",
         "label": "TITLE",
         "start": 22,
         "end": 24
       },
       {
-        "text": "崔玄暐白州",
-        "label": "LOC",
-        "start": 25,
-        "end": 30
-      },
-      {
         "text": "司馬",
         "label": "TITLE",
         "start": 30,
         "end": 32
-      },
-      {
-        "text": "張柬之新州",
-        "label": "LOC",
-        "start": 33,
-        "end": 38
       },
       {
         "text": "司馬",
@@ -647,6 +740,12 @@
     "sentence_id": "HCH_008_091_000058",
     "sentence": "是歲秋，武三思又陰令人疏皇后穢行，榜於天津橋，請加廢黜。",
     "entities": [
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "皇后",
         "label": "TITLE",
@@ -670,18 +769,49 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "李承嘉",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
   {
     "sentence_id": "HCH_008_091_000060",
     "sentence": "承嘉希三思旨，奏言：「彥範與敬暉、張柬之、袁恕己、崔玄暐等教人密爲此榜。雖托廢後爲名，實有危君之計，請加族滅。」製依承嘉所奏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張柬之",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "袁恕己",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "崔玄暐",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_091_000061",
     "sentence": "大理丞李朝隱執奏云：「敬暉等既未經鞫問，不可即肆誅夷。請差御史按罪，待至，準法處分。」大理卿裴談奏云：「敬暉等隻合據敕斷罪，不可別俟推鞫，請並處斬籍沒。」中宗納其議，仍以彥範等五人嚐賜鐵券，許以不死，乃長流彥範於州，敬暉於崖州，張柬之於瀧州，袁恕己於環州，崔玄暐於古州，並終身禁錮，子弟年十六已上者亦配流嶺外。",
     "entities": [
+      {
+        "text": "李朝隱",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -699,24 +829,6 @@
         "label": "LOC",
         "start": 108,
         "end": 113
-      },
-      {
-        "text": "張柬之於瀧州",
-        "label": "LOC",
-        "start": 114,
-        "end": 120
-      },
-      {
-        "text": "袁恕己於環州",
-        "label": "LOC",
-        "start": 121,
-        "end": 127
-      },
-      {
-        "text": "崔玄暐於古州",
-        "label": "LOC",
-        "start": 128,
-        "end": 134
       }
     ]
   },
@@ -752,6 +864,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "李朝隱",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -787,6 +905,12 @@
         "label": "TITLE",
         "start": 30,
         "end": 32
+      },
+      {
+        "text": "周利貞",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       },
       {
         "text": "御史",
@@ -831,6 +955,12 @@
         "end": 9
       },
       {
+        "text": "桓彥範",
+        "label": "PER",
+        "start": 45,
+        "end": 48
+      },
+      {
         "text": "平陽郡",
         "label": "LOC",
         "start": 52,
@@ -849,16 +979,34 @@
         "end": 71
       },
       {
+        "text": "張柬之",
+        "label": "PER",
+        "start": 72,
+        "end": 75
+      },
+      {
         "text": "博陵郡",
         "label": "LOC",
         "start": 79,
         "end": 82
       },
       {
+        "text": "崔玄暐",
+        "label": "PER",
+        "start": 83,
+        "end": 86
+      },
+      {
         "text": "南陽郡",
         "label": "LOC",
         "start": 91,
         "end": 94
+      },
+      {
+        "text": "袁恕己",
+        "label": "PER",
+        "start": 95,
+        "end": 98
       },
       {
         "text": "皇帝",
@@ -1038,6 +1186,12 @@
     "sentence": "以誅張易之、昌宗功，加金紫光祿大夫，擢拜侍中，賜爵平陽郡公，食實封五百戶。",
     "entities": [
       {
+        "text": "張易之",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 15,
@@ -1078,6 +1232,12 @@
     "sentence": "武三思益怒，乃諷帝陽尊暉等爲郡王，罷知政事。",
     "entities": [
       {
+        "text": "武三思",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "帝陽尊暉等爲郡",
         "label": "LOC",
         "start": 8,
@@ -1095,10 +1255,34 @@
     "sentence": "初，暉與彥範等誅張易之兄弟也，洛州長史薛季昶謂暉曰：「二凶雖除，產、祿猶在。請因兵勢誅武三思之屬，匡正王室，以安天下。」暉與張柬之屢陳不可，乃止。",
     "entities": [
       {
+        "text": "張易之",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "洛州",
         "label": "LOC",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "薛季昶",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 43,
+        "end": 46
+      },
+      {
+        "text": "張柬之",
+        "label": "PER",
+        "start": 62,
+        "end": 65
       }
     ]
   },
@@ -1144,6 +1328,12 @@
         "label": "LOC",
         "start": 93,
         "end": 96
+      },
+      {
+        "text": "王同皎",
+        "label": "PER",
+        "start": 131,
+        "end": 134
       },
       {
         "text": "暉可崖州",
@@ -1198,6 +1388,12 @@
         "label": "LOC",
         "start": 288,
         "end": 292
+      },
+      {
+        "text": "周利貞",
+        "label": "PER",
+        "start": 295,
+        "end": 298
       }
     ]
   },
@@ -1245,12 +1441,26 @@
   {
     "sentence_id": "HCH_008_091_000097",
     "sentence": "崔玄暐",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔玄暐",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_091_000098",
     "sentence": "崔玄暐，博陵安平人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔玄暐",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_091_000099",
@@ -1385,7 +1595,14 @@
   {
     "sentence_id": "HCH_008_091_000111",
     "sentence": "先是，來俊臣、周興等誣陷良善，冀圖爵賞，因緣籍沒者數百家。",
-    "entities": []
+    "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_091_000112",
@@ -1395,7 +1612,14 @@
   {
     "sentence_id": "HCH_008_091_000113",
     "sentence": "則天季年，宋璟劾奏張昌宗謀爲不軌，玄暐亦屢有讜言，則天乃令法司正斷其罪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張昌宗",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_091_000114",
@@ -1421,6 +1645,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 60,
+        "end": 63
       },
       {
         "text": "封博陵郡",
@@ -1590,12 +1820,25 @@
   {
     "sentence_id": "HCH_008_091_000130",
     "sentence": "張柬之",
-    "entities": []
+    "entities": [
+      {
+        "text": "張柬之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_091_000131",
     "sentence": "張柬之，字孟將，襄州襄陽人也。",
     "entities": [
+      {
+        "text": "張柬之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "襄州",
         "label": "LOC",
@@ -1613,6 +1856,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 17
+      },
+      {
+        "text": "令狐德棻",
+        "label": "PER",
+        "start": 22,
+        "end": 26
       }
     ]
   },
@@ -1655,6 +1904,12 @@
     "sentence_id": "HCH_008_091_000136",
     "sentence": "時弘文館直學士王元感著論云：「三年之喪，合三十六月。」柬之著論駁之曰：",
     "entities": [
+      {
+        "text": "王元感",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "三年",
         "label": "TME",
@@ -2706,7 +2961,14 @@
   {
     "sentence_id": "HCH_008_091_000230",
     "sentence": "崇對曰：「張柬之沉厚有謀，能斷大事，且其人年老，惟陛下急用之。」則天登時召見，尋同鳳閣鸞台平章事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張柬之",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_091_000231",
@@ -2723,7 +2985,14 @@
   {
     "sentence_id": "HCH_008_091_000232",
     "sentence": "及誅張易之兄弟，柬之首謀其事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_091_000233",
@@ -2818,6 +3087,12 @@
     "sentence": "尋爲武三思所構，貶授新州司馬。",
     "entities": [
       {
+        "text": "武三思",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "貶授新州",
         "label": "LOC",
         "start": 8,
@@ -2854,6 +3129,12 @@
         "end": 50
       },
       {
+        "text": "張柬之",
+        "label": "PER",
+        "start": 50,
+        "end": 53
+      },
+      {
         "text": "封漢陽郡",
         "label": "LOC",
         "start": 119,
@@ -2882,12 +3163,25 @@
   {
     "sentence_id": "HCH_008_091_000243",
     "sentence": "袁恕己",
-    "entities": []
+    "entities": [
+      {
+        "text": "袁恕己",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_091_000244",
     "sentence": "袁恕己，滄州東光人也。",
     "entities": [
+      {
+        "text": "袁恕己",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "滄州",
         "label": "LOC",
@@ -2917,7 +3211,14 @@
   {
     "sentence_id": "HCH_008_091_000246",
     "sentence": "敬暉等將誅張易之兄弟，恕己預其謀議，又從相王統率南衙兵仗，以備非常。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_091_000247",
@@ -2947,6 +3248,12 @@
     "sentence_id": "HCH_008_091_000248",
     "sentence": "將作少匠楊務廉素以工巧見用，中興初，恕己恐其更啟遊娛侈靡之端，言於中宗曰：「務廉致位九卿，積有歲年，苦言嘉謀，無足可紀。每宮室營構，必務其侈，若不斥之，何以廣昭聖德？」由是左授務廉陵州刺史。",
     "entities": [
+      {
+        "text": "楊務廉",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "是左授務廉陵州",
         "label": "LOC",
@@ -2993,7 +3300,14 @@
   {
     "sentence_id": "HCH_008_091_000252",
     "sentence": "尋爲周利貞所逼，飲野葛汁數升，恕己常服黃金，餌毒發，憤悶，以手掘地，取土而食，爪甲殆盡，竟不死，乃擊殺之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "周利貞",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_091_000253",

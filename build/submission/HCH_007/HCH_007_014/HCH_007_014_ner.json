@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_007_014_000001",
     "sentence": "羅紹威",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_014_000002",
     "sentence": "羅紹威， 〈 （《舊唐書》云：紹威，字端己。） 〉 魏州貴鄉人。",
     "entities": [
+      {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "《舊唐書》",
         "label": "TITLE",
@@ -236,6 +249,12 @@
         "label": "LOC",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       },
       {
         "text": "進陷貝州",
@@ -524,12 +543,6 @@
         "label": "TITLE",
         "start": 3,
         "end": 9
-      },
-      {
-        "text": "《羅紹威傳》",
-        "label": "TITLE",
-        "start": 10,
-        "end": 16
       }
     ]
   },

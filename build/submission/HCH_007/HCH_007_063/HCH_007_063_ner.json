@@ -419,6 +419,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "朱友珪",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -610,7 +616,14 @@
   {
     "sentence_id": "HCH_007_063_000053",
     "sentence": "會趙在禮據魏州，都軍進討無功。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏",
+        "label": "ORG",
+        "start": 5,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_063_000054",
@@ -1075,7 +1088,14 @@
   {
     "sentence_id": "HCH_007_063_000090",
     "sentence": "及朱友珪弑逆，友謙意不懌，雖勉奉偽命，中懷怏怏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱友珪",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_063_000091",
@@ -1092,7 +1112,20 @@
   {
     "sentence_id": "HCH_007_063_000092",
     "sentence": "其年八月，友珪遣大將牛存節、康懷英、韓勍攻之，友謙乞師於莊宗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "牛存節",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_063_000093",
@@ -1301,12 +1334,26 @@
   {
     "sentence_id": "HCH_007_063_000110",
     "sentence": "郭崇韜討巴、蜀，征師於河中，繼麟令其子令德率師赴之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_063_000111",
     "sentence": "伶官景進與其黨構曰：「昨王師初起，繼麟以為討己，頗有拒命之意，若不除移，如國家有急，必為後患。」郭崇韜既誅，宦官愈盛，遂構成其罪，謂莊宗曰：「崇韜強項於蜀，蓋與河中響應。」繼麟聞之懼，將赴京師，麵訴其事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 48,
+        "end": 51
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_063_000112",
@@ -1329,7 +1376,14 @@
   {
     "sentence_id": "HCH_007_063_000113",
     "sentence": "景進謂莊宗曰：「河中人有告變者，言繼麟與崇韜謀叛，聞崇韜死，又與李存乂構鬆逆，當斷不斷，禍不旋踵。」群閹異口同辭，莊宗駭惑不能決。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李存乂",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_063_000114",
@@ -1352,12 +1406,6 @@
         "label": "LOC",
         "start": 25,
         "end": 32
-      },
-      {
-        "text": "同誅令錫於許州",
-        "label": "LOC",
-        "start": 35,
-        "end": 42
       },
       {
         "text": "《篡誤》",

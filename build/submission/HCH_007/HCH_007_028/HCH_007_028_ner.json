@@ -116,6 +116,12 @@
     "sentence": "時李存審與史建瑭以三千騎屯趙州，相與謀曰：「梁軍若不攻蓚城，必西攻深、冀。吾王方北伐，以南鄙之事付我輩，豈可坐觀其弊。」乃以八百騎趨冀州，扼下博橋，令史建瑭、李都督分道擒生。",
     "entities": [
       {
+        "text": "史建瑭",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "以三千騎屯趙州",
         "label": "LOC",
         "start": 8,
@@ -132,12 +138,6 @@
         "label": "LOC",
         "start": 61,
         "end": 68
-      },
-      {
-        "text": "令史",
-        "label": "TITLE",
-        "start": 74,
-        "end": 76
       }
     ]
   },
@@ -194,6 +194,18 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "張萬進",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "劉繼威",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -217,14 +229,7 @@
   {
     "sentence_id": "HCH_007_028_000018",
     "sentence": "戊申，李嗣源攻瀛州，拔之。",
-    "entities": [
-      {
-        "text": "李嗣源攻瀛州",
-        "label": "LOC",
-        "start": 3,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_028_000019",
@@ -275,7 +280,26 @@
   {
     "sentence_id": "HCH_007_028_000023",
     "sentence": "秋八月，朱友珪遣其將韓勍、康懷英、牛存節率兵五萬，急攻河中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱友珪",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "牛存節",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_028_000024",
@@ -291,6 +315,12 @@
         "label": "LOC",
         "start": 5,
         "end": 9
+      },
+      {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -342,6 +372,12 @@
     "sentence_id": "HCH_007_028_000031",
     "sentence": "庚寅，梁朱友珪為其將袁象先所殺，均王友貞即位於汴州。",
     "entities": [
+      {
+        "text": "朱友珪",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "友貞即位於汴州",
         "label": "LOC",
@@ -418,6 +454,12 @@
     "sentence": "周德威遣李嗣源、李嗣本、安金全率兵救武州，降元行欽以歸。",
     "entities": [
       {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "金全率兵救武州",
         "label": "LOC",
         "start": 13,
@@ -493,25 +535,12 @@
   {
     "sentence_id": "HCH_007_028_000044",
     "sentence": "乙巳，梁將楊師厚會劉守奇率大軍侵鎮州。",
-    "entities": [
-      {
-        "text": "守奇率大軍侵鎮",
-        "label": "LOC",
-        "start": 10,
-        "end": 17
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_028_000045",
     "sentence": "時帝之先鋒將史建瑭自趙州率五百騎入真定，師厚大掠鎮、冀之屬邑。",
     "entities": [
-      {
-        "text": "將史建瑭自趙州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      },
       {
         "text": "師厚大掠鎮",
         "label": "LOC",
@@ -535,20 +564,19 @@
         "label": "LOC",
         "start": 16,
         "end": 23
+      },
+      {
+        "text": "張萬進",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
   {
     "sentence_id": "HCH_007_028_000047",
     "sentence": "六月壬申朔，帝遣監軍張承業至幽州，與周德威會議軍事。",
-    "entities": [
-      {
-        "text": "軍張承業至幽州",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_028_000048",
@@ -605,6 +633,12 @@
         "label": "LOC",
         "start": 21,
         "end": 27
+      },
+      {
+        "text": "劉守奇",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       }
     ]
   },
@@ -762,7 +796,14 @@
   {
     "sentence_id": "HCH_007_028_000069",
     "sentence": "有頃，擒劉仁恭以獻。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_028_000070",
@@ -913,6 +954,12 @@
     "sentence_id": "HCH_007_028_000084",
     "sentence": "遣大將李存霸拘送仁恭於代州，刺其心血奠告於武皇陵，然後斬之。",
     "entities": [
+      {
+        "text": "李存霸",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "拘送仁恭於代州",
         "label": "LOC",
@@ -1205,6 +1252,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1507,14 +1560,7 @@
   {
     "sentence_id": "HCH_007_028_000138",
     "sentence": "鄩之來也，李存審率兵踵其後，李嗣源自魏城出戰。",
-    "entities": [
-      {
-        "text": "李嗣源自魏城",
-        "label": "LOC",
-        "start": 14,
-        "end": 20
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_028_000139",
@@ -1552,7 +1598,14 @@
   {
     "sentence_id": "HCH_007_028_000143",
     "sentence": "李嗣源以千騎突入其間，眾皆披靡，相躪如積。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_028_000144",
@@ -1598,6 +1651,12 @@
     "sentence_id": "HCH_007_028_000148",
     "sentence": "時安金全、張承業堅守於內，嘉才救援於外，檀懼，乃燒營而遁，追擊至陰地關。",
     "entities": [
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "追擊至陰地關",
         "label": "LOC",
@@ -1789,12 +1848,6 @@
         "end": 3
       },
       {
-        "text": "度使戴思遠棄城",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      },
-      {
         "text": "將毛璋入據其城",
         "label": "LOC",
         "start": 15,
@@ -1806,6 +1859,12 @@
     "sentence_id": "HCH_007_028_000161",
     "sentence": "李嗣源帥師招撫，璋以城降。",
     "entities": [
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "璋以城",
         "label": "LOC",
@@ -1823,12 +1882,6 @@
         "label": "LOC",
         "start": 1,
         "end": 8
-      },
-      {
-        "text": "以李嗣源為邢州",
-        "label": "LOC",
-        "start": 12,
-        "end": 19
       }
     ]
   },
@@ -1938,6 +1991,12 @@
         "end": 7
       },
       {
+        "text": "盧文進",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "契丹之眾寇新州",
         "label": "LOC",
         "start": 26,
@@ -2018,12 +2077,6 @@
     "sentence": "盧文進招誘幽州亡命之人，教契丹為攻城之具，飛梯、衝車之類，畢陳於城下。",
     "entities": [
       {
-        "text": "盧文進招誘幽州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      },
-      {
         "text": "教契丹為攻城",
         "label": "LOC",
         "start": 12,
@@ -2063,18 +2116,44 @@
         "label": "LOC",
         "start": 23,
         "end": 26
+      },
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
   {
     "sentence_id": "HCH_007_028_000180",
     "sentence": "夏四月，命李嗣源率師赴援，次於淶水；又遣閻寶率師夜過祁溝，俘擒而還。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_028_000181",
     "sentence": "周德威遣人告李嗣源曰：「契丹三十萬，馬牛不知其數，近日所食羊馬過半，阿保機責讓盧文進，深悔其來。契丹勝兵散布射獵，安巴堅帳前不滿萬人，宜夜出奇兵，掩其不備。」嗣源具以事聞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "盧文進",
+        "label": "PER",
+        "start": 39,
+        "end": 42
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_028_000182",
@@ -2133,6 +2212,12 @@
         "label": "LOC",
         "start": 5,
         "end": 8
+      },
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -2314,6 +2399,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "張萬進",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2413,10 +2504,22 @@
     "sentence": "梁將賀瑰、王彥章全軍接戰，帝以銀槍軍突入梁軍陣中，斬擊十餘里，賀瑰、王彥章單騎走濮陽。",
     "entities": [
       {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "梁",
         "label": "ORG",
         "start": 20,
         "end": 21
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 34,
+        "end": 37
       }
     ]
   },

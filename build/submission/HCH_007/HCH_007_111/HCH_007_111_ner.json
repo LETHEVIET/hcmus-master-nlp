@@ -52,6 +52,12 @@
         "end": 64
       },
       {
+        "text": "翟光鄴",
+        "label": "PER",
+        "start": 68,
+        "end": 71
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 77,
@@ -110,6 +116,12 @@
         "label": "TITLE",
         "start": 91,
         "end": 93
+      },
+      {
+        "text": "宋彥筠",
+        "label": "PER",
+        "start": 97,
+        "end": 100
       },
       {
         "text": "將軍",
@@ -260,6 +272,18 @@
         "label": "ORG",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "李從敏",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "王守恩",
+        "label": "PER",
+        "start": 39,
+        "end": 42
       }
     ]
   },
@@ -415,6 +439,12 @@
         "end": 6
       },
       {
+        "text": "楊凝式",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 12,
@@ -487,6 +517,12 @@
         "end": 115
       },
       {
+        "text": "趙上交",
+        "label": "PER",
+        "start": 120,
+        "end": 123
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 126,
@@ -497,6 +533,12 @@
         "label": "TITLE",
         "start": 132,
         "end": 134
+      },
+      {
+        "text": "王仁裕",
+        "label": "PER",
+        "start": 134,
+        "end": 137
       },
       {
         "text": "太子",
@@ -529,6 +571,12 @@
         "end": 179
       },
       {
+        "text": "段希堯",
+        "label": "PER",
+        "start": 179,
+        "end": 182
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 185,
@@ -539,6 +587,12 @@
         "label": "TITLE",
         "start": 189,
         "end": 191
+      },
+      {
+        "text": "馬裔孫",
+        "label": "PER",
+        "start": 193,
+        "end": 196
       },
       {
         "text": "太子",
@@ -557,6 +611,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "劉重進",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "前滑州",
@@ -681,7 +741,14 @@
   {
     "sentence_id": "HCH_007_111_000027",
     "sentence": "三月壬戌朔，前西京留守李從敏卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李從敏",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_111_000028",
@@ -751,6 +818,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "王彥超",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "收復徐州",
@@ -835,6 +908,12 @@
         "label": "TITLE",
         "start": 61,
         "end": 63
+      },
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 67,
+        "end": 70
       }
     ]
   },
@@ -864,6 +943,12 @@
         "label": "TITLE",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "薛仁謙",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },
@@ -922,12 +1007,6 @@
         "label": "LOC",
         "start": 10,
         "end": 12
-      },
-      {
-        "text": "何福進移鎮鎮州",
-        "label": "LOC",
-        "start": 13,
-        "end": 20
       }
     ]
   },
@@ -940,6 +1019,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "郭令圖",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -947,6 +1032,12 @@
     "sentence_id": "HCH_007_111_000042",
     "sentence": "詔曰：「故蘇逢吉、劉銖，頃在漢朝，與朕同事。朕自平禍亂，不念仇讎，尋示優宏，與全家屬。尚以幼稚無托，衣食是艱，將行矜恤之恩，俾獲生存之路，報怨以德，非我負人。賜逢吉骨肉洛京莊宅各一，賜劉銖骨肉陜州莊宅各一。」己丑，幸南莊。",
     "entities": [
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "賜劉銖骨肉陜州",
         "label": "LOC",
@@ -1032,22 +1123,10 @@
     "sentence": "甲辰，相州張彥成移鎮鄧州，折從阮移鎮滑州，李筠移鎮相州。",
     "entities": [
       {
-        "text": "相州張彥成移鎮",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      },
-      {
         "text": "鄧州",
         "label": "LOC",
         "start": 10,
         "end": 12
-      },
-      {
-        "text": "折從阮移鎮滑州",
-        "label": "LOC",
-        "start": 13,
-        "end": 20
       },
       {
         "text": "李筠移鎮相州",
@@ -1152,7 +1231,14 @@
   {
     "sentence_id": "HCH_007_111_000062",
     "sentence": "辛酉，司空致仕盧文紀卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_111_000063",
@@ -1335,6 +1421,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "蘇禹珪",
+        "label": "PER",
+        "start": 33,
+        "end": 36
       }
     ]
   },
@@ -1363,7 +1455,14 @@
   {
     "sentence_id": "HCH_007_111_000082",
     "sentence": "丙辰，西京奏，新授宗正卿郭令圖卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭令圖",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_111_000083",
@@ -1380,6 +1479,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "翟光鄴",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -1585,12 +1690,6 @@
         "end": 30
       },
       {
-        "text": "永興郭從義移鎮",
-        "label": "LOC",
-        "start": 31,
-        "end": 38
-      },
-      {
         "text": "許州",
         "label": "LOC",
         "start": 38,
@@ -1621,34 +1720,16 @@
         "end": 3
       },
       {
-        "text": "滑州折從阮移鎮",
-        "label": "LOC",
-        "start": 15,
-        "end": 22
-      },
-      {
         "text": "陜州",
         "label": "LOC",
         "start": 22,
         "end": 24
       },
       {
-        "text": "河中扈彥珂移鎮",
-        "label": "LOC",
-        "start": 25,
-        "end": 32
-      },
-      {
         "text": "滑州",
         "label": "LOC",
         "start": 32,
         "end": 34
-      },
-      {
-        "text": "陜州李洪信移鎮",
-        "label": "LOC",
-        "start": 35,
-        "end": 42
       },
       {
         "text": "華州王饒移鎮",
@@ -1661,12 +1742,6 @@
         "label": "LOC",
         "start": 51,
         "end": 53
-      },
-      {
-        "text": "徐州王彥超移鎮",
-        "label": "LOC",
-        "start": 54,
-        "end": 61
       },
       {
         "text": "晉州",

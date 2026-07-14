@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_007_109_000001",
     "sentence": "杜重威",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_109_000002",
     "sentence": "杜重威，其先朔州人，近世徙家於太原。",
     "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "其先朔州",
         "label": "LOC",
@@ -97,6 +110,12 @@
     "sentence": "與楊光遠降範延光於鄴城，改許州節度使，兼侍衛親軍馬步軍副指揮使，尋加同平章事。",
     "entities": [
       {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "降範延光於鄴城",
         "label": "LOC",
         "start": 4,
@@ -137,6 +156,12 @@
         "label": "LOC",
         "start": 40,
         "end": 43
+      },
+      {
+        "text": "安重榮",
+        "label": "PER",
+        "start": 43,
+        "end": 46
       },
       {
         "text": "敗重榮於宗城",
@@ -274,7 +299,14 @@
   {
     "sentence_id": "HCH_007_109_000021",
     "sentence": "會大風狂猛，軍情憤激，府彥卿、張彥澤等引軍四出，敵眾大潰，諸將欲追之，重威曰：「逢賊得命，更望復子乎！」遂收軍馳歸常山。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_109_000022",
@@ -297,6 +329,12 @@
         "label": "LOC",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "馬全節",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },
@@ -332,6 +370,12 @@
         "label": "TME",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       }
     ]
   },
@@ -362,7 +406,14 @@
   {
     "sentence_id": "HCH_007_109_000029",
     "sentence": "十二月八日，宋彥筠、王清等率數千人渡滹沲，陣於北岸，為敵所破。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋彥筠",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_109_000030",
@@ -422,6 +473,12 @@
         "end": 8
       },
       {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
         "text": "皇帝",
         "label": "TITLE",
         "start": 48,
@@ -474,6 +531,12 @@
         "label": "LOC",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "宏遂等告急於鎮",
@@ -535,16 +598,10 @@
     "sentence": "〈 （《 宋史 ·杜漢徽傳》云：從高行周討杜重威於鄴城，屢為流矢所中，身被重創，猶力戰，觀者壯之。） 〉 高祖駐軍數旬，城中糧盡，屑麹餅以給軍士，吏民逾壘而出者甚眾，皆無人色。",
     "entities": [
       {
-        "text": "《 宋史 ·杜漢徽傳》",
-        "label": "TITLE",
-        "start": 3,
-        "end": 14
-      },
-      {
-        "text": "討杜重威於鄴城",
-        "label": "LOC",
-        "start": 20,
-        "end": 27
+        "text": "高行周",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -653,6 +710,18 @@
     "sentence": "詔曰：「杜重威猶貯禍心，未悛逆節，梟音不改，虺性難馴。昨朕小有不安，罷朝數日，而重威父子潛肆兇言，怨謗大朝，扇惑小輩；今則顯有陳告，備驗奸期。既負深恩，須置極法，其杜重威父子並處斬。所有晉朝公主及外親族，一切如常，仍與供給。」重威父子已誅，陳屍於通衢，都人聚觀者詬罵蹴擊，軍吏不能禁，屍首狼籍，斯須而盡。",
     "entities": [
       {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 82,
+        "end": 85
+      },
+      {
         "text": "公主",
         "label": "TITLE",
         "start": 95,
@@ -689,6 +758,12 @@
         "end": 8
       },
       {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 75,
@@ -699,12 +774,26 @@
   {
     "sentence_id": "HCH_007_109_000063",
     "sentence": "李守貞",
-    "entities": []
+    "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_109_000064",
     "sentence": "李守貞，河陽人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_109_000065",
@@ -739,10 +828,10 @@
     "sentence": "天福中，李金全以安州叛，淮夷入寇，晉高祖命馬全節討之，守貞監護其軍，賊平，守貞為宣徽使。",
     "entities": [
       {
-        "text": "李金全以安州",
-        "label": "LOC",
-        "start": 4,
-        "end": 10
+        "text": "馬全節",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -819,6 +908,18 @@
         "label": "LOC",
         "start": 3,
         "end": 9
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -848,6 +949,12 @@
         "label": "LOC",
         "start": 3,
         "end": 8
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -864,7 +971,14 @@
   {
     "sentence_id": "HCH_007_109_000080",
     "sentence": "守貞班師，加同平章事，以楊光遠東京第賜之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_109_000081",
@@ -915,6 +1029,12 @@
         "label": "LOC",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       },
       {
         "text": "洎獲陽城",
@@ -971,6 +1091,12 @@
     "sentence": "居無何，代高行周為侍衛親軍都指揮使，移鎮鄆州，意頗觖望。",
     "entities": [
       {
+        "text": "高行周",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "移鎮鄆州",
         "label": "LOC",
         "start": 18,
@@ -981,7 +1107,14 @@
   {
     "sentence_id": "HCH_007_109_000089",
     "sentence": "會宰臣李崧加侍中，守貞謂樞密使直學士殷鵬曰：「樞密何功，便加正相！」先是，桑維翰以元勛舊德為樞密使，守貞位望素處其下，每憚之，與李彥韜、馮玉輩協力排斥，維翰竟罷樞務。",
-    "entities": []
+    "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_109_000090",
@@ -1045,6 +1178,12 @@
     "sentence": "十月，詔杜重威為北面行營招討使，以守貞為兵馬都監，知幽州行府事。",
     "entities": [
       {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "知幽州",
         "label": "LOC",
         "start": 25,
@@ -1055,7 +1194,14 @@
   {
     "sentence_id": "HCH_007_109_000097",
     "sentence": "先是，守貞領兵再由鄴都，杜重威厚加贈遺，曲意承迎，守貞悅之，每於帝前稱舉，請委征討之柄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_109_000098",
@@ -1116,6 +1262,12 @@
         "end": 10
       },
       {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
         "text": "依前鄆州",
         "label": "LOC",
         "start": 41,
@@ -1166,7 +1318,14 @@
   {
     "sentence_id": "HCH_007_109_000106",
     "sentence": "居無何，高祖晏駕，杜重威被誅，守貞愈不自安，乃潛畜異計。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_109_000107",
@@ -1209,6 +1368,12 @@
         "end": 83
       },
       {
+        "text": "趙思綰",
+        "label": "PER",
+        "start": 123,
+        "end": 126
+      },
+      {
         "text": "遣兵據潼關",
         "label": "LOC",
         "start": 167,
@@ -1227,10 +1392,28 @@
         "end": 14
       },
       {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
         "text": "令繼勛據潼關",
         "label": "LOC",
         "start": 21,
         "end": 27
+      },
+      {
+        "text": "郭從義",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "白文珂",
+        "label": "PER",
+        "start": 42,
+        "end": 45
       }
     ]
   },
@@ -1257,10 +1440,16 @@
         "end": 12
       },
       {
-        "text": "李守貞鎮",
-        "label": "LOC",
-        "start": 13,
-        "end": 17
+        "text": "王景崇",
+        "label": "PER",
+        "start": 84,
+        "end": 87
+      },
+      {
+        "text": "趙思綰",
+        "label": "PER",
+        "start": 92,
+        "end": 95
       }
     ]
   },
@@ -1318,6 +1507,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 12
+      },
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 40,
+        "end": 43
       },
       {
         "text": "分五路於長連城",
@@ -1402,6 +1597,12 @@
         "end": 12
       },
       {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
         "text": "皇后",
         "label": "TITLE",
         "start": 83,
@@ -1418,17 +1619,38 @@
   {
     "sentence_id": "HCH_007_109_000125",
     "sentence": "趙思綰",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙思綰",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_109_000126",
     "sentence": "趙思綰，魏府人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙思綰",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_109_000127",
     "sentence": "唐同光末，趙在禮之據魏城也，思綰隸於帳下，累從之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏",
+        "label": "ORG",
+        "start": 10,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_109_000128",
@@ -1448,12 +1670,26 @@
   {
     "sentence_id": "HCH_007_109_000131",
     "sentence": "會高祖遣王景崇等西赴鳳翔，行次京兆，時思綰等數百人在焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王景崇",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_109_000132",
     "sentence": "思綰等比是趙在禮禦士，本不刺面，景崇、齊藏珍既至京兆，欲令文面，以防逋逸。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_109_000133",
@@ -1554,12 +1790,26 @@
   {
     "sentence_id": "HCH_007_109_000143",
     "sentence": "尋遣人送款於河中，李守貞遣使賫偽詔授思綰晉昌軍節度使、檢校太尉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_109_000144",
     "sentence": "朝廷聞之，命郭從義、王峻帥師伐之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭從義",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_109_000145",
@@ -1587,6 +1837,12 @@
         "label": "TITLE",
         "start": 36,
         "end": 44
+      },
+      {
+        "text": "趙思綰",
+        "label": "PER",
+        "start": 47,
+        "end": 50
       }
     ]
   },
@@ -1629,6 +1885,12 @@
         "label": "LOC",
         "start": 135,
         "end": 142
+      },
+      {
+        "text": "趙思綰",
+        "label": "PER",
+        "start": 203,
+        "end": 206
       },
       {
         "text": "將軍",
@@ -1684,6 +1946,12 @@
     "sentence": "郭從義、王峻等籌之曰：「狼子野心，終不可用，留之必貽後悔耳！」既而從義、王峻等緩轡入城，陳列步騎至牙署，遣人召思綰曰：「太保登途，不暇出祖，對飲一杯，便申仳別。」思綰至，則執之，遂斬於市，並族其家。",
     "entities": [
       {
+        "text": "郭從義",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "王峻等緩轡入城",
         "label": "LOC",
         "start": 36,
@@ -1695,12 +1963,6 @@
     "sentence_id": "HCH_007_109_000152",
     "sentence": "〈 （《東都事略·郭從義傳》云：思綰困甚，從義遣人誘之，佯許以華州節鉞。思綰信之，遂開門送款，從義入城，思綰謁見，即遣武士執之。） 〉 思綰臨刑，市人爭投瓦石以擊之，軍吏不能禁。",
     "entities": [
-      {
-        "text": "《東都事略·郭從義傳》",
-        "label": "TITLE",
-        "start": 3,
-        "end": 14
-      },
       {
         "text": "佯許以華州",
         "label": "LOC",

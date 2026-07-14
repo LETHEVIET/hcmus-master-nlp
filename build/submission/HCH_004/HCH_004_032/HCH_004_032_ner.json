@@ -2,12 +2,26 @@
   {
     "sentence_id": "HCH_004_032_000001",
     "sentence": "陸法和",
-    "entities": []
+    "entities": [
+      {
+        "text": "陸法和",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_032_000002",
     "sentence": "陸法和，不知何許人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陸法和",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_032_000003",
@@ -127,6 +141,12 @@
     "sentence": "法和旣平約，往進見王僧辯於巴陵，謂曰：「貧道已斷侯景一臂，其更何能為，檀越宜卽遂取。」乃請還，謂湘東王曰：「侯景自然平矣，無足可慮。蜀賊將至，法和請守巫峽待之。」乃總諸軍而往，親運石以填江。",
     "entities": [
       {
+        "text": "王僧辯",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "蜀",
         "label": "ORG",
         "start": 66,
@@ -142,7 +162,14 @@
   {
     "sentence_id": "HCH_004_032_000021",
     "sentence": "武陵王紀果遣蜀兵來渡，峽口勢蹙，進退不可。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武陵王紀",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_032_000022",
@@ -748,7 +775,14 @@
   {
     "sentence_id": "HCH_004_032_000087",
     "sentence": "又隨王僧辯破景。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王僧辯",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_032_000088",
@@ -786,7 +820,14 @@
   {
     "sentence_id": "HCH_004_032_000092",
     "sentence": "王僧辯禁之不可，懼將為亂，啟請誅之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王僧辯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_032_000093",
@@ -830,7 +871,14 @@
   {
     "sentence_id": "HCH_004_032_000098",
     "sentence": "梁元遣王僧辯討納，納等敗走長沙。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王僧辯",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_032_000099",
@@ -1004,7 +1052,20 @@
   {
     "sentence_id": "HCH_004_032_000116",
     "sentence": "陳霸先旣殺王僧辯，推立敬帝，以侍中司空徵。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳霸先",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "王僧辯",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_032_000117",
@@ -1019,7 +1080,20 @@
   {
     "sentence_id": "HCH_004_032_000119",
     "sentence": "陳武帝遣將侯安都、周文育等誅琳，仍受梁禪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯安都",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "周文育",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_032_000120",
@@ -1029,7 +1103,14 @@
   {
     "sentence_id": "HCH_004_032_000121",
     "sentence": "唯以周鐵虎一人背恩，斬之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "周鐵虎",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_032_000122",
@@ -1057,7 +1138,14 @@
   {
     "sentence_id": "HCH_004_032_000124",
     "sentence": "琳巡軍而言曰：「可以為勤王之師矣，溫太真何人哉！」江南渠帥熊曇朗、周迪懷貳，琳遣李孝欽、樊猛與余孝頃同討之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "余孝頃",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_032_000125",
@@ -1160,7 +1248,14 @@
   {
     "sentence_id": "HCH_004_032_000133",
     "sentence": "及陳霸先卽位，琳乃輔莊次於濡須口。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳霸先",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_032_000134",
@@ -1171,6 +1266,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "慕容儼",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -1189,6 +1290,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "將襲湓城",
@@ -1213,7 +1320,14 @@
   {
     "sentence_id": "HCH_004_032_000137",
     "sentence": "琳兵因東下，陳遣司空侯安都等拒之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯安都",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_032_000138",
@@ -1398,6 +1512,12 @@
     "sentence": "會陳將吳明徹來寇，帝勑領軍將軍尉破胡等出援秦州，令琳共為經略。",
     "entities": [
       {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 13,
@@ -1445,10 +1565,22 @@
     "sentence": "陳將吳明徹進兵圍之，堰淝水灌城，而皮景和等屯於淮西，竟不赴救。",
     "entities": [
       {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "堰淝水灌城",
         "label": "LOC",
         "start": 10,
         "end": 15
+      },
+      {
+        "text": "皮景和",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -1466,6 +1598,12 @@
     "sentence_id": "HCH_004_032_000165",
     "sentence": "吳明徹恐其為變，殺之城東北二十里，時年四十八，哭者聲如雷。",
     "entities": [
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "殺之城",
         "label": "LOC",
@@ -1717,7 +1855,14 @@
   {
     "sentence_id": "HCH_004_032_000202",
     "sentence": "及敗，為陳軍所執，吳明徹欲全之，而其下將領多琳故吏，爭來致請，並相資給，明徹由此忌之，故及於難。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_032_000203",

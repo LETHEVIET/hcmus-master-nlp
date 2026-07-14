@@ -76,7 +76,14 @@
   {
     "sentence_id": "HCH_007_129_000009",
     "sentence": "乾佑初，李守貞叛於河中，太祖征之，朝廷命思帥部兵以副焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_129_000010",
@@ -196,12 +203,25 @@
   {
     "sentence_id": "HCH_007_129_000021",
     "sentence": "翟光鄴",
-    "entities": []
+    "entities": [
+      {
+        "text": "翟光鄴",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_129_000022",
     "sentence": "翟光鄴，字化基，濮州鄄城人。",
     "entities": [
+      {
+        "text": "翟光鄴",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "濮州鄄城",
         "label": "LOC",
@@ -258,7 +278,14 @@
   {
     "sentence_id": "HCH_007_129_000028",
     "sentence": "長興中，樞密使安重誨得罪，時光鄴與中官孟小僧頗有力焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_129_000029",
@@ -311,6 +338,12 @@
     "sentence_id": "HCH_007_129_000033",
     "sentence": "楊光遠叛滅，青州平，除為防禦使，朝廷以兵亂之後，人物雕弊，故命光鄴理之。",
     "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "青州",
         "label": "LOC",
@@ -397,7 +430,14 @@
   {
     "sentence_id": "HCH_007_129_000042",
     "sentence": "會永興李洪信入朝，代知軍府事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李洪信",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_129_000043",
@@ -555,7 +595,14 @@
   {
     "sentence_id": "HCH_007_129_000063",
     "sentence": "乾祐初，李守貞據河中叛，授行營步軍都校。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_129_000064",
@@ -588,12 +635,6 @@
         "label": "TME",
         "start": 0,
         "end": 2
-      },
-      {
-        "text": "慕容彥超於兗州",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
       }
     ]
   },
@@ -655,12 +696,26 @@
   {
     "sentence_id": "HCH_007_129_000075",
     "sentence": "李彥頵",
-    "entities": []
+    "entities": [
+      {
+        "text": "李彥頵",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_129_000076",
     "sentence": "李彥頵，字德循，太原人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李彥頵",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_129_000077",
@@ -994,6 +1049,12 @@
         "end": 8
       },
       {
+        "text": "安從進",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "騎千餘屯於葉縣",
         "label": "LOC",
         "start": 25,
@@ -1161,6 +1222,18 @@
         "end": 7
       },
       {
+        "text": "安重榮",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "賊陣於宗城",
         "label": "LOC",
         "start": 29,
@@ -1171,7 +1244,14 @@
   {
     "sentence_id": "HCH_007_129_000126",
     "sentence": "杜重威懼，謀欲抽退，重裔曰：「兵家忌退，但請公分麾下兵擊其兩翼，重裔為公陷陣，當其中軍，彼必狼狽矣。」重威從之，重榮即時退蹙，遂敗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_129_000127",
@@ -1219,6 +1299,12 @@
     "sentence_id": "HCH_007_129_000129",
     "sentence": "淮夷以李守貞故，數侵邊地，以重裔為亳州防禦使，又令於徐州巡檢，兼知軍州，就加檢校太傅。",
     "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "以重裔為亳州",
         "label": "LOC",
@@ -1271,12 +1357,26 @@
   {
     "sentence_id": "HCH_007_129_000133",
     "sentence": "孫漢英",
-    "entities": []
+    "entities": [
+      {
+        "text": "孫漢英",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_129_000134",
     "sentence": "孫漢英，太原人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孫漢英",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_129_000135",
@@ -1304,6 +1404,12 @@
         "label": "ORG",
         "start": 5,
         "end": 6
+      },
+      {
+        "text": "張虔釗",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       },
       {
         "text": "時為洋州",
@@ -1506,14 +1612,7 @@
   {
     "sentence_id": "HCH_007_129_000157",
     "sentence": "安重榮鎮常山，招集叛亡，鳳乃應募，既而犯法當死，即破械逾獄，遁而獲免。",
-    "entities": [
-      {
-        "text": "安重榮鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 4
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_129_000158",
@@ -1784,7 +1883,14 @@
   {
     "sentence_id": "HCH_007_129_000183",
     "sentence": "及張永德與李重進有間言，藏珍嘗遊說重進，洎壽陽兵回，諸將中有以藏珍之言上奏者。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李重進",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_129_000184",
@@ -1816,14 +1922,7 @@
   {
     "sentence_id": "HCH_007_129_000188",
     "sentence": "唐天成初，孟知祥鎮西川，環往事之，及知祥建號，環累典軍衛，孟昶嗣位，環兼領左、右衛。",
-    "entities": [
-      {
-        "text": "孟知祥鎮",
-        "label": "LOC",
-        "start": 5,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_129_000189",
@@ -1910,12 +2009,26 @@
   {
     "sentence_id": "HCH_007_129_000196",
     "sentence": "張彥超",
-    "entities": []
+    "entities": [
+      {
+        "text": "張彥超",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_129_000197",
     "sentence": "張彥超，本沙陀部人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張彥超",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_129_000198",
@@ -2141,12 +2254,26 @@
   {
     "sentence_id": "HCH_007_129_000219",
     "sentence": "劉仁贍",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉仁贍",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_129_000220",
     "sentence": "劉仁贍，略通儒術，好兵書，在澤國甚有聲望。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉仁贍",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_129_000221",
@@ -2221,7 +2348,14 @@
   {
     "sentence_id": "HCH_007_129_000227",
     "sentence": "及車駕還京，命李重進總兵守之，復乘間陷我南寨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李重進",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_129_000228",

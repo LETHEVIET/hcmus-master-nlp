@@ -86,7 +86,14 @@
   {
     "sentence_id": "HCH_007_009_000005",
     "sentence": "己卯，以宣義軍節度副大使、知節度事、北面行營副招討等使、特進、檢校太傅霍彥威為天平軍節度副大使，知節度事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_009_000006",
@@ -150,6 +157,12 @@
     "sentence_id": "HCH_007_009_000011",
     "sentence": "甲午，以飛龍使婁繼英為左武衛大將軍。",
     "entities": [
+      {
+        "text": "婁繼英",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -221,6 +234,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "錢傳瓘",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       },
       {
         "text": "溫州",
@@ -669,7 +688,14 @@
   {
     "sentence_id": "HCH_007_009_000031",
     "sentence": "戊子，泰寧軍節度使張萬進賜名守進。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張萬進",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_009_000032",
@@ -943,6 +969,12 @@
         "label": "LOC",
         "start": 25,
         "end": 28
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -1418,12 +1450,6 @@
     "sentence": "五月甲戌，以荊南衙內馬步軍都指揮使、檢校司徒高從誨領濠州刺史。",
     "entities": [
       {
-        "text": "徒高從誨領濠州",
-        "label": "LOC",
-        "start": 21,
-        "end": 28
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 28,
@@ -1500,6 +1526,12 @@
         "label": "TITLE",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "朱令德",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -1648,6 +1680,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "羅周敬",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -1684,7 +1722,14 @@
   {
     "sentence_id": "HCH_007_009_000088",
     "sentence": "辛亥，涇原節度使杜建徽加檢校太傅、同平章事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜建徽",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_009_000089",
@@ -2061,6 +2106,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "牛知業",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -2082,12 +2133,26 @@
   {
     "sentence_id": "HCH_007_009_000114",
     "sentence": "是月二十二日，晉王次臨濮，賀瑰、王彥章自行台寨率軍躡之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_009_000115",
     "sentence": "二十四日，至胡柳陂，晉王領軍出戰，瑰軍已成列，晉王以騎突之，王彥章一軍先敗，彥章走濮陽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_009_000116",
@@ -2267,12 +2332,6 @@
         "label": "LOC",
         "start": 17,
         "end": 19
-      },
-      {
-        "text": "使王彥章為許州",
-        "label": "LOC",
-        "start": 21,
-        "end": 28
       }
     ]
   },
@@ -2332,6 +2391,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },

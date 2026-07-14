@@ -24,14 +24,7 @@
   {
     "sentence_id": "HCH_008_125_000004",
     "sentence": "郭子儀為關內副元帥，以嘗伏事齊丘，辟鎰為判官。",
-    "entities": [
-      {
-        "text": "郭子儀為關",
-        "label": "LOC",
-        "start": 0,
-        "end": 5
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_125_000005",
@@ -110,7 +103,14 @@
   {
     "sentence_id": "HCH_008_125_000013",
     "sentence": "交遊不雜，與楊綰、崔祐甫相善。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔祐甫",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_125_000014",
@@ -474,7 +474,14 @@
   {
     "sentence_id": "HCH_008_125_000046",
     "sentence": "鎰與賓佐齊映、齊抗及盟官崔漢衡、樊澤、常魯、於頔等七人，皆朝服；結贊與其本國將相論悉頰藏、論臧熱、論利陁、斯官者、論力徐等亦七人，俱升壇為盟。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔漢衡",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_125_000047",
@@ -650,7 +657,14 @@
   {
     "sentence_id": "HCH_008_125_000068",
     "sentence": "李楚琳者，嘗事硃泚，得其心。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李楚琳",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_125_000069",
@@ -698,7 +712,14 @@
   {
     "sentence_id": "HCH_008_125_000075",
     "sentence": "鎰出鳳翔三十里，及二子皆為候騎所得，楚琳俱殺之；判官王沼、張元度、柳遇、李漵被殺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張元度",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_125_000076",
@@ -715,17 +736,37 @@
   {
     "sentence_id": "HCH_008_125_000077",
     "sentence": "附 馮河清",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮河清",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_125_000078",
     "sentence": "馮河清者，京兆人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮河清",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_125_000079",
     "sentence": "初以武藝從軍，隸朔方節度郭子儀，以戰功授左衛大將軍同正；隸涇原節度馬璘，頻以偏師禦吐蕃，甚有殺獲之功。",
     "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -761,12 +802,6 @@
         "label": "TME",
         "start": 2,
         "end": 4
-      },
-      {
-        "text": "言奉詔率兵赴關",
-        "label": "LOC",
-        "start": 10,
-        "end": 17
       },
       {
         "text": "御史",
@@ -843,7 +878,14 @@
   {
     "sentence_id": "HCH_008_125_000086",
     "sentence": "賊泚及姚令言累遣間諜招誘，河清輒拘而戮焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚令言",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_125_000087",
@@ -854,6 +896,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "田希鑒",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -896,12 +944,25 @@
   {
     "sentence_id": "HCH_008_125_000090",
     "sentence": "劉從一",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉從一",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_125_000091",
     "sentence": "劉從一，中書侍郎林甫之玄孫也。",
     "entities": [
+      {
+        "text": "劉從一",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "侍郎",
         "label": "TITLE",
@@ -1228,6 +1289,24 @@
     "sentence": "先時，淮南節度陳少遊首稱臣於李希烈，鳳翔將李楚琳殺節度使張鎰以應硃泚，鎰判官韋臯先知隴州留後，首殺豳叛卒數百人，不應楚琳。",
     "entities": [
       {
+        "text": "陳少遊",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "李楚琳",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "官韋臯先知隴州",
         "label": "LOC",
         "start": 37,
@@ -1238,19 +1317,19 @@
   {
     "sentence_id": "HCH_008_125_000126",
     "sentence": "復江南使回，與宰相同對訖，復獨留，奏曰：「陛下自返宮闕，勛臣已蒙官爵，唯旌善懲惡，未有區分。陳少遊將相之寄最崇，首敗臣節；韋臯名宦最卑，特建忠義。請令韋臯代少遊，則天下明然知逆順之理。」上許之。",
-    "entities": [
-      {
-        "text": "陳",
-        "label": "ORG",
-        "start": 46,
-        "end": 47
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_125_000127",
     "sentence": "復出，宰相李勉、盧翰、劉從一方同歸中書，中使馬欽緒至，揖從一，附耳語而退，諸相各歸閣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉從一",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_125_000128",
@@ -1352,12 +1431,6 @@
         "label": "ORG",
         "start": 1,
         "end": 2
-      },
-      {
-        "text": "蜀州",
-        "label": "LOC",
-        "start": 4,
-        "end": 6
       },
       {
         "text": "商州",
@@ -1492,6 +1565,12 @@
     "sentence": "至德中，為江西采訪使皇甫侁判官，累除衢州司馬。",
     "entities": [
       {
+        "text": "皇甫侁",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "累除衢州",
         "label": "LOC",
         "start": 16,
@@ -1542,14 +1621,7 @@
   {
     "sentence_id": "HCH_008_125_000154",
     "sentence": "大歷初，魏少遊鎮江西，奏署判官，累授檢校司封郎中。",
-    "entities": [
-      {
-        "text": "魏少遊鎮",
-        "label": "LOC",
-        "start": 4,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_125_000155",
@@ -1564,7 +1636,14 @@
   {
     "sentence_id": "HCH_008_125_000157",
     "sentence": "渾與崔祐甫遽入白，少遊驚問，醉僧首伏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔祐甫",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_125_000158",
@@ -1574,14 +1653,7 @@
   {
     "sentence_id": "HCH_008_125_000159",
     "sentence": "及路嗣恭領鎮，復以為都團練副使。",
-    "entities": [
-      {
-        "text": "及路嗣恭領鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_125_000160",
@@ -1616,6 +1688,12 @@
         "label": "TME",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "崔祐甫",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       },
       {
         "text": "大夫",
@@ -1715,6 +1793,12 @@
         "end": 7
       },
       {
+        "text": "田季羔",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "京城",
         "label": "LOC",
         "start": 36,
@@ -1796,7 +1880,14 @@
   {
     "sentence_id": "HCH_008_125_000181",
     "sentence": "時張延賞與渾同列，延賞怙權矜己，而嫉渾守正，俾其所厚謂渾曰：「相公舊德，但節言於廟堂，則重位可久。」。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張延賞",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_125_000182",
@@ -1823,7 +1914,20 @@
   {
     "sentence_id": "HCH_008_125_000185",
     "sentence": "渾母兄識，，篤意文章，有重名於開元、天寶間，與蕭穎士、元德秀、劉迅相亞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭穎士",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "元德秀",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_125_000186",

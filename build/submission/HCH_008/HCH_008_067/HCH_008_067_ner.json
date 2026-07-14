@@ -403,6 +403,12 @@
         "label": "LOC",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "李光度",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -441,10 +447,22 @@
         "end": 2
       },
       {
+        "text": "輔公祏",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "張鎮州",
         "label": "LOC",
         "start": 31,
         "end": 34
+      },
+      {
+        "text": "黃君漢",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       }
     ]
   },
@@ -492,7 +510,14 @@
   {
     "sentence_id": "HCH_008_067_000050",
     "sentence": "靖乃率黃君漢等先擊惠亮，苦戰破之，殺傷乃溺死者萬餘人，惠亮奔走。",
-    "entities": []
+    "entities": [
+      {
+        "text": "黃君漢",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_067_000051",
@@ -503,6 +528,12 @@
     "sentence_id": "HCH_008_067_000052",
     "sentence": "先遣偽將左遊仙領兵守會稽以為引援，公祏擁兵東走，以趨遊仙，至吳郡，與惠亮、正通並相次擒獲，江南悉平。",
     "entities": [
+      {
+        "text": "左遊仙",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "至吳郡",
         "label": "LOC",
@@ -592,6 +623,12 @@
     "sentence_id": "HCH_008_067_000059",
     "sentence": "高祖每云：「李靖是蕭銑、輔公祏膏肓，古之名將韓、白、衛、霍，豈能及也！」九年，突厥莫賀咄設寇邊，征靖為靈州道行軍總管。",
     "entities": [
+      {
+        "text": "輔公祏",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
       {
         "text": "九年",
         "label": "TME",
@@ -697,6 +734,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "楊正道",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -736,10 +779,22 @@
         "end": 16
       },
       {
+        "text": "安修仁",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 29,
         "end": 31
+      },
+      {
+        "text": "張公謹",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -773,7 +828,14 @@
   {
     "sentence_id": "HCH_008_067_000078",
     "sentence": "頡利乘千里馬將走投吐谷渾，西道行軍總管張寶相擒之以獻。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張寶相",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_067_000079",
@@ -800,6 +862,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "溫彥博",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -869,6 +937,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -894,6 +968,12 @@
     "sentence": "未幾，吐谷渾寇邊，太宗顧謂侍臣曰：「得李靖為帥，豈非善也！」靖乃見房玄齡曰：「靖雖年老，固堪一行。」太宗大悅，即以靖為西海道行軍大總管，統兵部尚書、任城王道宗、涼州都督李大亮、右衛將軍李道彥、利州刺史高甑生等三總管征之。",
     "entities": [
       {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 71,
@@ -912,10 +992,22 @@
         "end": 82
       },
       {
+        "text": "李大亮",
+        "label": "PER",
+        "start": 84,
+        "end": 87
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 90,
         "end": 92
+      },
+      {
+        "text": "李道彥",
+        "label": "PER",
+        "start": 92,
+        "end": 95
       },
       {
         "text": "利州",
@@ -928,6 +1020,12 @@
         "label": "TITLE",
         "start": 98,
         "end": 100
+      },
+      {
+        "text": "高甑生",
+        "label": "PER",
+        "start": 100,
+        "end": 103
       }
     ]
   },
@@ -979,6 +1077,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "高甑生",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -991,6 +1095,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "唐奉義",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1159,7 +1269,14 @@
   {
     "sentence_id": "HCH_008_067_000113",
     "sentence": "先天中，預誅竇懷貞等功，封宋國公，實封五百戶。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇懷貞",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_067_000114",
@@ -1213,12 +1330,6 @@
         "label": "LOC",
         "start": 4,
         "end": 6
-      },
-      {
-        "text": "左授撫州",
-        "label": "LOC",
-        "start": 25,
-        "end": 29
       }
     ]
   },
@@ -1349,6 +1460,12 @@
     "sentence": "經歲餘，宇文化及於江都弒逆，擁兵北上，直指東郡。",
     "entities": [
       {
+        "text": "宇文化及",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      },
+      {
         "text": "直指東郡",
         "label": "LOC",
         "start": 19,
@@ -1427,6 +1544,12 @@
         "end": 22
       },
       {
+        "text": "郭孝恪",
+        "label": "PER",
+        "start": 36,
+        "end": 39
+      },
+      {
         "text": "今宜具錄州縣",
         "label": "LOC",
         "start": 91,
@@ -1497,14 +1620,7 @@
   {
     "sentence_id": "HCH_008_067_000149",
     "sentence": "而竇建德擒化及於魏縣，復進軍攻勣，力屈降之。",
-    "entities": [
-      {
-        "text": "德擒化及於魏縣",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_067_000150",
@@ -1556,13 +1672,26 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "王行本",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
   {
     "sentence_id": "HCH_008_067_000155",
     "sentence": "又從太宗平竇建德，降王世充，振旅而還。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_067_000156",
@@ -1585,6 +1714,12 @@
     "sentence_id": "HCH_008_067_000158",
     "sentence": "勣又從太宗破劉黑闥、徐圓朗，累遷左監門大將軍。",
     "entities": [
+      {
+        "text": "徐圓朗",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -1626,6 +1761,12 @@
         "label": "LOC",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "輔公祏",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1866,6 +2007,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "李思摩",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -1970,7 +2117,14 @@
   {
     "sentence_id": "HCH_008_067_000190",
     "sentence": "其大首領梯真達於率眾來防，其可汗咄摩支南竄於荒谷，遣通事舍人蕭嗣業招慰部領，送於京師，磧北悉定。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭嗣業",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_067_000191",
@@ -2184,10 +2338,28 @@
     "sentence": "勣又引兵圍平壤，遼東道副大總管劉仁軌、郝處俊、將軍薛仁貴並會於平壤，犄角圍之。",
     "entities": [
       {
+        "text": "劉仁軌",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "郝處俊",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "薛仁貴",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
@@ -2339,7 +2511,20 @@
   {
     "sentence_id": "HCH_008_067_000221",
     "sentence": "魏徵、高季輔、杜正倫、郭孝恪皆游其所，一見於眾人中，即加禮敬，引之臥內，談謔忘倦。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "郭孝恪",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_067_000222",
@@ -2415,6 +2600,18 @@
     "sentence": "宴罷，謂弼曰：「我自量必死，欲與汝一別耳。恐汝悲哭，誑言似差，可未須啼泣，聽我約束。我見房玄齡、杜如晦、高季輔辛苦作得門戶，亦望垂裕後昆，並遭痴兒破家蕩盡。我有如許豚犬，將以付汝，汝可防察，有操行不倫、交遊非類，急即打殺，然後奏知。又見人多埋金玉，亦不須爾。惟以布裝露車，載我棺柩，棺中斂以常服，惟加朝服一副，死倘有知，望著此奉見先帝。明器惟作馬五六匹，下帳用幔布為頂，白紗為裙，其中著十個木人，示依古禮芻靈之義，此外一物不用。姬媼已下，有兒女而願住自養者，聽之；余並放出。事畢，汝即移入我堂，撫卹小弱。違我言者，同於戮屍。」此後略不復語，弼等遵行遺言。",
     "entities": [
       {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      },
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 48,
+        "end": 51
+      },
+      {
         "text": "明",
         "label": "ORG",
         "start": 168,
@@ -2458,7 +2655,14 @@
   {
     "sentence_id": "HCH_008_067_000238",
     "sentence": "孫 徐敬業",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐敬業",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_067_000239",
@@ -2482,10 +2686,22 @@
     "sentence": "時給事中唐之奇貶授括蒼令，長安主簿駱賓王貶授臨海丞，詹事司直杜求仁黝縣丞，敬業坐事左授柳州司馬，其弟盩啡令敬猷亦坐累左遷，俱在揚州。",
     "entities": [
       {
+        "text": "唐之奇",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "長安",
         "label": "LOC",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "駱賓王",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       },
       {
         "text": "司直杜求仁黝縣",
@@ -2552,6 +2768,18 @@
         "label": "LOC",
         "start": 38,
         "end": 40
+      },
+      {
+        "text": "陳敬之",
+        "label": "PER",
+        "start": 42,
+        "end": 45
+      },
+      {
+        "text": "唐之奇",
+        "label": "PER",
+        "start": 46,
+        "end": 49
       }
     ]
   },
@@ -2576,6 +2804,12 @@
         "label": "LOC",
         "start": 22,
         "end": 24
+      },
+      {
+        "text": "李宗臣",
+        "label": "PER",
+        "start": 52,
+        "end": 55
       }
     ]
   },
@@ -2629,6 +2863,18 @@
         "label": "LOC",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "唐之奇",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
+        "text": "駱賓王",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -2798,6 +3044,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 10
+      },
+      {
+        "text": "李孝逸",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -2834,6 +3086,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "李思文",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -2887,6 +3145,12 @@
         "label": "LOC",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "唐之奇",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2898,7 +3162,14 @@
   {
     "sentence_id": "HCH_008_067_000287",
     "sentence": "初，敬業傳檄至京師，則天讀之微哂，至「一抔之土未乾」，遽問侍臣曰：「此語誰為之？」或對曰：「駱賓王之辭也。」則天曰：「宰相之過，安失此人？」中宗返正，詔曰：「故司空勣，往因敬業，毀廢墳塋。朕追想元勳，永懷佐命。昔竇憲干紀，無累安豐之祠；霍禹亂常，猶全博陸之祀。罪不相及，國之通典。宜特垂恩禮，令所司速為起墳，所有官爵，並宜追復。」勣諸子孫坐敬業誅殺，靡有遺胤，偶脫禍者，皆竄跡胡越。",
-    "entities": []
+    "entities": [
+      {
+        "text": "駱賓王",
+        "label": "PER",
+        "start": 46,
+        "end": 49
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_067_000288",

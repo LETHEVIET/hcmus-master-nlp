@@ -298,6 +298,12 @@
         "end": 39
       },
       {
+        "text": "獨孤損",
+        "label": "PER",
+        "start": 43,
+        "end": 46
+      },
+      {
         "text": "皇帝",
         "label": "TITLE",
         "start": 50,
@@ -308,6 +314,12 @@
         "label": "TITLE",
         "start": 58,
         "end": 60
+      },
+      {
+        "text": "李克勤",
+        "label": "PER",
+        "start": 82,
+        "end": 85
       }
     ]
   },
@@ -349,7 +361,14 @@
   {
     "sentence_id": "HCH_008_020c_000027",
     "sentence": "辛巳，山陵橋道使改差權河南尹張廷範，其頓遞陵下應接等使，並令廷範兼之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張廷範",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_020c_000028",
@@ -376,6 +395,12 @@
     "sentence": "甲午，敕檢校太保、左龍武統軍朱友恭可復本姓名李彥威，貶崖州司戶同正。",
     "entities": [
       {
+        "text": "朱友恭",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "貶崖州",
         "label": "LOC",
         "start": 26,
@@ -386,14 +411,7 @@
   {
     "sentence_id": "HCH_008_020c_000033",
     "sentence": "檢校司徒、右龍武統軍氏叔琮可貶貝州司戶同正。",
-    "entities": [
-      {
-        "text": "氏叔琮可貶貝州",
-        "label": "LOC",
-        "start": 10,
-        "end": 17
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_020c_000034",
@@ -404,6 +422,12 @@
         "label": "LOC",
         "start": 41,
         "end": 46
+      },
+      {
+        "text": "張廷範",
+        "label": "PER",
+        "start": 63,
+        "end": 66
       }
     ]
   },
@@ -433,6 +457,12 @@
         "label": "LOC",
         "start": 34,
         "end": 36
+      },
+      {
+        "text": "張全義",
+        "label": "PER",
+        "start": 39,
+        "end": 42
       },
       {
         "text": "許州",
@@ -477,6 +507,12 @@
         "end": 4
       },
       {
+        "text": "趙光逢",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "加食邑",
         "label": "LOC",
         "start": 12,
@@ -487,7 +523,14 @@
   {
     "sentence_id": "HCH_008_020c_000039",
     "sentence": "右散騎常侍竇回、給事中孫續、戶部郎中知制誥封舜卿等加勳階。",
-    "entities": []
+    "entities": [
+      {
+        "text": "封舜卿",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_020c_000040",
@@ -527,7 +570,14 @@
   {
     "sentence_id": "HCH_008_020c_000043",
     "sentence": "魏博羅紹威進救接百官絹千匹、綿三千兩。",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_020c_000044",
@@ -589,7 +639,14 @@
   {
     "sentence_id": "HCH_008_020c_000049",
     "sentence": "癸卯，權知河南府尹、和王傅張廷範宜復本官。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張廷範",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_020c_000050",
@@ -856,6 +913,12 @@
         "end": 20
       },
       {
+        "text": "葛從周",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 33,
@@ -872,6 +935,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "盧彥威",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "將軍",
@@ -941,12 +1010,6 @@
         "label": "LOC",
         "start": 38,
         "end": 40
-      },
-      {
-        "text": "戶王師範為孟州",
-        "label": "LOC",
-        "start": 44,
-        "end": 51
       },
       {
         "text": "刺史",
@@ -1031,6 +1094,12 @@
         "label": "LOC",
         "start": 32,
         "end": 34
+      },
+      {
+        "text": "獨孤損",
+        "label": "PER",
+        "start": 37,
+        "end": 40
       },
       {
         "text": "尚書",
@@ -1139,6 +1208,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "張文蔚",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       },
       {
         "text": "侍郎",
@@ -1263,6 +1338,12 @@
         "end": 8
       },
       {
+        "text": "劉仁遇",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "兼兗州",
         "label": "LOC",
         "start": 16,
@@ -1293,6 +1374,18 @@
     "sentence": "乙未，制左僕射裴樞、新除清海軍節度使獨孤損、河南尹張全義、工部尚書王溥、司空致仕裴贄、刑部尚書張禕，並賜一子八品正員官，以奉山陵之勞也。",
     "entities": [
       {
+        "text": "獨孤損",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "張全義",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 31,
@@ -1315,6 +1408,30 @@
         "label": "TITLE",
         "start": 82,
         "end": 84
+      },
+      {
+        "text": "李光庭",
+        "label": "PER",
+        "start": 84,
+        "end": 87
+      },
+      {
+        "text": "崔昭矩",
+        "label": "PER",
+        "start": 96,
+        "end": 99
+      },
+      {
+        "text": "杜承昭",
+        "label": "PER",
+        "start": 130,
+        "end": 133
+      },
+      {
+        "text": "路德延",
+        "label": "PER",
+        "start": 141,
+        "end": 144
       }
     ]
   },
@@ -1385,7 +1502,14 @@
   {
     "sentence_id": "HCH_008_020c_000098",
     "sentence": "丁卯，荊襄節度使趙匡凝奏為故使成汭立祠宇，從之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙匡凝",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_020c_000099",
@@ -1403,6 +1527,18 @@
     "sentence_id": "HCH_008_020c_000100",
     "sentence": "庚午，敕：「所司定今年十月九日有事郊丘，其修制禮衣祭服宜令宰臣柳璨判，祭器宜令張文蔚、楊涉分判，儀仗車輅宜令太常卿張廷範判。」壬申，制新除靜海軍節度使、銀青光祿大夫、檢校尚書左僕射、同平章事、兼安南都護、河南郡開國侯、食邑一千戶獨孤損可責授朝散大夫、棣州刺史，仍令御史台發遣出京訖聞奏。",
     "entities": [
+      {
+        "text": "張文蔚",
+        "label": "PER",
+        "start": 39,
+        "end": 42
+      },
+      {
+        "text": "張廷範",
+        "label": "PER",
+        "start": 57,
+        "end": 60
+      },
       {
         "text": "大夫",
         "label": "TITLE",
@@ -1426,6 +1562,12 @@
         "label": "LOC",
         "start": 109,
         "end": 111
+      },
+      {
+        "text": "獨孤損",
+        "label": "PER",
+        "start": 114,
+        "end": 117
       },
       {
         "text": "大夫",
@@ -1572,6 +1714,12 @@
     "sentence": "丁丑，陳許節度使張全義奏：「得許州留後狀申，自多事以來，許州權為列郡，今特創鼓角樓訖，請復為軍額。」敕旨依舊置忠武軍牌額。",
     "entities": [
       {
+        "text": "張全義",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "得許州",
         "label": "LOC",
         "start": 14,
@@ -1588,7 +1736,14 @@
   {
     "sentence_id": "HCH_008_020c_000106",
     "sentence": "戊寅，宴群臣於崇勳殿，全忠與王鎔、羅紹威置宴也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_020c_000107",
@@ -1643,6 +1798,12 @@
         "end": 24
       },
       {
+        "text": "獨孤損",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
         "text": "責授萊州",
         "label": "LOC",
         "start": 33,
@@ -1679,12 +1840,6 @@
     "sentence": "甲申，秘書監崔仁魯可密州司戶，國子祭酒崔澄陳州司戶，太府少卿裴鍼徐州司戶，衛尉少卿裴紓曹州南華尉，左補闕崔咸休甯陵尉，司封員外薛滈輝州司戶，前鹽鐵推官獨孤憲臨沂尉，秘書少監裴鉥鄆州司戶，長安尉、直史館裴格符離尉，兵部郎中李象鄭州司戶，刑部員外盧薦范縣尉。",
     "entities": [
       {
-        "text": "監崔仁魯可密州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      },
-      {
         "text": "子祭酒崔澄陳州",
         "label": "LOC",
         "start": 16,
@@ -1707,6 +1862,12 @@
         "label": "LOC",
         "start": 60,
         "end": 67
+      },
+      {
+        "text": "獨孤憲",
+        "label": "PER",
+        "start": 75,
+        "end": 78
       },
       {
         "text": "書少監裴鉥鄆州",
@@ -1773,6 +1934,12 @@
         "label": "LOC",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "獨孤損",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       },
       {
         "text": "白州",
@@ -1931,6 +2098,12 @@
         "end": 369
       },
       {
+        "text": "張全義",
+        "label": "PER",
+        "start": 462,
+        "end": 465
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 483,
@@ -1941,6 +2114,12 @@
         "label": "TITLE",
         "start": 512,
         "end": 514
+      },
+      {
+        "text": "李延古",
+        "label": "PER",
+        "start": 574,
+        "end": 577
       }
     ]
   },
@@ -2082,6 +2261,12 @@
         "end": 102
       },
       {
+        "text": "張全義",
+        "label": "PER",
+        "start": 144,
+        "end": 147
+      },
+      {
         "text": "如卻赴鎮",
         "label": "LOC",
         "start": 278,
@@ -2106,6 +2291,30 @@
         "end": 344
       },
       {
+        "text": "司空圖",
+        "label": "PER",
+        "start": 350,
+        "end": 353
+      },
+      {
+        "text": "張廷範",
+        "label": "PER",
+        "start": 426,
+        "end": 429
+      },
+      {
+        "text": "趙匡凝",
+        "label": "PER",
+        "start": 448,
+        "end": 451
+      },
+      {
+        "text": "楊師厚",
+        "label": "PER",
+        "start": 466,
+        "end": 469
+      },
+      {
         "text": "隨等州",
         "label": "LOC",
         "start": 482,
@@ -2121,14 +2330,7 @@
   {
     "sentence_id": "HCH_008_020c_000129",
     "sentence": "辛酉，楊師厚於襄州西六十里陰谷江口伐竹木為浮梁。",
-    "entities": [
-      {
-        "text": "楊師厚於襄州",
-        "label": "LOC",
-        "start": 3,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_020c_000130",
@@ -2138,7 +2340,14 @@
   {
     "sentence_id": "HCH_008_020c_000131",
     "sentence": "甲子，趙匡凝率勁兵二萬，陣于江之湄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙匡凝",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_020c_000132",
@@ -2176,6 +2385,12 @@
     "sentence_id": "HCH_008_020c_000137",
     "sentence": "言權知荊南軍府事趙匡明今月十一日棄城上峽，奔蜀川。",
     "entities": [
+      {
+        "text": "趙匡明",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "今月十一日棄城",
         "label": "LOC",
@@ -2245,13 +2460,26 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "馮行襲",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },
   {
     "sentence_id": "HCH_008_020c_000143",
     "sentence": "制削奪荊南留後趙匡凝官爵。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙匡凝",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_020c_000144",
@@ -2262,6 +2490,12 @@
         "label": "LOC",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "張全義",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       },
       {
         "text": "皇帝",
@@ -2314,6 +2548,12 @@
     "sentence_id": "HCH_008_020c_000149",
     "sentence": "太常卿張廷範改諡曰恭靈莊閔孝皇帝，廟號曰襄宗。",
     "entities": [
+      {
+        "text": "張廷範",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "皇帝",
         "label": "TITLE",
@@ -2484,12 +2724,6 @@
         "label": "LOC",
         "start": 283,
         "end": 286
-      },
-      {
-        "text": "以楊師厚為襄州",
-        "label": "LOC",
-        "start": 330,
-        "end": 337
       },
       {
         "text": "敕河南告成縣",
@@ -2665,10 +2899,34 @@
         "end": 41
       },
       {
+        "text": "張廷範",
+        "label": "PER",
+        "start": 62,
+        "end": 65
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 74,
         "end": 76
+      },
+      {
+        "text": "李克助",
+        "label": "PER",
+        "start": 76,
+        "end": 79
+      },
+      {
+        "text": "張茂樞",
+        "label": "PER",
+        "start": 87,
+        "end": 90
+      },
+      {
+        "text": "趙光胤",
+        "label": "PER",
+        "start": 113,
+        "end": 116
       },
       {
         "text": "魏國",
@@ -2707,10 +2965,10 @@
         "end": 845
       },
       {
-        "text": "汴州",
-        "label": "LOC",
-        "start": 859,
-        "end": 861
+        "text": "張廷範",
+        "label": "PER",
+        "start": 1009,
+        "end": 1012
       },
       {
         "text": "唐",
@@ -2741,6 +2999,18 @@
         "label": "TITLE",
         "start": 1329,
         "end": 1331
+      },
+      {
+        "text": "張茂樞",
+        "label": "PER",
+        "start": 1359,
+        "end": 1362
+      },
+      {
+        "text": "張廷範",
+        "label": "PER",
+        "start": 1377,
+        "end": 1380
       },
       {
         "text": "廷範可責授萊州",
@@ -2783,6 +3053,18 @@
         "label": "TITLE",
         "start": 1577,
         "end": 1579
+      },
+      {
+        "text": "張廷範",
+        "label": "PER",
+        "start": 1598,
+        "end": 1601
+      },
+      {
+        "text": "張茂樞",
+        "label": "PER",
+        "start": 1681,
+        "end": 1684
       },
       {
         "text": "御史",
@@ -2885,6 +3167,12 @@
         "label": "LOC",
         "start": 100,
         "end": 104
+      },
+      {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 139,
+        "end": 142
       }
     ]
   },
@@ -2913,14 +3201,7 @@
   {
     "sentence_id": "HCH_008_020c_000176",
     "sentence": "二月甲申朔，魏博節度使羅紹威宜許於本鎮置三代私廟。",
-    "entities": [
-      {
-        "text": "紹威宜許於本鎮",
-        "label": "LOC",
-        "start": 12,
-        "end": 19
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_020c_000177",
@@ -2988,6 +3269,12 @@
     "sentence": "戊申，魏博羅紹威奏：「臣當管博州聊城縣、武陽莘縣武水博平高堂等五縣，皆于黃河東岸，其鄉村百姓渡河輸稅不便，與天平軍管界接連，請割屬鄆。」從之。",
     "entities": [
       {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "臣當管博州聊城",
         "label": "LOC",
         "start": 11,
@@ -3048,6 +3335,12 @@
         "end": 32
       },
       {
+        "text": "馮行襲",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      },
+      {
         "text": "房二州",
         "label": "LOC",
         "start": 84,
@@ -3064,6 +3357,12 @@
         "label": "LOC",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "趙匡凝",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       },
       {
         "text": "權右唐州",
@@ -3088,6 +3387,12 @@
         "label": "LOC",
         "start": 10,
         "end": 17
+      },
+      {
+        "text": "王重師",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -3244,6 +3549,12 @@
     "sentence_id": "HCH_008_020c_000203",
     "sentence": "十二月己卯朔，淮南偽署宣歙觀察使、檢校司徒王茂章可金紫光祿大夫、檢校太保，從錢鏐奏也。",
     "entities": [
+      {
+        "text": "王茂章",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
       {
         "text": "大夫",
         "label": "TITLE",
@@ -3404,12 +3715,6 @@
     "sentence": "戊辰，李克用與幽州之眾同攻潞州，全忠守將丁會以澤、潞降太原，克用以其子嗣昭為留後。",
     "entities": [
       {
-        "text": "李克用與幽州",
-        "label": "LOC",
-        "start": 3,
-        "end": 9
-      },
-      {
         "text": "之眾同攻潞州",
         "label": "LOC",
         "start": 9,
@@ -3486,6 +3791,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "薛貽矩",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -3498,6 +3809,12 @@
     "sentence_id": "HCH_008_020c_000219",
     "sentence": "幸羅紹威殺牙軍，全獲魏博六州。",
     "entities": [
+      {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "全獲魏博六州",
         "label": "LOC",
@@ -3534,6 +3851,12 @@
         "end": 4
       },
       {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "必罄六州",
         "label": "LOC",
         "start": 31,
@@ -3544,7 +3867,14 @@
   {
     "sentence_id": "HCH_008_020c_000223",
     "sentence": "至大樑，會薛貽矩來，乃以臣禮見全忠。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛貽矩",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_020c_000224",
@@ -3571,6 +3901,12 @@
     "sentence": "三月戊寅朔，全忠令大將李思安率兵三萬，合魏博之眾，攻掠幽州。",
     "entities": [
       {
+        "text": "李思安",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "攻掠幽州",
         "label": "LOC",
         "start": 25,
@@ -3586,7 +3922,14 @@
   {
     "sentence_id": "HCH_008_020c_000230",
     "sentence": "庚寅，詔薛貽矩再使大樑，達傳位之旨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛貽矩",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_020c_000231",
@@ -3605,6 +3948,12 @@
         "end": 149
       },
       {
+        "text": "張文蔚",
+        "label": "PER",
+        "start": 263,
+        "end": 266
+      },
+      {
         "text": "梁朝",
         "label": "ORG",
         "start": 281,
@@ -3615,6 +3964,12 @@
         "label": "TITLE",
         "start": 334,
         "end": 336
+      },
+      {
+        "text": "張文蔚",
+        "label": "PER",
+        "start": 340,
+        "end": 343
       },
       {
         "text": "尚書",
@@ -3651,6 +4006,18 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "薛貽矩",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "趙光逢",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -3692,6 +4059,12 @@
         "end": 390
       },
       {
+        "text": "張文蔚",
+        "label": "PER",
+        "start": 399,
+        "end": 402
+      },
+      {
         "text": "皇帝",
         "label": "TITLE",
         "start": 405,
@@ -3714,6 +4087,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "氏叔琮",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },

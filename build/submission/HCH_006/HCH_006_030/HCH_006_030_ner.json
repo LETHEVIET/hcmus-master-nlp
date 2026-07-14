@@ -284,7 +284,14 @@
   {
     "sentence_id": "HCH_006_030_000045",
     "sentence": "孔安國者，孔子後也，悉得其書，以考二十九篇，得多十六篇。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孔安國",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_030_000046",
@@ -619,7 +626,14 @@
   {
     "sentence_id": "HCH_006_030_000105",
     "sentence": "公羊雜記八十三篇，公羊顏氏記十一篇，公羊董仲舒治獄十六篇，議奏三十九篇。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_030_000106",
@@ -800,6 +814,12 @@
         "label": "TITLE",
         "start": 31,
         "end": 33
+      },
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 33,
+        "end": 36
       }
     ]
   },
@@ -1140,7 +1160,20 @@
   {
     "sentence_id": "HCH_006_030_000184",
     "sentence": "董仲舒百二十三篇，兒寬九篇，公孫弘十篇，終軍八篇，吾丘壽王六篇，虞丘說一篇，莊助四篇，臣彭四篇，鉤盾冗從李步昌八篇。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_030_000185",
@@ -1702,6 +1735,12 @@
         "end": 23
       },
       {
+        "text": "朱買臣",
+        "label": "PER",
+        "start": 39,
+        "end": 42
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 55,
@@ -1712,6 +1751,12 @@
         "label": "TITLE",
         "start": 87,
         "end": 89
+      },
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 95,
+        "end": 98
       },
       {
         "text": "太守",

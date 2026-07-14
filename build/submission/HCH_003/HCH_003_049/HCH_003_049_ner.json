@@ -2,7 +2,26 @@
   {
     "sentence_id": "HCH_003_049_000001",
     "sentence": "朱瑞 叱列延慶 斛斯椿 賈顯度 樊子鵠 侯深 賀拔允 侯莫陳悅 念賢 梁覽 雷紹 毛遐 乙弗朗",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "賈顯度",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 27,
+        "end": 31
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000002",
@@ -12,7 +31,26 @@
   {
     "sentence_id": "HCH_003_049_000003",
     "sentence": "朱瑞叱列延慶斛斯椿子徵孫政賈顯度弟智樊子鵠侯深賀拔允弟勝勝弟岳侯莫陳悅念賢梁覽雷紹毛遐弟鴻賓乙弗朗",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "賈顯度",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 31,
+        "end": 35
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000004",
@@ -234,7 +272,14 @@
   {
     "sentence_id": "HCH_003_049_000022",
     "sentence": "都督斛斯椿先與瑞有隙，數譖之於世隆，世隆遂誅之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000023",
@@ -302,6 +347,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "劉靈助",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -376,12 +427,26 @@
   {
     "sentence_id": "HCH_003_049_000037",
     "sentence": "斛斯椿",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000038",
     "sentence": "斛斯椿，字法壽，廣牧富昌人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000039",
@@ -594,7 +659,14 @@
   {
     "sentence_id": "HCH_003_049_000061",
     "sentence": "及韓陵之敗，椿謂都督賈顯智等曰：「若不先執爾硃，我等死無類矣。」遂與顯智等夜于桑下盟約，倍道兼行。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賈顯智",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000062",
@@ -739,6 +811,12 @@
     "sentence_id": "HCH_003_049_000080",
     "sentence": "帝以賈顯智背叛，東師失律，將幸關中。",
     "entities": [
+      {
+        "text": "賈顯智",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "將幸關",
         "label": "LOC",
@@ -1390,6 +1468,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 14
+      },
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -1457,12 +1541,26 @@
   {
     "sentence_id": "HCH_003_049_000160",
     "sentence": "賈顯度",
-    "entities": []
+    "entities": [
+      {
+        "text": "賈顯度",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000161",
     "sentence": "賈顯度，中山無極人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賈顯度",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000162",
@@ -1548,7 +1646,14 @@
   {
     "sentence_id": "HCH_003_049_000169",
     "sentence": "後隨爾硃度律等敗于韓陵，與斛斯椿及弟智等先據河橋，誅爾硃氏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000170",
@@ -1696,6 +1801,12 @@
     "sentence_id": "HCH_003_049_000183",
     "sentence": "智與顯度、斛斯椿謀誅爾硃氏，顯度據守北中城，令智等入京，禽世隆兄弟。",
     "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "顯度據守北中城",
         "label": "LOC",
@@ -2483,7 +2594,14 @@
   {
     "sentence_id": "HCH_003_049_000251",
     "sentence": "進至中山，行台僕射魏蘭根邀擊之，為深所敗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏蘭根",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000252",
@@ -2663,7 +2781,14 @@
   {
     "sentence_id": "HCH_003_049_000264",
     "sentence": "而貴平自以斛斯椿黨，亦不受代。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000265",
@@ -2692,18 +2817,19 @@
   {
     "sentence_id": "HCH_003_049_000266",
     "sentence": "深自惟反覆，慮不獲安，遂斬貴平，傳首於鄴，明不同於斛斯椿。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000267",
     "sentence": "及子鵠平，詔以封延之為青州刺史。",
     "entities": [
-      {
-        "text": "以封延之為青州",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
-      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -3430,7 +3556,14 @@
   {
     "sentence_id": "HCH_003_049_000344",
     "sentence": "勝以臨敵構隙，取敗之道，乃與斛斯椿詣兆營和之，反為兆所執。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000345",
@@ -3639,6 +3772,12 @@
         "end": 8
       },
       {
+        "text": "毛鴻賓",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "勝乃還荊州",
         "label": "LOC",
         "start": 14,
@@ -3660,6 +3799,12 @@
         "label": "LOC",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "高敖曹",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -4075,6 +4220,12 @@
         "end": 37
       },
       {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 37,
+        "end": 41
+      },
+      {
         "text": "大都",
         "label": "LOC",
         "start": 44,
@@ -4264,6 +4415,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -4411,7 +4568,14 @@
   {
     "sentence_id": "HCH_003_049_000459",
     "sentence": "後以隴中猶有土人不順，岳助侯莫陳悅，所在討平之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 13,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000460",
@@ -4636,12 +4800,26 @@
   {
     "sentence_id": "HCH_003_049_000479",
     "sentence": "侯莫陳悅",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000480",
     "sentence": "侯莫陳悅，代人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000481",
@@ -4820,12 +4998,6 @@
     "sentence_id": "HCH_003_049_000497",
     "sentence": "周文帝時為夏州刺史，眾遣奉迎。",
     "entities": [
-      {
-        "text": "周文帝時為夏州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -5644,7 +5816,14 @@
   {
     "sentence_id": "HCH_003_049_000573",
     "sentence": "初，紹見岳數與侯莫陳悅宴語，嘗謂嶽曰：「公其慎之！」嶽不從，果及於難。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 7,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000574",
@@ -5703,6 +5882,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李叔仁",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },
@@ -5817,6 +6002,12 @@
     "sentence_id": "HCH_003_049_000589",
     "sentence": "正光中，蕭寶夤為大都督，討關中諸賊，咸陽太守韋遂時為都督，以遐為都督府長史。",
     "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "大都",
         "label": "LOC",
@@ -6414,7 +6605,14 @@
   {
     "sentence_id": "HCH_003_049_000652",
     "sentence": "與周閔帝謀宇文護，見殺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000653",
@@ -6424,7 +6622,14 @@
   {
     "sentence_id": "HCH_003_049_000654",
     "sentence": "斛斯椿屢踐危機，終獲貞吉，豈人謀之所致也？",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000655",
@@ -6471,7 +6676,14 @@
   {
     "sentence_id": "HCH_003_049_000657",
     "sentence": "賈顯智、樊子鵠、侯深等並驅馳風塵之際，但自陷夷戮。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賈顯智",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000658",
@@ -6544,7 +6756,14 @@
   {
     "sentence_id": "HCH_003_049_000669",
     "sentence": "侯莫陳悅肆行殘慝，死不旋踵，觀其亡滅，蓋自取之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_049_000670",

@@ -331,7 +331,14 @@
   {
     "sentence_id": "HCH_008_055_000035",
     "sentence": "會都水監宇文歆使於突厥，歆說莫賀咄設，止其出兵，故舉謀不行。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文歆",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_055_000036",
@@ -348,6 +355,12 @@
         "label": "LOC",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "張長遜",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -366,7 +379,14 @@
   {
     "sentence_id": "HCH_008_055_000038",
     "sentence": "未及與戰，會太宗不豫，行軍長史劉文靜、殷開山請觀兵於高墌西南，恃眾不設備，為舉兵掩乘其後。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_055_000039",
@@ -376,7 +396,20 @@
   {
     "sentence_id": "HCH_008_055_000040",
     "sentence": "未至，兩軍合戰，竟為舉所敗，死者十五六，大將慕容羅睺、李安遠、劉弘基皆陷於陣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李安遠",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
+        "text": "劉弘基",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_055_000041",
@@ -486,7 +519,14 @@
   {
     "sentence_id": "HCH_008_055_000055",
     "sentence": "自劉文靜為舉所敗後，高祖命太宗率諸軍以擊仁杲，師次高墌，而堅壁不動。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_055_000056",
@@ -593,6 +633,12 @@
         "label": "LOC",
         "start": 9,
         "end": 13
+      },
+      {
+        "text": "安修仁",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
@@ -696,6 +742,12 @@
         "label": "TITLE",
         "start": 22,
         "end": 24
+      },
+      {
+        "text": "安修仁",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -748,6 +800,12 @@
     "sentence_id": "HCH_008_055_000084",
     "sentence": "又令鴻臚少卿張侯德持節，冊拜為涼州總管，封涼王，給羽葆鼓吹一部。",
     "entities": [
+      {
+        "text": "張侯德",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "冊拜為涼州",
         "label": "LOC",
@@ -831,6 +889,12 @@
     "sentence_id": "HCH_008_055_000094",
     "sentence": "初，安修仁之兄興貴先在長安，表請詣涼州招慰軌。",
     "entities": [
+      {
+        "text": "安修仁",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "長安",
         "label": "LOC",
@@ -989,7 +1053,14 @@
   {
     "sentence_id": "HCH_008_055_000105",
     "sentence": "劉武周 〈 附 苑君璋 〉",
-    "entities": []
+    "entities": [
+      {
+        "text": "苑君璋",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_055_000106",
@@ -1092,6 +1163,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "張萬歲",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       },
       {
         "text": "斬仁恭於郡",
@@ -1228,6 +1305,12 @@
         "label": "LOC",
         "start": 11,
         "end": 15
+      },
+      {
+        "text": "苑君璋",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -1252,7 +1335,14 @@
   {
     "sentence_id": "HCH_008_055_000128",
     "sentence": "後刀兒為竇建德所滅，金剛救之，戰敗，率餘眾四千人奔武周。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_055_000129",
@@ -1308,7 +1398,14 @@
   {
     "sentence_id": "HCH_008_055_000134",
     "sentence": "高祖遣太常少卿李仲文率眾討之，為賊所執，一軍全沒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李仲文",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_055_000135",
@@ -1347,6 +1444,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 20
+      },
+      {
+        "text": "劉弘基",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -1379,6 +1482,12 @@
         "end": 2
       },
       {
+        "text": "呂崇茂",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "縣令",
         "label": "TITLE",
         "start": 7,
@@ -1389,7 +1498,14 @@
   {
     "sentence_id": "HCH_008_055_000141",
     "sentence": "河東賊帥王行本又密與金剛連和，關中大駭。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王行本",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_055_000142",
@@ -1413,6 +1529,12 @@
         "end": 19
       },
       {
+        "text": "獨孤懷恩",
+        "label": "PER",
+        "start": 19,
+        "end": 23
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 26,
@@ -1429,7 +1551,14 @@
   {
     "sentence_id": "HCH_008_055_000144",
     "sentence": "崇茂與賊將尉遲敬德襲破孝基營，諸軍並陷，四將俱沒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 5,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_055_000145",
@@ -1447,12 +1576,6 @@
     "sentence_id": "HCH_008_055_000146",
     "sentence": "敬德與賊將尋相又援王行本於蒲州，太宗復破之於蒲州。",
     "entities": [
-      {
-        "text": "援王行本於蒲州",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
-      },
       {
         "text": "宗復破之於蒲州",
         "label": "LOC",
@@ -1493,14 +1616,7 @@
   {
     "sentence_id": "HCH_008_055_000150",
     "sentence": "武周復攻李仲文於浩州，頻戰皆敗，又饋運不屬，賊眾大餒，於是金剛遂遁。",
-    "entities": [
-      {
-        "text": "攻李仲文於浩州",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_055_000151",
@@ -1535,6 +1651,18 @@
     "sentence_id": "HCH_008_055_000154",
     "sentence": "其驍將尉遲敬德、尋相、張萬歲收其精兵，舉介州及永安來降。",
     "entities": [
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      },
+      {
+        "text": "張萬歲",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "舉介州",
         "label": "LOC",
@@ -1599,6 +1727,12 @@
     "sentence": "初，武周引兵南侵，苑君璋說曰：「唐主舉一州之兵，定三輔之地，郡縣影附，所向風靡，此固天命，豈曰人謀？且并州已南，地形險阻，若懸軍深入，恐後無所繼，不如連和突厥，結援唐朝，南面稱孤，足為上策。」武周不聽，遣君璋守朔州，遂侵汾、晉。",
     "entities": [
       {
+        "text": "苑君璋",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "唐主舉一州",
         "label": "LOC",
         "start": 16,
@@ -1644,7 +1778,14 @@
   {
     "sentence_id": "HCH_008_055_000164",
     "sentence": "高祖遣諭之，君璋部將高滿政謂君璋曰：「夷狄無禮，本非人類，豈可北面事之？不如盡殺突厥以歸唐朝。」君璋不從，滿政因人心夜逼君璋，君璋亡奔突厥。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高滿政",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_055_000165",
@@ -1713,12 +1854,25 @@
   {
     "sentence_id": "HCH_008_055_000171",
     "sentence": "高開道",
-    "entities": []
+    "entities": [
+      {
+        "text": "高開道",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_055_000172",
     "sentence": "高開道，滄州陽信人也。",
     "entities": [
+      {
+        "text": "高開道",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "滄州",
         "label": "LOC",
@@ -1882,6 +2036,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -1990,7 +2150,14 @@
   {
     "sentence_id": "HCH_008_055_000196",
     "sentence": "先是，劉黑闥亡將張君立奔於開道，因與其將張金樹潛相結連。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張金樹",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_055_000197",
@@ -2096,7 +2263,14 @@
   {
     "sentence_id": "HCH_008_055_000213",
     "sentence": "與竇建德少相友善，家貧，無以自給，建德每資之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_055_000214",
@@ -2272,6 +2446,18 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "秦武通",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "王行敏",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -2284,6 +2470,12 @@
     "sentence_id": "HCH_008_055_000231",
     "sentence": "黑闥北連懷戎賊帥高開道，兵鋒甚銳，進至宗城，有眾數萬。",
     "entities": [
+      {
+        "text": "高開道",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "進至宗城",
         "label": "LOC",
@@ -2358,6 +2550,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "徐圓朗",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2443,12 +2641,6 @@
         "end": 4
       },
       {
-        "text": "總管羅士信入城",
-        "label": "LOC",
-        "start": 13,
-        "end": 20
-      },
-      {
         "text": "黑闥又攻陷其城",
         "label": "LOC",
         "start": 23,
@@ -2492,7 +2684,14 @@
   {
     "sentence_id": "HCH_008_055_000249",
     "sentence": "太宗遂引軍於河南以討徐圓朗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐圓朗",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_055_000250",
@@ -2514,7 +2713,14 @@
   {
     "sentence_id": "HCH_008_055_000252",
     "sentence": "高祖遣淮陽王道玄、原國公史萬寶討之，戰於下博，王師敗績，道玄死於陣，萬寶輕騎逃還。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史萬寶",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_055_000253",
@@ -2572,7 +2778,14 @@
   {
     "sentence_id": "HCH_008_055_000257",
     "sentence": "建成與元吉合千餘騎屯於永濟渠，縱騎擊之，黑闥敗走，命騎將劉弘基追之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉弘基",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_055_000258",
@@ -2636,12 +2849,25 @@
   {
     "sentence_id": "HCH_008_055_000262",
     "sentence": "徐圓朗",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐圓朗",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_055_000263",
     "sentence": "徐圓朗者，兗州人也。",
     "entities": [
+      {
+        "text": "徐圓朗",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "兗州",
         "label": "LOC",
@@ -2701,6 +2927,12 @@
     "sentence_id": "HCH_008_055_000267",
     "sentence": "高祖令葛國公盛彥師安輯河南，行至任城。",
     "entities": [
+      {
+        "text": "盛彥師",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "行至任城",
         "label": "LOC",
@@ -2790,7 +3022,14 @@
   {
     "sentence_id": "HCH_008_055_000278",
     "sentence": "苑君璋及總餘眾，別生異圖，見頡利歸朝，亦是見機者也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "苑君璋",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_055_000279",

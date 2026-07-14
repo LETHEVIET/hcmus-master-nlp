@@ -2,17 +2,49 @@
   {
     "sentence_id": "HCH_008_084_000001",
     "sentence": "劉仁軌　郝處俊　裴行儉（子光庭）",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉仁軌",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "郝處俊",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "裴行儉",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_084_000002",
     "sentence": "劉仁軌",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉仁軌",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_084_000003",
     "sentence": "劉仁軌，汴州尉氏人也。",
     "entities": [
+      {
+        "text": "劉仁軌",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "汴州",
         "label": "LOC",
@@ -198,6 +230,12 @@
     "sentence": "時蘇定方既平百濟，留郎將劉仁願於百濟府城鎮守，又以左衛中郎將王文度為熊津都督，安撫其餘眾。",
     "entities": [
       {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "仁願於百濟府城",
         "label": "LOC",
         "start": 13,
@@ -276,7 +314,14 @@
   {
     "sentence_id": "HCH_008_084_000033",
     "sentence": "時蘇定方奉詔伐高麗，進圍平壤，不克而還。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_084_000034",
@@ -567,7 +612,20 @@
   {
     "sentence_id": "HCH_008_084_000069",
     "sentence": "先是，百濟首領沙吒相如、黑齒常之自蘇定方軍回後，鳩集亡散，各據險以應福信，至是率其眾降。",
-    "entities": []
+    "entities": [
+      {
+        "text": "黑齒常之",
+        "label": "PER",
+        "start": 12,
+        "end": 16
+      },
+      {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_084_000070",
@@ -663,7 +721,14 @@
   {
     "sentence_id": "HCH_008_084_000084",
     "sentence": "”對曰：“劉仁軌之詞，非臣所及也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉仁軌",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_084_000085",
@@ -1268,7 +1333,14 @@
   {
     "sentence_id": "HCH_008_084_000152",
     "sentence": "仁軌每有奏請，多被中書令李敬玄抑之，由是與敬玄不協。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李敬玄",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_084_000153",
@@ -1489,7 +1561,14 @@
   {
     "sentence_id": "HCH_008_084_000175",
     "sentence": "初為陳倉尉，相工袁天綱謂曰：“君終當位鄰台輔，年將九十。",
-    "entities": []
+    "entities": [
+      {
+        "text": "袁天綱",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_084_000176",
@@ -1558,12 +1637,25 @@
   {
     "sentence_id": "HCH_008_084_000182",
     "sentence": "郝處俊",
-    "entities": []
+    "entities": [
+      {
+        "text": "郝處俊",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_084_000183",
     "sentence": "郝處俊，安州安陸人也。",
     "entities": [
+      {
+        "text": "郝處俊",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "安州",
         "label": "LOC",
@@ -1647,6 +1739,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "襲爵甑山縣",
@@ -1745,6 +1843,18 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "戴至德",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "張文瓘",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       },
       {
         "text": "太子",
@@ -2101,7 +2211,14 @@
   {
     "sentence_id": "HCH_008_084_000247",
     "sentence": "尋代閻立本為中書令。",
-    "entities": []
+    "entities": [
+      {
+        "text": "閻立本",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_084_000248",
@@ -2184,6 +2301,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "李義琰",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -2230,6 +2353,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "張文瓘",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2242,6 +2371,12 @@
     "sentence_id": "HCH_008_084_000263",
     "sentence": "侍中、平恩公許圉師，即處俊之舅，早同州裏，俱宦達於時。",
     "entities": [
+      {
+        "text": "許圉師",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "早同州",
         "label": "LOC",
@@ -2404,12 +2539,25 @@
   {
     "sentence_id": "HCH_008_084_000282",
     "sentence": "裴行儉",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴行儉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_084_000283",
     "sentence": "裴行儉，絳州聞喜人。",
     "entities": [
+      {
+        "text": "裴行儉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "絳州",
         "label": "LOC",
@@ -2493,6 +2641,12 @@
     "sentence": "時蘇定方為大將軍，甚奇之，盡以用兵奇術授行儉。",
     "entities": [
       {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 5,
@@ -2529,10 +2683,28 @@
         "end": 7
       },
       {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 31,
+        "end": 35
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 36,
         "end": 38
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 41,
+        "end": 44
+      },
+      {
+        "text": "袁公瑜",
+        "label": "PER",
+        "start": 51,
+        "end": 54
       },
       {
         "text": "由是左授西州",
@@ -2574,6 +2746,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "李敬玄",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -2627,7 +2805,20 @@
   {
     "sentence_id": "HCH_008_084_000299",
     "sentence": "行儉嚐謂人曰：“褚遂良非精筆佳墨，未嚐輒書，不擇筆墨而妍捷者，唯餘及虞世南耳。",
-    "entities": []
+    "entities": [
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "虞世南",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_084_000300",
@@ -2668,6 +2859,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "李遮匐",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -2875,17 +3072,42 @@
   {
     "sentence_id": "HCH_008_084_000331",
     "sentence": "單於都護蕭嗣業率兵討之，反為所敗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭嗣業",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_084_000332",
     "sentence": "於是以行儉為定襄道行軍大總管，率太仆少卿李思文、營州都督周道務等部兵十八萬，並西軍程務挺、東軍李文柬等總三十餘萬，連亙數千里，並受行儉節度。",
     "entities": [
       {
+        "text": "李思文",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "營州",
         "label": "LOC",
         "start": 24,
         "end": 26
+      },
+      {
+        "text": "周道務",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
+        "text": "程務挺",
+        "label": "PER",
+        "start": 41,
+        "end": 44
       }
     ]
   },
@@ -2903,6 +3125,12 @@
         "label": "LOC",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "蕭嗣業",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -3017,13 +3245,26 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "崔知悌",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
   {
     "sentence_id": "HCH_008_084_000355",
     "sentence": "侍中裴炎害行儉之功，總管程務挺、張虔勖上言：“伏念為子營逼逐，又磧北回紇等同向南逼之，窘急而降。",
-    "entities": []
+    "entities": [
+      {
+        "text": "程務挺",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_084_000356",
@@ -3162,10 +3403,28 @@
     "sentence": "時有後進楊炯、王勃、盧照鄰、駱賓王並以文章見稱，吏部侍郎李敬玄盛為延譽，引以示行儉，行儉曰：“才名有之，爵祿蓋寡。",
     "entities": [
       {
+        "text": "盧照鄰",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "駱賓王",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "李敬玄",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -3177,7 +3436,14 @@
   {
     "sentence_id": "HCH_008_084_000371",
     "sentence": "”是時，蘇味道、王劇未知名，因調選，行儉一見，深禮異之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇味道",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_084_000372",
@@ -3203,6 +3469,36 @@
     "sentence_id": "HCH_008_084_000376",
     "sentence": "行儉嚐所引偏裨，有程務挺、張虔勖、崔智辯、王方翼、黨金毗、劉敬同、郭待封、李多祚、黑齒常之，盡為名將，至刺史、將軍者數十人。",
     "entities": [
+      {
+        "text": "程務挺",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "崔智辯",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "王方翼",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "李多祚",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      },
+      {
+        "text": "黑齒常之",
+        "label": "PER",
+        "start": 41,
+        "end": 45
+      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -3316,6 +3612,12 @@
     "sentence_id": "HCH_008_084_000392",
     "sentence": "後以武三思之婿緣坐，左遷郢州司馬。",
     "entities": [
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "左遷郢州",
         "label": "LOC",
@@ -3637,7 +3939,14 @@
   {
     "sentence_id": "HCH_008_084_000430",
     "sentence": "上聞而特下詔，賜諡曰忠獻，仍令中書令張九齡為其碑文。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張九齡",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_084_000431",
@@ -3664,7 +3973,14 @@
   {
     "sentence_id": "HCH_008_084_000434",
     "sentence": "裴光庭以守法之吏，驟登相位，踐曆機衡，豈不多愧？",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴光庭",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_084_000435",

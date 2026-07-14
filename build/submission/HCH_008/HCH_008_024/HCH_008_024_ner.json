@@ -658,6 +658,12 @@
     "sentence": "於是秘書郎岑文本獻《藉田頌》以美之。",
     "entities": [
       {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "《藉田頌》",
         "label": "TITLE",
         "start": 9,
@@ -669,6 +675,12 @@
     "sentence_id": "HCH_008_024_000078",
     "sentence": "初，議藉田方面所在，給事中孔穎達曰：「禮，天子藉田于南郊，諸侯于東郊。晉武帝猶于東南。今於城東置壇，不合古禮。」太宗曰：「禮緣人情，亦何常之有。且《虞書》雲'平秩東作'，則是堯、舜敬授人時，已在東矣。又乘青輅、推黛耜者，所以順於春氣，故知合在東方。且朕見居少陽之地，田于東郊，蓋其宜矣」於是遂定。",
     "entities": [
+      {
+        "text": "孔穎達",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
       {
         "text": "晉",
         "label": "ORG",
@@ -714,6 +726,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "祝欽明",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       },
       {
         "text": "《禮記·祭法》",
@@ -766,6 +784,12 @@
         "label": "TME",
         "start": 2,
         "end": 8
+      },
+      {
+        "text": "王仲丘",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -984,6 +1008,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       },
       {
         "text": "《禮記·祭法》",
@@ -1246,6 +1276,12 @@
     "sentence": "祭酒孔穎達講《孝經》，太宗問穎達曰：「夫子門人，曾、閔俱稱大孝，而今獨為曾說，不為閔說，何耶？」對曰：「曾孝而全，獨為曾能達也。」制旨駁之曰：「朕聞《家語》云：曾皙使曾參鋤瓜，而誤斷其本，皙怒，援大杖以擊其背，手僕地，絕而復蘇。孔子聞之，告門人曰：'參來勿內。'既而曾子請焉，孔子曰：'舜之事父母也，使之，常在側；欲殺之，乃不得。小棰則受，大杖則走。今參于父，委身以待暴怒，陷父于不義，不孝莫大焉。'由斯而言，孰愈于閔子騫也？」穎達不能對。",
     "entities": [
       {
+        "text": "孔穎達",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "《孝經》",
         "label": "TITLE",
         "start": 6,
@@ -1480,6 +1516,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       },
       {
         "text": "《禮記》",
@@ -2032,6 +2074,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "裴耀卿",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -2327,7 +2375,20 @@
   {
     "sentence_id": "HCH_008_024_000249",
     "sentence": "及二月朔上丁釋奠，蕭昕又奏：諸宰相元載、杜鴻漸、李抱玉及常參官、六軍軍將就國子學聽講論，賜錢五百貫。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜鴻漸",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
+        "text": "李抱玉",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_024_000250",
@@ -2359,6 +2420,12 @@
     "sentence": "軍容使魚朝恩說《易》，又於論堂畫《周易》鏡圖。",
     "entities": [
       {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "《易》",
         "label": "TITLE",
         "start": 7,
@@ -2380,7 +2447,14 @@
   {
     "sentence_id": "HCH_008_024_000257",
     "sentence": "其時軍容使魚朝恩知監事，廟庭乃具宮懸之樂於講堂前，又有教坊樂府雜會，竟日而罷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_024_000258",
@@ -2397,6 +2471,12 @@
         "label": "LOC",
         "start": 129,
         "end": 132
+      },
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 135,
+        "end": 138
       },
       {
         "text": "《易》",
@@ -2507,6 +2587,12 @@
         "label": "LOC",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "唐同泰",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -2665,6 +2751,12 @@
         "end": 28
       },
       {
+        "text": "盧履冰",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      },
+      {
         "text": "皇后",
         "label": "TITLE",
         "start": 42,
@@ -2675,6 +2767,12 @@
         "label": "TME",
         "start": 56,
         "end": 58
+      },
+      {
+        "text": "唐同泰",
+        "label": "PER",
+        "start": 58,
+        "end": 61
       },
       {
         "text": "仍置永昌縣",
@@ -3119,12 +3217,32 @@
   {
     "sentence_id": "HCH_008_024_000324",
     "sentence": "又于像設東刻白石為李林甫、陳希烈之形。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "陳希烈",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_024_000325",
     "sentence": "及林甫犯事，又刻石為楊國忠之形，而瘞林甫之石。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_024_000326",
@@ -3252,6 +3370,12 @@
     "sentence_id": "HCH_008_024_000336",
     "sentence": "乃遣王鉷、張均、王倕、韋濟、王翼、王岳靈於洞中得玉石函《上清護國經》、寶券、紀籙等，獻之。",
     "entities": [
+      {
+        "text": "王岳靈",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
       {
         "text": "《上清護國經》",
         "label": "TITLE",
@@ -3429,6 +3553,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "舒元輿",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       },
       {
         "text": "皇帝",
@@ -3884,10 +4014,28 @@
         "end": 18
       },
       {
+        "text": "班景倩",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      },
+      {
+        "text": "李成裕",
+        "label": "PER",
+        "start": 61,
+        "end": 64
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 97,
         "end": 99
+      },
+      {
+        "text": "豆盧回",
+        "label": "PER",
+        "start": 115,
+        "end": 118
       },
       {
         "text": "太子",
@@ -3908,6 +4056,12 @@
         "end": 145
       },
       {
+        "text": "趙居貞",
+        "label": "PER",
+        "start": 145,
+        "end": 148
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 187,
@@ -3918,6 +4072,12 @@
         "label": "TITLE",
         "start": 200,
         "end": 202
+      },
+      {
+        "text": "張九章",
+        "label": "PER",
+        "start": 218,
+        "end": 221
       },
       {
         "text": "太子",

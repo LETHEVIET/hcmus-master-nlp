@@ -105,7 +105,14 @@
   {
     "sentence_id": "HCH_007_107_000010",
     "sentence": "會王守恩以上黨求附，契丹主命大將耿崇美率眾登太行，欲取上黨，高祖命宏肇以軍應援。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王守恩",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_107_000011",
@@ -160,7 +167,14 @@
   {
     "sentence_id": "HCH_007_107_000017",
     "sentence": "高祖大漸，與樞密使楊邠、周太祖、蘇逢吉等同受顧命。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_107_000018",
@@ -330,13 +344,26 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
   {
     "sentence_id": "HCH_007_107_000044",
     "sentence": "翌日，因竇貞固飲會，貴臣悉集，宏肇厲色舉爵屬周太祖曰：「昨晨廷論，一何同異！今日與弟飲此。」楊邠、蘇逢吉亦舉大爵曰：「此國家之事也，何足介意！」俱飲釂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 49,
+        "end": 52
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_107_000045",
@@ -356,7 +383,14 @@
   {
     "sentence_id": "HCH_007_107_000048",
     "sentence": "蘇逢吉戲宏肇曰：「近坐有姓閻人，何憂罰爵！」宏肇妻閻氏，本酒妓也，宏肇謂逢吉譏之，大怒，以醜語詬逢吉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_107_000049",
@@ -483,7 +517,14 @@
   {
     "sentence_id": "HCH_007_107_000068",
     "sentence": "貢院嘗錄一學科於省門叫噪，申中書門下，宰相蘇逢吉令送侍衞司，請痛笞刺面。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_107_000069",
@@ -618,7 +659,14 @@
   {
     "sentence_id": "HCH_007_107_000083",
     "sentence": "及高祖大漸，與蘇逢吉、史宏肇等同受顧命，輔立嗣君。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_107_000084",
@@ -758,7 +806,20 @@
   {
     "sentence_id": "HCH_007_107_000103",
     "sentence": "章之妻即白文珂之女也，文珂與副招討李敬周善，以章爲托。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白文珂",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "李敬周",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_107_000104",
@@ -785,7 +846,14 @@
   {
     "sentence_id": "HCH_007_107_000107",
     "sentence": "國初，授三司使、檢校太傅，從征杜重威於鄴下。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_107_000108",
@@ -892,7 +960,14 @@
   {
     "sentence_id": "HCH_007_107_000123",
     "sentence": "常輕視文臣，曰：「此等若與一把算子，未知顛倒，何益於事！」後因私第開宴席，召賓客，史宏肇、蘇逢吉乘醉喧詬而罷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 45,
+        "end": 48
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_107_000124",
@@ -1077,7 +1152,20 @@
   {
     "sentence_id": "HCH_007_107_000153",
     "sentence": "未幾，關西亂，郭從義討趙思綰於京兆，晉卿偏師以攻賊壘。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭從義",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "趙思綰",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_107_000154",
@@ -1090,6 +1178,12 @@
         "end": 11
       },
       {
+        "text": "白文珂",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "兵傅其城",
         "label": "LOC",
         "start": 27,
@@ -1100,6 +1194,12 @@
         "label": "LOC",
         "start": 42,
         "end": 45
+      },
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 53,
+        "end": 56
       },
       {
         "text": "遇韜於月城",
@@ -1293,6 +1393,12 @@
         "label": "LOC",
         "start": 5,
         "end": 10
+      },
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 11,
+        "end": 15
       }
     ]
   },
@@ -1366,6 +1472,12 @@
         "label": "LOC",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "高保融",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },

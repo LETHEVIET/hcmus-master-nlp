@@ -452,7 +452,14 @@
   {
     "sentence_id": "HCH_008_051_000053",
     "sentence": "隋大業中，常歸寧於永興里，后舅高士廉媵張氏，於后所宿舍外見大馬，高二丈，鞍勒皆具，以告士廉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_051_000054",
@@ -706,6 +713,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 151,
+        "end": 154
       }
     ]
   },
@@ -1005,12 +1018,31 @@
   {
     "sentence_id": "HCH_008_051_000105",
     "sentence": "事發，帝大怒，斷柳氏不許入宮中，后舅中書令柳奭罷知政事，並將廢后，長孫無忌、褚遂良等固諫，乃止。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 33,
+        "end": 37
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 38,
+        "end": 41
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_051_000106",
     "sentence": "俄又納李義府之策，永徽六年十月，廢后及蕭良娣皆為庶人，囚之別院。",
     "entities": [
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "六年",
         "label": "TME",
@@ -1400,6 +1432,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       }
     ]
   },
@@ -1417,6 +1455,12 @@
     "sentence_id": "HCH_008_051_000144",
     "sentence": "時侍中敬暉謀去諸武，武三思患之，乃結上官氏以為援，因得幸於后，潛入宮中謀議，乃諷百官上帝尊號為應天皇帝，后為順天皇后。",
     "entities": [
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "皇帝",
         "label": "TITLE",
@@ -1439,7 +1483,14 @@
   {
     "sentence_id": "HCH_008_051_000146",
     "sentence": "於是三思驕橫用事，敬暉、王同皎相次夷滅，天下咸歸咎於后。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王同皎",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_051_000147",
@@ -1548,6 +1599,12 @@
         "end": 9
       },
       {
+        "text": "宗楚客",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "皇后",
         "label": "TITLE",
         "start": 29,
@@ -1606,6 +1663,12 @@
         "end": 4
       },
       {
+        "text": "宗楚客",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "《桑條》",
         "label": "TITLE",
         "start": 20,
@@ -1646,6 +1709,18 @@
         "end": 2
       },
       {
+        "text": "祝欽明",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "郭山惲",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "皇后",
         "label": "TITLE",
         "start": 29,
@@ -1656,6 +1731,12 @@
         "label": "TITLE",
         "start": 39,
         "end": 41
+      },
+      {
+        "text": "蔣欽緒",
+        "label": "PER",
+        "start": 44,
+        "end": 47
       }
     ]
   },
@@ -1668,6 +1749,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "韋巨源",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1724,6 +1811,30 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "武延秀",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "紀處訥",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "宗楚客",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "趙履溫",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -1772,10 +1883,22 @@
         "end": 31
       },
       {
+        "text": "趙承恩",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 41,
         "end": 44
+      },
+      {
+        "text": "薛崇簡",
+        "label": "PER",
+        "start": 44,
+        "end": 47
       },
       {
         "text": "兵五百人往筠州",
@@ -1817,7 +1940,14 @@
   {
     "sentence_id": "HCH_008_051_000181",
     "sentence": "韋溫總知內外兵馬，守援宮掖；駙馬韋捷、韋濯分掌左右屯營；武延秀及溫從子播、族弟璿、外甥高崇，共典左右羽林軍及飛騎、萬騎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武延秀",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_051_000182",
@@ -1840,6 +1970,18 @@
     "sentence_id": "HCH_008_051_000184",
     "sentence": "臨淄王率薛崇簡、鐘紹京、劉幽求領萬騎及總監，丁未，入自玄武門，至左羽林軍，斬將軍韋璿、韋播及中郎將高崇於寢帳。",
     "entities": [
+      {
+        "text": "薛崇簡",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "劉幽求",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
       {
         "text": "將軍",
         "label": "TITLE",
@@ -1871,6 +2013,12 @@
     "sentence": "后惶駭遁入殿前飛騎營，及武延秀、安樂公主皆為亂兵所殺。",
     "entities": [
       {
+        "text": "武延秀",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "公主",
         "label": "TITLE",
         "start": 18,
@@ -1881,7 +2029,26 @@
   {
     "sentence_id": "HCH_008_051_000187",
     "sentence": "分遣萬騎誅其黨與韋溫、溫從子捷，及族弟嬰；宗楚客、弟晉卿，紀處訥，馬秦客，葉靜能，楊均，趙履溫，衛尉卿王哲，太常卿李【王曳】，將作少匠李守質及韋氏武氏宗族，無少長皆斬之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宗楚客",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "紀處訥",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "趙履溫",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_051_000188",
@@ -1964,7 +2131,14 @@
   {
     "sentence_id": "HCH_008_051_000198",
     "sentence": "婉兒既與武三思淫亂，每下制敕，多因事推尊武后而排抑皇家。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_051_000199",
@@ -2776,7 +2950,14 @@
   {
     "sentence_id": "HCH_008_051_000278",
     "sentence": "高力士探知上旨，請送貴妃院供帳、器玩、廩餼等辦具百餘車，上又分御饌以送之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高力士",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_051_000279",
@@ -2843,7 +3024,14 @@
   {
     "sentence_id": "HCH_008_051_000290",
     "sentence": "玄宗凡有遊幸，貴妃無不隨侍，乘馬則高力士執轡授鞭。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高力士",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_051_000291",
@@ -2988,7 +3176,14 @@
   {
     "sentence_id": "HCH_008_051_000307",
     "sentence": "天寶中，范陽節度使安祿山大立邊功，上深寵之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_051_000308",
@@ -3101,6 +3296,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "薛景仙",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },

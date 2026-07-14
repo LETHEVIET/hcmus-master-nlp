@@ -944,12 +944,26 @@
   {
     "sentence_id": "HCH_007_015_000094",
     "sentence": "三月，克用遣其將李存孝率師三萬助之，來攻懷、孟。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李存孝",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_015_000095",
     "sentence": "城中食盡，備豫皆竭，張言遣其孥入質，且求救於太祖；太祖遣葛從周、牛存節赴之，逆戰於流河店。",
-    "entities": []
+    "entities": [
+      {
+        "text": "牛存節",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_015_000096",

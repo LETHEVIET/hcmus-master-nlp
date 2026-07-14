@@ -2,12 +2,26 @@
   {
     "sentence_id": "HCH_006_084_000001",
     "sentence": "翟方進",
-    "entities": []
+    "entities": [
+      {
+        "text": "翟方進",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_084_000002",
     "sentence": "翟方進字子威，汝南上蔡人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "翟方進",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_084_000003",
@@ -329,6 +343,12 @@
     "sentence": "方進陰察之，勳私過光祿勳辛慶忌，又出逢帝舅成都侯商道路，下車立，鹭過，乃就車。",
     "entities": [
       {
+        "text": "辛慶忌",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "成都",
         "label": "LOC",
         "start": 21,
@@ -590,6 +610,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "馮野王",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       },
       {
         "text": "大將軍",

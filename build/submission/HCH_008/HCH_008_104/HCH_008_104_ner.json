@@ -2,12 +2,26 @@
   {
     "sentence_id": "HCH_008_104_000001",
     "sentence": "高仙芝",
-    "entities": []
+    "entities": [
+      {
+        "text": "高仙芝",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000002",
     "sentence": "高仙芝，本高麗人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高仙芝",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000003",
@@ -59,7 +73,20 @@
   {
     "sentence_id": "HCH_008_104_000007",
     "sentence": "事節度使田仁琬、蓋嘉運，未甚任用，後夫蒙靈察累拔擢之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田仁琬",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "蓋嘉運",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000008",
@@ -94,7 +121,20 @@
   {
     "sentence_id": "HCH_008_104_000010",
     "sentence": "後節度使田仁琬、蓋嘉運並靈察累討之，不捷，玄宗特敕仙芝以馬步萬人為行營節度使往討之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田仁琬",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "蓋嘉運",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000011",
@@ -365,6 +405,12 @@
         "end": 2
       },
       {
+        "text": "程千里",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 11,
@@ -376,6 +422,12 @@
     "sentence_id": "HCH_008_104_000043",
     "sentence": "仙芝既領節度事，謂程千里曰：「公面似男兒，心如婦人，何也？」又謂思琛曰：「此胡敢來！我城東一千石種子莊被汝將去，憶之乎？」對曰：「此是中丞知思琛辛苦見乞。」仙芝曰：「吾此時懼汝作威福，豈是憐汝與之！我欲不言，恐汝懷憂，言了無事矣。」又呼王滔等至，捽下將笞，良久皆釋之，由是軍情不懼。",
     "entities": [
+      {
+        "text": "程千里",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
       {
         "text": "我城",
         "label": "LOC",
@@ -420,6 +472,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "安思順",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -432,6 +490,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "裴周南",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       },
       {
         "text": "大將軍",
@@ -456,7 +520,14 @@
   {
     "sentence_id": "HCH_008_104_000051",
     "sentence": "十一月，安祿山據范陽叛。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000052",
@@ -472,12 +543,6 @@
         "label": "LOC",
         "start": 24,
         "end": 28
-      },
-      {
-        "text": "繼封常清出潼關",
-        "label": "LOC",
-        "start": 33,
-        "end": 40
       },
       {
         "text": "御史",
@@ -514,7 +579,14 @@
   {
     "sentence_id": "HCH_008_104_000055",
     "sentence": "是月十一日，封常清兵敗於汜水。",
-    "entities": []
+    "entities": [
+      {
+        "text": "封常清",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000056",
@@ -572,12 +644,25 @@
   {
     "sentence_id": "HCH_008_104_000060",
     "sentence": "封常清",
-    "entities": []
+    "entities": [
+      {
+        "text": "封常清",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000061",
     "sentence": "封常清，蒲州猗氏人也。",
     "entities": [
+      {
+        "text": "封常清",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "蒲州",
         "label": "LOC",
@@ -619,6 +704,12 @@
         "label": "TITLE",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "高仙芝",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -696,7 +787,20 @@
   {
     "sentence_id": "HCH_008_104_000074",
     "sentence": "判官劉眺、獨孤峻等逆問之曰：「前者捷書，誰之所作？副大使幕下何得有如此人」仙芝曰：「即仙芝傔人封常清也。」眺等揖仙芝，命常清進坐，與語如舊相識，眾人方異之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤峻",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "封常清",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000075",
@@ -812,6 +916,12 @@
     "sentence": "王正見為安西節度，奏常清為四鎮支度營田副使、行軍司馬。",
     "entities": [
       {
+        "text": "王正見",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "奏常清為四鎮",
         "label": "LOC",
         "start": 9,
@@ -871,6 +981,12 @@
     "sentence_id": "HCH_008_104_000093",
     "sentence": "俄而北庭都護程千里入為右金吾大將軍，仍令常清權知北庭都護，持節充伊西節度等使。",
     "entities": [
+      {
+        "text": "程千里",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -960,6 +1076,12 @@
         "label": "LOC",
         "start": 4,
         "end": 9
+      },
+      {
+        "text": "高仙芝",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1050,10 +1172,22 @@
     "sentence": "中使駱奉仙至，奉宣口敕，恕臣萬死之罪，收臣一朝之效，令臣卻赴陜州，隨高仙芝行營，。",
     "entities": [
       {
+        "text": "駱奉仙",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "令臣卻赴陜州",
         "label": "LOC",
         "start": 26,
         "end": 32
+      },
+      {
+        "text": "高仙芝",
+        "label": "PER",
+        "start": 34,
+        "end": 37
       }
     ]
   },
@@ -1221,12 +1355,26 @@
   {
     "sentence_id": "HCH_008_104_000144",
     "sentence": "哥舒翰",
-    "entities": []
+    "entities": [
+      {
+        "text": "哥舒翰",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000145",
     "sentence": "哥舒翰，突騎施首領哥舒部落之裔也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "哥舒翰",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000146",
@@ -1281,7 +1429,14 @@
   {
     "sentence_id": "HCH_008_104_000152",
     "sentence": "後節度使王忠嗣補為衙將。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王忠嗣",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000153",
@@ -1349,7 +1504,14 @@
   {
     "sentence_id": "HCH_008_104_000159",
     "sentence": "至是，翰使王難得、楊景暉等潛引兵至積石軍，設伏以待之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王難得",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000160",
@@ -1381,7 +1543,14 @@
   {
     "sentence_id": "HCH_008_104_000164",
     "sentence": "其冬，玄宗在華清宮，王忠嗣被劾。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王忠嗣",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000165",
@@ -1464,7 +1633,20 @@
   {
     "sentence_id": "HCH_008_104_000170",
     "sentence": "翰使麾下將高秀巖、張守瑜進攻，不旬日而拔之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高秀巖",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "張守瑜",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000171",
@@ -1499,10 +1681,22 @@
     "sentence": "其冬，祿山、思順、翰並來朝，上使內侍高力士及中貴人於京城東駙馬崔惠童池亭宴會。",
     "entities": [
       {
+        "text": "高力士",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "及中貴人於京城",
         "label": "LOC",
         "start": 21,
         "end": 28
+      },
+      {
+        "text": "崔惠童",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -1514,7 +1708,14 @@
   {
     "sentence_id": "HCH_008_104_000176",
     "sentence": "祿山以思順惡翰，嘗銜之，至是忽謂翰曰：「我父是胡，母是突厥；公父是突厥，母是胡。與公族類同，何不相親乎？」翰應之曰：「古人雲，野狐向窟嗥，不祥，以其忘本也。敢不盡心焉！」祿山以為譏其胡也，大怒，罵翰曰：「突厥敢如此耶！」翰欲應之，高力士目翰，翰遂止。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高力士",
+        "label": "PER",
+        "start": 115,
+        "end": 118
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000177",
@@ -1531,7 +1732,14 @@
   {
     "sentence_id": "HCH_008_104_000178",
     "sentence": "時楊國忠有隙於祿山，頻奏其反狀，故厚賞翰以親結之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000179",
@@ -1577,6 +1785,24 @@
     "sentence": "及安祿山反，上以封常清、高仙芝喪敗，召翰入，拜為皇太子先鋒兵馬元帥，以田良丘為御史中丞，充行軍司馬，以王思禮、鉗耳大福、李承光、蘇法鼎、管崇嗣及蕃將火拔歸仁、李武定、渾萼、契苾寧等為裨將，河隴、朔方兵及蕃兵與高仙芝舊卒共二十萬，拒賊於潼關。",
     "entities": [
       {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "封常清",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "高仙芝",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 25,
@@ -1593,6 +1819,36 @@
         "label": "TITLE",
         "start": 47,
         "end": 49
+      },
+      {
+        "text": "王思禮",
+        "label": "PER",
+        "start": 51,
+        "end": 54
+      },
+      {
+        "text": "李承光",
+        "label": "PER",
+        "start": 60,
+        "end": 63
+      },
+      {
+        "text": "管崇嗣",
+        "label": "PER",
+        "start": 68,
+        "end": 71
+      },
+      {
+        "text": "李武定",
+        "label": "PER",
+        "start": 79,
+        "end": 82
+      },
+      {
+        "text": "高仙芝",
+        "label": "PER",
+        "start": 104,
+        "end": 107
       },
       {
         "text": "拒賊於潼關",
@@ -1628,6 +1884,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       },
       {
         "text": "若留兵三萬守關",
@@ -1697,7 +1959,20 @@
   {
     "sentence_id": "HCH_008_104_000193",
     "sentence": "其將王思禮、李承光又爭長不葉，人無鬥志。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王思禮",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "李承光",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000194",
@@ -1707,14 +1982,7 @@
   {
     "sentence_id": "HCH_008_104_000195",
     "sentence": "賊將崔乾祐於陜郡潛鋒蓄銳，而覘者奏雲「賊殊無備」，上然之，命悉眾速討之。",
-    "entities": [
-      {
-        "text": "將崔乾祐於陜郡",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_104_000196",
@@ -1725,6 +1993,12 @@
         "label": "LOC",
         "start": 60,
         "end": 64
+      },
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 77,
+        "end": 80
       }
     ]
   },
@@ -1760,7 +2034,14 @@
   {
     "sentence_id": "HCH_008_104_000200",
     "sentence": "八日，與賊交戰，官軍南迫險峭，北臨黃河；崔乾祐以數千人先據險要。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔乾祐",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000201",
@@ -1790,7 +2071,14 @@
   {
     "sentence_id": "HCH_008_104_000206",
     "sentence": "祿山謂之曰：「汝常輕我，今日如何？」翰懼，俯伏稱：「肉眼不識陛下，遂至於此。陛下為撥亂主，今天下未平，李光弼在土門，來填在河南，魯炅在南陽，但留臣，臣以尺書招之，不日平矣。」祿山大喜，遂偽署翰司空。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 51,
+        "end": 54
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000207",
@@ -1819,6 +2107,12 @@
         "end": 24
       },
       {
+        "text": "安思順",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
         "text": "於關",
         "label": "LOC",
         "start": 44,
@@ -1844,12 +2138,31 @@
   {
     "sentence_id": "HCH_008_104_000213",
     "sentence": "於時承平日久，金革道消，封常清、高仙芝相次率不教之兵，募市人之眾，以抗AT寇，失律喪師。",
-    "entities": []
+    "entities": [
+      {
+        "text": "封常清",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "高仙芝",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_104_000214",
     "sentence": "哥舒翰廢疾於家，起專兵柄，二十萬眾拒賊關門，軍中之務不親，委任又非其所。",
     "entities": [
+      {
+        "text": "哥舒翰",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "二十萬眾拒賊關",
         "label": "LOC",
@@ -1878,6 +2191,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "顏杲卿",
+        "label": "PER",
+        "start": 52,
+        "end": 55
       }
     ]
   },
@@ -1890,6 +2209,12 @@
         "label": "TITLE",
         "start": 24,
         "end": 26
+      },
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },

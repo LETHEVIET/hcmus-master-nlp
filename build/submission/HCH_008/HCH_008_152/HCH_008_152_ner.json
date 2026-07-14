@@ -81,10 +81,22 @@
     "sentence": "嘗從李光弼攻賊洛陽，史朝義自領精卒，拒王師於北邙，營壘如山，旌甲耀日，諸將愕眙不敢動。",
     "entities": [
       {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "洛陽",
         "label": "LOC",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "史朝義",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -97,6 +109,12 @@
     "sentence_id": "HCH_008_152_000013",
     "sentence": "副元帥李光弼壯之，曰：「吾用兵三十年，未見以少擊眾，有雄捷如馬將軍者。」遷試太常卿。",
     "entities": [
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "三十年",
         "label": "TME",
@@ -398,12 +416,32 @@
   {
     "sentence_id": "HCH_008_152_000042",
     "sentence": "郝廷玉",
-    "entities": []
+    "entities": [
+      {
+        "text": "郝廷玉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_152_000043",
     "sentence": "郝廷玉者，驍勇善格鬥，事太尉李光弼，為帳中愛將。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郝廷玉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_152_000044",
@@ -414,6 +452,12 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       },
       {
         "text": "洛陽",
@@ -432,6 +476,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "安太清",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -526,7 +576,14 @@
   {
     "sentence_id": "HCH_008_152_000058",
     "sentence": "觀軍容使魚朝恩以廷玉善陣，欲觀其教閱。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_152_000059",
@@ -613,7 +670,14 @@
   {
     "sentence_id": "HCH_008_152_000066",
     "sentence": "天寶末，安祿山叛，尚衡起義兵討之，以棲曜為牙將。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_152_000067",
@@ -731,12 +795,6 @@
         "label": "LOC",
         "start": 30,
         "end": 34
-      },
-      {
-        "text": "授常州",
-        "label": "LOC",
-        "start": 37,
-        "end": 40
       }
     ]
   },
@@ -833,12 +891,6 @@
     "sentence_id": "HCH_008_152_000083",
     "sentence": "李希烈既陷汴州，乘勝東侵，連陷陳留、雍丘，頓軍寧陵，期襲宋州。",
     "entities": [
-      {
-        "text": "李希烈既陷汴州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      },
       {
         "text": "期襲宋州",
         "label": "LOC",
@@ -1008,6 +1060,18 @@
     "sentence": "及安祿山反，昌始從河南節度張介然，授易州遂城府左果毅。",
     "entities": [
       {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "張介然",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "授易州遂城",
         "label": "LOC",
         "start": 17,
@@ -1018,14 +1082,7 @@
   {
     "sentence_id": "HCH_008_152_000102",
     "sentence": "及史朝義遣將圍宋州；昌在圍中，連月不解，城中食盡，賊垂將陷之。",
-    "entities": [
-      {
-        "text": "朝義遣將圍宋州",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_152_000103",
@@ -1038,6 +1095,12 @@
         "end": 2
       },
       {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "遂被鎧持盾登城",
         "label": "LOC",
         "start": 73,
@@ -1048,7 +1111,14 @@
   {
     "sentence_id": "HCH_008_152_000104",
     "sentence": "後十五日，副元帥李光弼救軍至，賊乃宵潰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_152_000105",
@@ -1070,14 +1140,7 @@
   {
     "sentence_id": "HCH_008_152_000107",
     "sentence": "轉太仆卿，兼許州別駕。",
-    "entities": [
-      {
-        "text": "兼許州",
-        "label": "LOC",
-        "start": 5,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_152_000108",
@@ -1094,6 +1157,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "李僧惠",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -1111,6 +1180,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李忠臣",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -1118,6 +1193,12 @@
     "sentence_id": "HCH_008_152_000111",
     "sentence": "及劉玄佐為刺史，乃復其職。",
     "entities": [
+      {
+        "text": "劉玄佐",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -1129,14 +1210,7 @@
   {
     "sentence_id": "HCH_008_152_000112",
     "sentence": "又轉太常卿，兼華州別駕。",
-    "entities": [
-      {
-        "text": "兼華州",
-        "label": "LOC",
-        "start": 6,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_152_000113",
@@ -1196,12 +1270,6 @@
     "sentence": "李希烈既陷汴州，玄佐遣將高翼以精兵五千保援襄邑；城陷，翼赴水死。",
     "entities": [
       {
-        "text": "李希烈既陷汴州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      },
-      {
         "text": "兵五千保援襄邑",
         "label": "LOC",
         "start": 16,
@@ -1241,6 +1309,18 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "李公廉",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "劉玄佐",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -1402,7 +1482,14 @@
   {
     "sentence_id": "HCH_008_152_000135",
     "sentence": "昌上聞，德宗下詔深自克責，遣秘書少監孔述睿及中使以禦饌、內造衣服數百襲，令昌收其骸骨，分為大將三十人，將士百人，各具棺槥衣服，葬於淺水原。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孔述睿",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_152_000136",
@@ -1474,7 +1561,14 @@
   {
     "sentence_id": "HCH_008_152_000148",
     "sentence": "制下，給事中韋弘景等封還制書，言士涇不合居九卿，辭語激切。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋弘景",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_152_000149",
@@ -1489,12 +1583,25 @@
   {
     "sentence_id": "HCH_008_152_000151",
     "sentence": "李景略",
-    "entities": []
+    "entities": [
+      {
+        "text": "李景略",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_152_000152",
     "sentence": "李景略，幽州良鄉人也。",
     "entities": [
+      {
+        "text": "李景略",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "幽州良鄉",
         "label": "LOC",
@@ -1546,7 +1653,14 @@
   {
     "sentence_id": "HCH_008_152_000157",
     "sentence": "李懷光為朔方節度，招在幕府。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_152_000158",
@@ -1599,6 +1713,12 @@
     "sentence_id": "HCH_008_152_000166",
     "sentence": "尋為靈武節度杜希全辟在幕府，轉殿中侍御史，兼豐州刺史、西受降城使。",
     "entities": [
+      {
+        "text": "杜希全",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -1685,6 +1805,12 @@
     "sentence_id": "HCH_008_152_000174",
     "sentence": "杜希全忌之，上表誣奏，貶袁州司馬。",
     "entities": [
+      {
+        "text": "杜希全",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "貶袁州",
         "label": "LOC",
@@ -1896,12 +2022,25 @@
   {
     "sentence_id": "HCH_008_152_000193",
     "sentence": "張萬福",
-    "entities": []
+    "entities": [
+      {
+        "text": "張萬福",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_152_000194",
     "sentence": "張萬福，魏州元城人。",
     "entities": [
+      {
+        "text": "張萬福",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "魏州元城",
         "label": "LOC",
@@ -2131,6 +2270,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "韋元甫",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -2193,7 +2338,14 @@
   {
     "sentence_id": "HCH_008_152_000217",
     "sentence": "李正己反，將斷江、淮路，令兵守埇橋、渦口。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李正己",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_152_000218",
@@ -2356,6 +2508,18 @@
         "end": 3
       },
       {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "陳少遊",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "刺史",
         "label": "TITLE",
         "start": 24,
@@ -2437,7 +2601,14 @@
   {
     "sentence_id": "HCH_008_152_000244",
     "sentence": "李懷光既反，德宗再幸梁漢。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_152_000245",
@@ -2463,6 +2634,12 @@
         "label": "TME",
         "start": 2,
         "end": 5
+      },
+      {
+        "text": "楊朝晟",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       },
       {
         "text": "尚書",
@@ -2745,12 +2922,26 @@
   {
     "sentence_id": "HCH_008_152_000272",
     "sentence": "史敬奉",
-    "entities": []
+    "entities": [
+      {
+        "text": "史敬奉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_152_000273",
     "sentence": "史敬奉，靈武人，少事本軍為牙將。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史敬奉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_152_000274",
@@ -2773,7 +2964,14 @@
   {
     "sentence_id": "HCH_008_152_000275",
     "sentence": "先是，西戎頻歲犯邊，敬奉白節度杜叔良請兵三千，備一月糧，深入蕃界；叔良以二千五百人授之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜叔良",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_152_000276",
@@ -2808,18 +3006,19 @@
   {
     "sentence_id": "HCH_008_152_000282",
     "sentence": "與鳳翔將野詩良輔、涇原將郝玼各以名雄邊上。",
-    "entities": []
+    "entities": [
+      {
+        "text": "野詩良輔",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_152_000283",
     "sentence": "吐蕃嘗謂漢使曰：「唐國既與吐蕃和好，何妄語也！」問曰：「何謂？」曰：「若不妄語，何因遣野詩良輔作隴州刺史？」其畏憚如此。",
     "entities": [
-      {
-        "text": "野詩良輔作隴州",
-        "label": "LOC",
-        "start": 43,
-        "end": 50
-      },
       {
         "text": "刺史",
         "label": "TITLE",

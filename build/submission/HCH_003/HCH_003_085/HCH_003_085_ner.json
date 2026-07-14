@@ -1235,7 +1235,14 @@
   {
     "sentence_id": "HCH_003_085_000146",
     "sentence": "行台魏子建壯其氣概，啟以世澄購其屍柩，乃獲骸骨歸葬之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏子建",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_085_000147",
@@ -1554,7 +1561,14 @@
   {
     "sentence_id": "HCH_003_085_000183",
     "sentence": "竟為東魏將高敖曹所禽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高敖曹",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_085_000184",
@@ -1989,6 +2003,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -2318,7 +2338,14 @@
   {
     "sentence_id": "HCH_003_085_000260",
     "sentence": "宇文述等九軍敗績，帝令元主其獄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_085_000261",

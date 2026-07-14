@@ -115,12 +115,6 @@
     "sentence": "後白曜表麒麟與房法壽對為冀州刺史。",
     "entities": [
       {
-        "text": "房法壽對為冀州",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 14,
@@ -2587,12 +2581,6 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
-      },
-      {
-        "text": "任城",
-        "label": "LOC",
-        "start": 18,
-        "end": 20
       }
     ]
   },
@@ -3347,12 +3335,6 @@
     "sentence": "祚每曰：「爾與義和至友，豈能饒爾而怨我乎。」任城王澄與彪先亦不穆，及為雍州，彪詣澄，為志求其府寮。",
     "entities": [
       {
-        "text": "任城",
-        "label": "LOC",
-        "start": 22,
-        "end": 24
-      },
-      {
         "text": "及為雍州",
         "label": "LOC",
         "start": 33,
@@ -3431,6 +3413,12 @@
     "sentence_id": "HCH_003_040_000486",
     "sentence": "桓叔興外叛，南荊荒毀，領軍元叉舉其才任撫導，抉為南荊州刺史。",
     "entities": [
+      {
+        "text": "桓叔興",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "抉為南荊州",
         "label": "LOC",
@@ -3898,12 +3886,6 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
-      },
-      {
-        "text": "任城",
-        "label": "LOC",
-        "start": 12,
-        "end": 14
       }
     ]
   },
@@ -4067,6 +4049,12 @@
     "sentence_id": "HCH_003_040_000551",
     "sentence": "蕭寶夤西征，引為驃騎司馬。",
     "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "司馬",
         "label": "TITLE",
@@ -5833,6 +5821,12 @@
     "sentence": "祖珍，字文表，慕容寶度支尚書。",
     "entities": [
       {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 12,
@@ -6018,12 +6012,6 @@
     "sentence_id": "HCH_003_040_000780",
     "sentence": "曾祖軌，隨慕容德徙青州，因居北海之劇縣。",
     "entities": [
-      {
-        "text": "隨慕容德徙青州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      },
       {
         "text": "因居北海之劇縣",
         "label": "LOC",

@@ -2,27 +2,67 @@
   {
     "sentence_id": "HCH_008_075_000001",
     "sentence": "○蘇世長 子良嗣",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇世長",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_075_000002",
     "sentence": "韋雲起 孫方質",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋雲起",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_075_000003",
     "sentence": "孫伏伽　張玄素",
-    "entities": []
+    "entities": [
+      {
+        "text": "孫伏伽",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "張玄素",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_075_000004",
     "sentence": "蘇世長",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇世長",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_075_000005",
     "sentence": "蘇世長，雍州武功人也。",
     "entities": [
+      {
+        "text": "蘇世長",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "雍州",
         "label": "LOC",
@@ -278,7 +318,14 @@
   {
     "sentence_id": "HCH_008_075_000030",
     "sentence": "與房玄齡等一十八人皆蒙圖畫，令文學褚亮為之贊，曰：「軍諮諧噱，超然辯悟。正色於庭，匪躬之故。」貞觀初，聘於突厥，與頡利爭禮，不受賂遺，朝廷稱之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_075_000031",
@@ -436,7 +483,14 @@
   {
     "sentence_id": "HCH_008_075_000048",
     "sentence": "尋代王德真為納言，累封溫國公。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王德真",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_075_000049",
@@ -446,7 +500,14 @@
   {
     "sentence_id": "HCH_008_075_000050",
     "sentence": "時尚方監裴匪躬檢校西苑，將鬻苑中果菜以收其利。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴匪躬",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_075_000051",
@@ -479,13 +540,26 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "韋方質",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
   {
     "sentence_id": "HCH_008_075_000055",
     "sentence": "良嗣謝恩拜伏，便不能復起，輿歸其家，詔御醫張文仲、韋慈藏往視疾。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋慈藏",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_075_000056",
@@ -546,12 +620,25 @@
   {
     "sentence_id": "HCH_008_075_000063",
     "sentence": "韋雲起",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋雲起",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_075_000064",
     "sentence": "韋雲起，雍州萬年人。",
     "entities": [
+      {
+        "text": "韋雲起",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "雍州",
         "label": "LOC",
@@ -698,6 +785,12 @@
         "end": 12
       },
       {
+        "text": "虞世基",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 26,
@@ -708,6 +801,12 @@
         "label": "TITLE",
         "start": 28,
         "end": 30
+      },
+      {
+        "text": "鄭善果",
+        "label": "PER",
+        "start": 122,
+        "end": 125
       }
     ]
   },
@@ -1030,12 +1129,25 @@
   {
     "sentence_id": "HCH_008_075_000104",
     "sentence": "孫伏伽",
-    "entities": []
+    "entities": [
+      {
+        "text": "孫伏伽",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_075_000105",
     "sentence": "孫伏伽，貝州武城人。",
     "entities": [
+      {
+        "text": "孫伏伽",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "貝州武城",
         "label": "LOC",
@@ -1325,6 +1437,12 @@
         "end": 164
       },
       {
+        "text": "孫伏伽",
+        "label": "PER",
+        "start": 166,
+        "end": 169
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 220,
@@ -1352,6 +1470,18 @@
         "label": "ORG",
         "start": 11,
         "end": 12
+      },
+      {
+        "text": "孫伏伽",
+        "label": "PER",
+        "start": 111,
+        "end": 114
+      },
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 144,
+        "end": 147
       }
     ]
   },
@@ -1627,12 +1757,25 @@
   {
     "sentence_id": "HCH_008_075_000179",
     "sentence": "張玄素",
-    "entities": []
+    "entities": [
+      {
+        "text": "張玄素",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_075_000180",
     "sentence": "張玄素，蒲州虞鄉人。",
     "entities": [
+      {
+        "text": "張玄素",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "蒲州虞鄉",
         "label": "LOC",
@@ -1663,12 +1806,6 @@
     "sentence_id": "HCH_008_075_000182",
     "sentence": "竇建德攻陷景城，玄素被執，將就戮，縣民千餘人號泣請代其命，曰：「此人清慎若是，今倘殺之，乃無天也。大王將定天下，當深加禮接，以招四方，如何殺之，使善人解體？」建德遽命釋之，署為治書侍御史，固辭不受。",
     "entities": [
-      {
-        "text": "竇建德攻陷景城",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -1932,6 +2069,12 @@
         "end": 108
       },
       {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 147,
+        "end": 150
+      },
+      {
         "text": "洛陽",
         "label": "LOC",
         "start": 153,
@@ -1949,6 +2092,12 @@
     "sentence_id": "HCH_008_075_000217",
     "sentence": "時承乾居春宮，頗以游畋廢學，玄素上書諫曰：「臣聞皇天無親，惟德是輔，苟違天道，人神同棄。然古三驅之禮，非欲教殺，將為百姓除害，故湯羅一面，天下歸仁。今苑中娛獵，雖名異游畋，若行之無常，終虧雅度。且傅說曰：『學不師古，匪說攸聞。』然則弘道在於學古，學古必資師訓。既奉恩詔，令孔穎達侍講，望數存問，以補萬一。仍博遣有名行學士，兼朝夕侍奉。覽聖人之遺教，察既行之往事，日知其所不足，月無忘其所能。此則盡善盡美，夏啟、周誦，焉足言哉！夫為人上者，未有不求其善，但以性不勝情，耽惑成亂。耽惑既甚，忠言遂塞，所以臣下苟順，君道漸虧。古人有言：『勿以小惡而不去，小善而不為。』故知禍福之來，皆起於漸。殿下地居儲兩，當須廣樹嘉猷。既有好畋之淫，何以主斯匕鬯？慎終如始，猶懼漸衰，始尚不慎，終將安保！」尋又兼太子少詹事。",
     "entities": [
+      {
+        "text": "孔穎達",
+        "label": "PER",
+        "start": 136,
+        "end": 139
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -1978,6 +2127,12 @@
         "label": "TITLE",
         "start": 60,
         "end": 62
+      },
+      {
+        "text": "孔穎達",
+        "label": "PER",
+        "start": 142,
+        "end": 145
       }
     ]
   },
@@ -2036,6 +2191,18 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "張玄素",
+        "label": "PER",
+        "start": 101,
+        "end": 104
       },
       {
         "text": "未為縣",

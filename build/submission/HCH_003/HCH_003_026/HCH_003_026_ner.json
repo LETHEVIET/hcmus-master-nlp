@@ -2,7 +2,14 @@
   {
     "sentence_id": "HCH_003_026_000001",
     "sentence": "宋隱 〈 從子愔 愔孫弁 弁孫欽道 弁族弟翻 弟子世良 世軌 翻弟世景 〉 許彥 〈 五世孫惇 〉 刁雍 〈 子遵 曾孫沖 柔 〉 辛紹先 韋閬 〈 孫子粲 〉 杜銓",
-    "entities": []
+    "entities": [
+      {
+        "text": "辛紹先",
+        "label": "PER",
+        "start": 66,
+        "end": 69
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_026_000002",
@@ -33,6 +40,12 @@
     "sentence_id": "HCH_003_026_000007",
     "sentence": "仕慕容垂，位本州別駕。",
     "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "位本州",
         "label": "LOC",
@@ -297,7 +310,14 @@
   {
     "sentence_id": "HCH_003_026_000038",
     "sentence": "齊司徒蕭子良、秘書丞王融等皆稱美之，以為志氣謇諤不逮李彪，而體韻和雅，舉止閑邃過之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭子良",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_026_000039",
@@ -1336,6 +1356,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 4,
+        "end": 8
       }
     ]
   },
@@ -1621,7 +1647,14 @@
   {
     "sentence_id": "HCH_003_026_000189",
     "sentence": "中尉畢義雲不送，移往復不止。",
-    "entities": []
+    "entities": [
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_026_000190",
@@ -1962,7 +1995,14 @@
   {
     "sentence_id": "HCH_003_026_000233",
     "sentence": "道璵又曾贈著作郎張始均詩，其末章云：「子深懷璧憂，餘有當門病。」道璵既不免難，始均亦遇世禍，時咸怪之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張始均",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_026_000234",
@@ -2489,6 +2529,12 @@
     "sentence": "遂憑附宋欽道，出邵為刺史，朝議甚鄙薄之。",
     "entities": [
       {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "刺史",
         "label": "TITLE",
         "start": 10,
@@ -2499,7 +2545,14 @@
   {
     "sentence_id": "HCH_003_026_000290",
     "sentence": "雖久處朝行，曆官清顯，與邢邵、魏收、陽休之、崔勵、徐之才比肩同列，諸人或談說經史，或吟詠詩賦，更相嘲戲，欣笑滿堂，惇不好劇談，又無學術，或坐杜口，或隱几而睡，不為勝流所重。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_026_000291",
@@ -3019,6 +3072,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "盧尚之",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "刺史",
@@ -3880,7 +3939,14 @@
   {
     "sentence_id": "HCH_003_026_000451",
     "sentence": "辛紹先，隴西狄道人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "辛紹先",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_026_000452",
@@ -3939,6 +4005,12 @@
     "sentence": "明敏有識量，與廣平遊明根、范陽盧度世、同郡李承昭等甚相友。",
     "entities": [
       {
+        "text": "盧度世",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
         "text": "同郡",
         "label": "LOC",
         "start": 19,
@@ -3973,14 +4045,7 @@
   {
     "sentence_id": "HCH_003_026_000460",
     "sentence": "皇興中，薛安都以彭城歸魏。",
-    "entities": [
-      {
-        "text": "薛安都以彭城",
-        "label": "LOC",
-        "start": 4,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_026_000461",
@@ -4003,6 +4068,30 @@
     "sentence_id": "HCH_003_026_000463",
     "sentence": "及宋將陳顯達、蕭道成、蕭順之來寇，道成謂順之曰：「辛紹先未易侵也，宜共慎之。」於是不曆郡境，徑屯呂梁。",
     "entities": [
+      {
+        "text": "陳顯達",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "蕭道成",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "蕭順之",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "辛紹先",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
       {
         "text": "於是不曆郡",
         "label": "LOC",
@@ -4643,7 +4732,14 @@
   {
     "sentence_id": "HCH_003_026_000531",
     "sentence": "父逵，慕容垂大長秋卿。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_026_000532",
@@ -4796,12 +4892,6 @@
     "sentence_id": "HCH_003_026_000548",
     "sentence": "齊王蕭寶夤為雍州刺史，引為府主簿，轉錄事參軍。",
     "entities": [
-      {
-        "text": "王蕭寶夤為雍州",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -5107,6 +5197,12 @@
         "end": 5
       },
       {
+        "text": "薛安都",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "因家彭城",
         "label": "LOC",
         "start": 20,
@@ -5189,6 +5285,12 @@
     "sentence_id": "HCH_003_026_000578",
     "sentence": "父肅，字道壽，隨劉義真度江，位豫州刺史。",
     "entities": [
+      {
+        "text": "劉義真",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "位豫州",
         "label": "LOC",
@@ -5565,6 +5667,18 @@
         "end": 3
       },
       {
+        "text": "盧陽烏",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "蔡道恭",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "免歸鄉",
         "label": "LOC",
         "start": 23,
@@ -5800,12 +5914,6 @@
     "sentence": "任城王澄代肅為州，復啟纘為長史。",
     "entities": [
       {
-        "text": "任城",
-        "label": "LOC",
-        "start": 0,
-        "end": 2
-      },
-      {
         "text": "王澄代肅為州",
         "label": "LOC",
         "start": 2,
@@ -5865,7 +5973,14 @@
   {
     "sentence_id": "HCH_003_026_000635",
     "sentence": "蠻酋田益宗子魯生、魯賢先叛父南入，數為寇掠。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田益宗",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_026_000636",
@@ -6223,6 +6338,12 @@
     "sentence_id": "HCH_003_026_000664",
     "sentence": "父嶷，慕容垂秘書監，仍僑居趙郡。",
     "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "仍僑居趙郡",
         "label": "LOC",

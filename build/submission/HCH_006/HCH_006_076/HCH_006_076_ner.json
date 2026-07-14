@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_006_076_000001",
     "sentence": "趙廣漢",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙廣漢",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_076_000002",
     "sentence": "趙廣漢字子都，涿郡蠡吾人也，故屬河間。",
     "entities": [
+      {
+        "text": "趙廣漢",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "涿郡",
         "label": "LOC",
@@ -182,6 +195,12 @@
         "label": "TITLE",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -599,7 +618,14 @@
   {
     "sentence_id": "HCH_006_076_000071",
     "sentence": "司直蕭望之劾奏：「廣漢摧辱大臣，欲以劫持奉公，逆節傷化，不道。」宣帝惡之，下廣漢廷尉獄，又坐賊殺不辜，鞠獄故不以實，擅斥除騎士乏軍興數罪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_076_000072",
@@ -631,12 +657,26 @@
   {
     "sentence_id": "HCH_006_076_000076",
     "sentence": "尹翁歸",
-    "entities": []
+    "entities": [
+      {
+        "text": "尹翁歸",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_076_000077",
     "sentence": "尹翁歸字子兄，河東平陽人也，徙杜陵。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尹翁歸",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_076_000078",
@@ -1071,6 +1111,12 @@
     "sentence": "先是，趙廣漢為太守，患其俗多朋黨，故構會吏民，令相告訐，一切以為聰明，潁川由是以為俗，民多怨讎。",
     "entities": [
       {
+        "text": "趙廣漢",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "太守",
         "label": "TITLE",
         "start": 7,
@@ -1359,6 +1405,12 @@
     "sentence": "延壽代蕭望之為左馮翊，而望之遷御史大夫。",
     "entities": [
       {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 15,
@@ -1645,6 +1697,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "杜延年",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -1814,6 +1872,12 @@
         "end": 253
       },
       {
+        "text": "張安世",
+        "label": "PER",
+        "start": 253,
+        "end": 256
+      },
+      {
         "text": "明",
         "label": "ORG",
         "start": 278,
@@ -1944,6 +2008,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "趙廣漢",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -2014,7 +2084,14 @@
   {
     "sentence_id": "HCH_006_076_000225",
     "sentence": "其治京兆，略循趙廣漢之跡。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙廣漢",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_076_000226",
@@ -2090,7 +2167,14 @@
   {
     "sentence_id": "HCH_006_076_000236",
     "sentence": "敞與蕭望之、于定國相善。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_076_000237",
@@ -2353,6 +2437,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -3491,7 +3581,20 @@
   {
     "sentence_id": "HCH_006_076_000370",
     "sentence": "贊曰：自孝武置左馮翊、右扶風、京兆尹，而吏民為之語曰：「前有趙、張，後有三王。」然劉向獨序趙廣漢、尹翁歸、韓延壽，馮商傳王尊，揚雄亦如之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙廣漢",
+        "label": "PER",
+        "start": 45,
+        "end": 48
+      },
+      {
+        "text": "尹翁歸",
+        "label": "PER",
+        "start": 49,
+        "end": 52
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_076_000371",

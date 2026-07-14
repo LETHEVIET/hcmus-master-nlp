@@ -172,7 +172,14 @@
   {
     "sentence_id": "HCH_007_124_000014",
     "sentence": "漢祖受命，從討杜重威於鄴下，殷與劉詞皆率先力戰，矢中於首，久之，出折鏃於口中，以是漢祖嘉之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_124_000015",
@@ -257,14 +264,7 @@
   {
     "sentence_id": "HCH_007_124_000023",
     "sentence": "何福進在鎮州，素惡殷之太橫，福進入朝，摭其陰事以奏之，太祖遂疑之。",
-    "entities": [
-      {
-        "text": "何福進在鎮州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_124_000024",
@@ -344,12 +344,26 @@
   {
     "sentence_id": "HCH_007_124_000032",
     "sentence": "何福進",
-    "entities": []
+    "entities": [
+      {
+        "text": "何福進",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_124_000033",
     "sentence": "何福進，字善長，太原人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "何福進",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_124_000034",
@@ -586,23 +600,36 @@
         "label": "LOC",
         "start": 3,
         "end": 10
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
   {
     "sentence_id": "HCH_007_124_000056",
     "sentence": "後從馬全節伐安陸，敗淮賊萬餘眾，晉祖嘉之，授奉國都校，累加檢校司空。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬全節",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_124_000057",
     "sentence": "又從杜重威敗安重榮於宗城。",
     "entities": [
       {
-        "text": "敗安重榮於宗城",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
+        "text": "杜重威",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },
@@ -668,7 +695,14 @@
   {
     "sentence_id": "HCH_007_124_000062",
     "sentence": "乾祐初，李守貞叛於河中，太祖征之，朝廷以為侍衛步軍都指揮使，遙領寧江軍節度使，充行營馬步都虞候，命分屯於河西。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_124_000063",
@@ -818,14 +852,7 @@
   {
     "sentence_id": "HCH_007_124_000080",
     "sentence": "符彥超為河朔郡守，以賂誘置之左右。",
-    "entities": [
-      {
-        "text": "符彥超為河朔郡",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_124_000081",
@@ -1018,12 +1045,6 @@
         "label": "LOC",
         "start": 0,
         "end": 6
-      },
-      {
-        "text": "卿率諸將屯忻州",
-        "label": "LOC",
-        "start": 32,
-        "end": 39
       }
     ]
   },
@@ -1318,18 +1339,6 @@
     "sentence_id": "HCH_007_124_000128",
     "sentence": "及安重榮稱兵於鎮州，晉祖以令溫為行營馬軍都指揮使，與都帥杜重威敗賊於宗城，以功授亳州防禦使，尋拜永清軍節度使。",
     "entities": [
-      {
-        "text": "安重榮稱兵於鎮",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      },
-      {
-        "text": "重威敗賊於宗城",
-        "label": "LOC",
-        "start": 29,
-        "end": 36
-      },
       {
         "text": "以功授亳州",
         "label": "LOC",
@@ -1753,12 +1762,26 @@
   {
     "sentence_id": "HCH_007_124_000167",
     "sentence": "白文珂",
-    "entities": []
+    "entities": [
+      {
+        "text": "白文珂",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_124_000168",
     "sentence": "白文珂，字德溫，太原人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白文珂",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_124_000169",
@@ -1809,12 +1832,6 @@
         "label": "LOC",
         "start": 4,
         "end": 6
-      },
-      {
-        "text": "王建立表為本州",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
       },
       {
         "text": "遙授舒州",
@@ -1897,7 +1914,14 @@
   {
     "sentence_id": "HCH_007_124_000179",
     "sentence": "會河中李守貞叛，詔充河中府行營都部署。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_124_000180",
@@ -1987,10 +2011,10 @@
     "sentence": "天福中，晉祖在鄴，安重榮叛於鎮州，帥眾數萬詣闕而來，晉祖命杜重威統諸將以禦之。",
     "entities": [
       {
-        "text": "安重榮叛於鎮州",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
+        "text": "杜重威",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -2113,12 +2137,6 @@
         "label": "TME",
         "start": 0,
         "end": 2
-      },
-      {
-        "text": "韓令坤先入揚州",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
       }
     ]
   },

@@ -2,7 +2,14 @@
   {
     "sentence_id": "HCH_004_028_000001",
     "sentence": "元坦　元斌　元孝友　元暉業　元弼　元韶",
-    "entities": []
+    "entities": [
+      {
+        "text": "元孝友",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_028_000002",
@@ -258,12 +265,25 @@
   {
     "sentence_id": "HCH_004_028_000029",
     "sentence": "元孝友",
-    "entities": []
+    "entities": [
+      {
+        "text": "元孝友",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_028_000030",
     "sentence": "元孝友，祖魏太武皇帝。",
     "entities": [
+      {
+        "text": "元孝友",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "皇帝",
         "label": "TITLE",

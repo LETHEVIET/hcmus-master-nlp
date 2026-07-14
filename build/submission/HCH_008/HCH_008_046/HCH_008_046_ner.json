@@ -139,7 +139,14 @@
   {
     "sentence_id": "HCH_008_046_000018",
     "sentence": "貞觀中，令狐德棻、魏徵相次為秘書監，上言以籍亡逸，請行購募，並奏引學士校定。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐德棻",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_046_000019",
@@ -155,6 +162,18 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "褚無量",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "馬懷素",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -184,6 +203,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "殷踐猷",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "《群書四部錄》",
@@ -905,7 +930,14 @@
   {
     "sentence_id": "HCH_008_046_000127",
     "sentence": "又十卷王玄度注。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王玄度",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_046_000128",
@@ -1141,6 +1173,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 8
+      },
+      {
+        "text": "薛仁貴",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1532,7 +1570,14 @@
   {
     "sentence_id": "HCH_008_046_000202",
     "sentence": "《尚書正義》二十卷孔穎達撰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孔穎達",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_046_000203",
@@ -1870,6 +1915,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "孔穎達",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2016,6 +2067,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "賈公彥",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2028,6 +2085,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "王玄度",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2171,6 +2234,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "賈公彥",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2589,6 +2658,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "孔穎達",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2601,6 +2676,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "賈公彥",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2757,6 +2838,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "顏延之",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -3021,6 +3108,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -3392,6 +3485,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "李守真",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -3577,7 +3676,14 @@
   {
     "sentence_id": "HCH_008_046_000385",
     "sentence": "又三卷李弘範撰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李弘範",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_046_000386",
@@ -3908,6 +4014,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "王延之",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -4045,6 +4157,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "孔穎達",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -4649,7 +4767,14 @@
   {
     "sentence_id": "HCH_008_046_000486",
     "sentence": "又一卷殷仲文注。",
-    "entities": []
+    "entities": [
+      {
+        "text": "殷仲文",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_046_000487",
@@ -4659,7 +4784,14 @@
   {
     "sentence_id": "HCH_008_046_000488",
     "sentence": "又一卷魏克己注。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏克己",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_046_000489",
@@ -4759,6 +4891,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "賈公彥",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -4795,6 +4933,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "張士儒",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -5133,6 +5277,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "賈公彥",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -5575,6 +5725,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "顏師古",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -5703,6 +5859,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "劉伯莊",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -5787,6 +5949,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "顏延之",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -6321,7 +6489,14 @@
   {
     "sentence_id": "HCH_008_046_000637",
     "sentence": "又一卷顏師古撰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏師古",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_046_000638",
@@ -6506,6 +6681,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "顏延之",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -6820,7 +7001,14 @@
   {
     "sentence_id": "HCH_008_046_000684",
     "sentence": "又一百三十卷許子儒注。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許子儒",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_046_000685",
@@ -6849,7 +7037,14 @@
   {
     "sentence_id": "HCH_008_046_000687",
     "sentence": "又三十卷劉伯莊撰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉伯莊",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_046_000688",
@@ -6866,7 +7061,14 @@
   {
     "sentence_id": "HCH_008_046_000689",
     "sentence": "又一百二十卷顏師古注。",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏師古",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_046_000690",
@@ -6877,6 +7079,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "郝處俊",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -7393,7 +7601,14 @@
   {
     "sentence_id": "HCH_008_046_000740",
     "sentence": "又一百三十卷許敬宗等撰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_046_000741",
@@ -7444,7 +7659,14 @@
   {
     "sentence_id": "HCH_008_046_000746",
     "sentence": "又一百卷張大素撰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張大素",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_046_000747",
@@ -7455,6 +7677,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "令狐德棻",
+        "label": "PER",
+        "start": 10,
+        "end": 14
       }
     ]
   },
@@ -7473,7 +7701,14 @@
   {
     "sentence_id": "HCH_008_046_000749",
     "sentence": "又三十二卷張大素撰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張大素",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_046_000750",
@@ -7507,7 +7742,14 @@
   {
     "sentence_id": "HCH_008_046_000753",
     "sentence": "又五十卷姚思廉撰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚思廉",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_046_000754",
@@ -7529,7 +7771,14 @@
   {
     "sentence_id": "HCH_008_046_000756",
     "sentence": "又三十六卷姚思廉撰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚思廉",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_046_000757",
@@ -7558,7 +7807,14 @@
   {
     "sentence_id": "HCH_008_046_000759",
     "sentence": "又二十卷張大素撰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張大素",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_046_000760",
@@ -7581,6 +7837,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "李延壽",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -7593,6 +7855,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "李延壽",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -8135,6 +8403,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "蔡允恭",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -8195,6 +8469,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "張大素",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -8594,6 +8874,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "劉允濟",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -8956,6 +9242,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "盧彥卿",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -9206,6 +9498,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "虞世南",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -9518,6 +9816,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "李仁實",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -9530,6 +9834,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "盧元福",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -9542,6 +9852,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 10
+      },
+      {
+        "text": "盧元福",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -9934,6 +10250,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -9946,6 +10268,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -9958,6 +10286,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 9,
+        "end": 13
       }
     ]
   },
@@ -9970,6 +10304,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -10006,6 +10346,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 8
+      },
+      {
+        "text": "宗秦客",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -10468,6 +10814,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -10504,6 +10856,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "王方慶",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -10648,6 +11006,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "王道秀",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -11319,6 +11683,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "李襲譽",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -11661,6 +12031,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "鄭世翼",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -11959,6 +12335,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 9
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -12319,6 +12701,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "釋道宣",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -13464,6 +13852,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "王景之",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -13518,7 +13912,14 @@
   {
     "sentence_id": "HCH_008_046_001284",
     "sentence": "《太宗文皇帝政典》三卷李延壽撰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李延壽",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_046_001285",
@@ -13601,13 +14002,26 @@
         "label": "TITLE",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "孟利貞",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
   {
     "sentence_id": "HCH_008_046_001292",
     "sentence": "《皇帝封禪儀》六卷令狐德棻撰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐德棻",
+        "label": "PER",
+        "start": 9,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_046_001293",
@@ -13666,6 +14080,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 8
+      },
+      {
+        "text": "郭山惲",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -13702,6 +14122,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "郭山惲",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -14016,6 +14442,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "崔知悌",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -14040,6 +14472,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 7,
+        "end": 11
       }
     ]
   },
@@ -14064,6 +14502,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -14112,6 +14556,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 10
+      },
+      {
+        "text": "劉仁軌",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -14148,6 +14598,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 9
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 12,
+        "end": 16
       }
     ]
   },
@@ -14196,6 +14652,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "裴居道",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -14749,6 +15211,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -14761,6 +15229,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -14773,6 +15247,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "路敬淳",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -14785,6 +15265,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "路敬淳",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -15109,6 +15595,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 8
+      },
+      {
+        "text": "張太素",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -15288,6 +15780,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "鄧行儼",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -15737,6 +16235,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 8
+      },
+      {
+        "text": "釋道安",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },

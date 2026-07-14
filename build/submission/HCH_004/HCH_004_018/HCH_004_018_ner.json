@@ -301,6 +301,12 @@
     "sentence": "侍中封隆之無婦，公主欲之，騰妬隆之，遂相間構。",
     "entities": [
       {
+        "text": "封隆之",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "公主",
         "label": "TITLE",
         "start": 8,
@@ -316,7 +322,14 @@
   {
     "sentence_id": "HCH_004_018_000028",
     "sentence": "騰以高祖腹心，入居門下，與斛斯椿同掌機密。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_018_000029",
@@ -332,6 +345,12 @@
     "sentence_id": "HCH_004_018_000031",
     "sentence": "高祖入討斛斯椿，留騰行幷州事，又使騰為冀相殷定滄瀛幽安八州行臺僕射、行冀州事，復行相州事。",
     "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "留騰行幷州",
         "label": "LOC",
@@ -421,7 +440,20 @@
   {
     "sentence_id": "HCH_004_018_000040",
     "sentence": "初，博陵崔孝芬取貧家子賈氏以為養女，孝芬死，其妻元更適鄭伯猷，攜賈於鄭氏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔孝芬",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "鄭伯猷",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_018_000041",
@@ -747,6 +779,12 @@
     "sentence_id": "HCH_004_018_000072",
     "sentence": "高祖之討斛斯椿，以隆之為大行臺尚書。",
     "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -1162,6 +1200,12 @@
     "sentence_id": "HCH_004_018_000117",
     "sentence": "儀同三司崔孝芬以結婚姻不果，太府卿任集同知營構，頗相乖異，瀛州刺史元晏請托不遂，前後構成其罪，並誅害之。",
     "entities": [
+      {
+        "text": "崔孝芬",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "瀛州",
         "label": "LOC",

@@ -169,7 +169,14 @@
   {
     "sentence_id": "HCH_008_014_000016",
     "sentence": "己酉，以易定張茂昭兼同平章事，以來朝，故寵之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張茂昭",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000017",
@@ -180,6 +187,12 @@
     "sentence_id": "HCH_008_014_000018",
     "sentence": "辛卯，以吏部郎中韋執誼為尚書左丞、同中書門下平章事。",
     "entities": [
+      {
+        "text": "韋執誼",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -203,7 +216,14 @@
   {
     "sentence_id": "HCH_008_014_000020",
     "sentence": "壬子，淄青李師古以兵寇滑之東鄙，聞國喪也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李師古",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000021",
@@ -240,7 +260,14 @@
   {
     "sentence_id": "HCH_008_014_000026",
     "sentence": "以前司功參軍、翰林待詔王叔文為起居舍人，充翰林學士。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000027",
@@ -307,12 +334,26 @@
   {
     "sentence_id": "HCH_008_014_000033",
     "sentence": "戊寅，以韋皋兼檢校太尉，李師古、劉濟兼檢校司空。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李師古",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000034",
     "sentence": "張茂昭司徒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張茂昭",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000035",
@@ -340,13 +381,26 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "吳少誠",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },
   {
     "sentence_id": "HCH_008_014_000038",
     "sentence": "以翰林學士王叔文為度支鹽鐵轉運副使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000039",
@@ -370,10 +424,28 @@
         "end": 23
       },
       {
+        "text": "韋執誼",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 29,
         "end": 31
+      },
+      {
+        "text": "王士真",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "text": "田季安",
+        "label": "PER",
+        "start": 45,
+        "end": 48
       }
     ]
   },
@@ -619,6 +691,12 @@
         "end": 13
       },
       {
+        "text": "范希朝",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "京西諸城鎮",
         "label": "LOC",
         "start": 29,
@@ -725,6 +803,12 @@
     "sentence": "辛卯，以鹽鐵轉運使副王叔文為戶部侍郎。",
     "entities": [
       {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 16,
@@ -758,6 +842,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "李師古",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -765,12 +855,6 @@
     "sentence_id": "HCH_008_014_000064",
     "sentence": "贈故忠州別駕陸贄兵部尚書，諡曰宣；贈故道州刺史陽城為左散騎常侍。",
     "entities": [
-      {
-        "text": "贈故忠州",
-        "label": "LOC",
-        "start": 0,
-        "end": 4
-      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -800,6 +884,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "潘孟陽",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -823,6 +913,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "程懷信",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "使執恭起復滄州",
@@ -871,7 +967,14 @@
   {
     "sentence_id": "HCH_008_014_000070",
     "sentence": "事無巨細皆決于李忠言、王伾、王叔文。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000071",
@@ -901,6 +1004,12 @@
     "sentence": "乙太常卿杜黃裳為門下侍郎，左金吾衛大軍袁滋為中書侍郎，並同中書門下平章事；鄭珣瑜為吏部尚書，高郢刑部尚書，並罷知政事。",
     "entities": [
       {
+        "text": "杜黃裳",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 10,
@@ -911,6 +1020,12 @@
         "label": "TITLE",
         "start": 24,
         "end": 26
+      },
+      {
+        "text": "鄭珣瑜",
+        "label": "PER",
+        "start": 37,
+        "end": 40
       },
       {
         "text": "尚書",
@@ -1030,12 +1145,6 @@
         "label": "TITLE",
         "start": 20,
         "end": 22
-      },
-      {
-        "text": "使王叔文為渝州",
-        "label": "LOC",
-        "start": 29,
-        "end": 36
       }
     ]
   },
@@ -1135,6 +1244,24 @@
     "sentence_id": "HCH_008_014_000088",
     "sentence": "左右幸臣如裴延齡、李齊運、韋渠牟等，因間用事，刻下取功，而排陷陸贄、張滂輩，人不敢言，太子從容論爭，故卒不任延齡、渠牟為相。",
     "entities": [
+      {
+        "text": "裴延齡",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "李齊運",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "韋渠牟",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -1410,6 +1537,12 @@
         "end": 8
       },
       {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "夔州",
         "label": "LOC",
         "start": 17,
@@ -1465,6 +1598,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "孟元陽",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "刺史",
@@ -1538,28 +1677,22 @@
         "end": 34
       },
       {
-        "text": "郎柳宗元貶邵州",
-        "label": "LOC",
-        "start": 39,
-        "end": 46
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 46,
         "end": 48
       },
       {
-        "text": "郎劉禹錫貶連州",
-        "label": "LOC",
-        "start": 53,
-        "end": 60
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 60,
         "end": 62
+      },
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 65,
+        "end": 68
       }
     ]
   },
@@ -1787,16 +1920,16 @@
         "end": 13
       },
       {
-        "text": "事韋執誼為崖州",
-        "label": "LOC",
-        "start": 16,
-        "end": 23
-      },
-      {
         "text": "司馬",
         "label": "TITLE",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -1853,6 +1986,12 @@
         "end": 19
       },
       {
+        "text": "武元衡",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 31,
@@ -1907,6 +2046,12 @@
         "end": 32
       },
       {
+        "text": "柳宗元",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 38,
@@ -1923,6 +2068,12 @@
         "label": "TITLE",
         "start": 43,
         "end": 45
+      },
+      {
+        "text": "劉禹錫",
+        "label": "PER",
+        "start": 45,
+        "end": 48
       },
       {
         "text": "司馬",
@@ -1983,6 +2134,12 @@
         "label": "TITLE",
         "start": 83,
         "end": 85
+      },
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 89,
+        "end": 92
       }
     ]
   },
@@ -2019,6 +2176,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "鄭珣瑜",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -2084,6 +2247,12 @@
     "sentence_id": "HCH_008_014_000150",
     "sentence": "庚子，以東都留守韋夏卿為太子少保，以兵部尚書王紹為東都留守。",
     "entities": [
+      {
+        "text": "韋夏卿",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -2218,7 +2387,14 @@
   {
     "sentence_id": "HCH_008_014_000159",
     "sentence": "以考功郎中、知制誥李吉甫為中書舍人，以考功員外郎裴<注自>為考功郎中、知制誥，並充翰林學士。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000160",
@@ -2274,6 +2450,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "韋夏卿",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -2292,7 +2474,14 @@
   {
     "sentence_id": "HCH_008_014_000167",
     "sentence": "壬午，成德軍節度使、檢校司空王士真同中書門下平章事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王士真",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000168",
@@ -2308,6 +2497,12 @@
         "label": "LOC",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "高崇文",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "尚書",
@@ -2326,6 +2521,12 @@
     "sentence_id": "HCH_008_014_000171",
     "sentence": "乙酉，宰相杜祐攝塚宰，杜黃裳為禮儀使，右僕射伊慎大明宮留守，視事於尚書省。",
     "entities": [
+      {
+        "text": "杜黃裳",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -2356,10 +2557,22 @@
         "end": 128
       },
       {
+        "text": "高崇文",
+        "label": "PER",
+        "start": 147,
+        "end": 150
+      },
+      {
         "text": "元",
         "label": "ORG",
         "start": 170,
         "end": 171
+      },
+      {
+        "text": "高崇文",
+        "label": "PER",
+        "start": 197,
+        "end": 200
       }
     ]
   },
@@ -2408,6 +2621,12 @@
     "sentence": "癸卯，贈宣武軍節度使陸長源為右僕射，贈故吉州刺史姜公輔禮部尚書。",
     "entities": [
       {
+        "text": "陸長源",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "贈故吉州",
         "label": "LOC",
         "start": 18,
@@ -2418,6 +2637,12 @@
         "label": "TITLE",
         "start": 22,
         "end": 24
+      },
+      {
+        "text": "姜公輔",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       },
       {
         "text": "尚書",
@@ -2435,12 +2660,25 @@
   {
     "sentence_id": "HCH_008_014_000180",
     "sentence": "癸丑，以魏博田季安同平章事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田季安",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000181",
     "sentence": "戊戌，謂宰臣曰：「前代帝王，或怠於聽政，或躬決繁務，其道如何。」杜黃裳對曰：「帝王之務，在於修己簡易，擇賢委任，宵旰以求民瘼，舍己從人以厚下，固不宜怠肆安逸。然事有綱領小大，當務知其遠者大者；至如簿書訟獄，百吏能否，本非人主所自任也。昔秦始皇自程決事。見嗤前代；諸葛亮王霸之佐，二十罰以上皆自省之，亦為敵國所誚，知不久堪；魏明帝欲省尚書擬事，陳矯言其不可；隋文帝日旰聽政，令衛士傳餐，文皇帝亦笑其煩察。為人主之體固不可代下司職，但擇人委任，責其成效，賞罰必信，誰不盡心。《傳》稱帝舜之德曰：'夫何為哉？恭己南面而已！'誠以能舉十六相，去四凶也。豈與勞神疲體自任耳目之主同年而語哉！但人主常勢。患在不能推誠，人臣之弊，患在不能自竭。由是上疑下詐，禮貌或虧，欲求致理，自然難致。苟無此弊，何患不至於理。'上稱善久之。以京兆尹李鄘為尚書右丞，以金吾大將軍鄭雲逵為京兆尹。",
     "entities": [
+      {
+        "text": "杜黃裳",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -2470,6 +2708,12 @@
         "label": "TITLE",
         "start": 371,
         "end": 374
+      },
+      {
+        "text": "鄭雲逵",
+        "label": "PER",
+        "start": 374,
+        "end": 377
       }
     ]
   },
@@ -2499,6 +2743,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "武元衡",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "御史",
@@ -2564,7 +2814,20 @@
   {
     "sentence_id": "HCH_008_014_000187",
     "sentence": "先是韓全義入朝，令其甥楊惠琳知留後，俄有詔除李演為節度，代全義。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韓全義",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "楊惠琳",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000188",
@@ -2599,6 +2862,12 @@
     "sentence_id": "HCH_008_014_000191",
     "sentence": "以右神策行營節度高崇文檢校兵部尚書、梓州刺史、劍南東川節度。",
     "entities": [
+      {
+        "text": "高崇文",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -2703,6 +2972,12 @@
     "sentence": "己未，武元衡奏，常參官兼御史大夫、中丞者，准檢校省官例，立在本品同類之上。",
     "entities": [
       {
+        "text": "武元衡",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 12,
@@ -2726,6 +3001,12 @@
     "sentence": "武元衡奏：「正衙待制官，本置此官以備問。比來正衙多不奏事。自今後請以尚書省六品以上職事官、東宮師傅賓詹、王傅等，每坐日令兩人待制，退朝，詔于延英候對。」從之。",
     "entities": [
       {
+        "text": "武元衡",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 34,
@@ -2741,7 +3022,14 @@
   {
     "sentence_id": "HCH_008_014_000204",
     "sentence": "丁卯，京兆尹鄭雲逵卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭雲逵",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000205",
@@ -2800,7 +3088,14 @@
   {
     "sentence_id": "HCH_008_014_000208",
     "sentence": "以橫海軍留後程執恭橫海軍節度使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "程執恭",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000209",
@@ -2858,6 +3153,12 @@
     "sentence": "丁酉，高崇文破賊萬人于鹿頭關。",
     "entities": [
       {
+        "text": "高崇文",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "賊萬人于鹿頭關",
         "label": "LOC",
         "start": 7,
@@ -2874,30 +3175,43 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "李師古",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
   {
     "sentence_id": "HCH_008_014_000217",
     "sentence": "癸卯，高崇文收漢州。",
-    "entities": [
-      {
-        "text": "高崇文收漢州",
-        "label": "LOC",
-        "start": 3,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_014_000218",
     "sentence": "閏六月壬子朔，淄青李師古卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李師古",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000219",
     "sentence": "戊辰，以秘書監董叔經為京兆尹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董叔經",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000220",
@@ -2947,6 +3261,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "韓全義",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -3010,7 +3330,14 @@
   {
     "sentence_id": "HCH_008_014_000231",
     "sentence": "韓全義子進女樂八人，詔還之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韓全義",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000232",
@@ -3069,12 +3396,6 @@
         "label": "LOC",
         "start": 10,
         "end": 12
-      },
-      {
-        "text": "李師道權知鄆州",
-        "label": "LOC",
-        "start": 27,
-        "end": 34
       }
     ]
   },
@@ -3091,12 +3412,38 @@
   {
     "sentence_id": "HCH_008_014_000236",
     "sentence": "壬午，左降官韋執誼，韓泰、陳諫、柳宗元、劉禹錫、韓曄、淩准、程異等八人，縱逢恩赦，不在量移之限癸未。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋執誼",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "柳宗元",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "劉禹錫",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000237",
     "sentence": "，京兆尹董叔經卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董叔經",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000238",
@@ -3155,6 +3502,12 @@
     "sentence": "辛亥，高崇文奏收成都，擒劉辟以獻。",
     "entities": [
       {
+        "text": "高崇文",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "成都",
         "label": "LOC",
         "start": 8,
@@ -3170,7 +3523,14 @@
   {
     "sentence_id": "HCH_008_014_000245",
     "sentence": "甲子，易定張茂昭來朝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張茂昭",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000246",
@@ -3199,6 +3559,12 @@
         "label": "LOC",
         "start": 24,
         "end": 28
+      },
+      {
+        "text": "高崇文",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       },
       {
         "text": "成都",
@@ -3297,6 +3663,12 @@
     "sentence": "壬午，以淄青節度使留後李師道檢校工部尚書，兼鄆卅大都督府長史，充平盧淄青節度副大使、知節度事。",
     "entities": [
       {
+        "text": "李師道",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 18,
@@ -3334,12 +3706,6 @@
     "sentence_id": "HCH_008_014_000254",
     "sentence": "丁未，以司農卿李上公為陝州大都督府長史，充陝虢觀察使。",
     "entities": [
-      {
-        "text": "卿李上公為陝州",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
-      },
       {
         "text": "大都",
         "label": "LOC",
@@ -3387,6 +3753,18 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "趙宗儒",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "鄭餘慶",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -3394,12 +3772,6 @@
     "sentence_id": "HCH_008_014_000257",
     "sentence": "甲寅，以給事中劉宗經為華州刺史、潼關防禦、鎮國軍等使。",
     "entities": [
-      {
-        "text": "中劉宗經為華州",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
-      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -3508,6 +3880,12 @@
         "end": 17
       },
       {
+        "text": "杜黃裳",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "河中晉絳等州",
         "label": "LOC",
         "start": 38,
@@ -3531,10 +3909,22 @@
         "end": 8
       },
       {
+        "text": "武元衡",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 43,
+        "end": 46
       },
       {
         "text": "侍郎",
@@ -3631,6 +4021,12 @@
         "end": 8
       },
       {
+        "text": "范希朝",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "靈州",
         "label": "LOC",
         "start": 17,
@@ -3684,7 +4080,14 @@
   {
     "sentence_id": "HCH_008_014_000289",
     "sentence": "戊午，鳳翔節度使張敬則卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張敬則",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000290",
@@ -3768,6 +4171,12 @@
         "end": 12
       },
       {
+        "text": "許孟容",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "《開元格後敕》",
         "label": "TITLE",
         "start": 18,
@@ -3785,10 +4194,34 @@
     "sentence": "戊子，錄配享功臣之後，得蘇瑰孫系，用為京兆府司錄；崔玄暐孫元方、張說孫騑，並為監察御史；狄仁傑後玄範，為右拾遺；敬暉孫元亮、袁恕己孫德師，相次敘用。",
     "entities": [
       {
+        "text": "崔玄暐",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 41,
         "end": 43
+      },
+      {
+        "text": "狄仁傑",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      },
+      {
+        "text": "袁恕己",
+        "label": "PER",
+        "start": 62,
+        "end": 65
+      },
+      {
+        "text": "孫德師",
+        "label": "PER",
+        "start": 65,
+        "end": 68
       }
     ]
   },
@@ -3796,6 +4229,12 @@
     "sentence_id": "HCH_008_014_000299",
     "sentence": "癸巳，太僕寺丞令狐丕進亡父峘所撰《代宗實錄》四十卷，詔贈峘工部尚書。",
     "entities": [
+      {
+        "text": "令狐丕",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "《代宗實錄》",
         "label": "TITLE",
@@ -3818,7 +4257,14 @@
   {
     "sentence_id": "HCH_008_014_000301",
     "sentence": "辛酉，宰相武元衡兼判戶部事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武元衡",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000302",
@@ -3847,6 +4293,12 @@
         "label": "TITLE",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "崔元方",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -3858,7 +4310,14 @@
   {
     "sentence_id": "HCH_008_014_000305",
     "sentence": "辛巳，封杜黃裳為邠國公，于頔為燕國公。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜黃裳",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000306",
@@ -3885,6 +4344,12 @@
         "label": "TITLE",
         "start": 21,
         "end": 23
+      },
+      {
+        "text": "李元素",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       },
       {
         "text": "刺史",
@@ -3927,6 +4392,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "武元衡",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       },
       {
         "text": "尚書",
@@ -4005,6 +4476,12 @@
         "end": 9
       },
       {
+        "text": "張子良",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 19,
@@ -4015,6 +4492,12 @@
         "label": "LOC",
         "start": 22,
         "end": 26
+      },
+      {
+        "text": "李奉仙",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       },
       {
         "text": "將軍",
@@ -4032,7 +4515,14 @@
   {
     "sentence_id": "HCH_008_014_000318",
     "sentence": "十二月甲寅，宰相李吉甫封贊皇侯。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000319",
@@ -4068,6 +4558,12 @@
     "sentence_id": "HCH_008_014_000321",
     "sentence": "丙寅，以劍南西川節度使高崇文檢校司空、同平章事，兼邠州刺史、邠甯慶節度使，充京西諸軍都統。",
     "entities": [
+      {
+        "text": "高崇文",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "兼邠州",
         "label": "LOC",
@@ -4113,6 +4609,12 @@
     "sentence_id": "HCH_008_014_000326",
     "sentence": "己卯，史官李吉甫撰《元和國計簿》，總計天下方鎮凡四十八，管州府二百九十五，縣一千四百五十三，戶二百四十四萬二百五十四，其鳳翔、鄜坊、邠甯、振武、涇原、銀夏、靈鹽、河東、易定、魏博、鎮冀、范陽、滄景、淮西、淄青十五道，凡七十一州，不申戶口。",
     "entities": [
+      {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "《元和國計簿》",
         "label": "TITLE",
@@ -4238,7 +4740,14 @@
   {
     "sentence_id": "HCH_008_014_000338",
     "sentence": "二月丙申，宰相李吉甫進封趙國公。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000339",
@@ -4377,6 +4886,24 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "皇甫湜",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
+        "text": "李宗閔",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -4642,6 +5169,12 @@
         "end": 8
       },
       {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 19,
@@ -4675,7 +5208,14 @@
   {
     "sentence_id": "HCH_008_014_000376",
     "sentence": "河中節度使、檢校司空、同平章事邠國公杜黃裳卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜黃裳",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000377",
@@ -4720,7 +5260,14 @@
   {
     "sentence_id": "HCH_008_014_000381",
     "sentence": "群初為李吉甫所擢用，及持憲，反傾吉甫，吉甫謐其陰事，故貶之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000382",
@@ -4730,7 +5277,14 @@
   {
     "sentence_id": "HCH_008_014_000383",
     "sentence": "十一月甲午，橫海軍節度使程執恭來朝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "程執恭",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000384",
@@ -4788,6 +5342,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "段平仲",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -4864,6 +5424,12 @@
     "sentence": "乙太常卿李元素為戶部尚書、判度支，以商州刺史元義方為福建觀察使。",
     "entities": [
       {
+        "text": "李元素",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 10,
@@ -4880,6 +5446,12 @@
         "label": "TITLE",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "元義方",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -4892,6 +5464,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "權德輿",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -4922,6 +5500,12 @@
         "label": "TITLE",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "李夷簡",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       },
       {
         "text": "御史",
@@ -4974,6 +5558,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "范希朝",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       },
       {
         "text": "將軍",
@@ -5030,6 +5620,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "李夷簡",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -5042,6 +5638,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "許孟容",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -5070,7 +5672,14 @@
   {
     "sentence_id": "HCH_008_014_000414",
     "sentence": "癸卯，贈太師裴冕宜配享代宗廟庭，贈太師李晟、贈太尉段秀實宜配享德宗廟庭。",
-    "entities": []
+    "entities": [
+      {
+        "text": "段秀實",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000415",
@@ -5086,6 +5695,12 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       },
       {
         "text": "尚書",
@@ -5104,6 +5719,12 @@
         "label": "TITLE",
         "start": 41,
         "end": 43
+      },
+      {
+        "text": "薛昌朝",
+        "label": "PER",
+        "start": 43,
+        "end": 46
       },
       {
         "text": "德棣等州",
@@ -5158,18 +5779,19 @@
   {
     "sentence_id": "HCH_008_014_000420",
     "sentence": "丁卯，邠甯節度使、檢校司空、同平章事高崇文卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高崇文",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000421",
     "sentence": "冬十月癸酉朔，以右羽林統軍閻巨源為邠州刺史、邠甯慶節度使，以少府監崔頲為同州刺史、本州防禦、長春宮等使、癸未，詔：「成德軍節度使王承宗頃在苫廬，潛窺戎鎮。而內外以事君之禮，叛而必誅；分土之儀，專則有辟。朕念其先祖嘗有茂勳，貸以私恩，抑於公議。使臣旁午以告諭，孽童俯伏以陳誠，願獻兩州，期無二事。朕亦收其後效，用以曲全，授節制於舊疆，齒勳賢於列位。況德、棣本非成德所管，昌朝又是承宗懿親，俾撫近鄰，斯誠厚澤，外雖兩鎮，內是一家。而承宗象恭懷奸，肖貌稔惡，欺裴武於得位之後，囚昌朝於授命之中。加以表疏之章，悖慢斯甚，義士之所興歎，天地之所不容。恭行天誅，蓋示朝典，承宗在身官爵，並宜削奪。」以神策左軍中尉吐突承璀為鎮州行營招討處置等使，以龍武將軍趙萬敵為神策先鋒將，內官宋惟澄、曹進玉、馬朝江等為行營館驛糧料等使。",
     "entities": [
-      {
-        "text": "軍閻巨源為邠州",
-        "label": "LOC",
-        "start": 12,
-        "end": 19
-      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -5193,6 +5815,12 @@
         "label": "LOC",
         "start": 41,
         "end": 43
+      },
+      {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 64,
+        "end": 67
       },
       {
         "text": "潛窺戎鎮",
@@ -5229,7 +5857,14 @@
   {
     "sentence_id": "HCH_008_014_000422",
     "sentence": "京兆尹許孟容與諫官面論，征伐大事，不可以內官為將帥，補闕獨孤鬱其言激切。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許孟容",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000423",
@@ -5239,7 +5874,14 @@
   {
     "sentence_id": "HCH_008_014_000424",
     "sentence": "己丑，詔軍進討，其王武俊、士真墳墓，軍士不得樵采，其士平、士則各守本官，仍令士則各襲武俊之封。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王武俊",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000425",
@@ -5281,6 +5923,12 @@
         "end": 4
       },
       {
+        "text": "呂元膺",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 15,
@@ -5313,7 +5961,14 @@
   {
     "sentence_id": "HCH_008_014_000432",
     "sentence": "己巳，彰義軍節度使、檢校司空、同平章事吳少誠卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳少誠",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000433",
@@ -5324,6 +5979,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "張弘靖",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -5336,6 +5997,12 @@
     "sentence_id": "HCH_008_014_000435",
     "sentence": "中丞李夷簡奏：「諸州府於兩稅外違格科率，請諸道鹽鐵、轉運、度支、巡院察訪報台司，以憑舉奏。」從之。",
     "entities": [
+      {
+        "text": "李夷簡",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "諸州",
         "label": "LOC",
@@ -5399,6 +6066,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "李夷簡",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "侍郎",
@@ -5465,6 +6138,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "吳少陽",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -5492,6 +6171,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "李元素",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -5504,6 +6189,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "盧從史",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -5553,6 +6244,12 @@
         "end": 17
       },
       {
+        "text": "烏重胤",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "刺史",
         "label": "TITLE",
         "start": 23,
@@ -5563,12 +6260,6 @@
         "label": "LOC",
         "start": 26,
         "end": 32
-      },
-      {
-        "text": "使孟元陽為潞州",
-        "label": "LOC",
-        "start": 41,
-        "end": 48
       }
     ]
   },
@@ -5576,12 +6267,6 @@
     "sentence_id": "HCH_008_014_000452",
     "sentence": "戊戌，貶前昭義節度使盧從史為驩州司馬。",
     "entities": [
-      {
-        "text": "使盧從史為驩州",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
-      },
       {
         "text": "司馬",
         "label": "TITLE",
@@ -5627,12 +6312,6 @@
     "sentence": "戊寅，乙太府卿李少和為洪州刺史、江西觀察使。",
     "entities": [
       {
-        "text": "卿李少和為洪州",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 13,
@@ -5670,7 +6349,14 @@
   {
     "sentence_id": "HCH_008_014_000463",
     "sentence": "丁未，詔昭洗王承宗，復其官爵，待之如初。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000464",
@@ -5685,7 +6371,20 @@
   {
     "sentence_id": "HCH_008_014_000466",
     "sentence": "而李師道、劉濟亟請昭雪，乃歸罪盧從史而宥承宗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李師道",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "盧從史",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000467",
@@ -5701,6 +6400,18 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "田季安",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "李師道",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -5790,6 +6501,12 @@
         "label": "TITLE",
         "start": 214,
         "end": 216
+      },
+      {
+        "text": "韋貫之",
+        "label": "PER",
+        "start": 228,
+        "end": 231
       },
       {
         "text": "以鄧州",
@@ -5895,6 +6612,12 @@
         "end": 22
       },
       {
+        "text": "權德輿",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 38,
@@ -5905,17 +6628,42 @@
   {
     "sentence_id": "HCH_008_014_000481",
     "sentence": "丁卯，翰林學士獨孤郁守本官起居，以妻父權德輿在中書，避嫌也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤郁",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "權德輿",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000482",
     "sentence": "冬十月戊辰朔，以京兆尹許孟容為兵部侍郎，以中丞王播代容，又以呂元膺代播。",
     "entities": [
       {
+        "text": "許孟容",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "呂元膺",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       }
     ]
   },
@@ -5940,6 +6688,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 16
+      },
+      {
+        "text": "韋處厚",
+        "label": "PER",
+        "start": 37,
+        "end": 40
       }
     ]
   },
@@ -5958,6 +6712,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "任迪簡",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -5993,6 +6753,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "張茂昭",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -6108,6 +6874,12 @@
         "end": 13
       },
       {
+        "text": "薛昌朝",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 20,
@@ -6120,6 +6892,12 @@
     "sentence": "前為王承宗虜之，囚於鎮州，至是歸朝故也。",
     "entities": [
       {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "囚於鎮州",
         "label": "LOC",
         "start": 8,
@@ -6131,6 +6909,12 @@
     "sentence_id": "HCH_008_014_000497",
     "sentence": "丙寅，吏部郎中柳公綽獻《太醫箴》，上深喜納，遣中使勞之。",
     "entities": [
+      {
+        "text": "柳公綽",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "《太醫箴》",
         "label": "TITLE",
@@ -6197,6 +6981,12 @@
     "sentence": "壬午，以吏部郎中柳公綽為御史中丞。",
     "entities": [
       {
+        "text": "柳公綽",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 12,
@@ -6215,12 +7005,6 @@
         "end": 4
       },
       {
-        "text": "丞呂元膺為鄂州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 12,
@@ -6237,7 +7021,14 @@
   {
     "sentence_id": "HCH_008_014_000504",
     "sentence": "以鄂岳察使郗士美為河南尹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郗士美",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000505",
@@ -6280,6 +7071,12 @@
     "sentence": "丙申，以彰義軍留後吳少陽檢校工部尚書，充彰義軍節度、申光蔡等州觀察使。",
     "entities": [
       {
+        "text": "吳少陽",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 16,
@@ -6304,6 +7101,12 @@
         "end": 5
       },
       {
+        "text": "劉伯芻",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 17,
@@ -6326,6 +7129,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -6360,12 +7169,26 @@
   {
     "sentence_id": "HCH_008_014_000514",
     "sentence": "丙子，河中節度使、檢校太尉、中書令張茂昭卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張茂昭",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000515",
     "sentence": "乙太府卿裴次元為福建觀察使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴次元",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000516",
@@ -6377,6 +7200,12 @@
     "sentence": "癸巳，以陝虢觀察使張弘靖檢校禮部尚書、河中尹、晉絳慈等州節度使，以右丞衛次公為陝府長史、陝虢觀察使。",
     "entities": [
       {
+        "text": "張弘靖",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 16,
@@ -6387,6 +7216,12 @@
         "label": "LOC",
         "start": 23,
         "end": 28
+      },
+      {
+        "text": "衛次公",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       }
     ]
   },
@@ -6418,6 +7253,12 @@
     "sentence_id": "HCH_008_014_000520",
     "sentence": "三月乙未朔，以河南尹郗士美檢校工部尚書，兼潞府長史、昭義軍節度使。",
     "entities": [
+      {
+        "text": "郗士美",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -6495,6 +7336,12 @@
         "end": 8
       },
       {
+        "text": "李夷簡",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 19,
@@ -6529,6 +7376,12 @@
         "label": "TITLE",
         "start": 70,
         "end": 72
+      },
+      {
+        "text": "元義方",
+        "label": "PER",
+        "start": 88,
+        "end": 91
       }
     ]
   },
@@ -6536,6 +7389,12 @@
     "sentence_id": "HCH_008_014_000527",
     "sentence": "癸酉，以張茂昭家妓四十七人歸定州。",
     "entities": [
+      {
+        "text": "張茂昭",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "四十七人歸定州",
         "label": "LOC",
@@ -6553,6 +7412,12 @@
     "sentence_id": "HCH_008_014_000529",
     "sentence": "以前荊南節度使趙宗儒為刑部尚書。",
     "entities": [
+      {
+        "text": "趙宗儒",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -6608,7 +7473,14 @@
   {
     "sentence_id": "HCH_008_014_000536",
     "sentence": "五月甲午朔，取受王承宗錢物人品官王伯恭杖死。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_014_000537",
@@ -6619,6 +7491,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "李惟簡",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "尚書",
@@ -6742,10 +7620,28 @@
     "sentence": "乃命給事中段平仲、中書舍人韋貫之、兵部侍郎許孟容、戶部侍郎李絳等詳定減省。",
     "entities": [
       {
+        "text": "段平仲",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "韋貫之",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "許孟容",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       },
       {
         "text": "侍郎",
@@ -6764,6 +7660,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "柳公綽",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -6781,6 +7683,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "竇易直",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -7203,6 +8111,12 @@
     "sentence_id": "HCH_008_014_000571",
     "sentence": "甲申，京兆尹元義方、戶部侍郎判度支盧坦以違令立戟，罰一月俸，收奪所請門戟。",
     "entities": [
+      {
+        "text": "元義方",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "侍郎",
         "label": "TITLE",

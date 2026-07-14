@@ -122,6 +122,12 @@
         "label": "TITLE",
         "start": 74,
         "end": 76
+      },
+      {
+        "text": "李琰之",
+        "label": "PER",
+        "start": 87,
+        "end": 90
       }
     ]
   },
@@ -879,14 +885,7 @@
   {
     "sentence_id": "HCH_003_047_000114",
     "sentence": "後蕭寶夤大敗於關西，翻上表，請爲西軍死亡將士舉哀，存而還者，並加賑賚。",
-    "entities": [
-      {
-        "text": "蕭寶夤大敗於關",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_047_000115",
@@ -1254,6 +1253,12 @@
         "label": "TITLE",
         "start": 28,
         "end": 30
+      },
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       }
     ]
   },
@@ -1282,7 +1287,14 @@
   {
     "sentence_id": "HCH_003_047_000161",
     "sentence": "在郎署之日，時趙彥深爲水部郎中，同在一院，因成交友。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_047_000162",
@@ -1309,7 +1321,14 @@
   {
     "sentence_id": "HCH_003_047_000165",
     "sentence": "初，馮子琮以僕射攝選，婚姻相尋。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮子琮",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_047_000166",
@@ -2538,12 +2557,6 @@
     "sentence": "先是，韋道建、宋欽道代爲定州長史，帶中山太守，並立制，監臨之官出行，不得過百姓飲食。",
     "entities": [
       {
-        "text": "宋欽道代爲定州",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      },
-      {
         "text": "太守",
         "label": "TITLE",
         "start": 20,
@@ -2871,7 +2884,14 @@
   {
     "sentence_id": "HCH_003_047_000350",
     "sentence": "及鄧長顒、顏之推奏立文林館，之推本意不欲令耆舊貴人居之，便相附會，與少年朝請、參軍之徒，同入待詔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_047_000351",
@@ -2960,6 +2980,12 @@
         "end": 11
       },
       {
+        "text": "李祖欽",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 24,
@@ -2996,10 +3022,22 @@
         "end": 94
       },
       {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 94,
+        "end": 97
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 107,
         "end": 109
+      },
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 109,
+        "end": 112
       },
       {
         "text": "侍郎",
@@ -3550,14 +3588,7 @@
   {
     "sentence_id": "HCH_003_047_000420",
     "sentence": "任城王澄之圍鐘離也，以思伯持節爲其軍司。",
-    "entities": [
-      {
-        "text": "任城",
-        "label": "LOC",
-        "start": 0,
-        "end": 2
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_047_000421",
@@ -4156,6 +4187,12 @@
     "sentence": "曾祖敏，仕慕容垂爲平原太守。",
     "entities": [
       {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "太守",
         "label": "TITLE",
         "start": 11,
@@ -4500,6 +4537,12 @@
         "label": "TITLE",
         "start": 21,
         "end": 23
+      },
+      {
+        "text": "李琰之",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -4894,7 +4937,14 @@
   {
     "sentence_id": "HCH_003_047_000555",
     "sentence": "裴讓之與珽早狎，於眾中嘲珽曰：「卿那得如此詭異，老馬年十歲，猶號騮駒，奸耳順，尚稱娘子。」於時喧然傳之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴讓之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_047_000556",
@@ -4950,6 +5000,12 @@
         "label": "LOC",
         "start": 8,
         "end": 15
+      },
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       },
       {
         "text": "給城",
@@ -5345,6 +5401,12 @@
         "label": "TITLE",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -5419,6 +5481,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李祖勳",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },
@@ -5460,12 +5528,26 @@
   {
     "sentence_id": "HCH_003_047_000623",
     "sentence": "是時陸令萱外幹朝政，其子穆提婆愛幸。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_047_000624",
     "sentence": "珽乃遺陸媼弟悉達書曰：「趙彥深心腹陰沈，欲行伊、霍事，儀同姊弟豈得平安！何不早用智士邪？」和士開亦以珽能決大事，欲以爲謀主，故棄除舊怨，虛心待之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_047_000625",
@@ -5548,6 +5630,12 @@
     "sentence": "斛律光甚惡之，遙見竊罵云：「多事乞索小人，欲作何計數！」嘗謂諸將云：「邊境消息，處分兵馬，趙令恆與吾等參論之。盲人掌機密來，全不共我輩語，止恐誤他國家事。」又珽頗聞其言，因其女皇后無寵，以謠言聞上，曰「百升飛上天，明月照長安」。",
     "entities": [
       {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "皇后",
         "label": "TITLE",
         "start": 88,
@@ -5564,7 +5652,14 @@
   {
     "sentence_id": "HCH_003_047_000636",
     "sentence": "令其妻兄鄭道蓋奏之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭道蓋",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_047_000637",
@@ -5579,7 +5674,14 @@
   {
     "sentence_id": "HCH_003_047_000639",
     "sentence": "帝以問韓長鸞、穆提婆，並令高元海、段士良密議之，眾人未從。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_047_000640",
@@ -5599,7 +5701,14 @@
   {
     "sentence_id": "HCH_003_047_000643",
     "sentence": "孝卿密告高元海，元海語侯呂芬、穆提婆云：「孝徵漢兒，兩眼又不見物，豈合作領軍也？」明旦面奏，具陳珽不合之狀，並書珽與廣甯王孝珩交結，無大臣體。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_047_000644",
@@ -5709,7 +5818,14 @@
   {
     "sentence_id": "HCH_003_047_000656",
     "sentence": "陸媼、穆提婆議頗同異。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_047_000657",

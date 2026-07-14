@@ -176,6 +176,12 @@
         "end": 3
       },
       {
+        "text": "魏",
+        "label": "ORG",
+        "start": 10,
+        "end": 11
+      },
+      {
         "text": "皇后",
         "label": "TITLE",
         "start": 19,
@@ -244,7 +250,14 @@
   {
     "sentence_id": "HCH_007_070_000027",
     "sentence": "明宗密令張虔釗至行欽營，戒之曰：「且堅壁勿動，計會同殺亂軍，莫錯疑誤。」行欽不聽，將步騎萬人棄甲而退。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張虔釗",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_070_000028",
@@ -418,7 +431,14 @@
   {
     "sentence_id": "HCH_007_070_000043",
     "sentence": "中都之戰，汴人大敗，魯奇見王彥章，識之，單馬追及，槍擬其頸；彥章顧曰：「爾非餘故人乎？」即擒之以獻。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_070_000044",
@@ -434,6 +454,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 13
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "授鄭州",
@@ -525,16 +551,16 @@
         "end": 13
       },
       {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      },
+      {
         "text": "令仁罕攻遂州",
         "label": "LOC",
         "start": 44,
         "end": 50
-      },
-      {
-        "text": "與孟知祥攻遂州",
-        "label": "LOC",
-        "start": 60,
-        "end": 67
       },
       {
         "text": "《九國誌·李肇傳》",
@@ -658,7 +684,20 @@
   {
     "sentence_id": "HCH_007_070_000063",
     "sentence": "奉使於蜀，及與王衍相見，陳使者之禮，因於笏記中具述莊宗興復之功，其警句云：「才過汶水，縛王彥章於馬前；旋及夷門，斬朱友貞於樓上。」嚴復聲韻清亮，蜀人聽之愕然。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      },
+      {
+        "text": "朱友貞",
+        "label": "PER",
+        "start": 57,
+        "end": 60
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_070_000064",
@@ -703,7 +742,14 @@
   {
     "sentence_id": "HCH_007_070_000067",
     "sentence": "郭崇韜起軍之日，以嚴為三川招撫使，嚴與先鋒使康延孝將兵五千，先驅閣道，或馳以詞說，或威以兵鋒，大軍未及，所在降下。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_070_000068",
@@ -738,7 +784,14 @@
   {
     "sentence_id": "HCH_007_070_000070",
     "sentence": "即日，引蜀使歐陽彬迎謁魏王繼岌。",
-    "entities": []
+    "entities": [
+      {
+        "text": "歐陽彬",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_070_000071",
@@ -755,12 +808,26 @@
   {
     "sentence_id": "HCH_007_070_000072",
     "sentence": "長興初，安重誨謀欲控製兩川，嚴乃求為西川兵馬都監，庶效方略。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_070_000073",
     "sentence": "孟知祥覺之，既至，執而害之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_070_000074",
@@ -807,6 +874,12 @@
     "sentence_id": "HCH_007_070_000078",
     "sentence": "明宗即位，錄其趨走之勞，擢居內職，復為安重誨所庇，故數年之間，遷為客省使、左衛大將軍。",
     "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -1024,6 +1097,12 @@
         "end": 21
       },
       {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
         "text": "至城",
         "label": "LOC",
         "start": 44,
@@ -1116,6 +1195,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },
@@ -1245,6 +1330,12 @@
         "label": "LOC",
         "start": 4,
         "end": 9
+      },
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -1257,6 +1348,12 @@
         "label": "LOC",
         "start": 36,
         "end": 39
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 42,
+        "end": 45
       }
     ]
   },
@@ -1324,7 +1421,20 @@
   {
     "sentence_id": "HCH_007_070_000123",
     "sentence": "副將楊光遠、次將安審琦知不濟，勸敬達宜早降以求自安。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_070_000124",
@@ -1347,6 +1457,18 @@
         "label": "TITLE",
         "start": 3,
         "end": 9
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       },
       {
         "text": "清",

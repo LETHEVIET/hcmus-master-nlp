@@ -12,7 +12,20 @@
   {
     "sentence_id": "HCH_006_070_000003",
     "sentence": "傅介子，北地人也， 〈 師古曰：「〈趙充國傳〉贊云『義渠公孫賀、傅介子』，然則介子北地義渠人也。」 〉 以從軍爲官。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "公孫賀",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_070_000004",
@@ -243,10 +256,22 @@
         "end": 135
       },
       {
+        "text": "田廣明",
+        "label": "PER",
+        "start": 135,
+        "end": 138
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 141,
         "end": 143
+      },
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 143,
+        "end": 146
       },
       {
         "text": "將軍",
@@ -355,6 +380,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "將軍",
@@ -748,6 +779,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "馮奉世",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },

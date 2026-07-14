@@ -725,6 +725,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "蕭思話",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -755,6 +761,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "蕭承之",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "遂平梁州",
@@ -914,7 +926,14 @@
   {
     "sentence_id": "HCH_003_096_000082",
     "sentence": "宋文帝怒，遣將裴方明等伐之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴方明",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_096_000083",
@@ -1127,6 +1146,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "魏子建",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1197,6 +1222,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "劉義宣",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -1457,6 +1488,12 @@
     "sentence": "夏侯道遷以漢中歸順也，梁白馬戍主尹天保率眾圍之。",
     "entities": [
       {
+        "text": "夏侯道遷",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
+      {
         "text": "漢",
         "label": "ORG",
         "start": 5,
@@ -1501,6 +1538,12 @@
         "end": 11
       },
       {
+        "text": "傅豎眼",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "以為武興鎮",
         "label": "LOC",
         "start": 34,
@@ -1536,6 +1579,12 @@
     "sentence_id": "HCH_003_096_000137",
     "sentence": "正光中，詔魏子建為刺史，以恩信招撫，風化大行，遠近款附，如內地焉。",
     "entities": [
+      {
+        "text": "魏子建",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -1635,6 +1684,12 @@
         "label": "TITLE",
         "start": 33,
         "end": 35
+      },
+      {
+        "text": "長孫澄",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       }
     ]
   },
@@ -1815,6 +1870,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 7
+      },
+      {
+        "text": "宇文貴",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "大都",
@@ -2353,6 +2414,12 @@
     "sentence": "太尉長孫嵩及議郎、博士二百七十九人議曰：",
     "entities": [
       {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "博士",
         "label": "TITLE",
         "start": 9,
@@ -2683,14 +2750,7 @@
   {
     "sentence_id": "HCH_003_096_000262",
     "sentence": "獻文復詔上党王長孫觀等率州郡兵討拾寅。",
-    "entities": [
-      {
-        "text": "王長孫觀等率州",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_096_000263",
@@ -2727,6 +2787,12 @@
         "label": "LOC",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "長孫觀",
+        "label": "PER",
+        "start": 36,
+        "end": 39
       },
       {
         "text": "大都",
@@ -3246,7 +3312,20 @@
   {
     "sentence_id": "HCH_003_096_000335",
     "sentence": "賀蘭祥、宇文貴率兵討之，誇呂遣其廣定王、鍾留王拒戰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀蘭祥",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "宇文貴",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_096_000336",
@@ -3677,7 +3756,14 @@
   {
     "sentence_id": "HCH_003_096_000378",
     "sentence": "帝復令觀德王雄出澆河，許公宇文述出西平掩之，大破其眾。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_096_000379",
@@ -3961,7 +4047,14 @@
   {
     "sentence_id": "HCH_003_096_000425",
     "sentence": "楊文度之叛，圍武都，彌機遣其二兄率眾救武都，破走文度。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊文度",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_096_000426",
@@ -4688,12 +4781,6 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
-      },
-      {
-        "text": "劉平伏又據上郡",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
       }
     ]
   },
@@ -4705,7 +4792,14 @@
   {
     "sentence_id": "HCH_003_096_000532",
     "sentence": "周文前後遣于謹、侯莫陳崇、李弼等相繼討平之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳崇",
+        "label": "PER",
+        "start": 8,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_096_000533",
@@ -4775,12 +4869,6 @@
         "label": "TITLE",
         "start": 15,
         "end": 17
-      },
-      {
-        "text": "孝寬於險要築城",
-        "label": "LOC",
-        "start": 18,
-        "end": 25
       }
     ]
   },
@@ -4816,6 +4904,12 @@
         "label": "LOC",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "達奚震",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       }
     ]
   },
@@ -4834,12 +4928,6 @@
         "label": "LOC",
         "start": 6,
         "end": 8
-      },
-      {
-        "text": "管宇文盛率眾城",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
       }
     ]
   },

@@ -84,7 +84,14 @@
   {
     "sentence_id": "HCH_008_050_000016",
     "sentence": "及受禪，詔納言劉文靜與當朝通識之士，因開皇律令而損益之，盡削大業所用煩峻之法。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000017",
@@ -108,10 +115,34 @@
         "end": 13
       },
       {
-        "text": "涇州",
-        "label": "LOC",
-        "start": 47,
-        "end": 49
+        "text": "崔善為",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
+        "text": "王敬業",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "劉林甫",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      },
+      {
+        "text": "顏師古",
+        "label": "PER",
+        "start": 40,
+        "end": 43
+      },
+      {
+        "text": "李桐客",
+        "label": "PER",
+        "start": 73,
+        "end": 76
       },
       {
         "text": "博士",
@@ -267,7 +298,20 @@
   {
     "sentence_id": "HCH_008_050_000042",
     "sentence": "及太宗即位，又命長孫無忌、房玄齡與學士法官，更加厘改。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 8,
+        "end": 12
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000043",
@@ -288,6 +332,12 @@
         "label": "TITLE",
         "start": 41,
         "end": 43
+      },
+      {
+        "text": "裴弘獻",
+        "label": "PER",
+        "start": 272,
+        "end": 275
       }
     ]
   },
@@ -663,6 +713,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -681,6 +737,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 16
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 19,
+        "end": 23
       }
     ]
   },
@@ -693,6 +755,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 9
+      },
+      {
+        "text": "劉仁軌",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -711,6 +779,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 15
+      },
+      {
+        "text": "裴居道",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -933,7 +1007,14 @@
   {
     "sentence_id": "HCH_008_050_000125",
     "sentence": "大理丞張蘊古奏，好德癲病有征，法不當坐。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張蘊古",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000126",
@@ -944,6 +1025,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "權萬紀",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "劾蘊古貫相州",
@@ -978,6 +1065,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "盧祖尚",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1011,12 +1104,26 @@
   {
     "sentence_id": "HCH_008_050_000134",
     "sentence": "太宗既誅張蘊古之後，法官以出罪為誡，時有失入者，又不加罪焉，由是刑網頗密。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張蘊古",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000135",
     "sentence": "帝嘗問大理卿劉德威曰：「近來刑網稍密，何也？」德威對曰：「律文失入減三等，失出減五等。今失入則無辜，失出則便獲大罪，所由吏皆深文。」太宗然其言。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉德威",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000136",
@@ -1061,10 +1168,40 @@
     "sentence": "永徽初，敕太尉長孫無忌、司空李勣、左僕射于志寧、右僕射行成、侍中高季輔、黃門侍郎宇文節柳奭、右丞段寶玄、太常少卿令狐德棻、吏部侍郎高敬言、刑部侍郎劉燕客、給事中趙文恪，中書舍人李友益、少府丞張行實、大理丞元紹、太府丞王文端、刑部郎中賈敏行等，共撰定律令格式。",
     "entities": [
       {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 7,
+        "end": 11
+      },
+      {
+        "text": "于志寧",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 38,
         "end": 40
+      },
+      {
+        "text": "宇文節",
+        "label": "PER",
+        "start": 40,
+        "end": 43
+      },
+      {
+        "text": "段寶玄",
+        "label": "PER",
+        "start": 48,
+        "end": 51
+      },
+      {
+        "text": "令狐德棻",
+        "label": "PER",
+        "start": 56,
+        "end": 60
       },
       {
         "text": "侍郎",
@@ -1073,10 +1210,34 @@
         "end": 65
       },
       {
+        "text": "高敬言",
+        "label": "PER",
+        "start": 65,
+        "end": 68
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 71,
         "end": 73
+      },
+      {
+        "text": "趙文恪",
+        "label": "PER",
+        "start": 80,
+        "end": 83
+      },
+      {
+        "text": "李友益",
+        "label": "PER",
+        "start": 88,
+        "end": 91
+      },
+      {
+        "text": "張行實",
+        "label": "PER",
+        "start": 95,
+        "end": 98
       }
     ]
   },
@@ -1168,6 +1329,12 @@
         "end": 103
       },
       {
+        "text": "段寶玄",
+        "label": "PER",
+        "start": 107,
+        "end": 110
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 113,
@@ -1257,10 +1424,22 @@
         "end": 4
       },
       {
+        "text": "李敬玄",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 30,
         "end": 32
+      },
+      {
+        "text": "李文禮",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },
@@ -1281,16 +1460,64 @@
     "sentence": "至儀鳳中，官號復舊，又敕左僕射劉仁軌、右僕射戴至德、侍中張文瓘、中書令李敬玄、右庶子郝處俊、黃門侍郎來恆、左庶子高智周、右庶子李義琰、吏部侍郎裴行儉馬載、兵部侍郎蕭德昭裴炎、工部侍郎李義琛、刑部侍郎張楚、金部郎中盧律師等，刪緝格式。",
     "entities": [
       {
+        "text": "劉仁軌",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "戴至德",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
+        "text": "張文瓘",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
+        "text": "李敬玄",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      },
+      {
+        "text": "郝處俊",
+        "label": "PER",
+        "start": 42,
+        "end": 45
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 48,
         "end": 50
       },
       {
+        "text": "高智周",
+        "label": "PER",
+        "start": 56,
+        "end": 59
+      },
+      {
+        "text": "李義琰",
+        "label": "PER",
+        "start": 63,
+        "end": 66
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 69,
         "end": 71
+      },
+      {
+        "text": "裴行儉",
+        "label": "PER",
+        "start": 71,
+        "end": 74
       },
       {
         "text": "侍郎",
@@ -1303,6 +1530,12 @@
         "label": "TITLE",
         "start": 89,
         "end": 91
+      },
+      {
+        "text": "李義琛",
+        "label": "PER",
+        "start": 91,
+        "end": 94
       },
       {
         "text": "侍郎",
@@ -1328,6 +1561,12 @@
     "sentence_id": "HCH_008_050_000153",
     "sentence": "先是詳刑少卿趙仁本撰《法例》三卷，引以斷獄，時議亦為折衷。",
     "entities": [
+      {
+        "text": "趙仁本",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "《法例》",
         "label": "TITLE",
@@ -1403,16 +1642,40 @@
     "sentence": "則天又敕內史裴居道、夏官尚書岑長倩、鳳閣侍郎韋方質與刪定官袁智弘等十餘人，刪改格式，加計帳及勾帳式，通舊式成二十卷。",
     "entities": [
       {
+        "text": "裴居道",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 12,
         "end": 14
       },
       {
+        "text": "岑長倩",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "韋方質",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
+        "text": "袁智弘",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -1445,6 +1708,18 @@
     "sentence": "時韋方質詳練法理，又委其事于咸陽尉王守慎，又有經理之才，故《垂拱格》、《式》，議者稱為詳密。",
     "entities": [
       {
+        "text": "韋方質",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "王守慎",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "《垂拱格》",
         "label": "TITLE",
         "start": 29,
@@ -1466,7 +1741,14 @@
   {
     "sentence_id": "HCH_008_050_000170",
     "sentence": "然則天嚴于用刑，屬徐敬業作亂，及豫、博兵起之後，恐人心動搖，欲以威制天下，漸引酷吏，務令深文，以案刑獄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐敬業",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000171",
@@ -1532,7 +1814,14 @@
   {
     "sentence_id": "HCH_008_050_000179",
     "sentence": "時周興、來俊臣等，相次受制推究大獄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000180",
@@ -1555,6 +1844,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "侯思止",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -1613,7 +1908,14 @@
   {
     "sentence_id": "HCH_008_050_000191",
     "sentence": "麟台正字陳子昂上書曰：",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳子昂",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000192",
@@ -1921,7 +2223,14 @@
   {
     "sentence_id": "HCH_008_050_000247",
     "sentence": "於是蕭銑、硃粲起于荊南，李密、竇建德亂于河北。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000248",
@@ -2135,6 +2444,12 @@
     "sentence": "時司刑少卿徐有功常駁酷吏所奏，每日與之廷爭得失，以雪冤濫，因此全濟者亦不可勝數，語在《有功傳》。",
     "entities": [
       {
+        "text": "徐有功",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "《有功傳》",
         "label": "TITLE",
         "start": 42,
@@ -2150,7 +2465,20 @@
   {
     "sentence_id": "HCH_008_050_000283",
     "sentence": "前後宰相王及善、姚元崇、硃敬則等，皆言垂拱已來身死破家者，皆是枉濫，則天頗亦覺悟。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王及善",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "姚元崇",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000284",
@@ -2172,7 +2500,32 @@
   {
     "sentence_id": "HCH_008_050_000286",
     "sentence": "其周興、來俊臣、丘神勣、萬國俊、王弘義、侯思止、郭弘霸、李敬仁、彭先覺、王德壽、張知默者，即堯年四凶矣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "丘神勣",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "侯思止",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
+        "text": "張知默",
+        "label": "PER",
+        "start": 40,
+        "end": 43
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000287",
@@ -2192,12 +2545,26 @@
   {
     "sentence_id": "HCH_008_050_000290",
     "sentence": "竊見來俊臣身處極法者，以其羅織良善，屠陷忠賢，籍沒以勸將來，顯戮以謝天下。",
-    "entities": []
+    "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000291",
     "sentence": "臣又聞之道路，上至聖主，傍洎貴臣，明明知有羅織之事矣，俊臣既死，推者獲功，胡元禮超遷，裴談顯授，中外稱慶，朝廷載安。",
-    "entities": []
+    "entities": [
+      {
+        "text": "胡元禮",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000292",
@@ -2217,7 +2584,14 @@
   {
     "sentence_id": "HCH_008_050_000295",
     "sentence": "故徐有功以寬平而見忌，斛瑟羅以妓女而受拘，中外具知，枉直斯在，藉以為喻，其餘可詳。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐有功",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000296",
@@ -2247,12 +2621,32 @@
   {
     "sentence_id": "HCH_008_050_000301",
     "sentence": "臣以至愚，不識大體，儻使平反者數人，眾共詳覆來俊臣等所推大獄，庶鄧艾獲申於今日，孝婦不濫于昔時，恩渙一流，天下幸甚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000302",
     "sentence": "疏奏，制令錄來俊臣、丘神勣等所推鞫人身死籍沒者，令三司重推勘，有冤濫者，並皆雪免。",
-    "entities": []
+    "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "丘神勣",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000303",
@@ -2265,6 +2659,12 @@
         "end": 6
       },
       {
+        "text": "徐有功",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "追贈越州",
         "label": "LOC",
         "start": 23,
@@ -2275,7 +2675,50 @@
   {
     "sentence_id": "HCH_008_050_000304",
     "sentence": "又以丘神勣、來子珣、萬國俊、周興、來俊臣、魚承曄、王景昭、索元禮、傅遊藝、王弘義、張知默、裴籍、焦仁亶、侯思止、郭霸、李敬仁、皇甫文備、陳嘉言、劉光業、王德壽、王處貞、屈貞筠、鮑思恭二十三人，自垂拱已來並枉濫殺人，所有官爵，並令追奪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "丘神勣",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "索元禮",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "傅遊藝",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      },
+      {
+        "text": "張知默",
+        "label": "PER",
+        "start": 41,
+        "end": 44
+      },
+      {
+        "text": "侯思止",
+        "label": "PER",
+        "start": 52,
+        "end": 55
+      },
+      {
+        "text": "皇甫文備",
+        "label": "PER",
+        "start": 63,
+        "end": 67
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000305",
@@ -2292,16 +2735,34 @@
     "sentence": "敕中書令韋安石、禮部侍郎祝欽明、尚書右丞蘇瑰、兵部郎中狄光嗣等，刪定《垂拱格》後至神龍元年已來制敕，為《散頒格》七卷。",
     "entities": [
       {
+        "text": "韋安石",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 10,
         "end": 12
       },
       {
+        "text": "祝欽明",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "狄光嗣",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       },
       {
         "text": "《垂拱格》",
@@ -2343,6 +2804,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "陸象先",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -2375,6 +2842,12 @@
         "end": 2
       },
       {
+        "text": "盧懷慎",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 16,
@@ -2391,6 +2864,24 @@
         "label": "TITLE",
         "start": 28,
         "end": 30
+      },
+      {
+        "text": "呂延祚",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      },
+      {
+        "text": "魏奉古",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      },
+      {
+        "text": "高智靜",
+        "label": "PER",
+        "start": 52,
+        "end": 55
       },
       {
         "text": "同州韓城縣",
@@ -2447,16 +2938,40 @@
         "end": 26
       },
       {
+        "text": "盧從願",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 34,
         "end": 36
       },
       {
+        "text": "慕容珣",
+        "label": "PER",
+        "start": 38,
+        "end": 41
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 44,
         "end": 46
+      },
+      {
+        "text": "劉令植",
+        "label": "PER",
+        "start": 53,
+        "end": 56
+      },
+      {
+        "text": "高智靜",
+        "label": "PER",
+        "start": 61,
+        "end": 64
       },
       {
         "text": "幽州",
@@ -2495,6 +3010,12 @@
         "end": 3
       },
       {
+        "text": "裴光庭",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "《格後長行敕》",
         "label": "TITLE",
         "start": 45,
@@ -2517,6 +3038,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2525,10 +3052,22 @@
     "sentence": "林甫遷中書令，乃與侍中牛仙客、御史中丞王敬從，與明法之官前左武衛胄曹參軍崔見、衛州司戶參軍直中書陳承信、酸棗尉直刑部俞元杞等，共加刪緝舊格、式、律、令及敕，總七千二十六條。",
     "entities": [
       {
+        "text": "牛仙客",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "王敬從",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       },
       {
         "text": "衛州",
@@ -2722,6 +3261,12 @@
         "label": "TITLE",
         "start": 47,
         "end": 49
+      },
+      {
+        "text": "韓擇木",
+        "label": "PER",
+        "start": 51,
+        "end": 54
       }
     ]
   },
@@ -2729,6 +3274,12 @@
     "sentence_id": "HCH_008_050_000334",
     "sentence": "初，西京文武官陸大鈞等陷賊來歸，崔器草儀，盡令免冠徒跣，撫膺號泣，以金吾府縣人吏圍之，於朝謝罪，收付大理京兆府獄系之。",
     "entities": [
+      {
+        "text": "陸大鈞",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "以金吾府縣",
         "label": "LOC",
@@ -2740,12 +3291,32 @@
   {
     "sentence_id": "HCH_008_050_000335",
     "sentence": "及陳希烈等大臣至者數百人，又令朝堂徒跣如初，令宰相苗晉卿、崔圓、李麟等百僚同視，以為棄辱，宣詔以責之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳希烈",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "苗晉卿",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000336",
     "sentence": "朝廷又以負罪者眾，獄中不容，乃賜楊國忠宅鞫之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000337",
@@ -2767,7 +3338,14 @@
   {
     "sentence_id": "HCH_008_050_000339",
     "sentence": "於是河南尹達奚珣等三十九人，以為罪重，與從共棄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "達奚珣",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000340",
@@ -2784,12 +3362,32 @@
   {
     "sentence_id": "HCH_008_050_000341",
     "sentence": "陳希烈、張垍、郭納、獨孤朗等七人，於大理寺獄賜自盡。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳希烈",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "獨孤朗",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000342",
     "sentence": "達奚摯、張岯、李有孚、劉子英、冉大華二十一人，於京兆府門決重杖死。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉子英",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_050_000343",
@@ -2800,6 +3398,12 @@
         "label": "LOC",
         "start": 15,
         "end": 22
+      },
+      {
+        "text": "達奚珣",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -2812,6 +3416,12 @@
         "label": "LOC",
         "start": 3,
         "end": 8
+      },
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2874,6 +3484,12 @@
         "label": "TME",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "史朝義",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -3223,6 +3839,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "許孟容",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -3235,6 +3857,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "劉伯芻",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -3253,6 +3881,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       },
       {
         "text": "二年",

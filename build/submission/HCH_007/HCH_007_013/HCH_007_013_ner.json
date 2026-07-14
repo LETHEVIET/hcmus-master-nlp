@@ -234,6 +234,12 @@
         "end": 17
       },
       {
+        "text": "朱友裕",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
         "text": "三年",
         "label": "TME",
         "start": 30,
@@ -427,6 +433,12 @@
         "end": 27
       },
       {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 36,
+        "end": 39
+      },
+      {
         "text": "小校閻寶以城",
         "label": "LOC",
         "start": 45,
@@ -467,6 +479,12 @@
         "label": "LOC",
         "start": 6,
         "end": 9
+      },
+      {
+        "text": "楊行密",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -516,6 +534,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 12
+      },
+      {
+        "text": "徐知訓",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "四年",
@@ -605,6 +629,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 10
+      },
+      {
+        "text": "楊隆演",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       },
       {
         "text": "《五代史補》",
@@ -738,6 +768,12 @@
         "end": 315
       },
       {
+        "text": "朱全忠",
+        "label": "PER",
+        "start": 326,
+        "end": 329
+      },
+      {
         "text": "六七年",
         "label": "TME",
         "start": 395,
@@ -778,6 +814,18 @@
         "label": "LOC",
         "start": 487,
         "end": 493
+      },
+      {
+        "text": "王重師",
+        "label": "PER",
+        "start": 525,
+        "end": 528
+      },
+      {
+        "text": "牛存節",
+        "label": "PER",
+        "start": 529,
+        "end": 532
       },
       {
         "text": "二年",
@@ -951,6 +999,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "楊行密",
+        "label": "PER",
+        "start": 74,
+        "end": 77
       },
       {
         "text": "遣將劉鄩襲兗州",
@@ -1177,12 +1231,25 @@
   {
     "sentence_id": "HCH_007_013_000109",
     "sentence": "劉知俊",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_013_000110",
     "sentence": "劉知俊，字希賢，徐州沛縣人也。",
     "entities": [
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "徐州沛縣",
         "label": "LOC",
@@ -1370,6 +1437,12 @@
     "sentence": "時知俊威望益隆，太祖雄猜日甚，會佑國軍節度使王重師無罪見誅，知俊居不自安，乃據同州叛， 〈 （《鑒戒錄》云：彭城王劉知俊鎮同州日，因築營牆，掘得一物，重八十餘斤，狀若油囊，召賓幕將校問之。劉源曰：「此是冤氣所結，古來囹圄之地或有焉。昔王充據洛陽，修河南府獄，亦獲此物。源聞酒能忘憂，奠以醇醪，或可消釋耳。然此物之出，亦非吉征也。」知俊命具酒饌祝酹，復瘞之。尋有叛城背主之事。） 〉 送款於李茂貞。",
     "entities": [
       {
+        "text": "王重師",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
         "text": "乃據同州",
         "label": "LOC",
         "start": 37,
@@ -1380,12 +1453,6 @@
         "label": "TITLE",
         "start": 47,
         "end": 52
-      },
-      {
-        "text": "彭城王劉知俊鎮",
-        "label": "LOC",
-        "start": 54,
-        "end": 61
       },
       {
         "text": "同州",
@@ -1429,6 +1496,12 @@
     "sentence_id": "HCH_007_013_000128",
     "sentence": "太祖聞知俊叛，遣近臣諭之曰：「朕待卿甚厚，何相負耶？」知俊報曰：「臣非背德，但畏死耳！王重師不負陛下，而致族滅！」太祖復遣使謂知俊曰：「朕不料卿為此。昨重師得罪，蓋劉捍言陰結邠、鳳，終不為國家用。我今雖知枉濫，悔不可追，致卿如斯，我心恨恨，蓋劉捍誤予事也，捍一死固未塞責。」知俊不報，遂分兵以守潼關。",
     "entities": [
+      {
+        "text": "王重師",
+        "label": "PER",
+        "start": 43,
+        "end": 46
+      },
       {
         "text": "遂分兵以守潼關",
         "label": "LOC",
@@ -1483,6 +1556,12 @@
     "sentence": "靈武節度使韓遜遣使來告急，太祖令康懷英率師救之，師次邠州長城嶺，為知俊邀擊，懷英敗歸。",
     "entities": [
       {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
         "text": "師次邠州長城",
         "label": "LOC",
         "start": 24,
@@ -1499,6 +1578,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 8
+      },
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "塗經長城",
@@ -1541,6 +1626,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 13
+      },
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       },
       {
         "text": "成路奪固鎮",
@@ -1645,6 +1736,18 @@
         "end": 3
       },
       {
+        "text": "李保衡",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "知俊遂圍其城",
         "label": "LOC",
         "start": 27,
@@ -1656,12 +1759,6 @@
     "sentence_id": "HCH_007_013_000142",
     "sentence": "會李繼崇以秦州降於蜀，知俊妻孥皆遷於成都，遂解邠州之圍而歸岐陽。",
     "entities": [
-      {
-        "text": "會李繼崇以秦州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      },
       {
         "text": "成都",
         "label": "LOC",
@@ -1719,7 +1816,14 @@
   {
     "sentence_id": "HCH_007_013_000147",
     "sentence": "先是，王建雖加寵待，然亦忌之，嘗謂近侍曰：「吾漸衰耗，恒思身後。劉知俊非爾輩能駕馭，不如早為之所。」又嫉其名者於裏巷間作謠言云：「黑牛出圈棕繩斷。」知俊色黔而醜生，棕繩者，王氏子孫皆以「宗」、「承」為名，故以此構之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_013_000148",
@@ -1804,6 +1908,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -1815,12 +1925,26 @@
   {
     "sentence_id": "HCH_007_013_000158",
     "sentence": "楊崇本",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊崇本",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_013_000159",
     "sentence": "楊崇本，不知何許人，幼為李茂貞之假子，因冒姓李氏，名繼徽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊崇本",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_013_000160",
@@ -1952,6 +2076,18 @@
         "end": 5
       },
       {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "復歸於邠州",
         "label": "LOC",
         "start": 25,
@@ -1974,7 +2110,14 @@
   {
     "sentence_id": "HCH_007_013_000175",
     "sentence": "彥魯自稱留後，領其軍事，凡五十餘日，為崇本養子李保衡所殺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李保衡",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_013_000176",
@@ -1985,6 +2128,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -2058,7 +2207,14 @@
   {
     "sentence_id": "HCH_007_013_000185",
     "sentence": "末帝乃下詔削奪殷在身官爵，仍令卻還本姓，命牛存節、劉鄩等率軍討之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "牛存節",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_013_000186",
@@ -2086,12 +2242,25 @@
   {
     "sentence_id": "HCH_007_013_000188",
     "sentence": "張萬進",
-    "entities": []
+    "entities": [
+      {
+        "text": "張萬進",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_013_000189",
     "sentence": "張萬進，雲州人。",
     "entities": [
+      {
+        "text": "張萬進",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "雲州",
         "label": "LOC",

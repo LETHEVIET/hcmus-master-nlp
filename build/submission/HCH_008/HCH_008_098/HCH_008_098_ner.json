@@ -2,17 +2,55 @@
   {
     "sentence_id": "HCH_008_098_000001",
     "sentence": "魏知古　盧懷愼 子:奐 源乾曜 從孫:光裕　光裕子:洧 李元紘　杜暹　韓休　裴耀卿 孫:佶",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏知古",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "源乾曜",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "李元紘",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
+        "text": "裴耀卿",
+        "label": "PER",
+        "start": 38,
+        "end": 41
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_098_000002",
     "sentence": "魏知古",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏知古",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_098_000003",
     "sentence": "魏知古，深州陸澤人也。",
     "entities": [
+      {
+        "text": "魏知古",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "深州",
         "label": "LOC",
@@ -320,7 +358,14 @@
   {
     "sentence_id": "HCH_008_098_000032",
     "sentence": "竇懷貞等將謀逆也，知古獨密奏其事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇懷貞",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_098_000033",
@@ -331,6 +376,12 @@
     "sentence_id": "HCH_008_098_000034",
     "sentence": "仍以前賞猶薄，又手敕曰：「魏知古去年十月已前，屢申啓沃，毎竭忠誠，姦臣有謀，預奏其兆。事君之節，良有可嘉，可更賜實封一百戸。」其年冬，令往東都知吏部尚書事，深以爲稱職，手制曰：「卿以宰臣，往知大選，官人之委，情寄尤切。遂能端本革弊，忘私徇公，正色而行，厝心不撓。鏡已澈則妍媸必鑒，衡已舉則輕重罔違。朕遠聞之，益用嘉嘆。今賜卿衣裳一副，以示所懷。」",
     "entities": [
+      {
+        "text": "魏知古",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -422,6 +473,12 @@
         "end": 8
       },
       {
+        "text": "呂太一",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "蒲州",
         "label": "LOC",
         "start": 18,
@@ -444,6 +501,18 @@
         "label": "LOC",
         "start": 8,
         "end": 13
+      },
+      {
+        "text": "封希顏",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "text": "陳希烈",
+        "label": "PER",
+        "start": 33,
+        "end": 36
       }
     ]
   },
@@ -950,6 +1019,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "魏知古",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -1044,12 +1119,26 @@
   {
     "sentence_id": "HCH_008_098_000125",
     "sentence": "李朝隱操履堅貞，才識通贍，守文奉法，頗懷鐵石之心，事上竭誠，實盡人臣之節。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李朝隱",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_098_000126",
     "sentence": "盧從願淸貞謹愼，理識周密，始終若一，朝野共知，簡要之才，不可多得。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧從願",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_098_000127",
@@ -1247,6 +1336,12 @@
         "end": 4
       },
       {
+        "text": "劉巨鱗",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "太守",
         "label": "TITLE",
         "start": 23,
@@ -1280,6 +1375,18 @@
         "label": "TME",
         "start": 7,
         "end": 10
+      },
+      {
+        "text": "裴伷先",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "李朝隱",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -1344,12 +1451,25 @@
   {
     "sentence_id": "HCH_008_098_000156",
     "sentence": "源乾曜",
-    "entities": []
+    "entities": [
+      {
+        "text": "源乾曜",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_098_000157",
     "sentence": "源乾曜，相州臨漳人。",
     "entities": [
+      {
+        "text": "源乾曜",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "相州",
         "label": "LOC",
@@ -1479,7 +1599,14 @@
   {
     "sentence_id": "HCH_008_098_000167",
     "sentence": "旬日，與姚元之倶罷知政事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚元之",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_098_000168",
@@ -1575,6 +1702,12 @@
         "label": "TME",
         "start": 35,
         "end": 37
+      },
+      {
+        "text": "張嘉貞",
+        "label": "PER",
+        "start": 58,
+        "end": 61
       }
     ]
   },
@@ -1605,6 +1738,12 @@
         "label": "TME",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "張嘉貞",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1616,7 +1755,14 @@
   {
     "sentence_id": "HCH_008_098_000181",
     "sentence": "初，乾曜因姜皎所薦，遂擢用；及皎得罪，爲張嘉貞所擠，乾曜竟不救之，議者以此譏焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張嘉貞",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_098_000182",
@@ -1710,6 +1856,12 @@
     "sentence": "初爲中書舍人，與楊滔、劉令植等同刪定《開元新格》。",
     "entities": [
       {
+        "text": "劉令植",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "《開元新格》",
         "label": "TITLE",
         "start": 18,
@@ -1797,6 +1949,12 @@
     "sentence": "及安祿山反，既犯東京，乃以洧爲江陵郡大都督府長史、本道采訪防禦使、攝御史中丞，以兵部郎中徐浩爲襄州刺史、本州防禦守捉使以禦之。",
     "entities": [
       {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "乃以洧爲江陵郡",
         "label": "LOC",
         "start": 11,
@@ -1842,12 +2000,25 @@
   {
     "sentence_id": "HCH_008_098_000197",
     "sentence": "李元紘",
-    "entities": []
+    "entities": [
+      {
+        "text": "李元紘",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_098_000198",
     "sentence": "李元紘，其先滑州人，世居京兆之萬年。",
     "entities": [
+      {
+        "text": "李元紘",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "其先滑州",
         "label": "LOC",
@@ -2048,14 +2219,7 @@
   {
     "sentence_id": "HCH_008_098_000214",
     "sentence": "竇懷貞爲雍州長史，大懼太平勢，促令元紘改斷，元紘大署判後曰：「南山或可改移，此判終無搖動。」竟執正不撓，懷貞不能奪之。",
-    "entities": [
-      {
-        "text": "竇懷貞爲雍州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_098_000215",
@@ -2130,6 +2294,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "白知愼",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "刺史",
@@ -2380,6 +2550,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "李文暕",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -2471,7 +2647,14 @@
   {
     "sentence_id": "HCH_008_098_000251",
     "sentence": "會安西副都護郭虔瓘與西突厥可汗史獻、鎭守使劉遐慶等不葉，更相執奏，詔暹按其事實。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭虔瓘",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_098_000252",
@@ -2514,6 +2697,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "張孝嵩",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "侍郎",
@@ -2585,6 +2774,12 @@
     "sentence": "後與李元紘不葉，罷知政事，出爲荊州大都督府長史。",
     "entities": [
       {
+        "text": "李元紘",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "出爲荊州",
         "label": "LOC",
         "start": 13,
@@ -2655,6 +2850,12 @@
     "sentence_id": "HCH_008_098_000269",
     "sentence": "上聞而嘉之，賜敕書曰：「卿素以淸直，兼之勤幹。自委居守，毎事多能，政肅官僚，惠及黎庶。城隍宮室，隨事修營，且有成功，不疲人力。甚善甚善，慰朕懷也。」俄代李林甫爲禮部尚書，累封魏縣侯。",
     "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 76,
+        "end": 79
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -2791,6 +2992,12 @@
         "end": 3
       },
       {
+        "text": "李行褒",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "則天令大敏就州",
         "label": "LOC",
         "start": 19,
@@ -2840,7 +3047,14 @@
   {
     "sentence_id": "HCH_008_098_000289",
     "sentence": "玄宗時在春宮，親問國政，休對策與校書郎趙冬曦並爲乙第，擢授左補闕。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙冬曦",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_098_000290",
@@ -2954,6 +3168,12 @@
         "end": 6
       },
       {
+        "text": "裴光庭",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 38,
@@ -2971,10 +3191,22 @@
     "sentence": "俄有萬年尉李美玉得罪，上特令流之嶺外，休進曰：「美玉卑位，所犯又非巨害，今朝廷有大姦，尚不能去，豈得舍大而取小也！臣竊見金吾大將軍程伯獻，依恃恩寵，所在貪冒，第宅輿馬，僭擬過縱。臣請先出伯獻而後罪美玉。」上初不許之，休固爭曰：「美玉微細猶不容，伯獻巨猾豈得不問！陛下若不出伯獻，臣即不敢奉詔流美玉。」上以其切直，從之。",
     "entities": [
       {
+        "text": "李美玉",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 62,
         "end": 65
+      },
+      {
+        "text": "程伯獻",
+        "label": "PER",
+        "start": 65,
+        "end": 68
       }
     ]
   },
@@ -3121,6 +3353,12 @@
         "end": 4
       },
       {
+        "text": "鮮于仲通",
+        "label": "PER",
+        "start": 37,
+        "end": 41
+      },
+      {
         "text": "配流循州",
         "label": "LOC",
         "start": 44,
@@ -3148,7 +3386,14 @@
   {
     "sentence_id": "HCH_008_098_000314",
     "sentence": "屬安祿山反，西京失守，洪陷於賊，賊授官，將見委任，洪與浩及汯、滉、渾同奔山谷，以投行在。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_098_000315",
@@ -3191,12 +3436,25 @@
   {
     "sentence_id": "HCH_008_098_000320",
     "sentence": "裴耀卿",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴耀卿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_098_000321",
     "sentence": "裴耀卿，贈戸部尚書守眞子也。",
     "entities": [
+      {
+        "text": "裴耀卿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -3755,7 +4013,14 @@
   {
     "sentence_id": "HCH_008_098_000384",
     "sentence": "俄而特進蓋嘉運破突騎施立功還，詔加河西、隴右兩節度使，仍令經略吐蕃。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蓋嘉運",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_098_000385",
@@ -3766,6 +4031,12 @@
     "sentence_id": "HCH_008_098_000386",
     "sentence": "耀卿密上疎曰：「伏見蓋嘉運立功破賊，更委兩軍，以勇果之才，承戰勝之勢，吐蕃小醜，不足殲夷。然臣近日與其同班，觀其舉措，精勁勇烈，誠則有餘，言氣矜誇，恐難成事。莫敖敗於蒲騷之役，舉趾稍髙，《春秋》書之爲懲誡。恐其有驕敵之色，臣竊憂之。入秋防邊，日月稍逼，接對人吏，須識其宜。今將撫邊軍，未言發日，若臨事始去，人吏未識，雖決在一時，恐將非制勝萬全之道。況兵未訓練，不知禮法，人未懷惠，士未同心，求其忘性命於一時，憚嚴刑於少選，縱威逼而進，因而立功，恐非師出以律，久長之義。又萬人性命，決在將軍，不得已而行之，鑿兇門而即路。今酣宴朝夕，優渥有餘，亦恐非愛人憂國之意，不可不察。若不可回換，即望速遣進途，仍乞聖恩，勗以嚴命。」疎奏，上乃促嘉運赴軍，竟以無功而還。",
     "entities": [
+      {
+        "text": "蓋嘉運",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "《春秋》",
         "label": "TITLE",
@@ -3865,7 +4136,14 @@
   {
     "sentence_id": "HCH_008_098_000398",
     "sentence": "李懷光以河中叛，朝廷欲以含垢爲意，佶抗議請討，上深器之，前席慰勉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_098_000399",
@@ -3882,7 +4160,14 @@
   {
     "sentence_id": "HCH_008_098_000400",
     "sentence": "會黔中觀察使韋士宗慘酷馭下，爲夷獠所逐，俾佶代之，酋渠自化。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋士宗",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_098_000401",
@@ -3976,7 +4261,14 @@
   {
     "sentence_id": "HCH_008_098_000408",
     "sentence": "與鄭餘慶特相友善，佶歿後，餘慶行朋友之服，搢紳美之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭餘慶",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_098_000409",
@@ -3986,7 +4278,32 @@
   {
     "sentence_id": "HCH_008_098_000410",
     "sentence": "史臣曰：魏知古、盧懷愼、源乾曜、李元紘、杜暹、韓休、裴耀卿，悉蘊器能，咸居宰輔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏知古",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "源乾曜",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "李元紘",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "裴耀卿",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_098_000411",

@@ -267,6 +267,12 @@
         "label": "LOC",
         "start": 5,
         "end": 8
+      },
+      {
+        "text": "鄭元璹",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -346,6 +352,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "久且洛生",
+        "label": "PER",
+        "start": 4,
+        "end": 8
       }
     ]
   },
@@ -358,6 +370,12 @@
         "label": "LOC",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "李道彥",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -375,6 +393,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "劉師立",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "拜赤辭為西戎州",
@@ -482,6 +506,12 @@
         "label": "TME",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "崔光遠",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -566,6 +596,12 @@
         "label": "TITLE",
         "start": 82,
         "end": 84
+      },
+      {
+        "text": "臧希讓",
+        "label": "PER",
+        "start": 84,
+        "end": 87
       }
     ]
   },
@@ -977,7 +1013,14 @@
   {
     "sentence_id": "HCH_008_198_000110",
     "sentence": "焉耆王上表訴之，太宗遣虞部郎中李道裕往問其狀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李道裕",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_198_000111",
@@ -1036,6 +1079,12 @@
         "end": 8
       },
       {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 23,
@@ -1085,6 +1134,12 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "契苾何力",
+        "label": "PER",
+        "start": 18,
+        "end": 22
       }
     ]
   },
@@ -1591,6 +1646,12 @@
         "end": 5
       },
       {
+        "text": "李玄運",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 39,
@@ -1614,6 +1675,12 @@
     "sentence_id": "HCH_008_198_000177",
     "sentence": "亞將李君羨率精騎別路，及賊於青海之南懸水鎮，擊破之，虜牛羊二萬余頭而還。",
     "entities": [
+      {
+        "text": "李君羨",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "青海之南懸水鎮",
         "label": "LOC",
@@ -1649,6 +1716,12 @@
         "end": 24
       },
       {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
         "text": "任城",
         "label": "LOC",
         "start": 36,
@@ -1667,10 +1740,22 @@
         "end": 57
       },
       {
+        "text": "李大亮",
+        "label": "PER",
+        "start": 59,
+        "end": 62
+      },
+      {
         "text": "岷州",
         "label": "LOC",
         "start": 71,
         "end": 73
+      },
+      {
+        "text": "李道彥",
+        "label": "PER",
+        "start": 75,
+        "end": 78
       },
       {
         "text": "利州",
@@ -1683,6 +1768,12 @@
         "label": "TITLE",
         "start": 89,
         "end": 91
+      },
+      {
+        "text": "高甑生",
+        "label": "PER",
+        "start": 91,
+        "end": 94
       }
     ]
   },
@@ -1704,7 +1795,14 @@
   {
     "sentence_id": "HCH_008_198_000184",
     "sentence": "李大亮又俘其名王二十人，雜畜數萬，至且沫西境，或傳伏允西走，渡圖倫磧，欲入於闐。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李大亮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_198_000185",
@@ -1726,7 +1824,14 @@
   {
     "sentence_id": "HCH_008_198_000187",
     "sentence": "侯君集與江夏王道宗趣南路，登漢哭山，飲馬烏海，獲其名王梁屈忽，經塗二千餘里空虛之地，盛夏降霜，多積雪，其地乏水草，將士啖冰，馬皆食雪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_198_000188",
@@ -1853,7 +1958,14 @@
   {
     "sentence_id": "HCH_008_198_000207",
     "sentence": "太宗恐順不能靜其國，仍遣李大亮率精兵數千，為其聲援。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李大亮",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_198_000208",
@@ -1969,6 +2081,12 @@
         "end": 4
       },
       {
+        "text": "杜鳳舉",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "丞相",
         "label": "TITLE",
         "start": 14,
@@ -2029,6 +2147,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 9
+      },
+      {
+        "text": "薛仁貴",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2041,6 +2165,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 20
+      },
+      {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       },
       {
         "text": "徙其部眾於靈州",
@@ -2134,12 +2264,6 @@
         "label": "TITLE",
         "start": 21,
         "end": 24
-      },
-      {
-        "text": "容復為襲長樂州",
-        "label": "LOC",
-        "start": 27,
-        "end": 34
       }
     ]
   },
@@ -2253,6 +2377,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 13
+      },
+      {
+        "text": "韋弘機",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -2288,6 +2418,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2314,7 +2450,14 @@
   {
     "sentence_id": "HCH_008_198_000254",
     "sentence": "安西都護郭孝恪請擊之，太宗許焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭孝恪",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_198_000255",
@@ -2414,6 +2557,12 @@
     "sentence_id": "HCH_008_198_000267",
     "sentence": "及阿史那社爾之討龜茲，阿那支大懼，遂奔龜茲，保其東城，以禦官軍。",
     "entities": [
+      {
+        "text": "阿史那社爾",
+        "label": "PER",
+        "start": 1,
+        "end": 6
+      },
       {
         "text": "保其東城",
         "label": "LOC",
@@ -2529,7 +2678,14 @@
   {
     "sentence_id": "HCH_008_198_000286",
     "sentence": "安西都護郭孝恪來伐焉耆，龜茲遣兵援助，自是職貢頗闕。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭孝恪",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_198_000287",
@@ -2551,6 +2707,24 @@
         "label": "TITLE",
         "start": 10,
         "end": 13
+      },
+      {
+        "text": "阿史那社爾",
+        "label": "PER",
+        "start": 13,
+        "end": 18
+      },
+      {
+        "text": "郭孝恪",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      },
+      {
+        "text": "楊弘禮",
+        "label": "PER",
+        "start": 40,
+        "end": 43
       },
       {
         "text": "將軍",
@@ -2677,6 +2851,18 @@
         "end": 5
       },
       {
+        "text": "蘇海政",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "薛萬備",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "退保於撥換城",
         "label": "LOC",
         "start": 32,
@@ -2697,7 +2883,14 @@
   {
     "sentence_id": "HCH_008_198_000300",
     "sentence": "倉部郎中崔義起與曹繼叔、韓威等擊之，那利敗走。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔義起",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_198_000301",
@@ -2772,6 +2965,12 @@
         "end": 21
       },
       {
+        "text": "郭孝恪",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
         "text": "四鎮",
         "label": "LOC",
         "start": 44,
@@ -2820,6 +3019,18 @@
         "end": 9
       },
       {
+        "text": "王孝傑",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "阿史那忠",
+        "label": "PER",
+        "start": 19,
+        "end": 23
+      },
+      {
         "text": "於闐等四鎮",
         "label": "LOC",
         "start": 34,
@@ -2852,6 +3063,18 @@
     "sentence_id": "HCH_008_198_000315",
     "sentence": "其安西都護，則天時有田揚名，中宗時有郭元振，開元初則張孝暠、杜暹，皆有政績，為夷人所伏。",
     "entities": [
+      {
+        "text": "田揚名",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "郭元振",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
       {
         "text": "元",
         "label": "ORG",
@@ -2988,12 +3211,25 @@
   {
     "sentence_id": "HCH_008_198_000334",
     "sentence": "及阿史那社爾伐龜茲，其王伏闍信大懼，使其子以駝萬三百匹饋軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "阿史那社爾",
+        "label": "PER",
+        "start": 1,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_198_000335",
     "sentence": "及將旋師，行軍長史薛萬備請社爾曰：「今者既破龜茲，國威已振，請因此機，願以輕騎羈取于闐之王。」社爾乃遣萬備率五十騎抵于闐之國，萬備陳國威靈，勸其入見天子，伏闍信於是隨萬備來朝。",
     "entities": [
+      {
+        "text": "薛萬備",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
       {
         "text": "陳國",
         "label": "ORG",
@@ -3070,6 +3306,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "尉遲勝",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       },
       {
         "text": "仍同四鎮",
@@ -3461,6 +3703,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "崔敦禮",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -3954,6 +4202,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "虞世南",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -4324,6 +4578,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "裴行儉",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },

@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_008_162_000001",
     "sentence": "潘孟陽",
-    "entities": []
+    "entities": [
+      {
+        "text": "潘孟陽",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_162_000002",
     "sentence": "潘孟陽，禮部侍郎炎之子也。",
     "entities": [
+      {
+        "text": "潘孟陽",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "侍郎",
         "label": "TITLE",
@@ -58,7 +71,14 @@
   {
     "sentence_id": "HCH_008_162_000008",
     "sentence": "順宗即位，永貞內禪，王叔文誅，杜佑始專判度支，請孟陽代叔文為副。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_162_000009",
@@ -135,6 +155,12 @@
     "sentence": "與武元衡有舊，元衡作相，復召為戶部侍郎、判度支，兼京北五城營田使，以和糴使韓重華為副。",
     "entities": [
       {
+        "text": "武元衡",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 17,
@@ -145,6 +171,12 @@
         "label": "LOC",
         "start": 24,
         "end": 29
+      },
+      {
+        "text": "韓重華",
+        "label": "PER",
+        "start": 37,
+        "end": 40
       }
     ]
   },
@@ -226,7 +258,14 @@
   {
     "sentence_id": "HCH_008_162_000026",
     "sentence": "辭，上誡之曰：「朕宮中用度，一匹已上皆有簿籍，唯賑恤貧民，無所計算。卿經明行修，今登車傳命，宜體吾懷，勿學潘孟陽奉使，所至但務酣飲、遊山寺而已。」其為人主所薄如此！",
-    "entities": []
+    "entities": [
+      {
+        "text": "潘孟陽",
+        "label": "PER",
+        "start": 53,
+        "end": 56
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_162_000027",
@@ -367,6 +406,12 @@
     "sentence": "翛懼，誣奏邅辌軸折，山陵使李逢吉令御史封其車軸，自陵還，奏請免翛官。",
     "entities": [
       {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 17,
@@ -486,7 +531,14 @@
   {
     "sentence_id": "HCH_008_162_000058",
     "sentence": "潘孟陽判度支，與遂私憾，互有爭論。",
-    "entities": []
+    "entities": [
+      {
+        "text": "潘孟陽",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_162_000059",
@@ -514,7 +566,14 @@
   {
     "sentence_id": "HCH_008_162_000061",
     "sentence": "遂親吏韋行素、柳季常請課料於兩池務。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋行素",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_162_000062",
@@ -530,6 +589,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "呂元膺",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "柳州大郡",
@@ -725,6 +790,12 @@
         "end": 2
       },
       {
+        "text": "吳少誠",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "用為襄城",
         "label": "LOC",
         "start": 19,
@@ -771,7 +842,20 @@
   {
     "sentence_id": "HCH_008_162_000085",
     "sentence": "未行而吳元濟叛，朝廷命河陽帥烏重胤討賊。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳元濟",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "烏重胤",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_162_000086",
@@ -828,6 +912,12 @@
     "sentence_id": "HCH_008_162_000091",
     "sentence": "及李師道誅，分所管十二州為三鎮。",
     "entities": [
+      {
+        "text": "李師道",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "分所管十二州",
         "label": "LOC",
@@ -927,6 +1017,12 @@
     "sentence": "初，李正己盜有青、鄆十二州，傳襲四世，垂五十年，人俗頑驁，不知禮教。",
     "entities": [
       {
+        "text": "李正己",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "鄆十二州",
         "label": "LOC",
         "start": 9,
@@ -966,6 +1062,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "田弘正",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "尚書",
@@ -1395,6 +1497,12 @@
         "end": 2
       },
       {
+        "text": "劉端夫",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 15,
@@ -1570,7 +1678,14 @@
   {
     "sentence_id": "HCH_008_162_000157",
     "sentence": "時朝廷用兵討李師道，權以德、棣之兵臨境。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李師道",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_162_000158",
@@ -1605,6 +1720,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "李宗奭",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -1628,12 +1749,6 @@
         "label": "LOC",
         "start": 13,
         "end": 17
-      },
-      {
-        "text": "乃以烏重胤鎮",
-        "label": "LOC",
-        "start": 18,
-        "end": 24
       }
     ]
   },
@@ -1805,12 +1920,26 @@
   {
     "sentence_id": "HCH_008_162_000180",
     "sentence": "盧士玫",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧士玫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_162_000181",
     "sentence": "盧士玫，山東右族，以文儒進。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧士玫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_162_000182",
@@ -1836,6 +1965,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "張弘靖",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -1966,12 +2101,26 @@
   {
     "sentence_id": "HCH_008_162_000196",
     "sentence": "韓全義",
-    "entities": []
+    "entities": [
+      {
+        "text": "韓全義",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_162_000197",
     "sentence": "韓全義，出自行間，少從禁軍，事竇文場。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韓全義",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_162_000198",
@@ -2037,6 +2186,12 @@
     "sentence": "賴都虞候高崇文誅其亂首而止之，全義方獲赴鎮。",
     "entities": [
       {
+        "text": "高崇文",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "全義方獲赴鎮",
         "label": "LOC",
         "start": 15,
@@ -2048,6 +2203,12 @@
     "sentence_id": "HCH_008_162_000203",
     "sentence": "明年，吳少誠拒命，詔征十七鎮之師討之。",
     "entities": [
+      {
+        "text": "吳少誠",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "詔征十七鎮",
         "label": "LOC",
@@ -2082,6 +2243,12 @@
         "label": "LOC",
         "start": 10,
         "end": 15
+      },
+      {
+        "text": "上官涚",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       }
     ]
   },
@@ -2173,6 +2340,18 @@
         "label": "LOC",
         "start": 9,
         "end": 14
+      },
+      {
+        "text": "孟元陽",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "蘇光榮",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -2248,6 +2427,12 @@
     "sentence": "德宗曰：「全義為招討使，招得吳少誠歸國，其功大矣。何必殺人乃為功耶！」旋命還鎮，令中使就第賜宴，錫賫頗厚。",
     "entities": [
       {
+        "text": "吳少誠",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "旋命還鎮",
         "label": "LOC",
         "start": 35,
@@ -2290,12 +2475,26 @@
   {
     "sentence_id": "HCH_008_162_000231",
     "sentence": "高霞寓",
-    "entities": []
+    "entities": [
+      {
+        "text": "高霞寓",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_162_000232",
     "sentence": "高霞寓，范陽人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高霞寓",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_162_000233",
@@ -2310,7 +2509,14 @@
   {
     "sentence_id": "HCH_008_162_000235",
     "sentence": "德宗朝，采訪使洪經綸奏旌表其門閭，鄉里稱美其事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "洪經綸",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_162_000236",
@@ -2345,6 +2551,12 @@
         "label": "LOC",
         "start": 4,
         "end": 10
+      },
+      {
+        "text": "高崇文",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -2369,6 +2581,12 @@
         "label": "LOC",
         "start": 26,
         "end": 30
+      },
+      {
+        "text": "仇良輔",
+        "label": "PER",
+        "start": 36,
+        "end": 39
       }
     ]
   },
@@ -2417,6 +2635,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -2465,6 +2689,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "吳元濟",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "山南東道為兩鎮",
@@ -2682,7 +2912,14 @@
   {
     "sentence_id": "HCH_008_162_000266",
     "sentence": "宰相裴度、韋處厚議瑀深沈方雅，曾刺陳、蔡，人懷良政，又熟忠武軍情，欲請用瑀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋處厚",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_162_000267",
@@ -2797,6 +3034,12 @@
     "sentence_id": "HCH_008_162_000277",
     "sentence": "議者以徐泗王智興之後，軍士驕恣，宜得雄帥鎮之。",
     "entities": [
+      {
+        "text": "王智興",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "宜得雄帥鎮",
         "label": "LOC",
@@ -2922,14 +3165,7 @@
   {
     "sentence_id": "HCH_008_162_000290",
     "sentence": "時王承宗據鎮州叛，度請戎單車往諭之，承宗感泣受教。",
-    "entities": [
-      {
-        "text": "時王承宗據鎮州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_162_000291",
@@ -3280,12 +3516,26 @@
   {
     "sentence_id": "HCH_008_162_000317",
     "sentence": "張正甫",
-    "entities": []
+    "entities": [
+      {
+        "text": "張正甫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_162_000318",
     "sentence": "張正甫，字踐方，南陽人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張正甫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_162_000319",
@@ -3663,6 +3913,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "張直方",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },

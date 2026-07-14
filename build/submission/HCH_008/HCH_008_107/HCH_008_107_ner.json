@@ -332,6 +332,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "褚無量",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -443,6 +449,12 @@
     "sentence": "中書張九齡奏曰：「陛下纂嗣鴻業，將三十年，太子已下，常不離深宮，日受聖訓。今天下之人，皆慶陛下享國日久，子孫蕃育，不聞有過，陛下奈何以一日之間廢棄三子？伏惟陛下思之。且太子國本，難於動搖。昔晉獻公惑寵嬖之言，太子申生憂死，國乃大亂。漢武威加六合，受江充巫蠱之事，將禍及太子，遂至城中流血。晉惠帝有賢子為太子，容賈後之譖，以至喪亡。隋文帝取寵婦之言，廢太子勇而立晉王廣，遂失天下。由此而論之，不可不慎。今太子既長無過，二王又賢，臣待罪左右，敢不詳悉。」玄宗默然，事且寢。",
     "entities": [
       {
+        "text": "張九齡",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "三十年",
         "label": "TME",
         "start": 17,
@@ -519,7 +531,20 @@
   {
     "sentence_id": "HCH_008_107_000034",
     "sentence": "其年，駕幸西京，以李林甫代張九齡為中書令，希惠妃之旨，托意於中貴人，揚壽王瑁之美，惠妃深德之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "張九齡",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_107_000035",
@@ -1007,6 +1032,18 @@
         "end": 3
       },
       {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "高仙芝",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      },
+      {
         "text": "隴兵募屯於陜郡",
         "label": "LOC",
         "start": 38,
@@ -1358,6 +1395,12 @@
     "sentence": "安祿山反，除蜀郡大都督、劍南節度大使，楊國忠為之副。",
     "entities": [
       {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "除蜀郡",
         "label": "LOC",
         "start": 5,
@@ -1368,6 +1411,12 @@
         "label": "LOC",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -1386,6 +1435,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "魏方進",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -1609,7 +1664,14 @@
   {
     "sentence_id": "HCH_008_107_000145",
     "sentence": "天寶十四載十一月，安祿山反范陽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_107_000146",
@@ -1637,7 +1699,14 @@
   {
     "sentence_id": "HCH_008_107_000148",
     "sentence": "以薛镠、李臺卿、蔡坰為謀主，因有異志。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李臺卿",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_107_000149",
@@ -1647,7 +1716,20 @@
   {
     "sentence_id": "HCH_008_107_000150",
     "sentence": "十二月，擅領舟師東下，甲仗五千人趨廣陵，以季廣琛、渾惟明、高仙琦為將。",
-    "entities": []
+    "entities": [
+      {
+        "text": "季廣琛",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "渾惟明",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_107_000151",
@@ -1677,10 +1759,34 @@
         "end": 2
       },
       {
+        "text": "李希言",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "皇帝",
         "label": "TITLE",
         "start": 35,
         "end": 37
+      },
+      {
+        "text": "渾惟明",
+        "label": "PER",
+        "start": 85,
+        "end": 88
+      },
+      {
+        "text": "季廣琛",
+        "label": "PER",
+        "start": 92,
+        "end": 95
+      },
+      {
+        "text": "李成式",
+        "label": "PER",
+        "start": 101,
+        "end": 104
       }
     ]
   },
@@ -1689,10 +1795,28 @@
     "sentence": "璘進至當塗，希言在丹陽，令元景曜、閻敬之等以兵拒之，身走吳郡，李成式使將李承慶拒之。",
     "entities": [
       {
+        "text": "閻敬之",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "身走吳郡",
         "label": "LOC",
         "start": 26,
         "end": 30
+      },
+      {
+        "text": "李成式",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      },
+      {
+        "text": "李承慶",
+        "label": "PER",
+        "start": 36,
+        "end": 39
       }
     ]
   },
@@ -1725,6 +1849,12 @@
         "label": "TITLE",
         "start": 27,
         "end": 29
+      },
+      {
+        "text": "閻敬之",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -1746,12 +1876,26 @@
   {
     "sentence_id": "HCH_008_107_000163",
     "sentence": "季廣琛召諸將割臂而盟，以貳於璘。",
-    "entities": []
+    "entities": [
+      {
+        "text": "季廣琛",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_107_000164",
     "sentence": "是日，渾惟明走於江寧，馮季康、康謙投於廣陵之白沙。",
-    "entities": []
+    "entities": [
+      {
+        "text": "渾惟明",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_107_000165",
@@ -1866,7 +2010,14 @@
   {
     "sentence_id": "HCH_008_107_000175",
     "sentence": "至余幹，及大庾嶺，將南投嶺外，為江西采訪使皇甫侁下防禦兵所擒，因中矢而薨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫侁",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_107_000176",
@@ -2388,6 +2539,12 @@
         "end": 52
       },
       {
+        "text": "李成式",
+        "label": "PER",
+        "start": 67,
+        "end": 70
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 76,
@@ -2695,6 +2852,12 @@
         "end": 51
       },
       {
+        "text": "鄧景山",
+        "label": "PER",
+        "start": 51,
+        "end": 54
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 64,
@@ -2734,6 +2897,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "王懷忠",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },
@@ -2748,10 +2917,22 @@
         "end": 2
       },
       {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 107,
         "end": 109
+      },
+      {
+        "text": "王延昌",
+        "label": "PER",
+        "start": 109,
+        "end": 112
       }
     ]
   },

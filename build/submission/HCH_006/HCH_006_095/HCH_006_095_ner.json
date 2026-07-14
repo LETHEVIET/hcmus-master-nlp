@@ -298,7 +298,14 @@
   {
     "sentence_id": "HCH_006_095_000037",
     "sentence": "上患之，使公孫弘往視問焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_095_000038",
@@ -614,6 +621,12 @@
     "sentence_id": "HCH_006_095_000068",
     "sentence": "明年，復遣軍正王平與大鴻臚田廣明等並進，大破益州，斬首捕虜五萬餘級，獲畜産十餘萬。",
     "entities": [
+      {
+        "text": "田廣明",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
       {
         "text": "大破益州",
         "label": "LOC",

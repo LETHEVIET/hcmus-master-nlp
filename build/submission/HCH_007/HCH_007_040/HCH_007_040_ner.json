@@ -22,6 +22,12 @@
         "end": 2
       },
       {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "《論語》",
         "label": "TITLE",
         "start": 21,
@@ -79,6 +85,12 @@
     "sentence": "西川孟知祥奏：「支屬刺史乞臣本道自署。 」",
     "entities": [
       {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "刺史",
         "label": "TITLE",
         "start": 10,
@@ -90,6 +102,12 @@
     "sentence_id": "HCH_007_040_000008",
     "sentence": "二月乙巳，王晏球奏，此月三日收復定州，獲王都首級，生擒契丹托諾等二千餘人。",
     "entities": [
+      {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "月三日收復定州",
         "label": "LOC",
@@ -114,22 +132,10 @@
         "end": 14
       },
       {
-        "text": "使王晏球為鄆州",
-        "label": "LOC",
-        "start": 16,
-        "end": 23
-      },
-      {
         "text": "滄州",
         "label": "LOC",
         "start": 42,
         "end": 44
-      },
-      {
-        "text": "使李從敏為定州",
-        "label": "LOC",
-        "start": 46,
-        "end": 53
       },
       {
         "text": "鄭州",
@@ -138,9 +144,9 @@
         "end": 69
       },
       {
-        "text": "使張虔釗為滄州",
+        "text": "滄州",
         "label": "LOC",
-        "start": 71,
+        "start": 76,
         "end": 78
       },
       {
@@ -148,6 +154,12 @@
         "label": "LOC",
         "start": 82,
         "end": 84
+      },
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 87,
+        "end": 90
       }
     ]
   },
@@ -395,7 +407,14 @@
   {
     "sentence_id": "HCH_007_040_000029",
     "sentence": "安重誨奏之，故置於法焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_040_000030",
@@ -473,6 +492,12 @@
         "label": "LOC",
         "start": 56,
         "end": 63
+      },
+      {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 83,
+        "end": 86
       }
     ]
   },
@@ -526,7 +551,14 @@
   {
     "sentence_id": "HCH_007_040_000043",
     "sentence": "庚申，以王建立、孔循帶中書直省吏歸藩，並追回。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王建立",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_040_000044",
@@ -537,6 +569,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "鎮州",
@@ -675,6 +713,12 @@
         "end": 8
       },
       {
+        "text": "崔居儉",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 14,
@@ -696,6 +740,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "高從誨",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -732,12 +782,6 @@
         "label": "LOC",
         "start": 3,
         "end": 5
-      },
-      {
-        "text": "度使楊漢章移鎮",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
       },
       {
         "text": "雲州",
@@ -791,6 +835,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "張萬進",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -869,6 +919,12 @@
         "end": 7
       },
       {
+        "text": "符彥超",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 18,
@@ -897,6 +953,12 @@
         "label": "LOC",
         "start": 41,
         "end": 43
+      },
+      {
+        "text": "高從誨",
+        "label": "PER",
+        "start": 70,
+        "end": 73
       }
     ]
   },
@@ -1034,6 +1096,12 @@
         "end": 14
       },
       {
+        "text": "張昭遠",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
         "text": "皇帝",
         "label": "TITLE",
         "start": 44,
@@ -1074,6 +1142,12 @@
         "label": "TITLE",
         "start": 294,
         "end": 296
+      },
+      {
+        "text": "高從誨",
+        "label": "PER",
+        "start": 301,
+        "end": 304
       }
     ]
   },
@@ -1110,6 +1184,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "李金全",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -1137,12 +1217,6 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
-      },
-      {
-        "text": "《霍彥威神道碑》",
-        "label": "TITLE",
-        "start": 17,
-        "end": 25
       }
     ]
   },
@@ -1506,6 +1580,12 @@
         "end": 28
       },
       {
+        "text": "符彥超",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 36,
@@ -1516,6 +1596,12 @@
         "label": "LOC",
         "start": 39,
         "end": 43
+      },
+      {
+        "text": "李承約",
+        "label": "PER",
+        "start": 46,
+        "end": 49
       },
       {
         "text": "將軍",
@@ -1588,7 +1674,14 @@
   {
     "sentence_id": "HCH_007_040_000113",
     "sentence": "己酉，製復故荊南節度使高季興官爵。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_040_000114",
@@ -1705,7 +1798,14 @@
   {
     "sentence_id": "HCH_007_040_000123",
     "sentence": "甲戌，奉國軍節度使王延稟加兼侍中，從福建節度使王延鈞請也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王延鈞",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_040_000124",
@@ -1734,6 +1834,12 @@
     "sentence": "史官張昭遠等以新修獻祖、懿祖、太祖《紀年錄》共二十卷、《莊宗實錄》三十卷上之，賜器帛有差。",
     "entities": [
       {
+        "text": "張昭遠",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "《紀年錄》",
         "label": "TITLE",
         "start": 17,
@@ -1756,6 +1862,18 @@
         "label": "TITLE",
         "start": 3,
         "end": 9
+      },
+      {
+        "text": "張昭遠",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "呂咸休",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },

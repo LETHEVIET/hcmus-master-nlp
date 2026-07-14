@@ -6,26 +6,50 @@
 
 **License**: CC BY-NC-SA 4.0 — ghi attribution và lưu ý phi thương mại.
 
-**Tải thủ công** (KHÔNG auto-download trong session này):
+**Release đã kiểm tra**: SQLite `cbdb_20260704.sqlite3` (2026-07-04), SHA-256
+`6b18f1e7f90a823d8dde5ecbd8a9eac70f092fe643efb8dca193986949a913df`.
+
+**Tải thủ công** (pipeline không tải trong lúc annotate):
 
 1. Truy cập URL trên, tải bản SQLite mới nhất.
-2. Lưu vào `data/external/cbdb.sqlite` (gitignored).
+2. Lưu SQLite vào `data/external/` (gitignored).
 3. Ingest:
 
    ```bash
    uv run python scripts/build_kb.py ingest-cbdb \
-       --input data/external/cbdb.sqlite \
-       --version 2024.06 \
-       --source-url https://... \
-       --license cc-by-nc-sa-4.0
+       --input data/external/cbdb_20260704.sqlite3 \
+       --version 2026.07.04 \
+       --source-url https://huggingface.co/datasets/cbdb/cbdb-sqlite/resolve/main/history/cbdb_202607/cbdb_20260704.zip \
+       --license cc-by-nc-sa-4.0 \
+       --expected-sha256 6b18f1e7f90a823d8dde5ecbd8a9eac70f092fe643efb8dca193986949a913df
    ```
 
 **Cache**: `build/kb/cbdb.sqlite` (SQLite) + `build/kb/cbdb.sqlite.manifest.json`.
 
-**Schema introspect**: loader tự dò table `BIOG_MAIN` qua `PRAGMA table_info`.
-Robust với các phiên bản schema khác nhau.
+**Schema ingest**: loader tự dò `BIOG_MAIN`, `ALTNAME_DATA` và `NIAN_HAO` qua
+`PRAGMA table_info`. Cache giữ tên chính, các loại alias mang tính tên người,
+CBDB person ID, triều đại và năm sinh/mất. Các alias dạng tước hiệu, miếu hiệu,
+thụy hiệu và giá trị không xác định không được đưa vào matcher.
 
-**Runtime filter**: 1-char name bị skip (`min_len >= 2`) vì ambiguous.
+**Bộ lọc precision mặc định**:
+
+- loại tên 1 ký tự, chuỗi không thuần chữ Hán, placeholder và chuỗi số;
+- loại niên hiệu, `triều đại + niên hiệu` và hậu tố tước hiệu thường gặp;
+- bỏ surface liên kết với hơn 10 person ID;
+- không emit tên 2 ký tự vì dictionary match loại này có nhiều false positive;
+- chỉ giữ person ID có triều đại tương thích với thời kỳ tác phẩm.
+
+Có thể nới lỏng khi nghiên cứu recall:
+
+```bash
+uv run python scripts/annotate_corpus.py \
+    --cbdb-short-names context \
+    --cbdb-period-policy prefer \
+    --cbdb-max-ambiguity 50
+```
+
+Khi cache tồn tại và hash khớp manifest, `annotate_corpus.py` tự thêm nguồn
+`cbdb`. Dùng `--no-cbdb` để chạy baseline regex + seed.
 
 ## CHGIS — China Historical GIS
 
@@ -93,7 +117,8 @@ CBDB và CHGIS đều có license riêng. Trước khi ingest:
 2. Ghi `--license` đúng tên license.
 3. Nếu license yêu cầu attribution, ghi vào docs/acknowledgement.md
    (TODO: tạo file này khi cần).
-4. KHÔNG phân phối cache ra public repo nếu license không cho phép.
+4. KHÔNG phân phối raw SQLite hoặc cache CBDB ra public repo. Chỉ manifest
+   provenance được phép version hóa trong repository này.
 
 ## License manifest summary
 
@@ -108,7 +133,7 @@ for f in glob.glob('build/kb/*.manifest.json'):
 "
 ```
 
-## Chưa có data thật?
+## Chưa có external data?
 
 Default pipeline chạy được không cần KB ngoài. Chỉ cần seed (built-in).
 
@@ -118,5 +143,6 @@ uv run python scripts/prepare_corpus.py
 uv run python scripts/annotate_corpus.py
 ```
 
-Regex + seed gazetteer đủ cho pilot đầu tiên. CBDB/CHGIS dùng để mở rộng
-sang các nguồn chính thống sau khi có giấy phép và dữ liệu.
+Nếu không có `build/kb/cbdb.sqlite`, pipeline vẫn chạy regex + seed. Khi cache
+CBDB hợp lệ tồn tại, nguồn PERSON được bật tự động; không có network request
+trong lúc annotation.

@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_008_128_000001",
     "sentence": "段秀實",
-    "entities": []
+    "entities": [
+      {
+        "text": "段秀實",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_128_000002",
     "sentence": "段秀實，字成公，隴州汧陽人也。",
     "entities": [
+      {
+        "text": "段秀實",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "隴州",
         "label": "LOC",
@@ -69,12 +82,26 @@
   {
     "sentence_id": "HCH_008_128_000008",
     "sentence": "七載，高仙芝代靈察，舉兵圍怛邏斯，黑衣救至，仙芝大衄，軍士相失。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高仙芝",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_128_000009",
     "sentence": "夜中聞都將李嗣業之聲，因大呼責之曰：「軍敗而求免，非丈夫也。」嗣業甚慚，遂與秀實收合散卒，復得成軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣業",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_128_000010",
@@ -85,12 +112,6 @@
     "sentence_id": "HCH_008_128_000011",
     "sentence": "十二載，封常清代仙芝，討大勃律，師次賀薩勞城，戰而勝。",
     "entities": [
-      {
-        "text": "清",
-        "label": "ORG",
-        "start": 6,
-        "end": 7
-      },
       {
         "text": "師次賀薩勞城",
         "label": "LOC",
@@ -132,7 +153,14 @@
   {
     "sentence_id": "HCH_008_128_000018",
     "sentence": "安慶緒奔鄴，嗣業與諸軍圍之，安西輜重委於河內。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安慶緒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_128_000019",
@@ -155,12 +183,26 @@
   {
     "sentence_id": "HCH_008_128_000020",
     "sentence": "諸軍進戰於愁思岡，嗣業為流矢所中，卒於軍，眾推安西兵馬使荔非元禮代之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "荔非元禮",
+        "label": "PER",
+        "start": 28,
+        "end": 32
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_128_000021",
     "sentence": "秀實聞嗣業之喪，乃遺先鋒將白孝德書，令發卒護嗣業喪送河內。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白孝德",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_128_000022",
@@ -187,7 +229,14 @@
   {
     "sentence_id": "HCH_008_128_000025",
     "sentence": "眾推白孝德為節度使，人心稍定。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白孝德",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_128_000026",
@@ -562,7 +611,14 @@
   {
     "sentence_id": "HCH_008_128_000063",
     "sentence": "炎以其沮己之謀，遂除司農卿，以邠寧節度李懷光兼涇原節度使，以事西拓。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_128_000064",
@@ -606,7 +662,14 @@
   {
     "sentence_id": "HCH_008_128_000069",
     "sentence": "秀實初詐從之，陰說大將劉海賓、何明禮、姚令言判官岐靈嶽同謀殺泚，以兵迎乘輿。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚令言",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_128_000070",
@@ -636,7 +699,20 @@
   {
     "sentence_id": "HCH_008_128_000075",
     "sentence": "明日，泚召秀實議事，源休、姚令言、李忠臣、李子平皆在坐。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚令言",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "李忠臣",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_128_000076",
@@ -713,6 +789,12 @@
         "label": "LOC",
         "start": 114,
         "end": 117
+      },
+      {
+        "text": "段秀實",
+        "label": "PER",
+        "start": 118,
+        "end": 121
       },
       {
         "text": "頃者嘗鎮",
@@ -820,12 +902,26 @@
   {
     "sentence_id": "HCH_008_128_000089",
     "sentence": "顏真卿",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏真卿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_128_000090",
     "sentence": "顏真卿，字清臣，瑯邪臨沂人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏真卿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_128_000091",
@@ -900,6 +996,12 @@
     "sentence": "有鄭延祚者，母卒二十九年，殯僧舍垣地，真卿劾奏之，兄弟三十年不齒，天下聳動。",
     "entities": [
       {
+        "text": "鄭延祚",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "二十九年",
         "label": "TME",
         "start": 8,
@@ -936,6 +1038,12 @@
     "sentence": "楊國忠怒其不附己，出為平原太守。",
     "entities": [
       {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "太守",
         "label": "TITLE",
         "start": 13,
@@ -947,6 +1055,12 @@
     "sentence_id": "HCH_008_128_000102",
     "sentence": "安祿山逆節頗著，真卿以霖雨為托，修城浚池，陰料丁壯，儲廩實，乃陽會文士，泛舟外池，飲酒賦詩。",
     "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "修城",
         "label": "LOC",
@@ -983,10 +1097,22 @@
         "end": 19
       },
       {
+        "text": "顏真卿",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      },
+      {
         "text": "太守",
         "label": "TITLE",
         "start": 87,
         "end": 89
+      },
+      {
+        "text": "張獻直",
+        "label": "PER",
+        "start": 89,
+        "end": 92
       }
     ]
   },
@@ -1044,6 +1170,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "袁履謙",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "千年",
@@ -1124,6 +1256,18 @@
     "sentence": "㟧將去，真卿謂之曰：「兵出也，吾子何以教我？」㟧曰：「今聞朝廷使程千里統眾十萬自太行東下，將出𡻳口，為賊所扼，兵不得前。今若先伐魏郡，斬袁知泰，太守司馬垂使為西南主；分兵開𡻳口之路，出千里之兵使討鄴、幽陵；平原、清河合同志十萬之眾徇洛陽，分兵而制其衝。計王師亦不下十萬，公當堅壁，無與挑戰，不數十日，賊必潰而相圖矣。」真卿然之，乃移牒清河等郡，遣其大將李擇交、副將平原縣令范東馥、裨將和琳、徐浩等進兵，與清河四千人合勢，而博平以千人來，三郡之師屯於博平，去堂邑縣西南十里。",
     "entities": [
       {
+        "text": "程千里",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      },
+      {
+        "text": "袁知泰",
+        "label": "PER",
+        "start": 68,
+        "end": 71
+      },
+      {
         "text": "太守",
         "label": "TITLE",
         "start": 72,
@@ -1170,7 +1314,14 @@
   {
     "sentence_id": "HCH_008_128_000116",
     "sentence": "袁知泰遣其將白嗣深、乙舒蒙等以二萬人來拒戰，賊大敗，斬首萬余級。",
-    "entities": []
+    "entities": [
+      {
+        "text": "袁知泰",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_128_000117",
@@ -1201,10 +1352,10 @@
     "sentence": "祿山乘虛遣史思明、尹子奇急攻河北諸郡，饒陽、河間、景城、東安相次陷沒，獨平原、博平、清河三郡城守，然人心危盪，不可復振。",
     "entities": [
       {
-        "text": "奇急攻河北諸郡",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
+        "text": "史思明",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "景城",
@@ -1285,6 +1436,12 @@
         "end": 21
       },
       {
+        "text": "李何忌",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "何忌西平郡",
         "label": "LOC",
         "start": 41,
@@ -1323,7 +1480,14 @@
   {
     "sentence_id": "HCH_008_128_000125",
     "sentence": "管崇嗣為王都虞候，先王上馬，真卿進狀彈之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "管崇嗣",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_128_000126",
@@ -1456,6 +1620,12 @@
     "sentence_id": "HCH_008_128_000136",
     "sentence": "李輔國矯詔遷玄宗居西宮，真卿乃首率百僚上表請問起居，輔國惡之，奏貶蓬州長史。",
     "entities": [
+      {
+        "text": "李輔國",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "奏貶蓬州",
         "label": "LOC",
@@ -1641,7 +1811,14 @@
   {
     "sentence_id": "HCH_008_128_000156",
     "sentence": "天寶已後，李林甫威權日盛，群臣不先諮宰相輒奏事者，仍托以他故中傷，猶不敢明約百司，令先白宰相。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_128_000157",
@@ -1683,7 +1860,14 @@
   {
     "sentence_id": "HCH_008_128_000163",
     "sentence": "屬李輔國用權，宰相專政，遞相姑息，莫肯直言。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李輔國",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_128_000164",
@@ -1759,7 +1943,20 @@
   {
     "sentence_id": "HCH_008_128_000174",
     "sentence": "如今日之事，曠古未有，雖李林甫、楊國忠猶不敢公然如此。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_128_000175",
@@ -1785,12 +1982,6 @@
     "sentence_id": "HCH_008_128_000179",
     "sentence": "後攝祭太廟，以祭器不修言於朝，載坐以誹謗，貶硤州別駕、撫州湖州刺史。",
     "entities": [
-      {
-        "text": "貶硤州",
-        "label": "LOC",
-        "start": 21,
-        "end": 24
-      },
       {
         "text": "撫州湖州",
         "label": "LOC",
@@ -1861,10 +2052,10 @@
     "sentence": "會李希烈陷汝州，杞乃奏曰：「顏真卿四方所信，使諭之，可不勞師旅。」上從之，朝廷失色，李勉聞之，以為失一元老，貽朝廷羞，乃密表請留。",
     "entities": [
       {
-        "text": "會李希烈陷汝州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
+        "text": "顏真卿",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -1916,7 +2107,20 @@
   {
     "sentence_id": "HCH_008_128_000196",
     "sentence": "時朱滔、王武俊、田悅、李納使在坐，目真卿謂希烈曰：「聞太師名德久矣，相公欲建大號，而太師至，非天命正位？欲求宰相，孰先太師乎？」真卿正色叱之曰：「是何宰相耶！君等聞顏杲卿無？是吾兄也。祿山反，首舉義兵，及被害，詬罵不絕於口。吾今生向八十，官至太師，守吾兄之節，死而後已，豈受汝輩誘脅耶！」諸賊不敢復出口。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王武俊",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "顏杲卿",
+        "label": "PER",
+        "start": 82,
+        "end": 85
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_128_000197",
@@ -1926,14 +2130,7 @@
   {
     "sentence_id": "HCH_008_128_000198",
     "sentence": "後張伯儀敗績於安州，希烈令賚伯儀旌節首級誇示真卿，真卿慟哭投地。",
-    "entities": [
-      {
-        "text": "伯儀敗績於安州",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_128_000199",
@@ -2042,6 +2239,12 @@
         "label": "TME",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "陳仙奇",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -2076,6 +2279,12 @@
         "label": "LOC",
         "start": 58,
         "end": 60
+      },
+      {
+        "text": "顏真卿",
+        "label": "PER",
+        "start": 61,
+        "end": 64
       },
       {
         "text": "六年",

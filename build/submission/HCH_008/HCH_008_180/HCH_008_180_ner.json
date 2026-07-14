@@ -2,12 +2,26 @@
   {
     "sentence_id": "HCH_008_180_000001",
     "sentence": "朱克融",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱克融",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000002",
     "sentence": "朱克融，賊泚之從孫也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱克融",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000003",
@@ -36,6 +50,12 @@
     "sentence": "宰相崔植、杜元穎不知兵，且無遠略，謂兩河無虞，遂奏勒歸鎮。",
     "entities": [
       {
+        "text": "杜元穎",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "遂奏勒歸鎮",
         "label": "LOC",
         "start": 23,
@@ -52,6 +72,12 @@
         "label": "LOC",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "張弘靖",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -130,17 +156,38 @@
   {
     "sentence_id": "HCH_008_180_000017",
     "sentence": "次子延嗣竊立，尋為大將李載義所殺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李載義",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000018",
     "sentence": "李載義",
-    "entities": []
+    "entities": [
+      {
+        "text": "李載義",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000019",
     "sentence": "李載義，字方谷，常山湣王之後。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李載義",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000020",
@@ -250,7 +297,14 @@
   {
     "sentence_id": "HCH_008_180_000028",
     "sentence": "未幾，李同捷據滄景以邀襲父爵。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李同捷",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000029",
@@ -300,6 +354,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "楊志誠",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -455,7 +515,14 @@
   {
     "sentence_id": "HCH_008_180_000050",
     "sentence": "以楊志誠復為部下所逐，過太原，載義躬身毆擊，遂欲殺之，賴從事救解以免。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊志誠",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000051",
@@ -470,12 +537,25 @@
   {
     "sentence_id": "HCH_008_180_000053",
     "sentence": "楊志誠",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊志誠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000054",
     "sentence": "楊志誠， 太和五年 為幽州後院副兵馬使，事李載義。",
     "entities": [
+      {
+        "text": "楊志誠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "太和五年",
         "label": "TME",
@@ -487,6 +567,12 @@
         "label": "LOC",
         "start": 10,
         "end": 13
+      },
+      {
+        "text": "李載義",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -521,6 +607,12 @@
     "sentence_id": "HCH_008_180_000059",
     "sentence": "時牛僧孺先至，上謂曰：「幽州今日之事可奈何？」僧孺曰：「此不足煩聖慮，臣被召疾趨氣促，容臣稍緩息以對。」上良久曰：「卿以為不足憂，何也？」僧孺對曰：「陛下以范陽得失系國家休戚耶？且自安、史之後，范陽非國家所有。前時劉總向化，以土地歸闕，朝廷約用錢八十萬貫，而未嘗得范陽尺布鬥粟上供天府；則今日志誠之得，猶前日載義之得也。陛下但因而撫之，亦事之宜也。且范陽，國家所賴者，以其北捍突厥，不令南寇。今若假志誠節鉞，惜其土地，必自為力。則爪牙之用，固不計於逆順。臣固曰不足煩聖慮。」上大喜曰：「如卿之言，吾洗然矣。」尋以嘉王運遙領節度，以志誠為節度觀察留後，檢校左散騎常侍，兼幽州左司馬。",
     "entities": [
+      {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "幽州",
         "label": "LOC",
@@ -586,6 +678,12 @@
         "label": "TITLE",
         "start": 61,
         "end": 63
+      },
+      {
+        "text": "楊志誠",
+        "label": "PER",
+        "start": 96,
+        "end": 99
       }
     ]
   },
@@ -610,6 +708,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "史元忠",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -681,17 +785,38 @@
   {
     "sentence_id": "HCH_008_180_000070",
     "sentence": "後為偏將陳行泰所殺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳行泰",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000071",
     "sentence": "張仲武",
-    "entities": []
+    "entities": [
+      {
+        "text": "張仲武",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000072",
     "sentence": "張仲武，范陽人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張仲武",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000073",
@@ -708,7 +833,20 @@
   {
     "sentence_id": "HCH_008_180_000074",
     "sentence": "會昌初，陳行泰殺節度使史元忠，權主留後。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳行泰",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "史元忠",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000075",
@@ -723,7 +861,26 @@
   {
     "sentence_id": "HCH_008_180_000077",
     "sentence": "上遣宰臣詢其事，仲舒曰：「絳與行泰，皆是遊客，主軍人心不附。仲武是軍中舊將張光朝之子，年五十餘，兼曉儒書，老於戎事，性抱忠義，願歸心闕廷。」李德裕因奏：「陳行泰、張絳皆令大將上奏，邀求節旄，所以必不可與。今仲武上表布誠，先陳密款，因而拔用，即似有名。」許之，乃授兵馬留後，詔撫王纮遙領節度。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張光朝",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      },
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 70,
+        "end": 73
+      },
+      {
+        "text": "陳行泰",
+        "label": "PER",
+        "start": 77,
+        "end": 80
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000078",
@@ -860,6 +1017,12 @@
         "label": "TITLE",
         "start": 15,
         "end": 21
+      },
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -1074,12 +1237,26 @@
   {
     "sentence_id": "HCH_008_180_000125",
     "sentence": "張允伸",
-    "entities": []
+    "entities": [
+      {
+        "text": "張允伸",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000126",
     "sentence": "張允伸，字逢昌，范陽人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張允伸",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000127",
@@ -1308,12 +1485,26 @@
   {
     "sentence_id": "HCH_008_180_000150",
     "sentence": "張公素",
-    "entities": []
+    "entities": [
+      {
+        "text": "張公素",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000151",
     "sentence": "張公素，范陽人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張公素",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000152",
@@ -1331,6 +1522,12 @@
     "sentence_id": "HCH_008_180_000153",
     "sentence": "事張允伸，累遷至平州刺史。",
     "entities": [
+      {
+        "text": "張允伸",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "累遷至平州",
         "label": "LOC",
@@ -1382,17 +1579,38 @@
   {
     "sentence_id": "HCH_008_180_000158",
     "sentence": "李可舉",
-    "entities": []
+    "entities": [
+      {
+        "text": "李可舉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000159",
     "sentence": "李可舉，本回鶻阿布思之族也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李可舉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000160",
     "sentence": "張仲武破回鶻，可舉父茂勛與本部侯王降焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張仲武",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000161",
@@ -1425,6 +1643,12 @@
     "sentence_id": "HCH_008_180_000165",
     "sentence": "張公素以兵逆擊不利，公素走，茂勛入城，軍民方知其非貢言也。",
     "entities": [
+      {
+        "text": "張公素",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "茂勛入城",
         "label": "LOC",
@@ -1466,10 +1690,22 @@
     "sentence": "中和末，以太原李克用兵勢方盛，與定州王處存密相締結。",
     "entities": [
       {
+        "text": "李克用",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "與定州",
         "label": "LOC",
         "start": 15,
         "end": 18
+      },
+      {
+        "text": "王處存",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -1477,6 +1713,12 @@
     "sentence_id": "HCH_008_180_000170",
     "sentence": "可舉慮其窺伺山東，終為己患，遂遣使構雲中赫連鐸乘其背，則與鎮州合謀舉兵，兼言易、定是燕、趙之餘，雲得其地則正其疆理而分之。",
     "entities": [
+      {
+        "text": "赫連鐸",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
       {
         "text": "則與鎮州",
         "label": "LOC",
@@ -1488,14 +1730,7 @@
   {
     "sentence_id": "HCH_008_180_000171",
     "sentence": "時可舉遣將李全忠攻易州。",
-    "entities": [
-      {
-        "text": "將李全忠攻易州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_180_000172",
@@ -1524,6 +1759,12 @@
     "sentence_id": "HCH_008_180_000174",
     "sentence": "王處存引輕軍三千，以羊皮蒙之，夜伏於城外，仍別於間道以騎士伺之。",
     "entities": [
+      {
+        "text": "王處存",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "夜伏於城",
         "label": "LOC",
@@ -1569,12 +1810,26 @@
   {
     "sentence_id": "HCH_008_180_000179",
     "sentence": "李全忠",
-    "entities": []
+    "entities": [
+      {
+        "text": "李全忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000180",
     "sentence": "李全忠，范陽人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李全忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000181",
@@ -1614,6 +1869,12 @@
         "label": "LOC",
         "start": 71,
         "end": 77
+      },
+      {
+        "text": "李可舉",
+        "label": "PER",
+        "start": 83,
+        "end": 86
       }
     ]
   },
@@ -1677,7 +1938,14 @@
   {
     "sentence_id": "HCH_008_180_000190",
     "sentence": "赫連鐸據雲中，屢引匡威與河東爭雲、代，並兵積年。",
-    "entities": []
+    "entities": [
+      {
+        "text": "赫連鐸",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000191",
@@ -1688,6 +1956,12 @@
         "label": "LOC",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "李存孝",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -1872,13 +2146,26 @@
         "label": "LOC",
         "start": 4,
         "end": 7
+      },
+      {
+        "text": "盧彥威",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
   {
     "sentence_id": "HCH_008_180_000215",
     "sentence": "匡籌妻張氏產於路，不能進，劉仁恭獲之，獻於李克用，後立為夫人，嬖寵專房。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李克用",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000216",
@@ -1944,12 +2231,62 @@
   {
     "sentence_id": "HCH_008_180_000224",
     "sentence": "若李載義、張仲武、張允伸因利乘便，獲領旌旗，以仁守之，恭順朝旨，亦足多也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李載義",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "張仲武",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "張允伸",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000225",
     "sentence": "如硃克融、楊志誠、史元忠、張公素、李可舉、李全忠，以不仁得之，靡更曩志。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊志誠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "史元忠",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "張公素",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "李可舉",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "李全忠",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_180_000226",

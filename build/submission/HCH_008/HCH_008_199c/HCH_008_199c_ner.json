@@ -102,6 +102,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "喬師望",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -169,7 +175,14 @@
   {
     "sentence_id": "HCH_008_199c_000026",
     "sentence": "會朝廷立李思摩爲可汗，處其部衆于漠南之地。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李思摩",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_199c_000027",
@@ -214,6 +227,12 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "薛萬徹",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -230,7 +249,14 @@
   {
     "sentence_id": "HCH_008_199c_000033",
     "sentence": "先是，延陀擊沙缽羅及阿史那社爾等，以步戰而勝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "阿史那社爾",
+        "label": "PER",
+        "start": 10,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_199c_000034",
@@ -255,7 +281,14 @@
   {
     "sentence_id": "HCH_008_199c_000038",
     "sentence": "副總管薛萬徹率數千騎收其執馬者。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛萬徹",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_199c_000039",
@@ -304,6 +337,12 @@
         "label": "TME",
         "start": 80,
         "end": 83
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 102,
+        "end": 105
       },
       {
         "text": "公主",
@@ -388,7 +427,14 @@
   {
     "sentence_id": "HCH_008_199c_000054",
     "sentence": "既而李思摩數遣兵侵掠之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李思摩",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_199c_000055",
@@ -459,6 +505,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "執失思力",
+        "label": "PER",
+        "start": 20,
+        "end": 24
       }
     ]
   },
@@ -484,16 +536,34 @@
         "end": 19
       },
       {
+        "text": "阿史那社爾",
+        "label": "PER",
+        "start": 19,
+        "end": 24
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 36,
         "end": 39
       },
       {
+        "text": "執失思力",
+        "label": "PER",
+        "start": 39,
+        "end": 43
+      },
+      {
         "text": "代州",
         "label": "LOC",
         "start": 48,
         "end": 50
+      },
+      {
+        "text": "薛萬徹",
+        "label": "PER",
+        "start": 52,
+        "end": 55
       },
       {
         "text": "營州",
@@ -506,6 +576,12 @@
         "label": "TITLE",
         "start": 66,
         "end": 69
+      },
+      {
+        "text": "契苾何力",
+        "label": "PER",
+        "start": 69,
+        "end": 73
       },
       {
         "text": "太宗親幸靈州",
@@ -674,6 +750,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "崔敦禮",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -695,7 +777,14 @@
   {
     "sentence_id": "HCH_008_199c_000096",
     "sentence": "咄摩支見官軍奄至，惶駭不知所爲；且聞詔使蕭嗣業在回紇中，因而請降。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭嗣業",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_199c_000097",
@@ -1244,10 +1333,22 @@
         "end": 8
       },
       {
+        "text": "張玄遇",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "麻仁節",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -1265,6 +1366,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "王孝傑",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "將軍",
@@ -1305,6 +1412,12 @@
         "label": "LOC",
         "start": 7,
         "end": 10
+      },
+      {
+        "text": "武攸宜",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1319,6 +1432,12 @@
         "end": 8
       },
       {
+        "text": "武懿宗",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 20,
@@ -1329,6 +1448,12 @@
         "label": "TITLE",
         "start": 22,
         "end": 24
+      },
+      {
+        "text": "婁師德",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       },
       {
         "text": "將軍",
@@ -1358,6 +1483,12 @@
         "label": "TITLE",
         "start": 25,
         "end": 27
+      },
+      {
+        "text": "陸寶積",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -1493,7 +1624,14 @@
   {
     "sentence_id": "HCH_008_199c_000168",
     "sentence": "都督許欽淡令薛泰帥驍勇五百人，又征奚王李大輔者及娑固合衆以討可突於。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許欽淡",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_199c_000169",
@@ -1673,6 +1811,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "李元紘",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -1739,6 +1883,12 @@
         "label": "LOC",
         "start": 21,
         "end": 26
+      },
+      {
+        "text": "趙含章",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -1761,6 +1911,18 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "薛楚玉",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "郭英傑",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -1790,12 +1952,6 @@
     "sentence_id": "HCH_008_199c_000191",
     "sentence": "詔以張守珪爲幽州長史兼御史中丞以經略之。",
     "entities": [
-      {
-        "text": "以張守珪爲幽州",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -1875,6 +2031,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1981,6 +2143,12 @@
         "label": "LOC",
         "start": 38,
         "end": 40
+      },
+      {
+        "text": "張仲武",
+        "label": "PER",
+        "start": 43,
+        "end": 46
       }
     ]
   },
@@ -2126,13 +2294,26 @@
         "label": "TITLE",
         "start": 42,
         "end": 44
+      },
+      {
+        "text": "李楷洛",
+        "label": "PER",
+        "start": 44,
+        "end": 47
       }
     ]
   },
   {
     "sentence_id": "HCH_008_199c_000224",
     "sentence": "儉懼，不敢進救，遣使矯報大輔云：「我奉敕來此招諭蕃將，李楷洛等不受節度而輒用兵，請斬以謝。」大輔曰：「若奉敕招諭，有何國信物？」儉率軍中繒帛萬余段並袍帶以與之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李楷洛",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_199c_000225",
@@ -2149,7 +2330,14 @@
   {
     "sentence_id": "HCH_008_199c_000226",
     "sentence": "儉及副將周以悌爲大輔所擒，送於突厥默啜，並遇害。",
-    "entities": []
+    "entities": [
+      {
+        "text": "周以悌",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_199c_000227",
@@ -2226,6 +2414,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "姜師度",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -2370,6 +2564,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "趙含章",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -2933,6 +3133,12 @@
     "sentence": "會高開道引突厥來攻幽州，突地稽率兵邀擊，大破之。",
     "entities": [
       {
+        "text": "高開道",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "引突厥來攻幽州",
         "label": "LOC",
         "start": 4,
@@ -3169,6 +3375,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 15
+      },
+      {
+        "text": "李楷固",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -3398,6 +3610,12 @@
     "sentence_id": "HCH_008_199c_000356",
     "sentence": "俄有泄其事者，武藝又上書云：「大國示人以信，豈有欺誑之理！今聞門藝不向嶺南，伏請依前殺卻。」由是鴻臚少卿李道邃、源復以不能督察官屬，致有漏泄，左遷道邃爲曹州刺史，復爲澤州刺史。",
     "entities": [
+      {
+        "text": "李道邃",
+        "label": "PER",
+        "start": 52,
+        "end": 55
+      },
       {
         "text": "左遷道邃爲曹州",
         "label": "LOC",
@@ -3955,6 +4173,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "大明俊",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },

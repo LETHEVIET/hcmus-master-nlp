@@ -2,7 +2,26 @@
   {
     "sentence_id": "HCH_008_087_000001",
     "sentence": "○裴炎劉禕之魏玄同李昭德",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉禕之",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "魏玄同",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "李昭德",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000002",
@@ -88,6 +107,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "劉仁軌",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -120,10 +145,22 @@
         "end": 23
       },
       {
+        "text": "劉齊賢",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 29,
         "end": 31
+      },
+      {
+        "text": "郭正一",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -147,7 +184,14 @@
   {
     "sentence_id": "HCH_008_087_000014",
     "sentence": "中宗既立，欲以後父韋玄貞為侍中，又欲與乳母子五品，炎固爭以為不可。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋玄貞",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000015",
@@ -170,10 +214,22 @@
         "end": 6
       },
       {
+        "text": "劉禕之",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "程務挺",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -185,7 +241,14 @@
   {
     "sentence_id": "HCH_008_087_000019",
     "sentence": "”太后報曰：“汝若將天下與韋玄貞，何得無罪！",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋玄貞",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000020",
@@ -257,12 +320,26 @@
   {
     "sentence_id": "HCH_008_087_000032",
     "sentence": "時韓王元嘉、魯王靈夔等皆皇屬之近，承嗣與從父弟三思屢勸太后因事誅之，以絕宗室之望。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王靈夔",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000033",
     "sentence": "劉禕之、韋仁約並懷畏憚，唯唯無言，炎獨固爭，以為不可，承嗣深憾之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉禕之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000034",
@@ -279,7 +356,14 @@
   {
     "sentence_id": "HCH_008_087_000035",
     "sentence": "秋，徐敬業構逆，太后召炎議事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐敬業",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000036",
@@ -327,6 +411,12 @@
         "end": 7
       },
       {
+        "text": "騫味道",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 11,
@@ -343,6 +433,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "胡元範",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -355,6 +451,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "程務挺",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -390,6 +492,12 @@
     "sentence": "胡元範，申州義陽人，坐救炎流死瓊州。",
     "entities": [
       {
+        "text": "胡元範",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "申州",
         "label": "LOC",
         "start": 4,
@@ -408,16 +516,22 @@
     "sentence": "程務挺伏法，納言劉齊賢貶吉州長史，吏部侍郎郭待舉貶岳州刺史，皆坐救炎之罪也。",
     "entities": [
       {
-        "text": "言劉齊賢貶吉州",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
+        "text": "程務挺",
+        "label": "PER",
+        "start": 0,
+        "end": 3
       },
       {
         "text": "侍郎",
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "郭待舉",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       },
       {
         "text": "刺史",
@@ -436,6 +550,12 @@
         "label": "TME",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "裴行儉",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -447,7 +567,14 @@
   {
     "sentence_id": "HCH_008_087_000050",
     "sentence": "時炎害行儉之功，奏云：“伏念是程務挺、張虔勖逼逐於營，又磧北回紇南向逼之，窘急而降。",
-    "entities": []
+    "entities": [
+      {
+        "text": "程務挺",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000051",
@@ -553,12 +680,25 @@
   {
     "sentence_id": "HCH_008_087_000066",
     "sentence": "劉禕之",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉禕之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000067",
     "sentence": "劉禕之，常州晉陵人也。",
     "entities": [
+      {
+        "text": "劉禕之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "常州",
         "label": "LOC",
@@ -607,7 +747,14 @@
   {
     "sentence_id": "HCH_008_087_000074",
     "sentence": "江南大使李襲譽嘉其至孝，恒以米帛賚之，因上表旌其門閭，改所居為孝慈里。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李襲譽",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000075",
@@ -647,7 +794,26 @@
   {
     "sentence_id": "HCH_008_087_000078",
     "sentence": "禕之少與孟利貞、高智周、郭正一俱以文藻知名，時人號為劉、孟、高、郭。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孟利貞",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "高智周",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "郭正一",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000079",
@@ -663,6 +829,24 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "元萬頃",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "范履冰",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "周思茂",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       },
       {
         "text": "《列女傳》",
@@ -836,7 +1020,14 @@
   {
     "sentence_id": "HCH_008_087_000094",
     "sentence": "內史騫味道謂曰：“此乃皇太后處分也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "騫味道",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000095",
@@ -901,7 +1092,20 @@
   {
     "sentence_id": "HCH_008_087_000103",
     "sentence": "”納言王德真對曰：“昔戴至德每有善事，必推於君。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王德真",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "戴至德",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000104",
@@ -931,7 +1135,20 @@
   {
     "sentence_id": "HCH_008_087_000109",
     "sentence": "”時劉景仙、郭正一、皇甫文亮、楊思征、薛元超各有所奏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭正一",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "皇甫文亮",
+        "label": "PER",
+        "start": 10,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000110",
@@ -956,7 +1173,14 @@
   {
     "sentence_id": "HCH_008_087_000114",
     "sentence": "後禕之嚐竊謂鳳閣舍人賈大隱曰：“太后既能廢昏立明，何用臨朝稱制？",
-    "entities": []
+    "entities": [
+      {
+        "text": "賈大隱",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000115",
@@ -990,6 +1214,12 @@
         "end": 14
       },
       {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
         "text": "則天特令肅州",
         "label": "LOC",
         "start": 30,
@@ -1000,6 +1230,12 @@
         "label": "TITLE",
         "start": 36,
         "end": 38
+      },
+      {
+        "text": "王本立",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       }
     ]
   },
@@ -1066,6 +1302,12 @@
         "end": 9
       },
       {
+        "text": "周思鈞",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "左遷翰為巫州",
         "label": "LOC",
         "start": 27,
@@ -1092,12 +1334,25 @@
   {
     "sentence_id": "HCH_008_087_000131",
     "sentence": "魏玄同",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏玄同",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000132",
     "sentence": "魏玄同，定州鼓城人也。",
     "entities": [
+      {
+        "text": "魏玄同",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "定州鼓城",
         "label": "LOC",
@@ -1126,7 +1381,14 @@
   {
     "sentence_id": "HCH_008_087_000135",
     "sentence": "坐與上官儀文章屬和，配流嶺外。",
-    "entities": []
+    "entities": [
+      {
+        "text": "上官儀",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000136",
@@ -1149,6 +1411,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "劉審禮",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       },
       {
         "text": "拜岐州",
@@ -1835,12 +2103,25 @@
   {
     "sentence_id": "HCH_008_087_000236",
     "sentence": "李昭德",
-    "entities": []
+    "entities": [
+      {
+        "text": "李昭德",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000237",
     "sentence": "李昭德，京兆長安人也。",
     "entities": [
+      {
+        "text": "李昭德",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "長安",
         "label": "LOC",
@@ -1941,7 +2222,14 @@
   {
     "sentence_id": "HCH_008_087_000248",
     "sentence": "乾祐與中書令褚遂良不協，竟為遂良所構。",
-    "entities": []
+    "entities": [
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000249",
@@ -2062,6 +2350,18 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "婁師德",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "侯知一",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -2158,6 +2458,12 @@
     "sentence": "延載初，鳳閣舍人張嘉福令洛陽人王慶之率輕薄惡少數百人詣闕上表，請立武承嗣為皇太子。",
     "entities": [
       {
+        "text": "張嘉福",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "洛陽",
         "label": "LOC",
         "start": 12,
@@ -2229,17 +2535,42 @@
   {
     "sentence_id": "HCH_008_087_000284",
     "sentence": "是時，來俊臣、侯思止等枉撓刑法，誣陷忠良，人皆懾懼，昭德每廷奏其狀，由是俊臣黨與少自摧屈。",
-    "entities": []
+    "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "侯思止",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000285",
     "sentence": "來俊臣又嚐棄故妻而娶太原王慶詵女，侯思止亦奏娶趙郡李自挹女，敕政事堂共商量。",
     "entities": [
       {
-        "text": "思止亦奏娶趙郡",
-        "label": "LOC",
-        "start": 18,
-        "end": 25
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "王慶詵",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "李自挹",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
@@ -2251,12 +2582,26 @@
   {
     "sentence_id": "HCH_008_087_000287",
     "sentence": "往年俊臣賊劫王慶詵女，已大辱國。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王慶詵",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000288",
     "sentence": "今日此奴又請索李自挹女，無乃復辱國耶！",
-    "entities": []
+    "entities": [
+      {
+        "text": "李自挹",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000289",
@@ -2266,7 +2611,14 @@
   {
     "sentence_id": "HCH_008_087_000290",
     "sentence": "侯思止後竟為昭德所繩，搒殺之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯思止",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000291",
@@ -2511,7 +2863,20 @@
   {
     "sentence_id": "HCH_008_087_000332",
     "sentence": "時太僕少卿來俊臣與昭德素不協，乃誣構昭德有逆謀，因被下獄，與來俊臣同日而誅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000333",
@@ -2526,7 +2891,14 @@
   {
     "sentence_id": "HCH_008_087_000335",
     "sentence": "”神龍中，降制曰：“故李昭德勤恪在公，強直自達。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李昭德",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000336",
@@ -2678,7 +3050,20 @@
   {
     "sentence_id": "HCH_008_087_000360",
     "sentence": "又觀其誅侯思止，法王慶之，挫來俊臣，致朋黨漸衰，諛佞稍退。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯思止",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_087_000361",

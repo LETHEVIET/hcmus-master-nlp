@@ -2,7 +2,20 @@
   {
     "sentence_id": "HCH_003_068_000001",
     "sentence": "豆盧寧 楊紹 王雅 韓雄 賀若敦",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧寧",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "賀若敦",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_068_000002",
@@ -12,12 +25,26 @@
   {
     "sentence_id": "HCH_003_068_000003",
     "sentence": "豆盧甯子勣孫毓楊紹子雄王雅子世積韓雄子禽賀若敦子弼弟誼",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀若敦",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_068_000004",
     "sentence": "豆盧寧，字永安，昌黎徒何人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧寧",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_068_000005",
@@ -113,7 +140,14 @@
   {
     "sentence_id": "HCH_003_068_000015",
     "sentence": "ＧＣ定服其能，贈遺甚厚，天光敗，從侯莫陳悅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 17,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_068_000016",
@@ -159,12 +193,6 @@
         "label": "TME",
         "start": 2,
         "end": 4
-      },
-      {
-        "text": "帥劉平伏於上郡",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
       }
     ]
   },
@@ -1561,6 +1589,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "劉休文",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2068,6 +2102,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 18,
+        "end": 22
       }
     ]
   },
@@ -2118,6 +2158,12 @@
     "sentence_id": "HCH_003_068_000211",
     "sentence": "雄乃招集義眾，從獨孤信入洛陽。",
     "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "洛陽",
         "label": "LOC",
@@ -2345,12 +2391,6 @@
         "label": "ORG",
         "start": 3,
         "end": 4
-      },
-      {
-        "text": "孤永業于金墉城",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
       }
     ]
   },
@@ -2393,7 +2433,14 @@
   {
     "sentence_id": "HCH_003_068_000236",
     "sentence": "陳將甄慶、任蠻奴、蕭摩訶等共為聲援，頻寇江北，前後入界。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭摩訶",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_068_000237",
@@ -2452,7 +2499,14 @@
   {
     "sentence_id": "HCH_003_068_000245",
     "sentence": "陳叔寶遣領軍蔡征守朱雀航，聞禽將至，眾懼而潰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳叔寶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_068_000246",
@@ -2489,6 +2543,12 @@
         "label": "ORG",
         "start": 191,
         "end": 193
+      },
+      {
+        "text": "陳叔寶",
+        "label": "PER",
+        "start": 266,
+        "end": 269
       },
       {
         "text": "臣啟關",
@@ -2653,7 +2713,14 @@
   {
     "sentence_id": "HCH_003_068_000272",
     "sentence": "隋文帝得政，從韋孝寬平尉遲迥。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_068_000273",
@@ -2854,6 +2921,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "封甘棠縣",
@@ -3066,6 +3139,12 @@
     "sentence": "賀若敦，河南洛陽人也。",
     "entities": [
       {
+        "text": "賀若敦",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "洛陽",
         "label": "LOC",
         "start": 6,
@@ -3224,6 +3303,12 @@
     "sentence_id": "HCH_003_068_000327",
     "sentence": "明年，從河內公獨孤信於洛陽被圍，敦彎三石弓，箭不虛發。",
     "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "洛陽",
         "label": "LOC",
@@ -3469,14 +3554,7 @@
   {
     "sentence_id": "HCH_003_068_000347",
     "sentence": "陳將侯瑱、侯安都等圍逼湘州，遏絕糧援，乃令敦度江赴救。",
-    "entities": [
-      {
-        "text": "安都等圍逼湘州",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_068_000348",
@@ -3707,6 +3785,12 @@
     "sentence": "與韋孝寬伐陳，攻拔數十城，弼計居多。",
     "entities": [
       {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "陳",
         "label": "ORG",
         "start": 5,
@@ -3753,6 +3837,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "長孫平",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -3860,7 +3950,20 @@
   {
     "sentence_id": "HCH_003_068_000396",
     "sentence": "進屯蔣山之白土岡，陳將魯廣達、周智安、任蠻奴、田瑞、孔范、蕭摩訶等以勁兵拒戰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魯廣達",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "蕭摩訶",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_068_000397",
@@ -3870,7 +3973,14 @@
   {
     "sentence_id": "HCH_003_068_000398",
     "sentence": "魯廣達等相繼遞進，弼軍屢卻。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魯廣達",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_068_000399",
@@ -3895,7 +4005,14 @@
   {
     "sentence_id": "HCH_003_068_000403",
     "sentence": "時韓禽已執陳叔寶。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳叔寶",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_068_000404",
@@ -3951,6 +4068,12 @@
         "label": "LOC",
         "start": 6,
         "end": 10
+      },
+      {
+        "text": "陳叔寶",
+        "label": "PER",
+        "start": 50,
+        "end": 53
       }
     ]
   },
@@ -4069,7 +4192,14 @@
   {
     "sentence_id": "HCH_003_068_000422",
     "sentence": "後數載，下弼獄，上謂曰：「我以高熲、楊素為宰相，汝每昌言此二人唯堪啖飯耳，是何意也？」弼曰：「熲，臣之故人，素，臣之舅子，臣並知其為人，誠有此語。」公卿奏弼怨望，罪當死，上曰：「臣下守法不移，公可自求活理。」弼曰：「臣恃至尊威靈，將八千兵度江，即禽陳叔寶，竊以此望活。」上曰：「此已格外酬賞，何用追論！」弼曰：「平陳之日，諸公議不許臣行。推心為國，已蒙格外重賞，今還格外望活。」既而上低徊者數日，惜其功，特令除名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳叔寶",
+        "label": "PER",
+        "start": 124,
+        "end": 127
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_068_000423",
@@ -4107,6 +4237,12 @@
         "label": "ORG",
         "start": 83,
         "end": 84
+      },
+      {
+        "text": "陳叔寶",
+        "label": "PER",
+        "start": 93,
+        "end": 96
       },
       {
         "text": "太子",
@@ -4350,7 +4486,14 @@
   {
     "sentence_id": "HCH_003_068_000456",
     "sentence": "豆盧勣譽宣分竹，毓節見臨危，可謂載德象賢也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧勣",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_068_000457",
@@ -4365,7 +4508,14 @@
   {
     "sentence_id": "HCH_003_068_000459",
     "sentence": "賀若敦志略慷慨，深入敵境，勍寇絕其糧道，江淮阻其歸途。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀若敦",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_068_000460",
@@ -4375,7 +4525,14 @@
   {
     "sentence_id": "HCH_003_068_000461",
     "sentence": "而茂勳莫紀，嚴刑已及，天下是以知宇文護之不能終其位也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_068_000462",

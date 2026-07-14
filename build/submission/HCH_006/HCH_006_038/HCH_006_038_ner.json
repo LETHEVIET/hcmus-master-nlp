@@ -1557,7 +1557,14 @@
   {
     "sentence_id": "HCH_006_038_000174",
     "sentence": "公孫弘曰：「齊王以憂死，無後，非誅偃無以塞天下之望。」偃遂坐誅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_038_000175",

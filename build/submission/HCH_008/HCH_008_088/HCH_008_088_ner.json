@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_008_088_000001",
     "sentence": "韋思謙",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋思謙",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_088_000002",
     "sentence": "韋思謙，鄭州陽武人也。",
     "entities": [
+      {
+        "text": "韋思謙",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "鄭州",
         "label": "LOC",
@@ -143,10 +156,22 @@
         "end": 5
       },
       {
+        "text": "田仁會",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "張仁禕",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -232,6 +257,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "蘇良嗣",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -690,7 +721,14 @@
   {
     "sentence_id": "HCH_008_088_000080",
     "sentence": "神龍初，坐附推張易之弟昌宗失實，配流嶺表。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_088_000081",
@@ -946,7 +984,14 @@
   {
     "sentence_id": "HCH_008_088_000109",
     "sentence": "加以讒邪凶黨來俊臣之屬，妄執威權，恣行枉陷，正直之伍，死亡爲憂，道路以目，人無固誌，罕有執不撓之懷，殉至公之節，偸安苟免，聊以卒歳。",
-    "entities": []
+    "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_088_000110",
@@ -1239,6 +1284,12 @@
         "label": "TITLE",
         "start": 24,
         "end": 26
+      },
+      {
+        "text": "唐休璟",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       },
       {
         "text": "刺史",
@@ -1884,19 +1935,19 @@
   {
     "sentence_id": "HCH_008_088_000239",
     "sentence": "先是，中宗遺製睿宗輔政，宗楚客、韋温等改削槁草，嗣立時在政事府，不能正之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宗楚客",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_088_000240",
     "sentence": "至是爲憲司所劾，左遷岳州別駕。",
-    "entities": [
-      {
-        "text": "左遷岳州",
-        "label": "LOC",
-        "start": 8,
-        "end": 12
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_088_000241",
@@ -1925,6 +1976,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "劉知柔",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       },
       {
         "text": "開元七年",
@@ -2051,6 +2108,12 @@
         "end": 2
       },
       {
+        "text": "宇文融",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 40,
@@ -2078,7 +2141,14 @@
   {
     "sentence_id": "HCH_008_088_000258",
     "sentence": "恒至河西時，節度使蓋嘉運恃托中貴，公爲非法，兼偽敘功勞，恒抗表請劾之，人代其懼。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蓋嘉運",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_088_000259",
@@ -2142,6 +2212,18 @@
         "label": "TITLE",
         "start": 24,
         "end": 26
+      },
+      {
+        "text": "盧從願",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "text": "李朝隱",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       },
       {
         "text": "刺史",
@@ -2234,12 +2316,25 @@
   {
     "sentence_id": "HCH_008_088_000272",
     "sentence": "陸元方",
-    "entities": []
+    "entities": [
+      {
+        "text": "陸元方",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_088_000273",
     "sentence": "陸元方，蘇州呉縣人。",
     "entities": [
+      {
+        "text": "陸元方",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "蘇州呉縣",
         "label": "LOC",
@@ -2331,7 +2426,14 @@
   {
     "sentence_id": "HCH_008_088_000283",
     "sentence": "俄爲來俊臣所陷，則天手敕特赦之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_088_000284",
@@ -2367,6 +2469,12 @@
     "sentence_id": "HCH_008_088_000286",
     "sentence": "證聖初，内史李昭德得罪，以元方附會昭德，貶綏州刺史。",
     "entities": [
+      {
+        "text": "李昭德",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "貶綏州",
         "label": "LOC",
@@ -2522,7 +2630,14 @@
   {
     "sentence_id": "HCH_008_088_000299",
     "sentence": "頊曰：「爲官擇人，至公之道。陸景初才望髙雅，非常流所及，實不以吏部之子妄推薦也。」竟奏授之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陸景初",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_088_000300",
@@ -2591,6 +2706,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "蕭至忠",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -2904,6 +3025,24 @@
     "sentence": "少與知名之士陳子昂、宋之問、盧藏用、道士司馬承禎、道人法成等交遊，雖才學不逮子昂等，而風流強辯過之。",
     "entities": [
       {
+        "text": "陳子昂",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "宋之問",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "盧藏用",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 20,
@@ -3012,10 +3151,22 @@
     "sentence": "長史王德眞、司馬劉禕之皆器重之。",
     "entities": [
       {
+        "text": "王德眞",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "劉禕之",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -3146,6 +3297,12 @@
         "end": 2
       },
       {
+        "text": "魏元忠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "配流普思於儋州",
         "label": "LOC",
         "start": 32,
@@ -3194,6 +3351,12 @@
     "sentence": "是歳，將拜南郊，國子祭酒祝欽明希庶人旨，建議請皇后爲亞獻，安樂公主爲終獻。",
     "entities": [
       {
+        "text": "祝欽明",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "皇后",
         "label": "TITLE",
         "start": 23,
@@ -3225,12 +3388,26 @@
   {
     "sentence_id": "HCH_008_088_000358",
     "sentence": "後因侍宴，將作大匠宗晉卿曰：「拜僕射竟不燒尾，豈不喜耶？」帝默然。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宗晉卿",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_088_000359",
     "sentence": "瓌奏曰：「臣聞宰相者，主調陰陽，代天理物。今粒食踴貴，百姓不足，臣見宿衞兵至有三日不得食者。臣愚不稱職，所以不敢燒尾。」是歳六月，與唐休璟並加監修國史。",
-    "entities": []
+    "entities": [
+      {
+        "text": "唐休璟",
+        "label": "PER",
+        "start": 66,
+        "end": 69
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_088_000360",
@@ -3241,6 +3418,48 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "韋安石",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "韋巨源",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "蕭至忠",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
+        "text": "宗楚客",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      },
+      {
+        "text": "紀處訥",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      },
+      {
+        "text": "韋嗣立",
+        "label": "PER",
+        "start": 45,
+        "end": 48
+      },
+      {
+        "text": "唐休璟",
+        "label": "PER",
+        "start": 49,
+        "end": 52
       }
     ]
   },
@@ -3252,7 +3471,14 @@
   {
     "sentence_id": "HCH_008_088_000362",
     "sentence": "中書令宗楚客謂温曰：「今須請皇太后臨朝，宜停相王輔政。且皇太后於相王居嫂叔不通問之地，甚難爲儀注，理全不可。」瓌獨正色拒之，謂楚客等曰：「遺製是先帝意，安可更改！」楚客及韋温大怒，遂削相王輔政而宣行焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宗楚客",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_088_000363",
@@ -3358,6 +3584,12 @@
         "label": "TME",
         "start": 210,
         "end": 212
+      },
+      {
+        "text": "劉幽求",
+        "label": "PER",
+        "start": 218,
+        "end": 221
       }
     ]
   },
@@ -3404,6 +3636,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -3495,6 +3733,12 @@
         "end": 50
       },
       {
+        "text": "陸象先",
+        "label": "PER",
+        "start": 57,
+        "end": 60
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 80,
@@ -3505,7 +3749,14 @@
   {
     "sentence_id": "HCH_008_088_000383",
     "sentence": "他日，上謂頲曰：「前朝有李嶠、蘇味道，謂之蘇、李；今有卿及李乂，亦不讓之。卿所製文誥，可録一本封進，題云『臣某撰』，朕要留中披覽。」其禮遇如此。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇味道",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_088_000384",
@@ -3580,6 +3831,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "皇甫恂",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -3863,6 +4120,12 @@
     "sentence": "酷吏來俊臣素忌嫉之，遂誣奏幹在魏州與琅邪王衝私書往復，因繫獄鞫訊，幹發憤而卒。",
     "entities": [
       {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "遂誣奏幹在魏州",
         "label": "LOC",
         "start": 10,
@@ -3890,14 +4153,7 @@
   {
     "sentence_id": "HCH_008_088_000423",
     "sentence": "史臣曰：韋思謙始以州縣，奮於煙霄，持綱不避於權豪，報國能忘於妻子。",
-    "entities": [
-      {
-        "text": "韋思謙始以州縣",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_088_000424",
@@ -3928,6 +4184,12 @@
     "sentence_id": "HCH_008_088_000429",
     "sentence": "陸元方博學大度，再踐鈞衡，當則天時，非有忠貞，應無黜責，綏州之任，抑又何慚！",
     "entities": [
+      {
+        "text": "陸元方",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "綏州",
         "label": "LOC",

@@ -316,6 +316,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "趙上交",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -328,6 +334,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "趙上交",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -372,10 +384,22 @@
         "end": 5
       },
       {
+        "text": "李慎儀",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
         "text": "以諸道州縣",
         "label": "LOC",
         "start": 33,
         "end": 38
+      },
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 56,
+        "end": 59
       },
       {
         "text": "二年",
@@ -393,7 +417,20 @@
   {
     "sentence_id": "HCH_007_148_000023",
     "sentence": "郭崇韜疾惡太深，奏請厘革，豆盧革、韋說僶俛贊成。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_148_000024",

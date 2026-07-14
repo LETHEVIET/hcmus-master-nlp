@@ -174,7 +174,14 @@
   {
     "sentence_id": "HCH_008_029_000016",
     "sentence": "及即位，使呂才協音律，李百藥、虞世南、褚亮、魏徵等制歌辭。",
-    "entities": []
+    "entities": [
+      {
+        "text": "虞世南",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_029_000017",
@@ -520,6 +527,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "張文收",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -4387,6 +4400,12 @@
         "end": 5
       },
       {
+        "text": "殷盈孫",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "《周官考工記》",
         "label": "TITLE",
         "start": 15,
@@ -4407,7 +4426,14 @@
   {
     "sentence_id": "HCH_008_029_000493",
     "sentence": "鑄成，張浚求知聲者處士蕭承訓、梨園樂工陳敬言與太樂令李從周，令先校定石磬，合而擊拊之，八音克諧，觀者聳聽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李從周",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_029_000494",

@@ -212,6 +212,12 @@
     "sentence": "以破齊將裴叔業功，進號鎮南將軍，加都督四州諸軍事，封汝陽縣子。",
     "entities": [
       {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "進號鎮",
         "label": "LOC",
         "start": 9,
@@ -251,6 +257,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "黃瑤起",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -302,14 +314,7 @@
   {
     "sentence_id": "HCH_003_042_000035",
     "sentence": "唯任城王澄以其起自羈遠，一旦在己之上，每謂人曰：「朝廷以王肅加我上，尚可；從叔廣陵，宗室尊宿，歷任內外，云何一朝令肅居其右也？」肅聞，恆降避之。",
-    "entities": [
-      {
-        "text": "唯任城",
-        "label": "LOC",
-        "start": 0,
-        "end": 3
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_042_000036",
@@ -349,6 +354,12 @@
     "sentence_id": "HCH_003_042_000039",
     "sentence": "裴叔業以壽春內附，拜肅使持節、都督江西諸軍事，與彭城王勰率步騎十萬以赴之。",
     "entities": [
+      {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "與彭城",
         "label": "LOC",
@@ -963,6 +974,12 @@
     "sentence": "邕同劉義宣之事，身死彭城。",
     "entities": [
       {
+        "text": "劉義宣",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "身死彭城",
         "label": "LOC",
         "start": 8,
@@ -1278,14 +1295,7 @@
   {
     "sentence_id": "HCH_003_042_000134",
     "sentence": "齊將裴叔業入寇徐州，疆場之人，頗懷去就。",
-    "entities": [
-      {
-        "text": "裴叔業入寇徐州",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_042_000135",
@@ -2757,6 +2767,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "王松年",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -2842,7 +2858,14 @@
   {
     "sentence_id": "HCH_003_042_000290",
     "sentence": "珽之將訴趙彥深、和士開也，先與逖謀，逖乃告二人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_042_000291",
@@ -3996,7 +4019,14 @@
   {
     "sentence_id": "HCH_003_042_000401",
     "sentence": "時明帝行講學之禮于國子寺，司徒崔光執經，敕景與董紹、張徹、馮元興、王延業、鄭伯猷等俱為錄義。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭伯猷",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_042_000402",
@@ -4188,6 +4218,12 @@
         "end": 4
       },
       {
+        "text": "元法僧",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "梁",
         "label": "ORG",
         "start": 9,
@@ -4245,6 +4281,18 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "崔延伯",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       },
       {
         "text": "將軍",
@@ -4385,14 +4433,7 @@
   {
     "sentence_id": "HCH_003_042_000434",
     "sentence": "譚勒別將崔仲哲等截軍都關以待之。",
-    "entities": [
-      {
-        "text": "仲哲等截軍都關",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_042_000435",
@@ -4685,6 +4726,12 @@
         "label": "TITLE",
         "start": 63,
         "end": 65
+      },
+      {
+        "text": "畢祖彥",
+        "label": "PER",
+        "start": 71,
+        "end": 74
       }
     ]
   },

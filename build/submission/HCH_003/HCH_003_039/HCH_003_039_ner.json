@@ -2,7 +2,32 @@
   {
     "sentence_id": "HCH_003_039_000001",
     "sentence": "薛安都 劉休賓 房法壽 畢眾敬 羊祉",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛安都",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "劉休賓",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "房法壽",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "畢眾敬",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_039_000002",
@@ -12,12 +37,44 @@
   {
     "sentence_id": "HCH_003_039_000003",
     "sentence": "薛安都劉休賓房法壽曾孫豹玄孫彥謙族子景伯畢眾敬曾孫義雲羊祉子深孫肅弟子敦烈",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛安都",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "劉休賓",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "房法壽",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "畢眾敬",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_039_000004",
     "sentence": "薛安都，字休達，河東汾陰人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛安都",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_039_000005",
@@ -102,7 +159,14 @@
   {
     "sentence_id": "HCH_003_039_000013",
     "sentence": "安都與沈文秀、崔道固、常珍奇等舉兵應之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "常珍奇",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_039_000014",
@@ -192,6 +256,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "畢眾敬",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -569,12 +639,25 @@
   {
     "sentence_id": "HCH_003_039_000056",
     "sentence": "劉休賓，字處幹，本平原人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉休賓",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_039_000057",
     "sentence": "祖昶，從慕容德度河，家于北海都昌縣。",
     "entities": [
+      {
+        "text": "慕容德",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "家于北海都昌縣",
         "label": "LOC",
@@ -888,6 +971,12 @@
     "sentence": "房法壽，小名烏頭，清河東武城人也。",
     "entities": [
       {
+        "text": "房法壽",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "清河東武城",
         "label": "LOC",
         "start": 9,
@@ -988,6 +1077,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "劉休賓",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -999,7 +1094,14 @@
   {
     "sentence_id": "HCH_003_039_000103",
     "sentence": "法壽供給亞于薛安都等，以功賜爵壯武侯，給以田宅奴婢。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛安都",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_039_000104",
@@ -1009,7 +1111,14 @@
   {
     "sentence_id": "HCH_003_039_000105",
     "sentence": "畢眾敬等皆尚其通愛。",
-    "entities": []
+    "entities": [
+      {
+        "text": "畢眾敬",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_039_000106",
@@ -1094,7 +1203,14 @@
   {
     "sentence_id": "HCH_003_039_000114",
     "sentence": "王思政入據潁川，慕容紹宗出討，豹為紹宗開府主簿兼行台郎中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 8,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_039_000115",
@@ -2300,6 +2416,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "盧陽烏",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },
@@ -2759,6 +2881,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "傅豎眼",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2780,7 +2908,14 @@
   {
     "sentence_id": "HCH_003_039_000319",
     "sentence": "畢眾敬，小名奈，東平須昌人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "畢眾敬",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_039_000320",
@@ -2831,6 +2966,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "薛安都",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -2877,7 +3018,14 @@
   {
     "sentence_id": "HCH_003_039_000329",
     "sentence": "弟眾愛，為薛安都長史，亦遣人密至濟陰，掘纂父墓，以相報答。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛安都",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_039_000330",
@@ -3027,6 +3175,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "薛安都",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -3458,6 +3612,12 @@
     "sentence_id": "HCH_003_039_000386",
     "sentence": "逢蕭寶夤退敗，祖暉拔城，東趣華陰，坐免官爵。",
     "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "祖暉拔城",
         "label": "LOC",
@@ -4186,6 +4346,12 @@
         "label": "TITLE",
         "start": 22,
         "end": 24
+      },
+      {
+        "text": "元法僧",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -4225,7 +4391,14 @@
   {
     "sentence_id": "HCH_003_039_000477",
     "sentence": "以侍卸史為元法僧監軍，法僧反，被逼南入。",
-    "entities": []
+    "entities": [
+      {
+        "text": "元法僧",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_039_000478",
@@ -4738,6 +4911,12 @@
     "sentence": "蕭寶夤反，攻圍華州，王平、薛鳳賢等作逆。",
     "entities": [
       {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "攻圍華州",
         "label": "LOC",
         "start": 5,
@@ -4899,7 +5078,14 @@
   {
     "sentence_id": "HCH_003_039_000541",
     "sentence": "節閔帝敕深與常侍盧道虔、元晏、元法壽選人補定，自奉朝請以上，各有沙汰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧道虔",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_039_000542",
@@ -5426,6 +5612,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -5508,7 +5700,14 @@
   {
     "sentence_id": "HCH_003_039_000603",
     "sentence": "論曰：薛安都一武夫耳，雖輕於去就，實啟東南。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛安都",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_039_000604",

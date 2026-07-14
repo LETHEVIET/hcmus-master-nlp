@@ -214,6 +214,12 @@
     "sentence": "李罕之引並人圍張全義於河陽，從周與丁會、張存敬、牛存節率兵赴援，大破並軍，殺蕃漢二萬人，解河陽之圍，以功表授檢校工部尚書。",
     "entities": [
       {
+        "text": "牛存節",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 58,
@@ -479,14 +485,7 @@
   {
     "sentence_id": "HCH_007_016_000041",
     "sentence": "從周乘勝伐兗，會朱瑾出師在徐境，其將康懷英以城降。",
-    "entities": [
-      {
-        "text": "其將康懷英以城",
-        "label": "LOC",
-        "start": 16,
-        "end": 23
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_016_000042",
@@ -504,6 +503,12 @@
     "sentence_id": "HCH_007_016_000043",
     "sentence": "復領兵萬餘人渡淮討楊行密，至濠州，聞龐師古清口之敗，遽班師。",
     "entities": [
+      {
+        "text": "楊行密",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
       {
         "text": "至濠州",
         "label": "LOC",
@@ -582,6 +587,12 @@
         "end": 6
       },
       {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "率軍十萬寇魏州",
         "label": "LOC",
         "start": 9,
@@ -622,9 +633,9 @@
     "sentence": "翌日，破其八寨，追擊至臨清，劉仁恭走滄州，從周授宣義軍行軍司馬。",
     "entities": [
       {
-        "text": "劉仁恭走滄州",
+        "text": "滄州",
         "label": "LOC",
-        "start": 14,
+        "start": 18,
         "end": 20
       },
       {
@@ -704,6 +715,12 @@
         "label": "LOC",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -798,6 +815,12 @@
     "sentence_id": "HCH_007_016_000064",
     "sentence": "太祖以從周抱疾既久，命康懷英代之，授左金吾上將軍，以風恙不任朝謁，改右衛上將軍致仕。",
     "entities": [
+      {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "將軍",
         "label": "TITLE",
@@ -1221,6 +1244,12 @@
         "label": "LOC",
         "start": 4,
         "end": 9
+      },
+      {
+        "text": "徐懷玉",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -1382,7 +1411,14 @@
   {
     "sentence_id": "HCH_007_016_000127",
     "sentence": "其秋，加檢校司徒，副劉知俊禦邠、鳳之寇，敗之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_016_000128",
@@ -1473,12 +1509,25 @@
   {
     "sentence_id": "HCH_007_016_000137",
     "sentence": "張歸厚",
-    "entities": []
+    "entities": [
+      {
+        "text": "張歸厚",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_016_000138",
     "sentence": "張歸厚，字德坤， 〈 （《通鑒考異》引《梁功臣列傳》云：歸厚祖興，父處讓。） 〉 少驍勇，有機略，尤長於弓槊之用。",
     "entities": [
+      {
+        "text": "張歸厚",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "《通鑒考異》",
         "label": "TITLE",
@@ -1750,12 +1799,6 @@
         "label": "TME",
         "start": 2,
         "end": 4
-      },
-      {
-        "text": "徐懷玉同守澤州",
-        "label": "LOC",
-        "start": 13,
-        "end": 20
       }
     ]
   },
@@ -1778,12 +1821,6 @@
         "label": "TME",
         "start": 2,
         "end": 4
-      },
-      {
-        "text": "劉知俊以同州",
-        "label": "LOC",
-        "start": 6,
-        "end": 12
       }
     ]
   },

@@ -460,6 +460,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李輔國",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -524,6 +530,12 @@
     "sentence_id": "HCH_008_052_000047",
     "sentence": "中官程元振、李輔國知其謀，及太子入，二人以難告，請太子在飛龍廄。",
     "entities": [
+      {
+        "text": "李輔國",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -590,12 +602,6 @@
         "end": 48
       },
       {
-        "text": "卿竇履信貶道州",
-        "label": "LOC",
-        "start": 52,
-        "end": 59
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 59,
@@ -653,6 +659,12 @@
     "sentence_id": "HCH_008_052_000055",
     "sentence": "天寶中，宰相李林甫不利於太子，妃兄堅為刑部尚書，林甫羅織，起柳勣之獄，堅連坐得罪，兄弟並賜死。",
     "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -758,6 +770,12 @@
         "label": "TITLE",
         "start": 27,
         "end": 29
+      },
+      {
+        "text": "高力士",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -798,7 +816,14 @@
   {
     "sentence_id": "HCH_008_052_000067",
     "sentence": "宰臣郭子儀等上表曰：",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_052_000068",
@@ -1015,7 +1040,14 @@
   {
     "sentence_id": "HCH_008_052_000082",
     "sentence": "俄而史思明再陷河洛。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_052_000083",
@@ -1589,6 +1621,12 @@
     "sentence": "知禮者以貞觀中岑文本撰文德皇后諡冊曰「皇后長孫氏」，斯得之矣。",
     "entities": [
       {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "皇后",
         "label": "TITLE",
         "start": 13,
@@ -1625,7 +1663,14 @@
   {
     "sentence_id": "HCH_008_052_000142",
     "sentence": "又命宰相張延賞、柳渾撰《昭德皇后廟樂章》，既進，上以詞句非工，留中不下，令學士吳通玄別撰進。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張延賞",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_052_000143",
@@ -2382,6 +2427,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "李抱真",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -2496,6 +2547,12 @@
     "sentence": "大和中，神策中尉王守澄用事，委信翼城醫人鄭注、賊臣李訓，幹竊時權。",
     "entities": [
       {
+        "text": "王守澄",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "委信翼城",
         "label": "LOC",
         "start": 14,
@@ -2507,6 +2564,18 @@
     "sentence_id": "HCH_008_052_000229",
     "sentence": "訓、注惡宰相李宗閔、李德裕，構宗閔憸邪，為吏部侍郎時，令駙馬都尉沈通賂於若憲，求為宰相。",
     "entities": [
+      {
+        "text": "李宗閔",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "侍郎",
         "label": "TITLE",
@@ -2784,6 +2853,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "王守澄",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -2893,7 +2968,14 @@
   {
     "sentence_id": "HCH_008_052_000266",
     "sentence": "左軍中尉仇士良深銜之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "仇士良",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_052_000267",
@@ -2977,10 +3059,22 @@
         "end": 4
       },
       {
+        "text": "劉從諫",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 80,
         "end": 82
+      },
+      {
+        "text": "高元裕",
+        "label": "PER",
+        "start": 84,
+        "end": 87
       },
       {
         "text": "侍郎",
@@ -3301,6 +3395,12 @@
     "sentence": "翌日，宰相柳璨、獨孤損等詐宣皇后令云：「帝為宮人害，輝王祚宜升帝位。」仍尊后為皇太后。",
     "entities": [
       {
+        "text": "獨孤損",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "皇后",
         "label": "TITLE",
         "start": 14,
@@ -3327,6 +3427,12 @@
         "label": "LOC",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "張廷範",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },

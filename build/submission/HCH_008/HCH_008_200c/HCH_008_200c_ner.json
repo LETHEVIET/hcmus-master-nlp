@@ -2,7 +2,14 @@
   {
     "sentence_id": "HCH_008_200c_000001",
     "sentence": "○朱泚黃巢秦宗權",
-    "entities": []
+    "entities": [
+      {
+        "text": "秦宗權",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000002",
@@ -72,12 +79,31 @@
   {
     "sentence_id": "HCH_008_200c_000007",
     "sentence": "及安祿山、史思明叛，累為管兵將。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000008",
     "sentence": "寶應中，李懷仙歸順，奏為薊州刺史、平盧軍留後、柳城軍使。",
     "entities": [
+      {
+        "text": "李懷仙",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "奏為薊州",
         "label": "LOC",
@@ -133,12 +159,32 @@
   {
     "sentence_id": "HCH_008_200c_000014",
     "sentence": "初隸李懷仙為部將，改經略副使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷仙",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000015",
     "sentence": "朱希彩既殺李懷仙，自為節度，以泚宗姓，甚委信之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱希彩",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "李懷仙",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000016",
@@ -259,6 +305,18 @@
         "label": "LOC",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "李懷仙",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "朱希彩",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -309,7 +367,20 @@
   {
     "sentence_id": "HCH_008_200c_000031",
     "sentence": "仍以河陽永平軍防秋兵，郭子儀統之；決勝軍楊猷兵，李抱玉統之；淮西鳳翔兵，馬璘統之；汴宋、淄青兵，俾泚統焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "李抱玉",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000032",
@@ -344,6 +415,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "李抱玉",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -473,7 +550,14 @@
   {
     "sentence_id": "HCH_008_200c_000045",
     "sentence": "群寇無帥，幸泚政寬，乃相與謀曰：「朱太尉久囚空宅，若迎而為主，事必濟矣！」姚令言乃率百餘騎迎泚于晉昌里第。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚令言",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000046",
@@ -503,7 +587,14 @@
   {
     "sentence_id": "HCH_008_200c_000051",
     "sentence": "又李忠臣、張光晟繼至，咸以官閑積憤，樂於禍亂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李忠臣",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000052",
@@ -525,14 +616,7 @@
   {
     "sentence_id": "HCH_008_200c_000054",
     "sentence": "乃以源休為京兆尹、判度支，李忠臣為皇城使。",
-    "entities": [
-      {
-        "text": "李忠臣為皇城",
-        "label": "LOC",
-        "start": 13,
-        "end": 19
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_200c_000055",
@@ -567,7 +651,14 @@
   {
     "sentence_id": "HCH_008_200c_000061",
     "sentence": "李忠臣馳肋泚，泚素多力，才破其面，逆徒噪集，秀實、海賓遂並見害。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李忠臣",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000062",
@@ -585,6 +676,18 @@
     "sentence_id": "HCH_008_200c_000063",
     "sentence": "八日，源休、姚令言、李忠臣、張光晟等八人導泚自白華入宣政殿，僭即偽位，自稱大秦皇帝，號應天元年，愚智莫不憤心。",
     "entities": [
+      {
+        "text": "姚令言",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "李忠臣",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "皇帝",
         "label": "TITLE",
@@ -614,6 +717,18 @@
     "sentence": "偽署姚令言為侍中，李忠臣為司空、兼侍中，源休為中書侍郎、平章事、判度支，蔣鎮為吏部侍郎，樊系為禮部侍郎、禮儀使，許季常為京兆尹，洪經綸為太常少卿，彭偃為中書舍人，裴揆、崔幼貞為給事中，崔莫為御史中丞，張光晟、仇敬忠、敬釭、張寶、何望之、段誠諫、張庭芝、杜如江為節度使，仍以其兄子遂為太子，遙封弟滔為冀王。",
     "entities": [
       {
+        "text": "姚令言",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "李忠臣",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 25,
@@ -638,10 +753,28 @@
         "end": 51
       },
       {
+        "text": "許季常",
+        "label": "PER",
+        "start": 56,
+        "end": 59
+      },
+      {
+        "text": "洪經綸",
+        "label": "PER",
+        "start": 64,
+        "end": 67
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 95,
         "end": 97
+      },
+      {
+        "text": "張庭芝",
+        "label": "PER",
+        "start": 122,
+        "end": 125
       },
       {
         "text": "太子",
@@ -666,12 +799,25 @@
   {
     "sentence_id": "HCH_008_200c_000068",
     "sentence": "十日，泚自領兵侵逼奉天，竊威儀輦輅，闐溢道途，蟻聚之眾軍勢頗盛；以姚令言為元帥，張光晟為副。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚令言",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000069",
     "sentence": "以李忠臣為京兆尹、皇城留守，居中書省。",
     "entities": [
+      {
+        "text": "李忠臣",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "皇城",
         "label": "LOC",
@@ -729,7 +875,14 @@
   {
     "sentence_id": "HCH_008_200c_000074",
     "sentence": "十一月三日，杜希全與泚眾戰于漠穀，官軍不利，自是泚益驕大。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜希全",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000075",
@@ -800,7 +953,14 @@
   {
     "sentence_id": "HCH_008_200c_000084",
     "sentence": "李懷光以五萬人來援，自河北至，泚眾惶駭，因而大潰，長圍遂解焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000085",
@@ -822,14 +982,7 @@
   {
     "sentence_id": "HCH_008_200c_000087",
     "sentence": "時姚令言於城中造戰格拋樓，每坊團結，人心大異。",
-    "entities": [
-      {
-        "text": "時姚令言於城",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_200c_000088",
@@ -880,7 +1033,14 @@
   {
     "sentence_id": "HCH_008_200c_000093",
     "sentence": "二月，李懷光既圖叛逆，遣使與泚通和。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000094",
@@ -914,6 +1074,18 @@
     "sentence": "三月，李晟、駱元光、尚可孤之眾，悉於城東累敗泚眾。",
     "entities": [
       {
+        "text": "駱元光",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "尚可孤",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "悉於城",
         "label": "LOC",
         "start": 16,
@@ -924,17 +1096,44 @@
   {
     "sentence_id": "HCH_008_200c_000099",
     "sentence": "四月，泚使韓旻、宋歸朝、張庭芝等寇武功，渾瑊以眾及吐蕃論莽羅大敗歸朝，殺逆党萬餘人于武亭川。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張庭芝",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000100",
     "sentence": "五月，泚又使仇敬忠寇藍田，尚可孤擊之，大破泚眾，擒敬忠斬之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尚可孤",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000101",
     "sentence": "李晟、駱元光、尚可孤遂悉師齊進，晟屯光泰門，逆徒拒官軍，王師累捷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "駱元光",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "尚可孤",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000102",
@@ -944,7 +1143,20 @@
   {
     "sentence_id": "HCH_008_200c_000103",
     "sentence": "泚與姚令言、張庭芝、源休、李子平、朱遂以數千人西走，其餘黨或奔竄，或來降。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚令言",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "張庭芝",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000104",
@@ -962,6 +1174,12 @@
     "sentence_id": "HCH_008_200c_000105",
     "sentence": "田希鑒閉門登陴，泚令謂鑒曰：「我與爾節度，何故背恩？」希鑒乃使人自城上擲泚所送旌節于外，續又投火焚之。",
     "entities": [
+      {
+        "text": "田希鑒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "希鑒乃使人自城",
         "label": "LOC",
@@ -984,6 +1202,18 @@
         "label": "LOC",
         "start": 1,
         "end": 8
+      },
+      {
+        "text": "田希鑒",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "馮河清",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -1053,19 +1283,18 @@
   {
     "sentence_id": "HCH_008_200c_000114",
     "sentence": "姚令言投涇州，源休、李子平走鳳翔，尋並斬獲。",
-    "entities": [
-      {
-        "text": "姚令言投涇州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_200c_000115",
     "sentence": "宋歸朝之敗武功，降于李懷光，送興元斬之。",
     "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "元",
         "label": "ORG",
@@ -1110,7 +1339,14 @@
   {
     "sentence_id": "HCH_008_200c_000120",
     "sentence": "姚令言自有傳。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚令言",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000121",
@@ -1173,6 +1409,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "齊克讓",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -1213,7 +1455,14 @@
   {
     "sentence_id": "HCH_008_200c_000131",
     "sentence": "以神策統軍使宋威為荊南節度招討使，中使楊復光為監軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊復光",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000132",
@@ -1434,6 +1683,12 @@
     "sentence": "又乞除官，時宰臣鄭畋與樞密使楊復恭奏，欲請授同正員將軍。",
     "entities": [
       {
+        "text": "楊復恭",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 25,
@@ -1505,6 +1760,12 @@
         "label": "LOC",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "劉允章",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -1535,6 +1796,12 @@
     "sentence_id": "HCH_008_200c_000170",
     "sentence": "朝廷以田令孜率神策、博野等軍十萬守潼關。",
     "entities": [
+      {
+        "text": "田令孜",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "等軍十萬守潼關",
         "label": "LOC",
@@ -1619,7 +1886,14 @@
   {
     "sentence_id": "HCH_008_200c_000180",
     "sentence": "觀軍容使田令孜、王若儔收合禁軍扈從。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田令孜",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000181",
@@ -1630,6 +1904,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 13
+      },
+      {
+        "text": "張直方",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -1652,6 +1932,12 @@
     "sentence_id": "HCH_008_200c_000185",
     "sentence": "十三日，賊巢僭位，國號大齊，年稱金統，仍御樓宣赦，且陳符命曰：「唐帝知朕起義，改元廣明，以文字言之，唐已無天分矣。『唐』去『醜』、『口』而安『黃』，天意令黃在唐下，乃黃家日月也。土德生金，予以金王，宜改年為金統。」賊搜訪舊宰相不獲，以前浙東觀察使崔璆、楊希古、尚讓、趙章為四相，孟楷、蓋洪為左右軍中尉，費傳古為樞密使，王璠為京兆尹，許建、朱實、劉塘為軍庫使，朱溫、張言、彭攢、季逵為諸衛大將軍、四面游奕使。",
     "entities": [
+      {
+        "text": "楊希古",
+        "label": "PER",
+        "start": 126,
+        "end": 129
+      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -1691,7 +1977,32 @@
   {
     "sentence_id": "HCH_008_200c_000189",
     "sentence": "四月，涇原行軍唐弘夫之師屯渭北，河中王重榮之師屯沙苑，易定王處存之師屯渭橋，鄜延拓拔思恭之師屯武功，鳳翔鄭畋之師屯盩至。",
-    "entities": []
+    "entities": [
+      {
+        "text": "唐弘夫",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "王重榮",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "王處存",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "拓拔思恭",
+        "label": "PER",
+        "start": 40,
+        "end": 44
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000190",
@@ -1733,7 +2044,20 @@
   {
     "sentence_id": "HCH_008_200c_000196",
     "sentence": "宰相崔沆、豆盧瓚扈從不及，匿之別墅，所由搜索嚴急，乃微行入永甯里張直方之家。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧瓚",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "張直方",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000197",
@@ -1781,6 +2105,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "王處存",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -1822,7 +2152,14 @@
   {
     "sentence_id": "HCH_008_200c_000207",
     "sentence": "十一月，李克用率代北之師，自夏陽渡河，屯沙苑。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李克用",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000208",
@@ -1863,7 +2200,20 @@
   {
     "sentence_id": "HCH_008_200c_000211",
     "sentence": "克用騎軍在渭北，令薛志勤、康君立每夜突入京師，燔積聚，俘級而旋。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛志勤",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "康君立",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000212",
@@ -1913,7 +2263,14 @@
   {
     "sentence_id": "HCH_008_200c_000217",
     "sentence": "天下兵馬都監押楊復光露布獻捷於行在，陳破賊事狀曰：",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊復光",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000218",
@@ -1965,7 +2322,14 @@
   {
     "sentence_id": "HCH_008_200c_000226",
     "sentence": "河中節度使王重榮神資壯烈，天付機謀，誓立功名，志安家國。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王重榮",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000227",
@@ -1990,7 +2354,14 @@
   {
     "sentence_id": "HCH_008_200c_000231",
     "sentence": "雁門節度使李克用神傳將略，天付忠貞，機謀與武藝皆優，臣節共本心相稱。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李克用",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000232",
@@ -2007,10 +2378,22 @@
     "sentence": "今月八日，遣衙隊前鋒楊守宗、河中騎將白志遷、橫野軍使滿存、躡雲都將丁行存、朝邑鎮將康師貞、忠武黃頭軍使龐從等三十都，隨李克用自光泰門先入京師，力摧凶寇。",
     "entities": [
       {
+        "text": "楊守宗",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "朝邑鎮",
         "label": "LOC",
         "start": 37,
         "end": 40
+      },
+      {
+        "text": "李克用",
+        "label": "PER",
+        "start": 59,
+        "end": 62
       }
     ]
   },
@@ -2018,6 +2401,12 @@
     "sentence_id": "HCH_008_200c_000235",
     "sentence": "又遣河中將劉讓、王環、冀君武、孫珙，忠武將喬從遇，鄭滑將韓從威，荊南將申屠悰，滄州將賈滔，易定將張仲慶，壽州將張行方，天德將顧彥朗，左神策弩手甄君楚、公孫佐，橫沖軍使楊守亮，躡雲都將高周彝，忠順都將胡真，絳州監軍毛宣伯、聶弘裕等七十都繼進。",
     "entities": [
+      {
+        "text": "冀君武",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "滄州",
         "label": "LOC",
@@ -2029,6 +2418,18 @@
         "label": "LOC",
         "start": 52,
         "end": 54
+      },
+      {
+        "text": "顧彥朗",
+        "label": "PER",
+        "start": 62,
+        "end": 65
+      },
+      {
+        "text": "楊守亮",
+        "label": "PER",
+        "start": 83,
+        "end": 86
       },
       {
         "text": "絳州",
@@ -2046,7 +2447,14 @@
   {
     "sentence_id": "HCH_008_200c_000237",
     "sentence": "雁門李克用率勵驍雄，整齊金革，叫噪而聲將動瓦，喑嗚而氣欲吞沙，寬列戈矛，密張羅網。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李克用",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000238",
@@ -2066,7 +2474,14 @@
   {
     "sentence_id": "HCH_008_200c_000241",
     "sentence": "楊守宗等齊驅直入，合勢夾攻，從卯至申，群凶大潰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊守宗",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000242",
@@ -2081,7 +2496,14 @@
   {
     "sentence_id": "HCH_008_200c_000244",
     "sentence": "自收平京闕，二面皆立大功，若破敵摧凶，李克用實居其首。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李克用",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000245",
@@ -2107,6 +2529,12 @@
         "label": "LOC",
         "start": 6,
         "end": 13
+      },
+      {
+        "text": "秦宗權",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -2213,6 +2641,12 @@
         "end": 2
       },
       {
+        "text": "李克用",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "會關",
         "label": "LOC",
         "start": 21,
@@ -2270,12 +2704,6 @@
         "label": "LOC",
         "start": 0,
         "end": 5
-      },
-      {
-        "text": "李克用自鄭州",
-        "label": "LOC",
-        "start": 6,
-        "end": 12
       }
     ]
   },
@@ -2294,7 +2722,26 @@
   {
     "sentence_id": "HCH_008_200c_000268",
     "sentence": "其將李讜、楊能、霍存、葛從周、張歸厚、張歸霸各率部下降于大梁，尚讓率部下萬人歸時薄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "葛從周",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "張歸厚",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "張歸霸",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000269",
@@ -2336,12 +2783,25 @@
   {
     "sentence_id": "HCH_008_200c_000275",
     "sentence": "秦宗權",
-    "entities": []
+    "entities": [
+      {
+        "text": "秦宗權",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000276",
     "sentence": "秦宗權者，許州人，為郡牙將。",
     "entities": [
+      {
+        "text": "秦宗權",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "許州",
         "label": "LOC",
@@ -2435,7 +2895,14 @@
   {
     "sentence_id": "HCH_008_200c_000283",
     "sentence": "天子幸蜀，姑務翦寇，上蔡有勁兵萬人，宗權即與監軍楊復光同議勤王，出師破賊，以蔡牧授之，仍置節度之號。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊復光",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000284",
@@ -2633,7 +3100,14 @@
   {
     "sentence_id": "HCH_008_200c_000305",
     "sentence": "其間沸騰，大盜三發，安祿山、朱泚、黃巢是也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_200c_000306",
@@ -2728,6 +3202,18 @@
     "sentence_id": "HCH_008_200c_000321",
     "sentence": "史朝義、秦宗權乘彼亂離，肆行暴虐，虔劉我郡邑，僭竊我衣裳，終雖滅亡，為害斯甚，茲亦沴氣之餘也。",
     "entities": [
+      {
+        "text": "史朝義",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "秦宗權",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "虔劉我郡邑",
         "label": "LOC",

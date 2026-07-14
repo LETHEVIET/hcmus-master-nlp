@@ -32,6 +32,18 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "白文珂",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "宋彥筠",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
@@ -212,6 +224,12 @@
         "end": 10
       },
       {
+        "text": "王彥超",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "曹州",
         "label": "LOC",
         "start": 17,
@@ -245,20 +263,25 @@
         "label": "TITLE",
         "start": 171,
         "end": 173
+      },
+      {
+        "text": "劉溫叟",
+        "label": "PER",
+        "start": 173,
+        "end": 176
+      },
+      {
+        "text": "劉溫叟",
+        "label": "PER",
+        "start": 206,
+        "end": 209
       }
     ]
   },
   {
     "sentence_id": "HCH_007_115_000033",
     "sentence": "夏四月庚戌，以內客省使李彥頵為延州留後。",
-    "entities": [
-      {
-        "text": "使李彥頵為延州",
-        "label": "LOC",
-        "start": 10,
-        "end": 17
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_115_000034",
@@ -305,6 +328,12 @@
         "label": "TITLE",
         "start": 28,
         "end": 30
+      },
+      {
+        "text": "劉溫叟",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       },
       {
         "text": "太子",
@@ -693,12 +722,6 @@
         "label": "LOC",
         "start": 3,
         "end": 6
-      },
-      {
-        "text": "後曹元忠為沙州",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
       }
     ]
   },
@@ -735,12 +758,6 @@
         "label": "LOC",
         "start": 3,
         "end": 6
-      },
-      {
-        "text": "使陳思讓為邢州",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
       }
     ]
   },
@@ -921,6 +938,12 @@
         "end": 6
       },
       {
+        "text": "趙上交",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 14,
@@ -983,6 +1006,18 @@
         "end": 13
       },
       {
+        "text": "高彥儔",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      },
+      {
+        "text": "高彥儔",
+        "label": "PER",
+        "start": 120,
+        "end": 123
+      },
+      {
         "text": "秦州",
         "label": "LOC",
         "start": 158,
@@ -1017,6 +1052,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 11
+      },
+      {
+        "text": "高彥儔",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       },
       {
         "text": "蜀",
@@ -1151,6 +1192,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "李知損",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1179,6 +1226,18 @@
         "label": "LOC",
         "start": 34,
         "end": 37
+      },
+      {
+        "text": "王彥超",
+        "label": "PER",
+        "start": 40,
+        "end": 43
+      },
+      {
+        "text": "韓令坤",
+        "label": "PER",
+        "start": 59,
+        "end": 62
       }
     ]
   },
@@ -1224,7 +1283,20 @@
   {
     "sentence_id": "HCH_007_115_000109",
     "sentence": "晉、漢之代，寰海未寧，而乃招納叛亡，朋助兇慝，李金全之據安陸，李守貞之叛河中，大起師徒，來為應援，攻侵高密，殺掠吏民，迫奪閩、越之封疆，塗炭湘、潭之士庶。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李金全",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_115_000110",
@@ -1380,6 +1452,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "折從阮",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1452,6 +1530,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "王守恩",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },

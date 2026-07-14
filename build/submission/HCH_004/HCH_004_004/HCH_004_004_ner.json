@@ -761,6 +761,12 @@
         "label": "LOC",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "敬顯儁",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -880,6 +886,12 @@
         "label": "LOC",
         "start": 7,
         "end": 13
+      },
+      {
+        "text": "敬顯儁",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       },
       {
         "text": "皇帝",
@@ -1226,6 +1238,12 @@
         "end": 29
       },
       {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 32,
+        "end": 36
+      },
+      {
         "text": "故定州",
         "label": "LOC",
         "start": 44,
@@ -1280,6 +1298,12 @@
     "sentence": "又詔封宗室高岳為清河王，高隆之為平原王，高歸彥為平秦王，高思宗為上洛王，高長弼為廣武王，高普為武興王，高子瑗為平昌王，高顯國為襄樂王，高睿為趙郡王，高孝緒為脩城王。",
     "entities": [
       {
+        "text": "高思宗",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
         "text": "高睿為趙郡",
         "label": "LOC",
         "start": 67,
@@ -1296,7 +1320,14 @@
   {
     "sentence_id": "HCH_004_004_000142",
     "sentence": "又詔封功臣厙狄干為章武王，斛律金為咸陽王，賀拔仁為安定王，韓軌為安德王，可朱渾道元為扶風王，彭樂為陳留王，潘相樂為河東王。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_004_000143",
@@ -2468,12 +2499,6 @@
     "sentence": "遣太師、咸陽王斛律金從顯州道，常山王演從晉州道，掎角夾攻，大破之，斬首數萬，獲雜畜十餘萬，遂平石樓。",
     "entities": [
       {
-        "text": "王斛律金從顯州",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
-      },
-      {
         "text": "常山王演從晉州",
         "label": "LOC",
         "start": 15,
@@ -2705,10 +2730,22 @@
     "sentence": "梁將王僧辯在建康，共推晉安王蕭方智為太宰、都督中外諸軍，承制置百官。",
     "entities": [
       {
+        "text": "王僧辯",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "建康",
         "label": "LOC",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "蕭方智",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -2763,6 +2800,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "陸法和",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -2782,6 +2825,12 @@
     "sentence_id": "HCH_004_004_000289",
     "sentence": "二月甲子，以陸法和為使持節、都督荊雍江巴梁益湘萬交廣十州諸軍事、太尉公、大都督、西南道大行臺，梁鎮北將軍、侍中、荊州刺史宋茝為使持節、驃騎大將軍、郢州刺史。",
     "entities": [
+      {
+        "text": "陸法和",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "益湘萬交廣十州",
         "label": "LOC",
@@ -2859,6 +2908,12 @@
         "label": "LOC",
         "start": 5,
         "end": 12
+      },
+      {
+        "text": "裴之橫",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -3022,7 +3077,26 @@
   {
     "sentence_id": "HCH_004_004_000314",
     "sentence": "冬十月，梁將陳霸先襲王僧辯，殺之，廢蕭明，復立蕭方智為主。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳霸先",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "王僧辯",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "蕭方智",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_004_000315",
@@ -3098,12 +3172,6 @@
     "sentence_id": "HCH_004_004_000319",
     "sentence": "東南道行台趙彥深獲秦郡等五城，戶二萬餘，所在安輯之。",
     "entities": [
-      {
-        "text": "台趙彥深獲秦郡",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      },
       {
         "text": "等五城",
         "label": "LOC",
@@ -3528,7 +3596,14 @@
   {
     "sentence_id": "HCH_004_004_000367",
     "sentence": "十二月，西魏相宇文覺受魏禪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文覺",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_004_000368",
@@ -3586,6 +3661,12 @@
     "sentence_id": "HCH_004_004_000373",
     "sentence": "以太師、咸陽王斛律金為右丞相，前大將軍、扶風王可朱渾道元為太傅，開府儀同三司賀拔仁為太保，尚書令、常山王演為司空、錄尚書事，長廣王湛為尚書令，尚書右僕射楊愔為尚書左僕射，以并省尚書右僕射崔暹為尚書右僕射，上黨王渙錄尚書事。",
     "entities": [
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "丞相",
         "label": "TITLE",
@@ -3724,12 +3805,26 @@
   {
     "sentence_id": "HCH_004_004_000382",
     "sentence": "是月，周冢宰宇文護殺其主閔帝而立帝弟毓，是為明帝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_004_000383",
     "sentence": "冬十月乙亥，陳霸先弑其主方智自立，是為陳武帝，遣使稱藩朝貢。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳霸先",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_004_000384",
@@ -4087,6 +4182,12 @@
     "sentence": "三月戊戌，以侍中高德政為尚書右僕射。",
     "entities": [
       {
+        "text": "高德政",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 12,
@@ -4359,7 +4460,20 @@
   {
     "sentence_id": "HCH_004_004_000453",
     "sentence": "情有蒂芥，必在誅戮，諸元宗室咸加屠剿，永安、上黨並致冤酷，高隆之、高德政、杜弼、王元景、李蒨之等皆以非罪加害。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高德政",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      },
+      {
+        "text": "李蒨之",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_004_000454",

@@ -107,6 +107,12 @@
     "sentence": "進司徒長孫嵩爵為北平王；司空奚斤為宜城王；藍田公長孫翰為平陽王。",
     "entities": [
       {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "司空奚斤為宜城",
         "label": "LOC",
         "start": 12,
@@ -197,6 +203,12 @@
     "sentence_id": "HCH_003_002_000025",
     "sentence": "丁巳，以北平王長孫嵩為太尉，平陽王長孫翰為司徒，宜城王奚斤為司空。",
     "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "宜城",
         "label": "LOC",
@@ -818,7 +830,14 @@
   {
     "sentence_id": "HCH_003_002_000114",
     "sentence": "八月，宋將到彥之自清水入河，溯流西行。",
-    "entities": []
+    "entities": [
+      {
+        "text": "到彥之",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_002_000115",
@@ -962,12 +981,26 @@
   {
     "sentence_id": "HCH_003_002_000132",
     "sentence": "丙申，宋將檀道濟、王仲德從清水救滑臺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "檀道濟",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_002_000133",
     "sentence": "丹楊王叔孫建、汝陰公長孫道生拒之，道濟等不敢進。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫道生",
+        "label": "PER",
+        "start": 10,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_002_000134",
@@ -1018,7 +1051,14 @@
   {
     "sentence_id": "HCH_003_002_000139",
     "sentence": "宋將檀道濟、王仲德東走。",
-    "entities": []
+    "entities": [
+      {
+        "text": "檀道濟",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_002_000140",
@@ -1096,6 +1136,12 @@
     "sentence": "庚申，加太尉長孫嵩柱國大將軍，以左光祿大夫崔浩為司徒，征西大將軍長孫道生為司空。",
     "entities": [
       {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 11,
@@ -1112,6 +1158,12 @@
         "label": "TITLE",
         "start": 29,
         "end": 32
+      },
+      {
+        "text": "長孫道生",
+        "label": "PER",
+        "start": 32,
+        "end": 36
       }
     ]
   },
@@ -1671,6 +1723,12 @@
     "sentence": "夏五月庚申，進宜都公穆壽為宜都王，汝陰公長孫道生為上黨王，宜城公奚斤為恒農王，廣陵公婁伏連為廣陵王。",
     "entities": [
       {
+        "text": "長孫道生",
+        "label": "PER",
+        "start": 20,
+        "end": 24
+      },
+      {
         "text": "宜城",
         "label": "LOC",
         "start": 29,
@@ -1936,7 +1994,14 @@
   {
     "sentence_id": "HCH_003_002_000250",
     "sentence": "戊子，太尉、北平王長孫嵩薨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_002_000251",
@@ -1983,7 +2048,14 @@
   {
     "sentence_id": "HCH_003_002_000258",
     "sentence": "秋七月戊子，使永昌王健、上黨王長孫道生討山胡白龍余黨於西河，滅之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫道生",
+        "label": "PER",
+        "start": 15,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_002_000259",
@@ -2112,6 +2184,12 @@
     "sentence_id": "HCH_003_002_000277",
     "sentence": "庚寅，以故南秦王世子楊保宗為征南大將軍、秦州牧、武都王，鎮上邽。",
     "entities": [
+      {
+        "text": "楊保宗",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -2267,6 +2345,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "長孫道生",
+        "label": "PER",
+        "start": 7,
+        "end": 11
       }
     ]
   },
@@ -2639,7 +2723,14 @@
   {
     "sentence_id": "HCH_003_002_000340",
     "sentence": "夏四月，武都王楊保宗謀反，諸將禽送京師。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊保宗",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_002_000341",
@@ -3781,7 +3872,14 @@
   {
     "sentence_id": "HCH_003_002_000503",
     "sentence": "己巳，司空、上黨王長孫道生薨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫道生",
+        "label": "PER",
+        "start": 9,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_002_000504",
@@ -3992,6 +4090,12 @@
         "label": "LOC",
         "start": 11,
         "end": 14
+      },
+      {
+        "text": "李孝伯",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       },
       {
         "text": "李宣城",
@@ -5269,6 +5373,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "盧度世",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -5913,14 +6023,7 @@
   {
     "sentence_id": "HCH_003_002_000772",
     "sentence": "乙亥，以侍中元孔雀為濮陽王，侍中陸定國為東郡王。",
-    "entities": [
-      {
-        "text": "中陸定國為東郡",
-        "label": "LOC",
-        "start": 15,
-        "end": 22
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_002_000773",
@@ -5993,6 +6096,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 15
+      },
+      {
+        "text": "沈攸之",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -6314,6 +6423,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "陸定國",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -6326,6 +6441,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "長孫觀",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -6352,7 +6473,14 @@
   {
     "sentence_id": "HCH_003_002_000827",
     "sentence": "長孫觀軍至曼頭山，大破什寅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫觀",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_002_000828",

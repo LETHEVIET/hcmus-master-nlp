@@ -286,6 +286,12 @@
         "end": 10
       },
       {
+        "text": "宇文歆",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
         "text": "王在州",
         "label": "LOC",
         "start": 38,
@@ -349,6 +355,12 @@
         "end": 9
       },
       {
+        "text": "劉德威",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "卿以老弱守城",
         "label": "LOC",
         "start": 15,
@@ -367,10 +379,28 @@
     "sentence": "高祖怒甚，謂綱曰：「元吉幼小，未習時事，故遣竇誕、宇文歆輔之。強兵數萬，食支十年，起義興運之資，一朝而棄。宇文歆首畫此計，我當斬之。」綱曰：「賴歆令陛下不失愛子，臣以為有功。」高祖問其故，綱對曰：「罪由竇誕不能規諷，致令軍人怨憤。又齊王年少，肆行驕逸放縱，左右侵漁百姓，誕曾無諫止，乃隨順掩藏，以成其釁，此誕之罪。宇文歆論情則疏，向彼又淺，王之過失，悉以聞奏。且父子之際，人所難言，歆言之，豈非忠懇？今欲誅罪，不錄其心，臣愚竊以為過。」翌日，高祖召綱入，升御坐謂曰：「今我有公，遂使刑罰不濫。元吉自惡，結怨於人。歆既曾以表聞，誕亦焉能制禁？」",
     "entities": [
       {
+        "text": "宇文歆",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
         "text": "十年",
         "label": "TME",
         "start": 38,
         "end": 40
+      },
+      {
+        "text": "宇文歆",
+        "label": "PER",
+        "start": 53,
+        "end": 56
+      },
+      {
+        "text": "宇文歆",
+        "label": "PER",
+        "start": 157,
+        "end": 160
       },
       {
         "text": "元",
@@ -422,7 +452,14 @@
   {
     "sentence_id": "HCH_008_062_000041",
     "sentence": "時唐儉、趙元楷在座，各自讚能為鱠，建成從之，既而謂曰：「飛刀鱠鯉，調和鼎食，公實有之；至於審諭弼諧，固屬於李綱矣。」於是遣使送絹二百匹以遺之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙元楷",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_062_000042",
@@ -579,6 +616,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -603,6 +646,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -707,12 +756,25 @@
   {
     "sentence_id": "HCH_008_062_000066",
     "sentence": "鄭善果",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭善果",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_062_000067",
     "sentence": "鄭善果，鄭州滎澤人也。",
     "entities": [
+      {
+        "text": "鄭善果",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "鄭州",
         "label": "LOC",
@@ -868,6 +930,12 @@
     "sentence": "宇文化及弒逆，署為民部尚書，隨化及至遼城。",
     "entities": [
       {
+        "text": "宇文化及",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 11,
@@ -889,7 +957,14 @@
   {
     "sentence_id": "HCH_008_062_000084",
     "sentence": "及神通退還，竇建德進軍克之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_062_000085",
@@ -1320,12 +1395,26 @@
   {
     "sentence_id": "HCH_008_062_000123",
     "sentence": "楊恭仁",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊恭仁",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_062_000124",
     "sentence": "楊恭仁，本名綸，弘農華陰人，隋司空、觀王雄之長子也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊恭仁",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_062_000125",
@@ -1430,6 +1519,12 @@
     "sentence": "宇文化及弒逆，署吏部尚書，隨至河北，為化及守魏縣。",
     "entities": [
       {
+        "text": "宇文化及",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 10,
@@ -1446,14 +1541,7 @@
   {
     "sentence_id": "HCH_008_062_000134",
     "sentence": "時元寶藏據有魏郡，會行人魏徵說下寶藏，執恭仁送於京師。",
-    "entities": [
-      {
-        "text": "元寶藏據有魏郡",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_062_000135",
@@ -1737,7 +1825,14 @@
   {
     "sentence_id": "HCH_008_062_000159",
     "sentence": "預誅張易之有功，賜實封五百戶。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_062_000160",
@@ -1747,14 +1842,7 @@
   {
     "sentence_id": "HCH_008_062_000161",
     "sentence": "後被貶，卒於絳州別駕。",
-    "entities": [
-      {
-        "text": "卒於絳州",
-        "label": "LOC",
-        "start": 4,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_062_000162",
@@ -1835,12 +1923,6 @@
     "sentence_id": "HCH_008_062_000168",
     "sentence": "執柔弟執一，神龍初，以誅張易之功封河東郡公，累至右金吾衛大將軍。",
     "entities": [
-      {
-        "text": "易之功封河東郡",
-        "label": "LOC",
-        "start": 13,
-        "end": 20
-      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -1949,6 +2031,18 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 10,
+        "end": 14
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -1977,7 +2071,14 @@
   {
     "sentence_id": "HCH_008_062_000182",
     "sentence": "太宗嘗從容謂侍臣曰：「楊師道性行純善，自無愆過。而情實怯懦，未甚更事，緩急不可得力。」未幾，從征高麗，攝中書令。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊師道",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_062_000183",
@@ -2036,6 +2137,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "竇奉節",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -2095,12 +2202,26 @@
   {
     "sentence_id": "HCH_008_062_000192",
     "sentence": "皇甫無逸",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫無逸",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_062_000193",
     "sentence": "皇甫無逸，字仁儉，安定烏氏人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫無逸",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_062_000194",
@@ -2303,6 +2424,12 @@
         "label": "LOC",
         "start": 80,
         "end": 84
+      },
+      {
+        "text": "李公昌",
+        "label": "PER",
+        "start": 131,
+        "end": 134
       }
     ]
   },
@@ -2321,7 +2448,20 @@
   {
     "sentence_id": "HCH_008_062_000213",
     "sentence": "高祖覽之曰：「無逸當官執法，無所迴避，必是邪佞之徒，惡直丑正，共相構扇也。」因令劉世龍、溫彥博將按其事，卒無驗而止，所告者坐斬，竇璡亦以罪黜。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉世龍",
+        "label": "PER",
+        "start": 40,
+        "end": 43
+      },
+      {
+        "text": "溫彥博",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_062_000214",
@@ -2441,12 +2581,25 @@
   {
     "sentence_id": "HCH_008_062_000225",
     "sentence": "李大亮",
-    "entities": []
+    "entities": [
+      {
+        "text": "李大亮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_062_000226",
     "sentence": "李大亮，雍州涇陽人。",
     "entities": [
+      {
+        "text": "李大亮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "雍州",
         "label": "LOC",
@@ -2623,6 +2776,18 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "輔公祏",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "張善安",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -2641,6 +2806,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "左難當",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -2987,7 +3158,14 @@
   {
     "sentence_id": "HCH_008_062_000290",
     "sentence": "房玄齡甚重之，每稱大亮有王陵、周勃之節，可以當大位。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_062_000291",
@@ -3234,7 +3412,14 @@
   {
     "sentence_id": "HCH_008_062_000321",
     "sentence": "然頗托附權幸，傾心以事張易之、昌宗兄弟，由是深為讜正之士所譏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_062_000322",
@@ -3378,7 +3563,14 @@
   {
     "sentence_id": "HCH_008_062_000343",
     "sentence": "房玄齡雲，大亮有王陵、周勃之節，名下無虛士矣！",
-    "entities": []
+    "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_062_000344",

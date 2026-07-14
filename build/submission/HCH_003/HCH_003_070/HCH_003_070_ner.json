@@ -2,7 +2,26 @@
   {
     "sentence_id": "HCH_003_070_000001",
     "sentence": "韓襃 趙肅 張軌 李彥 郭彥 梁昕 皇甫璠 辛慶之 王子直 杜杲 呂思禮 徐招 檀翥 孟信 宗懍 劉璠 柳遐",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫璠",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "辛慶之",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
+        "text": "王子直",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_070_000002",
@@ -12,7 +31,26 @@
   {
     "sentence_id": "HCH_003_070_000003",
     "sentence": "韓褒趙肅子軌張軌李彥郭彥梁昕皇甫璠子誕辛慶之族子昂王子直杜杲呂思禮徐招檀翥孟信宗懍劉璠子祥兄子行本柳遐子莊",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫璠",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "辛慶之",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "王子直",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_070_000004",
@@ -97,7 +135,20 @@
   {
     "sentence_id": "HCH_003_070_000012",
     "sentence": "及賀拔岳為侯莫陳悅所害，諸將遣使迎周文。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 5,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_070_000013",
@@ -588,6 +639,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -647,7 +704,14 @@
   {
     "sentence_id": "HCH_003_070_000063",
     "sentence": "肅時未有茅土，左僕射長孫儉啟周文請之，周文乃召肅謂曰：「歲初行禮，豈得使卿不預！然何為不早言也？」於是令肅自選封名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫儉",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_070_000064",
@@ -935,7 +999,14 @@
   {
     "sentence_id": "HCH_003_070_000099",
     "sentence": "及岳被害，周文帝以軌為都督，從征侯莫陳悅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 16,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_070_000100",
@@ -946,6 +1017,12 @@
         "label": "LOC",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1517,7 +1594,14 @@
   {
     "sentence_id": "HCH_003_070_000149",
     "sentence": "柱國宇文貴令彥率兵應接。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文貴",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_070_000150",
@@ -1580,6 +1664,12 @@
         "label": "LOC",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "權景宣",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
@@ -1632,7 +1722,14 @@
   {
     "sentence_id": "HCH_003_070_000160",
     "sentence": "梁昕，字元明，安定烏氏人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安定烏",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_070_000161",
@@ -1919,7 +2016,14 @@
   {
     "sentence_id": "HCH_003_070_000183",
     "sentence": "皇甫璠，字景瑜，安定三水人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫璠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_070_000184",
@@ -2428,7 +2532,14 @@
   {
     "sentence_id": "HCH_003_070_000232",
     "sentence": "辛慶之，字余慶，隴西狄道人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "辛慶之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_070_000233",
@@ -3020,7 +3131,14 @@
   {
     "sentence_id": "HCH_003_070_000291",
     "sentence": "王子直，字孝正，京兆杜陵人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王子直",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_070_000292",
@@ -3147,6 +3265,12 @@
         "label": "LOC",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -3870,7 +3994,14 @@
   {
     "sentence_id": "HCH_003_070_000358",
     "sentence": "岳為侯莫陳悅所害，趙貴等議遣赫連達迎周文帝，思禮預其謀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_070_000359",
@@ -4554,6 +4685,12 @@
         "end": 7
       },
       {
+        "text": "劉之遴",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "貴鄉",
         "label": "LOC",
         "start": 17,
@@ -4971,6 +5108,12 @@
     "sentence": "及武陵王紀稱制於蜀，以璠為中書侍郎。",
     "entities": [
       {
+        "text": "武陵王紀",
+        "label": "PER",
+        "start": 1,
+        "end": 5
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 15,
@@ -5047,6 +5190,12 @@
     "sentence": "還至白馬西，屬達奚武軍已至南鄭，璠不得入城，遂降武。",
     "entities": [
       {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "璠不得入城",
         "label": "LOC",
         "start": 16,
@@ -5068,6 +5217,12 @@
         "label": "ORG",
         "start": 42,
         "end": 43
+      },
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 62,
+        "end": 65
       }
     ]
   },
@@ -5084,7 +5239,14 @@
   {
     "sentence_id": "HCH_003_070_000496",
     "sentence": "柳仲禮侍側，曰：「此烈士也。」周文既納蕭脩降，又許其反國。",
-    "entities": []
+    "entities": [
+      {
+        "text": "柳仲禮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_070_000497",
@@ -5454,7 +5616,14 @@
   {
     "sentence_id": "HCH_003_070_000541",
     "sentence": "周大塚宰宇文護引為中外府記室。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_070_000542",
@@ -6157,7 +6326,14 @@
   {
     "sentence_id": "HCH_003_070_000619",
     "sentence": "濟陽蔡大寶有重名于江左，時為岳陽王蕭詧諮議，見莊，歎曰：「襄陽水鏡，復在於茲！」大寶遂以其女妻之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蔡大寶",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_070_000620",
@@ -6346,6 +6522,24 @@
     "sentence_id": "HCH_003_070_000643",
     "sentence": "梁昕、皇甫璠、辛慶之、王子直、杜杲之徒，並關右之舊族。",
     "entities": [
+      {
+        "text": "皇甫璠",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "辛慶之",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "王子直",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "並關",
         "label": "LOC",

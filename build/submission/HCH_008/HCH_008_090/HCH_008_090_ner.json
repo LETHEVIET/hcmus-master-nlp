@@ -2,17 +2,91 @@
   {
     "sentence_id": "HCH_008_090_000001",
     "sentence": "王及善　杜景儉　朱敬則　楊再思　李懷遠 子:景伯　孫:彭年 豆盧欽望 附:張光輔　史務滋　崔元綜　周允元",
-    "entities": []
+    "entities": [
+      {
+        "text": "王及善",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "杜景儉",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "朱敬則",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "楊再思",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "李懷遠",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "豆盧欽望",
+        "label": "PER",
+        "start": 30,
+        "end": 34
+      },
+      {
+        "text": "張光輔",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      },
+      {
+        "text": "史務滋",
+        "label": "PER",
+        "start": 41,
+        "end": 44
+      },
+      {
+        "text": "崔元綜",
+        "label": "PER",
+        "start": 45,
+        "end": 48
+      },
+      {
+        "text": "周允元",
+        "label": "PER",
+        "start": 49,
+        "end": 52
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000002",
     "sentence": "王及善",
-    "entities": []
+    "entities": [
+      {
+        "text": "王及善",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000003",
     "sentence": "王及善，洺州邯鄲人也。",
     "entities": [
+      {
+        "text": "王及善",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "洺州",
         "label": "LOC",
@@ -35,6 +109,12 @@
         "label": "LOC",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "王君廓",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -244,6 +324,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -295,7 +381,14 @@
   {
     "sentence_id": "HCH_008_090_000029",
     "sentence": "時張易之兄弟恃寵，每內宴，皆無人臣之禮。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000030",
@@ -335,12 +428,25 @@
   {
     "sentence_id": "HCH_008_090_000033",
     "sentence": "杜景儉",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜景儉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000034",
     "sentence": "杜景儉，冀州武邑人也。",
     "entities": [
+      {
+        "text": "杜景儉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "冀州武邑",
         "label": "LOC",
@@ -388,6 +494,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "房嗣業",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "司馬",
@@ -473,6 +585,24 @@
     "sentence": "天授中，與徐有功、來俊臣、侯思止專理製獄，時人稱云：「遇徐、杜者必生，遇來、侯者必死。」累遷洛州司馬。",
     "entities": [
       {
+        "text": "徐有功",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "侯思止",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "累遷洛州",
         "label": "LOC",
         "start": 44,
@@ -527,6 +657,18 @@
         "end": 9
       },
       {
+        "text": "周允元",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "李昭德",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "左遷溱州",
         "label": "LOC",
         "start": 21,
@@ -578,7 +720,14 @@
   {
     "sentence_id": "HCH_008_090_000048",
     "sentence": "及事定，河內王武懿宗將盡論其罪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武懿宗",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000049",
@@ -652,12 +801,25 @@
   {
     "sentence_id": "HCH_008_090_000056",
     "sentence": "朱敬則",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱敬則",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000057",
     "sentence": "朱敬則，字少連，毫州永城人也。",
     "entities": [
+      {
+        "text": "朱敬則",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "毫州永城",
         "label": "LOC",
@@ -684,12 +846,26 @@
   {
     "sentence_id": "HCH_008_090_000061",
     "sentence": "又與左史江融、左僕射魏元忠特相友善。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏元忠",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000062",
     "sentence": "咸亨中，高宗聞而召見，與語甚奇之，將加擢用，爲中書舍人李敬玄所毀，乃授洹水尉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李敬玄",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000063",
@@ -979,6 +1155,18 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "魏元忠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -1005,16 +1193,46 @@
     "sentence": "張易之、昌宗嘗命畫工圖寫武三思及納言李嶠、鳳閣侍郎蘇味道、夏官侍郎李迥秀、麟台少監王紹宗等十八人形像，號爲《高士圖》，每引敬則預其事，固辭不就，其高潔守正如此。",
     "entities": [
       {
+        "text": "張易之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 23,
         "end": 25
       },
       {
+        "text": "蘇味道",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 31,
         "end": 33
+      },
+      {
+        "text": "李迥秀",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      },
+      {
+        "text": "王紹宗",
+        "label": "PER",
+        "start": 41,
+        "end": 44
       },
       {
         "text": "《高士圖》",
@@ -1063,6 +1281,18 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "冉祖雍",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "王同皎",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       },
       {
         "text": "貶授廬州",
@@ -1348,6 +1578,18 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "裴懷古",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "魏知古",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -1361,10 +1603,34 @@
     "sentence": "睿宗即位，嘗謂侍臣曰：「神龍已來，李多祚、王同皎並復舊官，韋月將、燕欽融咸有褒贈，不知更有何人，尚抱冤抑？」吏部尚書劉幽求對曰：「故鄭州刺史朱敬則，往在則天朝任正諫大夫、知政事，忠貞義烈，爲天下所推。神龍時，被宗楚客、冉祖雍等誣構，左授廬州刺史。長安年中，嘗謂臣云：『相王必膺期受命，當須盡節事之。』及韋氏篡逆干紀，臣遂見危赴難，翼戴興暦，雖則天誘其事，亦是敬則先啟之心。今陛下龍興寶位，凶黨就戮，敬則尚銜冤泉壤，未蒙昭雪。況復事符先覺，誠即可嘉。」睿宗然之，贈敬則秘書監，諡曰元。",
     "entities": [
       {
+        "text": "李多祚",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "王同皎",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "韋月將",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 56,
         "end": 58
+      },
+      {
+        "text": "劉幽求",
+        "label": "PER",
+        "start": 58,
+        "end": 61
       },
       {
         "text": "故鄭州",
@@ -1379,10 +1645,28 @@
         "end": 70
       },
       {
+        "text": "朱敬則",
+        "label": "PER",
+        "start": 70,
+        "end": 73
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 82,
         "end": 84
+      },
+      {
+        "text": "宗楚客",
+        "label": "PER",
+        "start": 105,
+        "end": 108
+      },
+      {
+        "text": "冉祖雍",
+        "label": "PER",
+        "start": 109,
+        "end": 112
       },
       {
         "text": "左授廬州",
@@ -1407,12 +1691,25 @@
   {
     "sentence_id": "HCH_008_090_000146",
     "sentence": "楊再思",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊再思",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000147",
     "sentence": "楊再思，鄭州原武人也。",
     "entities": [
+      {
+        "text": "楊再思",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "鄭州",
         "label": "LOC",
@@ -1520,6 +1817,12 @@
         "label": "LOC",
         "start": 49,
         "end": 51
+      },
+      {
+        "text": "桓彥範",
+        "label": "PER",
+        "start": 66,
+        "end": 69
       }
     ]
   },
@@ -1537,6 +1840,12 @@
     "sentence_id": "HCH_008_090_000161",
     "sentence": "時左補闕戴令言作《兩腳野狐賦》以譏刺之，再思聞之甚怒，出令言爲長社令，朝士尤加嗤笑。",
     "entities": [
+      {
+        "text": "戴令言",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "《兩腳野狐賦》",
         "label": "TITLE",
@@ -1560,6 +1869,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1632,6 +1947,18 @@
     "sentence": "時武三思將誣殺王同皎，再思與吏部尚書李嶠、刑部尚書韋巨源並受製考按其獄，竟不能發明其枉，致同皎至死，眾冤之。",
     "entities": [
       {
+        "text": "武三思",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "王同皎",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 16,
@@ -1642,6 +1969,12 @@
         "label": "TITLE",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "韋巨源",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
@@ -1719,12 +2052,25 @@
   {
     "sentence_id": "HCH_008_090_000174",
     "sentence": "李懷遠",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷遠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000175",
     "sentence": "李懷遠，邢州柏仁人也。",
     "entities": [
+      {
+        "text": "李懷遠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "邢州",
         "label": "LOC",
@@ -1958,7 +2304,14 @@
   {
     "sentence_id": "HCH_008_090_000189",
     "sentence": "常乘款段馬，左僕射豆盧欽望謂曰：「公榮貴如此，何不買駿馬乘之？」答曰：「此馬幸免驚蹶，無假別求。」聞者莫不歎美。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧欽望",
+        "label": "PER",
+        "start": 9,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000190",
@@ -2014,7 +2367,14 @@
   {
     "sentence_id": "HCH_008_090_000196",
     "sentence": "次至景伯，曰：「回波爾時酒卮，微臣職在箴規。侍宴既過三爵，喧嘩竊恐非儀。」中宗不悅，中書令蕭至忠稱之曰：「此真諫官也。」景雲中，累遷右散騎常侍，尋以老疾致仕。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭至忠",
+        "label": "PER",
+        "start": 45,
+        "end": 48
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000197",
@@ -2065,6 +2425,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -2164,12 +2530,26 @@
   {
     "sentence_id": "HCH_008_090_000209",
     "sentence": "豆盧欽望",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧欽望",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000210",
     "sentence": "豆盧欽望，京兆萬年人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧欽望",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000211",
@@ -2301,13 +2681,50 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "宗秦客",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
   {
     "sentence_id": "HCH_008_090_000222",
     "sentence": "時李昭德亦爲內史，執權用事，欽望與同時宰相韋巨源、陸元方、蘇味道、杜景儉等並委曲從之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李昭德",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "韋巨源",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "陸元方",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "蘇味道",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "杜景儉",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000223",
@@ -2318,6 +2735,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "皇甫文備",
+        "label": "PER",
+        "start": 33,
+        "end": 37
       },
       {
         "text": "左遷欽望爲趙州",
@@ -2332,16 +2755,16 @@
         "end": 60
       },
       {
-        "text": "源自右丞爲鄜州",
-        "label": "LOC",
-        "start": 63,
-        "end": 70
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 70,
         "end": 72
+      },
+      {
+        "text": "陸元方",
+        "label": "PER",
+        "start": 73,
+        "end": 76
       },
       {
         "text": "侍郎",
@@ -2354,6 +2777,12 @@
         "label": "TITLE",
         "start": 84,
         "end": 86
+      },
+      {
+        "text": "蘇味道",
+        "label": "PER",
+        "start": 87,
+        "end": 90
       },
       {
         "text": "侍郎",
@@ -2437,7 +2866,20 @@
   {
     "sentence_id": "HCH_008_090_000229",
     "sentence": "欽望作相兩朝，前後十餘年，張易之兄弟及武三思父子皆專權驕縱，圖爲逆亂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000230",
@@ -2494,17 +2936,56 @@
   {
     "sentence_id": "HCH_008_090_000235",
     "sentence": "則天時，宰相又有張光輔、史務滋、崔元綜、周允元等，並有名績。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張光輔",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "史務滋",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "崔元綜",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "周允元",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000236",
     "sentence": "附 張光輔",
-    "entities": []
+    "entities": [
+      {
+        "text": "張光輔",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000237",
     "sentence": "張光輔者，京兆人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張光輔",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000238",
@@ -2567,10 +3048,22 @@
         "end": 7
       },
       {
+        "text": "房嗣業",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "洛陽",
         "label": "LOC",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "徐敬業",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -2633,12 +3126,25 @@
   {
     "sentence_id": "HCH_008_090_000252",
     "sentence": "附 史務滋",
-    "entities": []
+    "entities": [
+      {
+        "text": "史務滋",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000253",
     "sentence": "史務滋者，宣州溧陽人。",
     "entities": [
+      {
+        "text": "史務滋",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "宣州",
         "label": "LOC",
@@ -2667,12 +3173,6 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
-      },
-      {
-        "text": "劉行實及弟渠州",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
       },
       {
         "text": "刺史",
@@ -2719,12 +3219,25 @@
   {
     "sentence_id": "HCH_008_090_000259",
     "sentence": "附 崔元綜",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔元綜",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000260",
     "sentence": "崔元綜者，鄭州新鄭人也。",
     "entities": [
+      {
+        "text": "崔元綜",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "鄭州",
         "label": "LOC",
@@ -2851,12 +3364,25 @@
   {
     "sentence_id": "HCH_008_090_000272",
     "sentence": "附 周允元",
-    "entities": []
+    "entities": [
+      {
+        "text": "周允元",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000273",
     "sentence": "周允元者，豫州人也。",
     "entities": [
+      {
+        "text": "周允元",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "豫州",
         "label": "LOC",
@@ -2890,7 +3416,14 @@
   {
     "sentence_id": "HCH_008_090_000277",
     "sentence": "允元曰：「恥其君不如堯、舜。」武三思以爲語有指斥，糾而駁之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000278",
@@ -2929,7 +3462,14 @@
   {
     "sentence_id": "HCH_008_090_000281",
     "sentence": "史官曰：王及善在孝敬東宮，誠能奉職。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王及善",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000282",
@@ -2939,12 +3479,32 @@
   {
     "sentence_id": "HCH_008_090_000283",
     "sentence": "杜景儉五刑有濫，濟活爲心，四氣不和，歸罪在己，則天謂曰「真宰相。」然奈柔順李昭德，不無吐剛之過也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜景儉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "李昭德",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000284",
     "sentence": "朱敬則文學有稱，節行無愧，諫諍果決，推擇精真，苟非洞鑒古今，深識王霸，何由立其高論哉？",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱敬則",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000285",
@@ -2954,12 +3514,25 @@
   {
     "sentence_id": "HCH_008_090_000286",
     "sentence": "楊再思佞而取貴，苟以全身，掩不善而自欺，謂無十目十手也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊再思",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000287",
     "sentence": "李懷遠名不苟於假蔭，貴不衒於故鄉，無改陋居，常乘劣駟，亦一時之善矣。",
     "entities": [
+      {
+        "text": "李懷遠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "貴不衒於故鄉",
         "label": "LOC",
@@ -2976,7 +3549,38 @@
   {
     "sentence_id": "HCH_008_090_000289",
     "sentence": "豆盧欽望、張光輔、史務滋、崔元綜、周允元等，或有片言，非無小善，登於大用，可謂具臣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧欽望",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "張光輔",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "史務滋",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "崔元綜",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "周允元",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_090_000290",

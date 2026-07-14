@@ -1032,6 +1032,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 9,
+        "end": 13
       }
     ]
   },
@@ -1627,6 +1633,12 @@
         "end": 5
       },
       {
+        "text": "裴耀卿",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 9,
@@ -2153,6 +2165,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "孫茂道",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -2263,7 +2281,14 @@
   {
     "sentence_id": "HCH_008_045_000346",
     "sentence": "火者，陶冶烹飪，象聖王至德日新也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王至德",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_045_000347",
@@ -2587,7 +2612,14 @@
   {
     "sentence_id": "HCH_008_045_000400",
     "sentence": "又顏延之罷官後，好騎馬出入閭里，當代稱其放誕。",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏延之",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_045_000401",
@@ -2675,6 +2707,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 25
+      },
+      {
+        "text": "閻立本",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       },
       {
         "text": "《昭君入匈奴》",
@@ -2845,6 +2883,12 @@
         "label": "TITLE",
         "start": 29,
         "end": 31
+      },
+      {
+        "text": "虞世基",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -2989,6 +3033,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "孫茂道",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -3301,6 +3351,12 @@
         "label": "TME",
         "start": 1,
         "end": 5
+      },
+      {
+        "text": "張嘉貞",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },

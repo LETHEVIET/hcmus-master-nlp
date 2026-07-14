@@ -355,6 +355,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "鄭受益",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -392,10 +398,22 @@
         "end": 65
       },
       {
+        "text": "安從進",
+        "label": "PER",
+        "start": 65,
+        "end": 68
+      },
+      {
         "text": "恒州",
         "label": "LOC",
         "start": 111,
         "end": 113
+      },
+      {
+        "text": "劉知遠",
+        "label": "PER",
+        "start": 127,
+        "end": 130
       },
       {
         "text": "仍增爵邑",
@@ -414,6 +432,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -426,6 +450,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -438,6 +468,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       },
       {
         "text": "相州",
@@ -456,7 +492,20 @@
   {
     "sentence_id": "HCH_007_081_000039",
     "sentence": "宰臣馮道等上表，請依舊置樞密使，略曰：「竊以樞密使創自前朝，置諸近侍，其來已久，所便尤多。頃歲樞密使劉處讓偶屬家艱，爰拘喪制，既從罷免，暫議改更，不曾顯降敕文，永停使額。所願各歸職分，豈敢茍避繁難。伏請依舊置樞密使。」初，高祖事後唐明宗，睹樞密使安重誨秉政擅權，賞罰由己，常惡之，及登極，故斷意廢罷，一委中書。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉處讓",
+        "label": "PER",
+        "start": 50,
+        "end": 53
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 123,
+        "end": 126
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_081_000040",
@@ -489,6 +538,12 @@
         "label": "LOC",
         "start": 32,
         "end": 35
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 40,
+        "end": 43
       }
     ]
   },
@@ -525,6 +580,12 @@
     "sentence_id": "HCH_007_081_000045",
     "sentence": "丁未，荊南節度使、南平王高從誨加兼尚書令，湖南節度使、楚王馬希範加守太傅。",
     "entities": [
+      {
+        "text": "高從誨",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -582,7 +643,14 @@
   {
     "sentence_id": "HCH_007_081_000051",
     "sentence": "壬戌，晉昌軍節度使桑維翰加檢校太傅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_081_000052",
@@ -612,10 +680,22 @@
         "end": 5
       },
       {
+        "text": "高行周",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "收復襄州",
         "label": "LOC",
         "start": 15,
         "end": 19
+      },
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -721,7 +801,14 @@
   {
     "sentence_id": "HCH_007_081_000063",
     "sentence": "應被安從進脅從者，一切不問。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_081_000064",
@@ -766,13 +853,26 @@
         "label": "LOC",
         "start": 9,
         "end": 12
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
   {
     "sentence_id": "HCH_007_081_000069",
     "sentence": "有司宣露布訖，以安從進男宏受等四十四人徇於市，皆斬之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_081_000070",
@@ -818,12 +918,6 @@
         "label": "LOC",
         "start": 25,
         "end": 28
-      },
-      {
-        "text": "守高行周為宋州",
-        "label": "LOC",
-        "start": 37,
-        "end": 44
       }
     ]
   },
@@ -872,12 +966,6 @@
         "label": "LOC",
         "start": 60,
         "end": 62
-      },
-      {
-        "text": "署宋彥筠為鄧州",
-        "label": "LOC",
-        "start": 66,
-        "end": 73
       }
     ]
   },
@@ -937,6 +1025,12 @@
     "sentence_id": "HCH_007_081_000079",
     "sentence": "荊南高從誨累表讓尚書令之命。",
     "entities": [
+      {
+        "text": "高從誨",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -998,6 +1092,12 @@
     "sentence": "辛丑，以義成軍節度使兼侍衛馬軍都指揮使李守貞充大行皇帝山陵一行都部署。",
     "entities": [
       {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
         "text": "皇帝",
         "label": "TITLE",
         "start": 25,
@@ -1009,12 +1109,6 @@
     "sentence_id": "HCH_007_081_000082",
     "sentence": "壬寅，以宣徽北院使、判三司劉遂清為鄭州防禦使，以澶州防禦使李承福為宣徽北院使。",
     "entities": [
-      {
-        "text": "司劉遂清為鄭州",
-        "label": "LOC",
-        "start": 12,
-        "end": 19
-      },
       {
         "text": "以澶州",
         "label": "LOC",
@@ -1165,6 +1259,12 @@
         "label": "LOC",
         "start": 7,
         "end": 10
+      },
+      {
+        "text": "馬希振",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -1254,10 +1354,22 @@
         "end": 103
       },
       {
+        "text": "宋彥升",
+        "label": "PER",
+        "start": 103,
+        "end": 106
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 179,
         "end": 181
+      },
+      {
+        "text": "宋彥升",
+        "label": "PER",
+        "start": 181,
+        "end": 184
       },
       {
         "text": "御史",
@@ -1270,7 +1382,14 @@
   {
     "sentence_id": "HCH_007_081_000103",
     "sentence": "十二月辛酉，以威武軍節度副使、充福建管內諸軍都指揮使王亞澄為威武軍副大使，知節度事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王亞澄",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_081_000104",
@@ -1293,6 +1412,12 @@
         "label": "LOC",
         "start": 78,
         "end": 82
+      },
+      {
+        "text": "丁審琪",
+        "label": "PER",
+        "start": 85,
+        "end": 88
       },
       {
         "text": "以前金州",
@@ -1337,6 +1462,12 @@
         "end": 171
       },
       {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 171,
+        "end": 174
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 179,
@@ -1353,6 +1484,12 @@
         "label": "LOC",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       },
       {
         "text": "並加爵邑",
@@ -1389,6 +1526,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "馬希振",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       },
       {
         "text": "齊國",
@@ -1511,7 +1654,14 @@
   {
     "sentence_id": "HCH_007_081_000118",
     "sentence": "以侍衛親軍使景延廣充御營使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_081_000119",
@@ -1541,7 +1691,14 @@
   {
     "sentence_id": "HCH_007_081_000124",
     "sentence": "丁丑，以前太僕卿薛仁謙為衛尉卿。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛仁謙",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_081_000125",
@@ -1562,13 +1719,26 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "劉處讓",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
   {
     "sentence_id": "HCH_007_081_000128",
     "sentence": "三月己卯朔，以中書令、監修國史趙瑩為晉昌軍節度使，以晉昌軍節度使桑維翰為侍中、監修國史。",
-    "entities": []
+    "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_081_000129",
@@ -1581,10 +1751,10 @@
         "end": 7
       },
       {
-        "text": "桑維翰始居藩鎮",
-        "label": "LOC",
-        "start": 30,
-        "end": 37
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -1597,6 +1767,18 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "劉知遠",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       },
       {
         "text": "恒州",
@@ -1617,10 +1799,10 @@
         "end": 6
       },
       {
-        "text": "軍丁審琪為鄜州",
-        "label": "LOC",
-        "start": 48,
-        "end": 55
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1665,6 +1847,12 @@
         "end": 32
       },
       {
+        "text": "馬希萼",
+        "label": "PER",
+        "start": 38,
+        "end": 41
+      },
+      {
         "text": "進封爵邑",
         "label": "LOC",
         "start": 47,
@@ -1693,6 +1881,12 @@
         "label": "LOC",
         "start": 42,
         "end": 44
+      },
+      {
+        "text": "馬希廣",
+        "label": "PER",
+        "start": 47,
+        "end": 50
       },
       {
         "text": "領洪州鎮",
@@ -1777,6 +1971,12 @@
         "end": 9
       },
       {
+        "text": "王仁裕",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 28,
@@ -1798,12 +1998,6 @@
         "label": "LOC",
         "start": 3,
         "end": 6
-      },
-      {
-        "text": "使趙在禮為徐州",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
       },
       {
         "text": "以徐州",
@@ -1957,6 +2151,12 @@
         "end": 75
       },
       {
+        "text": "張昭遠",
+        "label": "PER",
+        "start": 75,
+        "end": 78
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 81,
@@ -2042,7 +2242,14 @@
   {
     "sentence_id": "HCH_007_081_000157",
     "sentence": "六月庚戌，以螟蝗為害，詔侍衛馬步軍都指揮使李守貞往臯門祭告，仍遣諸司使梁進超等七人分往開封府界捕之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_081_000158",

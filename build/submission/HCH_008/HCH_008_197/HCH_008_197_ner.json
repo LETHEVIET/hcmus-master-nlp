@@ -982,6 +982,12 @@
         "end": 46
       },
       {
+        "text": "顏師古",
+        "label": "PER",
+        "start": 46,
+        "end": 49
+      },
+      {
         "text": "《王會篇》",
         "label": "TITLE",
         "start": 76,
@@ -1706,7 +1712,14 @@
   {
     "sentence_id": "HCH_008_197_000192",
     "sentence": "若大王死，即小王嗣立，或姑死而婦繼，無有篡奪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王嗣立",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_197_000193",
@@ -2285,7 +2298,14 @@
   {
     "sentence_id": "HCH_008_197_000260",
     "sentence": "時劍南節度使章仇兼瓊遣使至雲南，與歸義言語不相得，歸義常銜之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "章仇兼瓊",
+        "label": "PER",
+        "start": 6,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_197_000261",
@@ -2303,6 +2323,18 @@
     "sentence_id": "HCH_008_197_000262",
     "sentence": "無何，鮮于仲通為劍南節度使，張虔陀為雲南太守。",
     "entities": [
+      {
+        "text": "鮮于仲通",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      },
+      {
+        "text": "張虔陀",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
       {
         "text": "太守",
         "label": "TITLE",
@@ -2395,6 +2427,12 @@
         "end": 3
       },
       {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 28,
@@ -2423,6 +2461,12 @@
     "sentence_id": "HCH_008_197_000275",
     "sentence": "會安祿山反，閣羅鳳乘釁攻陷巂州及會同軍，西復降尋傳蠻。",
     "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "鳳乘釁攻陷巂州",
         "label": "LOC",
@@ -2611,6 +2655,12 @@
     "sentence_id": "HCH_008_197_000299",
     "sentence": "臯遂命巡官崔佐時至牟尋所都陽苴咩城，南去太和城十餘里，東北至成都二千四百里，東至安南如至成都，通水陸行。",
     "entities": [
+      {
+        "text": "崔佐時",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "尋所都陽苴咩城",
         "label": "LOC",
@@ -2972,6 +3022,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "武少儀",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -3013,6 +3069,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "許堯佐",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -3061,12 +3123,6 @@
         "label": "TME",
         "start": 0,
         "end": 2
-      },
-      {
-        "text": "杜元穎鎮",
-        "label": "LOC",
-        "start": 3,
-        "end": 7
       }
     ]
   },

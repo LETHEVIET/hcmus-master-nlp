@@ -290,14 +290,7 @@
   {
     "sentence_id": "HCH_004_021_000027",
     "sentence": "推封隆之權行州事，為莊帝舉哀，三軍縞素。",
-    "entities": [
-      {
-        "text": "推封隆之權行州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_004_021_000028",
@@ -319,6 +312,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "劉靈助",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -370,12 +369,6 @@
         "label": "TITLE",
         "start": 22,
         "end": 24
-      },
-      {
-        "text": "元忠舉兵逼其城",
-        "label": "LOC",
-        "start": 30,
-        "end": 37
       }
     ]
   },
@@ -473,6 +466,12 @@
         "end": 41
       },
       {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      },
+      {
         "text": "出賀拔勝為荊州",
         "label": "LOC",
         "start": 51,
@@ -556,6 +555,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 76,
+        "end": 79
       },
       {
         "text": "齊徐青光兗十州",
@@ -1130,7 +1135,14 @@
   {
     "sentence_id": "HCH_004_021_000112",
     "sentence": "及斛斯椿釁起，高祖南討，令昂為前驅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_021_000113",
@@ -1779,6 +1791,12 @@
         "end": 5
       },
       {
+        "text": "李元忠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "在濟州",
         "label": "LOC",
         "start": 13,
@@ -2087,6 +2105,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "劉靈助",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2761,6 +2785,12 @@
     "sentence": "祖彥先，隨薛安都入魏，官至趙郡守。",
     "entities": [
       {
+        "text": "薛安都",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "魏",
         "label": "ORG",
         "start": 9,
@@ -2817,12 +2847,26 @@
   {
     "sentence_id": "HCH_004_021_000264",
     "sentence": "封隆之",
-    "entities": []
+    "entities": [
+      {
+        "text": "封隆之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_021_000265",
     "sentence": "封隆之，字祖裔，小名皮，渤海之蓨人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "封隆之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_021_000266",
@@ -3080,6 +3124,18 @@
     "sentence": "隆之將赴都，因過謁見，啟高祖曰：「斛斯椿、賀拔勝、賈顯智等往事尒朱，中復乖阻，及討仲遠，又與之同，猜忍之人，志欲無限。又叱烈延慶、侯。念賢皆在京師，王授以名位，此等必構禍隙。」高祖經宿乃謂隆之曰：「侍中昨言，實是深慮。」尋封安德郡公，邑二千戶，進位儀同三司。",
     "entities": [
       {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "賈顯智",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
         "text": "尋封安德郡",
         "label": "LOC",
         "start": 110,
@@ -3136,6 +3192,12 @@
     "sentence_id": "HCH_004_021_000295",
     "sentence": "後為斛斯椿等構之於魏帝，逃歸鄉里。",
     "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "逃歸鄉",
         "label": "LOC",
@@ -3614,6 +3676,12 @@
         "end": 37
       },
       {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 43,
+        "end": 46
+      },
+      {
         "text": "懼難潛歸鄉",
         "label": "LOC",
         "start": 59,
@@ -3630,6 +3698,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "李元忠",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -4312,6 +4386,12 @@
     "sentence": "陳將吳明徹侵略淮南，子繡城陷，被送揚州。",
     "entities": [
       {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "子繡城",
         "label": "LOC",
         "start": 10,
@@ -4868,7 +4948,14 @@
   {
     "sentence_id": "HCH_004_021_000438",
     "sentence": "後與周朝通好，趙彥深奏之，詔以為聘周使副。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_021_000439",

@@ -81,6 +81,12 @@
         "end": 24
       },
       {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
         "text": "予已許除郡",
         "label": "LOC",
         "start": 50,
@@ -121,12 +127,26 @@
   {
     "sentence_id": "HCH_007_032_000007",
     "sentence": "丙午，以福建節度使、閩王王審知依前檢校太師、守中書令、福建節度使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王審知",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_032_000008",
     "sentence": "戊申，幸郭崇韜第。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_032_000009",
@@ -154,6 +174,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "李紹斌",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       },
       {
         "text": "以兗州",
@@ -296,14 +322,7 @@
   {
     "sentence_id": "HCH_007_032_000020",
     "sentence": "丙寅，李嗣源奏收復潞州。",
-    "entities": [
-      {
-        "text": "嗣源奏收復潞州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_032_000021",
@@ -334,16 +353,16 @@
         "end": 14
       },
       {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
         "text": "鎮州",
         "label": "LOC",
         "start": 50,
         "end": 52
-      },
-      {
-        "text": "使郭崇韜進爵邑",
-        "label": "LOC",
-        "start": 54,
-        "end": 61
       },
       {
         "text": "侍郎",
@@ -386,14 +405,7 @@
   {
     "sentence_id": "HCH_007_032_000024",
     "sentence": "丙子，李嗣源遣使部送潞州叛將楊立等到闕，並磔於市。",
-    "entities": [
-      {
-        "text": "源遣使部送潞州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_032_000025",
@@ -483,22 +495,10 @@
         "end": 16
       },
       {
-        "text": "後李紹真為徐州",
-        "label": "LOC",
-        "start": 26,
-        "end": 33
-      },
-      {
         "text": "以徐州",
         "label": "LOC",
         "start": 37,
         "end": 40
-      },
-      {
-        "text": "使李紹榮為宋州",
-        "label": "LOC",
-        "start": 42,
-        "end": 49
       }
     ]
   },
@@ -604,7 +604,14 @@
   {
     "sentence_id": "HCH_007_032_000037",
     "sentence": "壬辰，以天平軍節度使、蕃漢總管副使、開府儀同三司、檢校太尉、兼中書令李嗣源為宣武軍節度使、蕃漢馬步總管，餘如故。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_032_000038",
@@ -679,12 +686,6 @@
         "label": "LOC",
         "start": 6,
         "end": 13
-      },
-      {
-        "text": "李存霸為鄆州",
-        "label": "LOC",
-        "start": 17,
-        "end": 23
       }
     ]
   },
@@ -732,6 +733,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "歐陽彬",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "皇帝",
@@ -823,6 +830,12 @@
         "end": 27
       },
       {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 62,
+        "end": 65
+      },
+      {
         "text": "增邑",
         "label": "LOC",
         "start": 71,
@@ -888,6 +901,12 @@
         "end": 8
       },
       {
+        "text": "安元信",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "以隰州",
         "label": "LOC",
         "start": 30,
@@ -904,7 +923,14 @@
   {
     "sentence_id": "HCH_007_032_000056",
     "sentence": "丁丑，樞密使郭崇韜上表請退，不允。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_032_000057",
@@ -1148,6 +1174,12 @@
     "sentence": "侍中郭崇韜奏：「應三銓注授官員等，內有自無出身入仕，買覓鬼名告敕；今將骨肉文書，揩改姓名；或曆任不足，妄稱失墜；或假人蔭緒，托形勢論屬，安排參選，所司隨例注官。如有人陳告，特議超獎；其所犯人，檢格處分；若同保人內有偽濫者，並當駁放。應有人身死之處，今後並須申報本州，於告身上批書身死月日分明付子孫。今後銓司公事，至春末並須了畢。」 從之。",
     "entities": [
       {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "後並須申報本州",
         "label": "LOC",
         "start": 125,
@@ -1185,7 +1217,14 @@
   {
     "sentence_id": "HCH_007_032_000077",
     "sentence": "甲寅，幸郭崇韜第，置酒作樂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_032_000078",
@@ -1239,7 +1278,14 @@
   {
     "sentence_id": "HCH_007_032_000085",
     "sentence": "庚午，正衙命使冊淑妃韓氏、德妃伊氏，以宰臣豆盧革、韋說充冊使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_032_000086",
@@ -1455,6 +1501,18 @@
     "sentence": "甲午，以宣武軍節度押牙李從溫、李從璋、李從榮、李從厚、李從璨並銀青光祿大夫、檢校右散騎常侍兼御史大夫，宣武軍節度押牙李從臻可檢校國子祭酒兼御史中丞。",
     "entities": [
       {
+        "text": "李從榮",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "李從厚",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 35,
@@ -1483,7 +1541,14 @@
   {
     "sentence_id": "HCH_007_032_000104",
     "sentence": "自從溫而下，皆李嗣源諸子也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_032_000105",
@@ -1582,7 +1647,14 @@
   {
     "sentence_id": "HCH_007_032_000110",
     "sentence": "宰相豆盧革、趙光裔、韋說詣閣門待罪，詔釋之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_032_000111",
@@ -1728,7 +1800,20 @@
   {
     "sentence_id": "HCH_007_032_000125",
     "sentence": "戊午，幸李嗣源、李紹榮之第，縱酒作樂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "李紹榮",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_032_000126",
@@ -1762,12 +1847,6 @@
         "label": "LOC",
         "start": 3,
         "end": 6
-      },
-      {
-        "text": "度使李嗣源歸鎮",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
       }
     ]
   },
@@ -1780,6 +1859,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       },
       {
         "text": "萬七千人赴汴州",
@@ -1891,13 +1976,26 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "李紹真",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
   {
     "sentence_id": "HCH_007_032_000138",
     "sentence": "戊子，李嗣源奏，部署大軍自宣武軍北征。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_032_000139",
@@ -2117,15 +2215,9 @@
         "end": 6
       },
       {
-        "text": "使李紹斌為幽州",
+        "text": "滄州",
         "label": "LOC",
-        "start": 8,
-        "end": 15
-      },
-      {
-        "text": "後安元信為滄州",
-        "label": "LOC",
-        "start": 31,
+        "start": 36,
         "end": 38
       }
     ]
@@ -2139,6 +2231,12 @@
     "sentence_id": "HCH_007_032_000158",
     "sentence": "丙子，李嗣源奏，涿州東南殺敗契丹，生擒首領三十人。",
     "entities": [
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "涿州",
         "label": "LOC",
@@ -2155,42 +2253,17 @@
   {
     "sentence_id": "HCH_007_032_000160",
     "sentence": "樞密使郭崇韜上表辭兼鎮。",
-    "entities": [
-      {
-        "text": "崇韜上表辭兼鎮",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_032_000161",
     "sentence": "時帝命李紹斌鎮幽州，以其時望未重，欲以李嗣源為鎮帥，且為紹斌聲援，移郭崇韜兼領汴州。",
     "entities": [
       {
-        "text": "時帝命李紹斌鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      },
-      {
         "text": "幽州",
         "label": "LOC",
         "start": 7,
         "end": 9
-      },
-      {
-        "text": "欲以李嗣源為鎮",
-        "label": "LOC",
-        "start": 17,
-        "end": 24
-      },
-      {
-        "text": "郭崇韜兼領汴州",
-        "label": "LOC",
-        "start": 34,
-        "end": 41
       }
     ]
   },
@@ -2202,14 +2275,7 @@
   {
     "sentence_id": "HCH_007_032_000163",
     "sentence": "庚辰，以宣武軍節度使李嗣源為鎮州節度使。",
-    "entities": [
-      {
-        "text": "度使李嗣源為鎮",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_032_000164",
@@ -2230,6 +2296,12 @@
     "sentence_id": "HCH_007_032_000167",
     "sentence": "甲申，以樞密使郭崇韜為依前守侍中、監修國史、兼樞密使，加食邑實封。",
     "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "加食邑",
         "label": "LOC",
@@ -2373,6 +2445,18 @@
     "sentence_id": "HCH_007_032_000180",
     "sentence": "戊申，帝召郭崇韜謂曰：「朕思在德勝寨時，霍彥威、段凝皆予之敵。終日格鬥，戰聲相聞，安知二年之間，在吾廡下。吾無少康、光武之才，一旦重興基構者，良由二三勳德同心輔翼故也。朕有時夢寢，如在戚城，思念曩時挑戰鏖兵，勞則勞矣，然而揚旌伐鼓，差慰人心，殘壘荒溝，依然在目。予欲按德勝故寨，與卿再陳舊事。」崇韜曰：「此去澶州不遠，陛下再觀戰地，益知王業之艱難，豈不韙哉！」己酉，車駕發鄴宮。",
     "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
       {
         "text": "二年",
         "label": "TME",
@@ -2556,6 +2640,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2574,7 +2664,14 @@
   {
     "sentence_id": "HCH_007_032_000198",
     "sentence": "庚辰，帝侍皇太后幸會節園，遂幸李紹榮之第。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李紹榮",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_032_000199",
@@ -2610,17 +2707,36 @@
         "end": 6
       },
       {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "以徐州",
         "label": "LOC",
         "start": 21,
         "end": 24
+      },
+      {
+        "text": "李紹真",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
   {
     "sentence_id": "HCH_007_032_000202",
     "sentence": "禮部貢院新及第進士四人，其王澈改為第一，桑維翰第二，符蒙正第三，成僚第四。",
-    "entities": []
+    "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_032_000203",
@@ -2772,6 +2888,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "安元信",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2798,7 +2920,14 @@
   {
     "sentence_id": "HCH_007_032_000223",
     "sentence": "時郭崇韜秉政，以為不可，樞密承旨段徊讚其事，故有是命。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_032_000224",
@@ -2855,6 +2984,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 9
+      },
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       },
       {
         "text": "蜀",

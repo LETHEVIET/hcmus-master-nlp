@@ -2,12 +2,26 @@
   {
     "sentence_id": "HCH_007_127_000001",
     "sentence": "盧文紀",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_127_000002",
     "sentence": "盧文紀，字子持，京兆萬年人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_127_000003",
@@ -34,7 +48,20 @@
   {
     "sentence_id": "HCH_007_127_000006",
     "sentence": "清泰初，中書闕輔相，末帝訪之於朝，左右曰：「臣見班行中所譽，當大拜者，姚顗、盧文紀、崔居儉耳。」或品藻三人才行，其心愈惑。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 38,
+        "end": 41
+      },
+      {
+        "text": "崔居儉",
+        "label": "PER",
+        "start": 42,
+        "end": 45
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_127_000007",
@@ -220,12 +247,25 @@
   {
     "sentence_id": "HCH_007_127_000027",
     "sentence": "馬裔孫",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬裔孫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_127_000028",
     "sentence": "馬裔孫，字慶先，棣州商河人。",
     "entities": [
+      {
+        "text": "馬裔孫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "棣州",
         "label": "LOC",
@@ -294,7 +334,14 @@
   {
     "sentence_id": "HCH_007_127_000035",
     "sentence": "盧文紀又欲祭祀時便令掃除，馮道聞之曰：「司空掃除，職也，吾無所憚。」既而知非乃止。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_127_000036",
@@ -322,6 +369,12 @@
     "sentence_id": "HCH_007_127_000039",
     "sentence": "自後日責臺司定例，崔居儉謂南宮同列曰：「從昭序言語，是朝廷人總不解語也。且僕射師長也，中丞大夫就班修敬，常侍班在南宮六卿之下，況僕射乎。已前騎省年深，望南宮二侍郎如仰霄漢，癡人舉止，何取笑之深耶！」眾聞居儉言，紛議稍息。",
     "entities": [
+      {
+        "text": "崔居儉",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
       {
         "text": "大夫",
         "label": "TITLE",
@@ -354,7 +407,14 @@
   {
     "sentence_id": "HCH_007_127_000043",
     "sentence": "未幾，趙德鈞父子有異志，官寨危急，君臣計無所出。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_127_000044",
@@ -706,6 +766,18 @@
         "label": "LOC",
         "start": 12,
         "end": 15
+      },
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 34,
+        "end": 37
       }
     ]
   },
@@ -858,12 +930,25 @@
   {
     "sentence_id": "HCH_007_127_000099",
     "sentence": "蘇禹珪",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇禹珪",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_127_000100",
     "sentence": "蘇禹珪，字元錫，其先出於武功，近世家高密，今為郡人也。",
     "entities": [
+      {
+        "text": "蘇禹珪",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "今為郡",
         "label": "LOC",
@@ -947,7 +1032,14 @@
   {
     "sentence_id": "HCH_007_127_000106",
     "sentence": "漢祖大漸，與蘇逢吉、楊邠等受顧命，立少主。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_127_000107",
@@ -1002,7 +1094,14 @@
   {
     "sentence_id": "HCH_007_127_000113",
     "sentence": "禹珪純厚長者，遭遇漢祖，及蘇逢吉夷滅，禹珪恬然無咎，時人以為積善之報也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_127_000114",

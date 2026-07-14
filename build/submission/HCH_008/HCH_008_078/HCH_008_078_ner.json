@@ -2,7 +2,14 @@
   {
     "sentence_id": "HCH_008_078_000001",
     "sentence": "○於志寧　高季輔　張行成 族孫易之　昌宗",
-    "entities": []
+    "entities": [
+      {
+        "text": "張行成",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_078_000002",
@@ -117,7 +124,14 @@
   {
     "sentence_id": "HCH_008_078_000012",
     "sentence": "時議者欲立七廟，以涼武昭王為始祖，房玄齡等皆以為然。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_078_000013",
@@ -202,6 +216,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -585,7 +605,20 @@
   {
     "sentence_id": "HCH_008_078_000088",
     "sentence": "承乾大怒，陰遣刺客張師政、紇干承基就殺之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張師政",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "紇干承基",
+        "label": "PER",
+        "start": 13,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_078_000089",
@@ -605,7 +638,14 @@
   {
     "sentence_id": "HCH_008_078_000092",
     "sentence": "右庶子令狐德棻等以無諫書，皆從貶責。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐德棻",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_078_000093",
@@ -664,6 +704,18 @@
         "label": "LOC",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "李弘泰",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 12,
+        "end": 16
       }
     ]
   },
@@ -951,6 +1003,12 @@
     "sentence": "嘗與右僕射張行成、中書令高季輔俱蒙賜地，志寧奏曰：「臣居關右，代襲箕裘，周魏以來，基址不墜。行成等新營莊宅，尚少田園，於臣有餘，乞申私讓。」帝嘉其意，乃分賜行成及季輔。",
     "entities": [
       {
+        "text": "張行成",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "臣居關",
         "label": "LOC",
         "start": 26,
@@ -990,12 +1048,43 @@
   {
     "sentence_id": "HCH_008_078_000133",
     "sentence": "長孫無忌、褚遂良執正不從，而李勣、許敬宗密申勸請，志寧獨無言以持兩端。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_078_000134",
     "sentence": "及許敬宗推鞫長孫無忌詔獄，因誣構志寧黨附無忌，坐是免職，尋降授榮州刺史。",
     "entities": [
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 6,
+        "end": 10
+      },
       {
         "text": "尋降授榮州",
         "label": "LOC",
@@ -1184,6 +1273,12 @@
     "sentence_id": "HCH_008_078_000153",
     "sentence": "尋與武陟人李厚德率眾來降，授陟州總管府戶曹參軍。",
     "entities": [
+      {
+        "text": "李厚德",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "授陟州",
         "label": "LOC",
@@ -1596,17 +1691,37 @@
   {
     "sentence_id": "HCH_008_078_000204",
     "sentence": "子正業，仕至中書舍人，坐與上官儀善，配流嶺外。",
-    "entities": []
+    "entities": [
+      {
+        "text": "上官儀",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_078_000205",
     "sentence": "張行成",
-    "entities": []
+    "entities": [
+      {
+        "text": "張行成",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_078_000206",
     "sentence": "張行成，定州義豐人也。",
     "entities": [
+      {
+        "text": "張行成",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "定州",
         "label": "LOC",
@@ -1671,7 +1786,14 @@
   {
     "sentence_id": "HCH_008_078_000212",
     "sentence": "糾劾不避權戚，太宗以為能，謂房玄齡曰：「觀古今用人，必因媒介，若行成者，朕自舉之，無先容也。」太宗嘗言及山東、關中人，意有同異，行成正侍宴，跪而奏曰：「臣聞天子以四海為家，不當以東西為限；若如是，則示人以益狹。」太宗善其言，賜名馬一匹、錢十萬、衣一襲。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_078_000213",
@@ -2116,13 +2238,32 @@
         "label": "TITLE",
         "start": 29,
         "end": 31
+      },
+      {
+        "text": "李迥秀",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
   {
     "sentence_id": "HCH_008_078_000251",
     "sentence": "武承嗣、三思、懿宗、宗楚客、宗晉卿候其門庭，爭執鞭轡，呼易之為五郎，昌宗為六郎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宗楚客",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "宗晉卿",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_078_000252",
@@ -2150,6 +2291,18 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "閻朝隱",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "text": "員半千",
+        "label": "PER",
+        "start": 33,
+        "end": 36
       }
     ]
   },
@@ -2176,7 +2329,26 @@
   {
     "sentence_id": "HCH_008_078_000259",
     "sentence": "辭人皆賦詩以美之，崔融為其絕唱，其句有「昔遇浮丘伯，今同丁令威。中郎才貌是，藏史姓名非。」天后令選美少年為左右奉宸供奉，右補闕硃敬則諫曰：「臣聞志不可滿，樂不可極。嗜欲之情，愚智皆同，賢者能節之不使過度，則前聖格言也。陛下內寵，已有薛懷義、張易之、昌宗，固應足矣。近聞上舍奉御柳模自言子良賓潔白美鬚眉，左監門衛長史侯祥雲陽道壯偉，過於薛懷義，專欲自進堪奉宸內供奉。無禮無儀，溢於朝聽。臣愚職在諫諍，不敢不奏。」則天勞之曰：「非卿直言，朕不知此。」賜彩百段。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛懷義",
+        "label": "PER",
+        "start": 116,
+        "end": 119
+      },
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 120,
+        "end": 123
+      },
+      {
+        "text": "薛懷義",
+        "label": "PER",
+        "start": 167,
+        "end": 170
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_078_000260",
@@ -2193,7 +2365,26 @@
   {
     "sentence_id": "HCH_008_078_000261",
     "sentence": "乃引文學之士李嶠、閻朝隱，徐彥伯、張說、宋之問、崔湜、富嘉謨等二十六人，分門撰集。",
-    "entities": []
+    "entities": [
+      {
+        "text": "閻朝隱",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "徐彥伯",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "宋之問",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_078_000262",
@@ -2220,7 +2411,20 @@
   {
     "sentence_id": "HCH_008_078_000265",
     "sentence": "易之、昌宗皆粗能屬文，如應詔和詩，則宋之問、閻朝隱為之代作。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋之問",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "閻朝隱",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_078_000266",
@@ -2284,6 +2488,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "魏元忠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "太子",
@@ -2355,6 +2565,18 @@
         "label": "LOC",
         "start": 5,
         "end": 12
+      },
+      {
+        "text": "屈突仲翔",
+        "label": "PER",
+        "start": 15,
+        "end": 19
+      },
+      {
+        "text": "崔神慶",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -2379,6 +2601,18 @@
     "sentence_id": "HCH_008_078_000277",
     "sentence": "是月二十日，宰臣崔玄暐、張柬之等起羽林兵迎太子，至玄武門，斬關而入，誅易之、昌宗於迎仙院，並梟首於天津橋南。",
     "entities": [
+      {
+        "text": "崔玄暐",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "張柬之",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -2419,7 +2653,38 @@
   {
     "sentence_id": "HCH_008_078_000280",
     "sentence": "朝官房融、崔神慶、崔融、李嶠、宋之問、杜審言、沈佺期、閻朝隱等皆坐二張竄逐，凡數十人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔神慶",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "宋之問",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "杜審言",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "沈佺期",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "閻朝隱",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_078_000281",

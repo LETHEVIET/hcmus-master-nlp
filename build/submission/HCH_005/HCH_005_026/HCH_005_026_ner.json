@@ -900,7 +900,14 @@
   {
     "sentence_id": "HCH_005_026_000088",
     "sentence": "後千乘歐陽歙、清河戴涉相代為大司徒，坐事下獄死，自是大臣難居相任。",
-    "entities": []
+    "entities": [
+      {
+        "text": "歐陽歙",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_026_000089",

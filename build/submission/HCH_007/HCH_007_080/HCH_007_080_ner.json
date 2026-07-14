@@ -56,14 +56,7 @@
   {
     "sentence_id": "HCH_007_080_000005",
     "sentence": "以三司使劉審交為陳州防禦使。",
-    "entities": [
-      {
-        "text": "使劉審交為陳州",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_080_000006",
@@ -76,10 +69,10 @@
         "end": 7
       },
       {
-        "text": "使趙在禮為許州",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
+        "text": "高行周",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       }
     ]
   },
@@ -98,6 +91,12 @@
     "sentence": "己巳，以鄴都留守兼侍衛親軍馬步軍都指揮使、廣晉尹劉知遠為太原尹，充北京留守、河東節度使，仍割遼、沁二州卻隸河東。",
     "entities": [
       {
+        "text": "劉知遠",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
         "text": "沁二州",
         "label": "LOC",
         "start": 48,
@@ -108,14 +107,7 @@
   {
     "sentence_id": "HCH_007_080_000010",
     "sentence": "以北京留守李德充為廣晉尹，充鄴都留守；以昭義節度使馬全節為邢州節度使，加同平章事。",
-    "entities": [
-      {
-        "text": "使馬全節為邢州",
-        "label": "LOC",
-        "start": 24,
-        "end": 31
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_080_000011",
@@ -128,16 +120,16 @@
         "end": 36
       },
       {
+        "text": "李從敏",
+        "label": "PER",
+        "start": 39,
+        "end": 42
+      },
+      {
         "text": "以陜州",
         "label": "LOC",
         "start": 50,
         "end": 53
-      },
-      {
-        "text": "延廣為河陽三城",
-        "label": "LOC",
-        "start": 57,
-        "end": 64
       },
       {
         "text": "度使石赟為陜州",
@@ -167,6 +159,12 @@
         "label": "LOC",
         "start": 19,
         "end": 26
+      },
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 36,
+        "end": 39
       }
     ]
   },
@@ -193,6 +191,12 @@
         "end": 9
       },
       {
+        "text": "鄭受益",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 28,
@@ -203,7 +207,14 @@
   {
     "sentence_id": "HCH_007_080_000016",
     "sentence": "八月戊子朔，以皇子開封尹、鄭王重貴為東京留守，以天平軍節度使兼侍衛親軍馬步軍副都指揮使杜重威為侍衛親軍馬步軍都指揮使，以宣徽南院使張從恩為東京內外兵馬都監。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 43,
+        "end": 46
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_080_000017",
@@ -240,7 +251,14 @@
   {
     "sentence_id": "HCH_007_080_000022",
     "sentence": "以內客省使劉遂清為宣徽北院使，判三司。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉遂清",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_080_000023",
@@ -281,6 +299,12 @@
         "label": "TME",
         "start": 259,
         "end": 261
+      },
+      {
+        "text": "王景崇",
+        "label": "PER",
+        "start": 338,
+        "end": 341
       }
     ]
   },
@@ -383,6 +407,12 @@
         "label": "LOC",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "楊彥詢",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -469,6 +499,12 @@
         "label": "TITLE",
         "start": 29,
         "end": 31
+      },
+      {
+        "text": "錢元瓘",
+        "label": "PER",
+        "start": 37,
+        "end": 40
       }
     ]
   },
@@ -499,6 +535,12 @@
         "label": "TITLE",
         "start": 39,
         "end": 41
+      },
+      {
+        "text": "張昭遠",
+        "label": "PER",
+        "start": 41,
+        "end": 44
       },
       {
         "text": "侍郎",
@@ -554,10 +596,28 @@
         "end": 5
       },
       {
+        "text": "安從進",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "以前同州",
         "label": "LOC",
         "start": 34,
         "end": 38
+      },
+      {
+        "text": "宋彥筠",
+        "label": "PER",
+        "start": 41,
+        "end": 44
       }
     ]
   },
@@ -577,16 +637,22 @@
         "end": 34
       },
       {
-        "text": "《宋史·陳思讓傳》",
-        "label": "TITLE",
-        "start": 54,
-        "end": 63
+        "text": "安從進",
+        "label": "PER",
+        "start": 36,
+        "end": 39
       },
       {
         "text": "從進之師於唐州",
         "label": "LOC",
         "start": 86,
         "end": 93
+      },
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 129,
+        "end": 132
       }
     ]
   },
@@ -599,12 +665,6 @@
         "label": "LOC",
         "start": 3,
         "end": 6
-      },
-      {
-        "text": "高行周權知襄州",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
       },
       {
         "text": "軍州",
@@ -625,10 +685,28 @@
         "end": 5
       },
       {
+        "text": "安重榮",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
         "text": "以邢州",
         "label": "LOC",
         "start": 45,
         "end": 48
+      },
+      {
+        "text": "馬全節",
+        "label": "PER",
+        "start": 51,
+        "end": 54
       },
       {
         "text": "以前貝州",
@@ -642,6 +720,12 @@
     "sentence_id": "HCH_007_080_000048",
     "sentence": "癸巳，武德使焦繼勛奏，安從進遣弟從貴領兵千人，取接均州刺史蔡行遇，尋領所部兵掩殺賊軍七百餘人，生擒安從貴，截其雙腕，卻放入城。",
     "entities": [
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "取接均州",
         "label": "LOC",
@@ -736,7 +820,14 @@
   {
     "sentence_id": "HCH_007_080_000053",
     "sentence": "安重榮脫身遁走。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重榮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_080_000054",
@@ -746,7 +837,20 @@
   {
     "sentence_id": "HCH_007_080_000055",
     "sentence": "癸卯，削奪安從進、安重榮在身官爵。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "安重榮",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_080_000056",
@@ -757,6 +861,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "萇從簡",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -775,6 +885,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "錢元瓘",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -787,6 +903,12 @@
     "sentence_id": "HCH_007_080_000059",
     "sentence": "丁未，南面行營都部署高行周奏，今月十三日，部領大軍至襄州城下，相次降賊軍二千人。",
     "entities": [
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "部領大軍至襄州",
         "label": "LOC",
@@ -841,12 +963,6 @@
     "sentence": "壬子，杜重威部領大軍至鎮州城下。",
     "entities": [
       {
-        "text": "威部領大軍至鎮",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      },
-      {
         "text": "州城",
         "label": "LOC",
         "start": 12,
@@ -876,10 +992,22 @@
     "sentence": "北面招討使杜重威奏，今月二日收復鎮州，斬安重榮，傳首闕下。",
     "entities": [
       {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "今月二日收復鎮",
         "label": "LOC",
         "start": 10,
         "end": 17
+      },
+      {
+        "text": "安重榮",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -902,6 +1030,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "安重榮",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "故沂州",
@@ -982,28 +1116,28 @@
         "end": 25
       },
       {
-        "text": "使楊光遠加食邑",
-        "label": "LOC",
-        "start": 27,
-        "end": 34
-      },
-      {
         "text": "兗州",
         "label": "LOC",
         "start": 42,
         "end": 44
       },
       {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      },
+      {
+        "text": "劉知遠",
+        "label": "PER",
+        "start": 61,
+        "end": 64
+      },
+      {
         "text": "以鄆州",
         "label": "LOC",
         "start": 69,
         "end": 72
-      },
-      {
-        "text": "使杜重威為恒州",
-        "label": "LOC",
-        "start": 91,
-        "end": 98
       },
       {
         "text": "秦州",
@@ -1035,22 +1169,10 @@
         "end": 6
       },
       {
-        "text": "使安叔千為邢州",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
-      },
-      {
         "text": "邢州",
         "label": "LOC",
         "start": 29,
         "end": 31
-      },
-      {
-        "text": "使馬全節為定州",
-        "label": "LOC",
-        "start": 33,
-        "end": 40
       },
       {
         "text": "以定州",
@@ -1069,12 +1191,6 @@
         "label": "LOC",
         "start": 60,
         "end": 64
-      },
-      {
-        "text": "使楊彥詢為華州",
-        "label": "LOC",
-        "start": 66,
-        "end": 73
       }
     ]
   },
@@ -1117,12 +1233,6 @@
         "end": 5
       },
       {
-        "text": "使丁審琦加爵邑",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      },
-      {
         "text": "鄧州",
         "label": "LOC",
         "start": 15,
@@ -1145,6 +1255,12 @@
     "sentence_id": "HCH_007_080_000079",
     "sentence": "河陽節度使兼侍衛馬步軍都虞候景延廣加檢校太尉，改鄆州節度使，典軍如故。",
     "entities": [
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
       {
         "text": "改鄆州",
         "label": "LOC",
@@ -1233,6 +1349,12 @@
         "label": "LOC",
         "start": 9,
         "end": 12
+      },
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -1369,6 +1491,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "史匡翰",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -1388,6 +1516,12 @@
     "sentence_id": "HCH_007_080_000097",
     "sentence": "乙亥，以晉昌軍節度使安審琦為河中節度使，以前亳州防禦使王令溫為貝州節度使。",
     "entities": [
+      {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "以前亳州",
         "label": "LOC",
@@ -1422,12 +1556,6 @@
         "label": "LOC",
         "start": 19,
         "end": 22
-      },
-      {
-        "text": "使李守貞為滑州",
-        "label": "LOC",
-        "start": 33,
-        "end": 40
       },
       {
         "text": "以夔州",
@@ -1469,6 +1597,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -1534,12 +1668,6 @@
         "label": "LOC",
         "start": 7,
         "end": 14
-      },
-      {
-        "text": "軍符彥卿為鄜州",
-        "label": "LOC",
-        "start": 23,
-        "end": 30
       }
     ]
   },
@@ -1605,6 +1733,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -1670,10 +1804,10 @@
         "end": 8
       },
       {
-        "text": "論張彥澤在涇州",
-        "label": "LOC",
-        "start": 13,
-        "end": 20
+        "text": "鄭受益",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -1685,7 +1819,14 @@
   {
     "sentence_id": "HCH_007_080_000118",
     "sentence": "庚申，刑部郎中李濤、張麟，員外郎麻麟、王禧，同詣閣門上疏，論張彥澤罪犯，詞甚懇切。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_080_000119",
@@ -1698,6 +1839,12 @@
         "end": 11
       },
       {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "晉",
         "label": "ORG",
         "start": 59,
@@ -1708,6 +1855,18 @@
         "label": "ORG",
         "start": 89,
         "end": 90
+      },
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 161,
+        "end": 164
+      },
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 221,
+        "end": 224
       },
       {
         "text": "仍於涇州",
@@ -1734,6 +1893,12 @@
         "end": 323
       },
       {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 326,
+        "end": 329
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 333,
@@ -1750,6 +1915,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 12
+      },
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       },
       {
         "text": "御史",
@@ -1983,16 +2154,16 @@
         "end": 8
       },
       {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "以前許州",
         "label": "LOC",
         "start": 22,
         "end": 26
-      },
-      {
-        "text": "使安審琦為兗州",
-        "label": "LOC",
-        "start": 28,
-        "end": 35
       }
     ]
   },
@@ -2005,6 +2176,18 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "判官李光圖出城",

@@ -444,6 +444,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "元貴平",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -491,6 +497,12 @@
         "label": "LOC",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "陸子彰",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -823,7 +835,14 @@
   {
     "sentence_id": "HCH_003_005_000073",
     "sentence": "禽其將曹義宗，檻送京師。",
-    "entities": []
+    "entities": [
+      {
+        "text": "曹義宗",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000074",
@@ -1228,6 +1247,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -1780,6 +1805,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "劉靈助",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -1804,6 +1835,12 @@
         "label": "TITLE",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "封隆之",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -1982,12 +2019,6 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
-      },
-      {
-        "text": "劉靈助於安國城",
-        "label": "LOC",
-        "start": 10,
-        "end": 17
       }
     ]
   },
@@ -2123,14 +2154,7 @@
   {
     "sentence_id": "HCH_003_005_000202",
     "sentence": "使魏蘭根慰喻洛邑，且觀帝之為人。",
-    "entities": [
-      {
-        "text": "魏蘭根慰喻洛邑",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_005_000203",
@@ -2464,7 +2488,14 @@
   {
     "sentence_id": "HCH_003_005_000239",
     "sentence": "居五旬而高歡使斛斯椿求帝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000240",
@@ -2499,7 +2530,14 @@
   {
     "sentence_id": "HCH_003_005_000246",
     "sentence": "昧爽，文武執鞭以朝，使斛斯椿奉勸進表。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000247",
@@ -2970,7 +3008,14 @@
   {
     "sentence_id": "HCH_003_005_000299",
     "sentence": "帝內圖高歡，乃以斛斯椿為領軍，使與王思政等統之，以為心膂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000300",
@@ -3019,7 +3064,14 @@
   {
     "sentence_id": "HCH_003_005_000306",
     "sentence": "丙午，帝率南陽王寶炬、清河王亶、廣陽王湛、斛斯椿以五千騎宿於瀍西楊王別舍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000307",
@@ -3044,7 +3096,14 @@
   {
     "sentence_id": "HCH_003_005_000311",
     "sentence": "略陽公宇文泰遣都督駱超、李賢和各領數百騎赴。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文泰",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000312",
@@ -3123,6 +3182,12 @@
     "sentence": "八月，宇文泰遣大都督趙貴、梁禦甲騎二千來赴，乃奉迎。",
     "entities": [
       {
+        "text": "宇文泰",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "大都",
         "label": "LOC",
         "start": 7,
@@ -3145,7 +3210,14 @@
   {
     "sentence_id": "HCH_003_005_000323",
     "sentence": "宇文泰迎帝於東陽，帝勞之，將士皆呼萬歲。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文泰",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000324",
@@ -3292,6 +3364,12 @@
     "sentence": "宇文泰使元氏諸王取明月殺之。",
     "entities": [
       {
+        "text": "宇文泰",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "元氏",
         "label": "ORG",
         "start": 4,
@@ -3342,7 +3420,14 @@
   {
     "sentence_id": "HCH_003_005_000345",
     "sentence": "始宣武、孝明間謠曰：「狐非狐，貉非貉，焦梨狗子嚙斷索。」識者以為索謂本索髮，焦梨狗子指宇文泰，俗謂之黑獺也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文泰",
+        "label": "PER",
+        "start": 43,
+        "end": 46
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000346",
@@ -3501,6 +3586,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "宇文泰",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -3551,6 +3642,12 @@
         "end": 6
       },
       {
+        "text": "宇文泰",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 21,
@@ -3573,6 +3670,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -3649,7 +3752,14 @@
   {
     "sentence_id": "HCH_003_005_000371",
     "sentence": "加安定公宇文泰位柱國。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文泰",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000372",
@@ -3757,6 +3867,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "李叔仁",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -3780,13 +3896,26 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "万俟普撥",
+        "label": "PER",
+        "start": 8,
+        "end": 12
       }
     ]
   },
   {
     "sentence_id": "HCH_003_005_000384",
     "sentence": "秋九月，以扶風王孚為司空，以太保斛斯椿為太傅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000385",
@@ -3826,7 +3955,14 @@
   {
     "sentence_id": "HCH_003_005_000388",
     "sentence": "夏四月，太傅斛斯椿薨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000389",
@@ -3843,6 +3979,12 @@
     "sentence": "冬十月，安定公宇文泰大破東魏軍於沙苑，拜泰柱國大將軍。",
     "entities": [
       {
+        "text": "宇文泰",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 23,
@@ -3854,12 +3996,6 @@
     "sentence_id": "HCH_003_005_000392",
     "sentence": "十二月，司徒李叔仁自涼州通使於東魏，建昌太守賀蘭植攻斬之。",
     "entities": [
-      {
-        "text": "徒李叔仁自涼州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      },
       {
         "text": "太守",
         "label": "TITLE",
@@ -3930,6 +4066,12 @@
         "label": "LOC",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "宇文泰",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -4117,6 +4259,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -4362,6 +4510,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -4390,6 +4544,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -4470,6 +4630,12 @@
         "end": 13
       },
       {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 26,
@@ -4535,7 +4701,14 @@
   {
     "sentence_id": "HCH_003_005_000462",
     "sentence": "夏五月，以安定公宇文泰為太師，廣陵王欣為太傅，太尉李弼為大宗伯，前太尉趙貴為大司寇，以司空于謹為大司空。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文泰",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000463",
@@ -4596,7 +4769,14 @@
   {
     "sentence_id": "HCH_003_005_000470",
     "sentence": "秋七月，安定公宇文泰東伐，至恒農。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文泰",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000471",
@@ -4790,6 +4970,12 @@
     "sentence": "冬十一月，安定公宇文泰殺尚書元烈。",
     "entities": [
       {
+        "text": "宇文泰",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 12,
@@ -4806,6 +4992,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "宇文泰",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -4891,7 +5083,14 @@
   {
     "sentence_id": "HCH_003_005_000502",
     "sentence": "梁太尉王僧辯奉元帝子方智為王，承制，居建業。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王僧辯",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000503",
@@ -4902,6 +5101,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "王僧辯",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -4920,7 +5125,14 @@
   {
     "sentence_id": "HCH_003_005_000505",
     "sentence": "九月，梁司空陳霸先殺僧辯，廢蕭明，復奉方智為帝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳霸先",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000506",
@@ -4943,6 +5155,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 16
+      },
+      {
+        "text": "豆盧寧",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -4963,23 +5181,48 @@
         "end": 16
       },
       {
+        "text": "宇文泰",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 56,
         "end": 58
       },
       {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 59,
+        "end": 62
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 64,
         "end": 66
+      },
+      {
+        "text": "侯莫陳崇",
+        "label": "PER",
+        "start": 76,
+        "end": 80
       }
     ]
   },
   {
     "sentence_id": "HCH_003_005_000508",
     "sentence": "冬十月乙亥，安定公宇文泰薨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文泰",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000509",
@@ -5280,7 +5523,14 @@
   {
     "sentence_id": "HCH_003_005_000533",
     "sentence": "丙子，進侍中封隆之等五人為大使，巡喻天下。",
-    "entities": []
+    "entities": [
+      {
+        "text": "封隆之",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000534",
@@ -5392,6 +5642,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "陳慶之",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "刺史",
@@ -5535,12 +5791,6 @@
     "sentence_id": "HCH_003_005_000556",
     "sentence": "冬十一月丁未，梁柳仲禮寇荊州，刺史王元擊破之。",
     "entities": [
-      {
-        "text": "梁柳仲禮寇荊州",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -6045,16 +6295,16 @@
     "sentence": "西魏又遣其大行臺元季海、大都督獨孤信逼洛州，刺史廣陽王湛棄城歸闕，季海、信遂據金墉。",
     "entities": [
       {
+        "text": "元季海",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "大都",
         "label": "LOC",
         "start": 12,
         "end": 14
-      },
-      {
-        "text": "督獨孤信逼洛州",
-        "label": "LOC",
-        "start": 14,
-        "end": 21
       },
       {
         "text": "刺史",
@@ -6135,7 +6385,14 @@
   {
     "sentence_id": "HCH_003_005_000613",
     "sentence": "二月丙辰，遣兼散騎常侍鄭伯猷聘於梁。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭伯猷",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000614",
@@ -6428,7 +6685,14 @@
   {
     "sentence_id": "HCH_003_005_000649",
     "sentence": "十二月乙卯，遣兼散騎常侍崔長謙聘於梁。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔長謙",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000650",
@@ -6797,6 +7061,12 @@
         "end": 10
       },
       {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 15,
@@ -6839,6 +7109,12 @@
         "label": "LOC",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 21,
+        "end": 25
       }
     ]
   },
@@ -7234,6 +7510,12 @@
         "end": 107
       },
       {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 107,
+        "end": 111
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 112,
@@ -7285,6 +7567,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 13,
+        "end": 17
       },
       {
         "text": "大都",
@@ -7439,12 +7727,6 @@
         "end": 14
       },
       {
-        "text": "山侯蕭正表以鎮",
-        "label": "LOC",
-        "start": 16,
-        "end": 23
-      },
-      {
         "text": "封蘭陵郡",
         "label": "LOC",
         "start": 26,
@@ -7531,6 +7813,12 @@
         "label": "LOC",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "蕭正表",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -7774,7 +8062,14 @@
   {
     "sentence_id": "HCH_003_005_000790",
     "sentence": "澄使取一段，帝束百疋以與之，曰：「亦一段爾。」帝不堪憂辱，詠謝靈運詩曰：「韓亡子房奮，秦帝魯連恥。本自江海人，誌義動君子。」常侍、侍講荀濟知帝意，乃與華山王大器、元瑾密謀於宮中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "謝靈運",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_005_000791",
@@ -7834,6 +8129,12 @@
         "label": "LOC",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -7857,6 +8158,12 @@
         "label": "TITLE",
         "start": 76,
         "end": 78
+      },
+      {
+        "text": "裴讓之",
+        "label": "PER",
+        "start": 81,
+        "end": 84
       }
     ]
   },

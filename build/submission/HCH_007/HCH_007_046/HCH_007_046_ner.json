@@ -60,7 +60,14 @@
   {
     "sentence_id": "HCH_007_046_000006",
     "sentence": "在太原，嘗與石敬瑭因擊球同入於趙襄子之廟，見其塑像，屹然起立，帝秘之，私心自負。",
-    "entities": []
+    "entities": [
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_046_000007",
@@ -93,7 +100,14 @@
   {
     "sentence_id": "HCH_007_046_000010",
     "sentence": "留守符存審在德勝寨未行，梁人謂莊宗已北，乃悉眾攻德勝，莊宗命明宗、存審為兩翼以抗之，自以中軍前進。",
-    "entities": []
+    "entities": [
+      {
+        "text": "符存審",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_046_000011",
@@ -127,6 +141,12 @@
     "sentence_id": "HCH_007_046_000014",
     "sentence": "九月，莊宗敗梁將王彥章於中都，急趨汴州。",
     "entities": [
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "急趨汴州",
         "label": "LOC",
@@ -219,6 +239,12 @@
         "label": "LOC",
         "start": 28,
         "end": 30
+      },
+      {
+        "text": "王建立",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       }
     ]
   },
@@ -245,7 +271,14 @@
   {
     "sentence_id": "HCH_007_046_000026",
     "sentence": "先是，帝興樞密使安重誨在常山，因杯盤失意，帝以拳擊重誨腦，中其櫛，走而獲免。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_046_000027",
@@ -291,7 +324,14 @@
   {
     "sentence_id": "HCH_007_046_000030",
     "sentence": "遣藥彥稠將兵討彥溫，令生致之，麵要鞫問。",
-    "entities": []
+    "entities": [
+      {
+        "text": "藥彥稠",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_046_000031",
@@ -308,7 +348,14 @@
   {
     "sentence_id": "HCH_007_046_000032",
     "sentence": "後數日，安重誨以帝失守，諷宰相論奏行法，明宗不悅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_046_000033",
@@ -329,6 +376,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       },
       {
         "text": "大將軍",
@@ -405,12 +458,32 @@
   {
     "sentence_id": "HCH_007_046_000042",
     "sentence": "帝聞之，召賓佐將吏以謀之，皆曰：「主上年幼，未親庶事，軍國大政悉委朱宏昭等，王必無保全之理。」判官馬裔孫曰：「君命召，不俟駕行焉。諸君凶言，非令圖也。」是夜，帝令李專美草檄求援諸道，欲誅君側之罪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱宏昭",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      },
+      {
+        "text": "馬裔孫",
+        "label": "PER",
+        "start": 49,
+        "end": 52
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_046_000043",
     "sentence": "朝廷命王思同率師來討。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王思同",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_046_000044",
@@ -450,7 +523,14 @@
   {
     "sentence_id": "HCH_007_046_000047",
     "sentence": "時羽林都指揮使楊思權謂眾曰：「大相公，吾主也。」遂引軍自西門入，嚴衛都指揮使尹暉亦引軍自東門而入，外軍悉潰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊思權",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_046_000048",
@@ -483,7 +563,14 @@
   {
     "sentence_id": "HCH_007_046_000051",
     "sentence": "二十三日，次靈口，誅王思同。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王思同",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_046_000052",
@@ -494,6 +581,12 @@
         "label": "LOC",
         "start": 5,
         "end": 8
+      },
+      {
+        "text": "藥彥稠",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -554,7 +647,14 @@
   {
     "sentence_id": "HCH_007_046_000057",
     "sentence": "二十八日，康義誠軍前兵士相繼來降，義誠詣軍門請罪，帝宥之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_046_000058",
@@ -815,6 +915,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "王思同",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -982,34 +1088,78 @@
     "sentence": "鳳翔節度判官韓昭裔為左諫議大夫，充端明殿學士；觀察判官馬裔孫為翰林學士；掌書記李專美為樞密院直學士。",
     "entities": [
       {
+        "text": "韓昭裔",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "馬裔孫",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
   {
     "sentence_id": "HCH_007_046_000106",
     "sentence": "戊子，侍衛親軍都指揮使康義誠伏誅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_046_000107",
     "sentence": "是日，詔曰：樞密使朱宏昭、馮贇、宣徽南院使孟漢瓊、西京留守王思同、前邠州節度使藥彥稠，共相朋煽，妄舉干戈，互興離間之謀，幾構傾亡之禍，宜行顯戮，以快群情，仍削奪官爵雲。",
     "entities": [
       {
+        "text": "朱宏昭",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "王思同",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
         "text": "前邠州",
         "label": "LOC",
         "start": 33,
         "end": 36
+      },
+      {
+        "text": "藥彥稠",
+        "label": "PER",
+        "start": 39,
+        "end": 42
       }
     ]
   },
   {
     "sentence_id": "HCH_007_046_000108",
     "sentence": "庚寅，鳳翔奏，西川孟知祥僭稱大蜀，年號明德。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_046_000109",
@@ -1020,6 +1170,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "韓昭裔",
+        "label": "PER",
+        "start": 143,
+        "end": 146
       }
     ]
   },
@@ -1056,6 +1212,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "楊思權",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -1098,6 +1260,12 @@
     "sentence": "乙巳，以左龍武指揮使安審琦為左右捧聖都指揮使，以右千牛上將軍符彥饒為左右嚴衛都指揮使。",
     "entities": [
       {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 28,
@@ -1108,7 +1276,14 @@
   {
     "sentence_id": "HCH_007_046_000118",
     "sentence": "丙午，以端明殿學士韓昭允為樞密使；以莊宅使劉延朗為樞密副使；以權知樞密事房暠為宣徽北院使；以成德軍節度使、大同彰國振武威塞等軍蕃漢馬步都部署、檢校太尉、兼中書令、駙馬都尉石敬瑭為北京留守、河東節度使，加檢校太師、兼中書令，都部署如故。",
-    "entities": []
+    "entities": [
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 85,
+        "end": 88
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_046_000119",
@@ -1167,6 +1342,12 @@
         "end": 19
       },
       {
+        "text": "安重霸",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
         "text": "春州",
         "label": "LOC",
         "start": 43,
@@ -1177,6 +1358,12 @@
         "label": "TITLE",
         "start": 45,
         "end": 47
+      },
+      {
+        "text": "楊思權",
+        "label": "PER",
+        "start": 47,
+        "end": 50
       }
     ]
   },
@@ -1255,12 +1442,25 @@
   {
     "sentence_id": "HCH_007_046_000128",
     "sentence": "甲寅，以侍衛馬軍都指揮、順化軍節度使安從進為河陽節度使，典軍如故。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_046_000129",
     "sentence": "太常卿盧文紀奏：「明宗一室，酌獻舞曲，請名《雍熙之舞》。」從之。",
     "entities": [
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "《雍熙之舞》",
         "label": "TITLE",
@@ -1364,6 +1564,12 @@
         "end": 42
       },
       {
+        "text": "韓昭裔",
+        "label": "PER",
+        "start": 42,
+        "end": 45
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 48,
@@ -1439,12 +1645,6 @@
         "label": "LOC",
         "start": 3,
         "end": 5
-      },
-      {
-        "text": "祥出軍迫陷成州",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
       }
     ]
   },
@@ -1522,6 +1722,12 @@
         "end": 102
       },
       {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 105,
+        "end": 108
+      },
+      {
         "text": "青州",
         "label": "LOC",
         "start": 114,
@@ -1567,7 +1773,20 @@
   {
     "sentence_id": "HCH_007_046_000149",
     "sentence": "庚辰，幸至德宮，因幸房知溫、安元信、範延光、索自通、李從敏第。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安元信",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "李從敏",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_046_000150",
@@ -1580,6 +1799,12 @@
         "end": 8
       },
       {
+        "text": "王建立",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "鄆州",
         "label": "LOC",
         "start": 25,
@@ -1590,6 +1815,12 @@
         "label": "LOC",
         "start": 31,
         "end": 35
+      },
+      {
+        "text": "安元信",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       },
       {
         "text": "潞州",
@@ -1679,6 +1910,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -1763,6 +2000,12 @@
     "sentence": "癸卯，鳳翔進偽蜀孟知祥來書，稱「大蜀皇帝獻書於大唐皇帝」，且言「見迫群情，以今年四月十二日即皇帝位」雲，帝不答。",
     "entities": [
       {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "皇帝",
         "label": "TITLE",
         "start": 18,
@@ -1839,6 +2082,12 @@
     "sentence": "是日，宰臣李愚、劉煦因論公事，於政事堂相詬，辭甚鄙惡，帝令樞密副使劉延朗宣諭曰：「卿等輔弼之臣，不宜如是，今後不得更然。」辛亥，以太常卿盧文紀為中書侍郎、平章事。",
     "entities": [
       {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 68,
+        "end": 71
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 74,
@@ -1884,7 +2133,14 @@
   {
     "sentence_id": "HCH_007_046_000169",
     "sentence": "乙丑，史官張昭遠以所撰莊宗朝列傳三十卷上之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張昭遠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_046_000170",
@@ -1930,6 +2186,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 12
+      },
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 57,
+        "end": 60
       }
     ]
   },
@@ -1962,6 +2224,12 @@
         "end": 25
       },
       {
+        "text": "楊凝式",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 31,
@@ -1978,6 +2246,12 @@
         "label": "LOC",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "婁繼英",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -2014,6 +2288,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "崔居儉",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       },
       {
         "text": "尚書",
@@ -2074,6 +2354,12 @@
         "label": "TITLE",
         "start": 68,
         "end": 70
+      },
+      {
+        "text": "王景崇",
+        "label": "PER",
+        "start": 86,
+        "end": 89
       }
     ]
   },
@@ -2157,6 +2443,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       },
       {
         "text": "大夫",
@@ -2262,12 +2554,6 @@
         "label": "LOC",
         "start": 3,
         "end": 7
-      },
-      {
-        "text": "事盧文進為安州",
-        "label": "LOC",
-        "start": 19,
-        "end": 26
       }
     ]
   },
@@ -2314,12 +2600,6 @@
         "label": "LOC",
         "start": 5,
         "end": 7
-      },
-      {
-        "text": "敬瑭率兵屯代州",
-        "label": "LOC",
-        "start": 15,
-        "end": 22
       }
     ]
   },
@@ -2469,6 +2749,12 @@
         "end": 7
       },
       {
+        "text": "王萬榮",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 18,
@@ -2480,6 +2766,12 @@
     "sentence_id": "HCH_007_046_000209",
     "sentence": "甲寅，以振武節度使楊光遠充大同、彰國、振武、威塞等軍兵馬都虞候，以前右金吾大將軍穆延暉為右武衛上將軍。",
     "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -2503,6 +2795,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "楊凝式",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "侍郎",
@@ -2544,6 +2842,12 @@
         "label": "TITLE",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "安叔千",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       },
       {
         "text": "以齊州",
@@ -2596,6 +2900,12 @@
         "label": "TITLE",
         "start": 89,
         "end": 91
+      },
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 95,
+        "end": 98
       },
       {
         "text": "侍郎",

@@ -86,6 +86,12 @@
         "label": "LOC",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "張通儒",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -97,14 +103,7 @@
   {
     "sentence_id": "HCH_008_115_000013",
     "sentence": "及渭上軍破，賊將崔乾祐先鎮蒲、同，使麾下騎三十人捉器，器遂北走靈武。",
-    "entities": [
-      {
-        "text": "賊將崔乾祐先鎮",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_115_000014",
@@ -149,7 +148,14 @@
   {
     "sentence_id": "HCH_008_115_000018",
     "sentence": "及收東京，令陳希烈已下數百人如西京之儀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳希烈",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_115_000019",
@@ -170,6 +176,18 @@
         "label": "ORG",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "陳希烈",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "達奚珣",
+        "label": "PER",
+        "start": 33,
+        "end": 36
       }
     ]
   },
@@ -184,10 +202,22 @@
         "end": 6
       },
       {
+        "text": "安慶緒",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
         "text": "脅至相州",
         "label": "LOC",
         "start": 31,
         "end": 35
+      },
+      {
+        "text": "陳希烈",
+        "label": "PER",
+        "start": 48,
+        "end": 51
       }
     ]
   },
@@ -224,18 +254,38 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "達奚珣",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
   {
     "sentence_id": "HCH_008_115_000025",
     "sentence": "趙國珍",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙國珍",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_115_000026",
     "sentence": "趙國珍，牂柯之苗裔也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙國珍",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_115_000027",
@@ -245,7 +295,14 @@
   {
     "sentence_id": "HCH_008_115_000028",
     "sentence": "時南蠻閣羅鳳叛，宰臣楊國忠兼劍南節度，遙制其務，屢喪師徒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_115_000029",
@@ -444,6 +501,12 @@
     "sentence": "天寶末，宰臣楊國忠出不附己者，括以例為果州刺史。",
     "entities": [
       {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "括以例為果州",
         "label": "LOC",
         "start": 15,
@@ -483,6 +546,12 @@
     "sentence_id": "HCH_008_115_000054",
     "sentence": "大歷初，叛臣周智光伏誅，詔選循良為近輔，以括為同州刺史。",
     "entities": [
+      {
+        "text": "周智光",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "以括為同州",
         "label": "LOC",
@@ -535,12 +604,26 @@
   {
     "sentence_id": "HCH_008_115_000058",
     "sentence": "韋元甫",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋元甫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_115_000059",
     "sentence": "韋元甫，少修謹，敏於學行。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋元甫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_115_000060",
@@ -581,6 +664,12 @@
     "sentence_id": "HCH_008_115_000063",
     "sentence": "大歷初，宰臣杜鴻漸首薦之，征為尚書右丞。",
     "entities": [
+      {
+        "text": "杜鴻漸",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -646,12 +735,26 @@
   {
     "sentence_id": "HCH_008_115_000067",
     "sentence": "魏少遊",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏少遊",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_115_000068",
     "sentence": "魏少遊，鉅鹿人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏少遊",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_115_000069",
@@ -661,7 +764,14 @@
   {
     "sentence_id": "HCH_008_115_000070",
     "sentence": "肅宗幸靈武，杜鴻漸等奉迎，留少遊知留後，備宮室掃除之事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜鴻漸",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_115_000071",
@@ -807,6 +917,18 @@
         "label": "LOC",
         "start": 5,
         "end": 9
+      },
+      {
+        "text": "劉希暹",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -868,6 +990,12 @@
     "sentence": "及路嗣恭代少遊，到州，即日杖殺，識者以是減魏之名，多路之政。",
     "entities": [
       {
+        "text": "路嗣恭",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "到州",
         "label": "LOC",
         "start": 8,
@@ -900,12 +1028,26 @@
   {
     "sentence_id": "HCH_008_115_000090",
     "sentence": "衛伯玉",
-    "entities": []
+    "entities": [
+      {
+        "text": "衛伯玉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_115_000091",
     "sentence": "衛伯玉，有膂力，幼習藝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "衛伯玉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_115_000092",
@@ -952,6 +1094,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -995,10 +1143,22 @@
         "end": 4
       },
       {
+        "text": "史思明",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "長安",
         "label": "LOC",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "史朝義",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       },
       {
         "text": "率其黨夜襲陜州",
@@ -1133,12 +1293,6 @@
     "sentence": "尹子奇圍汴州，陷賊，拘承送洛陽。",
     "entities": [
       {
-        "text": "尹子奇圍汴州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      },
-      {
         "text": "洛陽",
         "label": "LOC",
         "start": 13,
@@ -1244,12 +1398,26 @@
   {
     "sentence_id": "HCH_008_115_000120",
     "sentence": "時梁崇義縱恣倨慢，朝廷將加討伐。",
-    "entities": []
+    "entities": [
+      {
+        "text": "梁崇義",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_115_000121",
     "sentence": "李希烈揣知之，上表數崇義過惡，請率先誅討。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_115_000122",

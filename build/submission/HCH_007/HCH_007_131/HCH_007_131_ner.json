@@ -87,10 +87,22 @@
     "sentence": "莊宗平河洛，去非以嘗從劉守奇歸梁，深懼獲罪，乃棄郡投高季興於荊南，皞累為荊州攝官。",
     "entities": [
       {
+        "text": "劉守奇",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "乃棄郡",
         "label": "LOC",
         "start": 22,
         "end": 25
+      },
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       },
       {
         "text": "皞累為荊州",
@@ -241,7 +253,14 @@
   {
     "sentence_id": "HCH_007_131_000022",
     "sentence": "三月，至鄆，節度使高行周以皞嗜酒，留連累日，旦夕沈醉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_131_000023",
@@ -269,7 +288,14 @@
   {
     "sentence_id": "HCH_007_131_000025",
     "sentence": "其年八月，鄆帥齊王高行周亦夢鬼請齊王判官，得無是乎！",
-    "entities": []
+    "entities": [
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_131_000026",
@@ -358,6 +384,12 @@
         "label": "ORG",
         "start": 0,
         "end": 1
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -459,6 +491,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -560,20 +598,19 @@
         "label": "ORG",
         "start": 0,
         "end": 1
+      },
+      {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
   {
     "sentence_id": "HCH_007_131_000058",
     "sentence": "唐天成初，依晉公霍彥威於青州，為從事。",
-    "entities": [
-      {
-        "text": "公霍彥威於青州",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_131_000059",
@@ -789,6 +826,12 @@
         "end": 18
       },
       {
+        "text": "戴思遠",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
         "text": "梁",
         "label": "ORG",
         "start": 33,
@@ -848,6 +891,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -1364,7 +1413,14 @@
   {
     "sentence_id": "HCH_007_131_000132",
     "sentence": "蘇逢吉監修國史，以緯頻投文字，甚知之，尋充史館修撰，判館事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_131_000133",
@@ -1374,7 +1430,14 @@
   {
     "sentence_id": "HCH_007_131_000134",
     "sentence": "晉相桑維翰執政日，薄緯之為人，不甚見禮，緯深銜之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_131_000135",
@@ -1417,7 +1480,14 @@
   {
     "sentence_id": "HCH_007_131_000140",
     "sentence": "既而以所撰日曆示監修王峻，皆媒孽貞固及蘇禹珪之短，歷詆朝士之先達者。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇禹珪",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_131_000141",
@@ -1434,14 +1504,7 @@
   {
     "sentence_id": "HCH_007_131_000142",
     "sentence": "時符彥卿鎮青州，以緯文士，厚禮之。",
-    "entities": [
-      {
-        "text": "時符彥卿鎮青州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_131_000143",
@@ -1573,7 +1636,14 @@
   {
     "sentence_id": "HCH_007_131_000159",
     "sentence": "晉天福中，代馬重績為司天監。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬重績",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_131_000160",
@@ -1606,6 +1676,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 8
+      },
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 86,
+        "end": 89
       }
     ]
   },
@@ -1707,12 +1783,26 @@
   {
     "sentence_id": "HCH_007_131_000175",
     "sentence": "李知損",
-    "entities": []
+    "entities": [
+      {
+        "text": "李知損",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_131_000176",
     "sentence": "李知損，字化機，大梁人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李知損",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_131_000177",
@@ -1820,6 +1910,12 @@
         "label": "LOC",
         "start": 14,
         "end": 20
+      },
+      {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -1877,6 +1973,12 @@
         "end": 9
       },
       {
+        "text": "李知損",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 18,
@@ -1887,6 +1989,12 @@
         "label": "LOC",
         "start": 119,
         "end": 123
+      },
+      {
+        "text": "宋彥筠",
+        "label": "PER",
+        "start": 125,
+        "end": 128
       }
     ]
   },
@@ -1943,6 +2051,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 8
+      },
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -1965,6 +2079,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 8
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -2034,7 +2154,14 @@
   {
     "sentence_id": "HCH_007_131_000211",
     "sentence": "每召見，飲之醇醴，問以江南事，晟但言：「吳畏陛下之神武，唯以北面為求，保無二也。」先是，張永德守下蔡，素與李重進不協，每宴將校，多暴其短。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李重進",
+        "label": "PER",
+        "start": 53,
+        "end": 56
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_131_000212",

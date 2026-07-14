@@ -528,7 +528,14 @@
   {
     "sentence_id": "HCH_006_090_000080",
     "sentence": "王溫舒等後起，治峻禹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王溫舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_090_000081",
@@ -737,7 +744,14 @@
   {
     "sentence_id": "HCH_006_090_000106",
     "sentence": "後會更五銖錢白金起，民為姦，京師尤甚，乃以縱為右內史，王溫舒為中尉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王溫舒",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_090_000107",
@@ -787,12 +801,26 @@
   {
     "sentence_id": "HCH_006_090_000116",
     "sentence": "王溫舒",
-    "entities": []
+    "entities": [
+      {
+        "text": "王溫舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_090_000117",
     "sentence": "王溫舒，陽陵人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王溫舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_090_000118",
@@ -1053,7 +1081,14 @@
   {
     "sentence_id": "HCH_006_090_000157",
     "sentence": "光祿勳徐自為曰：「悲夫！夫古有三族，而王溫舒罪至同時而五族乎！」溫舒死，家絫千金。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王溫舒",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_090_000158",
@@ -1124,7 +1159,14 @@
   {
     "sentence_id": "HCH_006_090_000167",
     "sentence": "王溫舒敗後數年，病死，家直不滿五十金。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王溫舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_090_000168",
@@ -1214,6 +1256,12 @@
         "label": "TITLE",
         "start": 286,
         "end": 288
+      },
+      {
+        "text": "王溫舒",
+        "label": "PER",
+        "start": 313,
+        "end": 316
       }
     ]
   },
@@ -1288,7 +1336,14 @@
   {
     "sentence_id": "HCH_006_090_000184",
     "sentence": "王溫舒為中尉，而宣為左內史。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王溫舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_090_000185",
@@ -1332,6 +1387,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "王溫舒",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -1434,12 +1495,26 @@
   {
     "sentence_id": "HCH_006_090_000199",
     "sentence": "田廣明",
-    "entities": []
+    "entities": [
+      {
+        "text": "田廣明",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_090_000200",
     "sentence": "田廣明字子公，鄭人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田廣明",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_090_000201",
@@ -1634,6 +1709,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "杜延年",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -1673,6 +1754,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "尹翁歸",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1787,6 +1874,18 @@
         "label": "TITLE",
         "start": 52,
         "end": 54
+      },
+      {
+        "text": "田廣明",
+        "label": "PER",
+        "start": 54,
+        "end": 57
+      },
+      {
+        "text": "杜延年",
+        "label": "PER",
+        "start": 60,
+        "end": 63
       },
       {
         "text": "當廢昌邑",

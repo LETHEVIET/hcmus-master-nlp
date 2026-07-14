@@ -63,6 +63,12 @@
         "end": 4
       },
       {
+        "text": "李楚琳",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
         "text": "以府城",
         "label": "LOC",
         "start": 29,
@@ -214,6 +220,12 @@
     "sentence": "臯乃築壇於廷，血牲與將士等盟曰：「上天不吊，國家多難，逆臣乘間，盜據宮闈。而李楚琳亦扇兇徒，傾陷城邑，酷虐所加，爰及本使，既不事上，安能恤下。臯是用激心憤氣，不遑底寧，誓與群公，竭誠王室。凡我同盟，一心協力，仗順除兇，先祖之靈，必當幽贊。言誠則誌合，義感則心齊；粉骨糜軀，決無所顧。有渝此誌，明神殛之，迨於子孫，亦罔遺類。皇天後土，當兆斯言。」又遣使入吐蕃求援。",
     "entities": [
       {
+        "text": "李楚琳",
+        "label": "PER",
+        "start": 38,
+        "end": 41
+      },
+      {
         "text": "傾陷城邑",
         "label": "LOC",
         "start": 46,
@@ -296,6 +308,12 @@
         "label": "TITLE",
         "start": 21,
         "end": 23
+      },
+      {
+        "text": "張延賞",
+        "label": "PER",
+        "start": 33,
+        "end": 36
       }
     ]
   },
@@ -313,6 +331,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "崔佐時",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -354,6 +378,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "王有道",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "與東蠻於故巂州",
@@ -632,10 +662,22 @@
         "end": 3
       },
       {
+        "text": "韋良金",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "雅州",
         "label": "LOC",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "路惟明",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       },
       {
         "text": "松等城",
@@ -650,10 +692,22 @@
         "end": 40
       },
       {
+        "text": "王有道",
+        "label": "PER",
+        "start": 43,
+        "end": 46
+      },
+      {
         "text": "巂州",
         "label": "LOC",
         "start": 60,
         "end": 62
+      },
+      {
+        "text": "陳孝陽",
+        "label": "PER",
+        "start": 65,
+        "end": 68
       },
       {
         "text": "四千進攻昆明城",
@@ -750,17 +804,49 @@
   {
     "sentence_id": "HCH_008_140_000056",
     "sentence": "順宗久疾，不能臨朝聽政，宦者李忠言、侍棋待詔王叔文、侍書待詔王伾等三人頗幹國政，高下在心。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_140_000057",
     "sentence": "臯乃遣支度副使劉辟使於京師，辟私謁王叔文曰：「太尉使致誠於足下，若能致某都領劍南三川，必有以相酬；如不留意，亦有以奉報。」叔文大怒，將斬辟以徇；韋執誼固止之，辟乃私去。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "韋執誼",
+        "label": "PER",
+        "start": 72,
+        "end": 75
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_140_000058",
     "sentence": "臯知王叔文人情不附，又知與韋執誼有隙，自以大臣可議社稷大計，乃上表請皇太子監國，曰：「臣聞上承宗廟，下鎮黎元，永固無疆，莫先儲兩。伏聞聖明以山陵未祔，哀毀逾制，心勞萬幾，伏計旬月之間，未甚痊復。皇太子睿質已長，淑問日彰，四海之心，實所倚賴。伏望權令皇太子監撫庶政，以俟聖躬痊平，一日萬幾，免令壅滯。」又上皇太子箋曰：",
     "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "韋執誼",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -942,7 +1028,14 @@
   {
     "sentence_id": "HCH_008_140_000080",
     "sentence": "臯兄聿，時為國子司業，劉辟與盧文若據西川叛，臯侄行式，先娶文若妹，而聿不奏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧文若",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_140_000081",
@@ -1029,6 +1122,12 @@
     "sentence": "辟益兇悖，出不臣之言，而求都統三川，與同幕盧文若相善，欲以文若為東川節度使，遂舉兵圍梓州。",
     "entities": [
       {
+        "text": "盧文若",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "遂舉兵圍梓州",
         "label": "LOC",
         "start": 38,
@@ -1039,12 +1138,32 @@
   {
     "sentence_id": "HCH_008_140_000090",
     "sentence": "憲宗難於用兵，宰相杜黃裳奏：「劉辟一狂蹶書生耳，王師鼓行而俘之，兵不血刃。臣知神策軍使高崇文，驍果可任，舉必成功。」帝數日方從之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜黃裳",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "高崇文",
+        "label": "PER",
+        "start": 43,
+        "end": 46
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_140_000091",
     "sentence": "於是令高崇文、李元奕將神策京西行營兵相續進發，令與嚴礪、李康掎角相應以討之，仍許其自新。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高崇文",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_140_000092",
@@ -1177,7 +1296,14 @@
   {
     "sentence_id": "HCH_008_140_000108",
     "sentence": "盧文若先自刃其妻子，然後縋石投江，失其屍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧文若",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_140_000109",
@@ -1222,7 +1348,14 @@
   {
     "sentence_id": "HCH_008_140_000113",
     "sentence": "初，辟嘗病，見諸問疾者來，皆以手據地，倒行入辟口，辟因礫裂食之；惟盧文若至，則如平常。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧文若",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_140_000114",
@@ -1232,12 +1365,25 @@
   {
     "sentence_id": "HCH_008_140_000115",
     "sentence": "張建封",
-    "entities": []
+    "entities": [
+      {
+        "text": "張建封",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_140_000116",
     "sentence": "張建封，字本立，兗州人。",
     "entities": [
+      {
+        "text": "張建封",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "兗州",
         "label": "LOC",
@@ -1274,6 +1420,12 @@
     "sentence": "安祿山反，令偽將李庭偉率蕃兵脅下城邑，至魯郡；太守韓擇木具禮郊迎，置於郵館。",
     "entities": [
       {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "偉率蕃兵脅下城",
         "label": "LOC",
         "start": 10,
@@ -1290,6 +1442,12 @@
         "label": "TITLE",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "韓擇木",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
@@ -1336,12 +1494,6 @@
     "sentence": "寶應中，李光弼鎮河南，時蘇、常等州草賊，寇掠郡邑，代宗遣中使馬日新與光弼將兵馬同征討之。",
     "entities": [
       {
-        "text": "李光弼鎮",
-        "label": "LOC",
-        "start": 4,
-        "end": 8
-      },
-      {
         "text": "常等州",
         "label": "LOC",
         "start": 14,
@@ -1385,13 +1537,26 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "韋之晉",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
   {
     "sentence_id": "HCH_008_140_000130",
     "sentence": "滑亳節度使令狐彰聞其名，辟之；彰既未曾朝覲，建封心不悅之，遂投刺於轉運使劉晏，自述其誌，不願仕於彰也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐彰",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_140_000131",
@@ -1430,7 +1595,14 @@
   {
     "sentence_id": "HCH_008_140_000134",
     "sentence": "李靈曜反於梁、宋間，與田悅掎角，同為叛逆，燧與李忠臣同討平之，軍務多咨於建封。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李忠臣",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_140_000135",
@@ -1467,6 +1639,18 @@
     "sentence": "時淮西節度使李希烈乘破滅梁崇義之勢，漸縱恣跋扈，壽州刺史崔昭數書疏往來。",
     "entities": [
       {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "梁崇義",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "壽州",
         "label": "LOC",
         "start": 24,
@@ -1484,6 +1668,12 @@
     "sentence_id": "HCH_008_140_000138",
     "sentence": "淮南節度使陳少遊奏之，上遽召宰相令選壽州刺史。",
     "entities": [
+      {
+        "text": "陳少遊",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "召宰相令選壽州",
         "label": "LOC",
@@ -1508,16 +1698,22 @@
     "sentence": "李希烈稱兵，寇陷汝州，擒李元平，擊走胡德信、唐漢臣等，又摧破哥舒曜於襄城，連陷鄭、汴等州，李勉棄城而遁。",
     "entities": [
       {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "寇陷汝州",
         "label": "LOC",
         "start": 6,
         "end": 10
       },
       {
-        "text": "破哥舒曜於襄城",
-        "label": "LOC",
-        "start": 29,
-        "end": 36
+        "text": "李元平",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       },
       {
         "text": "汴等州",
@@ -1541,7 +1737,14 @@
   {
     "sentence_id": "HCH_008_140_000142",
     "sentence": "淮南陳少遊潛通希烈，尋稱偽號，改元，遣將楊豐賫偽赦書二道，令送少遊及建封。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳少遊",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_140_000143",
@@ -1563,7 +1766,14 @@
   {
     "sentence_id": "HCH_008_140_000145",
     "sentence": "陳少遊聞之，既怒且懼。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳少遊",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_140_000146",
@@ -1620,7 +1830,14 @@
   {
     "sentence_id": "HCH_008_140_000151",
     "sentence": "車駕還京，陳少遊憂憤而卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳少遊",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_140_000152",
@@ -1673,7 +1890,14 @@
   {
     "sentence_id": "HCH_008_140_000154",
     "sentence": "李希烈選兇黨精悍者率勁卒以攻建封，曠日持久，無所克獲而去。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_140_000155",
@@ -1696,6 +1920,18 @@
     "sentence_id": "HCH_008_140_000157",
     "sentence": "涓尋卒，其後高承宗父子、獨孤華相繼為刺史。",
     "entities": [
+      {
+        "text": "高承宗",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "獨孤華",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -1949,6 +2185,18 @@
         "end": 12
       },
       {
+        "text": "劉玄佐",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
+        "text": "李抱真",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
         "text": "建封將還鎮",
         "label": "LOC",
         "start": 46,
@@ -1994,6 +2242,12 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "許孟容",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -2006,6 +2260,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "韋夏卿",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       },
       {
         "text": "司馬",
@@ -2045,7 +2305,14 @@
   {
     "sentence_id": "HCH_008_140_000190",
     "sentence": "初，建封卒，判官鄭通誠權知留後事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭通誠",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_140_000191",
@@ -2080,7 +2347,14 @@
   {
     "sentence_id": "HCH_008_140_000193",
     "sentence": "乃殺通誠、楊德宗、大將段伯熊、吉遂、曲澄、張秀等。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊德宗",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_140_000194",
@@ -2279,12 +2553,26 @@
   {
     "sentence_id": "HCH_008_140_000206",
     "sentence": "淮南節度使陳少遊聞其名，辟為從事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳少遊",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_140_000207",
     "sentence": "建中末，薦於朝廷，會李希烈反叛，詔諸將討之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_140_000208",
@@ -2364,7 +2652,14 @@
   {
     "sentence_id": "HCH_008_140_000215",
     "sentence": "淮西節度使吳少誠擅開決司、洧等水漕輓溉田，遣中使止之，少誠不奉詔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳少誠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_140_000216",
@@ -2415,6 +2710,12 @@
         "label": "TME",
         "start": 2,
         "end": 5
+      },
+      {
+        "text": "姚南仲",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -2456,14 +2757,7 @@
   {
     "sentence_id": "HCH_008_140_000224",
     "sentence": "史臣曰：韋南康、張徐州，慷慨下位之中，橫身喪亂之際，力扶衰運，氣激壯圖，義風凜凜，聳動群醜，舂盜之喉，折賊之角，可謂忠矣！",
-    "entities": [
-      {
-        "text": "張徐州",
-        "label": "LOC",
-        "start": 8,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_140_000225",

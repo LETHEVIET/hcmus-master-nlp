@@ -2,12 +2,50 @@
   {
     "sentence_id": "HCH_003_066_000001",
     "sentence": "王傑 王勇 宇文虯 耿豪 高琳 李和 伊婁穆 達奚寔 劉雄 侯植 李延孫 韋祐 陳欣 魏玄 泉仚 李遷哲 楊乾運 扶猛 陽雄 席固 任果",
-    "entities": []
+    "entities": [
+      {
+        "text": "伊婁穆",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "李遷哲",
+        "label": "PER",
+        "start": 49,
+        "end": 52
+      },
+      {
+        "text": "楊乾運",
+        "label": "PER",
+        "start": 53,
+        "end": 56
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_066_000002",
     "sentence": "王傑王勇宇文虯耿豪高琳李和子徹伊婁穆達奚寔劉雄侯植李延孫韋祐陳欣魏玄泉李遷哲楊乾運扶猛陽雄席固任果",
-    "entities": []
+    "entities": [
+      {
+        "text": "伊婁穆",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "李遷哲",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      },
+      {
+        "text": "楊乾運",
+        "label": "PER",
+        "start": 38,
+        "end": 41
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_066_000003",
@@ -235,7 +273,14 @@
   {
     "sentence_id": "HCH_003_066_000026",
     "sentence": "數從侯莫陳悅、賀拔嶽征討，功居多，拜別將。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_066_000027",
@@ -268,7 +313,14 @@
   {
     "sentence_id": "HCH_003_066_000030",
     "sentence": "大軍不利，唯胡仁及王文達、耿令貴三人力戰，皆有殊功。",
-    "entities": []
+    "entities": [
+      {
+        "text": "耿令貴",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_066_000031",
@@ -419,7 +471,14 @@
   {
     "sentence_id": "HCH_003_066_000042",
     "sentence": "柱國侯莫陳崇勳高望重，與諸將同謁晉公護，聞勇數論人短，乃於眾中折辱之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳崇",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_066_000043",
@@ -461,7 +520,14 @@
   {
     "sentence_id": "HCH_003_066_000049",
     "sentence": "孝武西遷，以獨孤信為行台，信引虯為帳內都督。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_066_000050",
@@ -488,7 +554,14 @@
   {
     "sentence_id": "HCH_003_066_000053",
     "sentence": "又從獨孤信討梁仚定，破之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_066_000054",
@@ -581,7 +654,14 @@
   {
     "sentence_id": "HCH_003_066_000064",
     "sentence": "從討侯莫陳悅及迎孝武，錄前後功，封平原子。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_066_000065",
@@ -833,6 +913,12 @@
     "sentence_id": "HCH_003_066_000093",
     "sentence": "時陳將吳明徹來寇，總管田弘與梁主蕭巋出保紀南城，唯琳與梁僕射王操固守江陵三城以抗之。",
     "entities": [
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "蕭巋出保紀南城",
         "label": "LOC",
@@ -1343,7 +1429,14 @@
   {
     "sentence_id": "HCH_003_066_000142",
     "sentence": "伊婁穆，字奴幹，代人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "伊婁穆",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_066_000143",
@@ -1792,6 +1885,12 @@
         "end": 4
       },
       {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "封肥城縣",
         "label": "LOC",
         "start": 24,
@@ -2029,7 +2128,14 @@
   {
     "sentence_id": "HCH_003_066_000208",
     "sentence": "齊神武深患之，遣行台慕容紹宗等數道攻擊，延孫大破之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 10,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_066_000209",
@@ -2216,6 +2322,12 @@
         "label": "LOC",
         "start": 6,
         "end": 9
+      },
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -2432,6 +2544,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "獨孤永業",
+        "label": "PER",
+        "start": 6,
+        "end": 10
       }
     ]
   },
@@ -2796,7 +2914,14 @@
   {
     "sentence_id": "HCH_003_066_000285",
     "sentence": "及蕭寶夤反，遣兵趣青泥，圖取上洛，豪族泉、杜二姓密應之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_066_000286",
@@ -3056,12 +3181,6 @@
         "end": 2
       },
       {
-        "text": "高敖曹圍逼州城",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      },
-      {
         "text": "杜窋為其鄉",
         "label": "LOC",
         "start": 11,
@@ -3229,14 +3348,7 @@
   {
     "sentence_id": "HCH_003_066_000328",
     "sentence": "高敖曹攻洛州，與仚力戰拒守。",
-    "entities": [
-      {
-        "text": "高敖曹攻洛州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_066_000329",
@@ -3341,6 +3453,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "柳仲禮",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "周文令仲遵率鄉",
@@ -3533,6 +3651,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "劉孟良",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -3625,7 +3749,14 @@
   {
     "sentence_id": "HCH_003_066_000359",
     "sentence": "李遷哲，字孝彥，安康人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李遷哲",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_066_000360",
@@ -3710,6 +3841,12 @@
         "label": "TME",
         "start": 2,
         "end": 5
+      },
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -3766,7 +3903,14 @@
   {
     "sentence_id": "HCH_003_066_000374",
     "sentence": "周文以遷哲信著山南，乃令與開府賀若敦同經略。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀若敦",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_066_000375",
@@ -3917,7 +4061,14 @@
   {
     "sentence_id": "HCH_003_066_000388",
     "sentence": "遷哲入據白帝，賀若敦等復至，遂共追五子王等，破之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀若敦",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_066_000389",
@@ -4102,6 +4253,12 @@
         "end": 2
       },
       {
+        "text": "章昭達",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "明帝告急於襄州",
         "label": "LOC",
         "start": 14,
@@ -4272,6 +4429,12 @@
     "sentence_id": "HCH_003_066_000424",
     "sentence": "楊乾運，字玄邈，儻城興勢人也，少雄武，為鄉閭信服。",
     "entities": [
+      {
+        "text": "楊乾運",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "儻城",
         "label": "LOC",
@@ -4546,14 +4709,7 @@
   {
     "sentence_id": "HCH_003_066_000444",
     "sentence": "令從開府賀若敦南討信州。",
-    "entities": [
-      {
-        "text": "賀若敦南討信州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_066_000445",
@@ -4589,6 +4745,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "賀若敦",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "進爵臨江縣",
@@ -5194,7 +5356,14 @@
   {
     "sentence_id": "HCH_003_066_000499",
     "sentence": "論曰：王傑、王勇、宇文虯、耿豪、高琳、李和、伊婁穆、侯植等咸以果毅之姿，效節擾攘之際，各能屠堅覆銳，自致其功，高爵厚位，固其宜也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "伊婁穆",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_066_000500",
@@ -5251,7 +5420,20 @@
   {
     "sentence_id": "HCH_003_066_000509",
     "sentence": "李遷哲、楊乾運、席固之徒，屬方隅擾攘，咸知委質，遂享爵位，以保終始。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李遷哲",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "楊乾運",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_066_000510",
@@ -5276,7 +5458,14 @@
   {
     "sentence_id": "HCH_003_066_000514",
     "sentence": "舊史有代人宇文盛，字保興，以武毅顯，盛弟丘，字胡奴，盛子述，位柱國，並有傳。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文盛",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_066_000515",

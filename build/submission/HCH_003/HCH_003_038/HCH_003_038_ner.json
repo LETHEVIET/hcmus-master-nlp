@@ -2,7 +2,20 @@
   {
     "sentence_id": "HCH_003_038_000001",
     "sentence": "裴駿 裴延儁 裴佗 裴果 裴寬 裴俠 裴文舉 裴仁基",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴延儁",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "裴文舉",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_038_000002",
@@ -652,14 +665,7 @@
   {
     "sentence_id": "HCH_003_038_000076",
     "sentence": "司空、任城王澄辟為行參軍，甚加知賞。",
-    "entities": [
-      {
-        "text": "任城",
-        "label": "LOC",
-        "start": 3,
-        "end": 5
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_038_000077",
@@ -892,12 +898,25 @@
   {
     "sentence_id": "HCH_003_038_000105",
     "sentence": "裴延儁",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴延儁",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_038_000106",
     "sentence": "裴延儁，字平子，河東聞喜人也，魏冀州刺史徽之八世孫也。",
     "entities": [
+      {
+        "text": "裴延儁",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "魏冀州",
         "label": "LOC",
@@ -1239,12 +1258,6 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
-      },
-      {
-        "text": "任城",
-        "label": "LOC",
-        "start": 5,
-        "end": 7
       }
     ]
   },
@@ -1372,6 +1385,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -1665,6 +1684,12 @@
         "label": "LOC",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "源子恭",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
@@ -2533,7 +2558,14 @@
   {
     "sentence_id": "HCH_003_038_000276",
     "sentence": "累遷屯田、主客郎中，省中語曰「能賦詩，裴讓之」。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴讓之",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_038_000277",
@@ -2665,6 +2697,12 @@
     "sentence": "侍中高德政舊與讓之不協，密奏言：「當陛下受禪之時，讓之眷戀魏朝，嗚咽流涕，比為內官，情非所願。」既而楊愔請救之，雲罪不合死。",
     "entities": [
       {
+        "text": "高德政",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "魏朝",
         "label": "ORG",
         "start": 29,
@@ -2675,7 +2713,14 @@
   {
     "sentence_id": "HCH_003_038_000292",
     "sentence": "文宣大怒，謂愔曰：「欲得與裴讓之同塚邪！」於是無敢言者，事奏，竟賜死於家。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴讓之",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_038_000293",
@@ -2746,6 +2791,12 @@
     "sentence_id": "HCH_003_038_000302",
     "sentence": "西魏領軍獨孤信入據金墉，以諏之為開府屬，號曰「洛陽遺彥」。",
     "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "金",
         "label": "ORG",
@@ -3680,7 +3731,14 @@
   {
     "sentence_id": "HCH_003_038_000427",
     "sentence": "帝稱矩至誠，謂宇文述、牛弘曰：「裴矩凡所陳奏，皆朕之成算，朕未發，矩輒以聞。自非奉國，孰能若是。」",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_038_000428",
@@ -3814,6 +3872,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 17
+      },
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       },
       {
         "text": "侍郎",
@@ -4260,6 +4324,12 @@
         "end": 5
       },
       {
+        "text": "夏侯道遷",
+        "label": "PER",
+        "start": 10,
+        "end": 14
+      },
+      {
         "text": "魏",
         "label": "ORG",
         "start": 15,
@@ -4299,6 +4369,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "羊靈祐",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       },
       {
         "text": "司馬",
@@ -4720,7 +4796,14 @@
   {
     "sentence_id": "HCH_003_038_000551",
     "sentence": "開劍閣，破季慶堡，降楊乾運，皆有功。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊乾運",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_038_000552",
@@ -4995,6 +5078,12 @@
     "sentence": "親歿，撫諸弟以篤友聞，滎陽鄭孝穆嘗謂其從弟文直曰：「裴長寬兄弟，天倫篤睦，人之師表，吾愛之重之，汝可與之遊處。」年十三，以選為魏孝明帝挽郎，釋褐員外散騎侍郎。",
     "entities": [
       {
+        "text": "鄭孝穆",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 76,
@@ -5011,12 +5100,6 @@
     "sentence_id": "HCH_003_038_000574",
     "sentence": "獨孤信鎮洛陽，始出見焉。",
     "entities": [
-      {
-        "text": "獨孤信鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 4
-      },
       {
         "text": "洛陽",
         "label": "LOC",
@@ -5042,6 +5125,12 @@
         "end": 5
       },
       {
+        "text": "韋子粲",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "子粲兄弟在關",
         "label": "LOC",
         "start": 13,
@@ -5062,7 +5151,14 @@
   {
     "sentence_id": "HCH_003_038_000578",
     "sentence": "獨孤信知而責之，寬曰：「窮來見歸，義無執送，今日獲罪，是所甘心。」以經赦宥，遂得不坐。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_038_000579",
@@ -5241,6 +5337,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "獨孤永業",
+        "label": "PER",
+        "start": 14,
+        "end": 18
       }
     ]
   },
@@ -5328,6 +5430,12 @@
     "sentence_id": "HCH_003_038_000600",
     "sentence": "陳將程靈洗攻之，力屈城陷。",
     "entities": [
+      {
+        "text": "程靈洗",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "力屈城",
         "label": "LOC",
@@ -5800,6 +5908,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "宇文泰",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -6076,7 +6190,14 @@
   {
     "sentence_id": "HCH_003_038_000677",
     "sentence": "及柳仲禮軍至，皓還以郢叛，卒如俠言。",
-    "entities": []
+    "entities": [
+      {
+        "text": "柳仲禮",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_038_000678",
@@ -6189,7 +6310,14 @@
   {
     "sentence_id": "HCH_003_038_000688",
     "sentence": "晉公護聞之曰：「裴俠危篤若此而不廢憂公，因聞鼓聲，疾病遂愈，此豈非天祐其勤恪也？」又司空許國公宇文貴、小司空北海公申征並來侯俠疾。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文貴",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_038_000689",
@@ -6332,6 +6460,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -6463,12 +6597,26 @@
   {
     "sentence_id": "HCH_003_038_000720",
     "sentence": "裴文舉",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴文舉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_038_000721",
     "sentence": "裴文舉，字道裕，河東聞喜人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴文舉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_038_000722",
@@ -6722,7 +6870,14 @@
   {
     "sentence_id": "HCH_003_038_000744",
     "sentence": "總管韋孝寬特相欽重，每與談論，不覺膝前于席。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_038_000745",

@@ -396,7 +396,14 @@
   {
     "sentence_id": "HCH_007_149_000024",
     "sentence": "及晉天福中，以李纮為司徒，周廣順初，以竇貞固為司徒，蘇禹珪為司空，遂以為例，議者不復有雲。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇禹珪",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_149_000025",
@@ -460,6 +467,12 @@
         "label": "LOC",
         "start": 283,
         "end": 285
+      },
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 305,
+        "end": 308
       },
       {
         "text": "御史",
@@ -686,6 +699,12 @@
         "label": "TME",
         "start": 2,
         "end": 6
+      },
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -704,7 +723,20 @@
   {
     "sentence_id": "HCH_007_149_000041",
     "sentence": "先是，晉祖以宰臣桑維翰兼樞密使，懇求免職，只在中書，遂以宣徽使劉處讓代之，每有奏議，多不稱旨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "劉處讓",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_149_000042",
@@ -720,6 +752,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -1155,7 +1193,14 @@
   {
     "sentence_id": "HCH_007_149_000081",
     "sentence": "時明宗登位，每四方書奏，多令樞密使安重誨讀之，不曉文義，於是孔循獻議，始置端明殿學士之名，命道等為之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_149_000082",
@@ -1202,6 +1247,12 @@
         "label": "TME",
         "start": 25,
         "end": 27
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -1257,6 +1308,12 @@
         "end": 141
       },
       {
+        "text": "張昭遠",
+        "label": "PER",
+        "start": 158,
+        "end": 161
+      },
+      {
         "text": "《宋史·張昭傳》",
         "label": "TITLE",
         "start": 209,
@@ -1267,6 +1324,12 @@
         "label": "TME",
         "start": 221,
         "end": 223
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 226,
+        "end": 229
       },
       {
         "text": "《宋史》",

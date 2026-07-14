@@ -42,12 +42,6 @@
     "sentence": "魏齊王蕭寶夤為瀛州刺史，召惠達及河間馮景同在閣下，甚禮之。",
     "entities": [
       {
-        "text": "王蕭寶夤為瀛州",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 9,
@@ -166,6 +160,12 @@
     "sentence_id": "HCH_003_063_000019",
     "sentence": "岳為侯莫陳悅所害，惠達遁入漢陽之麥積崖。",
     "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      },
       {
         "text": "漢",
         "label": "ORG",
@@ -379,7 +379,14 @@
   {
     "sentence_id": "HCH_003_063_000042",
     "sentence": "景少與周惠達友，俱以客從蕭寶夤。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_063_000043",
@@ -481,6 +488,12 @@
     "sentence": "嶽曰：「此奸有餘，而實不足。自古王臣無私盟者也，吾料之熟矣。」岳北合費也頭，東引紇豆陵伊利，西總侯莫陳悅、河州刺史梁景睿及酋渠為盟誓，共會平涼，移軍東下。",
     "entities": [
       {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 48,
+        "end": 52
+      },
+      {
         "text": "河州",
         "label": "LOC",
         "start": 53,
@@ -519,7 +532,14 @@
   {
     "sentence_id": "HCH_003_063_000057",
     "sentence": "後侯莫陳悅平，周文使景于京師告捷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 1,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_063_000058",
@@ -2171,6 +2191,12 @@
     "sentence": "周文帝時，襲爵美陽縣公，仕郡功曹。",
     "entities": [
       {
+        "text": "文帝時",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "襲爵美陽縣",
         "label": "LOC",
         "start": 5,
@@ -2188,6 +2214,12 @@
     "sentence_id": "HCH_003_063_000319",
     "sentence": "大塚宰宇文護見而禮之，以其女新興公主妻焉。",
     "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "公主",
         "label": "TITLE",
@@ -2893,6 +2925,12 @@
         "end": 15
       },
       {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 21,
@@ -3048,7 +3086,14 @@
   {
     "sentence_id": "HCH_003_063_000422",
     "sentence": "帝初從之，竟用宇文述等議，遂往東都。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_063_000423",
@@ -3063,7 +3108,14 @@
   {
     "sentence_id": "HCH_003_063_000425",
     "sentence": "宇文述曰：「盜賊信少，不足為虞。」威不能詭對，以身隱殿柱。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_063_000426",
@@ -3441,7 +3493,14 @@
   {
     "sentence_id": "HCH_003_063_000476",
     "sentence": "帝謂宇文述、虞世基曰：「四夷率服，觀禮華夏，鴻臚之職，須歸令望。甯有多才藝美容儀，可接賓客者為之乎？」威以夔對。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_063_000477",
@@ -3787,7 +3846,14 @@
   {
     "sentence_id": "HCH_003_063_000509",
     "sentence": "魏齊王蕭寶夤引為參軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_063_000510",
@@ -3848,14 +3914,7 @@
   {
     "sentence_id": "HCH_003_063_000517",
     "sentence": "賀拔岳為關西行台，引亮為左丞，典機密。",
-    "entities": [
-      {
-        "text": "賀拔岳為關",
-        "label": "LOC",
-        "start": 0,
-        "end": 5
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_063_000518",
@@ -4105,7 +4164,14 @@
   {
     "sentence_id": "HCH_003_063_000541",
     "sentence": "蕭寶夤西討，以湛為行台郎中，深見委任。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_063_000542",
@@ -4150,6 +4216,12 @@
     "sentence_id": "HCH_003_063_000547",
     "sentence": "帝嘗謂之曰：「聞卿答蕭寶夤，甚有美辭，可為我說之。」湛頓首謝曰：「臣自惟言辭不如伍被遠矣，然始終不易，竊謂過之。但臣與寶夤周旋契闊，言得盡心，而不能令其守節，此臣之罪也。」孝莊大悅，加散騎侍郎。",
     "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "侍郎",
         "label": "TITLE",

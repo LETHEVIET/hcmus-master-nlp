@@ -748,6 +748,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "王本立",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -1438,12 +1444,26 @@
   {
     "sentence_id": "HCH_008_044_000183",
     "sentence": "天寶八載，李林甫用事，罷立仗馬，亦省進馬官。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_044_000184",
     "sentence": "十二載，楊國忠當政，復立仗馬及進馬官，乾元復省，上元復置也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_044_000185",
@@ -2447,7 +2467,20 @@
   {
     "sentence_id": "HCH_008_044_000368",
     "sentence": "自李輔國、魚朝恩之後，京師兵柄，歸於內官，號左、右軍中尉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李輔國",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_044_000369",
@@ -9632,10 +9665,22 @@
         "end": 2
       },
       {
+        "text": "衛伯玉",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "鎮陝州",
         "label": "LOC",
         "start": 20,
         "end": 23
+      },
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },
@@ -14066,7 +14111,20 @@
   {
     "sentence_id": "HCH_008_044_002099",
     "sentence": "安、史之亂，肅宗討賊，以廣平王為天下兵馬元帥，又以大臣郭子儀、李光弼隨其方面副之，號為副元帥。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_044_002100",
@@ -14115,6 +14173,12 @@
         "label": "LOC",
         "start": 4,
         "end": 7
+      },
+      {
+        "text": "康承訓",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },

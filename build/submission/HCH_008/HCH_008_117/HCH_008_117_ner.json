@@ -31,6 +31,12 @@
     "sentence": "弱冠以門廕策名，隴右節度使哥舒翰奏充判官，遷侍御史。",
     "entities": [
       {
+        "text": "哥舒翰",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 23,
@@ -69,7 +75,14 @@
   {
     "sentence_id": "HCH_008_117_000009",
     "sentence": "以史思明阻兵不之官，優遊京師，頗自矜大。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_117_000010",
@@ -302,12 +315,25 @@
   {
     "sentence_id": "HCH_008_117_000025",
     "sentence": "郭英乂",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭英乂",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_117_000026",
     "sentence": "郭英乂，先朝隴右節度使、左羽林軍將軍知運之季子也。",
     "entities": [
+      {
+        "text": "郭英乂",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "將軍",
         "label": "TITLE",
@@ -366,6 +392,12 @@
     "sentence_id": "HCH_008_117_000032",
     "sentence": "朝廷方討史思明，選任將帥，乃起英乂為陜州刺史，充陜西節度、潼關防禦等使，尋加御史大夫，兼神策軍節度。",
     "entities": [
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "乃起英乂為陜州",
         "label": "LOC",
@@ -637,6 +669,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "鮮于仲通",
+        "label": "PER",
+        "start": 32,
+        "end": 36
       }
     ]
   },
@@ -738,6 +776,12 @@
     "sentence_id": "HCH_008_117_000063",
     "sentence": "旰曰：「節度使張獻誠見忌，且又好利，誠能重賂之，旰可以從大夫矣。」武至劍南，遺獻誠奇錦珍貝，價兼百金，獻誠大悅。",
     "entities": [
+      {
+        "text": "張獻誠",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "大夫",
         "label": "TITLE",
@@ -872,12 +916,26 @@
   {
     "sentence_id": "HCH_008_117_000075",
     "sentence": "時郭英幹為都知兵馬使，郭嘉琳為都虞候，皆請英幹兄英乂為節度使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭英幹",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_117_000076",
     "sentence": "旰時為西山都知兵馬使，與軍眾共請大將王崇俊為節度使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王崇俊",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_117_000077",
@@ -893,6 +951,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "王崇俊",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       },
       {
         "text": "成都",
@@ -967,7 +1031,14 @@
   {
     "sentence_id": "HCH_008_117_000086",
     "sentence": "初，天寶中，劍南節度使鮮于仲通嘗建一使院，院宇甚華麗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鮮于仲通",
+        "label": "PER",
+        "start": 11,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_117_000087",
@@ -1000,6 +1071,18 @@
         "label": "LOC",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "柏茂琳",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "郭英幹",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -1065,6 +1148,12 @@
         "end": 13
       },
       {
+        "text": "杜鴻漸",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
         "text": "成都",
         "label": "LOC",
         "start": 20,
@@ -1093,6 +1182,12 @@
         "label": "TITLE",
         "start": 45,
         "end": 47
+      },
+      {
+        "text": "張獻誠",
+        "label": "PER",
+        "start": 70,
+        "end": 73
       },
       {
         "text": "一年",
@@ -1128,7 +1223,14 @@
   {
     "sentence_id": "HCH_008_117_000099",
     "sentence": "先時，張獻誠數與旰戰，獻誠屢敗，旌節皆為旰所奪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張獻誠",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_117_000100",
@@ -1435,16 +1537,22 @@
     "sentence": "杜希全為靈州，王翃為振武，李建徽為鄜州，及戴休顏、杜從政、呂希倩等，皆炎署置也。",
     "entities": [
       {
-        "text": "杜希全為靈州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
+        "text": "戴休顏",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       },
       {
-        "text": "李建徽為鄜州",
-        "label": "LOC",
-        "start": 13,
-        "end": 19
+        "text": "杜從政",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "呂希倩",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -1463,6 +1571,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "呂希倩",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1480,6 +1594,12 @@
         "label": "TITLE",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "時常春",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -1617,6 +1737,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "楊子琳",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       },
       {
         "text": "成都",
@@ -2231,6 +2357,12 @@
         "label": "LOC",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2242,7 +2374,14 @@
   {
     "sentence_id": "HCH_008_117_000206",
     "sentence": "時李懷光連賊，德宗欲移幸山南。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_117_000207",
@@ -2339,7 +2478,14 @@
   {
     "sentence_id": "HCH_008_117_000220",
     "sentence": "翌日，車駕發奉天，及入駱谷，李懷光遣數百騎來襲，賴山南兵擊之而退，輿駕無警急之患。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_117_000221",
@@ -2630,6 +2776,18 @@
         "label": "TITLE",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "許孟容",
+        "label": "PER",
+        "start": 45,
+        "end": 48
+      },
+      {
+        "text": "李元素",
+        "label": "PER",
+        "start": 66,
+        "end": 69
       }
     ]
   },

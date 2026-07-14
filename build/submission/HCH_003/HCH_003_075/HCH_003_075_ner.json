@@ -2,12 +2,26 @@
   {
     "sentence_id": "HCH_003_075_000001",
     "sentence": "趙煚 趙芬 王韶 元巖 宇文㢸 伊婁謙 李圓通 郭榮 龐晃 李安 楊尚希 張煚 蘇孝慈 元壽",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊尚希",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_075_000002",
     "sentence": "趙煚 趙芬 王韶 元巖 宇文㢸 伊婁謙 李圓通 郭榮 龐晃 李安 楊尚希 張煚 蘇孝慈 元壽",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊尚希",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_075_000003",
@@ -160,6 +174,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -190,7 +210,14 @@
   {
     "sentence_id": "HCH_003_075_000022",
     "sentence": "明年，吳明徹屢為寇患，煚與前後十六戰，每挫其鋒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_075_000023",
@@ -850,14 +877,7 @@
   {
     "sentence_id": "HCH_003_075_000084",
     "sentence": "晉王廣之鎮并州，除行台右僕射，賜彩五百匹。",
-    "entities": [
-      {
-        "text": "晉王廣之鎮并州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_075_000085",
@@ -1080,7 +1100,14 @@
   {
     "sentence_id": "HCH_003_075_000111",
     "sentence": "大塚宰宇文護見而器之，以為中外記室。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_075_000112",
@@ -1460,6 +1487,12 @@
     "sentence": "其年，㢸又從梁士彥攻拔壽陽，改封安樂縣公，除澮州刺史，轉南司州刺史。",
     "entities": [
       {
+        "text": "梁士彥",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "改封安樂縣",
         "label": "LOC",
         "start": 14,
@@ -1635,7 +1668,14 @@
   {
     "sentence_id": "HCH_003_075_000165",
     "sentence": "劉仁恩之破陳將呂仲肅也，㢸有謀焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉仁恩",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_075_000166",
@@ -2288,7 +2328,14 @@
   {
     "sentence_id": "HCH_003_075_000233",
     "sentence": "判宇文述田還百姓，述訴其受賂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_075_000234",
@@ -2569,7 +2616,14 @@
   {
     "sentence_id": "HCH_003_075_000268",
     "sentence": "周大塚宰宇文護引為親信。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_075_000269",
@@ -3078,7 +3132,14 @@
   {
     "sentence_id": "HCH_003_075_000317",
     "sentence": "河間王弘之擊突厥。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王弘之",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_075_000318",
@@ -3528,12 +3589,26 @@
   {
     "sentence_id": "HCH_003_075_000361",
     "sentence": "楊尚希",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊尚希",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_075_000362",
     "sentence": "楊尚希，弘農人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊尚希",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_075_000363",
@@ -4249,6 +4324,12 @@
     "sentence": "開皇中，有劉仁恩者，政績為天下第一，擢拜刑部尚書。",
     "entities": [
       {
+        "text": "劉仁恩",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 22,
@@ -4739,6 +4820,12 @@
     "sentence": "開府蕭摩訶妻患且死，奏請遣子向江南收其家產，御史見而不言。",
     "entities": [
       {
+        "text": "蕭摩訶",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 22,
@@ -4755,6 +4842,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "蕭摩訶",
+        "label": "PER",
+        "start": 48,
+        "end": 51
       },
       {
         "text": "御史",
@@ -4967,7 +5060,14 @@
   {
     "sentence_id": "HCH_003_075_000490",
     "sentence": "楊尚希譽望隆重，張煚、蘇孝慈威稱貞幹，並擢自開皇之初，蓋當時之選也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊尚希",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_075_000491",

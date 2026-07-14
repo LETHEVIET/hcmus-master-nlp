@@ -2,7 +2,20 @@
   {
     "sentence_id": "HCH_008_065_000001",
     "sentence": "○高士廉 子履行　真行　長孫無忌",
-    "entities": []
+    "entities": [
+      {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 12,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_065_000002",
@@ -120,7 +133,14 @@
   {
     "sentence_id": "HCH_008_065_000014",
     "sentence": "事父母以孝聞，嶺南瘴癘，不可同行，留妻鮮于氏侍養，供給不足。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鮮于氏",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_065_000015",
@@ -228,6 +248,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 12,
+        "end": 16
       }
     ]
   },
@@ -484,10 +510,22 @@
         "end": 28
       },
       {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 34,
         "end": 36
+      },
+      {
+        "text": "令狐德棻",
+        "label": "PER",
+        "start": 36,
+        "end": 40
       }
     ]
   },
@@ -539,6 +577,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 5,
+        "end": 9
       },
       {
         "text": "刺史",
@@ -682,7 +726,14 @@
   {
     "sentence_id": "HCH_008_065_000067",
     "sentence": "太宗又命駕將臨之，司空玄齡以上餌藥石，不宜臨喪，抗表切諫，上曰：「朕之此行，豈獨為君臣之禮，兼以故舊情深，姻戚義重，卿勿復言也。」太宗從數百騎出興安門，至延喜門，長孫無忌馳至馬前諫曰：「餌石臨喪，經方明忌。陛下含育黎元，須為宗社珍愛。臣亡舅士廉知將不救，顧謂臣曰：『至尊覆戴恩隆，不遺簪履，亡歿之後，或致親臨。內省凡才，無益聖日，安可以死亡之餘，輒回宸駕，魂而有靈，負譴斯及。』陛下恩深故舊，亦請察其丹誠。」其言甚切，太宗猶不許。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 81,
+        "end": 85
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_065_000068",
@@ -733,7 +784,14 @@
   {
     "sentence_id": "HCH_008_065_000073",
     "sentence": "高宗即位，追贈太尉，與房玄齡、屈突通並配享太宗廟庭。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_065_000074",
@@ -885,6 +943,12 @@
         "end": 2
       },
       {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 5,
+        "end": 9
+      },
+      {
         "text": "左授洪州",
         "label": "LOC",
         "start": 12,
@@ -954,12 +1018,25 @@
   {
     "sentence_id": "HCH_008_065_000090",
     "sentence": "長孫無忌",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_065_000091",
     "sentence": "長孫無忌，字輔機，河南洛陽人。",
     "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
       {
         "text": "洛陽",
         "label": "LOC",
@@ -1082,12 +1159,74 @@
   {
     "sentence_id": "HCH_008_065_000106",
     "sentence": "於是奉旨密召房玄齡、杜如晦等共為籌略。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_065_000107",
     "sentence": "六月四日，無忌與尉遲敬德、侯君集、張公謹、劉師立、公孫武達、獨孤彥雲、杜君綽、鄭仁泰、李孟嘗等九人，入玄武門討建成、元吉，平之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 8,
+        "end": 12
+      },
+      {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "張公謹",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "劉師立",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "公孫武達",
+        "label": "PER",
+        "start": 25,
+        "end": 29
+      },
+      {
+        "text": "杜君綽",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      },
+      {
+        "text": "鄭仁泰",
+        "label": "PER",
+        "start": 39,
+        "end": 42
+      },
+      {
+        "text": "李孟嘗",
+        "label": "PER",
+        "start": 43,
+        "end": 46
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_065_000108",
@@ -1203,6 +1342,24 @@
         "end": 2
       },
       {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 12,
+        "end": 16
+      },
+      {
         "text": "勳各封一子為郡",
         "label": "LOC",
         "start": 21,
@@ -1226,6 +1383,12 @@
     "sentence_id": "HCH_008_065_000120",
     "sentence": "又因高士廉奏曰：「臣幸居外戚，恐招聖主私親之誚，敢以死請。」太宗曰：「朕之授官，必擇才行。若才行不至，縱朕至親，亦不虛授，襄邑王神符是也；若才有所適，雖怨仇而不棄，魏徵等是也。朕若以無忌居後兄之愛，當多遺子女金帛，何須委以重官，蓋是取其才行耳。無忌聰明鑑悟，雅有武略，公等所知，朕故委之台鼎。」無忌又上表切讓，詔報之曰：「昔黃帝得力牧而為五帝先，夏禹得咎繇而為三王祖，齊桓得管仲而為五伯長。朕自居籓邸，公為腹心，遂得廓清宇內，君臨天下。以公功績才望，允稱具瞻，故授此官，無宜多讓也。」太宗追思王業艱難，佐命之力，又作《威鳳賦》以賜無忌。",
     "entities": [
+      {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "襄邑",
         "label": "LOC",
@@ -1540,12 +1703,6 @@
         "end": 35
       },
       {
-        "text": "杜如晦可贈密州",
-        "label": "LOC",
-        "start": 44,
-        "end": 51
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 51,
@@ -1586,12 +1743,6 @@
         "label": "TITLE",
         "start": 106,
         "end": 108
-      },
-      {
-        "text": "公侯君集可陳州",
-        "label": "LOC",
-        "start": 111,
-        "end": 118
       },
       {
         "text": "刺史",
@@ -1690,12 +1841,6 @@
         "end": 181
       },
       {
-        "text": "尉遲敬德可宣州",
-        "label": "LOC",
-        "start": 182,
-        "end": 189
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 189,
@@ -1732,12 +1877,6 @@
         "end": 232
       },
       {
-        "text": "公段志玄可金州",
-        "label": "LOC",
-        "start": 232,
-        "end": 239
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 239,
@@ -1750,22 +1889,10 @@
         "end": 254
       },
       {
-        "text": "公程知節可普州",
-        "label": "LOC",
-        "start": 257,
-        "end": 264
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 264,
         "end": 266
-      },
-      {
-        "text": "公劉弘基可朗州",
-        "label": "LOC",
-        "start": 279,
-        "end": 286
       },
       {
         "text": "刺史",
@@ -1814,6 +1941,12 @@
         "label": "LOC",
         "start": 29,
         "end": 35
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 45,
+        "end": 48
       }
     ]
   },
@@ -2093,10 +2226,22 @@
         "end": 220
       },
       {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 221,
+        "end": 224
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 229,
         "end": 232
+      },
+      {
+        "text": "張公謹",
+        "label": "PER",
+        "start": 236,
+        "end": 239
       },
       {
         "text": "大將軍",
@@ -2105,16 +2250,34 @@
         "end": 246
       },
       {
+        "text": "程知節",
+        "label": "PER",
+        "start": 250,
+        "end": 253
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 257,
         "end": 259
       },
       {
+        "text": "虞世南",
+        "label": "PER",
+        "start": 265,
+        "end": 268
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 272,
         "end": 274
+      },
+      {
+        "text": "劉政會",
+        "label": "PER",
+        "start": 278,
+        "end": 281
       },
       {
         "text": "大夫",
@@ -2139,12 +2302,6 @@
         "label": "TITLE",
         "start": 305,
         "end": 307
-      },
-      {
-        "text": "故徐州",
-        "label": "LOC",
-        "start": 313,
-        "end": 316
       }
     ]
   },
@@ -2189,6 +2346,12 @@
     "sentence_id": "HCH_008_065_000204",
     "sentence": "御兩儀殿，群官盡出，獨留無忌及司空房玄齡、兵部尚書李勣，謂曰：「我三子一弟，所為如此，我心無憀。」因自投於床，抽佩刀欲自刺。",
     "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -2235,10 +2398,34 @@
         "end": 67
       },
       {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 180,
+        "end": 183
+      },
+      {
         "text": "唐",
         "label": "ORG",
         "start": 216,
         "end": 217
+      },
+      {
+        "text": "楊師道",
+        "label": "PER",
+        "start": 254,
+        "end": 257
+      },
+      {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 285,
+        "end": 288
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 381,
+        "end": 384
       },
       {
         "text": "十九年",
@@ -2287,6 +2474,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -2402,6 +2595,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -2409,6 +2608,12 @@
     "sentence_id": "HCH_008_065_000224",
     "sentence": "帝后又召無忌、左僕射於志寧、右僕射褚遂良，謂曰：「武昭儀有令德，朕欲立為皇后，卿等以為如何？」無忌曰：「自貞觀二十三年後，先朝付託遂良，望陛下問其可否。」帝竟不從無忌等言而立昭儀為皇后。",
     "entities": [
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
       {
         "text": "皇后",
         "label": "TITLE",
@@ -2452,6 +2657,12 @@
         "end": 4
       },
       {
+        "text": "令狐德棻",
+        "label": "PER",
+        "start": 14,
+        "end": 18
+      },
+      {
         "text": "封其子潤為金城",
         "label": "LOC",
         "start": 50,
@@ -2470,10 +2681,22 @@
         "end": 2
       },
       {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "辛茂將",
+        "label": "PER",
+        "start": 37,
+        "end": 40
       }
     ]
   },
@@ -2486,6 +2709,18 @@
         "label": "TITLE",
         "start": 30,
         "end": 32
+      },
+      {
+        "text": "房遺愛",
+        "label": "PER",
+        "start": 41,
+        "end": 44
+      },
+      {
+        "text": "房遺愛",
+        "label": "PER",
+        "start": 73,
+        "end": 76
       },
       {
         "text": "三十年",
@@ -2523,10 +2758,10 @@
         "end": 8
       },
       {
-        "text": "正袁公瑜就黔州",
-        "label": "LOC",
-        "start": 14,
-        "end": 21
+        "text": "李義府",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },

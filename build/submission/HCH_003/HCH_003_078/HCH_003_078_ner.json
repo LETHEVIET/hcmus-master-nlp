@@ -212,7 +212,14 @@
   {
     "sentence_id": "HCH_003_078_000028",
     "sentence": "坐外祖楊佺期除名，徙于南譙，因寓居之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊佺期",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_078_000029",
@@ -433,6 +440,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "歐陽頠",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -716,7 +729,14 @@
   {
     "sentence_id": "HCH_003_078_000086",
     "sentence": "命平壤道敗將宇文述等百餘人皆爲執紼，王公以下送至郊外。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_078_000087",

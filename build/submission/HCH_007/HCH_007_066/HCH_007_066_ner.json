@@ -2,7 +2,14 @@
   {
     "sentence_id": "HCH_007_066_000001",
     "sentence": "安重誨，其先本北部豪長。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_066_000002",
@@ -107,6 +114,12 @@
         "end": 7
       },
       {
+        "text": "徐知誥",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
         "text": "吳國",
         "label": "ORG",
         "start": 20,
@@ -158,6 +171,24 @@
     "sentence_id": "HCH_007_066_000016",
     "sentence": "明宗謂重誨曰：「聞卿樹心腹，私市兵仗，欲自討淮南，有之否？」重誨惶恐，奏曰：「興師命將，出自宸衷，必是奸人結構，臣願陛下窮詰所言者。」翌日，帝召侍衛指揮使安從進、藥彥稠等，謂之曰：「有人告安重誨私置兵仗，將不利於社稷，其若之何？」從進等奏曰：「此是奸人結構，離間陛下勳舊。且重誨事陛下三十年，從微至著，無不盡心，今日何苦乃圖不軌！臣等以家屬保明，必無此事。」帝意乃解。",
     "entities": [
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 77,
+        "end": 80
+      },
+      {
+        "text": "藥彥稠",
+        "label": "PER",
+        "start": 81,
+        "end": 84
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 94,
+        "end": 97
+      },
       {
         "text": "三十年",
         "label": "TME",
@@ -216,6 +247,12 @@
     "sentence": "及石敬瑭領王師伐蜀，峽路艱阻，糧運不繼，明宗憂之，而重誨請行。",
     "entities": [
       {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "蜀",
         "label": "ORG",
         "start": 8,
@@ -236,7 +273,14 @@
   {
     "sentence_id": "HCH_007_066_000025",
     "sentence": "重誨至鳳翔，節度使朱弘昭延於寢室，令妻子奉食器，敬事尤謹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱弘昭",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_066_000026",
@@ -246,7 +290,14 @@
   {
     "sentence_id": "HCH_007_066_000027",
     "sentence": "重誨既辭，弘昭遣人具奏：「重誨怨望出惡言，不可令至行營，恐奪石敬瑭兵柄。」而宣徽使孟漢瓊自西回，亦奏重誨過惡。",
-    "entities": []
+    "entities": [
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_066_000028",
@@ -256,7 +307,14 @@
   {
     "sentence_id": "HCH_007_066_000029",
     "sentence": "再過鳳翔，朱弘昭拒而不納，重誨懼，急騎奔程，未至京師，製授河中帥。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱弘昭",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_066_000030",
@@ -295,7 +353,14 @@
   {
     "sentence_id": "HCH_007_066_000034",
     "sentence": "時遣翟光鄴使河中，如察重誨有異志，則誅之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "翟光鄴",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_066_000035",
@@ -336,10 +401,22 @@
         "end": 17
       },
       {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      },
+      {
         "text": "《五代史闕文》",
         "label": "TITLE",
         "start": 126,
         "end": 133
+      },
+      {
+        "text": "翟光鄴",
+        "label": "PER",
+        "start": 137,
+        "end": 140
       },
       {
         "text": "《明宗實錄》",
@@ -352,7 +429,14 @@
   {
     "sentence_id": "HCH_007_066_000039",
     "sentence": "朱弘昭，太原人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱弘昭",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_066_000040",
@@ -420,6 +504,12 @@
         "label": "ORG",
         "start": 15,
         "end": 16
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -464,12 +554,6 @@
         "label": "TME",
         "start": 2,
         "end": 4
-      },
-      {
-        "text": "代康義誠為襄州",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
       }
     ]
   },
@@ -523,6 +607,12 @@
         "label": "LOC",
         "start": 3,
         "end": 8
+      },
+      {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -563,6 +653,12 @@
     "sentence": "安從進既殺馮贇，斷弘昭首，俱傳於陝州。",
     "entities": [
       {
+        "text": "安從進",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "俱傳於陝州",
         "label": "LOC",
         "start": 13,
@@ -600,7 +696,14 @@
   {
     "sentence_id": "HCH_007_066_000067",
     "sentence": "及朱弘昭為樞密使，勢焰尤甚，洪實以宗兄事之，意頗相協。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱弘昭",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_066_000068",
@@ -610,7 +713,14 @@
   {
     "sentence_id": "HCH_007_066_000069",
     "sentence": "時康義誠以其子事於秦府，故恒持兩端。",
-    "entities": []
+    "entities": [
+      {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_066_000070",
@@ -659,7 +769,14 @@
   {
     "sentence_id": "HCH_007_066_000076",
     "sentence": "康義誠，字信臣，代北三部落人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_066_000077",
@@ -752,6 +869,12 @@
         "end": 9
       },
       {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "別詰其鄉",
         "label": "LOC",
         "start": 62,
@@ -777,7 +900,14 @@
   {
     "sentence_id": "HCH_007_066_000089",
     "sentence": "及朱弘昭、馮贇等懼禍，謀於義誠，但云：「仆為將校，不敢預議，但相公所使耳。」及秦王既誅，明宗宴駕，閔帝即位，加檢校太尉、兼侍中，判六軍諸衛事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱弘昭",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_066_000090",
@@ -809,7 +939,14 @@
   {
     "sentence_id": "HCH_007_066_000094",
     "sentence": "藥彥稠，沙陀三部落人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "藥彥稠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_066_000095",
@@ -838,12 +975,6 @@
     "sentence_id": "HCH_007_066_000097",
     "sentence": "從王晏球討王都於定州，平之，領壽州節度使、侍衛步軍都虞候。",
     "entities": [
-      {
-        "text": "球討王都於定州",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      },
       {
         "text": "領壽州",
         "label": "LOC",
@@ -919,7 +1050,14 @@
   {
     "sentence_id": "HCH_007_066_000103",
     "sentence": "閔帝嗣位，與王思同攻鳳翔，為副招討使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王思同",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_066_000104",
@@ -941,7 +1079,14 @@
   {
     "sentence_id": "HCH_007_066_000106",
     "sentence": "漢高祖即位，與王思同並製贈侍中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王思同",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_066_000107",

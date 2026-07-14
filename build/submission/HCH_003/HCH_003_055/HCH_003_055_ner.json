@@ -2,7 +2,26 @@
   {
     "sentence_id": "HCH_003_055_000001",
     "sentence": "孫搴 陳元康 杜弼 子臺卿 房謨 子恭懿 張纂 張亮 趙起 徐遠 張曜 王峻 王紘 敬顯雋 平鑒 唐邕 白建 元文遙 趙彥深 赫連 子悅 馮子琮 子慈明 郎基 子茂",
-    "entities": []
+    "entities": [
+      {
+        "text": "敬顯雋",
+        "label": "PER",
+        "start": 42,
+        "end": 45
+      },
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 59,
+        "end": 62
+      },
+      {
+        "text": "馮子琮",
+        "label": "PER",
+        "start": 69,
+        "end": 72
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_055_000002",
@@ -65,6 +84,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "李義深",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       },
       {
         "text": "相府城",
@@ -254,7 +279,14 @@
   {
     "sentence_id": "HCH_003_055_000038",
     "sentence": "神武甚親之，曰：「如此人，世間希有，我今得之，乃上天降佐也。」時趙彥深亦知機密，人謂之陳、趙，而元康勢居趙前。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_055_000039",
@@ -315,6 +347,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "盧道虔",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -388,7 +426,14 @@
   {
     "sentence_id": "HCH_003_055_000062",
     "sentence": "文襄嗣事，自晉陽將之鄴，令元康預作神武條教數十紙，留付段孝先、趙彥深，在後以次行之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_055_000063",
@@ -420,7 +465,14 @@
   {
     "sentence_id": "HCH_003_055_000067",
     "sentence": "元康曰：「相樂緩於機變，不如慕容紹宗。且先王有命，稱堪敵景。」時紹宗在遠，文襄欲召見之，恐其驚叛。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 14,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_055_000068",
@@ -668,14 +720,7 @@
   {
     "sentence_id": "HCH_003_055_000100",
     "sentence": "州牧任城王澄聞而召問，深相嗟賞，許以王佐之才。",
-    "entities": [
-      {
-        "text": "州牧任城",
-        "label": "LOC",
-        "start": 0,
-        "end": 4
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_055_000101",
@@ -931,6 +976,12 @@
         "label": "LOC",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 21,
+        "end": 25
       }
     ]
   },
@@ -1315,7 +1366,14 @@
   {
     "sentence_id": "HCH_003_055_000173",
     "sentence": "趙彥深、和士開、高阿那肱等親信之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_055_000174",
@@ -2077,7 +2135,14 @@
   {
     "sentence_id": "HCH_003_055_000258",
     "sentence": "後與任冑等謀殺神武，事發，神武歎曰：「知子莫若父，信哉！」因上言房謨、鄭述祖、李道幡三家，理宜從法，竊以謨立身清白，履行忠謹；鄭仲禮嚴祖庶兒，晚始收拾；李世林生自外養，屬絕本宗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭述祖",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_055_000259",
@@ -2440,6 +2505,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -2754,7 +2825,14 @@
   {
     "sentence_id": "HCH_003_055_000342",
     "sentence": "趙彥深嘗謂之曰：「君研尋左氏，豈求杜、服繆邪？」曜曰：「何為其然乎？左氏之書，備敘言事，惡者可以自戒，善者可以庶幾。故勵已溫尋，非欲詆訶古人得失也。」",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_055_000343",
@@ -3019,6 +3097,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "敬顯儁",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },
@@ -3140,12 +3224,26 @@
   {
     "sentence_id": "HCH_003_055_000389",
     "sentence": "敬顯儁",
-    "entities": []
+    "entities": [
+      {
+        "text": "敬顯儁",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_055_000390",
     "sentence": "敬顯儁，字孝英，陽平太平人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "敬顯儁",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_055_000391",
@@ -3331,6 +3429,12 @@
         "label": "LOC",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "慕容儼",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -3676,6 +3780,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -4588,7 +4698,14 @@
   {
     "sentence_id": "HCH_003_055_000534",
     "sentence": "既與趙彥深、和士開同被任遇，雖不如彥深清貞守道，又不為士開貪淫亂政，在於季孟之間。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_055_000535",
@@ -4760,7 +4877,14 @@
   {
     "sentence_id": "HCH_003_055_000554",
     "sentence": "趙彥深",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_055_000555",
@@ -5311,7 +5435,14 @@
   {
     "sentence_id": "HCH_003_055_000618",
     "sentence": "時馮子琮子慈明、祖珽子君信並相繼居中書，故時語云：「馮、祖及趙，穢我鳳池。」然叔堅身才最劣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮子琮",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_055_000619",
@@ -5501,12 +5632,26 @@
   {
     "sentence_id": "HCH_003_055_000636",
     "sentence": "馮子琮",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮子琮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_055_000637",
     "sentence": "馮子琮，字子琮，長樂信都人，北燕主馮弘之後也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮子琮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_055_000638",
@@ -5552,7 +5697,14 @@
   {
     "sentence_id": "HCH_003_055_000641",
     "sentence": "子琮性識聰敏，為外祖滎陽鄭伯猷所異。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭伯猷",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_055_000642",
@@ -5628,6 +5780,12 @@
         "end": 7
       },
       {
+        "text": "胡長粲",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 18,
@@ -5674,7 +5832,14 @@
   {
     "sentence_id": "HCH_003_055_000653",
     "sentence": "後與胡長粲有隙，武成深誡之曰：「脣亡齒寒，勿復如此。」武成在晉陽，既居舊殿，少帝未有別所，詔子琮監造大明宮。",
-    "entities": []
+    "entities": [
+      {
+        "text": "胡長粲",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_055_000654",
@@ -5806,7 +5971,14 @@
   {
     "sentence_id": "HCH_003_055_000670",
     "sentence": "斛律光將兵度玉壁，至龍門。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_055_000671",
@@ -5816,7 +5988,14 @@
   {
     "sentence_id": "HCH_003_055_000672",
     "sentence": "詔子琮乘傳赴軍，與周將韋孝寬面相要結。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_055_000673",
@@ -6184,7 +6363,14 @@
   {
     "sentence_id": "HCH_003_055_000718",
     "sentence": "梁將吳明徹攻圍海西，基固守，乃至削木為箭，剪紙為羽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_055_000719",
@@ -6195,6 +6381,12 @@
         "label": "TITLE",
         "start": 47,
         "end": 49
+      },
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 51,
+        "end": 54
       },
       {
         "text": "御史",
@@ -6353,6 +6545,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       },
       {
         "text": "刺史",

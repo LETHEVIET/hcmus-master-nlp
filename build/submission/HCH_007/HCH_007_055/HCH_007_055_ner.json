@@ -142,12 +142,26 @@
   {
     "sentence_id": "HCH_007_055_000013",
     "sentence": "文德初，李罕之既失河陽，來歸於武皇，且求援焉，乃以君立充南面招討使，李存孝副之，帥師二萬，助罕之攻取河陽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李存孝",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_055_000014",
     "sentence": "三月，與汴將丁會、牛存節戰於沇河。",
-    "entities": []
+    "entities": [
+      {
+        "text": "牛存節",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_055_000015",
@@ -216,12 +230,6 @@
         "label": "TME",
         "start": 0,
         "end": 2
-      },
-      {
-        "text": "李存孝據邢州",
-        "label": "LOC",
-        "start": 3,
-        "end": 9
       }
     ]
   },
@@ -401,7 +409,14 @@
   {
     "sentence_id": "HCH_007_055_000040",
     "sentence": "史建瑭，字國寶。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史建瑭",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_055_000041",
@@ -635,6 +650,12 @@
     "sentence": "都將符存審謂建瑭曰：「梁軍倘以五十萬來，我等何以待之？」裨將趙行實曰：「走入土門為上策。 」存審曰：「事未可知，但老賊在東，別將西來，尚可徐圖。」不旬日，楊師厚圍棗強，賀德倫圍蓚縣，梁祖自至，攻城甚急。",
     "entities": [
       {
+        "text": "符存審",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "賀德倫圍蓚縣",
         "label": "LOC",
         "start": 84,
@@ -689,12 +710,6 @@
         "label": "TME",
         "start": 0,
         "end": 3
-      },
-      {
-        "text": "存審前軍屯魏縣",
-        "label": "LOC",
-        "start": 13,
-        "end": 20
       }
     ]
   },
@@ -1027,7 +1042,14 @@
   {
     "sentence_id": "HCH_007_055_000096",
     "sentence": "〈 （十國春秋·吳列傳》：太祖署為淮南行軍副使。） 〉 武皇深惜之，如失左右手，乃遣趙嶽間道使於淮南，請歸承嗣等；楊行密許之，遣使陳令存請修好於武皇。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊行密",
+        "label": "PER",
+        "start": 57,
+        "end": 60
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_055_000097",
@@ -1464,6 +1486,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -1540,7 +1568,14 @@
   {
     "sentence_id": "HCH_007_055_000148",
     "sentence": "既而敬鎔白，貞簡太后惶駭，召張承業、李存璋等圖之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_055_000149",

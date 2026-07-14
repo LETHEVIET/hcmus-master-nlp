@@ -12,7 +12,14 @@
   {
     "sentence_id": "HCH_008_059_000003",
     "sentence": "李襲志 弟襲譽子懷亻嚴 姜謩 子行本 行本子簡　簡子晞　簡弟柔遠　柔遠子皎　晦　皎男慶初",
-    "entities": []
+    "entities": [
+      {
+        "text": "李襲志",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_059_000004",
@@ -278,6 +285,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -342,12 +355,26 @@
   {
     "sentence_id": "HCH_008_059_000037",
     "sentence": "通適進路，而顯和降於劉文靜。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_059_000038",
     "sentence": "遣副將竇琮、段志玄等率精騎與顯和追之，及於稠桑。",
-    "entities": []
+    "entities": [
+      {
+        "text": "段志玄",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_059_000039",
@@ -425,6 +452,12 @@
         "label": "LOC",
         "start": 154,
         "end": 156
+      },
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 157,
+        "end": 160
       },
       {
         "text": "洛陽",
@@ -567,6 +600,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -798,6 +837,12 @@
         "label": "TITLE",
         "start": 296,
         "end": 298
+      },
+      {
+        "text": "史大奈",
+        "label": "PER",
+        "start": 304,
+        "end": 307
       }
     ]
   },
@@ -886,12 +931,6 @@
         "end": 4
       },
       {
-        "text": "屬徐圓朗據兗州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      },
-      {
         "text": "戴諸州",
         "label": "LOC",
         "start": 16,
@@ -914,12 +953,6 @@
         "label": "LOC",
         "start": 49,
         "end": 55
-      },
-      {
-        "text": "謹自鄢陵領諸州",
-        "label": "LOC",
-        "start": 63,
-        "end": 70
       },
       {
         "text": "子百餘人守虞城",
@@ -996,6 +1029,12 @@
     "sentence_id": "HCH_008_059_000088",
     "sentence": "及輔公祏平，拜邢州都督。",
     "entities": [
+      {
+        "text": "輔公祏",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "拜邢州",
         "label": "LOC",
@@ -1287,7 +1326,14 @@
   {
     "sentence_id": "HCH_008_059_000111",
     "sentence": "銑利之，遣長真率百越之眾渡海侵和，和遣高士廉率交、愛首領擊之，長真退走，境內獲全，郡中樹碑頌德。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_059_000112",
@@ -1311,6 +1357,12 @@
     "sentence": "詔使李道裕即授上柱國、譚國公、交州總管。",
     "entities": [
       {
+        "text": "李道裕",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "交州",
         "label": "LOC",
         "start": 15,
@@ -1327,6 +1379,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -1489,6 +1547,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -1519,6 +1583,12 @@
     "sentence_id": "HCH_008_059_000133",
     "sentence": "因從侯君集平高昌，封天水郡公，累除右武候將軍。",
     "entities": [
+      {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "封天水郡",
         "label": "LOC",
@@ -1695,7 +1765,14 @@
   {
     "sentence_id": "HCH_008_059_000149",
     "sentence": "嘗受詔鞫獄，與周興、來俊臣等俱號為酷吏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_059_000150",
@@ -1900,7 +1977,14 @@
   {
     "sentence_id": "HCH_008_059_000165",
     "sentence": "紹遣智仁及錄事參軍李弘節、子婿張玄靜追至西陵硤，大破之，生擒普環，收其船艦。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李弘節",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_059_000166",
@@ -1935,14 +2019,7 @@
   {
     "sentence_id": "HCH_008_059_000167",
     "sentence": "紹遣智仁及李弘節攻荊門鎮，破之。",
-    "entities": [
-      {
-        "text": "李弘節攻荊門鎮",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_059_000168",
@@ -2040,14 +2117,7 @@
   {
     "sentence_id": "HCH_008_059_000177",
     "sentence": "安東都督裴玄珪時在城下，欽寂謂之曰：「狂賊天殃，滅在朝夕，公但謹守勵兵，以全忠節。」賊大怒，遂害之。",
-    "entities": [
-      {
-        "text": "督裴玄珪時在城",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_059_000178",
@@ -2282,6 +2352,12 @@
     "sentence": "俄以子自然因獵射殺人，隱而不奏，又為李義府所擠，左遷虔州刺史。",
     "entities": [
       {
+        "text": "李義府",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "左遷虔州",
         "label": "LOC",
         "start": 24,
@@ -2362,24 +2438,31 @@
   {
     "sentence_id": "HCH_008_059_000200",
     "sentence": "李襲志",
-    "entities": []
+    "entities": [
+      {
+        "text": "李襲志",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_059_000201",
     "sentence": "李襲志，字重光，本隴西狄道人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李襲志",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_059_000202",
     "sentence": "五葉祖景避地安康，復稱金州安康人也。",
-    "entities": [
-      {
-        "text": "復稱金州",
-        "label": "LOC",
-        "start": 9,
-        "end": 13
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_059_000203",
@@ -2455,7 +2538,14 @@
   {
     "sentence_id": "HCH_008_059_000208",
     "sentence": "後聞宇文化及弒逆，乃集士庶舉哀三日。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文化及",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_059_000209",
@@ -2508,6 +2598,12 @@
         "label": "LOC",
         "start": 22,
         "end": 29
+      },
+      {
+        "text": "李光度",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       }
     ]
   },
@@ -2575,6 +2671,12 @@
     "sentence_id": "HCH_008_059_000214",
     "sentence": "及輔公祏反，又以襲志為水軍總管討平之，轉桂州都督。",
     "entities": [
+      {
+        "text": "輔公祏",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "轉桂州",
         "label": "LOC",
@@ -3232,6 +3334,12 @@
     "sentence": "遂與侯君集進平高昌，璽書勞之曰：「攻戰之重，器械為先，將士屬心，待以制敵。卿星言就路，躬事修營，干戈才動，梯衝暫臨。三軍勇士，因斯樹績；萬里逋寇，用是克平。方之前古，豈足相況！」及還，進封金城郡公，賜物一百五十段、奴婢七十人。",
     "entities": [
       {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "進封金城郡",
         "label": "LOC",
         "start": 92,
@@ -3368,6 +3476,12 @@
     "sentence": "及竇懷貞等潛謀逆亂，玄宗將討之，皎協贊謀議，以功拜殿中監，封楚國公，實封四百戶。",
     "entities": [
       {
+        "text": "竇懷貞",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "楚國",
         "label": "ORG",
         "start": 30,
@@ -3463,7 +3577,20 @@
   {
     "sentence_id": "HCH_008_059_000297",
     "sentence": "仍為宗楚客、紀處訥等密奏，請投皎炎荒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宗楚客",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "紀處訥",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_059_000298",
@@ -3603,7 +3730,20 @@
   {
     "sentence_id": "HCH_008_059_000317",
     "sentence": "嶠，即王守一之妹夫；中書令張嘉貞希守一意，構成其罪，仍奏請先決杖配流嶺外。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王守一",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "張嘉貞",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_059_000318",
@@ -3643,7 +3783,14 @@
   {
     "sentence_id": "HCH_008_059_000321",
     "sentence": "源乾曜時為侍中，不能有所持正，論者亦深譏之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "源乾曜",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_059_000322",
@@ -3748,7 +3895,14 @@
   {
     "sentence_id": "HCH_008_059_000329",
     "sentence": "李林甫為相，當軸用事，林甫即皎之甥，從容奏之，故驟加恩命。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_059_000330",
@@ -3797,7 +3951,14 @@
   {
     "sentence_id": "HCH_008_059_000336",
     "sentence": "任瑰、丘和、許紹、李襲志咸遇真主，得為故人，或敘舊立功，或率眾歸國。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李襲志",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_059_000337",

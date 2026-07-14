@@ -47,6 +47,12 @@
         "end": 4
       },
       {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 151,
+        "end": 154
+      },
+      {
         "text": "漢",
         "label": "ORG",
         "start": 174,
@@ -114,7 +120,14 @@
   {
     "sentence_id": "HCH_006_075_000014",
     "sentence": "自董仲舒、韓嬰死後，武帝得始昌，甚重之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_075_000015",
@@ -248,12 +261,6 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
-      },
-      {
-        "text": "安世謀欲廢昌邑",
-        "label": "LOC",
-        "start": 10,
-        "end": 17
       }
     ]
   },
@@ -1057,7 +1064,14 @@
   {
     "sentence_id": "HCH_006_075_000101",
     "sentence": "治齊詩，與蕭望之、匡衡同師。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_075_000102",
@@ -1262,6 +1276,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "翟方進",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -1544,7 +1564,14 @@
   {
     "sentence_id": "HCH_006_075_000158",
     "sentence": "漢興推陰陽言災異者，孝武時有董仲舒、夏侯始昌，昭、宣則眭孟、夏侯勝，元、成則京房、翼奉、劉向、谷永，哀、平則李尋、田終術。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_075_000159",

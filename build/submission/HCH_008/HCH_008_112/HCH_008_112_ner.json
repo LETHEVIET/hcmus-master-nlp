@@ -7,7 +7,14 @@
   {
     "sentence_id": "HCH_008_112_000002",
     "sentence": "李麟李國貞子锜",
-    "entities": []
+    "entities": [
+      {
+        "text": "李國貞",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_112_000003",
@@ -162,7 +169,14 @@
   {
     "sentence_id": "HCH_008_112_000020",
     "sentence": "樹碑之日，詔張守珪、李行袆與吐蕃使莽布支同往觀焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張守珪",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_112_000021",
@@ -315,6 +329,12 @@
     "sentence": "齊物與右相李適之善，適之為林甫所構貶官，齊物坐謫竟陵太守。",
     "entities": [
       {
+        "text": "李適之",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "太守",
         "label": "TITLE",
         "start": 26,
@@ -417,7 +437,14 @@
   {
     "sentence_id": "HCH_008_112_000041",
     "sentence": "精曉吏道，衛伯玉厚遇之，府中之事，多以咨委。",
-    "entities": []
+    "entities": [
+      {
+        "text": "衛伯玉",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_112_000042",
@@ -452,7 +479,20 @@
   {
     "sentence_id": "HCH_008_112_000043",
     "sentence": "李希烈背叛，荊南節度張伯儀數出兵，為希烈所敗，朝廷憂之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "張伯儀",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_112_000044",
@@ -548,6 +588,18 @@
     "sentence": "會安南經略使高正平、張應相次卒官，其下參佐偏裨李元度、胡懷義等阻兵，黷亂州縣，奸贓狼藉。",
     "entities": [
       {
+        "text": "高正平",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "李元度",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
         "text": "黷亂州縣",
         "label": "LOC",
         "start": 34,
@@ -604,6 +656,12 @@
         "label": "LOC",
         "start": 4,
         "end": 7
+      },
+      {
+        "text": "李元諒",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       },
       {
         "text": "以復為華州",
@@ -925,7 +983,14 @@
   {
     "sentence_id": "HCH_008_112_000076",
     "sentence": "同列楊國忠專權，不悅麟同職，宰臣奏麟以本官權知禮部貢舉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_112_000077",
@@ -984,6 +1049,12 @@
         "label": "TITLE",
         "start": 25,
         "end": 27
+      },
+      {
+        "text": "呂崇賁",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -1049,7 +1120,14 @@
   {
     "sentence_id": "HCH_008_112_000086",
     "sentence": "時扈從宰相韋見素、房琯、崔渙已赴鳳翔，俄而崔圓繼去，玄宗以麟宗室子，獨留之，行在百司，麟總攝其事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋見素",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_112_000087",
@@ -1080,6 +1158,12 @@
         "end": 4
       },
       {
+        "text": "李輔國",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 36,
@@ -1090,7 +1174,14 @@
   {
     "sentence_id": "HCH_008_112_000089",
     "sentence": "宰相苗晉卿、崔圓已下懼其威權，傾心事之，唯麟正身謹事，無所依附，輔國不悅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "苗晉卿",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_112_000090",
@@ -1141,12 +1232,26 @@
   {
     "sentence_id": "HCH_008_112_000094",
     "sentence": "李國貞",
-    "entities": []
+    "entities": [
+      {
+        "text": "李國貞",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_112_000095",
     "sentence": "李國貞，淮安王神通子、淄川王孝同之曾孫。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李國貞",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_112_000096",
@@ -1188,10 +1293,10 @@
     "sentence": "會史思明逼城，元帥李光弼東保河陽，國貞領官吏寓於陜。",
     "entities": [
       {
-        "text": "會史思明逼城",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
+        "text": "李光弼",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1385,6 +1490,12 @@
     "sentence": "多以寶貨賂李齊運，由是遷潤州刺史兼鹽鐵使，持積財進奉，以結恩澤，德宗甚寵之。",
     "entities": [
       {
+        "text": "李齊運",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "由是遷潤州",
         "label": "LOC",
         "start": 9,
@@ -1401,7 +1512,14 @@
   {
     "sentence_id": "HCH_008_112_000115",
     "sentence": "锜恃恩驕恣，有浙西人布衣崔善貞詣闕上封，論锜罪狀，而德宗械送賜锜，锜遂坑殺善貞，天下切齒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔善貞",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_112_000116",
@@ -1546,6 +1664,18 @@
         "end": 6
       },
       {
+        "text": "張子良",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "李奉仙",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
         "text": "池等州",
         "label": "LOC",
         "start": 38,
@@ -1557,6 +1687,12 @@
     "sentence_id": "HCH_008_112_000127",
     "sentence": "三將夙有向順誌，而锜甥裴行立亦思向順，其密謀多決於行立，乃回戈趣城，執锜於幕，縋而出之，斬於闕下，年六十七。",
     "entities": [
+      {
+        "text": "裴行立",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "乃回戈趣城",
         "label": "LOC",
@@ -1611,6 +1747,12 @@
     "sentence_id": "HCH_008_112_000135",
     "sentence": "楊國忠秉政，郎官不附己者悉出於外，峘自考功郎中出為睢陽太守。",
     "entities": [
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "太守",
         "label": "TITLE",
@@ -1806,6 +1948,12 @@
         "label": "LOC",
         "start": 29,
         "end": 34
+      },
+      {
+        "text": "鄧景山",
+        "label": "PER",
+        "start": 36,
+        "end": 39
       }
     ]
   },
@@ -1948,6 +2096,12 @@
     "sentence": "天寶十三載，連雨六十余日，宰臣楊國忠惡其不附己，以雨災歸咎京兆尹，乃出為長沙郡太守。",
     "entities": [
       {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
         "text": "乃出為長沙郡",
         "label": "LOC",
         "start": 33,
@@ -2060,6 +2214,12 @@
     "sentence": "初，李輔國判行軍司馬，潛令官軍於人間聽察是非，謂之察事。",
     "entities": [
       {
+        "text": "李輔國",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 8,
@@ -2126,6 +2286,12 @@
         "label": "TITLE",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "謝夷甫",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -2160,6 +2326,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "崔伯陽",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       },
       {
         "text": "侍郎",
@@ -2254,6 +2426,12 @@
     "sentence": "時右散騎常侍韓擇木入對，上謂之曰：「峴欲專權耶？何乃雲任毛若虛是無御史臺也？令貶蜀州刺史，朕自覺用法太寬。」擇木對曰：「峴言直，非專權。陛下寬之，祗益聖德爾。」",
     "entities": [
       {
+        "text": "韓擇木",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 33,
@@ -2320,7 +2498,14 @@
   {
     "sentence_id": "HCH_008_112_000186",
     "sentence": "初收東京，受偽官陳希烈已下數百人，崔器希旨深刻，奏皆處死；上意亦欲懲勸天下，欲從器議。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳希烈",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_112_000187",
@@ -2474,6 +2659,18 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "楊慎矜",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -2515,7 +2712,14 @@
   {
     "sentence_id": "HCH_008_112_000204",
     "sentence": "楊國忠素與巨相識，忌之，謂人曰：「如此小兒，豈得令見人主！」經月余日不得見。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_112_000205",
@@ -2573,7 +2777,20 @@
   {
     "sentence_id": "HCH_008_112_000208",
     "sentence": "巨奏曰：「方今艱難，恐為賊所詐，如忽召臣，不知何以取信？」玄宗劈木契分授之，遂以臣兼統嶺南節度使何履光、黔中節度使趙國珍、南陽節度使魯炅，先領三節度事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "何履光",
+        "label": "PER",
+        "start": 48,
+        "end": 51
+      },
+      {
+        "text": "趙國珍",
+        "label": "PER",
+        "start": 57,
+        "end": 60
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_112_000209",
@@ -2614,7 +2831,20 @@
   {
     "sentence_id": "HCH_008_112_000211",
     "sentence": "巨趣何履光、趙國珍同至南陽，宣敕貶炅，削其章服，令隨軍效力。",
-    "entities": []
+    "entities": [
+      {
+        "text": "何履光",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "趙國珍",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_112_000212",
@@ -2738,6 +2968,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "段子璋",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       },
       {
         "text": "度使李奐於綿州",

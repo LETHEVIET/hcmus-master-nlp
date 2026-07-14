@@ -1592,6 +1592,12 @@
         "end": 4
       },
       {
+        "text": "陳萬年",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "丞相",
         "label": "TITLE",
         "start": 12,
@@ -1743,6 +1749,24 @@
         "label": "LOC",
         "start": 144,
         "end": 148
+      },
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 163,
+        "end": 166
+      },
+      {
+        "text": "趙廣漢",
+        "label": "PER",
+        "start": 202,
+        "end": 205
+      },
+      {
+        "text": "尹翁歸",
+        "label": "PER",
+        "start": 212,
+        "end": 215
       }
     ]
   },
@@ -1822,7 +1846,14 @@
   {
     "sentence_id": "HCH_006_064c_000219",
     "sentence": "世稱公孫弘排主父，張湯陷嚴助，石顯譖捐之，察其行跡，主父求欲鼎亨而得族，嚴、賈出入禁門招權利，死皆其所也，亦何排陷之恨哉！",
-    "entities": []
+    "entities": [
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_064c_000220",

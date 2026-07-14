@@ -2,17 +2,43 @@
   {
     "sentence_id": "HCH_008_089_000001",
     "sentence": "狄仁傑 族曾孫:兼謨 王方慶　姚璹 弟:珽",
-    "entities": []
+    "entities": [
+      {
+        "text": "狄仁傑",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "王方慶",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_089_000002",
     "sentence": "狄仁傑",
-    "entities": []
+    "entities": [
+      {
+        "text": "狄仁傑",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_089_000003",
     "sentence": "狄仁傑字懷英，并州太原人也。",
     "entities": [
+      {
+        "text": "狄仁傑",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "并州",
         "label": "LOC",
@@ -73,6 +99,12 @@
         "end": 5
       },
       {
+        "text": "閻立本",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "薦授并州",
         "label": "LOC",
         "start": 61,
@@ -101,13 +133,26 @@
         "label": "LOC",
         "start": 7,
         "end": 10
+      },
+      {
+        "text": "鄭崇質",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
   {
     "sentence_id": "HCH_008_089_000011",
     "sentence": "仁傑謂曰：「太夫人有危疾，而公遠使，豈可貽親萬里之憂！」乃詣長史藺仁基，請代崇質而行。",
-    "entities": []
+    "entities": [
+      {
+        "text": "藺仁基",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_089_000012",
@@ -118,6 +163,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "李孝廉",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -191,7 +242,14 @@
   {
     "sentence_id": "HCH_008_089_000021",
     "sentence": "左司郎中王本立恃寵用事，朝廷懾懼，仁傑奏之，請付法寺，高宗特原之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王本立",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_089_000022",
@@ -369,7 +427,14 @@
   {
     "sentence_id": "HCH_008_089_000039",
     "sentence": "初，越王之亂，宰相張光輔率師討平之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張光輔",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_089_000040",
@@ -456,12 +521,26 @@
   {
     "sentence_id": "HCH_008_089_000046",
     "sentence": "未幾，爲來俊臣誣構下獄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_089_000047",
     "sentence": "時一問即承者例得減死，來俊臣逼協仁傑，令一問承反。",
-    "entities": []
+    "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_089_000048",
@@ -483,6 +562,12 @@
         "label": "TITLE",
         "start": 28,
         "end": 30
+      },
+      {
+        "text": "楊執柔",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       },
       {
         "text": "尚書",
@@ -575,6 +660,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "獨孤思莊",
+        "label": "PER",
+        "start": 3,
+        "end": 7
       },
       {
         "text": "盡驅百姓入城",
@@ -827,7 +918,14 @@
   {
     "sentence_id": "HCH_008_089_000091",
     "sentence": "近貞觀年中，克平九姓，冊李思摩爲可汗，使統諸部者，蓋以夷狄叛則伐之，降則撫之，得推亡固存之義，無遠戍勞人之役。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李思摩",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_089_000092",
@@ -1135,6 +1233,12 @@
         "end": 12
       },
       {
+        "text": "李楷固",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 20,
@@ -1364,17 +1468,42 @@
   {
     "sentence_id": "HCH_008_089_000177",
     "sentence": "仁傑常以舉賢爲意，其所引拔桓彥範、敬暉、竇懷貞、姚崇等，至公卿者數十人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "桓彥範",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "竇懷貞",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_089_000178",
     "sentence": "初，則天嘗問仁傑曰：「朕要一好漢任使，有乎？」仁傑曰：「陛下作何任使？」則天曰：「朕欲待以將相。」對曰：「臣料陛下若求文章資歴，則今之宰臣李嶠、蘇味道亦足爲文吏矣。豈非文士齷齪，思得奇才用之，以成天下之務者乎？」則天悅曰：「此朕心也。」仁傑曰：「荊州長史張柬之，其人雖老，真宰相才也。且久不遇，若用之，必盡節於國家矣。」則天乃召拜洛州司馬。",
     "entities": [
       {
+        "text": "蘇味道",
+        "label": "PER",
+        "start": 72,
+        "end": 75
+      },
+      {
         "text": "荊州",
         "label": "LOC",
         "start": 123,
         "end": 125
+      },
+      {
+        "text": "張柬之",
+        "label": "PER",
+        "start": 127,
+        "end": 130
       },
       {
         "text": "則天乃召拜洛州",
@@ -1399,6 +1528,12 @@
     "sentence_id": "HCH_008_089_000180",
     "sentence": "仁傑曰：「臣前言張柬之，猶未用也。」則天曰：「已遷之矣。」對曰：「臣薦之爲相，今爲洛州司馬，非用之也。」又遷爲秋官侍郎，後竟召爲相。",
     "entities": [
+      {
+        "text": "張柬之",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "今爲洛州",
         "label": "LOC",
@@ -1493,19 +1628,20 @@
         "label": "LOC",
         "start": 44,
         "end": 46
-      },
-      {
-        "text": "坐贓貶歙州",
-        "label": "LOC",
-        "start": 51,
-        "end": 56
       }
     ]
   },
   {
     "sentence_id": "HCH_008_089_000186",
     "sentence": "初，中宗在房陵，而吉頊、李昭德皆有匡復讜言，則天無復辟意。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李昭德",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_089_000187",
@@ -1646,20 +1782,19 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "吳士矩",
+        "label": "PER",
+        "start": 105,
+        "end": 108
       }
     ]
   },
   {
     "sentence_id": "HCH_008_089_000202",
     "sentence": "兼謨奏曰：「觀察使守陛下土地，宣陛下詔條，臨戎賞軍，州有定數。而士矩與奪由己，盈縮自專，不唯貽弊一方，必致諸軍援例。請下法司，正行朝典。」士矩坐貶蔡州別駕。",
-    "entities": [
-      {
-        "text": "士矩坐貶蔡州",
-        "label": "LOC",
-        "start": 69,
-        "end": 75
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_089_000203",
@@ -1700,12 +1835,25 @@
   {
     "sentence_id": "HCH_008_089_000206",
     "sentence": "王方慶",
-    "entities": []
+    "entities": [
+      {
+        "text": "王方慶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_089_000207",
     "sentence": "王方慶，雍州咸陽人也，周少司空石泉公褒之曾孫也。",
     "entities": [
+      {
+        "text": "王方慶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "雍州",
         "label": "LOC",
@@ -1984,6 +2132,12 @@
     "sentence": "內史王及善以爲將軍入城，例有軍樂，既今上孝明高皇帝忌月，請備而不奏。",
     "entities": [
       {
+        "text": "王及善",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 7,
@@ -2164,6 +2318,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "郭山惲",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       },
       {
         "text": "《周禮》",
@@ -2485,6 +2645,12 @@
     "sentence": "與司議郎孟利貞等奉令撰《瑤山玉彩》書，書成，遷秘書郎。",
     "entities": [
       {
+        "text": "孟利貞",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "《瑤山玉彩》",
         "label": "TITLE",
         "start": 11,
@@ -2520,6 +2686,12 @@
     "sentence_id": "HCH_008_089_000266",
     "sentence": "坐從父弟敬節同徐敬業之亂，貶桂州都督府長史。",
     "entities": [
+      {
+        "text": "徐敬業",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "貶桂州",
         "label": "LOC",
@@ -2605,7 +2777,14 @@
   {
     "sentence_id": "HCH_008_089_000279",
     "sentence": "時武三思率蕃夷酋長，請造天樞於端門外，刻字紀功，以頌周德，璹爲督作使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_089_000280",
@@ -2628,6 +2807,12 @@
         "label": "TITLE",
         "start": 56,
         "end": 63
+      },
+      {
+        "text": "劉承慶",
+        "label": "PER",
+        "start": 163,
+        "end": 166
       }
     ]
   },
@@ -2695,14 +2880,7 @@
   {
     "sentence_id": "HCH_008_089_000289",
     "sentence": "尋屬契丹犯塞，命梁王武三思爲榆關道安撫大使、璹爲副使以備之。",
-    "entities": [
-      {
-        "text": "王武三思爲榆關",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_089_000290",
@@ -2795,6 +2973,12 @@
         "end": 6
       },
       {
+        "text": "宋元爽",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 12,
@@ -2821,6 +3005,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "袁恕己",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -3401,14 +3591,7 @@
   {
     "sentence_id": "HCH_008_089_000364",
     "sentence": "王方慶幹城南海，羽冀東宮，臺閣樞機，無不功濟，所謂君子不器者也。",
-    "entities": [
-      {
-        "text": "王方慶幹城",
-        "label": "LOC",
-        "start": 0,
-        "end": 5
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_089_000365",

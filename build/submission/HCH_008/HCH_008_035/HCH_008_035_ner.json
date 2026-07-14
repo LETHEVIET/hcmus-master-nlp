@@ -24,7 +24,14 @@
   {
     "sentence_id": "HCH_008_035_000004",
     "sentence": "貞觀初，將仕郎直太史李淳風始上言靈臺候儀是後魏遺範，法制疏略，難為占步。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李淳風",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_035_000005",
@@ -233,6 +240,12 @@
     "sentence": "近秘閣郎中李淳風著《法象志》，備載黃道渾儀法，以玉衡旋規，別帶日道，傍列二百四十九交，以攜月游，用法頗雜，其術竟寢。",
     "entities": [
       {
+        "text": "李淳風",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "《法象志》",
         "label": "TITLE",
         "start": 9,
@@ -325,6 +338,12 @@
         "label": "LOC",
         "start": 21,
         "end": 26
+      },
+      {
+        "text": "李淳風",
+        "label": "PER",
+        "start": 33,
+        "end": 36
       }
     ]
   },
@@ -507,6 +526,12 @@
     "sentence_id": "HCH_008_035_000080",
     "sentence": "李淳風《法象志》說有此日月兩環，在旋儀環上。",
     "entities": [
+      {
+        "text": "李淳風",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "《法象志》",
         "label": "TITLE",

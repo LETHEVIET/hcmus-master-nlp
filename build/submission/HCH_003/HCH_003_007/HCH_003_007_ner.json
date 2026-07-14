@@ -607,10 +607,22 @@
         "end": 106
       },
       {
+        "text": "高敖曹",
+        "label": "PER",
+        "start": 112,
+        "end": 115
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 117,
         "end": 119
+      },
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 122,
+        "end": 126
       },
       {
         "text": "故定州",
@@ -679,6 +691,12 @@
         "end": 43
       },
       {
+        "text": "高思宗",
+        "label": "PER",
+        "start": 43,
+        "end": 46
+      },
+      {
         "text": "營州",
         "label": "LOC",
         "start": 51,
@@ -743,6 +761,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       },
       {
         "text": "并州",
@@ -1885,7 +1909,20 @@
   {
     "sentence_id": "HCH_003_007_000176",
     "sentence": "梁將王僧辯在建業，推其晉安王蕭方智為太宰、都督中外諸軍事、承制置百官。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王僧辯",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "蕭方智",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_007_000177",
@@ -1938,6 +1975,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "陸法和",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -1957,6 +2000,12 @@
     "sentence_id": "HCH_003_007_000182",
     "sentence": "二月甲子，以陸法和為使持節、都督十州諸軍事、太尉、大都督、西南道大行臺。",
     "entities": [
+      {
+        "text": "陸法和",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "都督十州",
         "label": "LOC",
@@ -1980,6 +2029,12 @@
         "label": "LOC",
         "start": 5,
         "end": 12
+      },
+      {
+        "text": "裴之橫",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -2070,7 +2125,26 @@
   {
     "sentence_id": "HCH_003_007_000198",
     "sentence": "冬十月，梁將陳霸先襲殺王僧辯，廢蕭明，復立蕭方智為主。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳霸先",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "王僧辯",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "蕭方智",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_007_000199",
@@ -2092,6 +2166,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "徐嗣徽",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       },
       {
         "text": "南豫州",
@@ -2354,6 +2434,12 @@
     "sentence": "以太師、咸陽王斛律金為右丞相，以前大將軍、扶風王可朱渾道元為太傅，以開府儀同三司賀拔仁為太保，尚書令、常山王演為司空、錄尚書事，以長廣王湛為尚書令，以尚書右僕射楊愔為左僕射，以并省尚書右僕射崔暹為右僕射，以上黨王渙為錄尚書事。",
     "entities": [
       {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "丞相",
         "label": "TITLE",
         "start": 12,
@@ -2479,7 +2565,14 @@
   {
     "sentence_id": "HCH_003_007_000236",
     "sentence": "冬十月乙亥，梁主蕭方智遜位於陳。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭方智",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_007_000237",
@@ -2501,7 +2594,14 @@
   {
     "sentence_id": "HCH_003_007_000239",
     "sentence": "周冢宰宇文護殺閔帝而立明帝，又改元焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_007_000240",
@@ -3106,7 +3206,14 @@
   {
     "sentence_id": "HCH_003_007_000309",
     "sentence": "於是徐之才盛陳宜受禪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_007_000310",
@@ -3128,14 +3235,7 @@
   {
     "sentence_id": "HCH_003_007_000312",
     "sentence": "使段韶問斛律金於肆州，金來朝，深言不可，以鎧曹宋景業首陳符命，請殺之。",
-    "entities": [
-      {
-        "text": "問斛律金於肆州",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_007_000313",
@@ -3713,7 +3813,14 @@
   {
     "sentence_id": "HCH_003_007_000411",
     "sentence": "武平初，趙彥深執政，又奏復帝本謚，廟號顯祖云。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_007_000412",
@@ -3956,6 +4063,12 @@
         "end": 10
       },
       {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "丞相",
         "label": "TITLE",
         "start": 19,
@@ -4103,6 +4216,12 @@
         "label": "TITLE",
         "start": 30,
         "end": 33
+      },
+      {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 41,
+        "end": 44
       }
     ]
   },
@@ -4273,7 +4392,14 @@
   {
     "sentence_id": "HCH_003_007_000454",
     "sentence": "及承大位，楊愔、燕子獻、宋欽道等同輔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_007_000455",
@@ -4707,6 +4833,12 @@
     "sentence": "時楊愔、燕子獻、可朱渾天和、宋欽道、鄭子默等以帝威望旣重，內懼權逼，請以帝為太師、司州牧、錄尚書事，長廣王湛為大司馬、錄并省尚書事，解京畿大都督。",
     "entities": [
       {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "司州",
         "label": "LOC",
         "start": 41,
@@ -4762,6 +4894,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 33,
+        "end": 36
       }
     ]
   },
@@ -5103,6 +5241,18 @@
         "label": "TITLE",
         "start": 144,
         "end": 146
+      },
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 161,
+        "end": 165
+      },
+      {
+        "text": "破六韓常",
+        "label": "PER",
+        "start": 195,
+        "end": 199
       }
     ]
   },

@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_006_069_000001",
     "sentence": "趙充國",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_069_000002",
     "sentence": "趙充國字翁孫，隴西上邽人也，後徙金城令居。",
     "entities": [
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "後徙金城",
         "label": "LOC",
@@ -473,6 +486,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "辛武賢",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -936,6 +955,12 @@
         "label": "TITLE",
         "start": 72,
         "end": 74
+      },
+      {
+        "text": "辛武賢",
+        "label": "PER",
+        "start": 125,
+        "end": 128
       },
       {
         "text": "丞相",
@@ -1472,6 +1497,12 @@
     "sentence": "上然其計，罷遣辛武賢歸酒泉太守官，充國復爲後將軍衛尉。",
     "entities": [
       {
+        "text": "辛武賢",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "太守",
         "label": "TITLE",
         "start": 13,
@@ -1516,6 +1547,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "辛武賢",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -1550,6 +1587,12 @@
         "label": "TITLE",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "張安世",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       },
       {
         "text": "將軍",
@@ -1722,6 +1765,12 @@
     "sentence": "辛武賢自羌軍還後七年，復爲破羌將軍，征烏孫至敦煌，後不出，徵未到，病卒。",
     "entities": [
       {
+        "text": "辛武賢",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "七年",
         "label": "TME",
         "start": 8,
@@ -1743,12 +1792,25 @@
   {
     "sentence_id": "HCH_006_069_000198",
     "sentence": "辛慶忌",
-    "entities": []
+    "entities": [
+      {
+        "text": "辛慶忌",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_069_000199",
     "sentence": "辛慶忌字子真，少以父任爲右校丞，隨長羅侯常惠屯田烏孫赤谷城，與歙侯戰，陷陳卻敵。",
     "entities": [
+      {
+        "text": "辛慶忌",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "屯田烏孫赤谷城",
         "label": "LOC",
@@ -1838,6 +1900,12 @@
     "sentence_id": "HCH_006_069_000205",
     "sentence": "始武賢與趙充國有隙，後充國家殺辛氏，至慶忌爲執金吾，坐子殺趙氏，左遷酒泉太守。",
     "entities": [
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "太守",
         "label": "TITLE",
@@ -2102,7 +2170,26 @@
   {
     "sentence_id": "HCH_006_069_000228",
     "sentence": "漢興，郁郅王圍、甘延壽，義渠公孫賀、傅介子，成紀李廣、李蔡，杜陵蘇建、蘇武，上邽上官桀、趙充國，襄武廉褒，狄道辛武賢、慶忌，皆以勇武顯聞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "公孫賀",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      },
+      {
+        "text": "辛武賢",
+        "label": "PER",
+        "start": 55,
+        "end": 58
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_069_000229",

@@ -89,26 +89,13 @@
         "label": "TME",
         "start": 2,
         "end": 4
-      },
-      {
-        "text": "思明僭號於相州",
-        "label": "LOC",
-        "start": 18,
-        "end": 25
       }
     ]
   },
   {
     "sentence_id": "HCH_008_116_000008",
     "sentence": "詔以李光弼握兵關東以代子儀。",
-    "entities": [
-      {
-        "text": "以李光弼握兵關",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_116_000009",
@@ -221,6 +208,12 @@
     "sentence": "九月，史思明陷洛陽，光弼以副元帥董兵守河陽，王不出京師。",
     "entities": [
       {
+        "text": "史思明",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "洛陽",
         "label": "LOC",
         "start": 7,
@@ -266,6 +259,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李輔國",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "太子",
@@ -508,6 +507,12 @@
         "label": "LOC",
         "start": 93,
         "end": 96
+      },
+      {
+        "text": "李輔國",
+        "label": "PER",
+        "start": 176,
+        "end": 179
       }
     ]
   },
@@ -578,6 +583,12 @@
         "label": "TITLE",
         "start": 61,
         "end": 63
+      },
+      {
+        "text": "李輔國",
+        "label": "PER",
+        "start": 101,
+        "end": 104
       },
       {
         "text": "司馬",
@@ -778,6 +789,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -917,6 +934,12 @@
     "sentence_id": "HCH_008_116_000087",
     "sentence": "堅後為李林甫誣構被誅，太子懼，奏請與妃離異，於別宮安置，僴，天寶中封潁川郡王，授太子詹事同正員。",
     "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -1798,6 +1821,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "田承嗣",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -1918,7 +1947,14 @@
   {
     "sentence_id": "HCH_008_116_000218",
     "sentence": "丹王逾，代宗第五子。",
-    "entities": []
+    "entities": [
+      {
+        "text": "丹王逾",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_116_000219",

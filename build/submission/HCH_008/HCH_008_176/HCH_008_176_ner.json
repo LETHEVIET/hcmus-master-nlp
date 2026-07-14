@@ -2,24 +2,31 @@
   {
     "sentence_id": "HCH_008_176_000001",
     "sentence": "李宗閔",
-    "entities": []
+    "entities": [
+      {
+        "text": "李宗閔",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000002",
     "sentence": "李宗閔，字損之，宗室鄭王元懿之後。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李宗閔",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000003",
     "sentence": "祖自仙，楚州別駕。",
-    "entities": [
-      {
-        "text": "楚州",
-        "label": "LOC",
-        "start": 4,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_176_000004",
@@ -71,22 +78,56 @@
   {
     "sentence_id": "HCH_008_176_000007",
     "sentence": "初，宗閔與牛僧孺同年登進士第，又與僧孺同年登制科。",
-    "entities": []
+    "entities": [
+      {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000008",
     "sentence": "應制之歲，李吉甫為宰相當國，宗閔、僧孺對策，指切時政之失，言甚鯁直，無所回避。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000009",
     "sentence": "考策官楊於陵、韋貫之、李益等又第其策為中等，又為不中第者註解牛、李策語，同為唱誹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊於陵",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "韋貫之",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000010",
     "sentence": "又言翰林學士王涯甥皇甫湜中選，考核之際，不先上言。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫湜",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000011",
@@ -115,10 +156,10 @@
         "end": 19
       },
       {
-        "text": "韋貫之出為果州",
-        "label": "LOC",
-        "start": 35,
-        "end": 42
+        "text": "楊於陵",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       },
       {
         "text": "刺史",
@@ -185,6 +226,12 @@
         "label": "TME",
         "start": 2,
         "end": 5
+      },
+      {
+        "text": "吳元濟",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -243,7 +290,14 @@
   {
     "sentence_id": "HCH_008_176_000022",
     "sentence": "時李吉甫子德裕為翰林學士，錢徽榜出，德裕與同職李紳、元稹連衡言於上前，雲徽受請托，所試不公，故致重覆。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000023",
@@ -354,7 +408,14 @@
   {
     "sentence_id": "HCH_008_176_000031",
     "sentence": "時裴度薦李德裕，將大用。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000032",
@@ -371,7 +432,14 @@
   {
     "sentence_id": "HCH_008_176_000033",
     "sentence": "尋引牛僧孺同知政事，二人唱和，凡德裕之黨皆逐之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000034",
@@ -424,6 +492,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "宋若憲",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -479,6 +553,12 @@
         "end": 2
       },
       {
+        "text": "楊虞卿",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "貶明州",
         "label": "LOC",
         "start": 52,
@@ -502,6 +582,12 @@
     "sentence_id": "HCH_008_176_000042",
     "sentence": "七月，鄭註發沈  、宋若憲事，內官楊承和、韋元素、沈  及若憲姻黨坐貶者十餘人，又貶宗閔潮州司戶。",
     "entities": [
+      {
+        "text": "宋若憲",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "又貶宗閔潮州",
         "label": "LOC",
@@ -603,6 +689,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "楊嗣復",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -615,6 +707,24 @@
         "label": "TME",
         "start": 21,
         "end": 24
+      },
+      {
+        "text": "陳夷行",
+        "label": "PER",
+        "start": 75,
+        "end": 78
+      },
+      {
+        "text": "張又新",
+        "label": "PER",
+        "start": 108,
+        "end": 111
+      },
+      {
+        "text": "蘇景胤",
+        "label": "PER",
+        "start": 112,
+        "end": 115
       },
       {
         "text": "八關",
@@ -645,6 +755,12 @@
         "label": "TITLE",
         "start": 259,
         "end": 261
+      },
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 339,
+        "end": 342
       },
       {
         "text": "二年",
@@ -693,12 +809,26 @@
   {
     "sentence_id": "HCH_008_176_000059",
     "sentence": "時鄭覃、陳夷行罷相，嗣復方再拔用宗閔知政事，俄而文宗崩。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳夷行",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000060",
     "sentence": "會昌初，李德裕秉政，嗣復、李玨皆竄嶺表。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000061",
@@ -716,6 +846,12 @@
     "sentence_id": "HCH_008_176_000062",
     "sentence": "德裕以宗閔素與劉從諫厚，上黨近東都，宗閔分司非便，出為封州刺史。",
     "entities": [
+      {
+        "text": "劉從諫",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "出為封州",
         "label": "LOC",
@@ -756,7 +892,14 @@
   {
     "sentence_id": "HCH_008_176_000065",
     "sentence": "令狐綯作相，特加獎拔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐綯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000066",
@@ -806,12 +949,26 @@
   {
     "sentence_id": "HCH_008_176_000075",
     "sentence": "楊嗣復",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊嗣復",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000076",
     "sentence": "楊嗣復，字繼之，僕射於陵子也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊嗣復",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000077",
@@ -894,7 +1051,14 @@
   {
     "sentence_id": "HCH_008_176_000087",
     "sentence": "鄭餘慶為詳定禮儀使，奏為判官，改禮部員外郎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭餘慶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000088",
@@ -928,7 +1092,26 @@
   {
     "sentence_id": "HCH_008_176_000091",
     "sentence": "嗣復與牛僧孺、李宗閔皆權德輿貢舉門生，情義相得，進退取舍，多與之同。",
-    "entities": []
+    "entities": [
+      {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "李宗閔",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "權德輿",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000092",
@@ -1134,13 +1317,32 @@
         "label": "LOC",
         "start": 39,
         "end": 43
+      },
+      {
+        "text": "竇洵直",
+        "label": "PER",
+        "start": 76,
+        "end": 79
       }
     ]
   },
   {
     "sentence_id": "HCH_008_176_000108",
     "sentence": "李玨曰：「比來朋黨，近亦稍弭。」覃曰：「近有小朋黨生。」帝曰：「此輩雕喪向盡。」覃曰：「楊漢公、張又新、李續之即今尚在。」玨曰：「今有邊事論奏。」覃曰：「論邊事安危，臣不如玨；嫉惡則玨不如臣。」嗣復曰：「臣聞左右佩劍，彼此相笑。臣今不知鄭覃指誰為朋黨。」因當香案前奏曰：「臣待罪宰相，不能申夔、龍之道，唯以朋黨見譏，必乞陛下罷臣鼎職。」上慰勉之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊漢公",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      },
+      {
+        "text": "張又新",
+        "label": "PER",
+        "start": 48,
+        "end": 51
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000109",
@@ -1186,6 +1388,12 @@
     "sentence_id": "HCH_008_176_000113",
     "sentence": "李玨曰：「是臣職司。」陳夷行曰：「宰相所錄，必當自伐，聖德即將掩之。臣所以頻言，不欲威權在下。」玨曰：「夷行此言，是疑宰相中有賣威權、貨刑賞者。不然，何自為宰相而出此言？臣累奏求退，若得王傅，臣之幸也。」鄭覃曰：「陛下 開成元年 、二年政事至好，三年、四年漸不如前。」嗣復曰：「元年、二年是鄭覃、夷行用事，三年、四年臣與李玨同之。臣蒙聖慈擢處相位，不能悉心奉職。鄭覃云『三年之後，一年不如一年』，臣之罪也。陛下縱不誅夷，臣合自求泯滅。」因叩頭曰：「臣今日便辭玉階，不敢更入中書。」即趨去。",
     "entities": [
+      {
+        "text": "陳夷行",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "元年",
         "label": "TME",
@@ -1315,7 +1523,14 @@
   {
     "sentence_id": "HCH_008_176_000119",
     "sentence": "中尉仇士良違遺令立武宗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "仇士良",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000120",
@@ -1325,7 +1540,14 @@
   {
     "sentence_id": "HCH_008_176_000121",
     "sentence": "其年秋，李德裕自淮南入輔政。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000122",
@@ -1548,14 +1770,7 @@
   {
     "sentence_id": "HCH_008_176_000144",
     "sentence": "崔安潛出鎮青州，辟為支使。",
-    "entities": [
-      {
-        "text": "崔安潛出鎮青州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_176_000145",
@@ -1780,12 +1995,25 @@
   {
     "sentence_id": "HCH_008_176_000167",
     "sentence": "楊虞卿",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊虞卿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000168",
     "sentence": "楊虞卿，字師臯，虢州弘農人。",
     "entities": [
+      {
+        "text": "楊虞卿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "虢州",
         "label": "LOC",
@@ -2043,7 +2271,14 @@
   {
     "sentence_id": "HCH_008_176_000206",
     "sentence": "乃詔給事中嚴休復、中書舍人高鉞、左丞韋景休充三司推案，而溫亮逃竄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "嚴休復",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000207",
@@ -2053,7 +2288,20 @@
   {
     "sentence_id": "HCH_008_176_000208",
     "sentence": "及李宗閔、牛僧孺輔政，起為左司郎中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李宗閔",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000209",
@@ -2096,6 +2344,12 @@
         "end": 2
       },
       {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "出為常州",
         "label": "LOC",
         "start": 15,
@@ -2122,7 +2376,14 @@
   {
     "sentence_id": "HCH_008_176_000214",
     "sentence": "而李宗閔待之如骨肉，以能朋比唱和，故時號黨魁。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李宗閔",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000215",
@@ -2184,6 +2445,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "李固言",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2335,7 +2602,20 @@
   {
     "sentence_id": "HCH_008_176_000238",
     "sentence": "時李宗閔、牛僧孺輔政，待汝士厚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李宗閔",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000239",
@@ -2779,12 +3059,26 @@
   {
     "sentence_id": "HCH_008_176_000276",
     "sentence": "久在邊遠，及還朝，不獲顯官，必微有望，李德裕素不重之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000277",
     "sentence": "宣宗即位，宰相白敏中與德裕有隙，凡德裕所薄者，必不次拔擢之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白敏中",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000278",
@@ -2903,12 +3197,26 @@
   {
     "sentence_id": "HCH_008_176_000285",
     "sentence": "李讓夷",
-    "entities": []
+    "entities": [
+      {
+        "text": "李讓夷",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000286",
     "sentence": "李讓夷，字達心，隴西人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李讓夷",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000287",
@@ -2984,6 +3292,12 @@
     "sentence": "宰臣李石奏闕官，上曰：「褚遂良為諫議大夫，嘗兼此官，卿可盡言今諫議大夫姓名。」石遂奏李讓夷、馮定、孫簡、蕭俶。",
     "entities": [
       {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 18,
@@ -2994,18 +3308,44 @@
         "label": "TITLE",
         "start": 33,
         "end": 35
+      },
+      {
+        "text": "李讓夷",
+        "label": "PER",
+        "start": 42,
+        "end": 45
       }
     ]
   },
   {
     "sentence_id": "HCH_008_176_000295",
     "sentence": "帝曰：「讓夷可也。」李固言欲用崔球、張次宗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李固言",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "張次宗",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000296",
     "sentence": "鄭覃曰：「崔球遊宗閔之門，赤墀下秉筆記註，為千古法，不可用朋黨。如裴中孺、李讓夷，臣不敢有纖芥異論。」其為人主大臣知重如此。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李讓夷",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000297",
@@ -3022,7 +3362,14 @@
   {
     "sentence_id": "HCH_008_176_000298",
     "sentence": "以鄭覃此言，深為李玨、楊嗣復所惡，終文宗世，官不達。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊嗣復",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000299",
@@ -3118,14 +3465,7 @@
   {
     "sentence_id": "HCH_008_176_000309",
     "sentence": "楊汝士牧同州，辟為防禦判官，得秘書省校書郎。",
-    "entities": [
-      {
-        "text": "楊汝士牧同州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_176_000310",
@@ -3141,6 +3481,18 @@
     "sentence_id": "HCH_008_176_000312",
     "sentence": "前邕管經略使董昌齡枉殺錄事參軍衡方厚，坐貶漵州司戶。",
     "entities": [
+      {
+        "text": "董昌齡",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "衡方厚",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
       {
         "text": "坐貶漵州",
         "label": "LOC",
@@ -3164,12 +3516,6 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
-      },
-      {
-        "text": "乃改為洪州",
-        "label": "LOC",
-        "start": 144,
-        "end": 149
       }
     ]
   },
@@ -3182,6 +3528,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李孝本",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -3250,7 +3602,14 @@
   {
     "sentence_id": "HCH_008_176_000326",
     "sentence": "昨又宣取李孝本之女入內。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李孝本",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000327",
@@ -3466,6 +3825,12 @@
         "label": "TITLE",
         "start": 58,
         "end": 60
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 66,
+        "end": 69
       }
     ]
   },
@@ -3473,6 +3838,18 @@
     "sentence_id": "HCH_008_176_000348",
     "sentence": "初立朝，為李固言、李玨、楊嗣復所引，數年之內，至諫議大夫。",
     "entities": [
+      {
+        "text": "李固言",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "楊嗣復",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
       {
         "text": "大夫",
         "label": "TITLE",
@@ -3485,6 +3862,12 @@
     "sentence_id": "HCH_008_176_000349",
     "sentence": "武宗即位，李德裕用事，謩坐楊、李之黨，出為汾州刺史。",
     "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "出為汾州",
         "label": "LOC",
@@ -3515,6 +3898,12 @@
     "sentence_id": "HCH_008_176_000351",
     "sentence": "宣宗即位，白敏中當國，量移郢州刺史，尋換商州。",
     "entities": [
+      {
+        "text": "白敏中",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "量移郢州",
         "label": "LOC",
@@ -3561,7 +3950,14 @@
   {
     "sentence_id": "HCH_008_176_000354",
     "sentence": "彈駙馬都尉杜中立贓罪，貴戚憚之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜中立",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000355",
@@ -3792,7 +4188,14 @@
   {
     "sentence_id": "HCH_008_176_000380",
     "sentence": "宣宗每曰：「魏謩綽有祖風，名公子孫，我心重之。」然竟以語辭太剛，為令狐綯所忌，罷之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐綯",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000381",
@@ -4099,12 +4502,26 @@
   {
     "sentence_id": "HCH_008_176_000404",
     "sentence": "崔龜從",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔龜從",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000405",
     "sentence": "崔龜從，字玄告，清河人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔龜從",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000406",
@@ -4183,7 +4600,20 @@
   {
     "sentence_id": "HCH_008_176_000414",
     "sentence": "龜從又以大臣薨謝，不於聞哀日輟朝，奏議曰：「伏以廢朝軫悼，義重君臣，所貴及哀，尤宜示信。自頃已來，輟朝非奏報之時，備禮於數日外。雖遵常制，似不本情。臣不敢遠徵古書，請引國朝故事：貞觀中任瑰卒，有司對仗奏闕聞，太宗責其乖禮；岑文本既歿，其夕為罷警嚴；張公謹之亡，哭之不避辰日。是知閔悼之意，不宜過時。臣謂大臣薨，禮合輟朝。縱有機務急速，便殿須召宰臣，不臨正朝，無爽事體。如此，則由衷之信，載感於幽明；稱情之文，無虧於典禮。」又奏：「文武三品官薨卒輟朝。有未經親重之官，今任又是散列者，為之變禮，誠恐非宜。自今後，文武三品以上官，非曾任將相，及曾在密近，宜加恩禮者，餘請不在輟朝之限。」從之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 111,
+        "end": 114
+      },
+      {
+        "text": "張公謹",
+        "label": "PER",
+        "start": 124,
+        "end": 127
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000415",
@@ -4424,6 +4854,18 @@
         "end": 22
       },
       {
+        "text": "庾敬休",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
+        "text": "李踐方",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 37,
@@ -4623,7 +5065,14 @@
   {
     "sentence_id": "HCH_008_176_000447",
     "sentence": "素與李德裕親厚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000448",
@@ -4705,6 +5154,12 @@
     "sentence": "仁表擢第後，從杜審權、趙騭為華州、河中掌書記，入為起居郎。",
     "entities": [
       {
+        "text": "杜審權",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "趙騭為華州",
         "label": "LOC",
         "start": 11,
@@ -4720,7 +5175,14 @@
   {
     "sentence_id": "HCH_008_176_000456",
     "sentence": "自謂門地、人物、文章具美，嘗曰：「天瑞有五色雲，人瑞有鄭仁表。」劉鄴少時，投文於洎，仁表兄弟嗤鄙之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭仁表",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_176_000457",
@@ -4792,14 +5254,7 @@
   {
     "sentence_id": "HCH_008_176_000465",
     "sentence": "王播、段文昌相繼鎮西蜀，商皆佐職為記室，累改禮部員外郎。",
-    "entities": [
-      {
-        "text": "段文昌相繼鎮",
-        "label": "LOC",
-        "start": 3,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_176_000466",

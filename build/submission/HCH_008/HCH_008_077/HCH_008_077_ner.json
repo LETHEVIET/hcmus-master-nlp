@@ -97,6 +97,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "楊文幹",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -161,12 +167,31 @@
   {
     "sentence_id": "HCH_008_077_000012",
     "sentence": "常與房玄齡、王珪、魏徵、戴胄等俱承顧問，議以政事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_077_000013",
     "sentence": "又與高士廉、令狐德棻等同修《氏族志》，累承賞賚。",
     "entities": [
+      {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "令狐德棻",
+        "label": "PER",
+        "start": 6,
+        "end": 10
+      },
       {
         "text": "《氏族志》",
         "label": "TITLE",
@@ -232,6 +257,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -321,6 +352,12 @@
         "end": 5
       },
       {
+        "text": "崔仁師",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "平三州",
         "label": "LOC",
         "start": 31,
@@ -408,6 +445,12 @@
         "label": "TME",
         "start": 31,
         "end": 34
+      },
+      {
+        "text": "韋懷質",
+        "label": "PER",
+        "start": 48,
+        "end": 51
       }
     ]
   },
@@ -420,6 +463,12 @@
         "label": "LOC",
         "start": 57,
         "end": 62
+      },
+      {
+        "text": "李道裕",
+        "label": "PER",
+        "start": 102,
+        "end": 105
       },
       {
         "text": "御史",
@@ -535,6 +584,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "辛文陵",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -547,6 +602,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "薛仁貴",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -762,6 +823,12 @@
     "sentence": "則天大怒，副將閻溫古以逗留伏法，待價坐除名，配流繡州，尋卒。",
     "entities": [
       {
+        "text": "閻溫古",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "配流繡州",
         "label": "LOC",
         "start": 22,
@@ -874,7 +941,20 @@
   {
     "sentence_id": "HCH_008_077_000074",
     "sentence": "少與琅邪顏師古、燉煌令狐德棻友善。",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏師古",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "令狐德棻",
+        "label": "PER",
+        "start": 10,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_077_000075",
@@ -947,7 +1027,14 @@
   {
     "sentence_id": "HCH_008_077_000082",
     "sentence": "中書令溫彥博以纂過誤，罪不至死，固諫，乃赦之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "溫彥博",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_077_000083",
@@ -1017,12 +1104,6 @@
     "sentence": "後歷太常少卿、雍州別駕，加銀青光祿大夫。",
     "entities": [
       {
-        "text": "雍州",
-        "label": "LOC",
-        "start": 7,
-        "end": 9
-      },
-      {
         "text": "大夫",
         "label": "TITLE",
         "start": 17,
@@ -1039,12 +1120,6 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
-      },
-      {
-        "text": "檢校雍州",
-        "label": "LOC",
-        "start": 12,
-        "end": 16
       }
     ]
   },
@@ -1201,6 +1276,12 @@
     "sentence": "謂許敬宗等曰：「越公兒郎，故有家風矣。」時諸宰相併在定州留輔皇太子，唯有褚遂良、許敬宗及弘禮在行在所，掌知機務。",
     "entities": [
       {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "諸宰相併在定州",
         "label": "LOC",
         "start": 21,
@@ -1211,6 +1292,18 @@
         "label": "TITLE",
         "start": 31,
         "end": 33
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 36,
+        "end": 39
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 40,
+        "end": 43
       }
     ]
   },
@@ -1383,6 +1476,18 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "戴至德",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "李安期",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -1428,7 +1533,14 @@
   {
     "sentence_id": "HCH_008_077_000129",
     "sentence": "嘗忤張易之之意，易之密奏元禧是楊素兄弟之後，素父子在隋有逆節，子孫不合供奉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_077_000130",
@@ -1483,6 +1595,12 @@
     "sentence": "張易之誅後，元亨等皆復任京職，元亨至齊州刺史，元禧台州刺史，元禕宣州刺史。",
     "entities": [
       {
+        "text": "張易之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "元亨至齊州",
         "label": "LOC",
         "start": 15,
@@ -1523,12 +1641,25 @@
   {
     "sentence_id": "HCH_008_077_000132",
     "sentence": "劉德威",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉德威",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_077_000133",
     "sentence": "劉德威，徐州彭城人也。",
     "entities": [
+      {
+        "text": "劉德威",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "徐州彭城",
         "label": "LOC",
@@ -1782,12 +1913,6 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
-      },
-      {
-        "text": "兼檢校雍州",
-        "label": "LOC",
-        "start": 9,
-        "end": 14
       }
     ]
   },
@@ -1812,6 +1937,12 @@
         "label": "LOC",
         "start": 15,
         "end": 18
+      },
+      {
+        "text": "權萬紀",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       },
       {
         "text": "德威入據濟州",
@@ -2071,6 +2202,12 @@
         "label": "LOC",
         "start": 5,
         "end": 10
+      },
+      {
+        "text": "李敬玄",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -2234,6 +2371,12 @@
         "end": 16
       },
       {
+        "text": "徐敬業",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "率眾攻潤州",
         "label": "LOC",
         "start": 24,
@@ -2244,6 +2387,12 @@
         "label": "TITLE",
         "start": 33,
         "end": 35
+      },
+      {
+        "text": "李思文",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       }
     ]
   },
@@ -2304,12 +2453,25 @@
   {
     "sentence_id": "HCH_008_077_000196",
     "sentence": "閻立德",
-    "entities": []
+    "entities": [
+      {
+        "text": "閻立德",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_077_000197",
     "sentence": "閻立德，雍州萬年人，隋殿內少監毗之子也。",
     "entities": [
+      {
+        "text": "閻立德",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "雍州",
         "label": "LOC",
@@ -2512,6 +2674,12 @@
     "sentence": "時突厥默啜有女請和親，則天令淮陽王武延秀往納其女，命知微攝春官尚書送赴虜廷。",
     "entities": [
       {
+        "text": "武延秀",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 31,
@@ -2607,7 +2775,14 @@
   {
     "sentence_id": "HCH_008_077_000227",
     "sentence": "時閣外傳呼云：「畫師閻立本。」時已為主爵郎中，奔走流汗，俯伏池側，手揮丹粉，瞻望座賓，不勝愧赧。",
-    "entities": []
+    "entities": [
+      {
+        "text": "閻立本",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_077_000228",
@@ -2882,7 +3057,20 @@
   {
     "sentence_id": "HCH_008_077_000253",
     "sentence": "太宗因謂侍臣：「權萬紀事我兒，不能匡正，其罪合死。」范進曰：「房玄齡事陛下，猶不能諫止畋獵，豈可獨罪萬紀？」太宗大怒，拂衣而入。",
-    "entities": []
+    "entities": [
+      {
+        "text": "權萬紀",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_077_000254",
@@ -2983,6 +3171,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -3019,7 +3213,26 @@
   {
     "sentence_id": "HCH_008_077_000266",
     "sentence": "尋為許敬宗、李義府所構，雲奭潛通宮掖，謀行鴆毒，又與褚遂良等朋黨構扇，罪當大逆。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_077_000267",
@@ -3041,7 +3254,14 @@
   {
     "sentence_id": "HCH_008_077_000269",
     "sentence": "神龍初，則天遺制，與褚遂良、韓瑗等並還官爵。",
-    "entities": []
+    "entities": [
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_077_000270",
@@ -3068,6 +3288,12 @@
         "label": "TME",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       },
       {
         "text": "見貫龔州",
@@ -3120,7 +3346,14 @@
   {
     "sentence_id": "HCH_008_077_000276",
     "sentence": "先是，姚元之、宋璟知政事，奏請停中宗朝斜封官數千員。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚元之",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_077_000277",
@@ -3220,7 +3453,14 @@
   {
     "sentence_id": "HCH_008_077_000292",
     "sentence": "陛下初即位時，納姚元之、宋璟之計，所以咸令黜之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚元之",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_077_000293",
@@ -3235,7 +3475,20 @@
   {
     "sentence_id": "HCH_008_077_000295",
     "sentence": "若斜封之人不忍棄也，是韋月將、燕欽融之流亦不可褒贈也，李多祚、鄭克義之徒亦不可清雪也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋月將",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "李多祚",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_077_000296",
@@ -3581,6 +3834,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "武延秀",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -3770,12 +4029,25 @@
   {
     "sentence_id": "HCH_008_077_000372",
     "sentence": "崔義玄",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔義玄",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_077_000373",
     "sentence": "崔義玄，貝州武城人也。",
     "entities": [
+      {
+        "text": "崔義玄",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "貝州武城",
         "label": "LOC",
@@ -3793,6 +4065,12 @@
     "sentence_id": "HCH_008_077_000375",
     "sentence": "義玄見群鼠渡洛，又槊刃有花文，謂所親曰：「此王敦敗亡之兆也。」時黃君漢守據柏崖，義玄往說之曰：「見機而作，不俟終日。今群盜蜂起，九州幅裂，神器所歸，必在有德。唐公據有秦京，名應符籙，此真主也。足下孤城獨立，宜遵寇恂、竇融之策，及時歸誠，以取封侯也。」君漢然之，即與義玄歸國。",
     "entities": [
+      {
+        "text": "黃君漢",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      },
       {
         "text": "九州",
         "label": "LOC",
@@ -3887,7 +4165,14 @@
   {
     "sentence_id": "HCH_008_077_000382",
     "sentence": "與友人孟神慶雖志好不同，各以介直匡正府幕，王並委任之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孟神慶",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_077_000383",
@@ -3933,7 +4218,14 @@
   {
     "sentence_id": "HCH_008_077_000386",
     "sentence": "司功參軍崔玄籍言於義玄曰：「起兵仗順，猶且不成，此乃妖誑，豈能得久？」義玄以為然，因命玄籍為先鋒，義玄率兵繼進，至下淮戌，擒其間諜二十餘人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔玄籍",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_077_000387",
@@ -4022,7 +4314,14 @@
   {
     "sentence_id": "HCH_008_077_000393",
     "sentence": "及長孫無忌等得罪，皆義玄承中旨繩之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 1,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_077_000394",
@@ -4329,7 +4628,14 @@
   {
     "sentence_id": "HCH_008_077_000417",
     "sentence": "尋令神慶與詹事祝欽明更日於東宮侍讀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "祝欽明",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_077_000418",
@@ -4339,7 +4645,14 @@
   {
     "sentence_id": "HCH_008_077_000419",
     "sentence": "神慶嘗受詔推張昌宗，而竟寬其罪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張昌宗",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_077_000420",

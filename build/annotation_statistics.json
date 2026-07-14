@@ -1,18 +1,20 @@
 {
   "records": 57474,
   "sentences": 271471,
-  "entities": 192109,
+  "entities": 208558,
   "entities_by_label": {
-    "BOOK": 14267,
+    "BOOK": 14153,
     "TIME": 26035,
-    "OFFICIAL_TITLE": 63463,
-    "LOCATION": 83061,
-    "DYNASTY": 3034,
-    "POLITY": 2249
+    "OFFICIAL_TITLE": 63461,
+    "PERSON": 18150,
+    "LOCATION": 81461,
+    "DYNASTY": 3042,
+    "POLITY": 2256
   },
   "annotation_status": "preannotation_needs_review",
   "sources": [
     "regex",
-    "seed"
+    "seed",
+    "cbdb"
   ]
 }

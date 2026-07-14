@@ -2014,12 +2014,26 @@
   {
     "sentence_id": "HCH_003_001_000217",
     "sentence": "堅使劉庫仁、劉衛辰分攝國事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉庫仁",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000218",
     "sentence": "南部大人長孫嵩及元他等盡將故人眾南依庫仁，帝於是轉在獨孤部。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000219",
@@ -2047,7 +2061,14 @@
   {
     "sentence_id": "HCH_003_001_000221",
     "sentence": "劉庫仁常謂其子曰：「帝有高天下之志，必興復洪業。」",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉庫仁",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000222",
@@ -2064,7 +2085,14 @@
   {
     "sentence_id": "HCH_003_001_000223",
     "sentence": "慕容文等殺劉庫仁，弟眷代攝國部。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉庫仁",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000224",
@@ -2075,6 +2103,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "慕容暐",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -2086,7 +2120,14 @@
   {
     "sentence_id": "HCH_003_001_000226",
     "sentence": "慕容垂僭稱燕王。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000227",
@@ -2097,6 +2138,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "劉庫仁",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -2177,12 +2224,25 @@
   {
     "sentence_id": "HCH_003_001_000236",
     "sentence": "復以長孫嵩為南部大人，以叔孫普洛為北部大人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000237",
     "sentence": "是月，慕容垂僭即皇帝位於中山，國號燕。",
     "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "皇帝",
         "label": "TITLE",
@@ -2247,7 +2307,14 @@
   {
     "sentence_id": "HCH_003_001_000246",
     "sentence": "遣行人安同、長孫賀征師于慕容垂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000247",
@@ -2301,7 +2368,14 @@
   {
     "sentence_id": "HCH_003_001_000254",
     "sentence": "十二月，慕容垂遣使奉帝西單于印綬，封上谷王。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000255",
@@ -2317,6 +2391,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -2360,7 +2440,14 @@
   {
     "sentence_id": "HCH_003_001_000263",
     "sentence": "八月，使九原公儀于慕容垂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000264",
@@ -2397,7 +2484,14 @@
   {
     "sentence_id": "HCH_003_001_000269",
     "sentence": "夏五月，使陳留公虔于慕容垂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000270",
@@ -2419,7 +2513,14 @@
   {
     "sentence_id": "HCH_003_001_000272",
     "sentence": "慕容垂遣子賀驎來會。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000273",
@@ -2434,7 +2535,14 @@
   {
     "sentence_id": "HCH_003_001_000275",
     "sentence": "使秦王觚于慕容垂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000276",
@@ -2481,7 +2589,14 @@
   {
     "sentence_id": "HCH_003_001_000283",
     "sentence": "慕容垂止秦王觚而求名馬，帝絕之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000284",
@@ -2654,7 +2769,14 @@
   {
     "sentence_id": "HCH_003_001_000312",
     "sentence": "慕容垂滅永。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000313",
@@ -2665,6 +2787,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -2718,7 +2846,14 @@
   {
     "sentence_id": "HCH_003_001_000322",
     "sentence": "三月，慕容垂寇桑乾川，陳留公虔死之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000323",
@@ -2778,7 +2913,14 @@
   {
     "sentence_id": "HCH_003_001_000330",
     "sentence": "八月己亥，大舉討慕容寶。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000331",
@@ -2901,6 +3043,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       },
       {
         "text": "買得等於平陶城",
@@ -3244,7 +3392,14 @@
   {
     "sentence_id": "HCH_003_001_000382",
     "sentence": "賀驎單馬走鄴，慕容德殺之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容德",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000383",
@@ -3295,7 +3450,14 @@
   {
     "sentence_id": "HCH_003_001_000388",
     "sentence": "天興元年春正月，慕容德走保滑台，衛王儀克鄴。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容德",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000389",
@@ -3400,6 +3562,12 @@
         "label": "TITLE",
         "start": 28,
         "end": 30
+      },
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       }
     ]
   },
@@ -3440,7 +3608,14 @@
   {
     "sentence_id": "HCH_003_001_000401",
     "sentence": "是月，慕容德自稱燕王，據廣固。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容德",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000402",
@@ -3483,7 +3658,14 @@
   {
     "sentence_id": "HCH_003_001_000407",
     "sentence": "夏四月壬戌，以曆陽公穆崇為太尉，钜鹿公長孫嵩為司徒，進封略陽公遵為常山王，南安公順為毗陵王。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000408",
@@ -3529,7 +3711,14 @@
   {
     "sentence_id": "HCH_003_001_000411",
     "sentence": "是月，蘭汗殺慕容寶而自立為大單于、昌黎王。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000412",
@@ -3557,7 +3746,14 @@
   {
     "sentence_id": "HCH_003_001_000414",
     "sentence": "慕容寶子盛殺蘭汗而自立為長樂王。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000415",
@@ -3780,7 +3976,14 @@
   {
     "sentence_id": "HCH_003_001_000441",
     "sentence": "是月，氐人李辯叛慕容德，求援於鄴。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容德",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000442",
@@ -4146,6 +4349,12 @@
     "sentence_id": "HCH_003_001_000482",
     "sentence": "八月，段興殺慕容盛，叔父熙盡誅段氏，僭即皇帝位。",
     "entities": [
+      {
+        "text": "慕容盛",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "皇帝",
         "label": "TITLE",
@@ -4524,7 +4733,14 @@
   {
     "sentence_id": "HCH_003_001_000527",
     "sentence": "冬十月，慕容德死。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容德",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000528",
@@ -4699,7 +4915,14 @@
   {
     "sentence_id": "HCH_003_001_000555",
     "sentence": "慕容寶養子高雲殺慕容熙而自立，僭號天王。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000556",
@@ -4932,7 +5155,14 @@
   {
     "sentence_id": "HCH_003_001_000587",
     "sentence": "詔南平公長孫嵩、北新侯安同對理人訟，簡賢任能。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000588",
@@ -4991,6 +5221,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -5824,6 +6060,12 @@
         "end": 5
       },
       {
+        "text": "長孫道生",
+        "label": "PER",
+        "start": 5,
+        "end": 9
+      },
+      {
         "text": "遂至龍城",
         "label": "LOC",
         "start": 15,
@@ -6568,7 +6810,14 @@
   {
     "sentence_id": "HCH_003_001_000808",
     "sentence": "遺詔以司空奚斤所獲軍實賜大臣自司徒長孫嵩以下，至於士卒各有差。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_001_000809",

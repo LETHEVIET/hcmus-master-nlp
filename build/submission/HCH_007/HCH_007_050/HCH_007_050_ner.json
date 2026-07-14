@@ -741,14 +741,7 @@
   {
     "sentence_id": "HCH_007_050_000072",
     "sentence": "九月，李存孝急攻潞州，汴軍夜遁，獲霸等誅之，武皇乃以康君立為昭義節度使。",
-    "entities": [
-      {
-        "text": "李存孝急攻潞州",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_050_000073",
@@ -882,7 +875,14 @@
   {
     "sentence_id": "HCH_007_050_000082",
     "sentence": "克寧曰：「王萬一不諱，後事何屬？」因召莊宗侍側，謂克寧、張承業曰：「亞子累公等。」言終棄代。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_050_000083",
@@ -923,6 +923,12 @@
         "label": "LOC",
         "start": 25,
         "end": 29
+      },
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       }
     ]
   },
@@ -940,6 +946,12 @@
         "label": "LOC",
         "start": 38,
         "end": 43
+      },
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 54,
+        "end": 57
       }
     ]
   },

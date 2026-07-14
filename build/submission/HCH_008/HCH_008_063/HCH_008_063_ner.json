@@ -91,7 +91,14 @@
   {
     "sentence_id": "HCH_008_063_000012",
     "sentence": "大業中，倫見虞世基幸於煬帝而不閒吏務，每有承受，多失事機。",
-    "entities": []
+    "entities": [
+      {
+        "text": "虞世基",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_063_000013",
@@ -116,7 +123,14 @@
   {
     "sentence_id": "HCH_008_063_000017",
     "sentence": "宇文化及之亂，逼帝出宮，使倫數帝之罪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文化及",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_063_000018",
@@ -786,7 +800,20 @@
   {
     "sentence_id": "HCH_008_063_000085",
     "sentence": "於時房玄齡、杜如晦既新用事，疏瑀親倫，瑀心不能平，遂上封事論之，而辭旨寥落。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_063_000086",
@@ -889,7 +916,14 @@
   {
     "sentence_id": "HCH_008_063_000095",
     "sentence": "玄齡、魏徵、溫彥博嘗有微過，瑀劾之，而罪竟不問，因此自失。",
-    "entities": []
+    "entities": [
+      {
+        "text": "溫彥博",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_063_000096",
@@ -956,6 +990,12 @@
     "sentence": "太宗嘗從容謂房玄齡曰：「蕭瑀大業之日，進諫隋主，出為河池郡守。應遭割心之禍，翻見太平之日，北叟失馬，事亦難常。」瑀頓首拜謝。",
     "entities": [
       {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "出為河池郡",
         "label": "LOC",
         "start": 24,
@@ -984,6 +1024,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 5,
+        "end": 9
       }
     ]
   },
@@ -1391,7 +1437,14 @@
   {
     "sentence_id": "HCH_008_063_000148",
     "sentence": "貞觀中，累除中書舍人，甚為房玄齡、魏徵所重。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_063_000149",
@@ -1860,6 +1913,12 @@
     "sentence": "宇文化及弒逆，署為尚書右僕射。",
     "entities": [
       {
+        "text": "宇文化及",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 9,
@@ -1871,6 +1930,12 @@
     "sentence_id": "HCH_008_063_000207",
     "sentence": "化及敗，竇建德復以為尚書右僕射，令專掌選事。",
     "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -1930,6 +1995,12 @@
     "sentence_id": "HCH_008_063_000212",
     "sentence": "令與虞世南撰《吉凶書儀》，參按故實，甚合禮度，為學者所稱，至今行之。",
     "entities": [
+      {
+        "text": "虞世南",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "《吉凶書儀》",
         "label": "TITLE",
@@ -2053,12 +2124,25 @@
   {
     "sentence_id": "HCH_008_063_000221",
     "sentence": "宇文士及",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文士及",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_063_000222",
     "sentence": "宇文士及，雍州長安人。",
     "entities": [
+      {
+        "text": "宇文士及",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
       {
         "text": "雍州",
         "label": "LOC",
@@ -2167,7 +2251,14 @@
   {
     "sentence_id": "HCH_008_063_000233",
     "sentence": "俄而化及為竇建德所擒，濟北豪右多勸士及發青、齊之眾，北擊建德，收河北之地，以觀形勢。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_063_000234",
@@ -2226,6 +2317,12 @@
     "sentence_id": "HCH_008_063_000237",
     "sentence": "又從平王世充、竇建德，以功進爵郢國公，遷中書侍郎，再轉太子詹事。",
     "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "侍郎",
         "label": "TITLE",

@@ -13,12 +13,6 @@
         "label": "TME",
         "start": 0,
         "end": 4
-      },
-      {
-        "text": "姜行本請於隴州",
-        "label": "LOC",
-        "start": 12,
-        "end": 19
       }
     ]
   },
@@ -33,9 +27,9 @@
         "end": 4
       },
       {
-        "text": "薛大鼎為滄州",
+        "text": "滄州",
         "label": "LOC",
-        "start": 5,
+        "start": 9,
         "end": 11
       },
       {
@@ -72,6 +66,12 @@
         "label": "TITLE",
         "start": 51,
         "end": 53
+      },
+      {
+        "text": "王師順",
+        "label": "PER",
+        "start": 53,
+        "end": 56
       },
       {
         "text": "絳州",
@@ -130,6 +130,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "姜師度",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -175,12 +181,6 @@
         "label": "TME",
         "start": 0,
         "end": 3
-      },
-      {
-        "text": "范安及檢行鄭州",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
       }
     ]
   },
@@ -227,6 +227,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "裴耀卿",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "竊見每州",
@@ -355,6 +361,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "崔希逸",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -475,12 +487,26 @@
   {
     "sentence_id": "HCH_008_049_000040",
     "sentence": "天寶以來，楊國忠、王鉷皆兼重使以權天下。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_049_000041",
     "sentence": "肅宗初，第五琦始以錢穀得見。",
-    "entities": []
+    "entities": [
+      {
+        "text": "第五琦",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_049_000042",
@@ -674,6 +700,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "第五琦",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -770,6 +802,12 @@
         "end": 13
       },
       {
+        "text": "崔河圖",
+        "label": "PER",
+        "start": 60,
+        "end": 63
+      },
+      {
         "text": "委江州",
         "label": "LOC",
         "start": 89,
@@ -861,7 +899,14 @@
   {
     "sentence_id": "HCH_008_049_000075",
     "sentence": "代第五琦領鹽務，其法益密。",
-    "entities": []
+    "entities": [
+      {
+        "text": "第五琦",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_049_000076",
@@ -877,6 +922,12 @@
     "sentence_id": "HCH_008_049_000078",
     "sentence": "李靈耀之亂，河南皆為盜據，不奉法制，賦稅不上供，州縣益減。",
     "entities": [
+      {
+        "text": "李靈耀",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "州縣",
         "label": "LOC",
@@ -1064,7 +1115,14 @@
   {
     "sentence_id": "HCH_008_049_000097",
     "sentence": "自後裴延齡專判度支，與鹽鐵益殊塗而理矣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴延齡",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_049_000098",
@@ -1103,12 +1161,26 @@
   {
     "sentence_id": "HCH_008_049_000101",
     "sentence": "時鹽鐵轉運有上都留後，以副使潘孟陽主之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "潘孟陽",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_049_000102",
     "sentence": "王叔文權傾朝野，亦以鹽鐵副使兼學士為留後。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_049_000103",
@@ -1356,6 +1428,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "柳公綽",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -1426,6 +1504,12 @@
     "sentence": "而令狐楚以戶部尚書右僕射主之，以是年茶法大壞，奏請付州縣而入其租於戶部，人人悅焉。",
     "entities": [
       {
+        "text": "令狐楚",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 7,
@@ -1472,6 +1556,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "楊嗣復",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -1509,6 +1599,24 @@
     "sentence_id": "HCH_008_049_000142",
     "sentence": "薛元賞、李執方、盧弘正、馬植、敬晦五人，於九年之中，相踵理之，植亦自是居相位。",
     "entities": [
+      {
+        "text": "薛元賞",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "李執方",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "盧弘正",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "九年",
         "label": "TME",
@@ -1680,6 +1788,12 @@
         "end": 294
       },
       {
+        "text": "韓仲良",
+        "label": "PER",
+        "start": 294,
+        "end": 297
+      },
+      {
         "text": "貯之州縣",
         "label": "LOC",
         "start": 325,
@@ -1844,6 +1958,12 @@
         "label": "TME",
         "start": 133,
         "end": 135
+      },
+      {
+        "text": "第五琦",
+        "label": "PER",
+        "start": 138,
+        "end": 141
       },
       {
         "text": "每州",
@@ -2387,6 +2507,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "令狐楚",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2409,6 +2535,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "薛元賞",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },

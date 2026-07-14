@@ -48,7 +48,7 @@ def main() -> None:
         "--double-annotate",
         type=float,
         default=0.15,
-        help="Tỷ lệ câu đánh double (15-20%).",
+        help="Tỷ lệ câu đánh double (15-20%%).",
     )
     args = parser.parse_args()
 

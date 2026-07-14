@@ -782,7 +782,14 @@
   {
     "sentence_id": "HCH_007_001_000070",
     "sentence": "時賊將霍存、葛從周、張歸厚、張歸霸皆匍匐于馬前，悉宥而納之，遂逐殘冦，東至于冤句。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張歸厚",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_001_000071",
@@ -980,6 +987,12 @@
         "end": 17
       },
       {
+        "text": "朱全忠",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "沛",
         "label": "LOC",
         "start": 21,
@@ -1095,20 +1108,19 @@
         "label": "LOC",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "朱全忠",
+        "label": "PER",
+        "start": 40,
+        "end": 43
       }
     ]
   },
   {
     "sentence_id": "HCH_007_001_000099",
     "sentence": "新唐書云：十月，朱全忠陷滑州，執義成軍節度使安師儒。",
-    "entities": [
-      {
-        "text": "朱全忠陷滑州",
-        "label": "LOC",
-        "start": 8,
-        "end": 14
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_001_000100",
@@ -1128,7 +1140,14 @@
   {
     "sentence_id": "HCH_007_001_000103",
     "sentence": "案舊唐書云：朝廷以汴帥朱全忠兼領義成軍節度使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱全忠",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_001_000104",
@@ -1434,6 +1453,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "楊行密",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -1446,6 +1471,18 @@
         "label": "TME",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "楊行密",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "朱全忠",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       },
       {
         "text": "兼揚州",
@@ -1707,12 +1744,6 @@
         "label": "LOC",
         "start": 15,
         "end": 19
-      },
-      {
-        "text": "楊行密已拔揚州",
-        "label": "LOC",
-        "start": 21,
-        "end": 28
       }
     ]
   },
@@ -1783,14 +1814,7 @@
   {
     "sentence_id": "HCH_007_001_000175",
     "sentence": "案新唐書：正月癸亥，朱全忠為蔡州四面行營都統。",
-    "entities": [
-      {
-        "text": "朱全忠為蔡州",
-        "label": "LOC",
-        "start": 10,
-        "end": 16
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_001_000176",
@@ -1865,6 +1889,12 @@
     "sentence_id": "HCH_007_001_000187",
     "sentence": "全義危急，遣使求救于汴，帝遣丁會、牛存節、葛從周領兵赴之，大戰于溫縣，晉人與罕之俱敗。",
     "entities": [
+      {
+        "text": "牛存節",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
       {
         "text": "大戰于溫縣",
         "label": "LOC",
@@ -2233,6 +2263,12 @@
         "label": "LOC",
         "start": 87,
         "end": 89
+      },
+      {
+        "text": "朱全忠",
+        "label": "PER",
+        "start": 92,
+        "end": 95
       }
     ]
   },
@@ -2281,6 +2317,12 @@
         "end": 11
       },
       {
+        "text": "朱友裕",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "斬于宿州城",
         "label": "LOC",
         "start": 43,
@@ -2296,7 +2338,14 @@
   {
     "sentence_id": "HCH_007_001_000229",
     "sentence": "辛未，昭宗命帝為宣義軍節度使，充河東東面行營招討使，案 舊唐書：五月，以宣武軍節度使朱全忠為太原東南面招討使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱全忠",
+        "label": "PER",
+        "start": 42,
+        "end": 45
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_001_000230",
@@ -2306,12 +2355,26 @@
   {
     "sentence_id": "HCH_007_001_000231",
     "sentence": "考新唐書云：五月，以朱全忠為南面招討使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱全忠",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_001_000232",
     "sentence": "六月辛未，朱全忠為河東東面行營招討使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱全忠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_001_000233",
@@ -2369,6 +2432,12 @@
     "sentence": "七月，朱全忠遣大將葛從周率千騎入潞州。",
     "entities": [
       {
+        "text": "朱全忠",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "周率千騎入潞州",
         "label": "LOC",
         "start": 11,
@@ -2390,6 +2459,12 @@
     "sentence_id": "HCH_007_001_000242",
     "sentence": "帝又遣朱友裕、張全義率精兵至鄆州北以為應援。",
     "entities": [
+      {
+        "text": "朱友裕",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "義率精兵至鄆州",
         "label": "LOC",
@@ -2591,7 +2666,14 @@
   {
     "sentence_id": "HCH_007_001_000264",
     "sentence": "是月，徐將劉知俊率眾二千來降，自是徐軍不振。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_001_000265",
@@ -2638,7 +2720,14 @@
   {
     "sentence_id": "HCH_007_001_000267",
     "sentence": "二月戊寅，帝親征鄆，先遣朱友裕屯軍于斗門。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱友裕",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_001_000268",
@@ -2649,6 +2738,12 @@
         "label": "LOC",
         "start": 41,
         "end": 43
+      },
+      {
+        "text": "朱友裕",
+        "label": "PER",
+        "start": 51,
+        "end": 54
       }
     ]
   },
@@ -2692,7 +2787,14 @@
   {
     "sentence_id": "HCH_007_001_000275",
     "sentence": "帝策馬南馳，為賊所追甚急，前有浚溝，躍馬而過，張歸厚援矟力戰于其後，乃免。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張歸厚",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_001_000276",
@@ -2708,12 +2810,6 @@
     "sentence_id": "HCH_007_001_000278",
     "sentence": "十一月，遣朱友裕率兵攻濮州，下之，擒刺史邵儒以獻，濮州平。",
     "entities": [
-      {
-        "text": "友裕率兵攻濮州",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
-      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -2918,6 +3014,12 @@
         "label": "LOC",
         "start": 5,
         "end": 8
+      },
+      {
+        "text": "楊行密",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -3023,7 +3125,14 @@
   {
     "sentence_id": "HCH_007_001_000321",
     "sentence": "案通鑑：九月辛未，朱全忠自將擊朱瑄，戰于梁山，瑄敗走還鄆。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱全忠",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_001_000322",
@@ -3068,6 +3177,12 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "朱全忠",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -3152,14 +3267,7 @@
   {
     "sentence_id": "HCH_007_001_000336",
     "sentence": "案通鑑云：朱全忠之去兗州也，留葛從周將兵守之。",
-    "entities": [
-      {
-        "text": "朱全忠之去兗州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_001_000337",
@@ -3376,14 +3484,7 @@
   {
     "sentence_id": "HCH_007_001_000362",
     "sentence": "己亥，帝入于鄆，以朱友裕為鄆州兵馬留後。",
-    "entities": [
-      {
-        "text": "以朱友裕為鄆州",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_001_000363",
@@ -3393,7 +3494,14 @@
   {
     "sentence_id": "HCH_007_001_000364",
     "sentence": "三月，表朱友裕為天平軍留後。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱友裕",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_001_000365",
@@ -3421,12 +3529,6 @@
         "label": "LOC",
         "start": 11,
         "end": 12
-      },
-      {
-        "text": "留康懷英守兗州",
-        "label": "LOC",
-        "start": 19,
-        "end": 26
       }
     ]
   },
@@ -3461,26 +3563,13 @@
         "label": "TME",
         "start": 8,
         "end": 10
-      },
-      {
-        "text": "朱全忠陷鄆州",
-        "label": "LOC",
-        "start": 15,
-        "end": 21
       }
     ]
   },
   {
     "sentence_id": "HCH_007_001_000372",
     "sentence": "二月，朱全忠寇兗州，泰寕軍節度使朱瑾奔于淮南。",
-    "entities": [
-      {
-        "text": "朱全忠寇兗州",
-        "label": "LOC",
-        "start": 3,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_001_000373",

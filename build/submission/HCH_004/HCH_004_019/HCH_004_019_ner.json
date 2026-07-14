@@ -501,6 +501,12 @@
     "sentence": "武帝不許，除賈顯智為刺史，率衆赴州。",
     "entities": [
       {
+        "text": "賈顯智",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "刺史",
         "label": "TITLE",
         "start": 10,
@@ -879,12 +885,26 @@
   {
     "sentence_id": "HCH_004_019_000086",
     "sentence": "尉長命",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉長命",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_019_000087",
     "sentence": "尉長命，太安狄那人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉長命",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_019_000088",
@@ -1673,12 +1693,26 @@
   {
     "sentence_id": "HCH_004_019_000151",
     "sentence": "任延敬",
-    "entities": []
+    "entities": [
+      {
+        "text": "任延敬",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_019_000152",
     "sentence": "任延敬，廣寧人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "任延敬",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_019_000153",
@@ -1758,6 +1792,12 @@
     "sentence_id": "HCH_004_019_000160",
     "sentence": "及斛斯椿釁發，延敬棄家北走，至河北郡，因率土民據之，以待高祖。",
     "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "至河北郡",
         "label": "LOC",
@@ -2144,7 +2184,20 @@
   {
     "sentence_id": "HCH_004_019_000197",
     "sentence": "斛斯椿等釁起，魏武帝遣賈顯智據守石濟。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "賈顯智",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_019_000198",
@@ -2295,7 +2348,14 @@
   {
     "sentence_id": "HCH_004_019_000209",
     "sentence": "恒從斛律光征討，數有戰功。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_019_000210",
@@ -3104,12 +3164,26 @@
   {
     "sentence_id": "HCH_004_019_000272",
     "sentence": "薛孤延",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛孤延",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_019_000273",
     "sentence": "薛孤延，代人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛孤延",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_019_000274",
@@ -3290,7 +3364,14 @@
   {
     "sentence_id": "HCH_004_019_000292",
     "sentence": "高祖嘆曰：「薛孤延乃能與霹靂鬭！」其勇決如此。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛孤延",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_019_000293",
@@ -3470,12 +3551,26 @@
   {
     "sentence_id": "HCH_004_019_000305",
     "sentence": "張保洛",
-    "entities": []
+    "entities": [
+      {
+        "text": "張保洛",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_019_000306",
     "sentence": "張保洛，代人也，自云本出南陽西鄂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張保洛",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_019_000307",
@@ -3602,12 +3697,6 @@
     "sentence_id": "HCH_004_019_000317",
     "sentence": "魏出帝不協於高祖，令儀同賈顯智率豫州刺史斛斯壽東趣濟州。",
     "entities": [
-      {
-        "text": "同賈顯智率豫州",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
-      },
       {
         "text": "刺史",
         "label": "TITLE",

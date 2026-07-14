@@ -2,7 +2,14 @@
   {
     "sentence_id": "HCH_006_078_000001",
     "sentence": "蕭望之字長倩，東海蘭陵人也，徙杜陵。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_078_000002",
@@ -1662,7 +1669,14 @@
   {
     "sentence_id": "HCH_006_078_000133",
     "sentence": "贊曰：蕭望之歷位將相，籍師傅之恩，可謂親昵亡間。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_078_000134",

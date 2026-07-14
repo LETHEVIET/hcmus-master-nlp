@@ -2549,7 +2549,14 @@
   {
     "sentence_id": "HCH_005_019_000266",
     "sentence": "司空 第五倫 以爲不宜救。",
-    "entities": []
+    "entities": [
+      {
+        "text": "第五倫",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_019_000267",

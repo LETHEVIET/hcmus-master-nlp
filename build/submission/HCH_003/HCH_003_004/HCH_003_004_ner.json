@@ -253,6 +253,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -650,7 +656,14 @@
   {
     "sentence_id": "HCH_003_004_000070",
     "sentence": "十二月，齊直後張齊殺其主蕭寶卷以降蕭衍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭寶卷",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_004_000071",
@@ -695,7 +708,14 @@
   {
     "sentence_id": "HCH_003_004_000075",
     "sentence": "齊主蕭寶融遜位於梁。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭寶融",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_004_000076",
@@ -788,12 +808,6 @@
     "sentence": "四月癸未朔，以蕭寶夤為東揚州刺史，封丹楊郡公、齊王。",
     "entities": [
       {
-        "text": "蕭寶夤為東揚州",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 14,
@@ -874,7 +888,14 @@
   {
     "sentence_id": "HCH_003_004_000100",
     "sentence": "冬十一月己未，封武興國世子楊紹先為武興王。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊紹先",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_004_000101",
@@ -956,6 +977,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "馬仙琕",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -1039,6 +1066,12 @@
         "label": "LOC",
         "start": 6,
         "end": 9
+      },
+      {
+        "text": "夏侯道遷",
+        "label": "PER",
+        "start": 10,
+        "end": 14
       },
       {
         "text": "漢",
@@ -1125,6 +1158,12 @@
     "sentence_id": "HCH_003_004_000130",
     "sentence": "冬十一月戊辰朔，武興王楊紹先叔父集起謀反，詔光祿大夫楊椿討之。",
     "entities": [
+      {
+        "text": "楊紹先",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "大夫",
         "label": "TITLE",
@@ -1408,7 +1447,14 @@
   {
     "sentence_id": "HCH_003_004_000156",
     "sentence": "秋八月己亥，中山王英、齊王蕭寶夤坐鐘離敗，除名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_004_000157",
@@ -1697,6 +1743,12 @@
         "label": "TITLE",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "奚康生",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -2009,6 +2061,12 @@
         "end": 11
       },
       {
+        "text": "馬仙琕",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "詔徐州",
         "label": "LOC",
         "start": 21,
@@ -2314,6 +2372,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "奚康生",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -2697,12 +2761,6 @@
     "sentence": "庚申，詔太保、高陽王雍入居西栢堂決庶政，以任城王澄為尚書令，百官總己以聽二王。",
     "entities": [
       {
-        "text": "以任城",
-        "label": "LOC",
-        "start": 20,
-        "end": 23
-      },
-      {
         "text": "尚書",
         "label": "TITLE",
         "start": 26,
@@ -2829,14 +2887,7 @@
   {
     "sentence_id": "HCH_003_004_000308",
     "sentence": "任城王澄為司空。",
-    "entities": [
-      {
-        "text": "任城",
-        "label": "LOC",
-        "start": 0,
-        "end": 2
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_004_000309",
@@ -2959,6 +3010,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -3092,7 +3149,14 @@
   {
     "sentence_id": "HCH_003_004_000339",
     "sentence": "戊申，以開府儀同三司胡國珍為司徒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "胡國珍",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_004_000340",
@@ -3278,7 +3342,14 @@
   {
     "sentence_id": "HCH_003_004_000361",
     "sentence": "夏四月丁酉，司徒胡國珍薨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "胡國珍",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_004_000362",
@@ -3322,7 +3393,14 @@
   {
     "sentence_id": "HCH_003_004_000367",
     "sentence": "甲子，卻鐵匆詣行臺源子恭降。",
-    "entities": []
+    "entities": [
+      {
+        "text": "源子恭",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_004_000368",
@@ -3410,14 +3488,7 @@
   {
     "sentence_id": "HCH_003_004_000379",
     "sentence": "夏五月戊戌，以司空、任城王澄為司徒，京兆王繼為司空。",
-    "entities": [
-      {
-        "text": "任城",
-        "label": "LOC",
-        "start": 10,
-        "end": 12
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_004_000380",
@@ -3444,14 +3515,7 @@
   {
     "sentence_id": "HCH_003_004_000383",
     "sentence": "冬十二月癸丑，司徒、任城王澄薨。",
-    "entities": [
-      {
-        "text": "任城",
-        "label": "LOC",
-        "start": 10,
-        "end": 12
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_004_000384",
@@ -3628,6 +3692,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "奚康生",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -4097,6 +4167,12 @@
         "end": 8
       },
       {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "大都",
         "label": "LOC",
         "start": 23,
@@ -4169,6 +4245,12 @@
         "label": "TITLE",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "李仲遵",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -4262,6 +4344,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "元法僧",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -4310,10 +4398,22 @@
     "sentence": "癸亥，蕭寶夤及征西將軍崔延伯大破賊於黑水。",
     "entities": [
       {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "崔延伯",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -4363,6 +4463,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "崔延伯",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -4715,6 +4821,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -4744,14 +4856,7 @@
   {
     "sentence_id": "HCH_003_004_000526",
     "sentence": "蕭寶夤大敗於涇州，北海王顥尋亦敗走。",
-    "entities": [
-      {
-        "text": "寶夤大敗於涇州",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_004_000527",
@@ -4864,7 +4969,14 @@
   {
     "sentence_id": "HCH_003_004_000538",
     "sentence": "八月，都督源子邕、李神軌、裴衍攻鄴。",
-    "entities": []
+    "entities": [
+      {
+        "text": "源子邕",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_004_000539",
@@ -4941,6 +5053,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -4965,7 +5083,14 @@
   {
     "sentence_id": "HCH_003_004_000545",
     "sentence": "十二月戊申，都督源子邕、裴衍與榮戰，敗於陽平東北，並歿。",
-    "entities": []
+    "entities": [
+      {
+        "text": "源子邕",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_004_000546",
@@ -5008,6 +5133,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },

@@ -109,6 +109,12 @@
     "sentence": "及斛斯椿等釁結，神武帥師入洛陽，以晉陽根本，召琛留總相府政事，天平中，除御史中尉。",
     "entities": [
       {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "洛陽",
         "label": "LOC",
         "start": 13,
@@ -292,7 +298,14 @@
   {
     "sentence_id": "HCH_003_051_000033",
     "sentence": "文襄謂曰：「我為爾娶鄭述祖女，何嫌而不樂？」對曰：「自痛孤遺，方從婚冠，彌用感切。」言未卒，鳴咽不自勝，文襄為之憫然。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭述祖",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_051_000034",
@@ -382,6 +395,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -632,7 +651,14 @@
   {
     "sentence_id": "HCH_003_051_000067",
     "sentence": "斛律光自三堆還，帝以遭大寇，抱其頭哭。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_051_000068",
@@ -1054,7 +1080,14 @@
   {
     "sentence_id": "HCH_003_051_000112",
     "sentence": "岳總諸軍南討，與行台慕容紹宗擊破明，禽之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 10,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_051_000113",
@@ -1081,7 +1114,14 @@
   {
     "sentence_id": "HCH_003_051_000116",
     "sentence": "又統慕容紹宗、劉豐等攻王思政於長社。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_051_000117",
@@ -1214,6 +1254,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "陸法和",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -1406,7 +1452,14 @@
   {
     "sentence_id": "HCH_003_051_000158",
     "sentence": "斛律光雅敬之，每征伐則引為副。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_051_000159",
@@ -2819,7 +2872,14 @@
   {
     "sentence_id": "HCH_003_051_000317",
     "sentence": "高元海、畢義雲、高乾和等咸數言其短。",
-    "entities": []
+    "entities": [
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_051_000318",
@@ -2990,6 +3050,12 @@
         "end": 18
       },
       {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 58,
+        "end": 61
+      },
+      {
         "text": "即臨城",
         "label": "LOC",
         "start": 82,
@@ -3024,6 +3090,12 @@
     "sentence_id": "HCH_003_051_000337",
     "sentence": "對曰：「高元海受畢義雲宅，用作本州刺史，給後部鼓吹，臣為蕃王、太宰，仍不得鼓吹。正殺元海、義雲而已。」上令都督劉桃枝牽入，歸彥猶作前語，望活。",
     "entities": [
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "用作本州",
         "label": "LOC",
@@ -4361,6 +4433,12 @@
         "label": "LOC",
         "start": 14,
         "end": 18
+      },
+      {
+        "text": "裴之橫",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -5017,7 +5095,14 @@
   {
     "sentence_id": "HCH_003_051_000548",
     "sentence": "其妃父護軍長史張晏之，嘗要道拜湜，湜不禮焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張晏之",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_051_000549",

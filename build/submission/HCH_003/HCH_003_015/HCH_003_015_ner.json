@@ -1050,6 +1050,12 @@
         "label": "TITLE",
         "start": 27,
         "end": 29
+      },
+      {
+        "text": "房士達",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -1212,6 +1218,12 @@
     "sentence_id": "HCH_003_015_000155",
     "sentence": "故中尉臣酈道元舉而奏之，而順復啟云：「尚書百揆之本，令僕納言之貴，不宜下隸中尉，送名御史。」尋亦蒙敕，聽如其奏。",
     "entities": [
+      {
+        "text": "酈道元",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -1716,6 +1728,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "李叔仁",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -2162,7 +2180,14 @@
   {
     "sentence_id": "HCH_003_015_000257",
     "sentence": "然謟事要人，驕侮輕賤，每見王睿、苻承祖，常傾身下之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "苻承祖",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_015_000258",
@@ -2292,6 +2317,12 @@
         "label": "TITLE",
         "start": 227,
         "end": 229
+      },
+      {
+        "text": "呂受恩",
+        "label": "PER",
+        "start": 229,
+        "end": 232
       }
     ]
   },
@@ -2755,6 +2786,12 @@
     "sentence": "宋將裴方明陷仇池，太武復授齊前將軍，與建興公古弼討之。",
     "entities": [
       {
+        "text": "裴方明",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 15,
@@ -2770,14 +2807,7 @@
   {
     "sentence_id": "HCH_003_015_000330",
     "sentence": "復賜爵河間公，與武都王楊保宗對鎮駱穀。",
-    "entities": [
-      {
-        "text": "都王楊保宗對鎮",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_015_000331",
@@ -3124,6 +3154,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "裴芬之",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -3241,7 +3277,14 @@
   {
     "sentence_id": "HCH_003_015_000383",
     "sentence": "與南平公長孫嵩、白馬侯崔密等並決獄訟。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_015_000384",
@@ -3389,7 +3432,14 @@
   {
     "sentence_id": "HCH_003_015_000401",
     "sentence": "昭成季年，苻堅遣其行唐公苻洛等來寇南境，昭成遣劉庫仁逆戰于石子嶺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉庫仁",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_015_000402",
@@ -3553,7 +3603,14 @@
   {
     "sentence_id": "HCH_003_015_000427",
     "sentence": "及帝將圖慕容垂，遣儀觀釁。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_015_000428",
@@ -3563,7 +3620,14 @@
   {
     "sentence_id": "HCH_003_015_000429",
     "sentence": "儀曰：「先人以來，世據北土，子孫相承，不失其舊。乃祖受晉正朔，爵稱代王，東與燕世為兄弟。儀之奉命。理謂非失。」垂壯其對，因戲曰：「吾威加四海，卿主不自見吾，云何非失？」儀曰：「燕若不修文德，欲以兵威自強，此乃本朝將帥之事，非儀所知也。」及還，報曰：「垂死乃可圖，今則未可。」帝作色問之，儀曰：「垂年已暮，其子寶弱而無威，謀不能決。慕容德自負才氣，非弱主之臣，釁將內起，是可計之。」帝以為然。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容德",
+        "label": "PER",
+        "start": 165,
+        "end": 168
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_015_000430",
@@ -3588,7 +3652,14 @@
   {
     "sentence_id": "HCH_003_015_000434",
     "sentence": "慕容寶之寇五原，儀躡據朔方，要其還路。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_015_000435",
@@ -3617,6 +3688,12 @@
     "sentence_id": "HCH_003_015_000437",
     "sentence": "慕容德敗也，帝以普驎妻周氏賜儀，並其僮僕財物。",
     "entities": [
+      {
+        "text": "慕容德",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "周氏",
         "label": "ORG",
@@ -4219,7 +4296,14 @@
   {
     "sentence_id": "HCH_003_015_000516",
     "sentence": "使于慕容垂，垂末年政在群下，遂止觚以求賂，道武絕之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_015_000517",
@@ -4264,7 +4348,14 @@
   {
     "sentence_id": "HCH_003_015_000525",
     "sentence": "慕容寶之敗也，別率騎七百，邀其歸路，由是有參合之捷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_015_000526",
@@ -4428,6 +4519,12 @@
     "sentence_id": "HCH_003_015_000548",
     "sentence": "陪斤子昭，小字阿倪，尚書張彝引兼殿中郎。",
     "entities": [
+      {
+        "text": "陪斤子",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -5159,6 +5256,12 @@
     "sentence": "策功論賞，毗與領軍斛斯椿等十三人為首，封魏郡王。",
     "entities": [
       {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "封魏郡",
         "label": "LOC",
         "start": 19,
@@ -5554,14 +5657,7 @@
   {
     "sentence_id": "HCH_003_015_000666",
     "sentence": "後昭暉與任城王澄、京兆王愉、東平王匡共決門下大事。",
-    "entities": [
-      {
-        "text": "後昭暉與任城",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_015_000667",
@@ -6172,7 +6268,14 @@
   {
     "sentence_id": "HCH_003_015_000735",
     "sentence": "慕容寶來寇，虔絕其左翼，寶敗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_015_000736",
@@ -6718,7 +6821,14 @@
   {
     "sentence_id": "HCH_003_015_000812",
     "sentence": "濟淮，宋將劉康祖屯于慰武亭以邀軍路，師人患之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉康祖",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_015_000813",
@@ -6835,7 +6945,14 @@
   {
     "sentence_id": "HCH_003_015_000830",
     "sentence": "先沒于慕容垂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_015_000831",
@@ -7204,7 +7321,14 @@
   {
     "sentence_id": "HCH_003_015_000879",
     "sentence": "帝慮內難，乃北逾陰山，幸賀蘭部，遣安同及長孫漫徵兵于慕容垂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_015_000880",
@@ -7214,7 +7338,14 @@
   {
     "sentence_id": "HCH_003_015_000881",
     "sentence": "慕容垂遣子賀驎步騎六千以隨之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_015_000882",

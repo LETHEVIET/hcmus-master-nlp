@@ -2,12 +2,26 @@
   {
     "sentence_id": "HCH_005_065_000001",
     "sentence": "皇甫規",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫規",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_065_000002",
     "sentence": "皇甫規字威明，安定朝那人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫規",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_065_000003",
@@ -693,7 +707,14 @@
   {
     "sentence_id": "HCH_005_065_000062",
     "sentence": "[ 39 ] 察皇甫規之言，其心不怍哉！",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫規",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_065_000063",
@@ -884,7 +905,14 @@
   {
     "sentence_id": "HCH_005_065_000089",
     "sentence": "奐與皇甫規友善，奐既被錮，凡諸交舊莫敢為言，唯規薦舉前後七上。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫規",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_065_000090",
@@ -1318,6 +1346,12 @@
         "label": "TITLE",
         "start": 41,
         "end": 43
+      },
+      {
+        "text": "邯鄲商",
+        "label": "PER",
+        "start": 43,
+        "end": 46
       }
     ]
   },
@@ -1754,6 +1788,12 @@
         "end": 6
       },
       {
+        "text": "皇甫規",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "中郎將",
         "label": "TITLE",
         "start": 10,
@@ -1764,7 +1804,20 @@
   {
     "sentence_id": "HCH_005_065_000190",
     "sentence": "桓帝詔問熲曰：「先零東羌造惡反逆，而皇甫規、張奐各擁強觿，不時輯定。欲熲移兵東討，未識其宜，可參思術略。」熲因上言曰：「臣伏見先零東羌雖數叛逆，而降於皇甫規者，已二萬許落，善惡既分，餘寇無幾。今張奐躊躇久不進者，當慮外離內合，兵往必驚。且自冬踐春，屯結不散，人畜疲羸，自亡之埶，徒更招降，坐制強敵耳。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫規",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "皇甫規",
+        "label": "PER",
+        "start": 75,
+        "end": 78
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_065_000191",
@@ -2006,6 +2059,12 @@
         "label": "TME",
         "start": 376,
         "end": 378
+      },
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 425,
+        "end": 428
       },
       {
         "text": "今傍郡",
@@ -3878,7 +3937,14 @@
   {
     "sentence_id": "HCH_005_065_000484",
     "sentence": "前書班固曰：「秦漢以來，山東出相，山西出將。」若白起、王翦、李廣、辛慶忌之流，皆山西人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "辛慶忌",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_065_000485",

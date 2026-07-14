@@ -59,7 +59,14 @@
   {
     "sentence_id": "HCH_008_194c_000011",
     "sentence": "遇江都之亂，從宇文化及至河北。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文化及",
+        "label": "PER",
+        "start": 7,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_194c_000012",
@@ -200,7 +207,14 @@
   {
     "sentence_id": "HCH_008_194c_000031",
     "sentence": "又從平王世充，破竇建德、劉黑闥，並有殊功。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_194c_000032",
@@ -516,6 +530,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "劉善因",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -680,6 +700,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "張大師",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -948,6 +974,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 21
+      },
+      {
+        "text": "契苾何力",
+        "label": "PER",
+        "start": 21,
+        "end": 25
       }
     ]
   },
@@ -980,6 +1012,24 @@
         "end": 11
       },
       {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "任雅相",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "蕭嗣業",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 33,
@@ -1007,7 +1057,14 @@
   {
     "sentence_id": "HCH_008_194c_000143",
     "sentence": "定方率副總管任雅相等與之交戰，賊眾大敗，斬大首領都搭達幹等二百余人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "任雅相",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_194c_000144",
@@ -1027,7 +1084,14 @@
   {
     "sentence_id": "HCH_008_194c_000147",
     "sentence": "彌射、步真攻之，大潰；又與蘇定方攻賀魯於碎葉水，大破之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_194c_000148",
@@ -1050,7 +1114,14 @@
   {
     "sentence_id": "HCH_008_194c_000149",
     "sentence": "蕭嗣業既至石國，鼠耨設乃以賀魯屬之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭嗣業",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_194c_000150",
@@ -1115,6 +1186,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "劉善因",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1246,6 +1323,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -1279,6 +1362,12 @@
     "sentence": "卿宜與盧承慶等準其部落大小，位望高下，節級授刺史以下官。",
     "entities": [
       {
+        "text": "盧承慶",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "刺史",
         "label": "TITLE",
         "start": 22,
@@ -1289,7 +1378,14 @@
   {
     "sentence_id": "HCH_008_194c_000179",
     "sentence": "龍朔中，又令彌射、步真率所部從釭海道大總管蘇海政討龜茲。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇海政",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_194c_000180",
@@ -1362,6 +1458,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -1637,6 +1739,12 @@
         "label": "TITLE",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "宗楚客",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -1789,6 +1897,12 @@
     "sentence": "會杜暹入知政事，趙頤貞代為安西都護，城守久之，由是四鎮貯積及人畜並為蘇祿所掠，安西僅全。",
     "entities": [
       {
+        "text": "趙頤貞",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "由是四鎮",
         "label": "LOC",
         "start": 23,
@@ -1893,7 +2007,14 @@
   {
     "sentence_id": "HCH_008_194c_000246",
     "sentence": "莫賀達幹遣使告安西都護蓋嘉運。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蓋嘉運",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_194c_000247",

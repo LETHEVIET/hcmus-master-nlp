@@ -2477,7 +2477,14 @@
   {
     "sentence_id": "HCH_006_096a_000332",
     "sentence": "會衛候馮奉世使送大宛客，即以便宜發諸國兵擊殺之，更立它昆弟子為莎車王。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮奉世",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_096a_000333",

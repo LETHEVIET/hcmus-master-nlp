@@ -2,12 +2,44 @@
   {
     "sentence_id": "HCH_003_020_000001",
     "sentence": "衞操 莫含 劉庫仁 尉古真 穆崇 奚斤 叔孫建 安同 庾業延 王建 羅結 樓伏連 閭大肥 奚牧 和跋 莫題 賀狄干 李栗 奚眷",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉庫仁",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "樓伏連",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      },
+      {
+        "text": "閭大肥",
+        "label": "PER",
+        "start": 41,
+        "end": 44
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000002",
     "sentence": "列傳第八衛操莫含劉庫仁（弟子羅辰羅辰曾孫仁之尉古真（從玄孫瑾穆崇奚斤叔孫建安同庾業延王建羅結樓伏連（曾孫寶閭大",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉庫仁",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "樓伏連",
+        "label": "PER",
+        "start": 46,
+        "end": 49
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000003",
@@ -484,12 +516,26 @@
   {
     "sentence_id": "HCH_003_020_000049",
     "sentence": "劉庫仁",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉庫仁",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000050",
     "sentence": "劉庫仁字沒根，獨孤部人，劉武之宗也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉庫仁",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000051",
@@ -580,6 +626,12 @@
     "sentence": "慕容垂圍苻丕於鄴，又遣將平規攻堅幽州刺史王永于薊。",
     "entities": [
       {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "將平規攻堅幽州",
         "label": "LOC",
         "start": 11,
@@ -636,6 +688,12 @@
         "label": "LOC",
         "start": 4,
         "end": 10
+      },
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -1230,6 +1288,12 @@
         "end": 12
       },
       {
+        "text": "劉庫仁",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 31,
@@ -1483,6 +1547,12 @@
     "sentence_id": "HCH_003_020_000168",
     "sentence": "武成踐祚，趙彥深本子如賓寮，元文遙、和士開並帝鄉故舊，共相薦達，任遇彌重。",
     "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "和士開並帝鄉",
         "label": "LOC",
@@ -2105,14 +2175,7 @@
   {
     "sentence_id": "HCH_003_020_000243",
     "sentence": "頤密表其事，帝乃遣任城王澄發並、肆兵討之。",
-    "entities": [
-      {
-        "text": "帝乃遣任城",
-        "label": "LOC",
-        "start": 6,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_020_000244",
@@ -2410,7 +2473,14 @@
   {
     "sentence_id": "HCH_003_020_000278",
     "sentence": "遣司空長孫道生等擊之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫道生",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000279",
@@ -2802,12 +2872,6 @@
         "label": "LOC",
         "start": 42,
         "end": 47
-      },
-      {
-        "text": "長孫嵩為司州",
-        "label": "LOC",
-        "start": 50,
-        "end": 56
       },
       {
         "text": "尚書",
@@ -3545,7 +3609,14 @@
   {
     "sentence_id": "HCH_003_020_000406",
     "sentence": "後知南部大人劉庫仁所盜，養於窟室。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉庫仁",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000407",
@@ -3587,7 +3658,14 @@
   {
     "sentence_id": "HCH_003_020_000413",
     "sentence": "從征慕容寶於參合。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000414",
@@ -3682,7 +3760,14 @@
   {
     "sentence_id": "HCH_003_020_000424",
     "sentence": "詔與南平公長孫嵩等俱坐朝堂，錄決囚徒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000425",
@@ -3709,7 +3794,14 @@
   {
     "sentence_id": "HCH_003_020_000428",
     "sentence": "又詔斤與長孫嵩等八人坐止車門左，聽理萬機。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000429",
@@ -3821,6 +3913,12 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -4080,7 +4178,14 @@
   {
     "sentence_id": "HCH_003_020_000479",
     "sentence": "隨秦王觚使慕容垂，曆六載乃還。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000480",
@@ -4266,7 +4371,14 @@
   {
     "sentence_id": "HCH_003_020_000494",
     "sentence": "宋遣將檀道濟、王仲德救夔，建不克而還。",
-    "entities": []
+    "entities": [
+      {
+        "text": "檀道濟",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000495",
@@ -4277,6 +4389,12 @@
     "sentence_id": "HCH_003_020_000496",
     "sentence": "與汝陰公長孫道生濟河而南，仲德等自清入濟，東走青州。",
     "entities": [
+      {
+        "text": "長孫道生",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      },
       {
         "text": "東走青州",
         "label": "LOC",
@@ -4318,7 +4436,14 @@
   {
     "sentence_id": "HCH_003_020_000499",
     "sentence": "宋將檀道濟、王仲德救滑台。",
-    "entities": []
+    "entities": [
+      {
+        "text": "檀道濟",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000500",
@@ -4574,12 +4699,26 @@
   {
     "sentence_id": "HCH_003_020_000538",
     "sentence": "父屈，仕慕容暐。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容暐",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000539",
     "sentence": "暐為苻堅所滅，屈友人公孫眷妹沒入苻氏宮，出賜劉庫仁為妻，庫仁貴寵之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉庫仁",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000540",
@@ -4594,7 +4733,14 @@
   {
     "sentence_id": "HCH_003_020_000542",
     "sentence": "登國初，道武徵兵于慕容垂，同頻使稱旨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000543",
@@ -4619,7 +4765,14 @@
   {
     "sentence_id": "HCH_003_020_000547",
     "sentence": "明元即位，命同與南平公長孫嵩並理人訟。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000548",
@@ -4961,6 +5114,12 @@
     "sentence": "宋將到彥之寇河南以援定，列守南岸，至於衡關。",
     "entities": [
       {
+        "text": "到彥之",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "至於衡關",
         "label": "LOC",
         "start": 17,
@@ -5254,7 +5413,14 @@
   {
     "sentence_id": "HCH_003_020_000631",
     "sentence": "道武遣使慕容垂，建辭色高亢，垂壯之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000632",
@@ -5303,7 +5469,14 @@
   {
     "sentence_id": "HCH_003_020_000638",
     "sentence": "破慕容寶於參合，帝乘勝將席捲南夏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000639",
@@ -5766,6 +5939,12 @@
         "label": "LOC",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "源子邕",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -5936,12 +6115,26 @@
   {
     "sentence_id": "HCH_003_020_000715",
     "sentence": "閭大肥",
-    "entities": []
+    "entities": [
+      {
+        "text": "閭大肥",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000716",
     "sentence": "閭大肥，蠕蠕人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "閭大肥",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000717",
@@ -6040,6 +6233,12 @@
     "sentence": "從征慕容寶，以功拜并州刺史，賜爵任城公。",
     "entities": [
       {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "以功拜并州",
         "label": "LOC",
         "start": 6,
@@ -6114,7 +6313,14 @@
   {
     "sentence_id": "HCH_003_020_000740",
     "sentence": "以破慕容德軍，改封定陵公。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容德",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000741",
@@ -6223,7 +6429,14 @@
   {
     "sentence_id": "HCH_003_020_000759",
     "sentence": "道武之征慕容寶，寶夜犯營，軍人驚駭。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000760",
@@ -6295,7 +6508,14 @@
   {
     "sentence_id": "HCH_003_020_000772",
     "sentence": "登國初，與長孫嵩為對。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000773",
@@ -6497,7 +6717,14 @@
   {
     "sentence_id": "HCH_003_020_000803",
     "sentence": "而劉庫仁兄弟忠以為心，盛衰不二。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉庫仁",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000804",
@@ -6591,7 +6818,14 @@
   {
     "sentence_id": "HCH_003_020_000819",
     "sentence": "婁伏連、閭大肥並征代著績，策名前代。",
-    "entities": []
+    "entities": [
+      {
+        "text": "閭大肥",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_020_000820",

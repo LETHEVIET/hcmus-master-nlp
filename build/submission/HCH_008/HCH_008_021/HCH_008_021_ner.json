@@ -276,6 +276,12 @@
         "end": 4
       },
       {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
         "text": "《吉禮》",
         "label": "TITLE",
         "start": 41,
@@ -378,10 +384,34 @@
         "end": 12
       },
       {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 21,
+        "end": 25
+      },
+      {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 38,
         "end": 40
+      },
+      {
+        "text": "李友益",
+        "label": "PER",
+        "start": 40,
+        "end": 43
       },
       {
         "text": "侍郎",
@@ -390,16 +420,40 @@
         "end": 48
       },
       {
+        "text": "劉祥道",
+        "label": "PER",
+        "start": 48,
+        "end": 51
+      },
+      {
+        "text": "許圉師",
+        "label": "PER",
+        "start": 51,
+        "end": 54
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 55,
         "end": 57
       },
       {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 59,
+        "end": 62
+      },
+      {
         "text": "博士",
         "label": "TITLE",
         "start": 72,
         "end": 74
+      },
+      {
+        "text": "孔志約",
+        "label": "PER",
+        "start": 81,
+        "end": 84
       },
       {
         "text": "博士",
@@ -424,7 +478,20 @@
   {
     "sentence_id": "HCH_008_021_000041",
     "sentence": "時許敬宗、李義府用事，其所損益，多涉希旨，行用已後，學者紛議，以為不及貞觀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_021_000042",
@@ -472,10 +539,34 @@
     "sentence": "時有太常卿裴明禮、太常少卿韋萬石相次參掌其事，又前後博士賀敱、賀紀、韋叔夏、裴守真等多所議定。",
     "entities": [
       {
+        "text": "裴明禮",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "韋萬石",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "博士",
         "label": "TITLE",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "韋叔夏",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "text": "裴守真",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       }
     ]
   },
@@ -488,6 +579,12 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "祝欽明",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -582,6 +679,12 @@
         "label": "TITLE",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "施敬本",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -589,6 +692,12 @@
     "sentence_id": "HCH_008_021_000056",
     "sentence": "說卒後，蕭嵩代為集賢院學士，始奏起居舍人王仲丘撰成一百五十卷，名曰《大唐開元禮》。",
     "entities": [
+      {
+        "text": "王仲丘",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
       {
         "text": "《大唐開元禮》",
         "label": "TITLE",
@@ -939,6 +1048,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 7,
+        "end": 11
       }
     ]
   },
@@ -1207,6 +1322,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1309,7 +1430,14 @@
   {
     "sentence_id": "HCH_008_021_000140",
     "sentence": "得太史令李淳風等狀，昊天上帝圖位自在壇上，北辰自在第二等，與北斗並列，為星官內座之首，不同鄭玄據緯書所說。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李淳風",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_021_000141",
@@ -1489,7 +1617,14 @@
   {
     "sentence_id": "HCH_008_021_000161",
     "sentence": "司禮少常伯郝處俊等奏曰：",
-    "entities": []
+    "entities": [
+      {
+        "text": "郝處俊",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_021_000162",
@@ -1640,6 +1775,24 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "陸遵楷",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "張統師",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "許子儒",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       },
       {
         "text": "漢",
@@ -1830,6 +1983,12 @@
         "end": 4
       },
       {
+        "text": "韋萬石",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "《貞觀禮》",
         "label": "TITLE",
         "start": 44,
@@ -2017,6 +2176,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "沈伯儀",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -2143,7 +2308,14 @@
   {
     "sentence_id": "HCH_008_021_000221",
     "sentence": "鳳閣舍人元萬頃、範履冰等議曰：",
-    "entities": []
+    "entities": [
+      {
+        "text": "元萬頃",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_021_000222",
@@ -2407,6 +2579,12 @@
         "end": 5
       },
       {
+        "text": "祝欽明",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
         "text": "《周禮》",
         "label": "TITLE",
         "start": 45,
@@ -2449,6 +2627,12 @@
         "end": 4
       },
       {
+        "text": "蔣欽緒",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "皇后",
         "label": "TITLE",
         "start": 15,
@@ -2483,6 +2667,12 @@
         "label": "TITLE",
         "start": 134,
         "end": 136
+      },
+      {
+        "text": "韋巨源",
+        "label": "PER",
+        "start": 139,
+        "end": 142
       },
       {
         "text": "皇后",
@@ -2524,6 +2714,12 @@
         "label": "TME",
         "start": 128,
         "end": 130
+      },
+      {
+        "text": "傅孝忠",
+        "label": "PER",
+        "start": 186,
+        "end": 189
       },
       {
         "text": "《漏刻經》",
@@ -2776,7 +2972,20 @@
   {
     "sentence_id": "HCH_008_021_000279",
     "sentence": "禮官國子祭酒褚無量、國子司業郭山惲等咸請依曾所奏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "褚無量",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "郭山惲",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_021_000280",
@@ -2987,7 +3196,14 @@
   {
     "sentence_id": "HCH_008_021_000310",
     "sentence": "時起居舍人王仲丘既掌知修撰，仍建議曰：",
-    "entities": []
+    "entities": [
+      {
+        "text": "王仲丘",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_021_000311",
@@ -3229,6 +3445,18 @@
         "end": 4
       },
       {
+        "text": "杜鴻漸",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "歸崇敬",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
         "text": "皇帝",
         "label": "TITLE",
         "start": 56,
@@ -3271,10 +3499,10 @@
     "sentence": "集賢校理潤州別駕歸崇敬議狀及禮儀使判官水部員外郎薛頎等稱：禘謂冬至祭天於圓丘，周人則以遠祖帝嚳配，今欲以景皇帝為始祖，配昊天於圓丘。",
     "entities": [
       {
-        "text": "集賢校理潤州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
+        "text": "歸崇敬",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "皇帝",
@@ -3726,6 +3954,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 12
+      },
+      {
+        "text": "鄭玄之",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -4136,7 +4370,14 @@
   {
     "sentence_id": "HCH_008_021_000427",
     "sentence": "又歸崇敬、薛頎等援引鄭學，欲蕪祀典，臣為明辯，迷而不復。",
-    "entities": []
+    "entities": [
+      {
+        "text": "歸崇敬",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_021_000428",
@@ -4206,6 +4447,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "獨孤及",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -4366,7 +4613,14 @@
   {
     "sentence_id": "HCH_008_021_000461",
     "sentence": "竟依歸崇敬等議，以太祖配享天地。",
-    "entities": []
+    "entities": [
+      {
+        "text": "歸崇敬",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_021_000462",
@@ -4377,6 +4631,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "杜鴻漸",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -4484,6 +4744,12 @@
     "sentence_id": "HCH_008_021_000471",
     "sentence": "歸崇敬曰：「准禮，立春迎春於東郊，祭青帝。立夏日迎夏於南郊，祭赤帝。立秋後十八日，迎黃靈於中地，祭黃帝。秋、冬各于其方。黃帝於五行為土，王在四季，土生於火，用事於木，而祭於秋，三季則否。漢、魏、周、隋，共行此禮。國家土德乘時，亦以每歲六月土王之日，祀黃帝於南郊，以後土配，合於典禮。彭祖憑候緯之說，據陰陽之書，事涉不經，恐難行用。」乃寢。",
     "entities": [
+      {
+        "text": "歸崇敬",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "漢",
         "label": "ORG",

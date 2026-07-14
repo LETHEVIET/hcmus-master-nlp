@@ -139,14 +139,7 @@
   {
     "sentence_id": "HCH_007_017_000016",
     "sentence": "楊行密以兵圍鄂州，汭出師以援鄂，淮寇乘之，以火焚其艦，汭投江而死。",
-    "entities": [
-      {
-        "text": "行密以兵圍鄂州",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_017_000017",
@@ -175,6 +168,12 @@
         "label": "LOC",
         "start": 33,
         "end": 36
+      },
+      {
+        "text": "楊行密",
+        "label": "PER",
+        "start": 234,
+        "end": 237
       },
       {
         "text": "《初學記》",
@@ -255,6 +254,12 @@
         "label": "LOC",
         "start": 69,
         "end": 72
+      },
+      {
+        "text": "楊行密",
+        "label": "PER",
+        "start": 83,
+        "end": 86
       },
       {
         "text": "二鎮",
@@ -373,6 +378,12 @@
         "label": "LOC",
         "start": 65,
         "end": 68
+      },
+      {
+        "text": "楊行密",
+        "label": "PER",
+        "start": 102,
+        "end": 105
       }
     ]
   },
@@ -449,6 +460,12 @@
         "label": "LOC",
         "start": 12,
         "end": 16
+      },
+      {
+        "text": "楊行密",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       },
       {
         "text": "時頵為宣州",
@@ -596,6 +613,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 9
+      },
+      {
+        "text": "楊行密",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "行密署為泗州",
@@ -819,14 +842,7 @@
   {
     "sentence_id": "HCH_007_017_000059",
     "sentence": "俄而康懷英攻下鄧州，匡凝懼，遣使乞盟，太祖許之，自是附庸於太祖。",
-    "entities": [
-      {
-        "text": "康懷英攻下鄧州",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_017_000060",

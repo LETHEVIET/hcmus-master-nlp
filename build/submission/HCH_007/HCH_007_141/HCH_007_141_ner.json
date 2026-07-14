@@ -1176,6 +1176,12 @@
         "end": 10
       },
       {
+        "text": "楊彥詢",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "雍州",
         "label": "LOC",
         "start": 17,
@@ -1547,6 +1553,12 @@
         "end": 49
       },
       {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 53,
+        "end": 56
+      },
+      {
         "text": "三年",
         "label": "TME",
         "start": 60,
@@ -1573,6 +1585,12 @@
         "label": "TME",
         "start": 1,
         "end": 5
+      },
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -1608,7 +1626,14 @@
   {
     "sentence_id": "HCH_007_141_000131",
     "sentence": "主者曰：「昔後唐長興中，安重誨授河中，其節亦有聲，斯亦木之妖也。」",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_141_000132",

@@ -651,6 +651,12 @@
     "sentence": "及從駕幸河中，詔追王重師赴行在，以捍為雍州節度觀察留後。",
     "entities": [
       {
+        "text": "王重師",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "以捍為雍州",
         "label": "LOC",
         "start": 16,
@@ -661,14 +667,7 @@
   {
     "sentence_id": "HCH_007_020_000059",
     "sentence": "才逾月，劉知俊據同州反，潛使人以厚利啖將校，遂為部下所執，送於知俊。",
-    "entities": [
-      {
-        "text": "劉知俊據同州",
-        "label": "LOC",
-        "start": 4,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_020_000060",
@@ -1093,12 +1092,6 @@
         "label": "TME",
         "start": 2,
         "end": 4
-      },
-      {
-        "text": "楊行密復攻濠州",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
       }
     ]
   },
@@ -1193,7 +1186,14 @@
   {
     "sentence_id": "HCH_007_020_000105",
     "sentence": "及羅紹威將殺牙軍，遣使告於太祖，求為外援。",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_020_000106",
@@ -1375,6 +1375,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -1558,12 +1564,26 @@
   {
     "sentence_id": "HCH_007_020_000140",
     "sentence": "寇彥卿",
-    "entities": []
+    "entities": [
+      {
+        "text": "寇彥卿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_020_000141",
     "sentence": "寇彥卿，字俊臣，大梁人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "寇彥卿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_020_000142",
@@ -1614,7 +1634,14 @@
   {
     "sentence_id": "HCH_007_020_000146",
     "sentence": "羅紹威將殺牙軍，遣使告於太祖，太祖命彥卿使於魏，密與紹威謀之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_020_000147",
@@ -1634,7 +1661,14 @@
   {
     "sentence_id": "HCH_007_020_000150",
     "sentence": "太祖每言曰：「敬翔、劉捍、寇彥卿，蓋為我而生。」其見重如此。",
-    "entities": []
+    "entities": [
+      {
+        "text": "寇彥卿",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_020_000151",
@@ -1698,6 +1732,12 @@
         "end": 27
       },
       {
+        "text": "寇彥卿",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      },
+      {
         "text": "壽二州",
         "label": "LOC",
         "start": 75,
@@ -1720,6 +1760,12 @@
         "label": "TITLE",
         "start": 95,
         "end": 104
+      },
+      {
+        "text": "寇彥卿",
+        "label": "PER",
+        "start": 112,
+        "end": 115
       }
     ]
   },

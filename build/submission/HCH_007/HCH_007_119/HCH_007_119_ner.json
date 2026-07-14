@@ -35,6 +35,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -448,6 +454,12 @@
         "label": "TITLE",
         "start": 59,
         "end": 61
+      },
+      {
+        "text": "劉楚信",
+        "label": "PER",
+        "start": 61,
+        "end": 64
       }
     ]
   },
@@ -468,6 +480,12 @@
     "sentence": "侍衛親軍都指揮使李重進及諸將相繼至行在，瀛州刺史高彥暉以本城歸順。",
     "entities": [
       {
+        "text": "李重進",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "瀛州",
         "label": "LOC",
         "start": 20,
@@ -478,6 +496,12 @@
         "label": "TITLE",
         "start": 22,
         "end": 24
+      },
+      {
+        "text": "高彥暉",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -543,6 +567,12 @@
         "label": "TITLE",
         "start": 21,
         "end": 23
+      },
+      {
+        "text": "李在欽",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -555,12 +585,6 @@
         "label": "LOC",
         "start": 3,
         "end": 10
-      },
-      {
-        "text": "《宋史·陳思讓傳》",
-        "label": "TITLE",
-        "start": 15,
-        "end": 24
       },
       {
         "text": "得瓦橋關為雄州",
@@ -581,16 +605,16 @@
     "sentence": "〈 （《宋史·韓令坤傳》：為霸州都部署，率所部兵戍之。） 〉 是日，先鋒都指揮使張藏英破契丹數百騎於瓦橋關北，攻下固安縣。",
     "entities": [
       {
-        "text": "《宋史·韓令坤傳》",
-        "label": "TITLE",
-        "start": 3,
-        "end": 12
-      },
-      {
         "text": "為霸州",
         "label": "LOC",
         "start": 13,
         "end": 16
+      },
+      {
+        "text": "張藏英",
+        "label": "PER",
+        "start": 40,
+        "end": 43
       },
       {
         "text": "數百騎於瓦橋關",
@@ -627,7 +651,14 @@
   {
     "sentence_id": "HCH_007_119_000047",
     "sentence": "庚戌，遣侍衛都指揮使李重進率兵出土門，入河東界。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李重進",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_119_000048",
@@ -667,7 +698,14 @@
   {
     "sentence_id": "HCH_007_119_000051",
     "sentence": "己巳，侍衛都指揮使李重進奏，破河東賊軍於百井，斬首二千級。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李重進",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_119_000052",
@@ -779,6 +817,12 @@
     "sentence": "癸未，立魏王符彥卿女為皇后，仍令所司擇日備禮冊命。",
     "entities": [
       {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "皇后",
         "label": "TITLE",
         "start": 11,
@@ -818,12 +862,6 @@
         "label": "LOC",
         "start": 3,
         "end": 7
-      },
-      {
-        "text": "度使王彥超移鎮",
-        "label": "LOC",
-        "start": 25,
-        "end": 32
       }
     ]
   },
@@ -1065,10 +1103,22 @@
         "end": 1545
       },
       {
+        "text": "張昭遠",
+        "label": "PER",
+        "start": 1592,
+        "end": 1595
+      },
+      {
         "text": "曾上疏論邠州",
         "label": "LOC",
         "start": 1713,
         "end": 1719
+      },
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 1722,
+        "end": 1725
       },
       {
         "text": "晉",

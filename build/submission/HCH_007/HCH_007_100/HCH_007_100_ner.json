@@ -406,6 +406,12 @@
         "end": 61
       },
       {
+        "text": "王仁裕",
+        "label": "PER",
+        "start": 68,
+        "end": 71
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 74,
@@ -465,6 +471,12 @@
         "end": 9
       },
       {
+        "text": "趙上交",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 22,
@@ -482,6 +494,12 @@
     "sentence_id": "HCH_007_100_000029",
     "sentence": "甲午，武安軍節度副使、水陸諸軍副都指揮使、判內外諸司、江南西道觀察等使、檢校太尉馬希廣加檢校太師、兼中書令，行潭州大都督、天策上將軍，充武安軍節度、湖南管內觀察使、江南諸道都統，封楚王。",
     "entities": [
+      {
+        "text": "馬希廣",
+        "label": "PER",
+        "start": 40,
+        "end": 43
+      },
       {
         "text": "行潭州",
         "label": "LOC",
@@ -507,22 +525,28 @@
     "sentence": "丙申，以鄴都留守、天雄軍節度使、檢校太師、守太傅、兼中書令、衛國公杜重威為宋州節度使，加守太尉；以宋州節度使、檢校太師、兼中書令高行周為鄴都留守，加守太傅；以鄆州節度使、檢校太師、兼侍中李守貞為河中節度使，加兼中書令；以河中節度使、檢校太尉趙贊為晉昌軍節度使； 〈 （《宋史·趙贊傳》：贊懼漢疑己，潛遣親吏趙仙奉表歸蜀。判官李恕者，趙延壽賓佐，深所委賴，至家事亦參之，及贊出鎮，從為上介。至是，恕語贊曰：「燕王入遼，非所願也，漢方建國，必務懷柔。公若泥首歸朝，必保富貴；狼狽入蜀，理難萬全。儻若不容，後悔無及。公能聽納，請先入朝為公申理。」贊即遣恕詣闕。漢祖見恕，問贊何以附蜀。恕曰：「贊家在燕薊，身受契丹之命，自懷憂恐，謂陛下終不能容，招引西軍，蓋圖茍免。臣意國家甫定，務安臣民，所以令臣乞哀求覲。」漢祖曰：「贊之父子，亦吾人也，事契丹出於不幸。今聞延壽落於陷阱，吾忍不容贊耶！」恕未還，贊巳離鎮入朝，即命為左驍衛將軍。） 〉 以晉昌軍節度使張彥超為鄜州節度使，加檢校太師。",
     "entities": [
       {
-        "text": "公杜重威為宋州",
-        "label": "LOC",
-        "start": 32,
-        "end": 39
-      },
-      {
         "text": "以宋州",
         "label": "LOC",
         "start": 48,
         "end": 51
       },
       {
+        "text": "高行周",
+        "label": "PER",
+        "start": 64,
+        "end": 67
+      },
+      {
         "text": "以鄆州",
         "label": "LOC",
         "start": 78,
         "end": 81
+      },
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 93,
+        "end": 96
       },
       {
         "text": "《宋史·趙贊傳》",
@@ -565,12 +589,6 @@
         "label": "TITLE",
         "start": 408,
         "end": 410
-      },
-      {
-        "text": "使張彥超為鄜州",
-        "label": "LOC",
-        "start": 421,
-        "end": 428
       }
     ]
   },
@@ -583,12 +601,6 @@
         "label": "LOC",
         "start": 3,
         "end": 6
-      },
-      {
-        "text": "公符彥卿為兗州",
-        "label": "LOC",
-        "start": 22,
-        "end": 29
       },
       {
         "text": "以鄧州",
@@ -609,22 +621,16 @@
         "end": 67
       },
       {
-        "text": "保劉重進為鄧州",
-        "label": "LOC",
-        "start": 74,
-        "end": 81
-      },
-      {
         "text": "以兗州",
         "label": "LOC",
         "start": 91,
         "end": 94
       },
       {
-        "text": "中安審琦為襄州",
-        "label": "LOC",
-        "start": 105,
-        "end": 112
+        "text": "李從敏",
+        "label": "PER",
+        "start": 124,
+        "end": 127
       }
     ]
   },
@@ -673,12 +679,6 @@
         "label": "LOC",
         "start": 10,
         "end": 17
-      },
-      {
-        "text": "尉白文珂為鄆州",
-        "label": "LOC",
-        "start": 42,
-        "end": 49
       },
       {
         "text": "以青州",
@@ -744,10 +744,28 @@
     "sentence": "故開封尹桑維翰贈尚書令，故西京留守景延廣贈中書令，以前衛尉卿薛仁謙為司農卿。",
     "entities": [
       {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "薛仁謙",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       }
     ]
   },
@@ -755,6 +773,18 @@
     "sentence_id": "HCH_007_100_000040",
     "sentence": "丙寅，唐故樞密使郭崇韜贈中書令，故河中節度使安重誨贈尚書令，故華州節度使毛璋贈侍中，故汴州節度使朱守殷贈中書令。",
     "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -786,6 +816,12 @@
         "end": 6
       },
       {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 12,
@@ -796,17 +832,36 @@
   {
     "sentence_id": "HCH_007_100_000042",
     "sentence": "唐故河中節度使、西平王朱友謙追封魏王，故樞密使馮赟贈中書令，故河陽節度使、判六軍康義誠贈中書令。",
-    "entities": []
+    "entities": [
+      {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 40,
+        "end": 43
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_100_000043",
     "sentence": "故西京留守、京兆尹王思同、故邠州節度使藥彥稠、故襄州節度使安重進、故鎮州節度使安重榮，並贈侍中。",
     "entities": [
       {
+        "text": "王思同",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "故邠州",
         "label": "LOC",
         "start": 13,
         "end": 16
+      },
+      {
+        "text": "藥彥稠",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       },
       {
         "text": "故襄州",
@@ -819,6 +874,12 @@
         "label": "LOC",
         "start": 33,
         "end": 36
+      },
+      {
+        "text": "安重榮",
+        "label": "PER",
+        "start": 39,
+        "end": 42
       }
     ]
   },
@@ -849,13 +910,26 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
   {
     "sentence_id": "HCH_007_100_000046",
     "sentence": "以高行周為行營都部署，率兵進討。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_100_000047",
@@ -866,6 +940,12 @@
     "sentence_id": "HCH_007_100_000048",
     "sentence": "壬申，故晉昌軍節度使趙在禮贈中書令，故曹州節度使石赟贈侍中，故滑州節度使皇甫遇贈中書令。",
     "entities": [
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "故曹州",
         "label": "LOC",
@@ -1223,6 +1303,12 @@
     "sentence": "帝遣郭從義與懷讓攻取邢州，蕃將楊袞來援鐸，懷讓拒之，不勝，退保洺州，敵騎掠其部，民大被其苦。",
     "entities": [
       {
+        "text": "郭從義",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "與懷讓攻取邢州",
         "label": "LOC",
         "start": 5,
@@ -1323,10 +1409,22 @@
     "sentence": "九月甲子，宰臣蘇逢吉兼戶部尚書，蘇禹珪兼刑部尚書。",
     "entities": [
       {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "蘇禹珪",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       },
       {
         "text": "尚書",
@@ -1371,6 +1469,18 @@
     "sentence": "甲戌，宰臣蘇逢吉加左僕射、監修國史，蘇禹珪加右僕射、集賢殿大學士，以吏部尚書竇貞固為守司空兼門下侍郎、平章事、宏文館大學士， 〈 （《宋史·竇貞固傳》：初，帝與貞固同事晉祖，甚相得。時蘇逢吉、蘇禹珪自霸府僚佐驟居相位，思得舊臣冠首，以貞固持重寡言，有時望，乃拜司空、門下侍郎、平章事。） 〉 以翰林學士、行中書舍人李濤為中書侍郎兼戶部尚書、平章事。",
     "entities": [
       {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "蘇禹珪",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 36,
@@ -1387,6 +1497,18 @@
         "label": "TITLE",
         "start": 66,
         "end": 75
+      },
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 92,
+        "end": 95
+      },
+      {
+        "text": "蘇禹珪",
+        "label": "PER",
+        "start": 96,
+        "end": 99
       },
       {
         "text": "侍郎",
@@ -1419,6 +1541,24 @@
         "end": 11
       },
       {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 26,
+        "end": 30
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 60,
@@ -1435,7 +1575,14 @@
   {
     "sentence_id": "HCH_007_100_000081",
     "sentence": "戊寅，詔以杜重威叛命，取今月二十九日暫幸澶、魏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_100_000082",
@@ -1475,6 +1622,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       },
       {
         "text": "太子",
@@ -1567,10 +1720,10 @@
     "sentence": "丙午，詔都部署高行周督眾攻城，帝登高阜以觀之，時眾議未欲攻擊，副部署慕容彥超堅請攻之。",
     "entities": [
       {
-        "text": "高行周督眾攻城",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 34,
+        "end": 38
       }
     ]
   },
@@ -1592,7 +1745,14 @@
   {
     "sentence_id": "HCH_007_100_000093",
     "sentence": "己未，湖南奏，荊南節度使高從誨叛。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高從誨",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_100_000094",
@@ -1602,7 +1762,14 @@
   {
     "sentence_id": "HCH_007_100_000095",
     "sentence": "壬申，杜重威上表請命。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_100_000096",
@@ -1612,17 +1779,37 @@
   {
     "sentence_id": "HCH_007_100_000097",
     "sentence": "丁丑，杜重威素服出降，待罪於宮門，詔釋其罪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_100_000098",
     "sentence": "鄴都留守、天雄軍節度使高行周加守太尉，封臨清王。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_100_000099",
     "sentence": "以杜重威為檢校太師、守太傅、兼中書令、楚國公。",
     "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "楚國",
         "label": "ORG",
@@ -1666,12 +1853,6 @@
         "end": 91
       },
       {
-        "text": "慕容彥超為鄆州",
-        "label": "LOC",
-        "start": 94,
-        "end": 101
-      },
-      {
         "text": "以前定州",
         "label": "LOC",
         "start": 110,
@@ -1688,12 +1869,6 @@
         "label": "LOC",
         "start": 126,
         "end": 129
-      },
-      {
-        "text": "使郭從義為澶州",
-        "label": "LOC",
-        "start": 131,
-        "end": 138
       }
     ]
   },
@@ -1706,12 +1881,6 @@
         "label": "LOC",
         "start": 17,
         "end": 19
-      },
-      {
-        "text": "使李洪信為遂州",
-        "label": "LOC",
-        "start": 21,
-        "end": 28
       },
       {
         "text": "永州",
@@ -1867,6 +2036,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "趙上交",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -1895,7 +2070,14 @@
   {
     "sentence_id": "HCH_007_100_000119",
     "sentence": "庚辰，太傅杜重威伏誅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_100_000120",
@@ -1906,6 +2088,18 @@
         "label": "TITLE",
         "start": 3,
         "end": 9
+      },
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 51,
+        "end": 54
       }
     ]
   },
@@ -1941,7 +2135,14 @@
   {
     "sentence_id": "HCH_007_100_000124",
     "sentence": "十一月壬申，葬於睿陵，宰臣蘇禹珪撰謚冊、哀冊文雲。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇禹珪",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_100_000125",

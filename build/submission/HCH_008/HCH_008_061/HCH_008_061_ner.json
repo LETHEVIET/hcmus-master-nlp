@@ -450,7 +450,14 @@
   {
     "sentence_id": "HCH_008_061_000043",
     "sentence": "高祖常宴朝臣，詔太宗諭旨，既而顧謂近臣曰：「何如溫彥博？」其見重如此。",
-    "entities": []
+    "entities": [
+      {
+        "text": "溫彥博",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_061_000044",
@@ -1410,7 +1417,14 @@
   {
     "sentence_id": "HCH_008_061_000151",
     "sentence": "行台郎中趙弘安，知名士也，軌動輒榜箠，歲至數百。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙弘安",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_061_000152",
@@ -1439,6 +1453,18 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "韋雲起",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "郭行方",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -1673,6 +1699,12 @@
     "sentence": "尋從劉文靜擊屈突通於潼關，通遣裨將桑顯和來逼文靜，義軍不利。",
     "entities": [
       {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "擊屈突通於潼關",
         "label": "LOC",
         "start": 5,
@@ -1683,7 +1715,14 @@
   {
     "sentence_id": "HCH_008_061_000173",
     "sentence": "琮與段志玄等力戰久之，隋軍大潰，通遁走。",
-    "entities": []
+    "entities": [
+      {
+        "text": "段志玄",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_061_000174",
@@ -1763,7 +1802,14 @@
   {
     "sentence_id": "HCH_008_061_000181",
     "sentence": "王世充遣其驍將羅士信來斷糧道，琮潛使人說以利害，士信遂帥眾降。",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅士信",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_061_000182",
@@ -2504,7 +2550,14 @@
   {
     "sentence_id": "HCH_008_061_000260",
     "sentence": "時皇甫無逸在蜀，與之不協，璡屢請入朝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫無逸",
+        "label": "PER",
+        "start": 1,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_061_000261",

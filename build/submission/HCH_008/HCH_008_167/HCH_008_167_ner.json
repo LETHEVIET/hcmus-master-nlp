@@ -2,12 +2,26 @@
   {
     "sentence_id": "HCH_008_167_000001",
     "sentence": "趙宗儒",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙宗儒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000002",
     "sentence": "趙宗儒，字秉文。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙宗儒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000003",
@@ -80,6 +94,12 @@
     "sentence": "右司郎中獨孤良器、殿中侍御史杜倫，各以過黜之。",
     "entities": [
       {
+        "text": "獨孤良器",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 12,
@@ -102,7 +122,20 @@
   {
     "sentence_id": "HCH_008_167_000014",
     "sentence": "又秘書少監鄭雲逵考其同官孫昌裔入上下，宗儒復入中上。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭雲逵",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "孫昌裔",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000015",
@@ -564,6 +597,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "宋申錫",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -609,12 +648,26 @@
   {
     "sentence_id": "HCH_008_167_000053",
     "sentence": "竇易直",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇易直",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000054",
     "sentence": "竇易直，字宗玄，京兆人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇易直",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000055",
@@ -819,6 +872,12 @@
     "sentence": "九月，以李德裕代還，為吏部侍郎。",
     "entities": [
       {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 13,
@@ -977,6 +1036,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "鄭餘慶",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1000,17 +1065,38 @@
   {
     "sentence_id": "HCH_008_167_000090",
     "sentence": "李逢吉",
-    "entities": []
+    "entities": [
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000091",
     "sentence": "李逢吉，字虛舟，隴西人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000092",
     "sentence": "貞觀中學士李玄道曾孫。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李玄道",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000093",
@@ -1145,6 +1231,12 @@
     "sentence": "及度親征，學士令狐楚為度制辭，言不合旨，楚與逢吉相善，帝皆黜之；罷楚學士，罷逢吉政事，出為劍南東川節度使、檢校兵部尚書。",
     "entities": [
       {
+        "text": "令狐楚",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 57,
@@ -1240,18 +1332,19 @@
   {
     "sentence_id": "HCH_008_167_000115",
     "sentence": "賴學士李紳、韋處厚等顯於上前，言度為逢吉排斥，而度於國有功，不宜擯棄，故得以僕射在朝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋處厚",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000116",
     "sentence": "時已失河朔，而王智興擅據徐州，李㝏據汴州。",
     "entities": [
-      {
-        "text": "王智興擅據徐州",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      },
       {
         "text": "李㝏據汴州",
         "label": "LOC",
@@ -1345,6 +1438,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "王守澄",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -1367,6 +1466,12 @@
         "label": "TITLE",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "杜元穎",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       },
       {
         "text": "太子",
@@ -1392,6 +1497,24 @@
     "sentence_id": "HCH_008_167_000131",
     "sentence": "朝士代逢吉鳴吠者，張又新、李續之、張權輿、劉棲楚、李虞、程昔範、姜洽、李仲言，時號「八關十六子」。",
     "entities": [
+      {
+        "text": "張又新",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "劉棲楚",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "李仲言",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      },
       {
         "text": "八關",
         "label": "LOC",
@@ -1450,12 +1573,26 @@
   {
     "sentence_id": "HCH_008_167_000140",
     "sentence": "而韋處厚於上前解析，言權輿所撰之言。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋處厚",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000141",
     "sentence": "既不能沮，又令衛尉卿劉遵古從人安再榮告武昭謀害逢吉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉遵古",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000142",
@@ -1499,7 +1636,14 @@
   {
     "sentence_id": "HCH_008_167_000147",
     "sentence": "水部郎中李仍叔，程之族，知武昭郁郁恨不得官，仍叔謂昭曰：「程欲與公官，但逢吉阻之。」昭愈憤怒，因酒與京師人劉審、張少騰說刺逢吉之言。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李仍叔",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000148",
@@ -1524,7 +1668,14 @@
   {
     "sentence_id": "HCH_008_167_000152",
     "sentence": "再榮既告，李仲言誡匯曰：「言武昭與李程同謀則活，否則爾死。」匯曰：「冤死甘心。誣人以自免，予不為也。」及昭下獄，逢吉之醜跡皆彰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李仲言",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000153",
@@ -1577,6 +1728,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "張又新",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -1664,12 +1821,26 @@
   {
     "sentence_id": "HCH_008_167_000163",
     "sentence": "段文昌",
-    "entities": []
+    "entities": [
+      {
+        "text": "段文昌",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000164",
     "sentence": "段文昌，字墨卿，西河人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "段文昌",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000165",
@@ -1719,14 +1890,7 @@
   {
     "sentence_id": "HCH_008_167_000170",
     "sentence": "李吉甫刺忠州，文昌嘗以文幹之。",
-    "entities": [
-      {
-        "text": "李吉甫刺忠州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_167_000171",
@@ -1760,12 +1924,32 @@
   {
     "sentence_id": "HCH_008_167_000174",
     "sentence": "文昌，武元衡之子婿也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武元衡",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000175",
     "sentence": "元衡與宰相韋貫之不協，憲宗欲召文昌為學士，貫之奏曰：「文昌志尚不修，不可擢居近密。」至是貫之罷相，李逢吉乃用文昌為學士，轉祠部郎中，賜緋，依前充職。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋貫之",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 49,
+        "end": 52
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000176",
@@ -1828,6 +2012,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "崔元略",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -2045,12 +2235,26 @@
   {
     "sentence_id": "HCH_008_167_000203",
     "sentence": "宋申錫",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋申錫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000204",
     "sentence": "宋申錫，字慶臣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋申錫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000205",
@@ -2070,7 +2274,14 @@
   {
     "sentence_id": "HCH_008_167_000208",
     "sentence": "韋貫之罷相，出湖南，辟為從事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋貫之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000209",
@@ -2153,7 +2364,14 @@
   {
     "sentence_id": "HCH_008_167_000219",
     "sentence": "及王守澄之領禁兵，恃其宿舊，跋扈尤甚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王守澄",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000220",
@@ -2215,12 +2433,44 @@
   {
     "sentence_id": "HCH_008_167_000230",
     "sentence": "路隨、李宗閔、牛僧孺等既至中書東門，中人云：「所召無宋申錫。」申錫始知被罪，望延英以笏叩頭而退。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李宗閔",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "宋申錫",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000231",
     "sentence": "隨等至，文宗以神策軍中尉王守澄所奏，得本軍虞候豆盧著狀，告宋申錫與漳王謀反，隨等相顧愕然。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王守澄",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "宋申錫",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000232",
@@ -2230,7 +2480,20 @@
   {
     "sentence_id": "HCH_008_167_000233",
     "sentence": "會內官馬存亮同入，諍於文宗曰：「謀反者適宋申錫耳，何不召南司會議。今卒然如此，京師企足自為亂矣。」守澄不能難，乃止。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬存亮",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "宋申錫",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000234",
@@ -2275,10 +2538,40 @@
     "sentence": "左常侍崔玄亮，給事中李固言，諫議大夫王質，補闕盧鈞、舒元褒、羅泰、蔣系、裴休、竇宗直、韋溫，拾遺李群、韋端符、丁居晦、袁都等一十四人，皆伏玉階下奏以申錫獄付外，請不於禁中訊鞫。",
     "entities": [
       {
+        "text": "崔玄亮",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "李固言",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "舒元褒",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "text": "韋端符",
+        "label": "PER",
+        "start": 51,
+        "end": 54
+      },
+      {
+        "text": "丁居晦",
+        "label": "PER",
+        "start": 55,
+        "end": 58
       }
     ]
   },
@@ -2372,12 +2665,26 @@
   {
     "sentence_id": "HCH_008_167_000252",
     "sentence": "僕射竇易直曰：「人臣無將，將而必誅。」聞者愕然。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇易直",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000253",
     "sentence": "唯京兆尹崔琯、大理卿王正雅連上疏請出內獄，且曰：「王師文未獲，即獄未具，請出豆盧著與申錫同付外廷勘。」當時人情翕然推重。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王正雅",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000254",
@@ -2553,7 +2860,14 @@
   {
     "sentence_id": "HCH_008_167_000270",
     "sentence": "順宗即位，為王叔文所排，罷學士。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_167_000271",
@@ -2760,6 +3074,12 @@
     "sentence_id": "HCH_008_167_000290",
     "sentence": "中謝日奏曰：「臣所忝官上禮，前後儀註不同。在元和、長慶中，僕射數人上日，不受四品已下官拜。近日再定儀註，四品已下官悉許受拜，王涯、竇易直已行之於前。今御史臺云：『已聞奏，太常侍定取十五日上』。臣進退未知所據。」時中丞李漢以為受四品已下拜太重。",
     "entities": [
+      {
+        "text": "竇易直",
+        "label": "PER",
+        "start": 65,
+        "end": 68
+      },
       {
         "text": "御史",
         "label": "TITLE",

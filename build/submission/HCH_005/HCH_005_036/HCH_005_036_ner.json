@@ -1687,7 +1687,14 @@
   {
     "sentence_id": "HCH_005_036_000160",
     "sentence": "李通罷，元後復辟司徒歐陽歙府，數陳當世便事、郊廟之禮，帝不能用。",
-    "entities": []
+    "entities": [
+      {
+        "text": "歐陽歙",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_036_000161",

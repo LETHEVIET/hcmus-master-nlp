@@ -70,10 +70,28 @@
         "end": 25
       },
       {
+        "text": "盧文進",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 43,
+        "end": 46
+      },
+      {
         "text": "陝州",
         "label": "LOC",
         "start": 56,
         "end": 58
+      },
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 60,
+        "end": 63
       },
       {
         "text": "率軍援幽州",
@@ -110,12 +128,6 @@
     "sentence_id": "HCH_007_031_000007",
     "sentence": "戊申，以振武軍節度使、檢校太傅、同平章事李存霸權知潞州留後；以知保大軍軍州事高允韜為檢校太保。",
     "entities": [
-      {
-        "text": "李存霸權知潞州",
-        "label": "LOC",
-        "start": 20,
-        "end": 27
-      },
       {
         "text": "以知保大軍軍州",
         "label": "LOC",
@@ -229,6 +241,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -240,7 +258,14 @@
   {
     "sentence_id": "HCH_007_031_000020",
     "sentence": "甲寅，帝於中興殿麵賜郭崇韜鐵券。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_031_000021",
@@ -510,6 +535,12 @@
     "sentence": "癸酉，宰臣豆盧革率百官上尊號，曰昭文睿武至德光孝皇帝，凡三上表，從之。",
     "entities": [
       {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "皇帝",
         "label": "TITLE",
         "start": 24,
@@ -598,7 +629,14 @@
   {
     "sentence_id": "HCH_007_031_000046",
     "sentence": "戊寅，幸李嗣源第，作樂，盡歡而罷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_031_000047",
@@ -669,7 +707,14 @@
   {
     "sentence_id": "HCH_007_031_000051",
     "sentence": "癸未，宰臣豆盧革率百官上表，請立中宮。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_031_000052",
@@ -694,10 +739,22 @@
     "sentence": "丁亥，以天平軍節度使、蕃漢總管副使、開府儀同三司、檢校太傅、兼中書令李嗣源為檢校太尉，依前天平軍節度使，加實封百戶，兼賜鐵券；以前安國軍節度副使、檢校太保、左衛上將軍李存乂為晉州節度使、檢校太傅；以北京皇城留守、檢校太保、左威衛上將軍李存紀為邢州節度使，加檢校太傅；以蕃漢馬步都虞候兼東京馬步軍都指揮使、檢校太保朱守殷為振武節度使，加檢校太傅。",
     "entities": [
       {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 81,
         "end": 83
+      },
+      {
+        "text": "李存乂",
+        "label": "PER",
+        "start": 83,
+        "end": 86
       },
       {
         "text": "以北京皇城",
@@ -710,6 +767,12 @@
         "label": "TITLE",
         "start": 115,
         "end": 117
+      },
+      {
+        "text": "李存紀",
+        "label": "PER",
+        "start": 117,
+        "end": 120
       }
     ]
   },
@@ -742,12 +805,6 @@
     "sentence": "己丑，以振武軍節度使、權安義留後、檢校太傅、平章事李存霸為潞州節度使，以捧日都指揮使、鄭州防禦使李紹琛為陝州節度使，以成德軍馬步軍都指揮使、右監門衛大將軍毛璋為華州節度使。",
     "entities": [
       {
-        "text": "事李存霸為潞州",
-        "label": "LOC",
-        "start": 24,
-        "end": 31
-      },
-      {
         "text": "鄭州",
         "label": "LOC",
         "start": 43,
@@ -770,12 +827,26 @@
   {
     "sentence_id": "HCH_007_031_000056",
     "sentence": "壬辰，樞密使郭崇韜再上表，請退樞密之職，優詔不允。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_031_000057",
     "sentence": "癸巳，詔曰：「皇太后母儀天下，子視群生，當別建宮闈，顯標名號，冀因稱謂，益表尊嚴，宜以長壽宮為名。 」樞密使郭崇韜奏時務利便一十五件，優詔褒美。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 54,
+        "end": 57
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_031_000058",
@@ -870,6 +941,12 @@
         "end": 48
       },
       {
+        "text": "李紹斌",
+        "label": "PER",
+        "start": 48,
+        "end": 51
+      },
+      {
         "text": "滄州",
         "label": "LOC",
         "start": 52,
@@ -886,12 +963,6 @@
         "label": "LOC",
         "start": 0,
         "end": 2
-      },
-      {
-        "text": "嗣源率師屯邢州",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
       }
     ]
   },
@@ -899,6 +970,12 @@
     "sentence_id": "HCH_007_031_000064",
     "sentence": "丙午，以荊南節度使、守中書令、渤海王高季興依前檢校太師、兼尚書令，封南平王；以幽州節度行軍司馬李存賢依前檢校太保，為幽州節度使。",
     "entities": [
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -1072,7 +1149,14 @@
   {
     "sentence_id": "HCH_007_031_000070",
     "sentence": "是日，李嗣源上表乞退兵權，詔不允。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_031_000071",
@@ -1310,7 +1394,14 @@
   {
     "sentence_id": "HCH_007_031_000091",
     "sentence": "庚辰，賜霍彥威姓，名曰紹真。",
-    "entities": []
+    "entities": [
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_031_000092",
@@ -1405,6 +1496,12 @@
         "end": 6
       },
       {
+        "text": "李仁福",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "夏州",
         "label": "LOC",
         "start": 24,
@@ -1453,6 +1550,12 @@
         "end": 40
       },
       {
+        "text": "馬希振",
+        "label": "PER",
+        "start": 43,
+        "end": 46
+      },
+      {
         "text": "依前朗州",
         "label": "LOC",
         "start": 56,
@@ -1482,10 +1585,22 @@
         "end": 11
       },
       {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "陝州",
         "label": "LOC",
         "start": 22,
         "end": 24
+      },
+      {
+        "text": "李紹真",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },

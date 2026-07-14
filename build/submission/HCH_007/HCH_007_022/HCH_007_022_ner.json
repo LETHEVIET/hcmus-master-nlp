@@ -297,12 +297,6 @@
     "sentence": "無何，劉知俊據同州叛，師厚與劉鄩率軍西討，至潼關，擒知俊弟知浣以獻。",
     "entities": [
       {
-        "text": "劉知俊據同州",
-        "label": "LOC",
-        "start": 3,
-        "end": 9
-      },
-      {
         "text": "至潼關",
         "label": "LOC",
         "start": 21,
@@ -343,6 +337,12 @@
     "sentence_id": "HCH_007_022_000027",
     "sentence": "頃之，晉王與周德威、丁會、符存審等以大眾攻晉州甚急，太祖遣師厚帥兵援之。",
     "entities": [
+      {
+        "text": "符存審",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
       {
         "text": "等以大眾攻晉州",
         "label": "LOC",
@@ -685,12 +685,25 @@
   {
     "sentence_id": "HCH_007_022_000055",
     "sentence": "牛存節",
-    "entities": []
+    "entities": [
+      {
+        "text": "牛存節",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_022_000056",
     "sentence": "牛存節，字讚貞，青州博昌人也。",
     "entities": [
+      {
+        "text": "牛存節",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "青州",
         "label": "LOC",
@@ -1259,12 +1272,6 @@
     "sentence": "六月，劉知俊以同州叛，尋授同州留後，未幾，加檢校太保、同州節度使。",
     "entities": [
       {
-        "text": "劉知俊以同州",
-        "label": "LOC",
-        "start": 3,
-        "end": 9
-      },
-      {
         "text": "尋授同州",
         "label": "LOC",
         "start": 11,
@@ -1695,12 +1702,6 @@
         "label": "TITLE",
         "start": 34,
         "end": 36
-      },
-      {
-        "text": "朱全忠至青州",
-        "label": "LOC",
-        "start": 37,
-        "end": 43
       },
       {
         "text": "諸將請焚城",

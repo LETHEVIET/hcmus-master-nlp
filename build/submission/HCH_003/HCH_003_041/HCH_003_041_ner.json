@@ -169,6 +169,12 @@
     "sentence": "後從駕討破崔慧景、蕭愆於鄧城，進號平東將軍。",
     "entities": [
       {
+        "text": "崔慧景",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "蕭愆於鄧城",
         "label": "LOC",
         "start": 9,
@@ -403,6 +409,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -532,14 +544,7 @@
   {
     "sentence_id": "HCH_003_041_000052",
     "sentence": "及車駕南還，顥令梁將陳慶之守北中城，自據南岸。",
-    "entities": [
-      {
-        "text": "陳慶之守北中城",
-        "label": "LOC",
-        "start": 10,
-        "end": 17
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_041_000053",
@@ -770,6 +775,12 @@
     "sentence_id": "HCH_003_041_000081",
     "sentence": "初，武興王楊集始降於齊，自漢中而北，規復舊土。",
     "entities": [
+      {
+        "text": "楊集始",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "漢",
         "label": "ORG",
@@ -1068,6 +1079,12 @@
     "sentence": "遇暴疾，頻啓乞解，詔許之，以蕭寶夤代爲刺史、行臺。",
     "entities": [
       {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "刺史",
         "label": "TITLE",
         "start": 19,
@@ -1088,7 +1105,14 @@
   {
     "sentence_id": "HCH_003_041_000117",
     "sentence": "及寶夤邀害禦只中尉酈道元，猶上表自理，稱爲椿父子所謗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "酈道元",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_041_000118",
@@ -1810,13 +1834,26 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "元修義",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },
   {
     "sentence_id": "HCH_003_041_000202",
     "sentence": "都督李叔仁遲疑不赴。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李叔仁",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_041_000203",
@@ -1869,12 +1906,6 @@
     "sentence_id": "HCH_003_041_000207",
     "sentence": "及蕭寶夤等敗於關中，以昱兼七兵尚書、持節、假撫軍、都督，防守雍州。",
     "entities": [
-      {
-        "text": "蕭寶夤等敗於關",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -1967,6 +1998,12 @@
     "sentence_id": "HCH_003_041_000215",
     "sentence": "顥至，執昱下，責曰：「卿今死甘心不？」答曰：「分不望生，向所以不下樓，正慮亂兵耳。但恨八十老父無人供養，乞小弟一命，便是死不朽也。」顥將陳慶之、胡光等伏顥帳前曰：「陛下度江三千里，無遺鏃費。昨日殺傷五百餘人，求乞楊昱以快意。」景曰：「我在江東聞梁主言，初下都，袁昂爲呉郡不降，稱其忠節。奈何殺昱。」於是斬昱下統帥三十七人，皆令蜀兵刳腹取心食之。",
     "entities": [
+      {
+        "text": "陳慶之",
+        "label": "PER",
+        "start": 68,
+        "end": 71
+      },
       {
         "text": "袁昂爲呉郡",
         "label": "LOC",
@@ -3513,7 +3550,14 @@
   {
     "sentence_id": "HCH_003_041_000380",
     "sentence": "魏世以來，唯有盧陽烏兄弟及播昆季，當世莫逮焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧陽烏",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_041_000381",
@@ -3572,7 +3616,14 @@
   {
     "sentence_id": "HCH_003_041_000388",
     "sentence": "幼喪母，曾詣舅源子恭。",
-    "entities": []
+    "entities": [
+      {
+        "text": "源子恭",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_041_000389",
@@ -4458,7 +4509,14 @@
   {
     "sentence_id": "HCH_003_041_000499",
     "sentence": "可朱渾天和又毎云：「若不誅二王，少主無自安之理。」宋欽道面奏帝，稱二叔威權既重，宜速去之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_041_000500",
@@ -4567,7 +4625,14 @@
   {
     "sentence_id": "HCH_003_041_000509",
     "sentence": "使薛孤延、康買執子默於尚藥局。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛孤延",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_041_000510",
@@ -4577,7 +4642,14 @@
   {
     "sentence_id": "HCH_003_041_000511",
     "sentence": "二叔率髙歸彦、賀拔仁、斛律金擁愔等唐突入雲龍門。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_041_000512",
@@ -4608,6 +4680,12 @@
     "sentence_id": "HCH_003_041_000517",
     "sentence": "常山王以磚叩頭，進而言曰：「臣與陛下骨肉相連。楊遵彦等欲擅朝權，威福自己，自王公以還，皆重足屛氣，共相脣齒，以成亂階。若不早圖，必爲宗社之害。臣與湛等爲國事重，賀拔仁、斛律金等惜獻皇帝業，共執遵彦等，領入宮，未敢刑戮。專輒之失，罪合萬死。」帝時默然。",
     "entities": [
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 84,
+        "end": 87
+      },
       {
         "text": "皇帝",
         "label": "TITLE",
@@ -4752,7 +4830,14 @@
   {
     "sentence_id": "HCH_003_041_000539",
     "sentence": "子獻素多力，頭少發，當狼狽之際，排衆走出省門，斛律光逐而禽之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_041_000540",
@@ -4826,7 +4911,14 @@
   {
     "sentence_id": "HCH_003_041_000547",
     "sentence": "與宋欽道特相友愛，欽道毎師事之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_041_000548",
@@ -5111,6 +5203,12 @@
     "sentence": "周大塚宰宇文護引爲中外記室，轉禮曹，加大都督。",
     "entities": [
       {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "大都",
         "label": "LOC",
         "start": 19,
@@ -5292,7 +5390,14 @@
   {
     "sentence_id": "HCH_003_041_000597",
     "sentence": "尋從韋孝寬徇淮南。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_041_000598",
@@ -5484,6 +5589,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 4
+      },
+      {
+        "text": "劉仁恩",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -6381,6 +6492,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -6506,7 +6623,20 @@
   {
     "sentence_id": "HCH_003_041_000744",
     "sentence": "率其將王世宗、趙子開、蕭摩訶等來拒戰，又撃破之，禽蕭摩訶。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭摩訶",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "蕭摩訶",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_041_000745",
@@ -7208,6 +7338,12 @@
         "end": 17
       },
       {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 28,
@@ -7224,6 +7360,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "李子雄",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -7297,7 +7439,14 @@
   {
     "sentence_id": "HCH_003_041_000834",
     "sentence": "宇文述等諸軍躡之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_041_000835",
@@ -7822,6 +7971,12 @@
         "end": 4
       },
       {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 174,
@@ -8144,12 +8299,6 @@
     "sentence": "蜀王秀之鎭益州也，朝廷盛選綱紀，以異方直，拜益州總管長史，尋遷西南道行臺兵部尚書。",
     "entities": [
       {
-        "text": "蜀王秀之鎭益州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      },
-      {
         "text": "拜益州",
         "label": "LOC",
         "start": 21,
@@ -8370,6 +8519,12 @@
     "sentence_id": "HCH_003_041_000965",
     "sentence": "時梁陳慶之爲顥勒兵守北門，天穆駐馬圍外，遣寬至城下説慶之，不答，久之乃曰：「賢兄撫軍在，頗欲相見不？」寬答：「僕兄既力屈凶威，跡淪逆黨，人臣之理，何煩相見。」天穆聞之，自此彌敬。",
     "entities": [
+      {
+        "text": "陳慶之",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "遣寬至城",
         "label": "LOC",
@@ -8761,7 +8916,14 @@
   {
     "sentence_id": "HCH_003_041_000996",
     "sentence": "壽陽劉叔仁作亂，從淸河公宇文神舉討之，戰於鹆專井，在陣禽叔仁。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文神舉",
+        "label": "PER",
+        "start": 12,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_041_000997",
@@ -8789,6 +8951,18 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       },
       {
         "text": "遂解懷州",
@@ -8960,6 +9134,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "周法尚",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },

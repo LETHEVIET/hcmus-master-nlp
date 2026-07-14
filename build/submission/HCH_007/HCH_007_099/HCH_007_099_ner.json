@@ -199,6 +199,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 17
+      },
+      {
+        "text": "李洪信",
+        "label": "PER",
+        "start": 141,
+        "end": 144
       }
     ]
   },
@@ -345,7 +351,14 @@
   {
     "sentence_id": "HCH_007_099_000029",
     "sentence": "時帝與杜重威同制加恩，帝憤然不樂，懇讓不受，杜門不出者數日。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_099_000030",
@@ -534,13 +547,26 @@
         "label": "LOC",
         "start": 57,
         "end": 61
+      },
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 62,
+        "end": 65
       }
     ]
   },
   {
     "sentence_id": "HCH_007_099_000049",
     "sentence": "十二月十日，杜重威等以全軍降於契丹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_099_000050",
@@ -551,6 +577,12 @@
         "label": "LOC",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       },
       {
         "text": "陷京城",
@@ -887,6 +919,12 @@
         "label": "LOC",
         "start": 11,
         "end": 14
+      },
+      {
+        "text": "王守恩",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -952,14 +990,7 @@
   {
     "sentence_id": "HCH_007_099_000082",
     "sentence": "契丹主初聞其變也，懼甚，由是大河之南無久留之意，尋遣天雄軍節度使杜重威歸鎮。",
-    "entities": [
-      {
-        "text": "度使杜重威歸鎮",
-        "label": "LOC",
-        "start": 30,
-        "end": 37
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_099_000083",
@@ -1045,18 +1076,6 @@
         "end": 17
       },
       {
-        "text": "候郭從義為鄭州",
-        "label": "LOC",
-        "start": 45,
-        "end": 52
-      },
-      {
-        "text": "使李洪信為陳州",
-        "label": "LOC",
-        "start": 71,
-        "end": 78
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 78,
@@ -1133,7 +1152,14 @@
   {
     "sentence_id": "HCH_007_099_000093",
     "sentence": "癸丑，以北京副留守、檢校司徒白文珂為河中節度使、檢校太尉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白文珂",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_099_000094",
@@ -1192,6 +1218,12 @@
         "label": "TITLE",
         "start": 155,
         "end": 157
+      },
+      {
+        "text": "扈彥珂",
+        "label": "PER",
+        "start": 201,
+        "end": 204
       }
     ]
   },
@@ -1488,10 +1520,22 @@
     "sentence": "以河東節度判官蘇逢吉為中書侍郎、同平章事、集賢殿大學士，以河東觀察判官蘇禹珪為中書侍郎、同平章事。",
     "entities": [
       {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "蘇禹珪",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       },
       {
         "text": "侍郎",
@@ -1522,6 +1566,12 @@
         "label": "LOC",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "折從阮",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       },
       {
         "text": "行府州",
@@ -1570,6 +1620,12 @@
         "label": "TITLE",
         "start": 15,
         "end": 18
+      },
+      {
+        "text": "王守恩",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       },
       {
         "text": "以權點檢延州",
@@ -1795,6 +1851,12 @@
         "end": 5
       },
       {
+        "text": "王守恩",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "以前棣州",
         "label": "LOC",
         "start": 17,
@@ -1805,12 +1867,6 @@
         "label": "TITLE",
         "start": 21,
         "end": 23
-      },
-      {
-        "text": "慕容彥超為澶州",
-        "label": "LOC",
-        "start": 23,
-        "end": 30
       }
     ]
   },

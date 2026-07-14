@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_008_143_000001",
     "sentence": "李懷仙",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷仙",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000002",
     "sentence": "李懷仙，柳城胡人也。",
     "entities": [
+      {
+        "text": "李懷仙",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "柳城",
         "label": "LOC",
@@ -36,7 +49,20 @@
   {
     "sentence_id": "HCH_008_143_000005",
     "sentence": "安慶緒敗，又事史思明。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安慶緒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000006",
@@ -96,6 +122,12 @@
         "label": "LOC",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "田承嗣",
+        "label": "PER",
+        "start": 34,
+        "end": 37
       }
     ]
   },
@@ -402,10 +434,16 @@
     "sentence": "及田承嗣反，與李寶臣、李正己等解磁州圍。",
     "entities": [
       {
-        "text": "李正己等解磁州",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
+        "text": "田承嗣",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "李寶臣",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -424,7 +462,14 @@
   {
     "sentence_id": "HCH_008_143_000041",
     "sentence": "滔與成德軍節度張孝忠征之，大破惟嶽於束鹿。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張孝忠",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000042",
@@ -446,7 +491,14 @@
   {
     "sentence_id": "HCH_008_143_000044",
     "sentence": "惟嶽將王武俊以騎三千方陳橫進。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王武俊",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000045",
@@ -474,20 +526,7 @@
   {
     "sentence_id": "HCH_008_143_000047",
     "sentence": "朝廷以康日知為深趙二州團練使，王武俊為恆冀二州團練使。",
-    "entities": [
-      {
-        "text": "日知為深趙二州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      },
-      {
-        "text": "武俊為恆冀二州",
-        "label": "LOC",
-        "start": 16,
-        "end": 23
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_143_000048",
@@ -510,6 +549,12 @@
         "label": "LOC",
         "start": 1,
         "end": 8
+      },
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -522,6 +567,18 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "王武俊",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 34,
+        "end": 37
       }
     ]
   },
@@ -534,6 +591,12 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "王武俊",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -600,7 +663,20 @@
   {
     "sentence_id": "HCH_008_143_000056",
     "sentence": "德宗在山南，慮二兇兵合，遣使授王武俊平章事，令與李抱真葉力擊滔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王武俊",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "李抱真",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000057",
@@ -629,7 +705,14 @@
   {
     "sentence_id": "HCH_008_143_000059",
     "sentence": "翌日，滔令大將馬實、盧南史引回紇、契丹來挑戰，武俊遣騎將趙珍提精騎三百當之，抱真將王虔休掎角待之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王虔休",
+        "label": "PER",
+        "start": 41,
+        "end": 44
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000060",
@@ -699,6 +782,12 @@
         "label": "LOC",
         "start": 3,
         "end": 8
+      },
+      {
+        "text": "姚令言",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -774,12 +863,32 @@
   {
     "sentence_id": "HCH_008_143_000077",
     "sentence": "居數年，硃滔將兵討田承嗣，奏署怦領留府事，以寬緩得眾心。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田承嗣",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000078",
     "sentence": "時李寶臣為田承嗣間說，與之通謀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李寶臣",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "田承嗣",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000079",
@@ -826,7 +935,14 @@
   {
     "sentence_id": "HCH_008_143_000081",
     "sentence": "寶臣死，子惟嶽拒朝命，德宗令滔與張孝忠同力討之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張孝忠",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000082",
@@ -843,7 +959,14 @@
   {
     "sentence_id": "HCH_008_143_000083",
     "sentence": "會王武俊亦怨割地深、趙，相謀叛，欲救田悅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王武俊",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000084",
@@ -1115,7 +1238,14 @@
   {
     "sentence_id": "HCH_008_143_000110",
     "sentence": "及詔討王承宗，諸軍未進，濟獨率先前軍擊破之，生擒三百余人，斬首千余級，獻逆將於闕，優詔褒之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000111",
@@ -1170,7 +1300,14 @@
   {
     "sentence_id": "HCH_008_143_000117",
     "sentence": "及濟疾，次子總與濟親吏唐弘實通謀鴆殺濟，數日，乃發喪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "唐弘實",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000118",
@@ -1394,6 +1531,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1464,6 +1607,12 @@
     "sentence": "及王承宗再拒命，總遣兵取賊武強縣，遂駐軍持兩端，以利朝廷供饋賞賜。",
     "entities": [
       {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "遣兵取賊武強縣",
         "label": "LOC",
         "start": 9,
@@ -1474,17 +1623,36 @@
   {
     "sentence_id": "HCH_008_143_000150",
     "sentence": "是時吳元濟尚存，王承宗方跋扈，易定孤危，憲宗暫務姑息，加總同中書門下平章事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳元濟",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000151",
     "sentence": "及元濟就擒，李師道梟首，王承宗憂死，田弘正入鎮州，總既無黨援，懷懼，每謀自安之計。",
     "entities": [
       {
-        "text": "田弘正入鎮州",
-        "label": "LOC",
-        "start": 18,
-        "end": 24
+        "text": "李師道",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -1528,7 +1696,14 @@
   {
     "sentence_id": "HCH_008_143_000158",
     "sentence": "先是，元和初，王承宗阻兵，總父濟備陳征伐之術，請身先之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000159",
@@ -1573,6 +1748,12 @@
         "label": "LOC",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "盧士玫",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       }
     ]
   },
@@ -1585,6 +1766,12 @@
     "sentence_id": "HCH_008_143_000164",
     "sentence": "及疏上，穆宗且欲速得范陽，宰臣崔植、杜元穎又不為久大經略，但欲重弘靖所授，而未能省其使局，惟瀛、漠兩州許置觀察使，其他郡縣悉命弘靖統之。",
     "entities": [
+      {
+        "text": "杜元穎",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
       {
         "text": "漠兩州",
         "label": "LOC",
@@ -1634,12 +1821,25 @@
   {
     "sentence_id": "HCH_008_143_000170",
     "sentence": "程日華",
-    "entities": []
+    "entities": [
+      {
+        "text": "程日華",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000171",
     "sentence": "程日華，定州安喜人，本單名華。",
     "entities": [
+      {
+        "text": "程日華",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "定州",
         "label": "LOC",
@@ -1653,6 +1853,18 @@
     "sentence": "父元皓，事安祿山為帳下將，從陷兩京，頗稱勇力，史思明時為定州刺史。",
     "entities": [
       {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "明",
+        "label": "ORG",
+        "start": 25,
+        "end": 26
+      },
+      {
         "text": "刺史",
         "label": "TITLE",
         "start": 30,
@@ -1663,18 +1875,19 @@
   {
     "sentence_id": "HCH_008_143_000173",
     "sentence": "華少事本軍，為張孝忠牙將。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張孝忠",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000174",
     "sentence": "初，李寶臣授恆州節度，吞削籓鄰，有恆、冀、深、趙、易、定、滄、德等八州。",
     "entities": [
-      {
-        "text": "李寶臣授恆州",
-        "label": "LOC",
-        "start": 2,
-        "end": 8
-      },
       {
         "text": "德等八州",
         "label": "LOC",
@@ -1691,28 +1904,40 @@
   {
     "sentence_id": "HCH_008_143_000176",
     "sentence": "寶臣部將張孝忠以定州歸國，授成德軍節度使，令與硃滔討惟嶽。",
-    "entities": [
-      {
-        "text": "將張孝忠以定州",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_143_000177",
     "sentence": "及惟嶽誅，朝廷以恆、冀授王武俊，深、趙授康日知，易、定、滄授張孝忠，分為三帥。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王武俊",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "康日知",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
+        "text": "張孝忠",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000178",
     "sentence": "時惟嶽將李固烈守滄州，孝忠令華詣固烈交郡。",
     "entities": [
       {
-        "text": "將李固烈守滄州",
+        "text": "滄州",
         "label": "LOC",
-        "start": 3,
+        "start": 8,
         "end": 10
       },
       {
@@ -2177,12 +2402,26 @@
   {
     "sentence_id": "HCH_008_143_000213",
     "sentence": "李全略",
-    "entities": []
+    "entities": [
+      {
+        "text": "李全略",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000214",
     "sentence": "李全略者，本姓王，名日簡。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李全略",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000215",
@@ -2193,6 +2432,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "王武俊",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -2200,6 +2445,12 @@
     "sentence_id": "HCH_008_143_000216",
     "sentence": "元和中，節度使王承宗沒，軍情不安，自拔歸朝，授代州刺史。",
     "entities": [
+      {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "授代州",
         "label": "LOC",
@@ -2223,6 +2474,12 @@
         "label": "LOC",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "田弘正",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       },
       {
         "text": "以日簡嘗為鎮",
@@ -2350,9 +2607,9 @@
         "end": 16
       },
       {
-        "text": "使烏重胤為滄州",
+        "text": "滄州",
         "label": "LOC",
-        "start": 28,
+        "start": 33,
         "end": 35
       }
     ]
@@ -2365,17 +2622,42 @@
   {
     "sentence_id": "HCH_008_143_000231",
     "sentence": "乃命烏重胤率鄆、齊兵加討。",
-    "entities": []
+    "entities": [
+      {
+        "text": "烏重胤",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000232",
     "sentence": "又詔徐帥王智興、滑帥李聽、平盧康誌睦、魏博史憲誠、易定張璠、幽州李載義等四面進攻。",
     "entities": [
       {
+        "text": "王智興",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "史憲誠",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "幽州",
         "label": "LOC",
         "start": 30,
         "end": 32
+      },
+      {
+        "text": "李載義",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },
@@ -2400,12 +2682,26 @@
   {
     "sentence_id": "HCH_008_143_000234",
     "sentence": "李載義初受朝命，堅於效順，乃囚同捷侄及所賂玉帛妓女四十七人表獻。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李載義",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000235",
     "sentence": "又表朝廷加載義左僕射、王廷湊司徒，以悅其心事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王廷湊",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000236",
@@ -2417,10 +2713,22 @@
     "sentence": "王智興師次棣州，詔曰：「李同捷幸襲舊勛，不思纘緒，斬麻未幾，私行墨缞。毒殺忠良，擾惑部校，稽之國憲，難逭常刑。朕以頃在先朝，己稽中旨，實遵成命，未議改圖。乃由留務之權，授以戎帥；拔負海之陋，置之中華，推恩含垢，斯亦至矣！而同捷益懷迷執，閉境練兵，大詬鄰封，拒捍中使。遐邇憤怨，中外驚嗟，叛命既彰，大義當絕，事非獲已，良用憮然。其同捷在身官爵，並宜削奪，令諸軍進討。」俄而烏重胤卒，授神策節度使李寰代重胤出師，無功召還，乃加王智興平章事，充行營招撫使。",
     "entities": [
       {
-        "text": "王智興師次棣州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
+        "text": "李同捷",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "烏重胤",
+        "label": "PER",
+        "start": 185,
+        "end": 188
+      },
+      {
+        "text": "王智興",
+        "label": "PER",
+        "start": 211,
+        "end": 214
       }
     ]
   },
@@ -2428,6 +2736,12 @@
     "sentence_id": "HCH_008_143_000238",
     "sentence": "史憲誠遣大將丌誌沼與子唐帥兵二萬五千攻德州。",
     "entities": [
+      {
+        "text": "史憲誠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "二萬五千攻德州",
         "label": "LOC",
@@ -2467,7 +2781,14 @@
   {
     "sentence_id": "HCH_008_143_000242",
     "sentence": "同捷既窘，王廷湊援之不及，乃令人誘丌誌沼，俾倒戈攻憲誠，許以代為魏博節度。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王廷湊",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_143_000243",

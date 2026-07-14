@@ -528,6 +528,12 @@
         "end": 4
       },
       {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 15,
@@ -759,6 +765,18 @@
         "end": 10
       },
       {
+        "text": "敬顯儁",
+        "label": "PER",
+        "start": 69,
+        "end": 72
+      },
+      {
+        "text": "堯難宗",
+        "label": "PER",
+        "start": 73,
+        "end": 76
+      },
+      {
         "text": "千人倍道赴涇州",
         "label": "LOC",
         "start": 87,
@@ -839,6 +857,12 @@
         "label": "LOC",
         "start": 1,
         "end": 8
+      },
+      {
+        "text": "陸法和",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       },
       {
         "text": "築層城",
@@ -977,7 +1001,14 @@
   {
     "sentence_id": "HCH_004_016_000087",
     "sentence": "周冢宰宇文護母閻氏先配中山宮，護聞閻尚存，乃因邊境移書，請還其母，並通鄰好。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_016_000088",
@@ -1035,6 +1066,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 11
+      },
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1079,12 +1116,26 @@
   {
     "sentence_id": "HCH_004_016_000102",
     "sentence": "韶為左軍，蘭陵王為中軍，斛律光為右軍，與周人相對。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_016_000103",
     "sentence": "韶遙謂周人曰：「汝宇文護幸得其母，不能懷恩報德，今日之來，竟何意也？」周人曰：「天遣我來，有何可問。」韶曰：「天道賞善罰惡，當遣汝送死來耳。」周軍仍以步人在前，上山逆戰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_016_000104",
@@ -1194,6 +1245,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -1270,6 +1327,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -1903,7 +1966,14 @@
   {
     "sentence_id": "HCH_004_016_000175",
     "sentence": "曾夜行，過其賓客宋孝王家宿，喚坊民防援，不時應赴，遂拷殺之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋孝王",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_016_000176",
@@ -2006,7 +2076,14 @@
   {
     "sentence_id": "HCH_004_016_000184",
     "sentence": "祖珽執政，將廢趙彥深，引孝言為助。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_016_000185",
@@ -2082,6 +2159,12 @@
         "end": 4
       },
       {
+        "text": "崔士順",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 36,
@@ -2092,6 +2175,12 @@
         "label": "LOC",
         "start": 46,
         "end": 48
+      },
+      {
+        "text": "崔龍子",
+        "label": "PER",
+        "start": 50,
+        "end": 53
       },
       {
         "text": "縣令",

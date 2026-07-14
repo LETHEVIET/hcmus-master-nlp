@@ -59,7 +59,14 @@
   {
     "sentence_id": "HCH_006_027_000011",
     "sentence": "漢興，承秦滅學之後，景、武之世，董仲舒治公羊春秋，始推陰陽，為儒者宗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000012",
@@ -261,7 +268,14 @@
   {
     "sentence_id": "HCH_006_027_000043",
     "sentence": "董仲舒以為先是四國共伐魯，大破之於龍門。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000044",
@@ -313,7 +327,14 @@
   {
     "sentence_id": "HCH_006_027_000052",
     "sentence": "董仲舒以為魯夫人淫於齊，齊桓姊妹不嫁者七人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000053",
@@ -350,7 +371,14 @@
   {
     "sentence_id": "HCH_006_027_000058",
     "sentence": "董仲舒以為釐娶於楚，而齊媵之，脅公使立以為夫人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000059",
@@ -420,6 +448,12 @@
     "sentence_id": "HCH_006_027_000069",
     "sentence": "董仲舒、劉向以為十五年王札子殺召伯、毛伯，天子不能誅。",
     "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "十五年",
         "label": "TME",
@@ -510,7 +544,14 @@
   {
     "sentence_id": "HCH_006_027_000083",
     "sentence": "董仲舒以為成居喪亡哀戚心，數興兵戰伐，故天災其父廟，示失子道，不能奉宗廟也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000084",
@@ -622,6 +663,12 @@
     "sentence": "董仲舒以為伯姬如宋五年，宋恭公卒，伯姬幽居守節三十餘年，又憂傷國家之患禍，積陰生陽，故火生災也。",
     "entities": [
       {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "五年",
         "label": "TME",
         "start": 9,
@@ -689,6 +736,12 @@
     "sentence_id": "HCH_006_027_000106",
     "sentence": "董仲舒以為陳夏徵舒殺君，楚嚴王託欲為陳討賊，陳國闢門而待之，至因滅陳。",
     "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "陳國",
         "label": "ORG",
@@ -874,7 +927,14 @@
   {
     "sentence_id": "HCH_006_027_000127",
     "sentence": "董仲舒以為象王室將亂，天下莫救，故災四國，言亡四方也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000128",
@@ -938,7 +998,14 @@
   {
     "sentence_id": "HCH_006_027_000137",
     "sentence": "董仲舒、劉向以為此皆奢僭過度者也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000138",
@@ -980,7 +1047,14 @@
   {
     "sentence_id": "HCH_006_027_000144",
     "sentence": "董仲舒、劉向以為此二宮不當立，違禮者也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000145",
@@ -1007,7 +1081,14 @@
   {
     "sentence_id": "HCH_006_027_000148",
     "sentence": "董仲舒、劉向以為亡國之社，所以為戒也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000149",
@@ -1252,6 +1333,12 @@
     "sentence": "董仲舒對曰：「春秋之道舉往以明來，是故天下有物，視春秋所舉與同比者，精微眇以存其意，通倫類以貫其理，天地之變，國家之事，粲然皆見，亡所疑矣。按春秋魯定公、哀公時，季氏之惡已孰，而孔子之聖方盛。夫以盛聖而易孰惡，季孫雖重，魯君雖輕，其勢可成也。故定公二年五月兩觀災。兩觀，僭禮之物，天災之者，若曰，僭禮之臣可以去。已見罪徵，而後告可去，此天意也。定公不知省。至哀公三年五月，桓宮、釐宮災。二者同事，所為一也，若曰燔貴而去不義云爾。哀公未能見，故四年六月亳社災。兩觀、桓、釐廟、亳社，四者皆不當立，天皆燔其不當立者以示魯，欲其去亂臣而用聖人也。季氏亡道久矣，前是天不見災者，魯未有賢聖臣，雖欲去季孫，其力不能，昭公是也。至定、哀乃見之，其時可也。不時不見，天之道也。今高廟不當居遼東，高園殿不當居陵旁，於禮亦不當立，與魯所災同。其不當立久矣，至於陛下時天乃災之者，殆亦其時可也。昔秦受亡周之敝，而亡以化之；漢受亡秦之敝，又亡以化之。夫繼二敝之後，承其下流，兼受其猥，難治甚矣。又多兄弟親戚骨肉之連，驕揚奢侈恣睢者眾，所謂重難之時者也。陛下正當大敝之後，又遭重難之時，甚可憂也。故天災若語陛下：『當今之世，雖敝而重難，非以太平至公，不能治也。視親戚貴屬在諸侯遠正最甚者，忍而誅之，如吾燔遼高廟乃可；視近臣在國中處旁仄及貴而不正者，忍而誅之，如吾燔高園殿乃可』云爾。在外而不正者，雖貴如高廟，猶災燔之，況諸侯乎！在內不正者，雖貴如高園殿，猶燔災之，況大臣乎！此天意也。罪在外者天災外，罪在內者天災內，燔甚罪當重，燔簡罪當輕，承天意之道也。」",
     "entities": [
       {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "二年",
         "label": "TME",
         "start": 124,
@@ -1318,7 +1405,14 @@
   {
     "sentence_id": "HCH_006_027_000181",
     "sentence": "上思仲舒前言，使仲舒弟子呂步舒持斧鉞治淮南獄，以春秋誼顓斷於外，不請。",
-    "entities": []
+    "entities": [
+      {
+        "text": "呂步舒",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000182",
@@ -1423,6 +1517,12 @@
         "label": "TITLE",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "公孫賀",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -1552,6 +1652,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "趙飛燕",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "皇后",
@@ -1809,6 +1915,12 @@
         "end": 9
       },
       {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 15,
@@ -1999,6 +2111,12 @@
     "sentence_id": "HCH_006_027_000243",
     "sentence": "是時，趙飛燕大幸，許后既廢，上將立之，故天見象於凌室，與惠帝四年同應。",
     "entities": [
+      {
+        "text": "趙飛燕",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "四年",
         "label": "TME",
@@ -2254,7 +2372,14 @@
   {
     "sentence_id": "HCH_006_027_000274",
     "sentence": "董仲舒以為夫人哀姜淫亂，逆陰氣，故大水也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000275",
@@ -2569,7 +2694,14 @@
   {
     "sentence_id": "HCH_006_027_000314",
     "sentence": "董仲舒、劉向以為桓弒兄隱公，民臣痛隱而賤桓。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000315",
@@ -2615,6 +2747,12 @@
     "sentence": "董仲舒、劉向以為嚴母文姜與兄齊襄公淫，共殺威公，嚴釋父讎，復取齊女，未入，先與之淫，一年再出，會於道逆亂，臣下賤之之應也。",
     "entities": [
       {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "一年",
         "label": "TME",
         "start": 42,
@@ -2637,7 +2775,14 @@
   {
     "sentence_id": "HCH_006_027_000322",
     "sentence": "董仲舒以為時魯、宋比年為乘丘、鄑之戰，百姓愁怨，陰氣盛，故二國俱水。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000323",
@@ -2659,7 +2804,14 @@
   {
     "sentence_id": "HCH_006_027_000325",
     "sentence": "董仲舒以為夫人哀姜淫亂不婦，陰氣盛也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000326",
@@ -2700,6 +2852,12 @@
     "sentence": "董仲舒以為時比伐邾取邑，亦見報復，兵讎連結，百姓愁怨。",
     "entities": [
       {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "為時比伐邾取邑",
         "label": "LOC",
         "start": 4,
@@ -2739,6 +2897,12 @@
     "sentence": "董仲舒、劉向以為時成幼弱，政在大夫，前此一年再用師，明年復城鄆以彊私家，仲孫蔑、叔孫僑如顓會宋、晉，陰勝陽。",
     "entities": [
       {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 15,
@@ -2774,6 +2938,12 @@
     "sentence_id": "HCH_006_027_000337",
     "sentence": "董仲舒以為先是一年齊伐晉，襄使大夫帥師救晉，後又侵齊，國小兵弱，數敵彊大，百姓愁怨，陰氣盛。",
     "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "一年",
         "label": "TME",
@@ -4366,7 +4536,14 @@
   {
     "sentence_id": "HCH_006_027_000533",
     "sentence": "董仲舒以為鼷鼠食郊牛，皆養牲不謹也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000534",
@@ -5151,7 +5328,14 @@
   {
     "sentence_id": "HCH_006_027_000635",
     "sentence": "董仲舒、劉向以為齊威既死，諸侯從楚，釐尤得楚心。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000636",
@@ -6031,14 +6215,7 @@
   {
     "sentence_id": "HCH_006_027_000720",
     "sentence": "先是大鴻臚田廣明征益州，暴師連年。",
-    "entities": [
-      {
-        "text": "臚田廣明征益州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_006_027_000721",
@@ -6085,6 +6262,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -6256,7 +6439,14 @@
   {
     "sentence_id": "HCH_006_027_000742",
     "sentence": "成帝時童謠曰：「燕燕尾龚龚，張公子，時相見。木門倉琅根，燕飛來，啄皇孫，皇孫死，燕啄矢。」其後帝為微行出遊，常與富平侯張放俱稱富平侯家人，過河陽主作樂，見舞者趙飛燕而幸之，故曰「燕燕尾龚龚」，美好貌也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙飛燕",
+        "label": "PER",
+        "start": 79,
+        "end": 82
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000743",
@@ -6345,7 +6535,14 @@
   {
     "sentence_id": "HCH_006_027_000757",
     "sentence": "董仲舒指略同。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000758",
@@ -7068,7 +7265,14 @@
   {
     "sentence_id": "HCH_006_027_000856",
     "sentence": "董仲舒以為象夫人不正，陰失節也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000857",
@@ -7085,7 +7289,14 @@
   {
     "sentence_id": "HCH_006_027_000858",
     "sentence": "董仲舒以為方有宣公之喪，君臣無悲哀之心，而炕陽，作丘甲。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000859",
@@ -7112,7 +7323,14 @@
   {
     "sentence_id": "HCH_006_027_000862",
     "sentence": "董仲舒指略同。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000863",
@@ -7179,6 +7397,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 9
+      },
+      {
+        "text": "霍去病",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -7281,7 +7505,14 @@
   {
     "sentence_id": "HCH_006_027_000882",
     "sentence": "董仲舒指略同。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000883",
@@ -7410,7 +7641,14 @@
   {
     "sentence_id": "HCH_006_027_000905",
     "sentence": "董仲舒以為李梅實，臣下彊也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000906",
@@ -7708,7 +7946,14 @@
   {
     "sentence_id": "HCH_006_027_000939",
     "sentence": "董仲舒指略同。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_000940",
@@ -8333,7 +8578,14 @@
   {
     "sentence_id": "HCH_006_027_001024",
     "sentence": "董仲舒以為象大人專恣，陰氣盛也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001025",
@@ -8360,7 +8612,14 @@
   {
     "sentence_id": "HCH_006_027_001028",
     "sentence": "董仲舒以為公脅於齊桓公，立妾為夫人，不敢進群妾，故專壹之象見諸雹，皆為有所漸脅也，行專壹之政云。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001029",
@@ -8392,7 +8651,14 @@
   {
     "sentence_id": "HCH_006_027_001033",
     "sentence": "董仲舒以為季孫宿任政，陰氣盛也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001034",
@@ -8704,7 +8970,14 @@
   {
     "sentence_id": "HCH_006_027_001061",
     "sentence": "董仲舒以為菽，草之彊者，天戒若曰，加誅於彊臣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001062",
@@ -9245,7 +9518,14 @@
   {
     "sentence_id": "HCH_006_027_001120",
     "sentence": "諸螽略皆從董仲舒說云。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001121",
@@ -9292,7 +9572,14 @@
   {
     "sentence_id": "HCH_006_027_001128",
     "sentence": "董仲舒指略同。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001129",
@@ -9363,6 +9650,12 @@
     "sentence_id": "HCH_006_027_001134",
     "sentence": "董仲舒以為宋三世內取，大夫專恣，殺生不中，故螽先死而至。",
     "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "大夫",
         "label": "TITLE",
@@ -9535,7 +9828,14 @@
   {
     "sentence_id": "HCH_006_027_001156",
     "sentence": "董仲舒、劉向以為蝝，螟始生也，一曰",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001157",
@@ -10385,7 +10685,14 @@
   {
     "sentence_id": "HCH_006_027_001259",
     "sentence": "董仲舒以為夷伯，季氏之孚也，陪臣不當有廟。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001260",
@@ -10439,7 +10746,14 @@
   {
     "sentence_id": "HCH_006_027_001267",
     "sentence": "董仲舒、劉向以為時公觀漁于棠，貪利之應也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001268",
@@ -10483,7 +10797,14 @@
   {
     "sentence_id": "HCH_006_027_001273",
     "sentence": "董仲舒、劉向以為先是衛侯朔出奔齊，齊侯會諸侯納朔，許諸侯賂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001274",
@@ -10562,7 +10883,14 @@
   {
     "sentence_id": "HCH_006_027_001281",
     "sentence": "董仲舒指略同。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001282",
@@ -10894,7 +11222,14 @@
   {
     "sentence_id": "HCH_006_027_001326",
     "sentence": "諸震，略皆從董仲舒說也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001327",
@@ -11171,7 +11506,14 @@
   {
     "sentence_id": "HCH_006_027_001353",
     "sentence": "董仲舒說略同。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001354",
@@ -11269,7 +11611,14 @@
   {
     "sentence_id": "HCH_006_027_001367",
     "sentence": "董仲舒說略同。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001368",
@@ -11603,6 +11952,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "張安世",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -12803,7 +13158,14 @@
   {
     "sentence_id": "HCH_006_027_001568",
     "sentence": "穀梁傳曰：「言日不言朔，食晦。」公羊傳曰，「食二日。」董仲舒、劉向以為其後戎執天子之使，鄭獲魯隱，滅戴，衛、魯、宋咸殺君。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001569",
@@ -12916,7 +13278,14 @@
   {
     "sentence_id": "HCH_006_027_001579",
     "sentence": "董仲舒、劉向以為前事已大，後事將至者又大，則既。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001580",
@@ -12990,7 +13359,14 @@
   {
     "sentence_id": "HCH_006_027_001591",
     "sentence": "董仲舒以為言朔不言日，惡魯桓且有夫人之禍，將不終日也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001592",
@@ -13037,7 +13413,14 @@
   {
     "sentence_id": "HCH_006_027_001599",
     "sentence": "董仲舒以為宿在東壁，魯象也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001600",
@@ -13064,7 +13447,14 @@
   {
     "sentence_id": "HCH_006_027_001603",
     "sentence": "董仲舒以為宿在畢，主邊兵夷狄象也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001604",
@@ -13091,7 +13481,14 @@
   {
     "sentence_id": "HCH_006_027_001607",
     "sentence": "董仲舒以為宿在心，心為明堂，文武之道廢，中國不絕若悋之象也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001608",
@@ -13118,7 +13515,14 @@
   {
     "sentence_id": "HCH_006_027_001611",
     "sentence": "董仲舒、劉向以為後魯二君弒，夫人誅，兩弟死，狄滅邢，徐取舒，晉殺世子，楚滅弦。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001612",
@@ -13140,7 +13544,14 @@
   {
     "sentence_id": "HCH_006_027_001614",
     "sentence": "董仲舒、劉向以為先是齊桓行伯，江、黃自至，南服彊楚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001615",
@@ -13186,7 +13597,14 @@
   {
     "sentence_id": "HCH_006_027_001619",
     "sentence": "董仲舒、劉向以為是時楚滅黃，狄侵衛、鄭，莒滅杞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001620",
@@ -13232,7 +13650,14 @@
   {
     "sentence_id": "HCH_006_027_001624",
     "sentence": "董仲舒以為後秦獲晉侯，齊滅項，楚敗徐于婁林。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001625",
@@ -13255,6 +13680,12 @@
     "sentence_id": "HCH_006_027_001627",
     "sentence": "董仲舒、劉向以為先是大夫始執國政，公子遂如京師，後楚世子商臣殺父，齊公子商人弒君，皆自立，宋子哀出奔，晉滅江，楚滅六，大夫公孫敖、叔彭生並專會盟。",
     "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "大夫",
         "label": "TITLE",
@@ -13291,6 +13722,12 @@
     "sentence": "董仲舒、劉向以為後宋、齊、莒、晉、鄭八年之間五君殺死，夷滅舒蓼。",
     "entities": [
       {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "八年",
         "label": "TME",
         "start": 18,
@@ -13318,7 +13755,14 @@
   {
     "sentence_id": "HCH_006_027_001633",
     "sentence": "董仲舒、劉向以為先是楚商臣弒父而立，至于嚴王遂彊。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001634",
@@ -13352,7 +13796,14 @@
   {
     "sentence_id": "HCH_006_027_001637",
     "sentence": "董仲舒、劉向以為後陳夏徵舒弒其君，楚滅蕭，晉滅二國，王札子殺召伯、毛伯。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001638",
@@ -13374,7 +13825,14 @@
   {
     "sentence_id": "HCH_006_027_001640",
     "sentence": "董仲舒、劉向以為後邾支解鄫子，晉敗王師于貿戎，敗齊于鞍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001641",
@@ -13396,7 +13854,14 @@
   {
     "sentence_id": "HCH_006_027_001643",
     "sentence": "董仲舒、劉向以為後晉敗楚、鄭于鄢陵，執魯侯。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001644",
@@ -13419,6 +13884,12 @@
     "sentence_id": "HCH_006_027_001646",
     "sentence": "董仲舒、劉向以為後楚滅舒庸，晉弒其君，宋魚石因楚奪君邑，莒滅鄫，齊滅萊，鄭伯弒死。",
     "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "魚石因楚奪君邑",
         "label": "LOC",
@@ -13449,6 +13920,12 @@
     "sentence": "董仲舒、劉向以為後衛大夫孫、甯共逐獻公，立孫剽。",
     "entities": [
       {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 10,
@@ -13477,6 +13954,12 @@
     "sentence_id": "HCH_006_027_001652",
     "sentence": "董仲舒、劉向以為先是晉為雞澤之會，諸侯盟，又大夫盟，後為溴梁之會，諸侯在而大夫獨相與盟，君若綴斿，不得舉手。",
     "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "大夫",
         "label": "TITLE",
@@ -13511,7 +13994,14 @@
   {
     "sentence_id": "HCH_006_027_001655",
     "sentence": "董仲舒以為陳慶虎、慶寅蔽君之明，邾庶其有叛心，後庶其以漆、閭丘來奔，陳殺二慶。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001656",
@@ -13533,7 +14023,14 @@
   {
     "sentence_id": "HCH_006_027_001658",
     "sentence": "董仲舒以為晉欒盈將犯君，後入于曲沃。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001659",
@@ -13548,7 +14045,14 @@
   {
     "sentence_id": "HCH_006_027_001661",
     "sentence": "董仲舒以為宿在軫、角，楚大國象也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001662",
@@ -13576,6 +14080,12 @@
     "sentence_id": "HCH_006_027_001665",
     "sentence": "董仲舒以為後衛侯入陳儀，甯喜弒其君剽。",
     "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "陳",
         "label": "ORG",
@@ -13614,7 +14124,14 @@
   {
     "sentence_id": "HCH_006_027_001670",
     "sentence": "董仲舒以為比食又既，象陽將絕，夷狄主上國之象也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001671",
@@ -13648,7 +14165,14 @@
   {
     "sentence_id": "HCH_006_027_001674",
     "sentence": "董仲舒以為禮義將大滅絕之象也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001675",
@@ -13687,6 +14211,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -13710,7 +14240,14 @@
   {
     "sentence_id": "HCH_006_027_001681",
     "sentence": "董仲舒、劉向以為先是楚靈王弒君而立，會諸侯，執徐子，滅賴，後陳公子招殺世子，楚因而滅之，又滅蔡，後靈王亦弒死。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001682",
@@ -13805,7 +14342,14 @@
   {
     "sentence_id": "HCH_006_027_001693",
     "sentence": "董仲舒以為時宿在畢，晉國象也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001694",
@@ -13901,7 +14445,14 @@
   {
     "sentence_id": "HCH_006_027_001708",
     "sentence": "董仲舒以為周景王老，劉子、單子專權，蔡侯朱驕，君臣不說之象也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001709",
@@ -13928,7 +14479,14 @@
   {
     "sentence_id": "HCH_006_027_001712",
     "sentence": "董仲舒以為宿在心，天子之象也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001713",
@@ -13955,7 +14513,14 @@
   {
     "sentence_id": "HCH_006_027_001716",
     "sentence": "董仲舒以為宿在胃，魯象也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001717",
@@ -14042,7 +14607,14 @@
   {
     "sentence_id": "HCH_006_027_001728",
     "sentence": "董仲舒以為宿在心，天子象也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001729",
@@ -14095,6 +14667,12 @@
     "sentence": "董仲舒、劉向以為後鄭滅許，魯陽虎作亂，竊寶玉大弓，季桓子退仲尼，宋三臣以邑叛。",
     "entities": [
       {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "宋三臣以邑",
         "label": "LOC",
         "start": 32,
@@ -14124,6 +14702,12 @@
     "sentence": "董仲舒、劉向以為後晉三大夫以邑叛，薛弒其君，楚滅頓、胡，越敗吳，衛逐世子。",
     "entities": [
       {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 11,
@@ -14151,7 +14735,14 @@
   {
     "sentence_id": "HCH_006_027_001739",
     "sentence": "董仲舒以為宿在柳，周室大壞，夷狄主諸夏之象也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001740",
@@ -14633,6 +15224,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -15187,7 +15784,14 @@
   {
     "sentence_id": "HCH_006_027_001850",
     "sentence": "董仲舒、劉向以為常星二十八宿者，人君之象也；眾星，萬民之類也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001851",
@@ -15353,7 +15957,14 @@
   {
     "sentence_id": "HCH_006_027_001875",
     "sentence": "董仲舒以為孛者惡氣之所生也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001876",
@@ -15517,7 +16128,14 @@
   {
     "sentence_id": "HCH_006_027_001897",
     "sentence": "董仲舒以為大辰心也，心在明堂，天子之象。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001898",
@@ -15677,7 +16295,14 @@
   {
     "sentence_id": "HCH_006_027_001918",
     "sentence": "董仲舒、劉向以為不言宿名者，不加宿也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001919",
@@ -16097,7 +16722,14 @@
   {
     "sentence_id": "HCH_006_027_001969",
     "sentence": "董仲舒、劉向以為象宋襄公欲行伯道將自敗之戒也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_027_001970",

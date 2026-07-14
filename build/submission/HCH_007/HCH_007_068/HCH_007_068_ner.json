@@ -96,12 +96,6 @@
         "end": 8
       },
       {
-        "text": "朱全忠兼四鎮",
-        "label": "LOC",
-        "start": 9,
-        "end": 15
-      },
-      {
         "text": "梁",
         "label": "ORG",
         "start": 69,
@@ -275,7 +269,14 @@
   {
     "sentence_id": "HCH_007_068_000024",
     "sentence": "開平中，金吾街使寇彥卿入朝，過天津橋，市民梁現者不時回避，前導伍伯捽之，投石欄以致斃。",
-    "entities": []
+    "entities": [
+      {
+        "text": "寇彥卿",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_068_000025",
@@ -631,6 +632,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 9
+      },
+      {
+        "text": "劉溫叟",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       },
       {
         "text": "大夫",
@@ -1086,6 +1093,12 @@
         "end": 28
       },
       {
+        "text": "朱全忠",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 69,
@@ -1307,7 +1320,14 @@
   {
     "sentence_id": "HCH_007_068_000114",
     "sentence": "莊宗平梁，郭崇韜遙領常山，召居賓榻。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_068_000115",
@@ -1431,6 +1451,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1452,7 +1478,14 @@
   {
     "sentence_id": "HCH_007_068_000136",
     "sentence": "與學士竇夢徵同年登第，鄰居友善，夢徵卒，讚與同年楊凝式緦麻為位而哭，其家無嫡長，與視喪事，恤其孀稚，人士稱之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊凝式",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_068_000137",

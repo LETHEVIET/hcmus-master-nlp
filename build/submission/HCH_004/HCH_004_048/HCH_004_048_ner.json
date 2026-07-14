@@ -18,6 +18,12 @@
         "label": "ORG",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -644,7 +650,14 @@
   {
     "sentence_id": "HCH_004_048_000085",
     "sentence": "後主踐祚，長粲被勑與黃門馮子琮出入禁中，專典敷奏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮子琮",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_048_000086",
@@ -655,6 +668,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },

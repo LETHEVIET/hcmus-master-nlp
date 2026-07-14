@@ -2,7 +2,14 @@
   {
     "sentence_id": "HCH_003_086_000001",
     "sentence": "張膺　路邕　閻慶胤　明亮　杜纂　竇瑗　蘇淑　張華原　孟業　蘇瓊　路去病　梁彥光　樊叔略　公孫景茂　辛公義　柳儉　郭絢敬肅　劉曠　王伽　魏德深",
-    "entities": []
+    "entities": [
+      {
+        "text": "梁彥光",
+        "label": "PER",
+        "start": 36,
+        "end": 39
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_086_000002",
@@ -92,6 +99,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 9
+      },
+      {
+        "text": "崔伯謙",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -116,6 +129,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 8
+      },
+      {
+        "text": "梁彥光",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -123,6 +142,12 @@
     "sentence_id": "HCH_003_086_000018",
     "sentence": "其張恂、鹿生、宋世景、裴佗、羊敦、宋世良、郎基、崔伯謙、房豹、趙軌、房恭懿，各附其家傳，其餘皆依時代編緝，以備《循吏篇》云。",
     "entities": [
+      {
+        "text": "崔伯謙",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
       {
         "text": "《循吏篇》",
         "label": "TITLE",
@@ -2393,12 +2418,32 @@
   {
     "sentence_id": "HCH_003_086_000265",
     "sentence": "梁彥光",
-    "entities": []
+    "entities": [
+      {
+        "text": "梁彥光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_086_000266",
     "sentence": "梁彥光，字脩芝，安定烏氏人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "梁彥光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "安定烏",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_086_000267",
@@ -2961,7 +3006,14 @@
   {
     "sentence_id": "HCH_003_086_000324",
     "sentence": "大塚宰宇文護執政，引爲中尉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_086_000325",
@@ -4011,7 +4063,14 @@
   {
     "sentence_id": "HCH_003_086_000440",
     "sentence": "蜀王秀之得罪也，儉坐與交通，免職。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王秀之",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_086_000441",
@@ -4376,6 +4435,12 @@
         "label": "TITLE",
         "start": 37,
         "end": 40
+      },
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 40,
+        "end": 43
       },
       {
         "text": "其邑在潁州",

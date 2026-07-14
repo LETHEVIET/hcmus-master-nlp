@@ -93,6 +93,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "朱子奢",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -368,6 +374,12 @@
         "end": 20
       },
       {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "丞相",
         "label": "TITLE",
         "start": 42,
@@ -455,6 +467,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "賈大隱",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -541,6 +559,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "張齊賢",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -888,6 +912,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "劉承慶",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -1020,10 +1050,28 @@
         "end": 15
       },
       {
+        "text": "祝欽明",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
         "text": "博士",
         "label": "TITLE",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "張齊賢",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      },
+      {
+        "text": "劉承慶",
+        "label": "PER",
+        "start": 49,
+        "end": 52
       },
       {
         "text": "《王制》",
@@ -1032,10 +1080,22 @@
         "end": 57
       },
       {
+        "text": "張齊賢",
+        "label": "PER",
+        "start": 76,
+        "end": 79
+      },
+      {
         "text": "皇帝",
         "label": "TITLE",
         "start": 81,
         "end": 83
+      },
+      {
+        "text": "劉承慶",
+        "label": "PER",
+        "start": 88,
+        "end": 91
       }
     ]
   },
@@ -1115,6 +1175,12 @@
     "sentence": "時武三思用事，密令安樂公主諷中宗，故有此制。",
     "entities": [
       {
+        "text": "武三思",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "公主",
         "label": "TITLE",
         "start": 11,
@@ -1159,6 +1225,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "姚元之",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       },
       {
         "text": "尚書",
@@ -1615,6 +1687,12 @@
         "end": 5
       },
       {
+        "text": "顏真卿",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
         "text": "皇帝",
         "label": "TITLE",
         "start": 24,
@@ -1860,6 +1938,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "杜黃裳",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -2016,7 +2100,14 @@
   {
     "sentence_id": "HCH_008_025_000222",
     "sentence": "敬暉、桓彥範等五臣，俱唐舊臣，匡輔王室，翊中宗而承大統。",
-    "entities": []
+    "entities": [
+      {
+        "text": "桓彥範",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_025_000223",
@@ -2084,6 +2175,12 @@
     "sentence": "是月二十四日，禮儀使杜黃裳奏曰：「順宗皇帝神主已升祔太廟，告祧之後，即合遞遷。中宗皇帝神主，今在三昭三穆之外，准禮合遷於太廟從西第一夾室，每至禘祫之日，合食如常。」於是祧中宗神主於西夾室，祔順宗神主焉。",
     "entities": [
       {
+        "text": "杜黃裳",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "皇帝",
         "label": "TITLE",
         "start": 19,
@@ -2116,6 +2213,12 @@
         "label": "TME",
         "start": 21,
         "end": 23
+      },
+      {
+        "text": "張柬之",
+        "label": "PER",
+        "start": 53,
+        "end": 56
       }
     ]
   },
@@ -2164,6 +2267,12 @@
     "sentence": "先是，河南節度使李夷簡上議曰：「王者祖有功，宗有德。大行皇帝戡翦寇逆，累有武功，廟號合稱祖。陛下正當決在宸斷，無信齷齪書生也。」遂詔下公卿與禮官議其可否。",
     "entities": [
       {
+        "text": "李夷簡",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "皇帝",
         "label": "TITLE",
         "start": 28,
@@ -2180,6 +2289,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "王彥威",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2379,7 +2494,14 @@
   {
     "sentence_id": "HCH_008_025_000251",
     "sentence": "」孔穎達亦引此義釋經。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孔穎達",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_025_000252",
@@ -2656,6 +2778,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "李匡乂",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -2780,16 +2908,34 @@
         "end": 223
       },
       {
+        "text": "鄭延昌",
+        "label": "PER",
+        "start": 281,
+        "end": 284
+      },
+      {
         "text": "兵革競興於宇縣",
         "label": "LOC",
         "start": 397,
         "end": 404
       },
       {
+        "text": "鄭延昌",
+        "label": "PER",
+        "start": 448,
+        "end": 451
+      },
+      {
         "text": "博士",
         "label": "TITLE",
         "start": 522,
         "end": 524
+      },
+      {
+        "text": "殷盈孫",
+        "label": "PER",
+        "start": 524,
+        "end": 527
       },
       {
         "text": "二年",
@@ -2872,6 +3018,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "殷盈孫",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },
@@ -2901,6 +3053,12 @@
     "sentence_id": "HCH_008_025_000304",
     "sentence": "今有司悮用王彥威《曲臺禮》，禘別廟太后于太廟，乖戾之甚。",
     "entities": [
+      {
+        "text": "王彥威",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "《曲臺禮》",
         "label": "TITLE",
@@ -3017,6 +3175,12 @@
         "end": 220
       },
       {
+        "text": "姚南仲",
+        "label": "PER",
+        "start": 233,
+        "end": 236
+      },
+      {
         "text": "皇帝",
         "label": "TITLE",
         "start": 272,
@@ -3094,10 +3258,22 @@
         "end": 2
       },
       {
+        "text": "殷盈孫",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "皇帝",
         "label": "TITLE",
         "start": 30,
         "end": 32
+      },
+      {
+        "text": "薛昭緯",
+        "label": "PER",
+        "start": 75,
+        "end": 78
       }
     ]
   },
@@ -3489,6 +3665,12 @@
     "sentence": "禮部員外郎楊仲昌議曰：「謹按《 禮 》曰：『夫祭不欲煩，煩則黷；亦不欲簡，簡則怠。』又鄭玄云：『人生尚褻食，鬼神則不然。神農時雖有黍稷，猶未有酒醴。及後聖作為醴酪，猶存玄酒，求不忘古。』《 春秋 》曰：『蘋蘩、蘊藻之菜，潢汙行潦之水，可羞于王公，可薦於鬼神。』又曰：『大羹不和，粢食不鑿。』此明君人者，有國奉先，敬神嚴享，豈肥濃以為尚，將儉約以表誠。則陸海之物，鮮肥之類，既乖禮文之情，而變作者之法，皆充祭用，非所詳也。《 易 》曰：『樽酒簋貳，用缶，納約自牖。』此明祭存簡易，不在繁奢。所以一樽之酒，貳簋之奠，為明祀也。抑又聞之，夫義以出禮，禮以體政，違則有紊，是稱不經。薦肥濃則褻味有登，加籩爵則事非師古。與其別行新制，寧如謹守舊章？」時太子賓客崔沔、戶部郎中楊伯成、左衛兵曹劉秩等皆建議以為請依舊禮，不可改易。",
     "entities": [
       {
+        "text": "楊仲昌",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "《 禮 》",
         "label": "TITLE",
         "start": 14,
@@ -3511,6 +3693,12 @@
         "label": "TITLE",
         "start": 321,
         "end": 323
+      },
+      {
+        "text": "楊伯成",
+        "label": "PER",
+        "start": 332,
+        "end": 335
       }
     ]
   },

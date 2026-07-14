@@ -9,6 +9,12 @@
     "sentence": "魏崔覽妻封氏 封卓妻劉氏 魏溥妻房氏 胡長命妻張氏 平原女子孫氏 房愛親妻崔氏 涇州貞女兒氏 姚氏 婦楊氏 張洪祁妻劉氏 董景起妻張氏 陽尼妻高氏 史映周妻耿氏 任城國太妃孟氏 苟金龍妻劉氏 貞孝女宗 河東姚氏女 刁思遵妻魯氏 西魏孫道溫妻趙氏 孫神妻陳氏",
     "entities": [
       {
+        "text": "房愛親",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      },
+      {
         "text": "涇州",
         "label": "LOC",
         "start": 40,
@@ -19,6 +25,18 @@
         "label": "LOC",
         "start": 81,
         "end": 83
+      },
+      {
+        "text": "苟金龍",
+        "label": "PER",
+        "start": 89,
+        "end": 92
+      },
+      {
+        "text": "孫道溫",
+        "label": "PER",
+        "start": 116,
+        "end": 119
       },
       {
         "text": "陳氏",
@@ -49,6 +67,12 @@
         "label": "LOC",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "鄭善果",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       }
     ]
   },
@@ -144,6 +168,12 @@
     "sentence_id": "HCH_003_091_000014",
     "sentence": "今又得武孫道溫妻趙氏、河北孫神妻陳氏，附《魏》《隋》二傳，以備《列女篇》云。",
     "entities": [
+      {
+        "text": "孫道溫",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "陳氏",
         "label": "ORG",
@@ -350,12 +380,6 @@
     "sentence": "钜鹿魏溥妻房氏者，慕容垂貴鄉太守常山房湛女也。",
     "entities": [
       {
-        "text": "慕容垂貴鄉",
-        "label": "LOC",
-        "start": 9,
-        "end": 14
-      },
-      {
         "text": "太守",
         "label": "TITLE",
         "start": 14,
@@ -550,10 +574,22 @@
     "sentence": "清河房愛親妻崔氏者，同郡崔元孫之女也。",
     "entities": [
       {
+        "text": "房愛親",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "同郡",
         "label": "LOC",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "崔元孫",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -688,7 +724,14 @@
   {
     "sentence_id": "HCH_003_091_000099",
     "sentence": "姚氏婦楊氏者，閹人苻承祖姨也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "苻承祖",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_091_000100",
@@ -873,12 +916,6 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
-      },
-      {
-        "text": "任城",
-        "label": "LOC",
-        "start": 16,
-        "end": 18
       }
     ]
   },
@@ -937,6 +974,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "苟金龍",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -1042,6 +1085,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "傅豎眼",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1088,6 +1137,18 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "李叔胤",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "盧元禮",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -1255,6 +1316,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "孫道溫",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1493,7 +1560,14 @@
   {
     "sentence_id": "HCH_003_091_000201",
     "sentence": "十四嫁於許國公宇文述子士及，以謹厚聞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_091_000202",
@@ -1862,6 +1936,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "李遷仕",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -1906,6 +1986,12 @@
         "label": "LOC",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "陳霸先",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -1959,6 +2045,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "歐陽紇",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -2308,7 +2400,14 @@
   {
     "sentence_id": "HCH_003_091_000290",
     "sentence": "鄭善果母崔氏者，清河人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭善果",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_091_000291",

@@ -2,17 +2,55 @@
   {
     "sentence_id": "HCH_008_068_000001",
     "sentence": "尉遲敬德　秦叔寶　程知節　段志玄　張公謹 子:大素　大安",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "程知節",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "段志玄",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "張公謹",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000002",
     "sentence": "尉遲敬德",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000003",
     "sentence": "尉遲敬德 ， 朔州 善陽 人。",
     "entities": [
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
       {
         "text": "朔州",
         "label": "LOC",
@@ -54,6 +92,18 @@
         "label": "LOC",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "呂崇茂",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "獨孤懷恩",
+        "label": "PER",
+        "start": 33,
+        "end": 37
       }
     ]
   },
@@ -83,6 +133,12 @@
         "label": "LOC",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "宇文士及",
+        "label": "PER",
+        "start": 14,
+        "end": 18
       }
     ]
   },
@@ -178,7 +234,20 @@
   {
     "sentence_id": "HCH_008_068_000025",
     "sentence": "及 竇建德 營於 板渚 ，太宗將挑戰，先伏 李勣 、 程知節 、 秦叔寶 等兵。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "程知節",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000026",
@@ -203,7 +272,14 @@
   {
     "sentence_id": "HCH_008_068_000030",
     "sentence": "太宗 曰：「彼之所乘，眞良馬也。」 敬德 請往取之，乃與 高甑生 、 梁建方 三騎直入賊軍，擒 琬 ，引其馬以歸，賊眾無敢當者。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高甑生",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000031",
@@ -218,7 +294,14 @@
   {
     "sentence_id": "HCH_008_068_000033",
     "sentence": "又從破 徐圓朗 。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐圓朗",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000034",
@@ -272,17 +355,50 @@
   {
     "sentence_id": "HCH_008_068_000041",
     "sentence": "敬德 聞其謀，與 長孫無忌 遽啟太宗曰：「大王若不速正之，則恐被其所害，社稷危矣。」 太宗 嘆曰：「今二宮離阻骨肉，滅棄君親，危亡之機，共所知委。寡人雖深被猜忌，禍在須臾，然同氣之情，終所未忍。欲待其先起，然後以義討之，公意以爲何如？」 敬德 曰：「人情畏死，眾人以死奉王，此天授也。若天與不取，反受其咎。雖存仁愛之小情，忘社稷之大計，禍至而不恐，將亡而自安，失人臣臨難不避之節，乏先賢大義滅親之事，非所聞也。以臣愚誠，請先誅之。王若不從， 敬德 言請奔逃亡命，不能交手受戮。且因敗成功，明賢之高見；轉禍爲福，智士之先機。 敬德 今若逃亡， 無忌 亦欲同去。」 太宗 猶豫未決， 無忌 曰：「王今不從 敬德 之言，必知 敬德 等非王所有。事今敗矣，其若之何？」 太宗 曰：「寡人所言，未可全棄，公更圖之。」 敬德 曰：「王今處事有疑，非智；臨難不決，非勇。王縱不從 敬德 言，請自決計，其如家國何？其如身命何？且在外勇士八百餘人，今悉入宮，控弦被甲，事勢已就，王何得辭！」 敬德 又與 侯君集 日夜進勸，然後計定。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 9,
+        "end": 13
+      },
+      {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 443,
+        "end": 446
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000042",
     "sentence": "時 房玄齡 、 杜如晦 皆被 高祖 斥出 秦 府，不得復入。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000043",
     "sentence": "太宗 令 長孫無忌 密召之， 玄齡 等報曰：「有敕不許更事王，今若私謁，必至誅滅，不敢奉命。」 太宗 大怒，謂 敬德 曰：「 玄齡 、 如晦 豈背我耶？」取所佩刀授 敬德 曰：「公且往，觀其無來心，可並斬其首持來也。」 敬德 又與 無忌 喻曰：「王已決計剋日平賊，公宜即入籌之。我等四人不宜群行在道。」於是 玄齡 、 如晦 著道士服隨 無忌 入， 敬德 別道亦至。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 5,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000044",
@@ -303,6 +419,18 @@
     "sentence_id": "HCH_008_068_000047",
     "sentence": "其宮府諸將 薛萬徹 、 謝叔方 、 馮立 等率兵大至，屯於 玄武門 ，殺屯營將軍。",
     "entities": [
+      {
+        "text": "薛萬徹",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "謝叔方",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
       {
         "text": "將軍",
         "label": "TITLE",
@@ -373,7 +501,14 @@
   {
     "sentence_id": "HCH_008_068_000057",
     "sentence": "及論功， 敬德 與 長孫無忌 爲第一，各賜絹萬匹； 齊王 府財幣器物，封其全邸，盡賜 敬德 。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 10,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000058",
@@ -390,6 +525,24 @@
         "label": "TITLE",
         "start": 10,
         "end": 13
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 24,
+        "end": 28
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      },
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 37,
+        "end": 40
       }
     ]
   },
@@ -531,7 +684,14 @@
   {
     "sentence_id": "HCH_008_068_000069",
     "sentence": "尋與 長孫無忌 等二十四人圖形於 凌煙閣 。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000070",
@@ -640,7 +800,14 @@
   {
     "sentence_id": "HCH_008_068_000079",
     "sentence": "大業 中，爲 隋 將 來護兒 帳內。",
-    "entities": []
+    "entities": [
+      {
+        "text": "來護兒",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000080",
@@ -657,7 +824,14 @@
   {
     "sentence_id": "HCH_008_068_000081",
     "sentence": "賊眾十餘萬， 須陀 所統纔萬人，力勢不敵，去賊六七里立柵，相持十餘日，糧盡將退，謂諸將士曰：「賊見兵卻，必輕來追我。其眾既出，營內即虛，若以千人襲營，可有大利。此誠危險，誰能去者？」人皆莫對，唯 叔寶 與 羅士信 請行。",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅士信",
+        "label": "PER",
+        "start": 103,
+        "end": 106
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000082",
@@ -768,7 +942,14 @@
   {
     "sentence_id": "HCH_008_068_000099",
     "sentence": "又從征於 美良川 ，破 尉遲敬德 ，功最居多。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 12,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000100",
@@ -793,7 +974,14 @@
   {
     "sentence_id": "HCH_008_068_000104",
     "sentence": "太宗 將拒 竇建德 於 武牢 ， 叔寶 以精騎數十先陷其陣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000105",
@@ -876,18 +1064,37 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 6,
+        "end": 10
       }
     ]
   },
   {
     "sentence_id": "HCH_008_068_000115",
     "sentence": "程知節",
-    "entities": []
+    "entities": [
+      {
+        "text": "程知節",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000116",
     "sentence": "程知節 ，本名 咬金 ， 濟州 東阿 人也。",
     "entities": [
+      {
+        "text": "程知節",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "濟州",
         "label": "LOC",
@@ -942,7 +1149,14 @@
   {
     "sentence_id": "HCH_008_068_000123",
     "sentence": "世充 來襲 雄信 營， 密 遣 知節 及 裴行儼 助之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴行儼",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000124",
@@ -977,7 +1191,14 @@
   {
     "sentence_id": "HCH_008_068_000130",
     "sentence": "破 宋金剛 ，擒 竇建德 ，降 王世充 ，並領左一馬軍總管。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000131",
@@ -1053,6 +1274,12 @@
     "sentence_id": "HCH_008_068_000136",
     "sentence": "與 長孫無忌 等代襲刺史，改封 盧國公 ，授 普州 刺史。",
     "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -1259,12 +1486,25 @@
   {
     "sentence_id": "HCH_008_068_000149",
     "sentence": "段志玄",
-    "entities": []
+    "entities": [
+      {
+        "text": "段志玄",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000150",
     "sentence": "段志玄 ， 齊州 臨淄 人也。",
     "entities": [
+      {
+        "text": "段志玄",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "齊州",
         "label": "LOC",
@@ -1343,6 +1583,12 @@
     "sentence": "從 劉文靜 拒 屈突通 於潼關， 文靜 爲 通 將 桑顯和 所襲，軍營已潰， 志玄 率二十騎赴擊，殺數十人而還。",
     "entities": [
       {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "於潼關",
         "label": "LOC",
         "start": 12,
@@ -1385,7 +1631,14 @@
   {
     "sentence_id": "HCH_008_068_000161",
     "sentence": "及破 竇建德 ，平東都，功又居多。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000162",
@@ -1401,6 +1654,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 43,
+        "end": 47
       }
     ]
   },
@@ -1425,6 +1684,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "宇文士及",
+        "label": "PER",
+        "start": 15,
+        "end": 19
       }
     ]
   },
@@ -1581,12 +1846,25 @@
   {
     "sentence_id": "HCH_008_068_000175",
     "sentence": "張公謹",
-    "entities": []
+    "entities": [
+      {
+        "text": "張公謹",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000176",
     "sentence": "張公謹 ，字 弘慎 ， 魏州 繁水 人也。",
     "entities": [
+      {
+        "text": "張公謹",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "魏州",
         "label": "LOC",
@@ -1646,7 +1924,14 @@
   {
     "sentence_id": "HCH_008_068_000179",
     "sentence": "初未知名， 李勣 、 尉遲敬德 亦言之，乃引入幕府。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 11,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000180",
@@ -1668,7 +1953,14 @@
   {
     "sentence_id": "HCH_008_068_000182",
     "sentence": "六月四日， 公謹 與 長孫無忌 等九人伏於 玄武門 以俟變。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 11,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_068_000183",
@@ -1862,6 +2154,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "劉訥言",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },

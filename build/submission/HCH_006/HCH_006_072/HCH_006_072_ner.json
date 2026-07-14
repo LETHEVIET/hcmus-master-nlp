@@ -690,6 +690,12 @@
     "sentence": "先是京兆有趙廣漢、張敞、王尊、王章，至駿皆有能名，故京師稱曰：「前有趙、張，後有三王。」而薛宣從左馮翊代駿為少府，會御史大夫缺，谷永奏言：「聖王不以名譽加於實效。考績用人之法，薛宣政事已試。」上然其議。",
     "entities": [
       {
+        "text": "趙廣漢",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 58,
@@ -749,6 +755,12 @@
     "sentence_id": "HCH_006_072_000091",
     "sentence": "六歲病卒，翟方進代駿為大夫。",
     "entities": [
+      {
+        "text": "翟方進",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "大夫",
         "label": "TITLE",
@@ -1257,6 +1269,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "陳萬年",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "御史",

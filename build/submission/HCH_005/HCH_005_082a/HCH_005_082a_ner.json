@@ -652,7 +652,14 @@
   {
     "sentence_id": "HCH_005_082a_000096",
     "sentence": "師事司徒歐陽歙。",
-    "entities": []
+    "entities": [
+      {
+        "text": "歐陽歙",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_082a_000097",
@@ -874,12 +881,26 @@
   {
     "sentence_id": "HCH_005_082a_000128",
     "sentence": "謝夷吾",
-    "entities": []
+    "entities": [
+      {
+        "text": "謝夷吾",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_082a_000129",
     "sentence": "謝夷吾字堯卿，會稽山陰人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "謝夷吾",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_082a_000130",
@@ -902,6 +923,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "第五倫",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },
@@ -992,6 +1019,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "謝夷吾",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "出自東州",

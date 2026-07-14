@@ -14,7 +14,14 @@
   {
     "sentence_id": "HCH_007_116_000002",
     "sentence": "前司空蘇禹珪卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇禹珪",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_116_000003",
@@ -69,7 +76,14 @@
   {
     "sentence_id": "HCH_007_116_000009",
     "sentence": "辛亥，李重進奏，大破淮賊於正陽，斬首二萬餘級，伏屍三十里，臨陣斬賊大將劉彥貞，生擒偏將鹹師朗已下，獲戎甲三十萬副、馬五百匹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李重進",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_116_000010",
@@ -97,7 +111,14 @@
   {
     "sentence_id": "HCH_007_116_000012",
     "sentence": "帝聞之，急詔侍衛都指揮使李重進率師赴之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李重進",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_116_000013",
@@ -107,7 +128,14 @@
   {
     "sentence_id": "HCH_007_116_000014",
     "sentence": "李重進既至正陽，聞淮軍在近，率諸將渡橋而進，與賊軍遇，重進等合勢擊之，一鼓而敗之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李重進",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_116_000015",
@@ -126,6 +154,18 @@
         "end": 20
       },
       {
+        "text": "李重進",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "text": "劉仁贍",
+        "label": "PER",
+        "start": 84,
+        "end": 87
+      },
+      {
         "text": "周",
         "label": "ORG",
         "start": 221,
@@ -142,6 +182,12 @@
     "sentence_id": "HCH_007_116_000017",
     "sentence": "以侍衛都指揮使李重進為淮南道行營都招討使，命宰臣李穀判壽州行府事。",
     "entities": [
+      {
+        "text": "李重進",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "宰臣李穀判壽州",
         "label": "LOC",
@@ -307,6 +353,12 @@
         "end": 31
       },
       {
+        "text": "皇甫暉",
+        "label": "PER",
+        "start": 41,
+        "end": 44
+      },
+      {
         "text": "常州",
         "label": "LOC",
         "start": 45,
@@ -335,6 +387,12 @@
         "label": "LOC",
         "start": 27,
         "end": 31
+      },
+      {
+        "text": "皇甫暉",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       },
       {
         "text": "與暉遇於清流關",
@@ -436,7 +494,14 @@
   {
     "sentence_id": "HCH_007_116_000032",
     "sentence": "乙亥，今上縶送所獲江南二將皇甫暉、姚鳳至行在，詔釋之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫暉",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_116_000033",
@@ -466,6 +531,12 @@
     "sentence": "丙戌，侍衛馬軍指揮韓令坤奏，收下揚州。",
     "entities": [
       {
+        "text": "韓令坤",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "收下揚州",
         "label": "LOC",
         "start": 14,
@@ -477,12 +548,6 @@
     "sentence_id": "HCH_007_116_000036",
     "sentence": "〈 （《東都事略·韓令坤傳》：率兵襲揚州，將吏開門以迎之，令坤整眾而入，市不易肆，人甚悅。） 〉 丁亥，壽州城內左神衛軍使徐象等一十八人來奔。",
     "entities": [
-      {
-        "text": "《東都事略·韓令坤傳》",
-        "label": "TITLE",
-        "start": 3,
-        "end": 14
-      },
       {
         "text": "率兵襲揚州",
         "label": "LOC",
@@ -524,6 +589,12 @@
     "sentence_id": "HCH_007_116_000039",
     "sentence": "侍衛馬軍都指揮使韓令坤上言，泰州降。",
     "entities": [
+      {
+        "text": "韓令坤",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "泰州",
         "label": "LOC",
@@ -567,6 +638,12 @@
         "end": 120
       },
       {
+        "text": "周行逢",
+        "label": "PER",
+        "start": 122,
+        "end": 125
+      },
+      {
         "text": "行逢至朗州",
         "label": "LOC",
         "start": 128,
@@ -595,12 +672,6 @@
         "label": "LOC",
         "start": 14,
         "end": 16
-      },
-      {
-        "text": "都監張承翰以城",
-        "label": "LOC",
-        "start": 18,
-        "end": 25
       },
       {
         "text": "尋授承翰集州",
@@ -638,6 +709,12 @@
         "end": 5
       },
       {
+        "text": "郭令圖",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "收下舒州",
         "label": "LOC",
         "start": 10,
@@ -660,6 +737,12 @@
         "label": "LOC",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "郭令圖",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       },
       {
         "text": "刺史",
@@ -736,6 +819,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李彥頵",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -1065,6 +1154,12 @@
         "end": 5
       },
       {
+        "text": "韓令坤",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "破江南賊軍於州",
         "label": "LOC",
         "start": 8,
@@ -1092,12 +1187,6 @@
         "label": "LOC",
         "start": 11,
         "end": 18
-      },
-      {
-        "text": "韓令坤欲棄揚州",
-        "label": "LOC",
-        "start": 24,
-        "end": 31
       }
     ]
   },
@@ -1138,6 +1227,12 @@
     "sentence": "己卯，韓令坤奏，敗楚州賊將馬在貴萬餘眾於灣頭堰，獲漣州刺史秦進崇。",
     "entities": [
       {
+        "text": "韓令坤",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "敗楚州",
         "label": "LOC",
         "start": 8,
@@ -1160,7 +1255,14 @@
   {
     "sentence_id": "HCH_007_116_000099",
     "sentence": "丙戌，以宣徽南院使向訓為權淮南節度使，充沿江招討使；以侍衛馬軍都指揮使韓令坤充沿江副招討使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韓令坤",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_116_000100",
@@ -1179,12 +1281,6 @@
         "end": 14
       },
       {
-        "text": "韓令坤有棄城",
-        "label": "LOC",
-        "start": 28,
-        "end": 34
-      },
-      {
         "text": "車駕發濠州",
         "label": "LOC",
         "start": 134,
@@ -1195,7 +1291,14 @@
   {
     "sentence_id": "HCH_007_116_000101",
     "sentence": "己丑，以前湖南節度使馬希崇為左羽林統軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬希崇",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_116_000102",
@@ -1253,6 +1356,12 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "馮延魯",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -1325,12 +1434,6 @@
     "sentence_id": "HCH_007_116_000110",
     "sentence": "丙寅，許州王彥超移鎮永興軍，鄧州田景鹹移鎮鄜州。",
     "entities": [
-      {
-        "text": "許州王彥超移鎮",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      },
       {
         "text": "鄧州田景鹹移鎮",
         "label": "LOC",
@@ -1421,6 +1524,12 @@
         "end": 9
       },
       {
+        "text": "扈彥珂",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 13,
@@ -1449,6 +1558,12 @@
     "sentence_id": "HCH_007_116_000118",
     "sentence": "淮南道招討使李重進奏，壽州賊軍攻南寨，王師不利。",
     "entities": [
+      {
+        "text": "李重進",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "壽州",
         "label": "LOC",
@@ -1490,7 +1605,14 @@
   {
     "sentence_id": "HCH_007_116_000121",
     "sentence": "李重進在東寨，亦不能救。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李重進",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_116_000122",
@@ -1525,12 +1647,6 @@
         "label": "LOC",
         "start": 15,
         "end": 18
-      },
-      {
-        "text": "事周行逢為朗州",
-        "label": "LOC",
-        "start": 20,
-        "end": 27
       },
       {
         "text": "大都",
@@ -1569,6 +1685,12 @@
         "end": 5
       },
       {
+        "text": "劉重進",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "破淮賊千餘於州",
         "label": "LOC",
         "start": 15,
@@ -1603,6 +1725,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "王仁裕",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -1677,12 +1805,6 @@
     "sentence": "八月壬戌，河陽白重贊移鎮涇州，張澤移鎮河中。",
     "entities": [
       {
-        "text": "河陽白重贊移鎮",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      },
-      {
         "text": "涇州",
         "label": "LOC",
         "start": 12,
@@ -1745,6 +1867,12 @@
         "label": "LOC",
         "start": 7,
         "end": 14
+      },
+      {
+        "text": "林仁肇",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -1842,12 +1970,6 @@
         "end": 7
       },
       {
-        "text": "郭令圖責授虢州",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      },
-      {
         "text": "坐棄郡",
         "label": "LOC",
         "start": 18,
@@ -1900,7 +2022,14 @@
   {
     "sentence_id": "HCH_007_116_000147",
     "sentence": "癸酉，淮南招討使李重進奏，破淮賊於盛唐，斬二千級。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李重進",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_116_000148",
@@ -1911,6 +2040,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "薛仁謙",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -1923,6 +2058,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -1991,7 +2132,14 @@
   {
     "sentence_id": "HCH_007_116_000156",
     "sentence": "戊子，右神武統軍張彥超卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張彥超",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_116_000157",
@@ -2153,6 +2301,18 @@
         "label": "TITLE",
         "start": 40,
         "end": 42
+      },
+      {
+        "text": "劉溫叟",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      },
+      {
+        "text": "李重進",
+        "label": "PER",
+        "start": 190,
+        "end": 193
       }
     ]
   },

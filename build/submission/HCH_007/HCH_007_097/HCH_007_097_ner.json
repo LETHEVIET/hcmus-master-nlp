@@ -68,6 +68,12 @@
     "sentence": "俄而梁將王彥章攻馬家口所築新壘，明宗恐城中不備，又遣間行告莊宗，請益兵。",
     "entities": [
       {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "明宗恐城",
         "label": "LOC",
         "start": 16,
@@ -123,14 +129,7 @@
   {
     "sentence_id": "HCH_007_097_000013",
     "sentence": "與霍彥威平青州王公儼，遷檢校司徒。",
-    "entities": [
-      {
-        "text": "與霍彥威平青州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_097_000014",
@@ -169,7 +168,14 @@
   {
     "sentence_id": "HCH_007_097_000018",
     "sentence": "長興中，以安重誨得罪，再入為樞密使，加同平章事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_097_000019",
@@ -346,7 +352,14 @@
   {
     "sentence_id": "HCH_007_097_000032",
     "sentence": "高祖繼遣楊光遠討之，延光知事不濟，乃殺孫銳以歸其罪，發人賫表待罪，且邀姑息，高祖不許。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_097_000033",
@@ -381,6 +394,12 @@
         "label": "TITLE",
         "start": 43,
         "end": 47
+      },
+      {
+        "text": "劉處讓",
+        "label": "PER",
+        "start": 61,
+        "end": 64
       }
     ]
   },
@@ -433,6 +452,12 @@
     "sentence_id": "HCH_007_097_000040",
     "sentence": "時楊光遠居守洛下，兼領孟、懷，既利其財，復漸測朝廷密旨，遂奏云：「延光國之奸臣，若不羈縻，必北出塞，南入吳，請召令西都居止。」高祖允之。",
     "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "吳",
         "label": "ORG",
@@ -550,7 +575,14 @@
   {
     "sentence_id": "HCH_007_097_000053",
     "sentence": "從藥彥稠討楊彥溫於河中，平之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "藥彥稠",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_097_000054",
@@ -623,6 +655,12 @@
         "label": "LOC",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -646,7 +684,14 @@
   {
     "sentence_id": "HCH_007_097_000064",
     "sentence": "高祖命杜重威、侯益分兵討之，從賓大敗，乘馬入河，溺水而死焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_097_000065",
@@ -765,12 +810,26 @@
   {
     "sentence_id": "HCH_007_097_000076",
     "sentence": "楊光遠",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_097_000077",
     "sentence": "楊光遠，小字阿檀，及長，止名檀，唐天成中，以明宗改御名為亶，以偏傍字犯之，始改名光遠，字德明，其先沙陀部人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_097_000078",
@@ -898,6 +957,12 @@
         "label": "LOC",
         "start": 15,
         "end": 22
+      },
+      {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 53,
+        "end": 56
       }
     ]
   },
@@ -1003,7 +1068,14 @@
   {
     "sentence_id": "HCH_007_097_000101",
     "sentence": "桑維翰為樞密使，往往彈射其事，光遠心銜之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_097_000102",
@@ -1097,12 +1169,6 @@
     "sentence": "時王建立自青州移鎮上黨，乃以光遠為平盧軍節度使，封東平王。",
     "entities": [
       {
-        "text": "時王建立自青州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      },
-      {
         "text": "移鎮",
         "label": "LOC",
         "start": 7,
@@ -1154,6 +1220,12 @@
         "end": 20
       },
       {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "二年",
         "label": "TME",
         "start": 43,
@@ -1164,6 +1236,12 @@
         "label": "TITLE",
         "start": 59,
         "end": 61
+      },
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 82,
+        "end": 85
       },
       {
         "text": "取子承祚自單州",
@@ -1205,7 +1283,20 @@
   {
     "sentence_id": "HCH_007_097_000121",
     "sentence": "三月，契丹退，命李守貞、符彥卿率師東討。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_097_000122",
@@ -1299,6 +1390,12 @@
         "end": 9
       },
       {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "授青州",
         "label": "LOC",
         "start": 27,
@@ -1315,6 +1412,18 @@
         "label": "LOC",
         "start": 61,
         "end": 66
+      },
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 68,
+        "end": 71
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 148,
+        "end": 151
       },
       {
         "text": "皇后",
@@ -1469,12 +1578,26 @@
   {
     "sentence_id": "HCH_007_097_000139",
     "sentence": "盧文進",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧文進",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_097_000140",
     "sentence": "盧文進，字國用，范陽人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧文進",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_097_000141",
@@ -1878,6 +2001,12 @@
         "label": "TITLE",
         "start": 78,
         "end": 80
+      },
+      {
+        "text": "馮知兆",
+        "label": "PER",
+        "start": 80,
+        "end": 83
       }
     ]
   },
@@ -1932,12 +2061,26 @@
   {
     "sentence_id": "HCH_007_097_000165",
     "sentence": "李金全",
-    "entities": []
+    "entities": [
+      {
+        "text": "李金全",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_097_000166",
     "sentence": "李金全，本唐明宗之小豎也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李金全",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_097_000167",
@@ -2134,16 +2277,16 @@
         "end": 63
       },
       {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 76,
+        "end": 79
+      },
+      {
         "text": "五年",
         "label": "TME",
         "start": 166,
         "end": 168
-      },
-      {
-        "text": "命馬全節為安州",
-        "label": "LOC",
-        "start": 172,
-        "end": 179
       }
     ]
   },

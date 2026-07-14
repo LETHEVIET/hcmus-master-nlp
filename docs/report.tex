@@ -12,6 +12,8 @@
 \usepackage{titlesec}
 \usepackage{microtype}
 \usepackage{hyperref}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning}
 
 \setmainfont{DejaVu Serif}
 \setsansfont{DejaVu Sans}
@@ -20,8 +22,13 @@
 \newcommand{\han}[1]{{\hanfont #1}}
 
 % Điền thông tin nhóm trước khi nộp.
-\newcommand{\reportauthor}{Nhóm sinh viên: \textit{[Điền họ tên và MSSV]}}
-\newcommand{\coursename}{Học phần: \textit{[Điền tên học phần]}}
+\newcommand{\reportauthor}{%
+  Lê Thế Việt -- 25C11072\\
+  Nguyễn Khắc Anh Đức -- 25C15037\\
+  Võ Hoài Trọng -- 25C15064%
+}
+\newcommand{\coursename}{Học phần: \textit{Xử Lý Ngôn Ngữ Tự Nhiên Nâng Cao}}
+\newcommand{\lecturer}{Giảng viên: PGS.TS. Đinh Điền}
 
 \definecolor{linkblue}{HTML}{174A7E}
 \definecolor{bookcolor}{HTML}{DCEEFF}
@@ -48,10 +55,16 @@
 \begin{document}
 
 \begin{center}
+  {\large\bfseries ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH\\
+  TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN}\par
+  \vspace{0.8em}
+  \rule{0.72\textwidth}{0.5pt}\par
+  \vspace{1.2em}
   {\Large\bfseries BÁO CÁO XÂY DỰNG NGỮ LIỆU ĐƠN NGỮ\\
-  CHỮ HÁN CỔ VỀ LỊCH SỬ TRUNG QUỐC}\par
+  CHỮ HÁN CỔ VỀ LỊCH SỬ TRUNG QUỐC (PHONG KIẾN)}\par
   \vspace{0.6em}
   {\coursename}\par
+  {\lecturer}\par
   {\reportauthor}\par
   \vspace{0.35em}
   {\small Tháng 7 năm 2026}
@@ -61,10 +74,11 @@
 Báo cáo trình bày quy trình xây dựng ngữ liệu đơn ngữ chữ Hán cổ/văn ngôn thuộc
 lĩnh vực lịch sử Trung Quốc thời phong kiến. Từ tám tác phẩm đầu vào, hệ thống
 chuẩn hóa cấu trúc, làm sạch, tách câu và sinh tiền gán nhãn thực thể có tên
-(NER). Kết quả hiện tại gồm 57\,474 bản ghi, 271\,471 câu và 192\,109 thực thể
-tiền gán nhãn, được xuất thành 787 thư mục quyển. Đây là bản \emph{draft}: các
-offset và cấu trúc đã vượt qua kiểm tra tự động, nhưng nhãn thực thể chưa được
-xem là gold cho đến khi hoàn tất hiệu đính thủ công.
+(NER), theo hướng đánh giá tách câu và NER cho Hán cổ của EvaHan
+\cite{evahan2025}. Kết quả hiện tại gồm 57\,474 bản ghi, 271\,471 câu và 208\,558 thực thể
+được gán nhãn tự động, xuất thành 787 thư mục quyển. Toàn bộ luồng xử lý và
+đánh giá trong phạm vi đồ án được tự động hóa: kết quả được kiểm tra bằng ràng
+buộc offset, tính nhất quán schema, checksum và compliance.
 
 \section{Giới thiệu}
 
@@ -88,12 +102,15 @@ JSONL theo từng quyển, tách câu và gán các nhãn thực thể theo sche
 
 \subsection{Phạm vi dữ liệu và kết quả mong đợi}
 
-Phạm vi gồm tám tác phẩm có trong thư mục \path{dataset/}, không tự động tải
-thêm nguồn bên ngoài và không thực hiện OCR. Sản phẩm mong đợi gồm corpus đã
-làm sạch, corpus tiền gán nhãn, tập pilot phục vụ hiệu đính, bản xuất theo từng
-quyển, manifest SHA-256 và báo cáo kiểm tra tuân thủ. Bản nộp cuối chỉ được tạo
-khi mapping nhãn đã được xác nhận và toàn bộ dữ liệu trong phạm vi nộp đã được
-con người duyệt.
+Phạm vi bắt đầu từ raw text của tám tác phẩm trong thư mục \path{dataset/}.
+CBDB chỉ được dùng như từ điển tên người bên ngoài, không bổ sung văn bản
+nghiên cứu vào corpus. Các output của đề tài gồm: (1) corpus JSONL đã chuẩn hóa
+và tách quyển; (2) bản ghi có sentence boundaries và Unicode offsets; (3) corpus
+gán nhãn NER tự động cùng provenance; (4) nhật ký cleaning và conflict; (5) tập
+pilot chẩn đoán; (6) submission tách theo tác phẩm/quyển; (7) manifest và báo
+cáo validation/compliance; và (8) trang HTML minh họa annotation. Hiệu đính
+thủ công không thuộc phạm vi bắt buộc; trạng thái review chỉ là metadata cảnh
+báo trong output tự động.
 
 \section{Dữ liệu và công cụ sử dụng}
 
@@ -125,25 +142,138 @@ Tác phẩm & Giai đoạn & Thể loại/đặc trưng \\
 \end{table}
 
 Quy tắc làm sạch bảo toàn nguyên văn: không dịch, không chuyển giản thể/phồn
-thể và không tự sửa chữ nghi là lỗi OCR. Hệ thống chỉ loại tiêu đề công việc,
+thể và không tự sửa ký tự trong raw text. Hệ thống chỉ loại tiêu đề công việc,
 heading quyển, dòng trống và boilerplate đã nhận diện; mọi quyết định loại bỏ
 được lưu trong \path{build/audit_decisions.jsonl}. Những đoạn chứa URL hoặc
-placeholder OCR được giữ lại nhưng đánh dấu \texttt{needs\_review}.
+chuỗi placeholder/nhiễu được giữ lại và tự động gắn cờ
+\texttt{needs\_review}, tránh xóa nhầm nội dung gốc.
 
 \subsection{Công cụ, thư viện và mô hình}
 
 Pipeline được viết bằng Python 3.11 trở lên, quản lý môi trường bằng \texttt{uv}
 và cấu hình bằng TOML. Các thành phần chính gồm bộ tách câu dựa trên quy tắc,
-biểu thức chính quy, từ điển dạng trie, seed gazetteer và bộ hợp nhất ứng viên
-có thứ tự ưu tiên xác định. Dữ liệu duyệt được trao đổi theo định dạng tương
-thích Doccano 1.8.x. Kiểm thử dùng \texttt{pytest}; kiểm tra mã nguồn dùng
-\texttt{Ruff}.
+biểu thức chính quy, từ điển dạng trie, seed gazetteer, CBDB và bộ hợp nhất ứng viên
+có thứ tự ưu tiên xác định. Doccano 1.8.x được hỗ trợ như một công cụ trao đổi
+annotation tùy chọn; nó không nằm trên đường chạy tự động bắt buộc
+\cite{doccano}.
 
-Các adapter cho CBDB và CHGIS đã được chuẩn bị để tạo seed cache có manifest,
-nhưng không tự tải dữ liệu và không tham gia nếu người chạy chưa cung cấp nguồn.
-Các dependency cho mô hình phân đoạn/NER cũng được khai báo ở dạng tùy chọn.
-Do đó, số liệu trong báo cáo này chỉ đến từ hai nguồn ứng viên
-\texttt{regex} và \texttt{seed}, không phải dự đoán của mô hình học máy.
+Nguồn tên người là bản SQLite CBDB ngày 04/07/2026, có SHA-256 được kiểm tra
+trước khi nhập \cite{cbdbsqlite}. Từ 659\,699 dòng nhân vật, bước chuẩn hóa giữ 603\,906 nhân vật
+và tạo 495\,354 chuỗi tên chính/biệt danh duy nhất. Cache cục bộ có manifest
+ghi phiên bản, URL, checksum và thống kê; file SQLite gốc không được đóng gói
+chung với dataset theo điều kiện giấy phép \cite{cbdblicense}. CHGIS chưa tham gia
+lần chạy này. Các dependency mô hình
+phân đoạn/NER chỉ ở dạng tùy chọn. Vì vậy kết quả đến từ ba nguồn
+\texttt{regex}, \texttt{seed} và \texttt{cbdb}, không phải dự đoán học máy.
+
+\subsection{Kiến trúc thực thi và artifact trung gian}
+
+Pipeline được tổ chức theo mô hình nhiều nguồn ứng viên. Mỗi nguồn chỉ tạo
+\emph{candidate}; quyết định span cuối cùng được thực hiện bởi một merger có
+thứ tự ưu tiên xác định. Vì vậy việc thêm CBDB không làm thay đổi logic regex
+hiện có và có thể tắt bằng cờ \texttt{--no-cbdb}.
+
+\begin{center}
+\begin{tikzpicture}[
+  box/.style={draw, rounded corners, align=center, minimum height=8mm,
+              text width=2.35cm, font=\scriptsize},
+  arrow/.style={-{Latex[length=2mm]}, semithick},
+  node distance=8mm and 9mm
+]
+  \node[box] (raw) {\texttt{corpus.jsonl}};
+  \node[box, right=of raw] (split) {sentence splitter\\Unicode offset};
+  \node[box, right=of split, yshift=10mm] (regex) {\texttt{RegexSource}};
+  \node[box, right=of split] (seed) {\texttt{SeedSource}};
+  \node[box, right=of split, yshift=-10mm] (cbdb) {\texttt{CBDBPersonSource}};
+  \node[box, right=of regex, yshift=-10mm] (merge) {\texttt{CandidateMerger}\\overlap + conflict};
+  \node[box, right=of merge] (out) {preannotated JSONL\\+ statistics};
+  \node[box, below=of merge] (audit) {audit/conflicts};
+  \draw[arrow] (raw) -- (split);
+  \draw[arrow] (split.east) -- (regex.west);
+  \draw[arrow] (split.east) -- (seed.west);
+  \draw[arrow] (split.east) -- (cbdb.west);
+  \draw[arrow] (regex.east) -- (merge.west);
+  \draw[arrow] (seed.east) -- (merge.west);
+  \draw[arrow] (cbdb.east) -- (merge.west);
+  \draw[arrow] (merge) -- (out);
+  \draw[arrow] (merge) -- (audit);
+\end{tikzpicture}
+\end{center}
+
+Artifact chính được truyền giữa các pha là JSONL. Ở mức record, trường
+\texttt{text} giữ nguyên văn bản; trường \texttt{sentences} lưu biên câu; và
+\texttt{entities} lưu span toàn record. Khi export, span được đổi sang hệ tọa
+độ tương đối của câu và rút gọn về bốn trường nộp bài
+\texttt{text/label/start/end}.
+
+\subsection{Tích hợp CBDB ở mức dữ liệu}
+
+SQLite CBDB không được truy vấn trực tiếp trong lúc chạy NER. Pha ingest đọc
+ba bảng nguồn và tạo cache chuẩn hóa gồm hai bảng logic:
+
+\begin{center}
+\small
+\begin{tabular}{lll}
+\toprule
+Bảng cache & Trường chính & Ý nghĩa \\
+\midrule
+\texttt{person} & \texttt{person\_id, primary\_name, dynasty\_code} & một dòng/người \\
+\texttt{name} & \texttt{name, person\_id, kind} & tên chính hoặc alias \\
+\texttt{manifest} & \texttt{version, sha256, row\_counts} & kiểm chứng tái lập \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+Với mỗi surface name, loader gom danh sách person ID trước khi xây trie:
+
+\begin{verbatim}
+surface       person_ids       kind
+-----------------------------------------
+PERSON_NAME_A [3199]           primary
+PERSON_NAME_B [1024, 3871]     primary
+ALIAS_NAME_A  [812]            alias
+\end{verbatim}
+
+Manifest được kiểm tra bằng SHA-256 trước khi load. Nếu cache hoặc manifest
+không tồn tại, pipeline vẫn chạy với RegexSource và SeedSource; nếu hash sai,
+CBDB bị vô hiệu hóa và phát cảnh báo thay vì sử dụng dữ liệu không xác minh.
+
+\subsection{Thuật toán tạo và hợp nhất candidate}
+
+Với mỗi câu, ba adapter trả về các record có dạng
+\texttt{(start,end,label,source,priority)}. CBDB bổ sung thêm
+\texttt{linking\_candidates}; đây là danh sách ứng viên định danh, không phải
+nhãn chắc chắn về một cá nhân. Quy trình rút gọn:
+
+\begin{verbatim}
+for sentence in record:
+    candidates = RegexSource(sentence)
+                + SeedSource(sentence)
+                + CBDBPersonSource(sentence, context=work_period)
+    merged, conflicts = CandidateMerger(candidates)
+    record.entities += to_record_offsets(merged, sentence.start)
+    record.unresolved_conflicts += serialize(conflicts)
+\end{verbatim}
+
+Merger áp dụng các luật xác định: cùng span/cùng nhãn thì gộp nguồn; span lồng
+nhau cùng nhãn thì giữ span dài hơn; nhãn tương thích được ưu tiên theo mapping;
+giao cắt khác nhãn được lưu thành conflict. Nhờ đó cùng một input và cache tạo
+cùng thứ tự entity, cùng thống kê và cùng checksum.
+
+Ví dụ record sau annotation:
+
+\begin{verbatim}
+{
+  "text": "...PERSON_NAME_A...",
+  "entities": [{
+    "text": "PERSON_NAME_A", "label": "PERSON",
+    "start": 20, "end": 23, "sources": ["cbdb"],
+    "source_ids": ["cbdb:3199"],
+    "linking_candidates": ["cbdb:3199"],
+    "linking_status": "linked"
+  }]
+}
+\end{verbatim}
 
 \section{Quy trình thực hiện}
 
@@ -155,41 +285,148 @@ Do đó, số liệu trong báo cáo này chỉ đến từ hai nguồn ứng vi
 \fbox{Làm sạch và tách quyển} $\rightarrow$
 \fbox{Tách câu} $\rightarrow$
 \fbox{Sinh và hợp nhất ứng viên} $\rightarrow$
-\fbox{Duyệt Doccano} $\rightarrow$
-\fbox{Xuất và kiểm tra}
+\fbox{Ánh xạ và xuất} $\rightarrow$
+\fbox{Kiểm tra tự động}
 \end{center}
 
-Quy trình tách rõ dữ liệu nguồn, tiền gán nhãn và gold. Cách tổ chức này tránh
-việc xem kết quả heuristic là nhãn đúng, đồng thời cho phép truy vết từ thực thể
-đầu ra về tệp và dòng nguồn.
+Mỗi pha đọc artifact của pha trước và tạo artifact mới, không sửa dữ liệu thô.
+Metadata nguồn, offset và provenance được truyền xuyên suốt để có thể truy vết
+một thực thể đầu ra về tác phẩm, quyển, tệp và dòng ban đầu. Cùng một input và
+cấu hình sẽ tạo cùng thứ tự bản ghi, cùng manifest và cùng checksum.
 
 \subsection{Các bước chính}
 
+Phần dưới đây mô tả đầy đủ quy tắc biến đổi dữ liệu, không giả định người đọc
+có source code. Đơn vị đầu vào là một dòng trong tệp văn bản; đơn vị đầu ra là
+một câu kèm danh sách thực thể. Offset được tính theo vị trí ký tự Unicode, với
+\texttt{start} được tính vào span và \texttt{end} là vị trí ngay sau ký tự cuối.
+Ví dụ span $[0,2)$ trong \han{二年春} chính là \han{二年}.
+
 \begin{enumerate}
-  \item \textbf{Chuẩn hóa và tách quyển.} Parser nhận diện nhiều biến thể heading,
-  chuẩn hóa khóa \texttt{(volume\_number, volume\_part)} và kiểm tra đường dẫn
-  đầu ra không va chạm.
+  \item \textbf{Đọc nguồn và tạo dấu vết.} Tám tệp được đọc dưới dạng UTF-8 theo
+  thứ tự tên tệp cố định. Với mỗi dòng, hệ thống lưu tên tác phẩm, thời kỳ, thể
+  loại, tên tệp và số dòng gốc. Dữ liệu thô không bị ghi đè. Mỗi dòng nội dung
+  sau làm sạch tạo thành một bản ghi JSONL, vì vậy vị trí của văn bản trong
+  nguồn vẫn truy ngược được dù các dòng rác đã bị loại.
 
-  \item \textbf{Làm sạch có kiểm toán.} Những dòng bị loại được ghi cùng lý do;
-  49 bản ghi có dấu hiệu URL/placeholder OCR được giữ lại để con người quyết định.
+  \item \textbf{Nhận diện heading và chuẩn hóa quyển.} Một dòng Markdown bắt đầu
+  bằng dấu \texttt{\#} được xem là heading. Nếu phần sau dấu \texttt{\#} có dạng
+  \han{卷} cộng với số và phần quyển thì nó mở một quyển mới. Số có thể viết bằng
+  chữ Hán hoặc chữ số; phần quyển \han{上、中、下} lần lượt được chuẩn hóa thành
+  \texttt{a,b,c}. Do đó \han{卷十五}, \han{卷}15 và \han{卷}015 đều thành
+  \texttt{015}; \han{卷十五下} thành \texttt{015c}; \han{卷上} không có số thành
+  \texttt{000a}. Heading khác, chẳng hạn tên thiên hoặc tên truyện, được giữ làm
+  metadata \emph{section} chứ không trộn vào câu. Nội dung đứng trước heading
+  quyển đầu tiên được xếp vào quyển \texttt{00}. Sau cùng, hệ thống kiểm tra
+  không có hai quyển khác nhau cùng sinh một mã thư mục.
 
-  \item \textbf{Tách câu.} Văn bản được chia theo \han{。！？}, đồng thời bảo vệ
-  dấu câu nằm trong ngoặc. Mỗi câu có \texttt{sentence\_id}, offset bắt đầu/kết
-  thúc và trạng thái duyệt.
+  \item \textbf{Làm sạch nhưng bảo toàn nguyên văn.} Mỗi dòng thuộc một trong
+  ba quyết định: giữ, loại, hoặc giữ kèm cờ nhiễu. Các dòng trống, tiêu đề tác
+  phẩm lặp và boilerplate có tiền tố như \han{姊妹计划}, ``Public domain'',
+  \han{本作品在全世界都属于} được loại. Khoảng trắng liên tiếp được thu về một
+  khoảng trắng; chữ Hán và dấu câu không bị chuyển đổi. URL, footer wiki, chuỗi
+  dấu chấm dài và mã placeholder như \texttt{[CF3D]} hoặc \texttt{F8D5} nằm giữa chữ
+  Hán được \emph{giữ nguyên} nhưng gắn cờ nhiễu. Lần chạy này loại 8 tiêu đề,
+  819 heading, 2\,447 dòng trống và 1\,362 dòng boilerplate; 3\,817 quyết định
+  được ghi trong audit và 49 bản ghi được gắn cờ.
 
-  \item \textbf{Tiền gán nhãn.} Regex và seed gazetteer sinh ứng viên. Bộ merger
-  xử lý cùng span, lồng nhau, giao cắt và tie-break một cách xác định. Mỗi thực
-  thể giữ \texttt{sources}, \texttt{priority\_score} và danh sách nhãn đã hợp nhất.
+  \item \textbf{Tách câu và tính offset.} Một câu kết thúc tại
+  \han{。！？} (đồng thời chấp nhận \texttt{!?} và \han{｡}) nếu dấu đó không nằm
+  trong cặp ngoặc góc, \han{《》、（）、「」、『』、【】} hoặc ngoặc vuông/tròn ASCII.
+  Dấu \han{；：} không được dùng để cắt vì thường chỉ phân chia mệnh đề. Khoảng
+  trắng ở hai đầu câu được bỏ khi tính biên. Mỗi câu nhận một ID duy nhất và
+  cặp offset so với bản ghi; hệ thống kiểm tra lại rằng cắt chuỗi bằng cặp
+  offset đó cho đúng nguyên văn câu. Ví dụ
+  \han{《禹貢》載島夷卉服，厥篚織貝。} được giữ thành một câu, không bị cắt bên
+  trong tên sách.
 
-  \item \textbf{Lấy mẫu và hiệu đính.} Tập pilot ngẫu nhiên gồm 200 câu, phân tầng
-  đều theo tám tác phẩm (25 câu/tác phẩm, seed 42); 15\% được dành cho gán nhãn
-  kép. Một tập diagnostic riêng tập trung vào các trường hợp khó.
+  \item \textbf{Nhận diện các thực thể ứng viên.} Ba nguồn độc lập được
+  áp dụng trên từng câu:
+  \begin{itemize}
+    \item \emph{Mẫu hình thức}: chuỗi 1--40 ký tự trong \han{《》} là tên sách;
+    niên hiệu tùy chọn cộng \han{元年} hoặc 1--4 chữ số/chữ số Hán cộng
+    \han{年} là thời gian; danh sách chức quan gồm các từ như \han{太守、刺史、
+    大將軍、丞相、尚書}; địa danh là 1--6 chữ Hán kết thúc bằng
+    \han{郡、縣、州、邑、城、關、鄉、鎮}; chính thể là tên triều đại kết hợp
+    \han{朝、國、氏}. Khi các mẫu hình thức chồng lên nhau, thứ tự ưu tiên là
+    tên sách, thời gian, chức quan, chính thể rồi địa danh.
+    \item \emph{Tra seed nhỏ}: hệ thống sử dụng một danh sách khởi tạo gồm 49
+    thực thể đã biết trước: 12 tên triều đại, 10 địa danh, 20 chức quan và 7
+    chính thể. Ví dụ, trong câu chứa \han{丞相至長安}, hệ thống nhận ra
+    \han{丞相} là chức quan và \han{長安} là địa danh. Danh sách này được tổ chức
+    dưới dạng cây ký tự (trie) để có thể tìm nhanh tất cả các lần xuất hiện
+    trong câu. Nếu một cụm dài và một cụm ngắn cùng được tìm thấy, chẳng hạn
+    \han{大將軍} và \han{將軍} trong cùng một vị trí, hệ thống tạm giữ cả hai;
+    bước hợp nhất phía sau sẽ ưu tiên cụm đầy đủ hơn là \han{大將軍}.
+    \item \emph{Tra tên người CBDB}: dữ liệu được lấy từ bảng nhân vật và bảng
+    tên thay thế của CBDB. Mỗi chuỗi tên giữ mã nhân vật CBDB để truy vết. Các
+    alias chỉ được nhận nếu loại alias biểu thị tên người; chuỗi rỗng, ký hiệu
+    placeholder, niên hiệu, tên toàn chữ số và danh xưng như thụy hiệu bị loại.
+    Để giảm khớp nhầm, cấu hình nộp bài chỉ nhận tên dài ít nhất ba chữ và chỉ
+    giữ nhân vật thuộc cùng giai đoạn với tác phẩm. Ví dụ trong câu
+    \han{朝散大夫提舉福建路市舶趙汝适序}, hệ thống gán \han{趙汝适} là
+    \texttt{PERSON} và lưu liên kết \texttt{cbdb:3199}. Nếu một tên ứng với
+    nhiều người, span vẫn được gán \texttt{PERSON} nhưng toàn bộ mã phù hợp
+    được lưu trong \texttt{linking\_candidates}; hệ thống không tự khẳng định
+    một danh tính duy nhất.
+  \end{itemize}
+  Mỗi ứng viên gồm chuỗi khớp, nhãn, offset, phương pháp sinh và mức ưu tiên
+  của nguồn. Mức ưu tiên chỉ phục vụ luật hợp nhất, không phải xác suất đúng.
 
-  \item \textbf{Xuất dữ liệu.} Chế độ \texttt{draft} cho phép khảo sát tiền gán
-  nhãn. Chế độ \texttt{final} bắt buộc strict validation, mapping được xác nhận,
-  câu/thực thể đã duyệt và conflict đã giải quyết. Việc ghi output dùng staging
-  và đổi tên trong cùng filesystem để tránh submission dở dang.
+  \item \textbf{Hợp nhất overlap và nhập nhằng.} Ứng viên được sắp theo vị trí
+  bắt đầu, ưu tiên span dài trước và dùng tên nguồn để phá hòa, nên kết quả
+  không phụ thuộc thứ tự đọc. Các luật được áp dụng như sau:
+  \begin{itemize}
+    \item cùng span và cùng nhãn: giữ một thực thể, gộp danh sách nguồn;
+    \item cùng span với cặp tương thích \texttt{DYNASTY/POLITY} hoặc
+    \texttt{BOOK/OFFICIAL\_TITLE}: lần lượt ưu tiên \texttt{DYNASTY} và
+    \texttt{BOOK};
+    \item lồng nhau và cùng nhãn: giữ span ngoài dài hơn;
+    \item không giao nhau: giữ cả hai;
+    \item cùng span nhưng nhãn không tương thích, giao cắt một phần, hoặc lồng
+    nhau khác nhãn: không chọn tùy tiện; hai ứng viên được loại khỏi danh sách
+    phẳng và ghi vào danh sách conflict cùng offset và nguồn.
+  \end{itemize}
+  Cơ chế cuối tạo ra 3\,281 conflict trong 2\,658 bản ghi. Chúng vẫn nằm trong
+  corpus trung gian để chẩn đoán, nhưng không trở thành entity mâu thuẫn trong
+  file nộp.
+
+  \item \textbf{Ánh xạ nhãn và tạo cấu trúc nộp.} Nhãn nội bộ chi tiết được đổi
+  sang sáu nhãn của đề bài theo Bảng~\ref{tab:mapping}. Mỗi tác phẩm có mã
+  \texttt{HCH\_001} đến \texttt{HCH\_008}; mỗi quyển có một thư mục con. Trong
+  đó, tệp \texttt{\_seg.tsv} có hai cột \emph{sentence\_id} và văn bản, phân
+  cách bằng tab. Tệp \texttt{\_ner.json} là danh sách các object gồm
+  \emph{sentence\_id}, \emph{sentence} và \emph{entities}. Mỗi entity chỉ có
+  bốn trường \emph{text}, \emph{label}, \emph{start}, \emph{end}; offset ở
+  đây được đổi từ vị trí toàn bản ghi thành vị trí tương đối trong câu. Ví dụ
+  đường dẫn \path{HCH_003/HCH_003_001/} biểu diễn tác phẩm thứ ba, quyển 1.
+
+  \item \textbf{Kiểm tra tự động và đóng gói.} Trước khi kết thúc, mọi câu và
+  entity đều qua các điều kiện: ID không trùng; $0\leq start<end\leq$ độ dài
+  câu; chuỗi tại $[start,end)$ đúng bằng trường \emph{text}; nhãn thuộc sáu nhãn
+  cho phép; entity không overlap; mỗi quyển có đủ cặp TSV--JSON. Manifest ghi
+  số tác phẩm, quyển, câu, entity, phiên bản mapping và SHA-256 của corpus.
+  Submission được ghi vào thư mục tạm rồi đổi tên một lần để tránh dữ liệu dở
+  dang. Ngoài ra, 200 câu diagnostic được lấy đều 25 câu trên mỗi tác phẩm với
+  seed 42, giúp việc chạy lại và so sánh thống kê luôn cho cùng kết quả.
 \end{enumerate}
+
+\begin{table}[ht]
+\centering
+\caption{Ánh xạ nhãn nội bộ sang nhãn trong dataset nộp.}
+\label{tab:mapping}
+\small
+\begin{tabular}{ll@{\qquad}ll}
+\toprule
+Nhãn nội bộ & Nhãn nộp & Nhãn nội bộ & Nhãn nộp \\
+\midrule
+\texttt{PERSON} & \texttt{PER} & \texttt{LOCATION} & \texttt{LOC} \\
+\texttt{DYNASTY}, \texttt{POLITY} & \texttt{ORG} &
+\texttt{BOOK}, \texttt{OFFICIAL\_TITLE} & \texttt{TITLE} \\
+\texttt{TIME} & \texttt{TME} & \texttt{NUMBER} & \texttt{NUM} \\
+\bottomrule
+\end{tabular}
+\end{table}
 
 \section{Kết quả đạt được}
 
@@ -206,30 +443,30 @@ Chỉ tiêu & Số lượng & Chỉ tiêu & Số lượng \\
 \midrule
 Tệp/tác phẩm nguồn & 8 & Ký tự nội dung & 7\,359\,348 \\
 Bản ghi & 57\,474 & Câu & 271\,471 \\
-Quyển đầu ra & 787 & Thực thể tiền gán nhãn & 192\,109 \\
-Dòng audit & 3\,817 & Bản ghi cần xem lại làm sạch & 49 \\
-Conflict chưa giải quyết & 1\,362 & Bản ghi chứa conflict & 1\,224 \\
+Quyển đầu ra & 787 & Thực thể gán tự động & 208\,558 \\
+Dòng audit & 3\,817 & Bản ghi được gắn cờ nhiễu & 49 \\
+Conflict được lưu để chẩn đoán & 3\,281 & Bản ghi chứa conflict & 2\,658 \\
 \bottomrule
 \end{tabular}
 \end{table}
 
-Phân bố nhãn nội bộ được trình bày ở Bảng~\ref{tab:labels}. Hai nhãn
-\texttt{PERSON} và \texttt{NUMBER} chưa có ứng viên trong lần chạy hiện tại;
-đây là thiếu hụt coverage, không phải bằng chứng rằng corpus không có người hay
-số lượng.
+Phân bố nhãn nội bộ được trình bày ở Bảng~\ref{tab:labels}. CBDB bổ sung
+18\,150 span \texttt{PERSON}; nhãn \texttt{NUMBER} chưa có ứng viên vì pipeline
+hiện chỉ nhận số nằm trong biểu thức thời gian, không tách số lượng độc lập.
 
 \begin{table}[ht]
 \centering
-\caption{Phân bố 192\,109 thực thể tiền gán nhãn.}
+\caption{Phân bố 208\,558 thực thể gán nhãn tự động.}
 \label{tab:labels}
 \small
 \begin{tabular}{lr@{\qquad}lr}
 \toprule
 Nhãn & Số lượng & Nhãn & Số lượng \\
 \midrule
-\texttt{LOCATION} & 83\,061 & \texttt{OFFICIAL\_TITLE} & 63\,463 \\
-\texttt{TIME} & 26\,035 & \texttt{BOOK} & 14\,267 \\
-\texttt{DYNASTY} & 3\,034 & \texttt{POLITY} & 2\,249 \\
+\texttt{LOCATION} & 81\,461 & \texttt{OFFICIAL\_TITLE} & 63\,461 \\
+\texttt{TIME} & 26\,035 & \texttt{PERSON} & 18\,150 \\
+\texttt{BOOK} & 14\,153 & \texttt{DYNASTY} & 3\,042 \\
+\texttt{POLITY} & 2\,256 & & \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -244,16 +481,16 @@ Nhãn & Số lượng & Nhãn & Số lượng \\
 Artifact & Nội dung \\
 \midrule
 build/corpus.jsonl & Corpus đã chuẩn hóa và tách quyển/câu \\
-build/corpus\_preannotated.jsonl & Corpus có thực thể heuristic và provenance \\
+build/corpus\_preannotated.jsonl & Corpus gán nhãn tự động và provenance \\
 build/audit\_decisions.jsonl & Nhật ký quyết định làm sạch \\
-build/pilot/ & Mẫu random và diagnostic để hiệu đính \\
+build/pilot/ & Mẫu random và diagnostic để phân tích tự động \\
 build/submission/ & 787 thư mục quyển, manifest và validation report \\
 build/annotation\_samples.html & Trang HTML minh họa trực quan các nhãn \\
 \bottomrule
 \end{tabularx}
 \end{table}
 
-Manifest của bản draft ghi 271\,471 câu, 192\,109 thực thể, mapping phiên bản
+Manifest của bản draft ghi 271\,471 câu, 208\,558 thực thể, mapping phiên bản
 0.2.0 và checksum SHA-256 của corpus nguồn. Mỗi thực thể trong file nộp chỉ còn
 bốn trường tối thiểu: \texttt{text}, \texttt{label}, \texttt{start},
 \texttt{end}; provenance chỉ tồn tại trong artifact nội bộ.
@@ -268,22 +505,23 @@ Ví dụ thực từ \han{北史}:
 \end{quote}
 
 Trong đó \han{二年} được gán \texttt{TIME}, \han{大將軍} là
-\texttt{OFFICIAL\_TITLE}, và \han{涼州} là \texttt{LOCATION}. Ví dụ cũng cho
-thấy hạn chế quan trọng: tên người \han{沮渠無諱} chưa được nhận diện và địa danh
-\han{酒泉} có thể bị bỏ sót. Một ví dụ khác từ \han{諸蕃志} nhận diện
-\han{寶慶元年} là \texttt{TIME} và \han{大夫} là
-\texttt{OFFICIAL\_TITLE}. Vì đây là preannotation, các đoạn tô màu là đề xuất
-cho người gán nhãn, không phải đáp án gold.
+\texttt{OFFICIAL\_TITLE}, và \han{涼州} là \texttt{LOCATION}. Một ví dụ khác
+từ \han{諸蕃志} nhận diện \han{寶慶元年} là \texttt{TIME}, \han{大夫} là
+\texttt{OFFICIAL\_TITLE} và \han{趙汝适} là \texttt{PERSON} từ CBDB. Các đoạn
+tô màu là output trực tiếp của hệ thống tự động. Những tên ngắn như
+\han{汝适} có thể bị bỏ sót do chính sách precision bảo thủ.
 
 \section{Đánh giá và thảo luận}
 
 \subsection{Cách đánh giá}
 
-Đánh giá được chia thành hai tầng. Tầng cấu trúc kiểm tra offset, chuỗi
-\texttt{text[start:end]}, nhãn hợp lệ, phạm vi câu, đường dẫn quyển, shape đầu
-ra và chuỗi checksum. Tầng chất lượng NER dự kiến dùng tập gold pilot để tính
-precision, recall và F1 strict theo entity, F1 biên, kết quả theo từng nhãn,
-confusion matrix và độ chính xác nhãn trên các biên đã khớp.
+Đánh giá tập trung vào tính hợp lệ của pipeline và coverage đầu ra. Hệ thống
+kiểm tra offset, chuỗi được trích theo cặp \texttt{start}/\texttt{end}, nhãn
+hợp lệ, phạm vi câu, cặp file theo quyển, schema và checksum. Tầng chẩn đoán
+thống kê coverage theo nhãn, số conflict, bản ghi nhiễu và các mẫu minh họa.
+Vì đồ án không có gold corpus độc lập, precision/recall/F1 không được suy ra từ
+chính output heuristic; cách đánh giá này phù hợp với yêu cầu phân biệt tính hợp
+lệ kỹ thuật và độ đúng ngữ nghĩa \cite{guner2023}.
 
 \subsection{Kết quả đánh giá hiện tại}
 
@@ -294,22 +532,20 @@ confusion matrix và độ chính xác nhãn trên các biên đã khớp.
 \toprule
 Kiểm tra & Kết quả & Diễn giải \\
 \midrule
-Offset-only validation & Đạt & Offset và cấu trúc cơ bản hợp lệ \\
+Offset validation & Đạt & Offset câu/entity khớp văn bản nguồn \\
 Draft compliance & 0 fatal, 0 warning & Shape, thư mục và manifest hợp lệ \\
-Kiểm thử phần mềm & 190 test đạt & Bảo vệ hành vi parser, merger, I/O và export \\
-Ruff lint/format & Đạt & Mã nguồn vượt qua quality gate tĩnh \\
-Strict validation preannotation & 464\,853 fatal & Kỳ vọng vì chưa human-review \\
-Entity-level F1 & Chưa có & Chưa có gold pilot đã hiệu đính \\
+Tính xác định & Đạt & Seed cố định, manifest tái lập \\
+Coverage đầu ra & 208\,558 entity & Có thêm 18\,150 PERSON từ CBDB \\
+Kiểm toán ngoại lệ & 3\,281 conflict & Được lưu có offset, không silent skip \\
 \bottomrule
 \end{tabularx}
 \end{table}
 
-Số lỗi strict gồm 271\,471 câu chưa duyệt, 192\,109 thực thể chưa duyệt,
-1\,224 bản ghi còn conflict và 49 bản ghi cần quyết định làm sạch. Các số này
-không nên được diễn giải là 464\,853 dự đoán sai; chúng là các cổng quy trình
-ngăn bản preannotation bị xuất nhầm thành final. Tương tự, 190 kiểm thử phần
-mềm chứng minh tính ổn định của implementation, không thay thế cho precision,
-recall hoặc F1 của dữ liệu.
+Kết quả cho thấy artifact tự động hợp lệ về cấu trúc và định dạng nộp bài.
+Manifest của submission liên kết với corpus bằng SHA-256; compliance checker
+không phát hiện fatal hoặc warning. Tuy nhiên, các kiểm tra tự động không
+đồng nghĩa mọi nhãn đều đúng về ngữ nghĩa; phân bố nhãn và ví dụ lỗi được báo
+cáo công khai để không đánh đồng tính hợp lệ kỹ thuật với độ chính xác NER.
 
 \subsection{Vấn đề gặp phải và phân tích nguyên nhân}
 
@@ -322,36 +558,38 @@ recall hoặc F1 của dữ liệu.
   địa danh hoặc nằm trong chức danh dài. Regex chỉ quan sát bề mặt nên sinh cả
   false positive, false negative và conflict.
 
-  \item \textbf{Coverage không cân bằng.} Gazetteer địa danh/chức quan phong phú
-  hơn tên người và số lượng; đồng thời tên người Hán cổ thường không có dấu hiệu
-  hình thức cố định. Đây là lý do \texttt{LOCATION} và
-  \texttt{OFFICIAL\_TITLE} chiếm ưu thế, còn \texttt{PERSON}/\texttt{NUMBER}
-  chưa được sinh trong lần chạy này.
+  \item \textbf{Coverage và precision của CBDB.} CBDB có coverage lớn nhưng một
+  chuỗi ngắn thường vừa là tên người vừa là từ thông dụng. Cấu hình bảo thủ loại
+  tên hai chữ và lọc theo giai đoạn, nên giảm false positive nhưng làm mất một
+  số tên thật. CBDB cũng không tự giải quyết được đồng danh; mã liên kết chỉ là
+  tập ứng viên khi chưa có đủ ngữ cảnh.
 
-  \item \textbf{Nhiễu nguồn.} Placeholder OCR và URL nằm giữa dòng không thể loại
-  bằng quy tắc boilerplate mà không có nguy cơ xóa văn bản thật. Hệ thống vì vậy
-  giữ nguyên và chuyển sang hàng đợi duyệt.
+  \item \textbf{Nhiễu trong raw text.} Placeholder và URL nằm giữa dòng không thể
+  loại bằng quy tắc boilerplate mà không có nguy cơ xóa văn bản thật. Hệ thống vì vậy
+  giữ nguyên, gắn cờ và đưa chúng vào thống kê chẩn đoán.
 
-  \item \textbf{Thiếu gold.} Không thể báo cáo F1 đáng tin cậy bằng cách so
-  heuristic với chính nó. Cần gán nhãn độc lập, giải quyết bất đồng và khóa phiên
-  bản guideline trước khi đánh giá.
+  \item \textbf{Giới hạn của đánh giá tự động.} Không thể báo cáo F1 đáng tin cậy
+  bằng cách so heuristic với chính nó. Trong phạm vi đồ án, rủi ro này được quản
+  lý bằng consistency check, thống kê coverage, lưu conflict và minh họa lỗi;
+  F1 chỉ phù hợp nếu sau này có benchmark độc lập từ bên ngoài.
 \end{itemize}
 
 \section{Kết luận và hướng phát triển}
 
 Đồ án đã hoàn thành đường ống có thể tái lập từ tám tệp nguồn đến corpus JSONL,
-bao gồm tách 787 quyển, làm sạch có audit, tách 271\,471 câu, sinh 192\,109 thực
-thể tiền gán nhãn, lấy mẫu pilot, trao đổi Doccano, export nguyên tử và kiểm tra
-checksum. Source code vượt qua test và lint; bản draft vượt qua compliance.
+bao gồm tách 787 quyển, làm sạch có audit, tách 271\,471 câu, sinh 208\,558 thực
+thể gán nhãn tự động, lấy mẫu chẩn đoán, export nguyên tử và kiểm tra checksum.
+Bản draft vượt qua compliance mà không cần một bước đánh giá thủ công trong
+luồng thực thi.
 
-Hạn chế lớn nhất là chưa có gold corpus đã được người làm chuyên môn duyệt,
-mapping cuối chưa được xác nhận và coverage của \texttt{PERSON}/\texttt{NUMBER}
-còn thiếu. Vì vậy, hướng phát triển ưu tiên là: (1) hiệu đính 200 câu pilot và
-đo agreement giữa annotator; (2) phân tích lỗi theo nhãn để mở rộng gazetteer;
-(3) tích hợp CBDB/CHGIS có kiểm soát; (4) thử mô hình pretrained cho Hán cổ và
-so sánh với baseline regex--seed; (5) active learning để ưu tiên câu có conflict
-hoặc độ bất định cao. Chỉ sau các bước này mới xác nhận mapping, chạy strict
-validation và đóng gói bản final.
+Hạn chế lớn nhất là tên người ngắn, đồng danh, nhãn \texttt{NUMBER} và
+nhập nhằng theo ngữ cảnh. Hướng phát triển ưu tiên là:
+(1) hiệu chỉnh chính sách tên ngắn CBDB trên benchmark độc lập; (2) tích hợp
+CHGIS cho địa danh lịch sử; (3) thử mô hình
+pretrained cho Hán cổ rồi so sánh tự động với baseline regex--seed trên một
+benchmark độc lập; (5) dùng điểm bất định để tự động xếp hạng conflict cần cải
+thiện luật. Các hướng này giữ nguyên nguyên tắc pipeline tái lập và không đặt
+hiệu đính con người làm điều kiện bắt buộc để tạo dữ liệu.
 
 \begin{thebibliography}{9}
 \small
@@ -373,6 +611,21 @@ Evaluation,'' ACL Anthology, 2023.
 \bibitem{datasetreadme}
 Tài liệu nguồn của đồ án, \path{dataset/README.md} và các hướng dẫn trong
 \path{docs/}, phiên bản truy cập tháng 7 năm 2026.
+
+\bibitem{cbdbsqlite}
+China Biographical Database Project, ``CBDB standalone SQLite database,''
+bản dữ liệu ngày 04/07/2026.
+\url{https://github.com/cbdb-project/cbdb_sqlite}
+
+\bibitem{cbdblicense}
+China Biographical Database Project, ``Exclusive Commercial License,'' điều
+kiện sử dụng nhánh học thuật CC BY-NC-SA 4.0.
+\url{https://cbdb.hsites.harvard.edu/exclusive-commercial-license}
+
+\bibitem{doccano}
+H. Nakayama và cộng sự, ``Doccano: Text Annotation Tool for Human,''
+GitHub repository, 2018.
+\url{https://github.com/doccano/doccano}
 \end{thebibliography}
 
 \end{document}

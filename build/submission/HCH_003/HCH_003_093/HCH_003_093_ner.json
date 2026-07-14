@@ -216,7 +216,14 @@
   {
     "sentence_id": "HCH_003_093_000033",
     "sentence": "堅遂分國人為二部，自河以西，屬之衛辰；自河以東，屬之劉庫仁。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉庫仁",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_093_000034",
@@ -884,7 +891,14 @@
   {
     "sentence_id": "HCH_003_093_000114",
     "sentence": "徒河慕容廆，字弈洛瑰，本出昌黎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容廆",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_093_000115",
@@ -1372,7 +1386,14 @@
   {
     "sentence_id": "HCH_003_093_000169",
     "sentence": "樂之忘歸，且以慕容垂名威夙著，跨據山東，憚不敢進，眾咸怨之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_093_000170",
@@ -1518,6 +1539,12 @@
     "sentence_id": "HCH_003_093_000183",
     "sentence": "東至聞喜，知慕容垂稱尊號，托以農要弗進，築燕熙城以自固。",
     "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "築燕熙城",
         "label": "LOC",
@@ -2784,7 +2811,14 @@
   {
     "sentence_id": "HCH_003_093_000348",
     "sentence": "自擊苻登于安定，敗之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "于安定",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_093_000349",
@@ -3339,6 +3373,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 8
+      },
+      {
+        "text": "長孫道生",
+        "label": "PER",
+        "start": 8,
+        "end": 12
       },
       {
         "text": "跋嬰城",
@@ -4970,7 +5010,14 @@
   {
     "sentence_id": "HCH_003_093_000599",
     "sentence": "真君中，與河東薛安都謀逆，召至京師，付其兄弟扼殺之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛安都",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_093_000600",
@@ -5366,7 +5413,14 @@
   {
     "sentence_id": "HCH_003_093_000637",
     "sentence": "纘構譽及詧于梁元帝，元帝令其世子方等及王僧辯相繼攻譽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王僧辯",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_093_000638",
@@ -5388,6 +5442,12 @@
         "label": "TITLE",
         "start": 22,
         "end": 24
+      },
+      {
+        "text": "劉方貴",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -5443,7 +5503,14 @@
   {
     "sentence_id": "HCH_003_093_000647",
     "sentence": "詧時以譽危急，乃留諮議參軍蔡大寶守襄陽，率眾伐江陵以救之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蔡大寶",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_093_000648",
@@ -5463,7 +5530,14 @@
   {
     "sentence_id": "HCH_003_093_000651",
     "sentence": "詧恐不能自固，乃遣蔡大寶求附庸於西魏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蔡大寶",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_093_000652",
@@ -5492,7 +5566,14 @@
   {
     "sentence_id": "HCH_003_093_000654",
     "sentence": "是歲，梁元令柳仲禮圖襄陽，詧乃遣妃王氏及世子{山愰}為質請救。",
-    "entities": []
+    "entities": [
+      {
+        "text": "柳仲禮",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_093_000655",
@@ -5514,7 +5595,14 @@
   {
     "sentence_id": "HCH_003_093_000657",
     "sentence": "西魏命詧發喪嗣位，使假散騎常侍鄭孝穆及榮權策命詧為梁王。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭孝穆",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_093_000658",
@@ -5536,6 +5624,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "蔡大寶",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -5656,7 +5750,14 @@
   {
     "sentence_id": "HCH_003_093_000671",
     "sentence": "又追贈叔父邵陵王綸太宰，諡曰壯武。",
-    "entities": []
+    "entities": [
+      {
+        "text": "邵陵王綸",
+        "label": "PER",
+        "start": 5,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_093_000672",
@@ -6059,6 +6160,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "戴僧朔",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -6090,6 +6197,12 @@
         "end": 9
       },
       {
+        "text": "權景宣",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 15,
@@ -6106,6 +6219,12 @@
     "sentence_id": "HCH_003_093_000711",
     "sentence": "既而與陳將吳明徹等戰於沌口，直軍不利，元定遂沒，巋大將軍李廣等亦為陳人所虜，長沙、巴陵並陷於陳。",
     "entities": [
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -6128,6 +6247,12 @@
     "sentence_id": "HCH_003_093_000714",
     "sentence": "吳明徹乘勝攻克巋河東郡，獲其守將許孝敬。",
     "entities": [
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "勝攻克巋河東郡",
         "label": "LOC",
@@ -6179,6 +6304,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "章昭達",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -6197,7 +6328,14 @@
   {
     "sentence_id": "HCH_003_093_000721",
     "sentence": "初，華皎、戴僧朔從衛公直與陳人戰敗，率其麾下數百人歸於巋。",
-    "entities": []
+    "entities": [
+      {
+        "text": "戴僧朔",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_093_000722",
@@ -6764,7 +6902,32 @@
   {
     "sentence_id": "HCH_003_093_000785",
     "sentence": "以蔡大寶為股肱，王操為腹心，魏益德、尹正、薛暉、許孝敬、薛宣為爪牙，甄玄成、劉盈、岑善方、傅淮、褚珪、蔡大業典眾務，張綰以舊齒處顯位，沈重以儒學蒙厚禮。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蔡大寶",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "魏益德",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "岑善方",
+        "label": "PER",
+        "start": 41,
+        "end": 44
+      },
+      {
+        "text": "蔡大業",
+        "label": "PER",
+        "start": 51,
+        "end": 54
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_093_000786",
@@ -6789,7 +6952,14 @@
   {
     "sentence_id": "HCH_003_093_000790",
     "sentence": "今載詧子{山愰}等及蔡大寶以下尤著者，附于左。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蔡大寶",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_093_000791",
@@ -6885,6 +7055,12 @@
     "sentence_id": "HCH_003_093_000801",
     "sentence": "為總管宇文述所破，伏法于長安。",
     "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "長安",
         "label": "LOC",
@@ -7060,6 +7236,12 @@
     "sentence": "宇文述討之，瓛遣王褒守吳州，自將拒述。",
     "entities": [
       {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "瓛遣王褒守吳州",
         "label": "LOC",
         "start": 6,
@@ -7118,6 +7300,12 @@
     "sentence_id": "HCH_003_093_000826",
     "sentence": "蔡大寶，字敬位，濟陽考城人。",
     "entities": [
+      {
+        "text": "蔡大寶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "濟陽考城",
         "label": "LOC",
@@ -7507,7 +7695,14 @@
   {
     "sentence_id": "HCH_003_093_000868",
     "sentence": "初為詧外兵參軍，親任亞于蔡大寶。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蔡大寶",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_093_000869",
@@ -7566,7 +7761,14 @@
   {
     "sentence_id": "HCH_003_093_000871",
     "sentence": "及吳明徹為寇，巋出頓紀南，操撫循將士，莫不用命。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_093_000872",
@@ -7638,7 +7840,14 @@
   {
     "sentence_id": "HCH_003_093_000879",
     "sentence": "魏益德，襄陽人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏益德",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_093_000880",
@@ -7859,7 +8068,14 @@
   {
     "sentence_id": "HCH_003_093_000904",
     "sentence": "岑善方，字思義，南陽棘陽人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "岑善方",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_093_000905",
@@ -8039,7 +8255,14 @@
   {
     "sentence_id": "HCH_003_093_000924",
     "sentence": "如周懼，出告蔡大寶。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蔡大寶",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_093_000925",

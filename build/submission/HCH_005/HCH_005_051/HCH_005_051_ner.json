@@ -2100,7 +2100,14 @@
   {
     "sentence_id": "HCH_005_051_000234",
     "sentence": "時上邽令皇甫禎有臧罪，玄收考髡笞，死於冀巿，[二]一境皆震。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫禎",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_051_000235",

@@ -112,6 +112,12 @@
     "sentence": "又以前時王叔文、王伾以猥褻待詔，蒙幸太子，永貞之際，大撓朝政。",
     "entities": [
       {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 18,
@@ -421,7 +427,14 @@
   {
     "sentence_id": "HCH_008_166_000062",
     "sentence": "而令醫匠安金藏剖腹以明之，豈不大哀也耶？",
-    "entities": []
+    "entities": [
+      {
+        "text": "安金藏",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000063",
@@ -663,7 +676,14 @@
   {
     "sentence_id": "HCH_008_166_000098",
     "sentence": "宿敷水驛，內官劉士元後至，爭廳。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉士元",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000099",
@@ -683,7 +703,14 @@
   {
     "sentence_id": "HCH_008_166_000102",
     "sentence": "稹聰警絕人，年少有才名，與太原白居易友善。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白居易",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000103",
@@ -711,12 +738,6 @@
     "sentence_id": "HCH_008_166_000106",
     "sentence": "俄而白居易亦貶江州司馬，稹量移通州司馬。",
     "entities": [
-      {
-        "text": "白居易亦貶江州",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      },
       {
         "text": "司馬",
         "label": "TITLE",
@@ -778,7 +799,14 @@
   {
     "sentence_id": "HCH_008_166_000112",
     "sentence": "宰相令狐楚一代文宗，雅知稹之辭學，謂稹曰：「嘗覽足下製作，所恨不多，遲之久矣。請出其所有，以豁予情。」稹因獻其文，自敘曰：",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐楚",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000113",
@@ -860,7 +888,14 @@
   {
     "sentence_id": "HCH_008_166_000127",
     "sentence": "稹與同門生白居易友善。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白居易",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000128",
@@ -922,7 +957,14 @@
   {
     "sentence_id": "HCH_008_166_000138",
     "sentence": "荊南監軍崔潭峻甚禮接稹，不以掾吏遇之，常征其詩什諷誦之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔潭峻",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000139",
@@ -976,7 +1018,14 @@
   {
     "sentence_id": "HCH_008_166_000146",
     "sentence": "中人以潭峻之故，爭與稹交，而知樞密魏弘簡尤與稹相善，穆宗愈深知重。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏弘簡",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000147",
@@ -1022,10 +1071,10 @@
     "sentence": "時王廷湊、硃克融連兵圍牛元翼於深州，朝廷俱赦其罪，賜節鉞，令罷兵，俱不奉詔。",
     "entities": [
       {
-        "text": "圍牛元翼於深州",
-        "label": "LOC",
-        "start": 10,
-        "end": 17
+        "text": "王廷湊",
+        "label": "PER",
+        "start": 1,
+        "end": 4
       }
     ]
   },
@@ -1097,7 +1146,14 @@
   {
     "sentence_id": "HCH_008_166_000162",
     "sentence": "稹初罷相，三司獄未奏，京兆尹劉遵古遣坊所由潛邏稹居第，稹奏訴之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉遵古",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000163",
@@ -1304,7 +1360,14 @@
   {
     "sentence_id": "HCH_008_166_000190",
     "sentence": "況當行營退散之後，牛元翼未出之間，每聞陛下軫念之言，愚臣恨不身先士卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "牛元翼",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000191",
@@ -1678,6 +1741,12 @@
         "label": "TITLE",
         "start": 27,
         "end": 31
+      },
+      {
+        "text": "李正辭",
+        "label": "PER",
+        "start": 42,
+        "end": 45
       }
     ]
   },
@@ -1723,7 +1792,14 @@
   {
     "sentence_id": "HCH_008_166_000232",
     "sentence": "會潘孟陽代礪為節度使，貪過礪，且有所承迎，雖不敢盡廢詔，因命當得所籍者皆入資。",
-    "entities": []
+    "entities": [
+      {
+        "text": "潘孟陽",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000233",
@@ -1764,6 +1840,12 @@
     "sentence_id": "HCH_008_166_000240",
     "sentence": "浙西觀察使封杖決安吉令至死；河南尹誣奏書生尹太階請死之；飛龍使誘趙寔家逃奴為養子；田季安盜娶洛陽衣冠女；汴州沒入死商錢且千萬；滑州賦於民以千，授於人以八百；朝廷饋東師，主計者誤命牛車四千三百乘飛芻越太行。",
     "entities": [
+      {
+        "text": "田季安",
+        "label": "PER",
+        "start": 41,
+        "end": 44
+      },
       {
         "text": "洛陽",
         "label": "LOC",
@@ -1830,6 +1912,18 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "薛存慶",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       }
     ]
   },
@@ -1966,7 +2060,14 @@
   {
     "sentence_id": "HCH_008_166_000267",
     "sentence": "稹文友與白居易最善。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白居易",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000268",
@@ -2039,6 +2140,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       },
       {
         "text": "貶端州",
@@ -2151,12 +2258,26 @@
   {
     "sentence_id": "HCH_008_166_000292",
     "sentence": "白居易",
-    "entities": []
+    "entities": [
+      {
+        "text": "白居易",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000293",
     "sentence": "白居易，字樂天，太原人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白居易",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000294",
@@ -2219,14 +2340,7 @@
   {
     "sentence_id": "HCH_008_166_000300",
     "sentence": "時李正己據河南十餘州叛。",
-    "entities": [
-      {
-        "text": "己據河南十餘州",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_166_000301",
@@ -2249,12 +2363,6 @@
         "label": "TITLE",
         "start": 25,
         "end": 27
-      },
-      {
-        "text": "徐州",
-        "label": "LOC",
-        "start": 33,
-        "end": 35
       }
     ]
   },
@@ -2267,12 +2375,6 @@
         "label": "LOC",
         "start": 0,
         "end": 3
-      },
-      {
-        "text": "襄州",
-        "label": "LOC",
-        "start": 4,
-        "end": 6
       }
     ]
   },
@@ -2618,6 +2720,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "李佐公",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -2654,7 +2762,14 @@
   {
     "sentence_id": "HCH_008_166_000358",
     "sentence": "雖引前事以為責辭，然外議喧喧，皆以為稹與中使劉士元爭廳，因此獲罪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉士元",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000359",
@@ -2747,7 +2862,14 @@
   {
     "sentence_id": "HCH_008_166_000371",
     "sentence": "臣伏聞德宗時有崔善貞者，告李锜必反，德宗不信，送與李锜，锜掘坑熾火，燒殺善貞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔善貞",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000372",
@@ -2803,7 +2925,14 @@
   {
     "sentence_id": "HCH_008_166_000378",
     "sentence": "又淄青節度使李師道進絹，為魏徵子孫贖宅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李師道",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000379",
@@ -2818,7 +2947,14 @@
   {
     "sentence_id": "HCH_008_166_000381",
     "sentence": "王承宗拒命，上令神策中尉吐突承璀為招討使，諫官上章者十七八。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000382",
@@ -2833,7 +2969,14 @@
   {
     "sentence_id": "HCH_008_166_000384",
     "sentence": "唯諫承璀事切，上頗不悅，謂李絳曰：「白居易小子，是朕拔擢致名位，而無禮於朕，朕實難奈。」絳對曰：「居易所以不避死亡之誅，事無巨細必言者，蓋酬陛下特力拔擢耳，非輕言也。陛下欲開諫諍之路，不宜阻居易言。」上曰：「卿言是也。」由是多見聽納。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白居易",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000385",
@@ -2844,6 +2987,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "姜公輔",
+        "label": "PER",
+        "start": 49,
+        "end": 52
       }
     ]
   },
@@ -2892,6 +3041,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "武元衡",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -3300,6 +3455,12 @@
     "sentence": "所可舉者，陳子昂有《感遇詩》二十首，鮑防《感興詩》十五篇。",
     "entities": [
       {
+        "text": "陳子昂",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "《感遇詩》",
         "label": "TITLE",
         "start": 9,
@@ -3571,7 +3732,14 @@
   {
     "sentence_id": "HCH_008_166_000483",
     "sentence": "茍相與者，則如牛僧孺之誡焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000484",
@@ -3690,6 +3858,12 @@
         "end": 5
       },
       {
+        "text": "高霞寓",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "《長恨歌》",
         "label": "TITLE",
         "start": 33,
@@ -3772,12 +3946,26 @@
   {
     "sentence_id": "HCH_008_166_000511",
     "sentence": "況詩人多蹇，如陳子昂、杜甫，各授一拾遺，而屯剝至死。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳子昂",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000512",
     "sentence": "孟浩然輩不及一命，窮悴終身。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孟浩然",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000513",
@@ -4380,7 +4568,14 @@
   {
     "sentence_id": "HCH_008_166_000595",
     "sentence": "九月上誕節，召居易與僧惟澄、道土趙常盈對御講論於麟德殿。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙常盈",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000596",
@@ -4460,12 +4655,38 @@
   {
     "sentence_id": "HCH_008_166_000602",
     "sentence": "太和已後，李宗閔、李德裕朋黨事起，是非排陷，朝升暮黜，天子亦無如之何。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李宗閔",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000603",
     "sentence": "楊穎士、楊虞卿與宗閔善，居易妻，穎士從父妹也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊穎士",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "楊虞卿",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000604",
@@ -4634,6 +4855,12 @@
         "label": "TITLE",
         "start": 33,
         "end": 37
+      },
+      {
+        "text": "楊貞一",
+        "label": "PER",
+        "start": 44,
+        "end": 47
       }
     ]
   },
@@ -4866,7 +5093,14 @@
   {
     "sentence_id": "HCH_008_166_000646",
     "sentence": "與香山僧如滿結香火社，每肩輿往來，白衣鳩杖，自稱香山居士。",
-    "entities": []
+    "entities": [
+      {
+        "text": "香山居士",
+        "label": "PER",
+        "start": 24,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000647",
@@ -5364,7 +5598,14 @@
   {
     "sentence_id": "HCH_008_166_000703",
     "sentence": "宰相李德裕言居易衰病，不任朝謁，因言從弟敏中辭藝類居易，即日知制誥，召入翰林充學士，遷中書舍人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000704",
@@ -5417,7 +5658,14 @@
   {
     "sentence_id": "HCH_008_166_000707",
     "sentence": "及李德裕再貶嶺南，敏中居四輔之首，雷同毀譽，無一言伸理，特論罪之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_166_000708",

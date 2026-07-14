@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_007_089_000001",
     "sentence": "桑維翰",
-    "entities": []
+    "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_089_000002",
     "sentence": "桑維翰，字國僑，洛陽人也。",
     "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "洛陽",
         "label": "LOC",
@@ -35,6 +48,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 9
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -47,6 +66,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 9
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "《日出扶桑賦》",
@@ -81,7 +106,14 @@
   {
     "sentence_id": "HCH_007_089_000010",
     "sentence": "俄以趙德鈞發使聘契丹，高祖懼其改謀，命維翰詣幕帳，述其始終利害之義，其約乃定。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_089_000011",
@@ -92,6 +124,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 9
+      },
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "洛陽",
@@ -158,6 +196,12 @@
     "sentence": "及楊光遠平鄴，朝廷慮兵驕難制，維翰請速散其眾，尋移光遠鎮洛陽。",
     "entities": [
       {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "尋移光遠鎮",
         "label": "LOC",
         "start": 23,
@@ -223,6 +267,12 @@
     "sentence": "詔曰：「桑維翰佐命功全，臨戎寄重，舉一方之往事，合四海之通規，況賊盜之徒，律令具載。比為撫萬姓而安萬國，豈忍罪一夫而破一家。聞將相之善言，成國家之美事，既資王道，實契人心。今後凡有賊人準格律定罪，不得沒納家資，天下諸州皆準此處分。」自是劫盜之家，皆免籍沒，維翰之力也。",
     "entities": [
       {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "天下諸州",
         "label": "LOC",
         "start": 105,
@@ -256,18 +306,37 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "安重榮",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
   {
     "sentence_id": "HCH_007_089_000024",
     "sentence": "既而安重榮抗表請討契丹，且言吐渾之請。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重榮",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_089_000025",
     "sentence": "是時安重榮握強兵，據重鎮，恃其驍勇，有飛揚跋扈之志。",
     "entities": [
+      {
+        "text": "安重榮",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "據重鎮",
         "label": "LOC",
@@ -322,12 +391,26 @@
   {
     "sentence_id": "HCH_007_089_000032",
     "sentence": "頻上言請與契丹和，為上將景延廣所否。",
-    "entities": []
+    "entities": [
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_089_000033",
     "sentence": "明年，楊光遠構契丹，有澶淵之役，凡制敵下令，皆出於延廣，維翰與諸相無所與之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_089_000034",
@@ -441,6 +524,12 @@
         "end": 4
       },
       {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
         "text": "前鋒騎軍陷都城",
         "label": "LOC",
         "start": 26,
@@ -451,7 +540,20 @@
   {
     "sentence_id": "HCH_007_089_000051",
     "sentence": "戎王遣使遺太后書云：「可先使桑維翰、景延廣遠來相接，甚是好事。」是日淩旦，都下軍亂，宮中火發。",
-    "entities": []
+    "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_089_000052",
@@ -466,7 +568,14 @@
   {
     "sentence_id": "HCH_007_089_000054",
     "sentence": "張彥澤既受少帝密旨，復利維翰家財，乃稱少帝命召維翰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_089_000055",
@@ -508,7 +617,20 @@
   {
     "sentence_id": "HCH_007_089_000061",
     "sentence": "當兩朝秉政，出上將楊光遠、景延廣俱為洛川守；又嘗一制除節將十五人，各領軍職，無不屈而服之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_089_000062",
@@ -561,6 +683,36 @@
         "label": "TITLE",
         "start": 3,
         "end": 9
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 84,
+        "end": 87
+      },
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 118,
+        "end": 121
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 210,
+        "end": 213
       }
     ]
   },
@@ -776,12 +928,31 @@
   {
     "sentence_id": "HCH_007_089_000092",
     "sentence": "開運末，馮玉、李彥韜用事，以桑維翰才望素重，而瑩柔而可制，因共稱之，乃出維翰，復瑩相位，加宏文館大學士。",
-    "entities": []
+    "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_089_000093",
     "sentence": "及李崧、馮玉議出兵應接趙延壽，而以杜重威為都督部署，瑩私謂馮、李曰：「杜中令國之懿親，所求未愜，心恒怏怏，安可更與兵權？若有事邊陲，只李守貞將之可也。」及契丹陷京城，契丹主遷少帝於北塞，瑩與馮玉、李彥韜俱從。",
     "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 67,
+        "end": 70
+      },
       {
         "text": "及契丹陷京城",
         "label": "LOC",
@@ -1301,12 +1472,6 @@
         "label": "TITLE",
         "start": 48,
         "end": 50
-      },
-      {
-        "text": "張彥澤陷京城",
-        "label": "LOC",
-        "start": 96,
-        "end": 102
       }
     ]
   },

@@ -155,12 +155,6 @@
     "sentence": "梁復遣曹義宗圍荊州，堰水灌城，不沒者數版。",
     "entities": [
       {
-        "text": "遣曹義宗圍荊州",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      },
-      {
         "text": "堰水灌城",
         "label": "LOC",
         "start": 10,
@@ -1436,7 +1430,14 @@
   {
     "sentence_id": "HCH_003_062_000141",
     "sentence": "思政之去玉壁也，周文命舉代人，思政乃進所部都督韋孝寬。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_062_000142",
@@ -1578,7 +1579,14 @@
   {
     "sentence_id": "HCH_003_062_000156",
     "sentence": "九月，東魏太尉高岳、行台慕容紹宗、儀同劉豐生等率步騎十萬來攻潁川，殺傷甚眾。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 12,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_062_000157",
@@ -1665,6 +1673,12 @@
     "sentence_id": "HCH_003_062_000169",
     "sentence": "慕容紹宗、劉豐生及其將慕容永珍意以為閑，共乘樓船以望城內，令善射人俯射城中。",
     "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
       {
         "text": "共乘樓船以望城",
         "label": "LOC",
@@ -1775,7 +1789,14 @@
   {
     "sentence_id": "HCH_003_062_000182",
     "sentence": "齊文襄遣其通直散騎常侍趙彥深，就土山遺以白羽扇而說之，牽手以下。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_062_000183",
@@ -2278,7 +2299,14 @@
   {
     "sentence_id": "HCH_003_062_000226",
     "sentence": "其弟武陵王紀在蜀稱帝，率眾東下，將攻之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武陵王紀",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_062_000227",
@@ -2340,6 +2368,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "楊乾運",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -2402,6 +2436,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "史欣景",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "幽州",
@@ -2726,7 +2766,14 @@
   {
     "sentence_id": "HCH_003_062_000270",
     "sentence": "尋以鄖國公韋孝寬代迥為總管。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_062_000271",
@@ -2912,6 +2959,24 @@
     "sentence_id": "HCH_003_062_000283",
     "sentence": "隋文帝於是徵兵討迥，即以韋孝寬為元帥，陰羅雲監諸軍，郕國公梁士彥、樂安西元諧、化政公宇文忻、濮陽公宇文述、武鄉公崔弘度、清河公楊素、隴西公李詢、延壽公于仲文等皆為行軍總管。",
     "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "梁士彥",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 49,
+        "end": 52
+      },
       {
         "text": "武鄉",
         "label": "LOC",
@@ -3242,7 +3307,14 @@
   {
     "sentence_id": "HCH_003_062_000309",
     "sentence": "李詢、賀婁子幹以其屬先登。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀婁子幹",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_062_000310",
@@ -3840,6 +3912,12 @@
         "end": 4
       },
       {
+        "text": "長孫覽",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 27,
@@ -4209,10 +4287,22 @@
     "sentence": "及陳將吳明徹入寇呂梁，徐州總管梁士彥頻與戰不利，乃退保州城。",
     "entities": [
       {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "徐州",
         "label": "LOC",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "梁士彥",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       },
       {
         "text": "乃退保州城",
@@ -4262,7 +4352,14 @@
   {
     "sentence_id": "HCH_003_062_000415",
     "sentence": "唯有騎將蕭摩訶以二十騎先走，得免。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭摩訶",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_062_000416",

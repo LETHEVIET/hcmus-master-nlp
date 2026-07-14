@@ -15,6 +15,12 @@
         "end": 19
       },
       {
+        "text": "裴居道",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 28,
@@ -145,6 +151,18 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 19,
+        "end": 23
       }
     ]
   },
@@ -199,6 +217,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -357,6 +381,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "上官儀",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -919,7 +949,14 @@
   {
     "sentence_id": "HCH_008_086_000077",
     "sentence": "素節能日誦古詩賦五百餘言，受業於學十徐齊聃，精勤不倦，高宗甚愛之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐齊聃",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_086_000078",
@@ -1018,6 +1055,12 @@
     "sentence_id": "HCH_008_086_000086",
     "sentence": "時王府倉曹參軍張柬之因使潛封此論以進，則天見之，逾不悅，誣以贓賄，降封鄱陽郡王，仍於袁州安置。",
     "entities": [
+      {
+        "text": "張柬之",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "降封鄱陽郡",
         "label": "LOC",
@@ -1200,14 +1243,7 @@
   {
     "sentence_id": "HCH_008_086_000100",
     "sentence": "以抑伯上金男不得承襲，以弟璆繼之，遽譴瓘為鄂州別駕。",
-    "entities": [
-      {
-        "text": "遽譴瓘為鄂州",
-        "label": "LOC",
-        "start": 17,
-        "end": 23
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_086_000101",
@@ -1539,10 +1575,22 @@
         "end": 12
       },
       {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 21,
         "end": 23
+      },
+      {
+        "text": "許圉師",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       },
       {
         "text": "侍郎",
@@ -1551,10 +1599,22 @@
         "end": 34
       },
       {
+        "text": "上官儀",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 38,
         "end": 40
+      },
+      {
+        "text": "楊思儉",
+        "label": "PER",
+        "start": 43,
+        "end": 46
       },
       {
         "text": "《瑤山玉彩》",
@@ -1697,6 +1757,18 @@
     "sentence": "是時戴至德、張文瓘兼左庶子，與右庶子蕭德昭同為輔弼，太子多疾病，庶政皆決於至德等。",
     "entities": [
       {
+        "text": "戴至德",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "張文瓘",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 26,
@@ -1754,6 +1826,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "裴居道",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1930,6 +2008,12 @@
         "end": 4
       },
       {
+        "text": "姚元之",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 14,
@@ -2039,6 +2123,12 @@
     "sentence_id": "HCH_008_086_000179",
     "sentence": "裴居道，絳州聞喜人，隋兵部侍郎鏡民孫也。",
     "entities": [
+      {
+        "text": "裴居道",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "絳州",
         "label": "LOC",
@@ -2427,10 +2517,34 @@
         "end": 11
       },
       {
+        "text": "張大安",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "劉訥言",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "洛州",
         "label": "LOC",
         "start": 24,
         "end": 26
+      },
+      {
+        "text": "格希玄",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
+        "text": "許叔牙",
+        "label": "PER",
+        "start": 34,
+        "end": 37
       },
       {
         "text": "《後漢書》",
@@ -2514,6 +2628,12 @@
         "label": "TITLE",
         "start": 28,
         "end": 30
+      },
+      {
+        "text": "高智周",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       }
     ]
   },
@@ -2550,6 +2670,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "丘神勣",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -2798,6 +2924,24 @@
     "sentence": "源乾曜、袁嘉祚、潘好禮皆為邠府長史兼州佐，守禮唯弋獵、伎樂、飲謔而已。",
     "entities": [
       {
+        "text": "源乾曜",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "袁嘉祚",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "潘好禮",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "為邠府長史兼州",
         "label": "LOC",
         "start": 12,
@@ -2933,12 +3077,6 @@
     "sentence": "旬餘日，賊退，郭子儀率眾入城，送承宏於行在，上不之責，止於虢州。",
     "entities": [
       {
-        "text": "郭子儀率眾入城",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      },
-      {
         "text": "止於虢州",
         "label": "LOC",
         "start": 27,
@@ -3018,6 +3156,12 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "張九齡",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -3145,6 +3289,12 @@
         "label": "LOC",
         "start": 10,
         "end": 16
+      },
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -3232,6 +3382,12 @@
     "sentence_id": "HCH_008_086_000283",
     "sentence": "神龍初，為韋庶人所譖，雲與張易之兄弟潛構成重潤之罪，由是左授濮州員外刺史，轉均州，司防守，不許視事。",
     "entities": [
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
       {
         "text": "由是左授濮州",
         "label": "LOC",
@@ -3328,6 +3484,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 15
+      },
+      {
+        "text": "趙承恩",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       },
       {
         "text": "兵五百人就均州",
@@ -3458,6 +3620,12 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "崔日知",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -3735,6 +3903,12 @@
     "sentence": "俄以秘書監楊敫、太常卿武崇訓並為太子賓客。",
     "entities": [
       {
+        "text": "武崇訓",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 16,
@@ -3768,7 +3942,14 @@
   {
     "sentence_id": "HCH_008_086_000339",
     "sentence": "時武三思得幸中宮，深忌重俊。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_086_000340",
@@ -3817,10 +3998,28 @@
         "end": 12
       },
       {
+        "text": "李多祚",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "李承況",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "獨孤禕之",
+        "label": "PER",
+        "start": 29,
+        "end": 33
       }
     ]
   },
@@ -3874,6 +4073,12 @@
         "label": "TITLE",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "劉仁景",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -3895,7 +4100,20 @@
   {
     "sentence_id": "HCH_008_086_000349",
     "sentence": "”於是千騎王歡喜等倒戈，斬多祚及李承況、獨孤禕之、沙吒忠義等於樓下，餘黨遂潰散。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李承況",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "獨孤禕之",
+        "label": "PER",
+        "start": 20,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_086_000350",
@@ -3989,7 +4207,14 @@
   {
     "sentence_id": "HCH_008_086_000365",
     "sentence": "宗楚客聞而大怒，收付製獄，貶為平興丞，尋卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宗楚客",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_086_000366",

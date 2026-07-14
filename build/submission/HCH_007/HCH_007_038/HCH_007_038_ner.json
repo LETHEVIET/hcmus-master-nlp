@@ -38,7 +38,14 @@
   {
     "sentence_id": "HCH_007_038_000004",
     "sentence": "既而禁林序列有不可之言，安重誨奏行此敕，時論便之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_038_000005",
@@ -119,12 +126,6 @@
         "label": "LOC",
         "start": 0,
         "end": 3
-      },
-      {
-        "text": "司徒王建立為鎮",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
       }
     ]
   },
@@ -195,6 +196,12 @@
         "label": "TITLE",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -206,7 +213,20 @@
   {
     "sentence_id": "HCH_007_038_000017",
     "sentence": "初，同光中，宰相豆盧革以同列郭崇韜父名宏，希其意奏改之，今乃復焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_038_000018",
@@ -282,6 +302,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -289,6 +315,12 @@
     "sentence_id": "HCH_007_038_000023",
     "sentence": "壬辰，西川節度使孟知祥奏，泗州防禦使、充西川兵馬都監李嚴，扇搖軍眾，尋已處斬。",
     "entities": [
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "泗州",
         "label": "LOC",
@@ -362,6 +394,12 @@
         "end": 26
       },
       {
+        "text": "高季興",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      },
+      {
         "text": "仍令襄州",
         "label": "LOC",
         "start": 40,
@@ -431,6 +469,12 @@
         "label": "LOC",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -566,14 +610,7 @@
   {
     "sentence_id": "HCH_007_038_000040",
     "sentence": "甲寅，以西川節度副使李敬周為遂州武信軍留後。",
-    "entities": [
-      {
-        "text": "使李敬周為遂州",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_038_000041",
@@ -673,6 +710,12 @@
         "end": 5
       },
       {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "以大內皇城",
         "label": "LOC",
         "start": 22,
@@ -746,6 +789,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "崔居儉",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "尚書",
@@ -846,6 +895,12 @@
         "label": "LOC",
         "start": 4,
         "end": 7
+      },
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -862,7 +917,14 @@
   {
     "sentence_id": "HCH_007_038_000061",
     "sentence": "在途聞李嚴為孟知祥所害，以為劍南阻絕，互相煽動。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_038_000062",
@@ -998,7 +1060,20 @@
   {
     "sentence_id": "HCH_007_038_000076",
     "sentence": "是日，幸石敬瑭、安重誨第。",
-    "entities": []
+    "entities": [
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_038_000077",
@@ -1056,6 +1131,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "王延鈞",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       },
       {
         "text": "琅琊郡",
@@ -1133,6 +1214,12 @@
         "label": "TITLE",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -1347,6 +1434,12 @@
         "label": "LOC",
         "start": 7,
         "end": 10
+      },
+      {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -1384,6 +1477,12 @@
     "sentence_id": "HCH_007_038_000108",
     "sentence": "壬戌，西川節度副大使、知節度事孟知祥加檢校太尉、兼侍中，東川董璋加爵邑。",
     "entities": [
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
       {
         "text": "東川董璋加爵邑",
         "label": "LOC",
@@ -1492,6 +1591,12 @@
         "end": 64
       },
       {
+        "text": "李敬周",
+        "label": "PER",
+        "start": 66,
+        "end": 69
+      },
+      {
         "text": "鄜州",
         "label": "LOC",
         "start": 70,
@@ -1534,12 +1639,6 @@
         "end": 18
       },
       {
-        "text": "度使安元信移鎮",
-        "label": "LOC",
-        "start": 19,
-        "end": 26
-      },
-      {
         "text": "襄州",
         "label": "LOC",
         "start": 26,
@@ -1550,12 +1649,6 @@
         "label": "LOC",
         "start": 29,
         "end": 31
-      },
-      {
-        "text": "度使趙在禮移鎮",
-        "label": "LOC",
-        "start": 32,
-        "end": 39
       },
       {
         "text": "兗州",
@@ -1598,6 +1691,12 @@
         "label": "LOC",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       },
       {
         "text": "刺史",
@@ -1741,6 +1840,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "尚書",
@@ -1908,10 +2013,22 @@
         "end": 2
       },
       {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "鎮州",
         "label": "LOC",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "王建立",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -1972,6 +2089,12 @@
         "end": 5
       },
       {
+        "text": "李仁福",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "並加食邑",
         "label": "LOC",
         "start": 29,
@@ -2023,6 +2146,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -2218,6 +2347,12 @@
         "end": 7
       },
       {
+        "text": "王仁鎬",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 30,
@@ -2310,6 +2445,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -2333,12 +2474,6 @@
         "label": "LOC",
         "start": 10,
         "end": 12
-      },
-      {
-        "text": "使石敬瑭為汴州",
-        "label": "LOC",
-        "start": 14,
-        "end": 21
       }
     ]
   },
@@ -2415,6 +2550,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "李從敏",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -2427,6 +2568,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "鄆州",
@@ -2522,7 +2669,14 @@
   {
     "sentence_id": "HCH_007_038_000180",
     "sentence": "壬申，詔霍彥威等歸藩。",
-    "entities": []
+    "entities": [
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_038_000181",
@@ -2632,14 +2786,7 @@
   {
     "sentence_id": "HCH_007_038_000190",
     "sentence": "以北京留守符彥超為潞州節度使。",
-    "entities": [
-      {
-        "text": "守符彥超為潞州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_038_000191",
@@ -2660,6 +2807,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2707,7 +2860,20 @@
   {
     "sentence_id": "HCH_007_038_000197",
     "sentence": "庚子，幸石敬瑭公署及康義誠私第。",
-    "entities": []
+    "entities": [
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_038_000198",

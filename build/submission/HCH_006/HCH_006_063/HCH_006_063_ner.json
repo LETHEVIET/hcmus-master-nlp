@@ -147,6 +147,12 @@
         "end": 2
       },
       {
+        "text": "公孫賀",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "諸邑",
         "label": "LOC",
         "start": 11,
@@ -170,12 +176,6 @@
     "sentence_id": "HCH_006_063_000011",
     "sentence": "語在《公孫賀》、《江充傳》。",
     "entities": [
-      {
-        "text": "《公孫賀》",
-        "label": "TITLE",
-        "start": 2,
-        "end": 7
-      },
       {
         "text": "《江充傳》",
         "label": "TITLE",
@@ -1063,6 +1063,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "雋不疑",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },

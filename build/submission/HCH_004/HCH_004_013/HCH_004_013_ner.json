@@ -149,7 +149,14 @@
   {
     "sentence_id": "HCH_004_013_000011",
     "sentence": "及斛斯椿等釁結。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_013_000012",
@@ -394,7 +401,14 @@
   {
     "sentence_id": "HCH_004_013_000038",
     "sentence": "世宗謂之曰：「我為爾娶鄭述祖女，門閥甚高，汝何所嫌而精神不樂？」叡對曰：「自痛孤遺，常深膝下之慕，方從婚冠，彌用感切。」言未卒，嗚咽不自勝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭述祖",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_013_000039",
@@ -526,6 +540,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -1444,7 +1464,14 @@
   {
     "sentence_id": "HCH_004_013_000126",
     "sentence": "岳總帥諸軍南討，與行臺慕容紹宗等擊明，大破之，臨陣擒明及其大將胡貴孫，自餘俘馘數萬。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 11,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_013_000127",
@@ -1490,6 +1517,12 @@
         "label": "LOC",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 16,
+        "end": 20
       }
     ]
   },
@@ -1644,6 +1677,12 @@
         "end": 28
       },
       {
+        "text": "陸法和",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      },
+      {
         "text": "仍剋郢州",
         "label": "LOC",
         "start": 34,
@@ -1654,14 +1693,7 @@
   {
     "sentence_id": "HCH_004_013_000142",
     "sentence": "岳先送法和於京師，遣儀同慕容儼據郢城。",
-    "entities": [
-      {
-        "text": "同慕容儼據郢城",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_004_013_000143",

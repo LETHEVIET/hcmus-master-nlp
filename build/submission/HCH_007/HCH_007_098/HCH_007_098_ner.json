@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_007_098_000001",
     "sentence": "安重榮",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重榮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_098_000002",
     "sentence": "安重榮，朔州人。",
     "entities": [
+      {
+        "text": "安重榮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "朔州",
         "label": "LOC",
@@ -65,7 +78,20 @@
   {
     "sentence_id": "HCH_007_098_000007",
     "sentence": "時高行周為帥，欲殺之，其母赴闕申告，樞密使安重誨陰護之，張敬達之圍晉陽也，高祖聞重榮在代北，使人誘之，重榮乃召邊士，得千騎赴焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_098_000008",
@@ -321,6 +347,12 @@
         "label": "LOC",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -340,6 +372,12 @@
     "sentence_id": "HCH_007_098_000043",
     "sentence": "朝廷遣杜重威帥師禦之，遇於宗城。",
     "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "遇於宗城",
         "label": "LOC",
@@ -392,16 +430,16 @@
         "end": 11
       },
       {
-        "text": "安重榮反鎮州",
-        "label": "LOC",
-        "start": 12,
-        "end": 18
-      },
-      {
         "text": "至宗城",
         "label": "LOC",
         "start": 25,
         "end": 28
+      },
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 85,
+        "end": 88
       }
     ]
   },
@@ -433,12 +471,6 @@
         "end": 9
       },
       {
-        "text": "安重榮出鎮",
-        "label": "LOC",
-        "start": 10,
-        "end": 15
-      },
-      {
         "text": "何不取路貝州",
         "label": "LOC",
         "start": 108,
@@ -449,12 +481,26 @@
   {
     "sentence_id": "HCH_007_098_000052",
     "sentence": "安從進",
-    "entities": []
+    "entities": [
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_098_000053",
     "sentence": "安從進。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_098_000054",
@@ -501,13 +547,26 @@
         "label": "TME",
         "start": 96,
         "end": 98
+      },
+      {
+        "text": "安重榮",
+        "label": "PER",
+        "start": 105,
+        "end": 108
       }
     ]
   },
   {
     "sentence_id": "HCH_007_098_000055",
     "sentence": "少帝以鄭王留守京師，時和凝請於高祖曰：「陛下北征，臣料安從進必反，何以制之？」高祖曰：「卿意將奈何？」凝曰：「臣聞之兵法，先人者奪人。願陛下為空名宣敕十通授鄭王，有急則命將往。」從進聞高祖往北，遂反，少帝以空名授李建崇、郭金海討之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_098_000056",
@@ -524,12 +583,26 @@
   {
     "sentence_id": "HCH_007_098_000057",
     "sentence": "張彥澤",
-    "entities": []
+    "entities": [
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_098_000058",
     "sentence": "張彥澤，其先出於突厥，後為太原人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_098_000059",
@@ -575,6 +648,12 @@
     "sentence_id": "HCH_007_098_000063",
     "sentence": "從楊光遠圍範延光於鄴，以功授華州節度使，尋移鎮涇州，累官至檢校太保。",
     "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "以功授華州",
         "label": "LOC",
@@ -714,6 +793,12 @@
     "sentence": "少帝即位，桑維翰復舉之，尋出鎮安陽。",
     "entities": [
       {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "尋出鎮",
         "label": "LOC",
         "start": 12,
@@ -771,12 +856,6 @@
         "label": "TME",
         "start": 2,
         "end": 4
-      },
-      {
-        "text": "杜重威兵次瀛州",
-        "label": "LOC",
-        "start": 12,
-        "end": 19
       }
     ]
   },
@@ -827,6 +906,18 @@
         "label": "TITLE",
         "start": 3,
         "end": 14
+      },
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 52,
+        "end": 55
       }
     ]
   },
@@ -935,22 +1026,35 @@
         "end": 9
       },
       {
-        "text": "憤張彥澤殺邠州",
-        "label": "LOC",
-        "start": 13,
-        "end": 20
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 113,
+        "end": 116
       }
     ]
   },
   {
     "sentence_id": "HCH_007_098_000102",
     "sentence": "趙德鈞",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_098_000103",
     "sentence": "趙德鈞，本名行實，幽州人也。",
     "entities": [
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "幽州",
         "label": "LOC",
@@ -1051,6 +1155,12 @@
         "label": "LOC",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },
@@ -1141,10 +1251,22 @@
         "end": 12
       },
       {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
         "text": "七年",
         "label": "TME",
         "start": 28,
         "end": 30
+      },
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       },
       {
         "text": "三年",
@@ -1236,12 +1358,6 @@
         "end": 24
       },
       {
-        "text": "德鈞父子堅要鎮",
-        "label": "LOC",
-        "start": 40,
-        "end": 47
-      },
-      {
         "text": "仍許晉祖長鎮",
         "label": "LOC",
         "start": 117,
@@ -1253,6 +1369,12 @@
     "sentence_id": "HCH_007_098_000124",
     "sentence": "及楊光遠以晉安寨降於契丹，德鈞父子自團柏谷南走潞州，一行兵士，投戈棄甲，自相騰踐，死者萬計。",
     "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "團柏谷南走潞州",
         "label": "LOC",
@@ -1282,6 +1404,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "見德鈞父子在城",
@@ -1520,7 +1648,20 @@
   {
     "sentence_id": "HCH_007_098_000144",
     "sentence": "謂之曰：「漢兒兵士，皆爾有之，爾宜親自慰撫。」延壽至營，杜重威、李守貞已下皆迎謁於馬前。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_098_000145",
@@ -1763,6 +1904,12 @@
     "sentence": "會郭崇韜伐蜀，奏請礪掌軍書。",
     "entities": [
       {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "蜀",
         "label": "ORG",
         "start": 5,
@@ -1986,12 +2133,6 @@
     "sentence_id": "HCH_007_098_000193",
     "sentence": "劉仁恭鎮幽州，阿巴曾引眾寇平州，仁恭遣驍將劉雁郎與其子守光率五百騎先守其州，阿缽不知，為郡人所紿，因赴牛酒之會，為守光所擒。",
     "entities": [
-      {
-        "text": "劉仁恭鎮幽州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      },
       {
         "text": "巴曾引眾寇平州",
         "label": "LOC",

@@ -2,7 +2,14 @@
   {
     "sentence_id": "HCH_003_072_000001",
     "sentence": "高熲 牛弘 李德林",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_072_000002",
@@ -12,7 +19,14 @@
   {
     "sentence_id": "HCH_003_072_000003",
     "sentence": "高熲牛弘李德林",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_072_000004",
@@ -68,6 +82,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -198,7 +218,14 @@
   {
     "sentence_id": "HCH_003_072_000023",
     "sentence": "尉遲迥起兵也，帝令韋孝寬伐之，軍至河陽，莫敢先進。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_072_000024",
@@ -379,6 +406,18 @@
         "end": 4
       },
       {
+        "text": "長孫覽",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "元景山",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "陳",
         "label": "ORG",
         "start": 14,
@@ -422,7 +461,14 @@
   {
     "sentence_id": "HCH_003_072_000052",
     "sentence": "及陳平，晉王欲納陳主寵姬張麗華。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張麗華",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_072_000053",
@@ -2662,12 +2708,26 @@
   {
     "sentence_id": "HCH_003_072_000320",
     "sentence": "次子方裕，凶險無仁心，在江都與裴虔通等謀殺逆，事見《司馬德戡傳》。",
-    "entities": []
+    "entities": [
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 26,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_072_000321",
     "sentence": "李德林，字公輔，博陵安平人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_072_000322",
@@ -2882,6 +2942,12 @@
         "label": "TITLE",
         "start": 30,
         "end": 32
+      },
+      {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },
@@ -2907,10 +2973,22 @@
     "sentence": "周武謂群臣曰：「我常日唯聞李德林與齊朝作書檄，我正謂其是天上人。豈言今日得其驅使，復為我作文書，極為大異。」神武公紇豆陵毅答曰：「臣聞明主聖王，得騏驎鳳皇為瑞，是聖德所感，非力能致之。瑞物雖來，不堪使用。如李德林來受驅策，亦是陛下聖德感致，有大才用，勝於騏驎鳳皇遠矣。」帝大笑曰：「誠如公言。」宣政末，授禦正下大夫。",
     "entities": [
       {
+        "text": "李德林",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "齊朝",
         "label": "ORG",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 103,
+        "end": 106
       },
       {
         "text": "大夫",
@@ -3008,7 +3086,14 @@
   {
     "sentence_id": "HCH_003_072_000357",
     "sentence": "鄖公韋孝寬為東道元帥，師次永橋，沁水長，孝寬師未得度。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_072_000358",
@@ -3278,6 +3363,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },

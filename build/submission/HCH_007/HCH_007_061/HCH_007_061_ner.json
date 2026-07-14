@@ -53,6 +53,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -220,7 +226,14 @@
   {
     "sentence_id": "HCH_007_061_000027",
     "sentence": "安元信，字子言，代北人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安元信",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_061_000028",
@@ -394,7 +407,14 @@
   {
     "sentence_id": "HCH_007_061_000046",
     "sentence": "時契丹犯邊，元信與霍彥威從明宗屯常山。",
-    "entities": []
+    "entities": [
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_061_000047",
@@ -431,7 +451,14 @@
   {
     "sentence_id": "HCH_007_061_000052",
     "sentence": "王師之討高季興，襄帥劉訓逗撓軍期，移授元信山南東道節度使以代訓。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_061_000053",
@@ -518,6 +545,12 @@
     "sentence": "安重霸，雲州人也。",
     "entities": [
       {
+        "text": "安重霸",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "雲州",
         "label": "LOC",
         "start": 4,
@@ -544,6 +577,12 @@
     "sentence_id": "HCH_007_061_000065",
     "sentence": "宦官王承休居中用事，與成都尹韓昭內外相結，專采擇聲色，以固寵幸。",
     "entities": [
+      {
+        "text": "王承休",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "成都",
         "label": "LOC",
@@ -786,6 +825,12 @@
     "sentence": "長興末，明宗謂侍臣曰：「安重霸朕之故人，以秦州歸國，其功不細，酬以團練防禦，恐非懷來之道。」範延光曰：「將校內有自河東、河北從陛下龍飛故人，尚有未及團防者，今若遽授重霸方鎮，恐為人竊議。」明宗不悅。",
     "entities": [
       {
+        "text": "安重霸",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "以秦州",
         "label": "LOC",
         "start": 20,
@@ -933,6 +978,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -1064,7 +1115,14 @@
   {
     "sentence_id": "HCH_007_061_000104",
     "sentence": "天成中，荊南高季興叛，詔訓為南面行營招討使，知荊南行府事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_061_000105",
@@ -1098,6 +1156,12 @@
         "label": "LOC",
         "start": 26,
         "end": 33
+      },
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 34,
+        "end": 37
       }
     ]
   },
@@ -1263,6 +1327,12 @@
     "sentence_id": "HCH_007_061_000120",
     "sentence": "郭崇韜之征蜀也，以敬詢善督租賦，乃表為利州留後。",
     "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "乃表為利州",
         "label": "LOC",
@@ -1748,7 +1818,14 @@
   {
     "sentence_id": "HCH_007_061_000163",
     "sentence": "鄴度循不可爭，以石敬瑭妻，明宗女也，時方在汴，欲殺之以堅人心。",
-    "entities": []
+    "entities": [
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_061_000164",
@@ -1781,6 +1858,12 @@
     "sentence_id": "HCH_007_061_000168",
     "sentence": "明年，荊南高季興叛，明宗遣襄州節度使劉訓等招討，而以東川董璋為西南招討使，乃拜鄴夔州刺史，副璋，以兵出三峽。",
     "entities": [
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "明宗遣襄州",
         "label": "LOC",
@@ -1874,6 +1957,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -1924,7 +2013,14 @@
   {
     "sentence_id": "HCH_007_061_000182",
     "sentence": "初，遵誨自以歷位尹正，與安重誨素亦相款，衷心有望於節鉞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_061_000183",

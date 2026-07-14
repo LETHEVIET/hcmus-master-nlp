@@ -58,6 +58,12 @@
         "end": 4
       },
       {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "《詩》",
         "label": "TITLE",
         "start": 19,
@@ -114,6 +120,12 @@
         "label": "TITLE",
         "start": 34,
         "end": 36
+      },
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 36,
+        "end": 39
       }
     ]
   },
@@ -1226,6 +1238,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -1656,6 +1674,12 @@
     "sentence": "始，魯扶卿及夏侯勝、王陽、蕭望之、韋玄成皆說《論語》，篇第或異。",
     "entities": [
       {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "《論語》",
         "label": "TITLE",
         "start": 22,
@@ -1843,6 +1867,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "薛廣德",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -2117,6 +2147,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "翟方進",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "御史",
@@ -3216,7 +3252,20 @@
   {
     "sentence_id": "HCH_006_081_000326",
     "sentence": "贊曰：自孝武興學，公孫弘以儒相，其後蔡義、韋賢、玄成、匡衡、張禹、翟方進、孔光、平當、馬宮及當子晏咸以儒宗居宰相位，服儒衣冠，傳先王語，其醞藉可也，然皆持祿保位，被阿諛之譏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "翟方進",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_081_000327",

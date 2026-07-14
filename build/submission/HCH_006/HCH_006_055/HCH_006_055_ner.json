@@ -163,7 +163,14 @@
   {
     "sentence_id": "HCH_006_055_000021",
     "sentence": "君孺為太僕公孫賀妻。",
-    "entities": []
+    "entities": [
+      {
+        "text": "公孫賀",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_055_000022",
@@ -207,6 +214,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "公孫賀",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       },
       {
         "text": "將軍",
@@ -422,6 +435,12 @@
         "label": "TITLE",
         "start": 35,
         "end": 37
+      },
+      {
+        "text": "公孫賀",
+        "label": "PER",
+        "start": 40,
+        "end": 43
       },
       {
         "text": "將軍",
@@ -691,17 +710,37 @@
   {
     "sentence_id": "HCH_006_055_000058",
     "sentence": "是歲也，霍去病始侯。",
-    "entities": []
+    "entities": [
+      {
+        "text": "霍去病",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_055_000059",
     "sentence": "霍去病",
-    "entities": []
+    "entities": [
+      {
+        "text": "霍去病",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_055_000060",
     "sentence": "霍去病，大將軍青姊少兒子也。",
     "entities": [
+      {
+        "text": "霍去病",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -1186,6 +1225,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "公孫賀",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       },
       {
         "text": "將軍",
@@ -1753,6 +1798,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "公孫賀",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
@@ -2451,7 +2502,14 @@
   {
     "sentence_id": "HCH_006_055_000219",
     "sentence": "而霍去病弟光貴盛，自有傳。",
-    "entities": []
+    "entities": [
+      {
+        "text": "霍去病",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_055_000220",

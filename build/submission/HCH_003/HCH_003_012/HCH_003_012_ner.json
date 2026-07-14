@@ -529,6 +529,12 @@
     "sentence": "丁酉，以上柱國宇文述為左衛大將軍，上柱國郭衍為左武衛大將軍，延壽公於仲文為右衛大將軍。",
     "entities": [
       {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 13,
@@ -981,6 +987,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "楊文思",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "尚書",
@@ -1514,6 +1526,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "楊文思",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -1585,6 +1603,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 17
+      },
+      {
+        "text": "長孫熾",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       },
       {
         "text": "尚書",
@@ -1713,6 +1737,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 9
+      },
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2298,6 +2328,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "長孫熾",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -2719,6 +2755,12 @@
     "sentence": "七月壬午，宇文述等敗績於薩水，右屯衛將軍薛世雄死之。",
     "entities": [
       {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 18,
@@ -2782,6 +2824,12 @@
     "sentence_id": "HCH_003_012_000283",
     "sentence": "甲申，敗將宇文述、於仲文等除名為民，斬尚書右丞劉士龍以謝天下。",
     "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -2907,7 +2955,14 @@
   {
     "sentence_id": "HCH_003_012_000296",
     "sentence": "壬午，復宇文述等官爵，又征兵討高麗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_012_000297",
@@ -2964,6 +3019,12 @@
     "sentence_id": "HCH_003_012_000303",
     "sentence": "壬申，遣宇文述、楊義臣趣平壤城。",
     "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "楊義臣趣平壤城",
         "label": "LOC",
@@ -3045,6 +3106,12 @@
         "end": 26
       },
       {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 33,
@@ -3078,6 +3145,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 11
+      },
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       },
       {
         "text": "破楊玄感於閿鄉",
@@ -4168,6 +4241,12 @@
         "label": "TITLE",
         "start": 22,
         "end": 24
+      },
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -4311,6 +4390,12 @@
         "label": "LOC",
         "start": 6,
         "end": 13
+      },
+      {
+        "text": "唐世宗",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "據郡",

@@ -2,7 +2,92 @@
   {
     "sentence_id": "HCH_008_185a_000001",
     "sentence": "韋仁壽　張允濟　李桐客　李素立 孫:至遠　從遠　曾孫:畬　從子:遊道 薛大鼎 子:克構　克勤 賈敦頤 子:膺福 李君球　崔知溫 子:泰之　諤之　兄:知悌 高智周　田仁會　韋機 孫:嶽　曾孫:景駿 權懷恩 姪:楚璧　叔祖:萬紀　萬紀子:玄福 馮元常 從父弟:元淑 蔣儼　王方翼　薛季昶",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋仁壽",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "張允濟",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "李桐客",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "李素立",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "薛大鼎",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      },
+      {
+        "text": "賈敦頤",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      },
+      {
+        "text": "李君球",
+        "label": "PER",
+        "start": 56,
+        "end": 59
+      },
+      {
+        "text": "崔知溫",
+        "label": "PER",
+        "start": 60,
+        "end": 63
+      },
+      {
+        "text": "高智周",
+        "label": "PER",
+        "start": 77,
+        "end": 80
+      },
+      {
+        "text": "田仁會",
+        "label": "PER",
+        "start": 81,
+        "end": 84
+      },
+      {
+        "text": "權懷恩",
+        "label": "PER",
+        "start": 98,
+        "end": 101
+      },
+      {
+        "text": "馮元常",
+        "label": "PER",
+        "start": 120,
+        "end": 123
+      },
+      {
+        "text": "王方翼",
+        "label": "PER",
+        "start": 134,
+        "end": 137
+      },
+      {
+        "text": "薛季昶",
+        "label": "PER",
+        "start": 138,
+        "end": 141
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000002",
@@ -116,12 +201,25 @@
   {
     "sentence_id": "HCH_008_185a_000017",
     "sentence": "韋仁壽",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋仁壽",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000018",
     "sentence": "韋仁壽，雍州萬年人也。",
     "entities": [
+      {
+        "text": "韋仁壽",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "雍州",
         "label": "LOC",
@@ -280,7 +378,14 @@
   {
     "sentence_id": "HCH_008_185a_000030",
     "sentence": "陳君賓，陳鄱陽王伯山子也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳君賓",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000031",
@@ -523,12 +628,25 @@
   {
     "sentence_id": "HCH_008_185a_000056",
     "sentence": "張允濟",
-    "entities": []
+    "entities": [
+      {
+        "text": "張允濟",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000057",
     "sentence": "張允濟，青州北海人也。",
     "entities": [
+      {
+        "text": "張允濟",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "青州",
         "label": "LOC",
@@ -707,12 +825,25 @@
   {
     "sentence_id": "HCH_008_185a_000077",
     "sentence": "李桐客",
-    "entities": []
+    "entities": [
+      {
+        "text": "李桐客",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000078",
     "sentence": "李桐客，冀州衡水人也。",
     "entities": [
+      {
+        "text": "李桐客",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "冀州",
         "label": "LOC",
@@ -752,7 +883,20 @@
   {
     "sentence_id": "HCH_008_185a_000082",
     "sentence": "後隋滅，從宇文化及至黎陽，轉沒竇建德。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文化及",
+        "label": "PER",
+        "start": 5,
+        "end": 9
+      },
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000083",
@@ -784,12 +928,25 @@
   {
     "sentence_id": "HCH_008_185a_000087",
     "sentence": "李素立",
-    "entities": []
+    "entities": [
+      {
+        "text": "李素立",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000088",
     "sentence": "李素立，趙州高邑人，北齊梁州刺史義深曾孫也。",
     "entities": [
+      {
+        "text": "李素立",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "趙州高邑",
         "label": "LOC",
@@ -985,7 +1142,14 @@
   {
     "sentence_id": "HCH_008_185a_000109",
     "sentence": "內史李昭德重其才，薦於則天，擢令知流內選事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李昭德",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000110",
@@ -1082,12 +1246,25 @@
   {
     "sentence_id": "HCH_008_185a_000123",
     "sentence": "薛大鼎",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛大鼎",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000124",
     "sentence": "薛大鼎，蒲州汾陽人，周太子少傅博平公善孫也。",
     "entities": [
+      {
+        "text": "薛大鼎",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "蒲州",
         "label": "LOC",
@@ -1236,6 +1413,12 @@
         "end": 6
       },
       {
+        "text": "賈敦頤",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "曹州",
         "label": "LOC",
         "start": 10,
@@ -1246,6 +1429,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "鄭德本",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "刺史",
@@ -1313,7 +1502,14 @@
   {
     "sentence_id": "HCH_008_185a_000142",
     "sentence": "克勤，歷司農少卿，為來俊臣所陷伏誅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000143",
@@ -1323,12 +1519,25 @@
   {
     "sentence_id": "HCH_008_185a_000144",
     "sentence": "賈敦頤",
-    "entities": []
+    "entities": [
+      {
+        "text": "賈敦頤",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000145",
     "sentence": "賈敦頤，曹州冤句人也。",
     "entities": [
+      {
+        "text": "賈敦頤",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "曹州",
         "label": "LOC",
@@ -1500,6 +1709,12 @@
         "label": "LOC",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "楊德幹",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -1587,17 +1802,37 @@
   {
     "sentence_id": "HCH_008_185a_000168",
     "sentence": "子膺福，先天中，歷左散騎常侍、昭文館學士，坐預竇懷貞等謀逆伏誅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇懷貞",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000169",
     "sentence": "李君球",
-    "entities": []
+    "entities": [
+      {
+        "text": "李君球",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000170",
     "sentence": "李君球，齊州平陵人也。",
     "entities": [
+      {
+        "text": "李君球",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "齊州",
         "label": "LOC",
@@ -1879,12 +2114,25 @@
   {
     "sentence_id": "HCH_008_185a_000200",
     "sentence": "崔知溫",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔知溫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000201",
     "sentence": "崔知溫，許州鄢陵人。",
     "entities": [
+      {
+        "text": "崔知溫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "許州",
         "label": "LOC",
@@ -1958,6 +2206,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "契苾何力",
+        "label": "PER",
+        "start": 3,
+        "end": 7
       }
     ]
   },
@@ -2144,6 +2398,12 @@
     "sentence": "諤之，神龍初為將作少匠，預誅張易之有功，封博陵縣侯，賜實封二百戶。",
     "entities": [
       {
+        "text": "張易之",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "封博陵縣",
         "label": "LOC",
         "start": 20,
@@ -2188,12 +2448,25 @@
   {
     "sentence_id": "HCH_008_185a_000231",
     "sentence": "高智周",
-    "entities": []
+    "entities": [
+      {
+        "text": "高智周",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000232",
     "sentence": "高智周，常州晉陵人。",
     "entities": [
+      {
+        "text": "高智周",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "常州",
         "label": "LOC",
@@ -2387,6 +2660,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "蔣子慎",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -2495,12 +2774,25 @@
   {
     "sentence_id": "HCH_008_185a_000258",
     "sentence": "田仁會",
-    "entities": []
+    "entities": [
+      {
+        "text": "田仁會",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000259",
     "sentence": "田仁會，雍州長安人。",
     "entities": [
+      {
+        "text": "田仁會",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "雍州",
         "label": "LOC",
@@ -2584,6 +2876,12 @@
         "label": "TME",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "執失思力",
+        "label": "PER",
+        "start": 29,
+        "end": 33
       }
     ]
   },
@@ -2784,6 +3082,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "閻知微",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -2839,6 +3143,12 @@
     "sentence": "頃之，默啜果叛，挾閻知微入寇趙、定等州。",
     "entities": [
       {
+        "text": "閻知微",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "定等州",
         "label": "LOC",
         "start": 16,
@@ -2890,7 +3200,14 @@
   {
     "sentence_id": "HCH_008_185a_000297",
     "sentence": "敬暉等討張易之、昌宗也，遣使就索千騎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000298",
@@ -2976,14 +3293,7 @@
   {
     "sentence_id": "HCH_008_185a_000306",
     "sentence": "父恪，洛州別駕。",
-    "entities": [
-      {
-        "text": "洛州",
-        "label": "LOC",
-        "start": 3,
-        "end": 5
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_185a_000307",
@@ -3065,6 +3375,12 @@
     "sentence_id": "HCH_008_185a_000314",
     "sentence": "會契苾何力東討高麗，軍眾至檀州，而灤河泛漲，師不能進，供其資糧，數日不乏。",
     "entities": [
+      {
+        "text": "契苾何力",
+        "label": "PER",
+        "start": 1,
+        "end": 5
+      },
       {
         "text": "軍眾至檀州",
         "label": "LOC",
@@ -3241,10 +3557,10 @@
     "sentence": "及竇懷貞、李晉等伏誅，以嶽嘗與交往，為姜皎所陷，左遷渠州別駕，稍遷陜州刺史。",
     "entities": [
       {
-        "text": "左遷渠州",
-        "label": "LOC",
-        "start": 24,
-        "end": 28
+        "text": "竇懷貞",
+        "label": "PER",
+        "start": 1,
+        "end": 4
       },
       {
         "text": "稍遷陜州",
@@ -3269,12 +3585,6 @@
         "label": "ORG",
         "start": 1,
         "end": 2
-      },
-      {
-        "text": "卒於潁州",
-        "label": "LOC",
-        "start": 4,
-        "end": 8
       }
     ]
   },
@@ -3452,12 +3762,25 @@
   {
     "sentence_id": "HCH_008_185a_000360",
     "sentence": "權懷恩",
-    "entities": []
+    "entities": [
+      {
+        "text": "權懷恩",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000361",
     "sentence": "權懷恩，雍州萬年人，周荊州刺史、千金郡公景宣玄孫也。",
     "entities": [
+      {
+        "text": "權懷恩",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "雍州",
         "label": "LOC",
@@ -3657,6 +3980,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "楊德幹",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -3715,6 +4044,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "李迥秀",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       },
       {
         "text": "盧玢及京城",
@@ -3793,6 +4128,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "溫彥博",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -3852,12 +4193,25 @@
   {
     "sentence_id": "HCH_008_185a_000399",
     "sentence": "馮元常",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮元常",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000400",
     "sentence": "馮元常，相州安陽人，自長樂徙家焉，北齊右僕射子琮曾孫也。",
     "entities": [
+      {
+        "text": "馮元常",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "相州",
         "label": "LOC",
@@ -3982,6 +4336,12 @@
     "sentence_id": "HCH_008_185a_000414",
     "sentence": "尋屬安南首領李嗣仙殺都護劉延祐，剽陷州縣，敕元常討之。",
     "entities": [
+      {
+        "text": "劉延祐",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
       {
         "text": "剽陷州縣",
         "label": "LOC",
@@ -4146,6 +4506,12 @@
     "sentence": "以善政為巡察使劉祥道所薦，擢為會州刺史。",
     "entities": [
       {
+        "text": "劉祥道",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "擢為會州",
         "label": "LOC",
         "start": 13,
@@ -4228,6 +4594,12 @@
     "sentence": "時征隱士田遊巖為太子洗馬，在宮竟無匡輔。",
     "entities": [
       {
+        "text": "田遊巖",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 8,
@@ -4302,12 +4674,25 @@
   {
     "sentence_id": "HCH_008_185a_000449",
     "sentence": "王方翼",
-    "entities": []
+    "entities": [
+      {
+        "text": "王方翼",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000450",
     "sentence": "王方翼，并州祁人也，高宗王庶人從祖兄也。",
     "entities": [
+      {
+        "text": "王方翼",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "并州",
         "label": "LOC",
@@ -4414,6 +4799,12 @@
     "sentence": "友人趙持滿犯罪被誅，暴屍於城西，親戚莫敢收視。",
     "entities": [
       {
+        "text": "趙持滿",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "暴屍於城",
         "label": "LOC",
         "start": 10,
@@ -4515,6 +4906,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "裴行儉",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -4657,6 +5054,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "程務挺",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -4681,6 +5084,12 @@
     "sentence_id": "HCH_008_185a_000492",
     "sentence": "及程務挺被誅，以方翼與務挺連職素善，追赴都下獄，遂流於崖州而死。",
     "entities": [
+      {
+        "text": "程務挺",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "遂流於崖州",
         "label": "LOC",
@@ -4709,12 +5118,25 @@
   {
     "sentence_id": "HCH_008_185a_000495",
     "sentence": "薛季昶",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛季昶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000496",
     "sentence": "薛季昶，絳州龍門人也。",
     "entities": [
+      {
+        "text": "薛季昶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "絳州",
         "label": "LOC",
@@ -4905,6 +5327,12 @@
     "sentence": "神龍初，以預誅張易之兄弟功，加銀青光祿大夫，拜戶部侍郎。",
     "entities": [
       {
+        "text": "張易之",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 19,
@@ -4921,7 +5349,14 @@
   {
     "sentence_id": "HCH_008_185a_000516",
     "sentence": "時季昶勸敬暉等因兵勢殺武三思。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_185a_000517",
@@ -4980,6 +5415,12 @@
         "label": "TITLE",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "光楚客",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -4998,6 +5439,12 @@
         "label": "LOC",
         "start": 12,
         "end": 16
+      },
+      {
+        "text": "薛季昶",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -5016,6 +5463,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "薛季昶",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       },
       {
         "text": "御史",

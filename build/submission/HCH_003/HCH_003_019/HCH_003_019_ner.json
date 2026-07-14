@@ -256,6 +256,12 @@
     "sentence": "都督源子邕與裴衍合圍鑒，斬首傳洛，詔改姓元氏。",
     "entities": [
       {
+        "text": "源子邕",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "元氏",
         "label": "ORG",
         "start": 20,
@@ -935,6 +941,12 @@
     "sentence": "及元法僧反，詔為東道行台、徐州大都督，節度諸軍事。",
     "entities": [
       {
+        "text": "元法僧",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "徐州",
         "label": "LOC",
         "start": 13,
@@ -1246,6 +1258,12 @@
         "label": "TITLE",
         "start": 66,
         "end": 68
+      },
+      {
+        "text": "盧神寶",
+        "label": "PER",
+        "start": 70,
+        "end": 73
       }
     ]
   },
@@ -1427,7 +1445,14 @@
   {
     "sentence_id": "HCH_003_019_000152",
     "sentence": "俄有武興王楊集始出，便馳告。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊集始",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_019_000153",
@@ -1830,7 +1855,14 @@
   {
     "sentence_id": "HCH_003_019_000206",
     "sentence": "孝靜時，其子貞自建業求隨聘使崔長謙赴鄴葬樹，梁武許之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔長謙",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_019_000207",
@@ -2105,6 +2137,12 @@
     "sentence": "孝文篤愛諸弟，以幹總戎別道，誡之曰：「司空穆亮年器可師，散騎常侍盧陽烏才堪詢訪，汝其師之。」遷洛，改封趙郡王。",
     "entities": [
       {
+        "text": "盧陽烏",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      },
+      {
         "text": "改封趙郡",
         "label": "LOC",
         "start": 49,
@@ -2139,6 +2177,12 @@
         "label": "TITLE",
         "start": 44,
         "end": 46
+      },
+      {
+        "text": "盧尚之",
+        "label": "PER",
+        "start": 47,
+        "end": 50
       }
     ]
   },
@@ -2797,6 +2841,12 @@
         "label": "TITLE",
         "start": 260,
         "end": 262
+      },
+      {
+        "text": "盧陽烏",
+        "label": "PER",
+        "start": 262,
+        "end": 265
       },
       {
         "text": "尚書",
@@ -3614,7 +3664,14 @@
   {
     "sentence_id": "HCH_003_019_000398",
     "sentence": "勰言於帝曰：「始有一鳥，望旗顛仆，臣謂大吉。」帝戲之曰：「鳥之畏威，豈獨中軍之略也？吾亦分其一耳！此乃大善，兵法咸說。」至明，便大破崔慧景、蕭衍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔慧景",
+        "label": "PER",
+        "start": 66,
+        "end": 69
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_019_000399",
@@ -3705,7 +3762,14 @@
   {
     "sentence_id": "HCH_003_019_000412",
     "sentence": "俄而齊將陳顯達內寇，帝復親討之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳顯達",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_019_000413",
@@ -3732,14 +3796,7 @@
   {
     "sentence_id": "HCH_003_019_000416",
     "sentence": "帝崩於行宮，遏秘喪事，獨與右僕射、任城王澄及左右數人為計，奉遷于安車中。",
-    "entities": [
-      {
-        "text": "任城",
-        "label": "LOC",
-        "start": 17,
-        "end": 19
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_019_000417",
@@ -3824,7 +3881,14 @@
   {
     "sentence_id": "HCH_003_019_000429",
     "sentence": "及帝升遐，齊將陳顯達奔遁始爾，慮凶問洩漏，致有逼迫。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳顯達",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_019_000430",
@@ -3917,6 +3981,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       },
       {
         "text": "尚書",
@@ -4616,6 +4686,12 @@
         "label": "TITLE",
         "start": 34,
         "end": 36
+      },
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       }
     ]
   },
@@ -4769,7 +4845,14 @@
   {
     "sentence_id": "HCH_003_019_000554",
     "sentence": "又烝于安定王燮妃高氏，即茹皓妻姊。",
-    "entities": []
+    "entities": [
+      {
+        "text": "于安定",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_019_000555",
@@ -5026,7 +5109,14 @@
   {
     "sentence_id": "HCH_003_019_000596",
     "sentence": "後蕭寶夤等大敗於平涼，顥亦奔還京師。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_019_000597",
@@ -5571,6 +5661,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "盧陽烏",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -5685,7 +5781,20 @@
   {
     "sentence_id": "HCH_003_019_000669",
     "sentence": "時引才人宋世景、李神俊、祖瑩、邢晏、王遵業、張始均等，共申宴喜。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王遵業",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "張始均",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_019_000670",

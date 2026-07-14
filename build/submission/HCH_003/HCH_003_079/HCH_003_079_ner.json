@@ -4,6 +4,12 @@
     "sentence": "宇文述 〈 雲定興趙行樞述 子化及司馬德戡裴虔通 〉 王世充 段達",
     "entities": [
       {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 17,
@@ -14,12 +20,25 @@
   {
     "sentence_id": "HCH_003_079_000002",
     "sentence": "宇文述",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_079_000003",
     "sentence": "宇文述，字伯通，代郡武川人也。",
     "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "代郡",
         "label": "LOC",
@@ -58,7 +77,14 @@
   {
     "sentence_id": "HCH_003_079_000008",
     "sentence": "述性謹密，周大塚宰宇文護甚愛之，以本官領護親信。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_079_000009",
@@ -88,6 +114,12 @@
     "sentence_id": "HCH_003_079_000010",
     "sentence": "尉遲迥作亂，述以行軍總管從韋孝寬擊之，破迥將李雋軍於懷州，又與諸將破尉惇于永平橋。",
     "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
       {
         "text": "將李雋軍於懷州",
         "label": "LOC",
@@ -1181,7 +1213,14 @@
   {
     "sentence_id": "HCH_003_079_000152",
     "sentence": "德戡失望，竊謂行樞曰：「君大誤我。當今撥亂，必藉英賢，化及庸暗，事將必敗，若何？」行樞曰：「廢之何難！」因共李孝本、宇文導師、尹正卿等謀，以後軍萬餘兵襲殺化及，立德戡為主。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文導",
+        "label": "PER",
+        "start": 58,
+        "end": 61
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_079_000153",
@@ -1301,7 +1340,14 @@
   {
     "sentence_id": "HCH_003_079_000164",
     "sentence": "張愷與其將陳伯謀去之，事覺，為化及所殺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳伯謀",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_079_000165",
@@ -1702,7 +1748,14 @@
   {
     "sentence_id": "HCH_003_079_000213",
     "sentence": "乃與趙行樞、李孝本、尹正卿、宇文導師等謀襲化及，遣人使于孟海公，結為外助。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文導",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_079_000214",
@@ -2870,7 +2923,14 @@
   {
     "sentence_id": "HCH_003_079_000358",
     "sentence": "論曰：宇文述便辟足恭，柔顏取悅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_079_000359",

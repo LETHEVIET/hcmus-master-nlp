@@ -2202,7 +2202,14 @@
   {
     "sentence_id": "HCH_003_034_000256",
     "sentence": "著作佐郎博陵許赤武、河東裴定宗等謂潛曰：「再三之惠，以爲過厚，子惠於叟，何其恆也？」潛曰：「我恆給祭者，以其恆於孝思也。」論者以潛爲君子矣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴定宗",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_034_000257",
@@ -3991,7 +3998,14 @@
   {
     "sentence_id": "HCH_003_034_000454",
     "sentence": "都官郎中畢義雲主其事，有奏而禁，有不奏輒禁者。",
-    "entities": []
+    "entities": [
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_034_000455",
@@ -4025,6 +4039,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "鄭述祖",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -4075,7 +4095,14 @@
   {
     "sentence_id": "HCH_003_034_000464",
     "sentence": "比因安平王事，遂肆其褊心，因公報隙，與郎中畢義雲遞相糾舉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_034_000465",
@@ -4520,7 +4547,14 @@
   {
     "sentence_id": "HCH_003_034_000522",
     "sentence": "趙彥深引入內省，參典機密。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_034_000523",
@@ -4579,6 +4613,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "侍郎",

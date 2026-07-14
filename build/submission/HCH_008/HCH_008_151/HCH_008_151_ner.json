@@ -2,12 +2,26 @@
   {
     "sentence_id": "HCH_008_151_000001",
     "sentence": "高崇文",
-    "entities": []
+    "entities": [
+      {
+        "text": "高崇文",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_151_000002",
     "sentence": "高崇文，其先渤海人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高崇文",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_151_000003",
@@ -30,12 +44,6 @@
         "label": "ORG",
         "start": 1,
         "end": 2
-      },
-      {
-        "text": "隨韓全義鎮",
-        "label": "LOC",
-        "start": 4,
-        "end": 9
       },
       {
         "text": "長武城",
@@ -67,6 +75,12 @@
     "sentence_id": "HCH_008_151_000006",
     "sentence": "韓全義入覲，崇文掌行營節度留務，遷兼御史中丞。",
     "entities": [
+      {
+        "text": "韓全義",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -102,6 +116,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "杜黃裳",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -242,7 +262,14 @@
   {
     "sentence_id": "HCH_008_151_000020",
     "sentence": "堆在鹿頭之東，使驍將高霞寓親鼓，士扳緣而上，矢石如雨；又命敢死士連登，奪其堆，燒其柵，柵中之賊殲焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高霞寓",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_151_000021",
@@ -274,14 +301,7 @@
   {
     "sentence_id": "HCH_008_151_000025",
     "sentence": "是日，賊綿江柵將李文悅以三千人歸順，尋而鹿頭將仇良輔舉城降者眾二萬。",
-    "entities": [
-      {
-        "text": "頭將仇良輔舉城",
-        "label": "LOC",
-        "start": 21,
-        "end": 28
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_151_000026",
@@ -310,7 +330,14 @@
   {
     "sentence_id": "HCH_008_151_000028",
     "sentence": "辟大懼，以親兵及逆黨盧文若賫重寶西走吐蕃。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧文若",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_151_000029",
@@ -320,7 +347,14 @@
   {
     "sentence_id": "HCH_008_151_000030",
     "sentence": "崇文遣高霞寓、酈定進倍道追之，至羊灌田及焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高霞寓",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_151_000031",
@@ -763,6 +797,18 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "路嗣恭",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "哥舒晃",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -786,19 +832,26 @@
         "label": "LOC",
         "start": 12,
         "end": 15
-      },
-      {
-        "text": "三遷江州",
-        "label": "LOC",
-        "start": 20,
-        "end": 24
       }
     ]
   },
   {
     "sentence_id": "HCH_008_151_000074",
     "sentence": "討梁崇義之歲，慎以江西牙將從李希烈，摧鋒陷敵，功又居多。",
-    "entities": []
+    "entities": [
+      {
+        "text": "梁崇義",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_151_000075",
@@ -1009,12 +1062,6 @@
     "sentence": "希烈死，李惠登為賊守隋州，慎飛書招諭，惠登遂以城降。",
     "entities": [
       {
-        "text": "惠登為賊守隋州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      },
-      {
         "text": "惠登遂以城",
         "label": "LOC",
         "start": 19,
@@ -1067,6 +1114,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "吳少誠",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -1180,12 +1233,25 @@
   {
     "sentence_id": "HCH_008_151_000106",
     "sentence": "朱忠亮",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱忠亮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_151_000107",
     "sentence": "朱忠亮，本名士明，沛州浚儀人。",
     "entities": [
+      {
+        "text": "朱忠亮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "沛州",
         "label": "LOC",
@@ -1319,12 +1385,26 @@
   {
     "sentence_id": "HCH_008_151_000119",
     "sentence": "劉昌裔",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉昌裔",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_151_000120",
     "sentence": "劉昌裔，太原陽曲人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉昌裔",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_151_000121",
@@ -1399,6 +1479,12 @@
         "label": "LOC",
         "start": 6,
         "end": 10
+      },
+      {
+        "text": "上官涚",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -1406,12 +1492,6 @@
     "sentence_id": "HCH_008_151_000127",
     "sentence": "吳少誠攻許州，涚領事，欲棄城走。",
     "entities": [
-      {
-        "text": "吳少誠攻許州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      },
       {
         "text": "欲棄城",
         "label": "LOC",
@@ -1501,6 +1581,12 @@
     "sentence_id": "HCH_008_151_000133",
     "sentence": "韓全義之敗溵水也，與諸道兵皆走保陳州；求舍，昌裔登城謂曰：「天子命公討蔡州，今來陳州，義不敢納，請舍城外。」而從千騎入全義營，持牛酒勞軍。",
     "entities": [
+      {
+        "text": "韓全義",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "道兵皆走保陳州",
         "label": "LOC",
@@ -1628,12 +1714,25 @@
   {
     "sentence_id": "HCH_008_151_000142",
     "sentence": "范希朝",
-    "entities": []
+    "entities": [
+      {
+        "text": "范希朝",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_151_000143",
     "sentence": "范希朝，字致君，河中虞鄉人。",
     "entities": [
+      {
+        "text": "范希朝",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "河中虞鄉",
         "label": "LOC",
@@ -1702,7 +1801,14 @@
   {
     "sentence_id": "HCH_008_151_000150",
     "sentence": "希朝讓於張獻甫，曰：「臣始逼而來，終代其任，非所以防凱覦安反側也。」詔嘉之，以獻甫統邠寧。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張獻甫",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_151_000151",
@@ -1806,6 +1912,12 @@
     "sentence": "順宗時，王叔文黨用事，將授韓泰以兵柄；利希朝老疾易制，乃命為左神策、京西諸城鎮行營節度使，鎮奉天，而以泰為副，欲因代之，叔文敗而罷。",
     "entities": [
       {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "京西諸城鎮",
         "label": "LOC",
         "start": 34,
@@ -1885,7 +1997,20 @@
   {
     "sentence_id": "HCH_008_151_000170",
     "sentence": "及張茂昭擊王承宗，幾覆，希朝玩寇不前，物議罪之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張茂昭",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_151_000171",
@@ -1936,6 +2061,12 @@
         "end": 4
       },
       {
+        "text": "王國良",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "表為邵州",
         "label": "LOC",
         "start": 14,
@@ -1953,6 +2084,12 @@
     "sentence_id": "HCH_008_151_000177",
     "sentence": "及臯改江西節度使，李希烈南侵，臯請鍔以勁兵三千鎮尋陽。",
     "entities": [
+      {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
       {
         "text": "鍔以勁兵三千鎮",
         "label": "LOC",
@@ -2399,6 +2536,12 @@
     "sentence": "節度使李全略利其貨而圖之，故致本州軍亂，殺稷，其室女為全略所虜，以妓媵處之。",
     "entities": [
       {
+        "text": "李全略",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "故致本州",
         "label": "LOC",
         "start": 13,
@@ -2426,18 +2569,43 @@
         "label": "LOC",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "李全略",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "王叔泰",
+        "label": "PER",
+        "start": 109,
+        "end": 112
       }
     ]
   },
   {
     "sentence_id": "HCH_008_151_000229",
     "sentence": "閻巨源",
-    "entities": []
+    "entities": [
+      {
+        "text": "閻巨源",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_151_000230",
     "sentence": "閻巨源，貞元十九年以勝州刺史攝振武行軍司馬。",
     "entities": [
+      {
+        "text": "閻巨源",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "十九年",
         "label": "TME",
@@ -2493,12 +2661,26 @@
   {
     "sentence_id": "HCH_008_151_000236",
     "sentence": "孟元陽",
-    "entities": []
+    "entities": [
+      {
+        "text": "孟元陽",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_151_000237",
     "sentence": "孟元陽，起於陳許軍中，理戎整肅，勤事，善部署。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孟元陽",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_151_000238",
@@ -2514,12 +2696,6 @@
     "sentence_id": "HCH_008_151_000240",
     "sentence": "環卒，吳少誠寇許州，元陽城守；外無救兵，攻圍甚急，而終不能傅其城，賊乃罷兵。",
     "entities": [
-      {
-        "text": "吳少誠寇許州",
-        "label": "LOC",
-        "start": 3,
-        "end": 9
-      },
       {
         "text": "元陽城",
         "label": "LOC",
@@ -2538,6 +2714,12 @@
     "sentence_id": "HCH_008_151_000241",
     "sentence": "韓全義五樓之敗，諸軍多私歸，元陽及神策都將蘇元策、宣州都將王幹各率部留軍溵水，破賊二千餘人。",
     "entities": [
+      {
+        "text": "韓全義",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "宣州",
         "label": "LOC",
@@ -2642,7 +2824,14 @@
   {
     "sentence_id": "HCH_008_151_000250",
     "sentence": "李承昭為昭義節度，辟昌在幕府。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李承昭",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_151_000251",
@@ -2839,12 +3028,50 @@
   {
     "sentence_id": "HCH_008_151_000265",
     "sentence": "史臣曰：高崇文以律貞師，勤於軍政，戎麾指蜀，遽立奇功，可謂近朝之良將也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高崇文",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_151_000266",
     "sentence": "伊慎、朱忠亮、劉昌裔、范希朝、閻巨源、孟元陽、趙昌等，各立功立事，亦一時之名臣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱忠亮",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "劉昌裔",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "范希朝",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "閻巨源",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "孟元陽",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_151_000267",

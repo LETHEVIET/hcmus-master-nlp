@@ -23,6 +23,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "哥舒翰",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -30,6 +36,12 @@
     "sentence_id": "HCH_008_114_000005",
     "sentence": "顏真卿 為監察御史，使至隴右，翰嘗設宴，真卿謂翰曰：「中丞自郎將授將軍，便登節制，後生可畏，得無人乎？」炅時立在階下，翰指炅曰：「此人後當為節度使矣。」後以隴右破吐蕃跳蕩功，累授右領軍大將軍同正員，賜紫金魚袋。",
     "entities": [
+      {
+        "text": "顏真卿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -106,7 +118,14 @@
   {
     "sentence_id": "HCH_008_114_000009",
     "sentence": "至五月，賊將武令珣、畢思琛等來擊之，眾欲出戰，炅不許。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武令珣",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_114_000010",
@@ -117,6 +136,18 @@
     "sentence_id": "HCH_008_114_000011",
     "sentence": "嶺南節度使何履光、黔中節度使趙國珍、襄陽太守徐浩未至，裨將嶺南、黔中、荊襄子弟半在軍，多懷金銀為資糧，軍資器械盡棄於路如山積。",
     "entities": [
+      {
+        "text": "何履光",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "趙國珍",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
       {
         "text": "太守",
         "label": "TITLE",
@@ -151,6 +182,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "哥舒翰",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -169,13 +206,32 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "武令珣",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
   {
     "sentence_id": "HCH_008_114_000016",
     "sentence": "武令珣死，又令田承嗣攻之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武令珣",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "田承嗣",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_114_000017",
@@ -192,6 +248,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "魏仲犀",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -228,6 +290,12 @@
     "sentence_id": "HCH_008_114_000021",
     "sentence": "日昇請單騎入致命，仲犀曰：「不可，賊若擒吾敕使，我亦何安！」顏真卿適自河北次於襄陽，謂仲犀曰：「曹使既果決，不顧萬死之地，何得沮之！縱為賊所獲，是亡一使者；敬得入城，則萬人之心固矣。公何愛焉？」中官馮廷環曰：「將軍必能入，我請以兩騎助之。」日昇又自有傔騎數人，仲犀又以數騎共十人同行。",
     "entities": [
+      {
+        "text": "顏真卿",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      },
       {
         "text": "敬得入城",
         "label": "LOC",
@@ -291,7 +359,14 @@
   {
     "sentence_id": "HCH_008_114_000027",
     "sentence": "田承嗣來追，苦戰二日，殺賊甚眾。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田承嗣",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_114_000028",
@@ -439,17 +514,30 @@
     "sentence": "十月，與朔方節度使司徒郭子儀、河東節度使太尉 李光弼 等九節度同圍安慶緒於相州。",
     "entities": [
       {
-        "text": "圍安慶緒於相州",
-        "label": "LOC",
-        "start": 32,
-        "end": 39
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
   {
     "sentence_id": "HCH_008_114_000037",
     "sentence": "炅領淮西、襄陽節度行營步卒萬人、馬軍三百，以李抱玉為兵馬使，炅分界知東面之北。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李抱玉",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_114_000038",
@@ -460,6 +548,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -477,6 +571,18 @@
         "label": "LOC",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -751,6 +857,12 @@
     "sentence": "安祿山反，張垍復薦之，起復兼汝南郡太守，未行，改潁川太守。",
     "entities": [
       {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "起復兼汝南郡",
         "label": "LOC",
         "start": 11,
@@ -871,7 +983,14 @@
   {
     "sentence_id": "HCH_008_114_000076",
     "sentence": "賊攻圍南陽累月，瑱分兵與襄陽節度使魏仲犀救之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏仲犀",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_114_000077",
@@ -951,6 +1070,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -958,12 +1083,6 @@
     "sentence_id": "HCH_008_114_000084",
     "sentence": "元帥司徒郭子儀鎮谷水，乃以瑱為陜州刺史，充陜、虢等州節度，並潼關防禦、團練、鎮守使。",
     "entities": [
-      {
-        "text": "帥司徒郭子儀鎮",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      },
       {
         "text": "乃以瑱為陜州",
         "label": "LOC",
@@ -1005,6 +1124,12 @@
         "label": "LOC",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "張維瑾",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "刺史",
@@ -1096,6 +1221,12 @@
     "sentence": "後呂諲、王仲昇及中官皆言瑱布恩惠，懼其得士心，以瑱為鄧州刺史，充山南東道襄、鄧、唐、復、郢、隨等六州節度，余並如故。",
     "entities": [
       {
+        "text": "王仲昇",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "以瑱為鄧州",
         "label": "LOC",
         "start": 23,
@@ -1119,6 +1250,12 @@
     "sentence_id": "HCH_008_114_000091",
     "sentence": "俄而淮西節度王仲昇與賊將謝欽讓戰於申州城下，為賊所虜。",
     "entities": [
+      {
+        "text": "王仲昇",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "謝欽讓戰於申州",
         "label": "LOC",
@@ -1355,6 +1492,12 @@
         "end": 8
       },
       {
+        "text": "王仲昇",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
         "text": "三年",
         "label": "TME",
         "start": 43,
@@ -1550,7 +1693,14 @@
   {
     "sentence_id": "HCH_008_114_000128",
     "sentence": "昭及薛南陽與右兵馬使梁崇義不葉相圖，為崇義所殺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "梁崇義",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_114_000129",
@@ -1584,17 +1734,37 @@
   {
     "sentence_id": "HCH_008_114_000132",
     "sentence": "周智光",
-    "entities": []
+    "entities": [
+      {
+        "text": "周智光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_114_000133",
     "sentence": "周智光，本以騎射從軍，常有戎捷，自行間登偏裨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "周智光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_114_000134",
     "sentence": "宦官魚朝恩為觀軍容使，鎮陜州，與之昵狎。",
     "entities": [
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "鎮陜州",
         "label": "LOC",
@@ -1783,13 +1953,26 @@
         "label": "LOC",
         "start": 2,
         "end": 5
+      },
+      {
+        "text": "皇甫溫",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
   {
     "sentence_id": "HCH_008_114_000145",
     "sentence": "智光大怒曰：「僕固懷恩豈有反狀！皆由爾鼠輩作福作威，懼死不敢入朝。我本不反，今為爾作之。」因叱下斬之，臠其肉以飼從者。",
-    "entities": []
+    "entities": [
+      {
+        "text": "僕固懷恩",
+        "label": "PER",
+        "start": 7,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_114_000146",
@@ -1823,7 +2006,14 @@
   {
     "sentence_id": "HCH_008_114_000149",
     "sentence": "智光受詔慢罵曰：「智光有數子，皆彎弓二百斤，有萬人敵，堪出將入相。只如挾天子令諸侯。天下只有周智光合作。」因歷數大臣之過。",
-    "entities": []
+    "entities": [
+      {
+        "text": "周智光",
+        "label": "PER",
+        "start": 46,
+        "end": 49
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_114_000150",
@@ -1857,6 +2047,12 @@
         "label": "LOC",
         "start": 7,
         "end": 10
+      },
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -2017,6 +2213,12 @@
     "sentence_id": "HCH_008_114_000163",
     "sentence": "時淮西節度使李忠臣入觀，次潼關，聞智光阻兵，駐所部將往禦之。",
     "entities": [
+      {
+        "text": "李忠臣",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "次潼關",
         "label": "LOC",

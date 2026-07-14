@@ -268,6 +268,12 @@
     "sentence": "其舅崔孝芬怪而問之，收曰：「懼有晉陽之甲。」尋而神武南上，帝西入關。",
     "entities": [
       {
+        "text": "崔孝芬",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "帝西入關",
         "label": "LOC",
         "start": 29,
@@ -598,7 +604,14 @@
   {
     "sentence_id": "HCH_004_037_000069",
     "sentence": "時齊將受禪，楊愔奏收置之別館，令撰禪代詔冊諸文，遣徐之才守門不聽出。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_037_000070",
@@ -680,6 +693,12 @@
         "label": "TITLE",
         "start": 29,
         "end": 33
+      },
+      {
+        "text": "李琰之",
+        "label": "PER",
+        "start": 59,
+        "end": 62
       }
     ]
   },
@@ -703,6 +722,12 @@
         "label": "TME",
         "start": 19,
         "end": 24
+      },
+      {
+        "text": "王遵業",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       }
     ]
   },
@@ -987,7 +1012,14 @@
   {
     "sentence_id": "HCH_004_037_000103",
     "sentence": "時太原王松年亦謗史，及斐、庶並獲罪，各被鞭配甲坊，或因以致死，盧思道亦抵罪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王松年",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_037_000104",
@@ -1376,6 +1408,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -1421,6 +1459,12 @@
     "sentence": "武平中，黃門郎顏之推以二公意問僕射祖珽，珽答曰：「見邢、魏之臧否，即是任、沈之優劣。」收以溫子升全不作賦，邢雖有一兩首，又非所長，常云：「會須作賦，始成大才士。唯以章表碑誌自許，此外更同兒戲。」自 武定二年 已後，國家大事詔命，軍國文詞，皆收所作。",
     "entities": [
       {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "二年",
         "label": "TME",
         "start": 101,
@@ -1458,7 +1502,14 @@
   {
     "sentence_id": "HCH_004_037_000163",
     "sentence": "其年又以托附陳使封孝琰，牒令其門客與行，遇崑崙舶至，得奇貨猓然褥表、美玉盈尺等數十件，罪當流，以贖論。",
-    "entities": []
+    "entities": [
+      {
+        "text": "封孝琰",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_037_000164",
@@ -1930,7 +1981,20 @@
   {
     "sentence_id": "HCH_004_037_000244",
     "sentence": "收奏請趙彥深、和士開、徐之才共監。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_037_000245",
@@ -2090,7 +2154,14 @@
   {
     "sentence_id": "HCH_004_037_000269",
     "sentence": "王松年、李庶等並論正家門，未為謗議，遂憑附時宰，鼓動淫刑，庶因鞭撻而終，此公之失德。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王松年",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_037_000270",

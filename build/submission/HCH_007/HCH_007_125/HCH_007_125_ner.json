@@ -36,10 +36,10 @@
     "sentence": "晉有天下，參掌衛兵，從馬全節圍安陸，佐杜重威戰宗城，皆有功，改奉國指揮使。",
     "entities": [
       {
-        "text": "佐杜重威戰宗城",
-        "label": "LOC",
-        "start": 18,
-        "end": 25
+        "text": "馬全節",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -98,12 +98,31 @@
   {
     "sentence_id": "HCH_007_125_000012",
     "sentence": "屬王景崇叛據岐山，及期不受代，朝廷即命暉為西南面行營都部署，統兵以討之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王景崇",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_125_000013",
     "sentence": "時李守貞叛於蒲，趙思綰據於雍，與景崇皆遞相為援，又引蜀軍出自大散關，勢不可遏。",
     "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "趙思綰",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "蜀軍出自大散關",
         "label": "LOC",
@@ -199,12 +218,26 @@
   {
     "sentence_id": "HCH_007_125_000024",
     "sentence": "王守恩",
-    "entities": []
+    "entities": [
+      {
+        "text": "王守恩",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_125_000025",
     "sentence": "王守恩，字保信，太原人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王守恩",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_125_000026",
@@ -317,6 +350,12 @@
         "end": 111
       },
       {
+        "text": "王守恩",
+        "label": "PER",
+        "start": 111,
+        "end": 114
+      },
+      {
         "text": "專領郡",
         "label": "LOC",
         "start": 135,
@@ -364,6 +403,12 @@
     "sentence": "時趙思綰已據長安，乃改授西京留守。",
     "entities": [
       {
+        "text": "趙思綰",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "長安",
         "label": "LOC",
         "start": 6,
@@ -390,6 +435,12 @@
         "label": "LOC",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "白文珂",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -465,6 +516,24 @@
         "label": "LOC",
         "start": 41,
         "end": 43
+      },
+      {
+        "text": "王守恩",
+        "label": "PER",
+        "start": 45,
+        "end": 48
+      },
+      {
+        "text": "白文珂",
+        "label": "PER",
+        "start": 111,
+        "end": 114
+      },
+      {
+        "text": "王守恩",
+        "label": "PER",
+        "start": 126,
+        "end": 129
       }
     ]
   },
@@ -804,7 +873,14 @@
   {
     "sentence_id": "HCH_007_125_000074",
     "sentence": "人或責以見利忘義，繼宏曰：「吾儕小人也，若不因利乘便，以求富貴，畢世以來，未可得志也。」及漢祖征杜重威至德清軍，繼宏來朝，乃正授節旄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 48,
+        "end": 51
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_125_000075",
@@ -898,6 +974,12 @@
         "label": "ORG",
         "start": 4,
         "end": 5
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       }
     ]
   },
@@ -951,6 +1033,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       },
       {
         "text": "以兵攻其城",
@@ -1058,14 +1146,7 @@
   {
     "sentence_id": "HCH_007_125_000097",
     "sentence": "初，張希崇鎮靈州，以久在蕃，頗究邊事，數年之間，侵盜並息。",
-    "entities": [
-      {
-        "text": "張希崇鎮靈州",
-        "label": "LOC",
-        "start": 2,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_125_000098",
@@ -1104,12 +1185,6 @@
     "sentence": "〈 （《隆平集·藥元福傳》：西戎三族攻靈州，命元福佐朔方節度使馮暉討之。朔方距威州七百里，地無水草，謂之「旱海」。攜糧至，暉食盡，詰朝行四十里，而敵騎數萬扼要路。暉大懼，遣人致賂求成，雖許，及日中猶未決。暉曰：「奈何？」元福曰：「彼正欲困我耳，察其勢，敵雖眾，特依西山而陣者，其精兵也，請以驍銳先薄西山，彼或少怯，當舉黃旗為識。」暉善其謀，斬馘殆盡。） 〉",
     "entities": [
       {
-        "text": "《隆平集·藥元福傳》",
-        "label": "TITLE",
-        "start": 3,
-        "end": 13
-      },
-      {
         "text": "西戎三族攻靈州",
         "label": "LOC",
         "start": 14,
@@ -1126,7 +1201,14 @@
   {
     "sentence_id": "HCH_007_125_000104",
     "sentence": "晉開運初，桑維翰輔政，欲圖大舉以制北方，命將佐十五人，皆列藩之帥也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_125_000105",
@@ -1383,6 +1465,12 @@
         "end": 5
       },
       {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "及朝廷用兵夏州",
         "label": "LOC",
         "start": 28,
@@ -1405,6 +1493,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "劉景巖",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "退老於州",
@@ -1487,12 +1581,26 @@
   {
     "sentence_id": "HCH_007_125_000144",
     "sentence": "折從阮",
-    "entities": []
+    "entities": [
+      {
+        "text": "折從阮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_125_000145",
     "sentence": "折從阮，字可久，本名從遠，避漢高祖舊名下一字，故改焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "折從阮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_125_000146",
@@ -1806,6 +1914,12 @@
         "end": 2
       },
       {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "領鄆州",
         "label": "LOC",
         "start": 25,
@@ -1823,6 +1937,18 @@
     "sentence_id": "HCH_007_125_000174",
     "sentence": "時安從進叛於襄陽，晉祖命高行周率兵討之，以饒為行營步軍都指揮使，賊平，授深州刺史。",
     "entities": [
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
       {
         "text": "授深州",
         "label": "LOC",
@@ -1979,12 +2105,25 @@
   {
     "sentence_id": "HCH_007_125_000187",
     "sentence": "孫方諫",
-    "entities": []
+    "entities": [
+      {
+        "text": "孫方諫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_125_000188",
     "sentence": "孫方諫，鄚州清苑縣人也。",
     "entities": [
+      {
+        "text": "孫方諫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "鄚州清苑縣",
         "label": "LOC",

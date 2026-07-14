@@ -7,7 +7,26 @@
   {
     "sentence_id": "HCH_003_087_000002",
     "sentence": "于洛侯 胡泥 李洪之 子 神 張赦提 趙霸 崔暹 邸珍 田式 燕榮 元弘嗣 王文同",
-    "entities": []
+    "entities": [
+      {
+        "text": "于洛侯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "李洪之",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "張赦提",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_087_000003",
@@ -68,6 +87,12 @@
     "sentence_id": "HCH_003_087_000014",
     "sentence": "于洛侯之徒，前書編之《酷吏》。",
     "entities": [
+      {
+        "text": "于洛侯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "《酷吏》",
         "label": "TITLE",
@@ -131,7 +156,32 @@
   {
     "sentence_id": "HCH_003_087_000024",
     "sentence": "魏 有于洛侯、胡泥、李洪之、高遵、張赦提、羊祉、崔暹、酈道元、穀楷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "于洛侯",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "李洪之",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "張赦提",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "酈道元",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_087_000025",
@@ -159,23 +209,62 @@
         "label": "TITLE",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "趙仲卿",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
   {
     "sentence_id": "HCH_003_087_000028",
     "sentence": "今檢高遵、羊祉、酈道元、谷楷、宋游道、盧斐、畢義雲、庫狄士文、趙仲卿、崔弘度各從其家傳，其餘並列於此云。",
-    "entities": []
+    "entities": [
+      {
+        "text": "酈道元",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
+        "text": "趙仲卿",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_087_000029",
     "sentence": "于洛侯",
-    "entities": []
+    "entities": [
+      {
+        "text": "于洛侯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_087_000030",
     "sentence": "于洛侯，代人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "于洛侯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_087_000031",
@@ -338,12 +427,26 @@
   {
     "sentence_id": "HCH_003_087_000052",
     "sentence": "李洪之",
-    "entities": []
+    "entities": [
+      {
+        "text": "李洪之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_087_000053",
     "sentence": "李洪之，本名文通，恆農人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李洪之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_087_000054",
@@ -877,12 +980,26 @@
   {
     "sentence_id": "HCH_003_087_000123",
     "sentence": "張赦提",
-    "entities": []
+    "entities": [
+      {
+        "text": "張赦提",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_087_000124",
     "sentence": "張赦提，中山安喜人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張赦提",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_087_000125",
@@ -1555,6 +1672,12 @@
     "sentence": "後從韋孝寬討尉遲迥，以功拜大將軍，進爵武山郡公。",
     "entities": [
       {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 13,
@@ -1838,7 +1961,14 @@
   {
     "sentence_id": "HCH_003_087_000223",
     "sentence": "既破丹陽，吳人共立蕭瓛，為宇文述所敗，退保包山。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_087_000224",
@@ -2299,7 +2429,14 @@
   {
     "sentence_id": "HCH_003_087_000289",
     "sentence": "于洛侯等為惡不同，同歸於酷，肆其毒螫，多行殘忍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "于洛侯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_087_000290",

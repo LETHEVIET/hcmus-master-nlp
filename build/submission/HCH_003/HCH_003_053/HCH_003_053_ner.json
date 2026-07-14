@@ -2,7 +2,62 @@
   {
     "sentence_id": "HCH_003_053_000001",
     "sentence": "万俟普 可朱渾元 劉豐 破六韓常 金祚 劉貴 蔡雋 韓賢 尉長命 王懷 任祥 莫多婁貸文 厙狄迴洛 厙狄盛 張保洛 侯莫陳相 薛孤延 斛律羌舉 張瓊 宋顯 王則 慕容紹宗 叱列平 步大汗薩 薛脩義 慕容儼 潘樂 彭樂 暴顯 皮景和 綦連猛 元景安 獨孤永業 鮮于世榮 傅伏",
-    "entities": []
+    "entities": [
+      {
+        "text": "破六韓常",
+        "label": "PER",
+        "start": 12,
+        "end": 16
+      },
+      {
+        "text": "尉長命",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "張保洛",
+        "label": "PER",
+        "start": 54,
+        "end": 57
+      },
+      {
+        "text": "薛孤延",
+        "label": "PER",
+        "start": 63,
+        "end": 66
+      },
+      {
+        "text": "斛律羌舉",
+        "label": "PER",
+        "start": 67,
+        "end": 71
+      },
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 81,
+        "end": 85
+      },
+      {
+        "text": "慕容儼",
+        "label": "PER",
+        "start": 99,
+        "end": 102
+      },
+      {
+        "text": "皮景和",
+        "label": "PER",
+        "start": 112,
+        "end": 115
+      },
+      {
+        "text": "獨孤永業",
+        "label": "PER",
+        "start": 124,
+        "end": 128
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000002",
@@ -12,7 +67,62 @@
   {
     "sentence_id": "HCH_003_053_000003",
     "sentence": "万俟普子洛可朱渾元劉豐破六韓常金祚劉貴蔡俊韓賢尉長命王懷任祥子胄莫多婁貸文子敬顯厙狄回洛厙狄盛張保洛賀拔仁曲珍段琛尉摽摽子相貴康得韓建業封輔相范舍樂牒舍樂侯莫陳相薛孤延斛律羌舉子孝卿張瓊宋顯王則慕容紹宗叱列平步大汗薩薛修義慕容儼厙狄伏連潘樂彭樂暴顯皮景和綦連猛元景安獨孤永業鮮于世榮傅伏",
-    "entities": []
+    "entities": [
+      {
+        "text": "破六韓常",
+        "label": "PER",
+        "start": 11,
+        "end": 15
+      },
+      {
+        "text": "尉長命",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "張保洛",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      },
+      {
+        "text": "薛孤延",
+        "label": "PER",
+        "start": 81,
+        "end": 84
+      },
+      {
+        "text": "斛律羌舉",
+        "label": "PER",
+        "start": 84,
+        "end": 88
+      },
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 97,
+        "end": 101
+      },
+      {
+        "text": "慕容儼",
+        "label": "PER",
+        "start": 111,
+        "end": 114
+      },
+      {
+        "text": "皮景和",
+        "label": "PER",
+        "start": 124,
+        "end": 127
+      },
+      {
+        "text": "獨孤永業",
+        "label": "PER",
+        "start": 133,
+        "end": 137
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000004",
@@ -126,7 +236,14 @@
   {
     "sentence_id": "HCH_003_053_000015",
     "sentence": "万俟洛",
-    "entities": []
+    "entities": [
+      {
+        "text": "万俟洛",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000016",
@@ -582,12 +699,6 @@
     "sentence": "賀拔岳與靈州刺史曹掞不睦，豐助掞守。",
     "entities": [
       {
-        "text": "賀拔岳與靈州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 6,
@@ -598,7 +709,14 @@
   {
     "sentence_id": "HCH_003_053_000062",
     "sentence": "嶽將自討掞，為侯莫陳悅所殺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 7,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000063",
@@ -666,6 +784,12 @@
     "sentence_id": "HCH_003_053_000070",
     "sentence": "城將陷，豐與行台慕容紹宗見忽有暴風從東北來，正晝昏暗，飛沙走礫，船纜忽絕，漂至城下。",
     "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 8,
+        "end": 12
+      },
       {
         "text": "漂至城",
         "label": "LOC",
@@ -754,12 +878,26 @@
   {
     "sentence_id": "HCH_003_053_000081",
     "sentence": "破六韓常",
-    "entities": []
+    "entities": [
+      {
+        "text": "破六韓常",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000082",
     "sentence": "破六韓常，單于之裔也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "破六韓常",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000083",
@@ -958,13 +1096,26 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "楊紹先",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
   {
     "sentence_id": "HCH_003_053_000102",
     "sentence": "未還，岳為侯莫陳悅所殺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 5,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000103",
@@ -1514,12 +1665,26 @@
   {
     "sentence_id": "HCH_003_053_000166",
     "sentence": "尉長命",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉長命",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000167",
     "sentence": "尉長命，太安狄那人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉長命",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000168",
@@ -1803,7 +1968,14 @@
   {
     "sentence_id": "HCH_003_053_000197",
     "sentence": "及斛斯椿釁發，祥棄官北走，歸神武。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000198",
@@ -2017,12 +2189,6 @@
         "label": "LOC",
         "start": 18,
         "end": 20
-      },
-      {
-        "text": "獨孤信于金墉城",
-        "label": "LOC",
-        "start": 28,
-        "end": 35
       }
     ]
   },
@@ -2061,7 +2227,14 @@
   {
     "sentence_id": "HCH_003_053_000226",
     "sentence": "恆從斛律光征討，數有戰功。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000227",
@@ -2278,12 +2451,26 @@
   {
     "sentence_id": "HCH_003_053_000250",
     "sentence": "張保洛",
-    "entities": []
+    "entities": [
+      {
+        "text": "張保洛",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000251",
     "sentence": "張保洛，自雲本出南陽西鄂，家世好賓客，尚氣俠，頗為北土所知。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張保洛",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000252",
@@ -3022,12 +3209,26 @@
   {
     "sentence_id": "HCH_003_053_000313",
     "sentence": "薛孤延",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛孤延",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000314",
     "sentence": "薛孤延，代人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛孤延",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000315",
@@ -3121,12 +3322,26 @@
   {
     "sentence_id": "HCH_003_053_000330",
     "sentence": "斛律羌舉",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律羌舉",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000331",
     "sentence": "斛律羌舉，太安人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律羌舉",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000332",
@@ -3227,7 +3442,14 @@
   {
     "sentence_id": "HCH_003_053_000346",
     "sentence": "時政由群豎，自趙彥深死後，朝貴典機密者，唯孝卿一人差居雅道，不至貪穢。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000347",
@@ -3625,6 +3847,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -3793,12 +4021,26 @@
   {
     "sentence_id": "HCH_003_053_000400",
     "sentence": "慕容紹宗",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000401",
     "sentence": "慕容紹宗，字紹宗，晃第四子太原王恪之後也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000402",
@@ -4871,6 +5113,12 @@
         "end": 38
       },
       {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 61,
+        "end": 64
+      },
+      {
         "text": "以修義行晉州",
         "label": "LOC",
         "start": 91,
@@ -5039,12 +5287,26 @@
   {
     "sentence_id": "HCH_003_053_000515",
     "sentence": "慕容儼",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容儼",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000516",
     "sentence": "慕容儼，字恃德，清都人，廆之後也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容儼",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000517",
@@ -5170,6 +5432,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "陸法和",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "同宋茝等以郢州",
@@ -5300,7 +5568,14 @@
   {
     "sentence_id": "HCH_003_053_000543",
     "sentence": "後蕭方智立，請和。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭方智",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000544",
@@ -5773,12 +6048,6 @@
     "sentence_id": "HCH_003_053_000596",
     "sentence": "周文東至崤、陝，遣其行台侯莫陳崇齊子嶺趣軹關；儀同楊舣從鼓鐘道出建州，陷孤公戍。",
     "entities": [
-      {
-        "text": "崇齊子嶺趣軹關",
-        "label": "LOC",
-        "start": 15,
-        "end": 22
-      },
       {
         "text": "從鼓鐘道出建州",
         "label": "LOC",
@@ -6341,12 +6610,26 @@
   {
     "sentence_id": "HCH_003_053_000654",
     "sentence": "皮景和",
-    "entities": []
+    "entities": [
+      {
+        "text": "皮景和",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000655",
     "sentence": "皮景和，琅邪下邳人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皮景和",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000656",
@@ -6504,7 +6787,14 @@
   {
     "sentence_id": "HCH_003_053_000676",
     "sentence": "陳將吳明徹寇淮南，令景和拒之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000677",
@@ -6565,7 +6855,14 @@
   {
     "sentence_id": "HCH_003_053_000684",
     "sentence": "及吳明徹圍壽陽，敕景和與賀拔伏恩救之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000685",
@@ -6748,7 +7045,14 @@
   {
     "sentence_id": "HCH_003_053_000707",
     "sentence": "兆敗，猛與斛律羌舉、乞伏貴和逃亡。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律羌舉",
+        "label": "PER",
+        "start": 5,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000708",
@@ -6879,7 +7183,14 @@
   {
     "sentence_id": "HCH_003_053_000724",
     "sentence": "趙彥深以猛武將之中，頗疾奸佞，言議時有可采，故引知機事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000725",
@@ -7140,7 +7451,20 @@
   {
     "sentence_id": "HCH_003_053_000751",
     "sentence": "景安妙閑馳騁，有容則，每梁使至，恆與斛律光、皮景和等對客騎射，見者稱善。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "皮景和",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000752",
@@ -7398,12 +7722,26 @@
   {
     "sentence_id": "HCH_003_053_000779",
     "sentence": "獨孤永業",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤永業",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000780",
     "sentence": "獨孤永業，字世基。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤永業",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000781",
@@ -7463,7 +7801,14 @@
   {
     "sentence_id": "HCH_003_053_000788",
     "sentence": "斛律光求二婢，弗得，毀之於朝廷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000789",
@@ -7840,6 +8185,12 @@
         "end": 4
       },
       {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 20,
@@ -7980,7 +8331,14 @@
   {
     "sentence_id": "HCH_003_053_000841",
     "sentence": "顏之推重其勤學，甚加開獎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000842",
@@ -8124,7 +8482,14 @@
   {
     "sentence_id": "HCH_003_053_000859",
     "sentence": "至潞河，知周將宇文神舉屠范陽，還據黃龍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文神舉",
+        "label": "PER",
+        "start": 7,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000860",
@@ -8171,7 +8536,32 @@
   {
     "sentence_id": "HCH_003_053_000867",
     "sentence": "韓賢、尉長命、王懷、任祥、莫多婁貸文、厙狄回洛，厙狄盛、張保洛、侯莫陳相、薛孤延、斛律羌舉、張瓊、宋顯、王則等，並運屬時來。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉長命",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "張保洛",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
+        "text": "薛孤延",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      },
+      {
+        "text": "斛律羌舉",
+        "label": "PER",
+        "start": 41,
+        "end": 45
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000868",
@@ -8186,7 +8576,14 @@
   {
     "sentence_id": "HCH_003_053_000870",
     "sentence": "慕容紹宗兵機武略，在世見重，昔事爾硃，固執忠義，不用范曾之言，終見烏江之禍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000871",
@@ -8206,7 +8603,20 @@
   {
     "sentence_id": "HCH_003_053_000874",
     "sentence": "叱列平、步大汗薩、薛脩義、慕容儼、潘樂、彭樂、暴顯、皮景和、綦連猛、元景安等，策名戎幕，備開夷險，位高任重，咸遂本誠。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容儼",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "皮景和",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_053_000875",

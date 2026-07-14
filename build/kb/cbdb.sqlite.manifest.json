@@ -1,0 +1,18 @@
+{
+  "file_sha256": "97abb9454ca6a36acffdcfa912dfd1633a89ffde6f879a3ecd0211775c260c0a",
+  "file_size": 79863808,
+  "license": "cc-by-nc-sa-4.0",
+  "name": "cbdb",
+  "row_counts": {
+    "alias_allowed_type": 138074,
+    "alias_names": 133167,
+    "alias_total": 207624,
+    "blocked_nonperson": 1042,
+    "person_kept": 603906,
+    "person_total": 659699,
+    "primary_names": 603906,
+    "unique_names": 495354
+  },
+  "source_url": "https://huggingface.co/datasets/cbdb/cbdb-sqlite/resolve/main/history/cbdb_202607/cbdb_20260704.zip",
+  "version": "2026.07.04"
+}

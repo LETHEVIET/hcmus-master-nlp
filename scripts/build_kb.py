@@ -48,6 +48,17 @@ def cmd_ingest_seed(args: argparse.Namespace) -> None:
 
 def cmd_ingest_cbdb(args: argparse.Namespace) -> None:
     from hcmus_nlp.kb.cbdb import build_cbdb_cache
+    from hcmus_nlp.kb.manifest import sha256_of_file
+
+    if args.min_name_length < 2 or args.max_name_length < args.min_name_length:
+        raise SystemExit("CBDB name lengths require 2 <= min <= max")
+    if args.expected_sha256:
+        actual_sha256, _size = sha256_of_file(args.input)
+        if actual_sha256 != args.expected_sha256:
+            raise SystemExit(
+                "CBDB source SHA-256 mismatch: "
+                f"expected {args.expected_sha256}, got {actual_sha256}"
+            )
 
     cache = KB_CACHE_DIR / "cbdb.sqlite"
     manifest = build_cbdb_cache(
@@ -56,6 +67,8 @@ def cmd_ingest_cbdb(args: argparse.Namespace) -> None:
         version=args.version,
         source_url=args.source_url,
         license=args.license or "cc-by-nc-sa-4.0",
+        min_len=args.min_name_length,
+        max_len=args.max_name_length,
     )
     print(f"Wrote {cache}")
     print(f"SHA-256: {manifest.file_sha256}")
@@ -96,6 +109,9 @@ def main() -> None:
     p_cbdb.add_argument("--version", required=True)
     p_cbdb.add_argument("--source-url", default=None)
     p_cbdb.add_argument("--license", default="cc-by-nc-sa-4.0")
+    p_cbdb.add_argument("--expected-sha256", default=None)
+    p_cbdb.add_argument("--min-name-length", type=int, default=2)
+    p_cbdb.add_argument("--max-name-length", type=int, default=6)
 
     p_chgis = sub.add_parser("ingest-chgis", help="Ingest CHGIS CSV")
     p_chgis.add_argument("--input", type=Path, required=True)

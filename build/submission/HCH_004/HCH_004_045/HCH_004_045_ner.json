@@ -142,7 +142,14 @@
   {
     "sentence_id": "HCH_004_045_000025",
     "sentence": "其李廣、樊遜、李德林、盧詢祖、盧思道始以文章著名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_045_000026",
@@ -170,6 +177,12 @@
     "sentence_id": "HCH_004_045_000029",
     "sentence": "及在武平，李若、荀士遜、李德林、薛道衡為中書侍郎，諸軍國文書及大詔誥俱是德林之筆，道衡諸人皆不預也。",
     "entities": [
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
       {
         "text": "侍郎",
         "label": "TITLE",
@@ -203,6 +216,12 @@
         "label": "LOC",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -238,6 +257,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -250,6 +275,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "韋道遜",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "太子",
@@ -294,10 +325,22 @@
     "sentence": "復令散騎常侍封孝琰、前樂陵太守鄭元禮、衛尉少卿杜臺卿、通直散騎常侍王訓、前南兗州長史羊肅、通直散騎常侍馬元熙、幷省三公郎中劉瑉、開府行參軍李師上、溫君悠入館，亦令撰書。",
     "entities": [
       {
+        "text": "封孝琰",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "太守",
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "鄭元禮",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       },
       {
         "text": "前南兗州",
@@ -328,6 +371,12 @@
         "label": "TITLE",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -416,7 +465,14 @@
   {
     "sentence_id": "HCH_004_045_000043",
     "sentence": "其外如廣平宋孝王、信都劉善經輩三數人，論其才性，入館諸賢亦十三四不逮之也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋孝王",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_045_000044",
@@ -514,12 +570,6 @@
         "label": "LOC",
         "start": 0,
         "end": 7
-      },
-      {
-        "text": "盧文符並為州",
-        "label": "LOC",
-        "start": 7,
-        "end": 13
       }
     ]
   },
@@ -536,7 +586,14 @@
   {
     "sentence_id": "HCH_004_045_000055",
     "sentence": "永安初，元羅為東道大使，署封隆之、邢邵、李渾、李象、鴻勳並為子使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "封隆之",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_045_000056",
@@ -920,7 +977,14 @@
   {
     "sentence_id": "HCH_004_045_000106",
     "sentence": "曾薦畢義雲於崔暹，廣卒後，義雲集其文筆十卷，托魏收為之敘。",
-    "entities": []
+    "entities": [
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_045_000107",
@@ -995,7 +1059,14 @@
   {
     "sentence_id": "HCH_004_045_000117",
     "sentence": "鑒大加賞重，擢為主簿，仍薦之於右僕射崔暹，與遼東李廣、渤海封孝琰等為暹賓客。",
-    "entities": []
+    "entities": [
+      {
+        "text": "封孝琰",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_045_000118",
@@ -2253,6 +2324,12 @@
     "sentence": "肅宗崩，從世祖赴晉陽，除散騎侍郎，兼儀曹郎中。",
     "entities": [
       {
+        "text": "從世祖",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 14,
@@ -2370,7 +2447,14 @@
   {
     "sentence_id": "HCH_004_045_000280",
     "sentence": "珽之將免趙彥深等也，先以告逖，仍付密啟，令其奏聞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_045_000281",
@@ -2614,12 +2698,26 @@
   {
     "sentence_id": "HCH_004_045_000310",
     "sentence": "顏之推",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_045_000311",
     "sentence": "顏之推，字介，瑯邪臨沂人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_045_000312",
@@ -3386,6 +3484,12 @@
         "end": 7
       },
       {
+        "text": "徐文盛",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "萬人屯武昌蘆州",
         "label": "LOC",
         "start": 12,
@@ -3515,12 +3619,6 @@
         "label": "LOC",
         "start": 1,
         "end": 6
-      },
-      {
-        "text": "王僧辯據巴陵城",
-        "label": "LOC",
-        "start": 24,
-        "end": 31
       }
     ]
   },
@@ -3533,6 +3631,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "陸法和",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -3738,6 +3842,18 @@
         "label": "TITLE",
         "start": 91,
         "end": 93
+      },
+      {
+        "text": "顏之推",
+        "label": "PER",
+        "start": 100,
+        "end": 103
+      },
+      {
+        "text": "殷不害",
+        "label": "PER",
+        "start": 117,
+        "end": 120
       },
       {
         "text": "御史",
@@ -4342,12 +4458,26 @@
   {
     "sentence_id": "HCH_004_045_000508",
     "sentence": "韋道遜，京兆杜陵人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋道遜",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_045_000509",
     "sentence": "曾祖肅，隨劉義真渡江。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉義真",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_045_000510",

@@ -65,6 +65,12 @@
         "end": 15
       },
       {
+        "text": "安重榮",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
         "text": "乃移鎮",
         "label": "LOC",
         "start": 22,
@@ -134,6 +140,18 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 17,
+        "end": 21
       }
     ]
   },
@@ -193,6 +211,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -302,6 +326,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -320,6 +350,18 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -423,6 +465,12 @@
         "end": 4
       },
       {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "解陽城",
         "label": "LOC",
         "start": 15,
@@ -445,14 +493,7 @@
   {
     "sentence_id": "HCH_007_095_000042",
     "sentence": "十一月，從杜重威收瀛州，聞契丹大至，重威率諸軍沿滹水而西，將保常山，及至中渡橋，契丹已屯於北岸。",
-    "entities": [
-      {
-        "text": "從杜重威收瀛州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_095_000043",
@@ -480,7 +521,14 @@
   {
     "sentence_id": "HCH_007_095_000045",
     "sentence": "清知勢蹙，謂重威曰：「軍去常山五里，守株於此，營孤食盡，將若之何！請以步兵二千為前鋒，奪橋開路，公可率諸軍繼之，期入常山，必濟矣。」重威可之，遣宋彥筠俱行。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋彥筠",
+        "label": "PER",
+        "start": 72,
+        "end": 75
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_095_000046",
@@ -641,6 +689,12 @@
         "label": "LOC",
         "start": 3,
         "end": 10
+      },
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       },
       {
         "text": "遣收淤口關",
@@ -951,7 +1005,14 @@
   {
     "sentence_id": "HCH_007_095_000090",
     "sentence": "初事梁將戴思遠為步校。",
-    "entities": []
+    "entities": [
+      {
+        "text": "戴思遠",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_095_000091",
@@ -1186,6 +1247,12 @@
     "sentence": "既而襄陽安從進遣行軍司馬張朏，會復州兵於要路以僥之，李金全承詔繼至，暉遂掠城中財帛士女，欲奔江南，尋為其下所殺。",
     "entities": [
       {
+        "text": "安從進",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 10,
@@ -1196,6 +1263,12 @@
         "label": "LOC",
         "start": 15,
         "end": 18
+      },
+      {
+        "text": "李金全",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       },
       {
         "text": "暉遂掠城",
@@ -1750,18 +1823,6 @@
         "label": "TME",
         "start": 2,
         "end": 4
-      },
-      {
-        "text": "杜重威討鎮州",
-        "label": "LOC",
-        "start": 6,
-        "end": 12
-      },
-      {
-        "text": "重榮大戰於宗城",
-        "label": "LOC",
-        "start": 15,
-        "end": 22
       },
       {
         "text": "以功遷洺州",

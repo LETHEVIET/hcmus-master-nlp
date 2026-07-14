@@ -130,7 +130,14 @@
   {
     "sentence_id": "HCH_007_027_000015",
     "sentence": "及安塞不利之後，時事多難，梁將氏叔琮、康懷英頻犯郊圻，土疆日蹙，城門之外，鞠為戰場，武皇憂形於色。",
-    "entities": []
+    "entities": [
+      {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_027_000016",
@@ -182,6 +189,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -206,7 +219,14 @@
   {
     "sentence_id": "HCH_007_027_000021",
     "sentence": "帝方居喪，將吏不得謁見，監軍使張承業排闥至廬所，言曰：「夫孝在不墜家業，不同匹夫之孝。且君父厭世，嗣主未立，竊慮凶猾不逞之徒，有懷覬望。又汴寇壓境，利我凶衰，苟或搖動，則倍張賊勢，訛言不息，懼有變生。請依顧命，墨縗聽政，保家安親，此惟大孝。」帝於是始聽斷大事，",
-    "entities": []
+    "entities": [
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_027_000022",
@@ -237,6 +257,12 @@
     "sentence_id": "HCH_007_027_000027",
     "sentence": "存顥欲於克寧之第謀害張承業、李存璋等，以並、汾九州歸附於梁，送貞簡太后為質。",
     "entities": [
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "汾九州",
         "label": "LOC",
@@ -276,7 +302,14 @@
   {
     "sentence_id": "HCH_007_027_000031",
     "sentence": "帝謂張承業曰：「季父所為如此，無猶子之情，骨肉不可自相魚肉，予當避路，則禍亂不作矣！」承業曰：「臣受命先王，言猶在耳。存顥輩欲以太原降賊，王欲何路求生？不即誅除，亡無日矣。」因召吳珙、李存璋、李存敬、朱守殷諭其謀，眾鹹憤怒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_027_000032",
@@ -314,6 +347,18 @@
         "label": "LOC",
         "start": 4,
         "end": 11
+      },
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "牛存節",
+        "label": "PER",
+        "start": 37,
+        "end": 40
       }
     ]
   },
@@ -385,6 +430,12 @@
     "sentence": "時李嗣源總帳下親軍攻東北隅；李存璋、王霸率丁夫燒寨，劚夾城為二道；周德威、李存審各分道進攻，軍士鼓噪，三道齊進。",
     "entities": [
       {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "劚夾城",
         "label": "LOC",
         "start": 26,
@@ -395,19 +446,18 @@
   {
     "sentence_id": "HCH_007_027_000045",
     "sentence": "李嗣源壞夾城東北隅，率先掩擊，梁軍大恐，南向而奔，投戈委甲，噎塞行路，斬萬餘級，獲其將副招討使符道昭洎大將三百人，芻粟百萬。",
-    "entities": [
-      {
-        "text": "李嗣源壞夾城",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_027_000046",
     "sentence": "梁招討使康懷英得百餘騎，出天井關而遁。",
     "entities": [
+      {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "出天井關",
         "label": "LOC",
@@ -473,7 +523,14 @@
   {
     "sentence_id": "HCH_007_027_000051",
     "sentence": "梁將劉知俊自晉、絳將兵赴援，德威退保高平。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_027_000052",
@@ -501,10 +558,22 @@
         "end": 11
       },
       {
+        "text": "楊崇本",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "長安",
         "label": "LOC",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       }
     ]
   },
@@ -558,6 +627,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       },
       {
         "text": "兼收關",
@@ -635,6 +710,12 @@
         "label": "LOC",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "楊崇本",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -642,6 +723,12 @@
     "sentence_id": "HCH_007_027_000064",
     "sentence": "且言劉知俊三敗汴軍於寧州，靈、夏危蹙，岐、隴之師大舉，決取河西。",
     "entities": [
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "三敗汴軍於寧州",
         "label": "LOC",
@@ -658,7 +745,14 @@
   {
     "sentence_id": "HCH_007_027_000066",
     "sentence": "是役也，劉知俊為岐人所構，乃自退。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_027_000067",
@@ -693,6 +787,12 @@
     "sentence_id": "HCH_007_027_000070",
     "sentence": "是時，梁祖以羅紹威初卒，全有魏博之地，因欲兼並鎮、定，遣供奉官杜廷隱、丁延徽督魏軍三千人入於深、冀，鎮人懼，故來告難。",
     "entities": [
+      {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "因欲兼並鎮",
         "label": "LOC",
@@ -745,6 +845,12 @@
         "label": "LOC",
         "start": 51,
         "end": 54
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 66,
+        "end": 69
       }
     ]
   },
@@ -781,14 +887,7 @@
   {
     "sentence_id": "HCH_007_027_000076",
     "sentence": "帝令史建瑭以輕騎嘗寇，獲芻牧者二百人，問其兵數，精兵七萬。",
-    "entities": [
-      {
-        "text": "令史",
-        "label": "TITLE",
-        "start": 1,
-        "end": 3
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_027_000077",
@@ -804,6 +903,12 @@
         "label": "LOC",
         "start": 6,
         "end": 9
+      },
+      {
+        "text": "史建瑭",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -876,6 +981,12 @@
         "end": 4
       },
       {
+        "text": "史建瑭",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "千騎致師於柏鄉",
         "label": "LOC",
         "start": 18,
@@ -903,7 +1014,14 @@
   {
     "sentence_id": "HCH_007_027_000088",
     "sentence": "帝與張承業登高觀望，梁人戈矛如束，申令之後，囂聲若雷，王師進退有序，步騎嚴整，寂然無聲。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_027_000089",
@@ -923,7 +1041,20 @@
   {
     "sentence_id": "HCH_007_027_000092",
     "sentence": "李嗣源率親軍與史建瑭、安金全兼北部吐渾諸軍衝陣夾攻，梁軍大敗，棄鎧投仗之聲，震動天地，龍驤、神威、神捷諸軍，殺戮殆盡。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "史建瑭",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_027_000093",
@@ -1074,7 +1205,14 @@
   {
     "sentence_id": "HCH_007_027_000105",
     "sentence": "己亥，遣史建瑭、周德威徇地於邢、魏，先馳檄以諭之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史建瑭",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_027_000106",
@@ -1189,6 +1327,12 @@
     "sentence": "張承業、李存璋以三鎮步兵攻邢州，遣周德威、史建瑭將三千騎，長驅至澶魏，帝與李嗣源率親軍繼進。",
     "entities": [
       {
+        "text": "張承業",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "李存璋以三鎮",
         "label": "LOC",
         "start": 4,
@@ -1199,6 +1343,18 @@
         "label": "LOC",
         "start": 10,
         "end": 15
+      },
+      {
+        "text": "史建瑭",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 37,
+        "end": 40
       }
     ]
   },
@@ -1361,12 +1517,6 @@
     "sentence": "乙未，帝至晉陽宮，召監軍張承業諸將等議幽州之事，乃遣牙將戴漢超齎墨製並六鎮書，推劉守光為尚書令、尚父；守光由是凶熾日甚，遂邀六鎮奉冊。",
     "entities": [
       {
-        "text": "業諸將等議幽州",
-        "label": "LOC",
-        "start": 14,
-        "end": 21
-      },
-      {
         "text": "超齎墨製並六鎮",
         "label": "LOC",
         "start": 30,
@@ -1419,6 +1569,12 @@
         "label": "LOC",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 70,
+        "end": 73
       },
       {
         "text": "超持墨製及六鎮",
@@ -1536,6 +1692,12 @@
     "sentence_id": "HCH_007_027_000134",
     "sentence": "十二月甲子，帝遣周德威、劉光浚、李嗣源及諸將率蕃漢之兵發晉陽，伐劉守光於幽州。",
     "entities": [
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
       {
         "text": "伐劉守光於幽州",
         "label": "LOC",

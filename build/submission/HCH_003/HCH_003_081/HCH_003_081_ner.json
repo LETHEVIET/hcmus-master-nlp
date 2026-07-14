@@ -642,7 +642,14 @@
   {
     "sentence_id": "HCH_003_081_000075",
     "sentence": "盧景宣學通群藝，修五禮之缺；長孫紹遠才稱洽聞，正六樂之壞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫紹遠",
+        "label": "PER",
+        "start": 14,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_081_000076",
@@ -1210,7 +1217,14 @@
   {
     "sentence_id": "HCH_003_081_000139",
     "sentence": "張買奴、馬敬德、邢峙、張思伯、張奉禮、張彫、劉晝、鮑長宣、王元則並得服氏之精微。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王元則",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_081_000140",
@@ -3358,7 +3372,14 @@
   {
     "sentence_id": "HCH_003_081_000376",
     "sentence": "行軍總管宇文述，召典軍書。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_081_000377",
@@ -3916,7 +3937,14 @@
   {
     "sentence_id": "HCH_003_081_000437",
     "sentence": "後為王遵業門客。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王遵業",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_081_000438",
@@ -4640,7 +4668,14 @@
   {
     "sentence_id": "HCH_003_081_000505",
     "sentence": "時中山石曜、北平陽絢、北海王晞、清河崔瞻、廣平宋欽道及工書人韓毅同在東館，師友諸王。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_081_000506",
@@ -5476,7 +5511,14 @@
   {
     "sentence_id": "HCH_003_081_000589",
     "sentence": "齊武成為後主擇師傅，趙彥深進之，入為侍講。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_081_000590",
@@ -5535,6 +5577,12 @@
     "sentence_id": "HCH_003_081_000594",
     "sentence": "其後，侍書張景仁封王，趙彥深云：「何容侍書封王，侍講翻無封爵？」亦追封敬德廣漢郡王，令子元熙襲。",
     "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "追封敬德廣漢郡",
         "label": "LOC",
@@ -6185,7 +6233,14 @@
   {
     "sentence_id": "HCH_003_081_000681",
     "sentence": "故護軍長史王元則時為書生，停其宅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王元則",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_081_000682",
@@ -6320,7 +6375,14 @@
   {
     "sentence_id": "HCH_003_081_000696",
     "sentence": "時穆提婆、韓長鸞與洪珍同侍帷幄，知雕武為洪珍謀主，忌惡之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_081_000697",

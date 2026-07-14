@@ -56,12 +56,25 @@
   {
     "sentence_id": "HCH_008_188_000009",
     "sentence": "李知本",
-    "entities": []
+    "entities": [
+      {
+        "text": "李知本",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_188_000010",
     "sentence": "李知本，趙州元氏人，後魏洛州刺史靈六世孫也。",
     "entities": [
+      {
+        "text": "李知本",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "趙州",
         "label": "LOC",
@@ -197,7 +210,14 @@
   {
     "sentence_id": "HCH_008_188_000023",
     "sentence": "賊帥王君廓屢爲寇掠，聞其名，獨不犯其閭，鄰里賴之而免者百餘家。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王君廓",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_188_000024",
@@ -306,10 +326,10 @@
         "end": 4
       },
       {
-        "text": "深州",
-        "label": "LOC",
-        "start": 6,
-        "end": 8
+        "text": "楊弘業",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -765,6 +785,12 @@
     "sentence_id": "HCH_008_188_000098",
     "sentence": "初，與秘書丞令狐德棻、齊王文學袁朗等十數人同修《藝文類聚》，轉太子舍人。",
     "entities": [
+      {
+        "text": "令狐德棻",
+        "label": "PER",
+        "start": 6,
+        "end": 10
+      },
       {
         "text": "《藝文類聚》",
         "label": "TITLE",
@@ -1232,12 +1258,25 @@
   {
     "sentence_id": "HCH_008_188_000155",
     "sentence": "裴守真",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴守真",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_188_000156",
     "sentence": "裴守真，絳州稷山人也。",
     "entities": [
+      {
+        "text": "裴守真",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "絳州",
         "label": "LOC",
@@ -1491,6 +1530,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "韋叔夏",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -1589,7 +1634,14 @@
   {
     "sentence_id": "HCH_008_188_000196",
     "sentence": "時同列李朝隱、程行諶皆以文法著稱，子餘獨以詞學知名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李朝隱",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_188_000197",
@@ -1600,6 +1652,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "陳崇業",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "御史",
@@ -1624,6 +1682,12 @@
         "label": "ORG",
         "start": 7,
         "end": 8
+      },
+      {
+        "text": "趙履溫",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -1635,7 +1699,14 @@
   {
     "sentence_id": "HCH_008_188_000200",
     "sentence": "時履溫依附宗楚客等，與子餘廷對曲直。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宗楚客",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_188_000201",
@@ -1713,12 +1784,25 @@
   {
     "sentence_id": "HCH_008_188_000209",
     "sentence": "李日知",
-    "entities": []
+    "entities": [
+      {
+        "text": "李日知",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_188_000210",
     "sentence": "李日知，鄭州滎陽人也。",
     "entities": [
+      {
+        "text": "李日知",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "鄭州",
         "label": "LOC",
@@ -1745,7 +1829,14 @@
   {
     "sentence_id": "HCH_008_188_000214",
     "sentence": "嘗免一死囚，少卿胡元禮請斷殺之，與日知往復至於數四。",
-    "entities": []
+    "entities": [
+      {
+        "text": "胡元禮",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_188_000215",
@@ -1811,6 +1902,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "路敬潛",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2048,6 +2145,18 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "宋宣遠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "盧懷慎",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -2508,6 +2617,12 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "盧履冰",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -2534,7 +2649,14 @@
   {
     "sentence_id": "HCH_008_188_000322",
     "sentence": "時職方郎中韋述、戸部郎中楊伯成、禮部員外郎楊沖昌、監門兵曹劉秩等，亦建議與沔相符。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊伯成",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_188_000323",
@@ -2572,12 +2694,25 @@
   {
     "sentence_id": "HCH_008_188_000327",
     "sentence": "陸南金",
-    "entities": []
+    "entities": [
+      {
+        "text": "陸南金",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_188_000328",
     "sentence": "陸南金，蘇州呉郡人也。",
     "entities": [
+      {
+        "text": "陸南金",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "蘇州呉郡",
         "label": "LOC",
@@ -2671,6 +2806,12 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "盧崇道",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2901,12 +3042,32 @@
   {
     "sentence_id": "HCH_008_188_000363",
     "sentence": "中書令張九齡又欲活之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張九齡",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_188_000364",
     "sentence": "裴耀卿、李林甫固言：「國法不可縱報仇。」上以爲然，因謂九齡等曰：「復仇雖禮法所許，殺人亦格律具存。孝子之情，義不顧命，國家設法，焉得容此！殺之成復仇之志，赦之虧律格之條。然道路誼議，故須告示。」乃下敕曰：「張瑝等兄弟同殺，推問款承。律有正條，俱各至死。近聞士庶，頗有誼詞，矜其爲父復仇，或言本罪冤濫。但國家設法，事在經久，蓋以濟人，期於止殺。各申爲子之志，誰非徇孝之夫，展轉相繼，相殺何限！咎由作士，法在必行；曾參殺人，亦不可恕。不能加以刑戮，肆諸市朝，宜付河南府告示決殺。」",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴耀卿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_188_000365",
@@ -2931,7 +3092,14 @@
   {
     "sentence_id": "HCH_008_188_000369",
     "sentence": "梁文貞 〈 附 李處恭、張義貞、呂元簡 〉",
-    "entities": []
+    "entities": [
+      {
+        "text": "李處恭",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_188_000370",
@@ -3022,6 +3190,12 @@
         "end": 6
       },
       {
+        "text": "許景先",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 39,
@@ -3034,10 +3208,22 @@
         "end": 43
       },
       {
+        "text": "崔隱甫",
+        "label": "PER",
+        "start": 43,
+        "end": 46
+      },
+      {
         "text": "恆州",
         "label": "LOC",
         "start": 50,
         "end": 52
+      },
+      {
+        "text": "李處恭",
+        "label": "PER",
+        "start": 55,
+        "end": 58
       },
       {
         "text": "又青州",
@@ -3165,6 +3351,12 @@
     "sentence": "時裴延齡領度支，方務聚斂，乃紿衍以前後刺史無言者。",
     "entities": [
       {
+        "text": "裴延齡",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "刺史",
         "label": "TITLE",
         "start": 19,
@@ -3291,12 +3483,25 @@
   {
     "sentence_id": "HCH_008_188_000406",
     "sentence": "丁公著",
-    "entities": []
+    "entities": [
+      {
+        "text": "丁公著",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_188_000407",
     "sentence": "丁公著，字平子，蘇州呉郡人。",
     "entities": [
+      {
+        "text": "丁公著",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "蘇州呉郡",
         "label": "LOC",
@@ -3368,6 +3573,12 @@
     "sentence_id": "HCH_008_188_000417",
     "sentence": "淮南節度使李吉甫慕其才行，薦授太子文學，兼集賢殿校理。",
     "entities": [
+      {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "太子",
         "label": "TITLE",

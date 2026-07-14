@@ -853,7 +853,14 @@
   {
     "sentence_id": "HCH_004_015_000103",
     "sentence": "初，定遠弟季略，穆提婆求其伎妾，定遠不許。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_015_000104",
@@ -1024,6 +1031,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "宋仲羨",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -1276,7 +1289,14 @@
   {
     "sentence_id": "HCH_004_015_000150",
     "sentence": "會詣京師，魏譙王元孝友於公門言戲過度，諸公無能面折者，干正色責之，孝友大慚，時人稱之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "元孝友",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_015_000151",
@@ -1518,6 +1538,12 @@
         "label": "ORG",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "長孫覽",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -2005,6 +2031,12 @@
     "sentence_id": "HCH_004_015_000232",
     "sentence": "周文東至崤、陜，遣其行臺侯莫陳崇自齊子嶺趣軹關，儀同楊檦從鼓鐘道出建州，陷孤公戍。",
     "entities": [
+      {
+        "text": "侯莫陳崇",
+        "label": "PER",
+        "start": 12,
+        "end": 16
+      },
       {
         "text": "自齊子嶺趣軹關",
         "label": "LOC",

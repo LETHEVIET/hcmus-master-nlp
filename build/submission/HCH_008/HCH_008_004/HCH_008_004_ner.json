@@ -111,6 +111,18 @@
         "end": 7
       },
       {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 22,
+        "end": 26
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 42,
@@ -234,6 +246,12 @@
         "end": 35
       },
       {
+        "text": "張行成",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 49,
@@ -274,6 +292,12 @@
         "label": "LOC",
         "start": 91,
         "end": 94
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 95,
+        "end": 98
       },
       {
         "text": "尚書",
@@ -714,12 +738,6 @@
         "end": 13
       },
       {
-        "text": "褚遂良左授同州",
-        "label": "LOC",
-        "start": 14,
-        "end": 21
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 21,
@@ -803,6 +821,12 @@
         "end": 149
       },
       {
+        "text": "宇文節",
+        "label": "PER",
+        "start": 150,
+        "end": 153
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 158,
@@ -877,6 +901,12 @@
         "label": "TITLE",
         "start": 31,
         "end": 34
+      },
+      {
+        "text": "契苾何力",
+        "label": "PER",
+        "start": 34,
+        "end": 38
       }
     ]
   },
@@ -906,6 +936,12 @@
         "label": "LOC",
         "start": 27,
         "end": 30
+      },
+      {
+        "text": "張行成",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       },
       {
         "text": "尚書",
@@ -1021,7 +1057,14 @@
   {
     "sentence_id": "HCH_008_004_000074",
     "sentence": "弓月道總管梁建方、契苾何力等大破處月硃耶孤注于牢山，斬首九千級，虜渠帥六千，俘生口萬餘，獲牛馬雜畜七萬。",
-    "entities": []
+    "entities": [
+      {
+        "text": "契苾何力",
+        "label": "PER",
+        "start": 9,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000075",
@@ -1049,6 +1092,12 @@
         "label": "LOC",
         "start": 8,
         "end": 11
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       },
       {
         "text": "尚書",
@@ -1083,6 +1132,12 @@
         "label": "LOC",
         "start": 10,
         "end": 13
+      },
+      {
+        "text": "宇文節",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "侍郎",
@@ -1150,6 +1205,12 @@
         "end": 33
       },
       {
+        "text": "豆盧毓",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 48,
@@ -1180,6 +1241,12 @@
         "end": 12
       },
       {
+        "text": "張行成",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 22,
@@ -1190,6 +1257,12 @@
         "label": "TITLE",
         "start": 33,
         "end": 35
+      },
+      {
+        "text": "宇文節",
+        "label": "PER",
+        "start": 40,
+        "end": 43
       },
       {
         "text": "太子",
@@ -1208,6 +1281,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "高履行",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1310,6 +1389,12 @@
         "end": 9
       },
       {
+        "text": "房遺愛",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "秦州",
         "label": "LOC",
         "start": 21,
@@ -1346,6 +1431,12 @@
         "end": 47
       },
       {
+        "text": "薛萬徹",
+        "label": "PER",
+        "start": 52,
+        "end": 55
+      },
+      {
         "text": "嵐州",
         "label": "LOC",
         "start": 56,
@@ -1356,6 +1447,12 @@
         "label": "TITLE",
         "start": 58,
         "end": 60
+      },
+      {
+        "text": "柴令武",
+        "label": "PER",
+        "start": 65,
+        "end": 68
       }
     ]
   },
@@ -1382,12 +1479,6 @@
         "end": 6
       },
       {
-        "text": "失思力配流巂州",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
-      },
-      {
         "text": "太子",
         "label": "TITLE",
         "start": 22,
@@ -1398,12 +1489,6 @@
         "label": "LOC",
         "start": 27,
         "end": 30
-      },
-      {
-        "text": "宇文節配流桂州",
-        "label": "LOC",
-        "start": 31,
-        "end": 38
       }
     ]
   },
@@ -1442,6 +1527,12 @@
     "sentence": "三月壬子朔，頒孔穎達《五經正義》於天下，每年明經令依此考試。",
     "entities": [
       {
+        "text": "孔穎達",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "《五經正義》",
         "label": "TITLE",
         "start": 10,
@@ -1452,7 +1543,14 @@
   {
     "sentence_id": "HCH_008_004_000100",
     "sentence": "丙辰，上御觀德殿，陳逆人房遺愛等口馬資財為五垛，引王公、諸親、蕃客及文武九品己上射。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房遺愛",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000101",
@@ -1498,6 +1596,12 @@
         "label": "LOC",
         "start": 11,
         "end": 14
+      },
+      {
+        "text": "張行成",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -1516,6 +1620,12 @@
         "label": "LOC",
         "start": 8,
         "end": 11
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       },
       {
         "text": "尚書",
@@ -1581,10 +1691,22 @@
         "end": 4
       },
       {
+        "text": "崔義玄",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "揚州",
         "label": "LOC",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "房仁裕",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -1603,6 +1725,12 @@
         "label": "LOC",
         "start": 11,
         "end": 14
+      },
+      {
+        "text": "崔敦禮",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -1674,6 +1802,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "閻立德",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "長安",
@@ -1915,6 +2049,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "程名振",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -1951,6 +2091,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 13
+      },
+      {
+        "text": "程知節",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       },
       {
         "text": "將軍",
@@ -2028,6 +2174,12 @@
         "label": "LOC",
         "start": 9,
         "end": 12
+      },
+      {
+        "text": "崔敦禮",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -2046,12 +2198,26 @@
   {
     "sentence_id": "HCH_008_004_000150",
     "sentence": "八月，尚藥奉御蔣孝璋員外特置，仍同正。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蔣孝璋",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000151",
     "sentence": "員外同正，自蔣孝璋始也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蔣孝璋",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000152",
@@ -2078,6 +2244,12 @@
         "label": "LOC",
         "start": 11,
         "end": 14
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       },
       {
         "text": "貶授潭州",
@@ -2162,6 +2334,12 @@
         "label": "LOC",
         "start": 17,
         "end": 20
+      },
+      {
+        "text": "武士彠",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -2203,6 +2381,12 @@
         "label": "LOC",
         "start": 10,
         "end": 13
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -2286,6 +2470,12 @@
         "end": 41
       },
       {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 41,
+        "end": 44
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 47,
@@ -2301,7 +2491,14 @@
   {
     "sentence_id": "HCH_008_004_000170",
     "sentence": "御玄武門，餞蔥山道大總管程知節。",
-    "entities": []
+    "entities": [
+      {
+        "text": "程知節",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000171",
@@ -2324,7 +2521,14 @@
   {
     "sentence_id": "HCH_008_004_000172",
     "sentence": "辛亥，贈司空武士彠為司徒、周國公。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武士彠",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000173",
@@ -2349,6 +2553,12 @@
         "end": 7
       },
       {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 14,
@@ -2366,6 +2576,12 @@
     "sentence": "五月己卯，太尉長孫無忌進史官所撰梁、陳、周、齊、隋《五代史志》三十卷。",
     "entities": [
       {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 7,
+        "end": 11
+      },
+      {
         "text": "《五代史志》",
         "label": "TITLE",
         "start": 25,
@@ -2377,6 +2593,12 @@
     "sentence_id": "HCH_008_004_000177",
     "sentence": "弘文館學士許敬宗進所撰《東殿新書》二百卷，上自製序。",
     "entities": [
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "《東殿新書》",
         "label": "TITLE",
@@ -2426,6 +2648,12 @@
         "end": 20
       },
       {
+        "text": "崔敦禮",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 25,
@@ -2466,6 +2694,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "崔敦禮",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2478,6 +2712,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 5
+      },
+      {
+        "text": "程知節",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -2588,6 +2828,12 @@
     "sentence": "程知節與賀魯男咥運戰，斬首數千級，進至怛篤城，俘其部落戶口及貨物巨積。",
     "entities": [
       {
+        "text": "程知節",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "進至怛篤城",
         "label": "LOC",
         "start": 17,
@@ -2614,6 +2860,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "程知節",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -2682,6 +2934,12 @@
         "end": 6
       },
       {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 11,
@@ -2729,6 +2987,12 @@
         "end": 9
       },
       {
+        "text": "李義府",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 19,
@@ -2745,6 +3009,12 @@
         "label": "TITLE",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       },
       {
         "text": "尚書",
@@ -2816,6 +3086,12 @@
         "label": "TITLE",
         "start": 50,
         "end": 52
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 54,
+        "end": 57
       }
     ]
   },
@@ -2834,6 +3110,12 @@
         "label": "LOC",
         "start": 5,
         "end": 8
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2846,6 +3128,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -3015,12 +3303,26 @@
   {
     "sentence_id": "HCH_008_004_000218",
     "sentence": "蘇定方攻破西突厥沙缽羅可汗賀魯及咥運、闕啜。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000219",
     "sentence": "賀魯走石國，副將蕭嗣業追擒之，收其人畜前後四十餘萬。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭嗣業",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000220",
@@ -3060,7 +3362,14 @@
   {
     "sentence_id": "HCH_008_004_000223",
     "sentence": "六月，程名振攻高麗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "程名振",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000224",
@@ -3108,12 +3417,6 @@
         "end": 28
       },
       {
-        "text": "李義府左授普州",
-        "label": "LOC",
-        "start": 29,
-        "end": 36
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 36,
@@ -3130,12 +3433,6 @@
         "label": "LOC",
         "start": 50,
         "end": 53
-      },
-      {
-        "text": "杜正倫左授橫州",
-        "label": "LOC",
-        "start": 54,
-        "end": 61
       },
       {
         "text": "刺史",
@@ -3156,6 +3453,12 @@
         "end": 4
       },
       {
+        "text": "李友益",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "配流巂州",
         "label": "LOC",
         "start": 10,
@@ -3166,7 +3469,14 @@
   {
     "sentence_id": "HCH_008_004_000228",
     "sentence": "戊戌，侍中許敬宗權檢校中書令。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000229",
@@ -3183,18 +3493,44 @@
         "label": "LOC",
         "start": 19,
         "end": 22
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "辛茂將",
+        "label": "PER",
+        "start": 41,
+        "end": 44
       }
     ]
   },
   {
     "sentence_id": "HCH_008_004_000230",
     "sentence": "鴻臚卿蕭嗣業於石國取賀魯至，獻於昭陵。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭嗣業",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000231",
     "sentence": "甲辰，開府儀同三司、鄂國公尉遲敬德薨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 13,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000232",
@@ -3217,6 +3553,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "張九齡",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
@@ -3229,6 +3571,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 10
+      },
+      {
+        "text": "契苾何力",
+        "label": "PER",
+        "start": 14,
+        "end": 18
       }
     ]
   },
@@ -3265,6 +3613,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "許圉師",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -3315,10 +3669,22 @@
         "end": 9
       },
       {
+        "text": "任雅相",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "盧承慶",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -3337,6 +3703,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "尚書",
@@ -3384,18 +3756,44 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "許圉師",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
   {
     "sentence_id": "HCH_008_004_000245",
     "sentence": "戊午，兼侍中辛茂將卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "辛茂將",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000246",
     "sentence": "癸亥，以邢國公蘇定方為神丘道總管，劉伯英為昆夷道總管。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "劉伯英",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000247",
@@ -3529,7 +3927,20 @@
   {
     "sentence_id": "HCH_008_004_000258",
     "sentence": "甲午，祠舊宅，以武士彠、殷開山、劉政會配食。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武士彠",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "劉政會",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000259",
@@ -3685,13 +4096,26 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "盧承慶",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
   {
     "sentence_id": "HCH_008_004_000274",
     "sentence": "八月庚辰，蘇定方等討平百濟，面縛其王扶餘義慈。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000275",
@@ -3717,6 +4141,12 @@
     "sentence_id": "HCH_008_004_000279",
     "sentence": "十一月戊戌朔，邢國公蘇定方獻百濟王扶餘義慈、太子隆等五十八人俘於則天門，責而宥之。",
     "entities": [
+      {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -3824,10 +4254,22 @@
         "end": 13
       },
       {
+        "text": "契苾何力",
+        "label": "PER",
+        "start": 17,
+        "end": 21
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 32,
         "end": 35
+      },
+      {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 39,
+        "end": 42
       },
       {
         "text": "尚書",
@@ -3840,6 +4282,12 @@
         "label": "LOC",
         "start": 63,
         "end": 66
+      },
+      {
+        "text": "任雅相",
+        "label": "PER",
+        "start": 67,
+        "end": 70
       }
     ]
   },
@@ -3864,6 +4312,12 @@
     "sentence_id": "HCH_008_004_000291",
     "sentence": "六月庚寅，中書令許敬宗等進《累璧》六百三十卷，目錄四卷。",
     "entities": [
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "《累璧》",
         "label": "TITLE",
@@ -3920,6 +4374,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "許圉師",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -4088,6 +4548,12 @@
         "label": "LOC",
         "start": 15,
         "end": 18
+      },
+      {
+        "text": "任雅相",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -4113,6 +4579,12 @@
     "sentence": "蘇定方破高麗於葦島，又進攻平壤城，不克而還。",
     "entities": [
       {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "又進攻平壤城",
         "label": "LOC",
         "start": 10,
@@ -4133,7 +4605,14 @@
   {
     "sentence_id": "HCH_008_004_000317",
     "sentence": "五月丙申，左侍極許圉師為左相。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許圉師",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000318",
@@ -4163,12 +4642,25 @@
   {
     "sentence_id": "HCH_008_004_000323",
     "sentence": "八月甲午，右相許敬宗乞骸骨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000324",
     "sentence": "壬寅，許敬宗為太子少師，同東西臺三品，仍知西臺事。",
     "entities": [
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -4180,7 +4672,14 @@
   {
     "sentence_id": "HCH_008_004_000325",
     "sentence": "九月，司禮少常伯孫茂道奏稱：「八品、九品舊令著青，亂紫，非卑品所服，望令著碧。」詔從之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孫茂道",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000326",
@@ -4197,6 +4696,12 @@
         "label": "LOC",
         "start": 9,
         "end": 12
+      },
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -4226,13 +4731,26 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "上官儀",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
   {
     "sentence_id": "HCH_008_004_000330",
     "sentence": "十一月辛未左相許圉師下獄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許圉師",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000331",
@@ -4320,7 +4838,14 @@
   {
     "sentence_id": "HCH_008_004_000335",
     "sentence": "左相許圉師解見任。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許圉師",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000336",
@@ -4349,13 +4874,26 @@
         "label": "TITLE",
         "start": 9,
         "end": 12
+      },
+      {
+        "text": "鄭仁泰",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
   {
     "sentence_id": "HCH_008_004_000338",
     "sentence": "乙丑，司列太常伯李義府為右相。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000339",
@@ -4419,12 +4957,6 @@
     "sentence": "二月，前左相許圉師左遷虔州刺史。",
     "entities": [
       {
-        "text": "許圉師左遷虔州",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 13,
@@ -4453,12 +4985,25 @@
   {
     "sentence_id": "HCH_008_004_000347",
     "sentence": "夏四月乙丑，右相李義府下獄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000348",
     "sentence": "戊子，李義府除名，配流巂州。",
     "entities": [
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "配流巂州",
         "label": "LOC",
@@ -4485,7 +5030,14 @@
   {
     "sentence_id": "HCH_008_004_000352",
     "sentence": "命司元太常伯竇德玄、司刑太常伯劉詳道等九人為持節大使，分行天下。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇德玄",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000353",
@@ -4668,6 +5220,18 @@
         "label": "LOC",
         "start": 18,
         "end": 21
+      },
+      {
+        "text": "劉祥道",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
+        "text": "竇德玄",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },
@@ -4710,6 +5274,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "上官儀",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -4727,6 +5297,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "劉祥道",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -4747,10 +5323,22 @@
         "end": 11
       },
       {
+        "text": "樂彥瑋",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "孫處約",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -4853,6 +5441,12 @@
         "label": "LOC",
         "start": 14,
         "end": 17
+      },
+      {
+        "text": "陸敦信",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -4865,6 +5459,18 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "孫處約",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "樂彥瑋",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -4872,6 +5478,12 @@
     "sentence_id": "HCH_008_004_000389",
     "sentence": "五月辛卯，以秘閣郎中李淳風造歷成，名《麟德歷》，頒之。",
     "entities": [
+      {
+        "text": "李淳風",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "《麟德歷》",
         "label": "TITLE",
@@ -4891,10 +5503,28 @@
         "end": 16
       },
       {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "嘉興縣",
         "label": "LOC",
         "start": 24,
         "end": 27
+      },
+      {
+        "text": "陸敦信",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
+        "text": "竇德玄",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       }
     ]
   },
@@ -4919,7 +5549,14 @@
   {
     "sentence_id": "HCH_008_004_000392",
     "sentence": "秋七月，鄧王元裕薨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王元裕",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_004_000393",
@@ -4930,6 +5567,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "劉祥道",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },

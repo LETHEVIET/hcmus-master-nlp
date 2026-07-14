@@ -35,7 +35,20 @@
   {
     "sentence_id": "HCH_008_146_000005",
     "sentence": "播溫敏，善與人交，李棲筠、常袞、崔祐甫皆引擢之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李棲筠",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "崔祐甫",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_146_000006",
@@ -188,6 +201,12 @@
     "sentence": "天寶末舉進士，為漸東觀察使薛兼訓從事，累至殿中侍御史。",
     "entities": [
       {
+        "text": "薛兼訓",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 24,
@@ -277,12 +296,25 @@
   {
     "sentence_id": "HCH_008_146_000025",
     "sentence": "李自良",
-    "entities": []
+    "entities": [
+      {
+        "text": "李自良",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_146_000026",
     "sentence": "李自良，兗州泗水人。",
     "entities": [
+      {
+        "text": "李自良",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "兗州",
         "label": "LOC",
@@ -294,12 +326,26 @@
   {
     "sentence_id": "HCH_008_146_000027",
     "sentence": "初，祿山之亂，自良從兗鄆節度使能元皓，以戰功累授右衛率。",
-    "entities": []
+    "entities": [
+      {
+        "text": "能元皓",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_146_000028",
     "sentence": "後從袁傪討袁晁陳莊賊，積功至試殿中監，隸浙江東道節度使薛兼訓。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛兼訓",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_146_000029",
@@ -321,7 +367,14 @@
   {
     "sentence_id": "HCH_008_146_000031",
     "sentence": "會回鶻入寇，防令大將焦伯瑜、杜榮國將兵擊之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "焦伯瑜",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_146_000032",
@@ -376,7 +429,14 @@
   {
     "sentence_id": "HCH_008_146_000037",
     "sentence": "及討李懷光於河中，自良專河東軍都將，前後戰績居多。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_146_000038",
@@ -538,7 +598,14 @@
   {
     "sentence_id": "HCH_008_146_000051",
     "sentence": "節度使李自良復奏為太原少尹、檢校庶子、兼中丞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李自良",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_146_000052",
@@ -643,7 +710,14 @@
   {
     "sentence_id": "HCH_008_146_000068",
     "sentence": "定遠馳至府門，召集將吏，於箱中陳敕牒官告二十余軸，示諸將曰：「有敕，令李景略知留後，遣説赴京，公等皆有恩命。」指箱中示之，諸將方拜抃，大將馬良輔呼而麾眾曰：「箱中皆監軍舊官告，非恩命也，不可受，但備急變爾。」定遠知事敗，走登乾陽樓，召其部下將卒，多不之應。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李景略",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_146_000069",
@@ -919,12 +993,6 @@
         "end": 4
       },
       {
-        "text": "楊惠琳叛於夏州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      },
-      {
         "text": "成都",
         "label": "LOC",
         "start": 17,
@@ -935,7 +1003,14 @@
   {
     "sentence_id": "HCH_008_146_000092",
     "sentence": "綬悉選精甲，付牙將李光顏兄弟，光顏累立戰功。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李光顏",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_146_000093",
@@ -1092,6 +1167,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "吳元濟",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -1209,6 +1290,12 @@
     "sentence": "及安祿山反，昕舉贊善大夫來瑱堪任將帥；思明之亂，瑱功居多。",
     "entities": [
       {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 10,
@@ -1219,7 +1306,14 @@
   {
     "sentence_id": "HCH_008_146_000122",
     "sentence": "累遷憲部員外郎，為副元帥哥舒翰掌書記。",
-    "entities": []
+    "entities": [
+      {
+        "text": "哥舒翰",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_146_000123",
@@ -1281,7 +1375,14 @@
   {
     "sentence_id": "HCH_008_146_000129",
     "sentence": "昕答曰：「國家自平寇難，賞功無絲毫之遺，況鄰國乎！且僕固懷恩，我之叛臣，乃者爾助為亂，聯西戎而犯郊畿；及吐蕃敗走，回紇悔懼，啟顙乞和。非大唐存念舊功，則當匹馬不得出塞矣！是回紇自絕，非我失信。」回紇慚退，加禮以歸，為常侍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "僕固懷恩",
+        "label": "PER",
+        "start": 26,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_146_000130",
@@ -1386,6 +1487,12 @@
     "sentence": "其年，杜鴻漸為河西節度，辟為從事，累授評事、御史。",
     "entities": [
       {
+        "text": "杜鴻漸",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 22,
@@ -1435,7 +1542,14 @@
   {
     "sentence_id": "HCH_008_146_000146",
     "sentence": "李棲筠承恩，眾望必為宰相，亞厚結之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李棲筠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_146_000147",
@@ -1568,7 +1682,14 @@
   {
     "sentence_id": "HCH_008_146_000157",
     "sentence": "時承陳少遊徵稅煩重，奢侈僭濫之後，又新遭王紹亂兵剽掠；淮南之人，望亞之至，革刬舊弊，冀以康寧。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳少遊",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_146_000158",
@@ -1817,7 +1938,20 @@
   {
     "sentence_id": "HCH_008_146_000182",
     "sentence": "初，大曆中，路嗣恭為江西觀察使，陷害判官李泌，將誅之；緯亦為路嗣恭判官，説諭救解，獲免。",
-    "entities": []
+    "entities": [
+      {
+        "text": "路嗣恭",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "路嗣恭",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_146_000183",
@@ -1917,12 +2051,25 @@
   {
     "sentence_id": "HCH_008_146_000189",
     "sentence": "李若初",
-    "entities": []
+    "entities": [
+      {
+        "text": "李若初",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_146_000190",
     "sentence": "李若初，趙郡人。",
     "entities": [
+      {
+        "text": "李若初",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "趙郡",
         "label": "LOC",
@@ -2203,6 +2350,12 @@
     "sentence_id": "HCH_008_146_000211",
     "sentence": "度支使第五琦署為河東租庸使，累授鳳翔少尹、度支郎中、兼御史中丞、轉運租庸糧料鹽鐵等使。",
     "entities": [
+      {
+        "text": "第五琦",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -2615,7 +2768,20 @@
   {
     "sentence_id": "HCH_008_146_000246",
     "sentence": "重交遊，尚然諾，與穆質、許孟容、李鄘、王仲舒為友，故時人稱楊、穆、許、李之友，仲舒以後進慕而入焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許孟容",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "王仲舒",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_146_000247",
@@ -2649,6 +2815,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "李夷簡",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       },
       {
         "text": "御史",
@@ -2903,7 +3075,14 @@
   {
     "sentence_id": "HCH_008_146_000270",
     "sentence": "杜兼，京兆人，貞觀中宰相杜正倫五代孫。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_146_000271",
@@ -3047,6 +3226,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "論惟明",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -3100,6 +3285,12 @@
         "label": "TITLE",
         "start": 24,
         "end": 26
+      },
+      {
+        "text": "劉公濟",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       },
       {
         "text": "以玢為坊州",

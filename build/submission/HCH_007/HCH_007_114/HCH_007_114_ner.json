@@ -233,6 +233,12 @@
         "label": "LOC",
         "start": 58,
         "end": 60
+      },
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 60,
+        "end": 64
       }
     ]
   },
@@ -442,12 +448,6 @@
     "sentence": "詔天雄軍節度使符彥卿領兵自磁州固鎮路赴潞州，以澶州節度使郭崇副之。",
     "entities": [
       {
-        "text": "彥卿領兵自磁州",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
-      },
-      {
         "text": "固鎮路赴潞州",
         "label": "LOC",
         "start": 15,
@@ -464,14 +464,7 @@
   {
     "sentence_id": "HCH_007_114_000039",
     "sentence": "詔河中節度使王彥超領兵取晉州路東向邀擊，以陜府節度使韓通為副。",
-    "entities": [
-      {
-        "text": "彥超領兵取晉州",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_114_000040",
@@ -482,6 +475,12 @@
         "label": "LOC",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "白重贊",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       },
       {
         "text": "鄭州",
@@ -604,10 +603,22 @@
     "sentence": "乃令侍衛馬步軍都虞候李重進、滑州節度使白重贊將左，居陣之西廂；侍衛馬軍都指揮使樊愛能、步軍都指揮使何徽將右，居陣之東廂；宣徽使向訓、鄭州防禦使史彥超，以精騎當其中；殿前都指揮使張永德以禁兵衛蹕。",
     "entities": [
       {
+        "text": "李重進",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "滑州",
         "label": "LOC",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "白重贊",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       },
       {
         "text": "鄭州",
@@ -642,7 +653,14 @@
   {
     "sentence_id": "HCH_007_114_000056",
     "sentence": "日暮，賊萬餘人阻澗而陣，會劉詞領兵至，與大軍迫之，賊軍又潰，臨陣斬賊大將張暉及偽樞密使王延嗣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王延嗣",
+        "label": "PER",
+        "start": 43,
+        "end": 46
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_114_000057",
@@ -792,12 +810,6 @@
     "sentence": "庚子，以侍衛馬步都虞候李重進為許州節度使，以宣徽南院使向訓為滑州節度使，以殿前都指揮使張永德為武信軍節度使，職並如故。",
     "entities": [
       {
-        "text": "候李重進為許州",
-        "label": "LOC",
-        "start": 10,
-        "end": 17
-      },
-      {
         "text": "院使向訓為滑州",
         "label": "LOC",
         "start": 25,
@@ -814,12 +826,6 @@
         "label": "LOC",
         "start": 0,
         "end": 3
-      },
-      {
-        "text": "使白重贊為鄜州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
       },
       {
         "text": "以鄭州",
@@ -844,12 +850,6 @@
         "label": "LOC",
         "start": 0,
         "end": 3
-      },
-      {
-        "text": "使藥元福為同州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
       },
       {
         "text": "使楊廷璋為晉州",
@@ -898,6 +898,12 @@
         "label": "LOC",
         "start": 143,
         "end": 150
+      },
+      {
+        "text": "韓令坤",
+        "label": "PER",
+        "start": 177,
+        "end": 180
       }
     ]
   },
@@ -906,10 +912,22 @@
     "sentence": "壬寅，以天雄軍節度使、衛王符彥卿為河東行營都部署，知太原行府事；以澶州節度使郭崇為行營副部署；以宣徽南院使向訓為行營兵馬都監；以侍衛都虞候李重進為行營都虞候。",
     "entities": [
       {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "以澶州",
         "label": "LOC",
         "start": 32,
         "end": 35
+      },
+      {
+        "text": "李重進",
+        "label": "PER",
+        "start": 69,
+        "end": 72
       }
     ]
   },
@@ -930,6 +948,12 @@
     "sentence": "詔河中節度使王彥超、陜府節度使韓通，率兵自陰地關討賊。",
     "entities": [
       {
+        "text": "王彥超",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "率兵自陰地關",
         "label": "LOC",
         "start": 18,
@@ -946,6 +970,12 @@
         "label": "LOC",
         "start": 15,
         "end": 18
+      },
+      {
+        "text": "白重贊",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -963,6 +993,12 @@
     "sentence_id": "HCH_007_114_000085",
     "sentence": "河中節度使王彥超奏，偽汾州防禦使董希顏以城歸順。",
     "entities": [
+      {
+        "text": "王彥超",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "偽汾州",
         "label": "LOC",
@@ -982,22 +1018,10 @@
     "sentence": "〈 （《宋史·王彥超傳》：彥超自陰地關與符彥卿會兵圍汾州，諸將請急攻，彥超曰：「城已危矣，旦暮將降，我士卒精銳，驅以先登，必死傷者眾，少待之。」翌日，州將董希顏果降。） 〉 丙辰，偽遼州刺史張漢超以城歸順。",
     "entities": [
       {
-        "text": "《宋史·王彥超傳》",
-        "label": "TITLE",
-        "start": 3,
-        "end": 12
-      },
-      {
         "text": "彥超自陰地關",
         "label": "LOC",
         "start": 13,
         "end": 19
-      },
-      {
-        "text": "彥卿會兵圍汾州",
-        "label": "LOC",
-        "start": 21,
-        "end": 28
       },
       {
         "text": "偽遼州",
@@ -1053,6 +1077,12 @@
     "sentence": "辛酉，符彥卿奏，嵐、憲二州歸順。",
     "entities": [
       {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "憲二州",
         "label": "LOC",
         "start": 10,
@@ -1077,6 +1107,12 @@
     "sentence": "王彥超奏，收下石州，獲偽刺史安彥進。",
     "entities": [
       {
+        "text": "王彥超",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "收下石州",
         "label": "LOC",
         "start": 5,
@@ -1094,12 +1130,6 @@
     "sentence_id": "HCH_007_114_000093",
     "sentence": "〈 （《宋史·王彥超傳》：引兵趣石州，彥超親鼓士乘城，躬冒矢石，數日下之，擒其守將安彥進獻行在。） 〉 癸亥，偽沁州刺史李廷誨以城歸順。",
     "entities": [
-      {
-        "text": "《宋史·王彥超傳》",
-        "label": "TITLE",
-        "start": 3,
-        "end": 12
-      },
       {
         "text": "引兵趣石州",
         "label": "LOC",
@@ -1344,12 +1374,37 @@
   {
     "sentence_id": "HCH_007_114_000107",
     "sentence": "庚辰，以前忠武軍節度使郭從義為天平軍節度使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭從義",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_114_000108",
     "sentence": "遣符彥卿、郭從義、向訓、白重贊、史彥超等，率步騎萬餘赴忻州。",
     "entities": [
+      {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "郭從義",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "白重贊",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
       {
         "text": "步騎萬餘赴忻州",
         "label": "LOC",
@@ -1362,12 +1417,6 @@
     "sentence_id": "HCH_007_114_000109",
     "sentence": "〈 （《宋史·符彥卿傳》：彥卿之行也，世宗以並人雖敗，朝廷饋運不繼，未議攻擊，且令觀兵城下，徐圖進取。及周師入境，汾、晉吏民望風款接，皆以久罹虐政，願輸軍需以資兵力。世宗從之，而連下數州。彥卿等皆以芻糧未備，欲旋軍，世宗不之省，乃調山東近郡免軍食濟之。） 〉 是夜大風，發屋拔樹。",
     "entities": [
-      {
-        "text": "《宋史·符彥卿傳》",
-        "label": "TITLE",
-        "start": 3,
-        "end": 12
-      },
       {
         "text": "且令觀兵城",
         "label": "LOC",
@@ -1408,6 +1457,12 @@
         "label": "LOC",
         "start": 18,
         "end": 21
+      },
+      {
+        "text": "折德扆",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -1466,12 +1521,6 @@
         "label": "LOC",
         "start": 47,
         "end": 54
-      },
-      {
-        "text": "《宋史·藥元福傳》",
-        "label": "TITLE",
-        "start": 64,
-        "end": 73
       },
       {
         "text": "車駕至潞州",
@@ -1561,6 +1610,12 @@
         "end": 28
       },
       {
+        "text": "郭從義",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
         "text": "河陽劉詞移鎮",
         "label": "LOC",
         "start": 37,
@@ -1571,12 +1626,6 @@
         "label": "LOC",
         "start": 52,
         "end": 54
-      },
-      {
-        "text": "河中王彥超移鎮",
-        "label": "LOC",
-        "start": 61,
-        "end": 68
       },
       {
         "text": "許州",
@@ -1591,12 +1640,6 @@
         "end": 78
       },
       {
-        "text": "虞候李重進移鎮",
-        "label": "LOC",
-        "start": 84,
-        "end": 91
-      },
-      {
         "text": "宋州",
         "label": "LOC",
         "start": 91,
@@ -1609,22 +1652,10 @@
         "end": 129
       },
       {
-        "text": "同州藥元福移鎮",
-        "label": "LOC",
-        "start": 144,
-        "end": 151
-      },
-      {
         "text": "陜州",
         "label": "LOC",
         "start": 151,
         "end": 153
-      },
-      {
-        "text": "鄜州白重贊移鎮",
-        "label": "LOC",
-        "start": 160,
-        "end": 167
       },
       {
         "text": "陜州韓通移鎮",
@@ -1678,6 +1709,12 @@
         "label": "LOC",
         "start": 25,
         "end": 27
+      },
+      {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 33,
+        "end": 36
       }
     ]
   },
@@ -1714,6 +1751,12 @@
     "sentence": "辛巳，荊南節度使、南平王高保融加守中書令，夏州節度使、西平王李彜興加守太保，西京留守武行德、徐州王晏、鄧州侯章並加兼中書令。",
     "entities": [
       {
+        "text": "高保融",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "夏州",
         "label": "LOC",
         "start": 21,
@@ -1744,6 +1787,12 @@
         "end": 25
       },
       {
+        "text": "折從阮",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
         "text": "安州",
         "label": "LOC",
         "start": 29,
@@ -1756,10 +1805,10 @@
         "end": 44
       },
       {
-        "text": "使孫方諫為同州",
-        "label": "LOC",
-        "start": 46,
-        "end": 53
+        "text": "王仁鎬",
+        "label": "PER",
+        "start": 71,
+        "end": 74
       }
     ]
   },
@@ -1893,6 +1942,12 @@
         "end": 289
       },
       {
+        "text": "趙上交",
+        "label": "PER",
+        "start": 291,
+        "end": 294
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 295,
@@ -1921,6 +1976,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 9
+      },
+      {
+        "text": "劉溫叟",
+        "label": "PER",
+        "start": 58,
+        "end": 61
       },
       {
         "text": "侍郎",
@@ -1998,6 +2059,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "孫方諫",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2058,6 +2125,12 @@
         "end": 3
       },
       {
+        "text": "宋彥筠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 9,
@@ -2092,6 +2165,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "李重進",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -2175,12 +2254,6 @@
         "end": 15
       },
       {
-        "text": "事周行逢為鄂州",
-        "label": "LOC",
-        "start": 17,
-        "end": 24
-      },
-      {
         "text": "知潭州",
         "label": "LOC",
         "start": 28,
@@ -2204,6 +2277,18 @@
     "sentence_id": "HCH_007_114_000157",
     "sentence": "己亥，以右僕射致仕韓昭裔、左僕射致仕楊凝式並為太子太保致仕，以太子太傅致仕李肅為太子太師致仕。",
     "entities": [
+      {
+        "text": "韓昭裔",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "楊凝式",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -2307,12 +2392,6 @@
         "end": 15
       },
       {
-        "text": "使韓令坤為洋州",
-        "label": "LOC",
-        "start": 17,
-        "end": 24
-      },
-      {
         "text": "永州",
         "label": "LOC",
         "start": 48,
@@ -2335,6 +2414,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "楊凝式",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },

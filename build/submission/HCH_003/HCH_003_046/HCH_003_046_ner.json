@@ -2,7 +2,14 @@
   {
     "sentence_id": "HCH_003_046_000001",
     "sentence": "孫紹 張普惠 成淹 范紹 劉桃符 鹿悆 張燿 劉道斌 董紹 馮元興",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉道斌",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_046_000002",
@@ -12,7 +19,14 @@
   {
     "sentence_id": "HCH_003_046_000003",
     "sentence": "孫紹張普惠成淹范紹劉桃符鹿悆張耀劉道斌董紹馮元興",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉道斌",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_046_000004",
@@ -400,14 +414,7 @@
   {
     "sentence_id": "HCH_003_046_000058",
     "sentence": "任城王澄重其學業，為其聲價。",
-    "entities": [
-      {
-        "text": "任城",
-        "label": "LOC",
-        "start": 0,
-        "end": 2
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_046_000059",
@@ -677,14 +684,7 @@
   {
     "sentence_id": "HCH_003_046_000088",
     "sentence": "時任城王澄為司空，表議書記多出普惠。",
-    "entities": [
-      {
-        "text": "時任城",
-        "label": "LOC",
-        "start": 0,
-        "end": 3
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_046_000089",
@@ -968,7 +968,14 @@
   {
     "sentence_id": "HCH_003_046_000111",
     "sentence": "時靈太后父司徒胡國珍薨，贈相國、太上秦公。",
-    "entities": []
+    "entities": [
+      {
+        "text": "胡國珍",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_046_000112",
@@ -1013,12 +1020,6 @@
     "sentence_id": "HCH_003_046_000116",
     "sentence": "任城王澄、太傅清河王懌、侍中崔光、御史中尉元匡、尚書崔亮並同有難，普惠並以理正之，無所屈。",
     "entities": [
-      {
-        "text": "任城",
-        "label": "LOC",
-        "start": 0,
-        "end": 2
-      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -1183,14 +1184,7 @@
   {
     "sentence_id": "HCH_003_046_000136",
     "sentence": "及任城王澄薨，普惠荷其恩待，朔望奔赴，至於禫除，雖寒暑風雨，無不必至。",
-    "entities": [
-      {
-        "text": "及任城",
-        "label": "LOC",
-        "start": 0,
-        "end": 3
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_046_000137",
@@ -1247,12 +1241,6 @@
     "sentence_id": "HCH_003_046_000143",
     "sentence": "魏子建為益州刺史，有贓罪，普惠被使驗之，事遂得釋，故子建父子甚德之。",
     "entities": [
-      {
-        "text": "魏子建為益州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -2005,6 +1993,12 @@
         "label": "TITLE",
         "start": 35,
         "end": 37
+      },
+      {
+        "text": "田益宗",
+        "label": "PER",
+        "start": 37,
+        "end": 40
       }
     ]
   },
@@ -2330,6 +2324,12 @@
     "sentence": "時夜已久，有綜軍主薑桃來與悆言，謂曰：「元法僧魏之微子，拔城歸梁，梁主待物有道。」乃上指曰：「今歲星在鬥，吳之分野，君何不歸梁國？」悆答曰：「法僧，莒僕之流，而梁納之，無乃有愧于季孫也！今月建鶉首，斗牛受破，歲星木也，逆而克之，吳國敗喪不久。且衣錦夜遊，有識不許。」言未盡，乃引入見景俊。",
     "entities": [
       {
+        "text": "元法僧",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "拔城",
         "label": "LOC",
         "start": 28,
@@ -2603,6 +2603,12 @@
     "sentence": "劉道斌，武邑灌津人也。",
     "entities": [
       {
+        "text": "劉道斌",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "武邑",
         "label": "LOC",
         "start": 4,
@@ -2733,7 +2739,14 @@
   {
     "sentence_id": "HCH_003_046_000293",
     "sentence": "梁領軍呂僧珍暫與紹言，便相器重。",
-    "entities": []
+    "entities": [
+      {
+        "text": "呂僧珍",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_046_000294",
@@ -2780,6 +2793,12 @@
     "sentence_id": "HCH_003_046_000297",
     "sentence": "蕭寶夤反于長安，紹上書求擊之，云：「臣當出瞎巴三千，生啖蜀子。」孝明謂黃門徐紇曰：「此巴真瞎也？」紇答：「此紹之壯辭，雲巴人勁勇，見敵無所畏，非實瞎也。」帝大笑，敕紹速行。",
     "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "長安",
         "label": "LOC",
@@ -3071,7 +3090,14 @@
   {
     "sentence_id": "HCH_003_046_000326",
     "sentence": "成淹、范紹、劉桃符、鹿悆、張耀、劉道斌、董紹、馮元興等，身遭際會，俱得效其所能，苟曰非才，亦何能致於此也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉道斌",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_046_000327",

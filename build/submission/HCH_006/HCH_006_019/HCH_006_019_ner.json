@@ -3695,7 +3695,14 @@
   {
     "sentence_id": "HCH_006_019_000379",
     "sentence": "↑ 如淳曰：「尹翁歸傳曰『豪強有論罪，輸掌畜官，使斫莝』。東方朔曰『益爲右扶風』，畜牧之所在也。」",
-    "entities": []
+    "entities": [
+      {
+        "text": "尹翁歸",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_019_000380",
@@ -3756,7 +3763,14 @@
   {
     "sentence_id": "HCH_006_019_000386",
     "sentence": "↑ 師古曰：「門各有候，蕭望之署小苑東門候，亦其比也。」",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_019_000387",

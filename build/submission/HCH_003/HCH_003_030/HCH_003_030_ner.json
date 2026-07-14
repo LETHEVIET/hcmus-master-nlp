@@ -215,7 +215,14 @@
   {
     "sentence_id": "HCH_003_030_000028",
     "sentence": "帝問曰：「盧度世坐與崔浩親通，逃命江表，應已至彼。」延年對曰：「都下無聞，當必不至。」帝詔東宮赦度世宗族逃亡籍沒者，度世乃出。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧度世",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_030_000029",
@@ -243,6 +250,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "柳元景",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -689,12 +702,6 @@
         "label": "LOC",
         "start": 0,
         "end": 2
-      },
-      {
-        "text": "任城",
-        "label": "LOC",
-        "start": 5,
-        "end": 7
       }
     ]
   },
@@ -1055,7 +1062,14 @@
   {
     "sentence_id": "HCH_003_030_000138",
     "sentence": "柱國宇文神舉討平之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文神舉",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_030_000139",
@@ -1823,6 +1837,12 @@
     "sentence_id": "HCH_003_030_000225",
     "sentence": "宇文述甚敬之，委以州務。",
     "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "委以州",
         "label": "LOC",
@@ -2918,6 +2938,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "王松年",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -3173,6 +3199,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -3199,7 +3231,14 @@
   {
     "sentence_id": "HCH_003_030_000366",
     "sentence": "乃與皮景和擁眾十萬於淮北，不進。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皮景和",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_030_000367",
@@ -3246,6 +3285,12 @@
         "label": "TITLE",
         "start": 51,
         "end": 53
+      },
+      {
+        "text": "封子繡",
+        "label": "PER",
+        "start": 53,
+        "end": 56
       },
       {
         "text": "泰州",
@@ -3564,6 +3609,12 @@
     "sentence_id": "HCH_003_030_000406",
     "sentence": "初，玄從祖兄溥，慕容寶之末，統攝鄕部屯海濱，殺其鄕姻諸祖十餘人，稱征北大將軍、幽州刺史，攻掠郡縣。",
     "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -3943,6 +3994,12 @@
     "sentence_id": "HCH_003_030_000453",
     "sentence": "時染工王神歡者，以賂自進，塚宰宇文護擢爲計部下大夫。",
     "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
       {
         "text": "大夫",
         "label": "TITLE",
@@ -4534,7 +4591,14 @@
   {
     "sentence_id": "HCH_003_030_000517",
     "sentence": "周將宇文神舉以二人有名德，收而葬之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文神舉",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_030_000518",
@@ -4704,6 +4768,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "劉靈助",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -4940,6 +5010,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李祖勳",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },
@@ -5222,6 +5298,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "奚康生",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },

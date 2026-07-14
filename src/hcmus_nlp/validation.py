@@ -371,6 +371,7 @@ def compliance_check(
 
     # Folder pairing + ID unique.
     seen_sentence_ids: set[str] = set()
+    n_entities = 0
     from hcmus_nlp.labels import SUBMISSION_LABELS
 
     for work_dir in sorted(submission_dir.iterdir()):
@@ -436,6 +437,7 @@ def compliance_check(
                 entities = rec.get("entities", [])
                 seen_spans: list[tuple[int, int, str]] = []
                 for ent in entities:
+                    n_entities += 1
                     label = ent.get("label")
                     if label not in SUBMISSION_LABELS:
                         issues.append(
@@ -502,7 +504,7 @@ def compliance_check(
         issues=tuple(issues),
         n_records=n_records,
         n_sentences=len(seen_sentence_ids),
-        n_entities=0,  # Có thể count nếu cần.
+        n_entities=n_entities,
     )
 
 

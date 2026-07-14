@@ -76,7 +76,14 @@
   {
     "sentence_id": "HCH_006_086_000009",
     "sentence": "以射策甲科為郎，與翟方進交志相友。",
-    "entities": []
+    "entities": [
+      {
+        "text": "翟方進",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_086_000010",

@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_008_082_000001",
     "sentence": "許敬宗",
-    "entities": []
+    "entities": [
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_082_000002",
     "sentence": "許敬宗，杭州新城人，隋禮部侍郎善心子也。",
     "entities": [
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "杭州新城",
         "label": "LOC",
@@ -42,7 +55,14 @@
   {
     "sentence_id": "HCH_008_082_000005",
     "sentence": "江都之難，善心為宇文化及所害。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文化及",
+        "label": "PER",
+        "start": 8,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_082_000006",
@@ -52,14 +72,7 @@
   {
     "sentence_id": "HCH_008_082_000007",
     "sentence": "武德初，赤牒擬漣州別駕。",
-    "entities": [
-      {
-        "text": "赤牒擬漣州",
-        "label": "LOC",
-        "start": 4,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_082_000008",
@@ -188,6 +201,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -195,6 +214,12 @@
     "sentence_id": "HCH_008_082_000016",
     "sentence": "中書令岑文本卒於行所，令敬宗以本官檢校中書侍郎。",
     "entities": [
+      {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "侍郎",
         "label": "TITLE",
@@ -234,6 +259,24 @@
         "label": "LOC",
         "start": 163,
         "end": 165
+      },
+      {
+        "text": "張玄素",
+        "label": "PER",
+        "start": 281,
+        "end": 284
+      },
+      {
+        "text": "令狐德棻",
+        "label": "PER",
+        "start": 285,
+        "end": 289
+      },
+      {
+        "text": "裴宣機",
+        "label": "PER",
+        "start": 294,
+        "end": 297
       }
     ]
   },
@@ -324,7 +367,26 @@
   {
     "sentence_id": "HCH_008_082_000025",
     "sentence": "長孫無忌、褚遂良、韓瑗等並直言忤旨，敬宗與李義府潛加誣構，並流死於嶺外。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_082_000026",
@@ -413,7 +475,14 @@
   {
     "sentence_id": "HCH_008_082_000029",
     "sentence": "其年，代李義府為中書令，任遇之重，當朝莫比。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_082_000030",
@@ -464,7 +533,20 @@
   {
     "sentence_id": "HCH_008_082_000034",
     "sentence": "初，虞世基與敬宗父善心同為宇文化及所害，封德彝時為內史舍人，備見其事，因謂人曰：「世基被誅，世南匍匐而請代；善心之死，敬宗舞蹈以求生。」人以為口實，敬宗深銜之，及為德彝立傳，盛加其罪惡。",
-    "entities": []
+    "entities": [
+      {
+        "text": "虞世基",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "宇文化及",
+        "label": "PER",
+        "start": 13,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_082_000035",
@@ -475,13 +557,38 @@
         "label": "TITLE",
         "start": 8,
         "end": 11
+      },
+      {
+        "text": "錢九隴",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 45,
+        "end": 48
+      },
+      {
+        "text": "長孫順德",
+        "label": "PER",
+        "start": 49,
+        "end": 53
       }
     ]
   },
   {
     "sentence_id": "HCH_008_082_000036",
     "sentence": "敬宗為子娶尉遲寶琳孫女為妻，多得賂遺，及作寶琳父敬德傳，悉為隱諸過咎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉遲寶琳",
+        "label": "PER",
+        "start": 5,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_082_000037",
@@ -492,6 +599,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 8
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 10,
+        "end": 14
       }
     ]
   },
@@ -504,6 +617,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "龐孝泰",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -515,7 +634,26 @@
   {
     "sentence_id": "HCH_008_082_000040",
     "sentence": "漢將驍健者，唯蘇定方與龐孝泰耳，曹繼叔、劉伯英皆出其下。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "龐孝泰",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "劉伯英",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_082_000041",
@@ -718,10 +856,22 @@
         "end": 4
       },
       {
+        "text": "王福畤",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 132,
         "end": 134
+      },
+      {
+        "text": "戴至德",
+        "label": "PER",
+        "start": 134,
+        "end": 137
       },
       {
         "text": "博士",
@@ -773,12 +923,25 @@
   {
     "sentence_id": "HCH_008_082_000060",
     "sentence": "李義府",
-    "entities": []
+    "entities": [
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_082_000061",
     "sentence": "李義府，瀛州饒陽人也。",
     "entities": [
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "瀛州",
         "label": "LOC",
@@ -814,6 +977,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "李大亮",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -1168,7 +1337,14 @@
   {
     "sentence_id": "HCH_008_082_000110",
     "sentence": "卿段寶玄疑其故，遽以狀聞，詔令按其事，正義惶懼自縊而死。",
-    "entities": []
+    "entities": [
+      {
+        "text": "段寶玄",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_082_000111",
@@ -1179,6 +1355,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "王義方",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -1227,6 +1409,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "崔敦禮",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       },
       {
         "text": "御史",
@@ -1299,6 +1487,12 @@
     "sentence": "初，杜正倫為中書侍郎，義府時任典儀，至是乃與正倫同為中書令。",
     "entities": [
       {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 8,
@@ -1315,6 +1509,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "李友益",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -1414,7 +1614,14 @@
   {
     "sentence_id": "HCH_008_082_000128",
     "sentence": "三原令李孝節私課丁夫車牛，為其載土築墳，晝夜不息。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李孝節",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_082_000129",
@@ -1504,6 +1711,18 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "蕭楚材",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "孔志約",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -1534,6 +1753,12 @@
     "sentence": "給事中李崇德初亦與同譜敘昭穆，及義府出為普州刺史，遂即除削。",
     "entities": [
       {
+        "text": "李崇德",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "及義府出為普州",
         "label": "LOC",
         "start": 15,
@@ -1563,6 +1788,12 @@
         "end": 13
       },
       {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 17,
@@ -1581,10 +1812,22 @@
         "end": 28
       },
       {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 34,
         "end": 36
+      },
+      {
+        "text": "令狐德棻",
+        "label": "PER",
+        "start": 36,
+        "end": 40
       },
       {
         "text": "大夫",
@@ -1611,10 +1854,22 @@
     "sentence": "義府恥其家代無名，乃奏改此書，專委禮部郎中孔志約、著作郎楊仁卿、太子洗馬史玄道、太常丞呂才重修。",
     "entities": [
       {
+        "text": "孔志約",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 32,
         "end": 34
+      },
+      {
+        "text": "史玄道",
+        "label": "PER",
+        "start": 36,
+        "end": 39
       }
     ]
   },
@@ -1689,12 +1944,26 @@
   {
     "sentence_id": "HCH_008_082_000158",
     "sentence": "義府又遣其子右司議郎津，召長孫無忌之孫延，謂曰：「相為得一官，數日詔書當出。」居五日，果授延司津監，乃取延錢七百貫。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 13,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_082_000159",
     "sentence": "於是右金吾倉曹參軍楊行穎表言義府罪狀，制下司刑太常伯劉祥道與侍御詳刑對推其事，仍令司空李勣監焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉祥道",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_082_000160",
@@ -1705,6 +1974,12 @@
         "label": "LOC",
         "start": 21,
         "end": 24
+      },
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       },
       {
         "text": "可除名長流巂州",
@@ -1742,10 +2017,10 @@
     "sentence": "或作《河間道行軍元帥劉祥道破銅山大賊李義府露布》，榜之通衢。",
     "entities": [
       {
-        "text": "《河間道行軍元帥劉祥道破銅山大賊李義府露布》",
-        "label": "TITLE",
-        "start": 2,
-        "end": 24
+        "text": "李義府",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -1824,6 +2099,12 @@
         "end": 4
       },
       {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 15,
@@ -1834,6 +2115,30 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "崔義玄",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "王德儉",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
+        "text": "侯善業",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "text": "袁公瑜",
+        "label": "PER",
+        "start": 41,
+        "end": 44
       },
       {
         "text": "追贈義府揚州",
@@ -1960,6 +2265,18 @@
         "end": 5
       },
       {
+        "text": "張柬之",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 23,
@@ -1988,6 +2305,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 12
+      },
+      {
+        "text": "李多祚",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       },
       {
         "text": "太子",
@@ -2065,7 +2388,14 @@
   {
     "sentence_id": "HCH_008_082_000182",
     "sentence": "崔義玄別有傳。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔義玄",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_082_000183",

@@ -69,12 +69,6 @@
         "label": "LOC",
         "start": 67,
         "end": 70
-      },
-      {
-        "text": "王僧辯聞台城",
-        "label": "LOC",
-        "start": 79,
-        "end": 85
       }
     ]
   },
@@ -87,6 +81,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "蔡大業",
+        "label": "PER",
+        "start": 46,
+        "end": 49
       },
       {
         "text": "則荊州",
@@ -129,6 +129,12 @@
         "label": "TITLE",
         "start": 232,
         "end": 234
+      },
+      {
+        "text": "長孫紹遠",
+        "label": "PER",
+        "start": 252,
+        "end": 256
       },
       {
         "text": "《紹遠傳》",
@@ -1788,7 +1794,14 @@
   {
     "sentence_id": "HCH_003_077_000194",
     "sentence": "梁毗，字景和，安定烏氏人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安定烏",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_077_000195",
@@ -2055,6 +2068,12 @@
     "sentence": "奏劾宇文述和私役部兵，帝議免述罪，毗固爭，因忤旨，遂令張衡代為大夫。",
     "entities": [
       {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 31,
@@ -2137,6 +2156,12 @@
     "sentence_id": "HCH_003_077_000228",
     "sentence": "周大塚宰宇文護引為中外府記室，久而出為甯州總管掾。",
     "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "久而出為甯州",
         "label": "LOC",
@@ -2606,7 +2631,14 @@
   {
     "sentence_id": "HCH_003_077_000281",
     "sentence": "故陳將蕭摩訶，其子世略在江南作亂，摩訶當從坐。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭摩訶",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_077_000282",

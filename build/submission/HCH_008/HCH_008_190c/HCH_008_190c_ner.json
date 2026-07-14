@@ -2,7 +2,56 @@
   {
     "sentence_id": "HCH_008_190c_000001",
     "sentence": "李華　蕭穎士 附:李翰 陸據　崔顥　王昌齡　孟浩然　元徳秀　王維　李白　杜甫　吳通玄 兄通微 王仲舒　崔咸 唐次 子:扶持 持子:彦謙 劉蕡　李商隱　温庭筠　薛逢 子:廷珪 李拯　李巨川　司空圖",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭穎士",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "王昌齡",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "孟浩然",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
+        "text": "王仲舒",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      },
+      {
+        "text": "李商隱",
+        "label": "PER",
+        "start": 71,
+        "end": 74
+      },
+      {
+        "text": "温庭筠",
+        "label": "PER",
+        "start": 75,
+        "end": 78
+      },
+      {
+        "text": "李巨川",
+        "label": "PER",
+        "start": 90,
+        "end": 93
+      },
+      {
+        "text": "司空圖",
+        "label": "PER",
+        "start": 94,
+        "end": 97
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000002",
@@ -60,7 +109,14 @@
   {
     "sentence_id": "HCH_008_190c_000007",
     "sentence": "華善屬文，與蘭陵蕭穎士友善。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭穎士",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000008",
@@ -102,7 +158,26 @@
   {
     "sentence_id": "HCH_008_190c_000014",
     "sentence": "華嘗為魯山令元德秀墓碑，顏真卿書，李陽冰篆額，後人爭模寫之，號為「四絕碑」。",
-    "entities": []
+    "entities": [
+      {
+        "text": "元德秀",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "顏真卿",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "李陽冰",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000015",
@@ -112,12 +187,26 @@
   {
     "sentence_id": "HCH_008_190c_000016",
     "sentence": "蕭穎士",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭穎士",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000017",
     "sentence": "蕭穎士者，字茂挺，與華同年登進士第。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭穎士",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000018",
@@ -144,7 +233,14 @@
   {
     "sentence_id": "HCH_008_190c_000021",
     "sentence": "李林甫採其名，欲拔用之，乃召見。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000022",
@@ -311,6 +407,18 @@
         "label": "LOC",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "王昌齡",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
+        "text": "孟浩然",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -354,12 +462,26 @@
   {
     "sentence_id": "HCH_008_190c_000051",
     "sentence": "王昌齡",
-    "entities": []
+    "entities": [
+      {
+        "text": "王昌齡",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000052",
     "sentence": "王昌齡者，進士登第，補秘書省，校書郎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王昌齡",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000053",
@@ -381,12 +503,26 @@
   {
     "sentence_id": "HCH_008_190c_000055",
     "sentence": "孟浩然",
-    "entities": []
+    "entities": [
+      {
+        "text": "孟浩然",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000056",
     "sentence": "孟浩然，隠鹿門山，以詩自適。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孟浩然",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000057",
@@ -398,12 +534,6 @@
     "sentence": "襄陽張九齡鎮荆州，署為從事，與之唱和，不逹而卒。",
     "entities": [
       {
-        "text": "襄陽張九齡鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      },
-      {
         "text": "荆州",
         "label": "LOC",
         "start": 6,
@@ -414,12 +544,26 @@
   {
     "sentence_id": "HCH_008_190c_000059",
     "sentence": "元德秀",
-    "entities": []
+    "entities": [
+      {
+        "text": "元德秀",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000060",
     "sentence": "元德秀者，河南人，字紫芝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "元德秀",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000061",
@@ -821,7 +965,14 @@
   {
     "sentence_id": "HCH_008_190c_000110",
     "sentence": "得宋之問藍田别墅，在輞口，輞水周於舍下，别漲竹洲花塢，與道友裴廸浮舟往來，彈琴賦詩，嘯詠終日。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋之問",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000111",
@@ -914,7 +1065,20 @@
   {
     "sentence_id": "HCH_008_190c_000123",
     "sentence": "少與魯中諸生孔巢父、韓沔、裴政、張叔明、陶沔等隠於徂徠山，酣歌縱酒，時號「竹溪六逸」。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孔巢父",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "張叔明",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000124",
@@ -944,7 +1108,14 @@
   {
     "sentence_id": "HCH_008_190c_000129",
     "sentence": "嘗沉醉殿上，引足令高力士脫靴，由是斥去。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高力士",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000130",
@@ -960,6 +1131,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "崔宗之",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -972,6 +1149,12 @@
     "sentence_id": "HCH_008_190c_000133",
     "sentence": "初賀知章見白，賞之曰：「此天上謫仙人也。」祿山之亂，玄宗幸蜀，在途以永王璘為江淮兵馬都督、揚州節度大使。",
     "entities": [
+      {
+        "text": "賀知章",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "揚州",
         "label": "LOC",
@@ -1176,7 +1359,14 @@
   {
     "sentence_id": "HCH_008_190c_000153",
     "sentence": "武與甫世舊，待遇甚隆，甫性褊躁無器度，恃恩放恣，甞慿醉登武之牀瞪視武曰：「嚴挺之乃有此兒！」武雖急暴，不以為忤。",
-    "entities": []
+    "entities": [
+      {
+        "text": "嚴挺之",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000154",
@@ -1207,12 +1397,6 @@
     "sentence": "及郭英乂代武鎮成都，英乂武人粗暴，無能刺謁，乃遊東蜀依高適。",
     "entities": [
       {
-        "text": "及郭英乂代武鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      },
-      {
         "text": "成都",
         "label": "LOC",
         "start": 7,
@@ -1229,6 +1413,12 @@
     "sentence_id": "HCH_008_190c_000158",
     "sentence": "是歲，崔寧殺英乂，楊子琳攻西川，蜀中大亂。",
     "entities": [
+      {
+        "text": "楊子琳",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
       {
         "text": "蜀",
         "label": "ORG",
@@ -1494,7 +1684,20 @@
   {
     "sentence_id": "HCH_008_190c_000200",
     "sentence": "遷起居舍人、知制誥，與陸贄、吉中孚、韋執誼等同視草。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吉中孚",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "韋執誼",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000201",
@@ -1604,12 +1807,6 @@
         "label": "LOC",
         "start": 42,
         "end": 46
-      },
-      {
-        "text": "李則之昭州",
-        "label": "LOC",
-        "start": 49,
-        "end": 54
       },
       {
         "text": "司馬",
@@ -1730,6 +1927,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "張延賞",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -1746,12 +1949,26 @@
   {
     "sentence_id": "HCH_008_190c_000227",
     "sentence": "王仲舒",
-    "entities": []
+    "entities": [
+      {
+        "text": "王仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000228",
     "sentence": "王仲舒字弘中，太原人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王仲舒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000229",
@@ -1790,7 +2007,14 @@
   {
     "sentence_id": "HCH_008_190c_000233",
     "sentence": "裴延齡領度支，矯誕大言，中傷良善，仲舒上疏極論之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴延齡",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000234",
@@ -1824,7 +2048,14 @@
   {
     "sentence_id": "HCH_008_190c_000237",
     "sentence": "京兆尹楊憑為中丞李夷簡所劾，貶臨賀尉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李夷簡",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000238",
@@ -1956,10 +2187,34 @@
         "end": 6
       },
       {
+        "text": "鄭餘慶",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "李夷簡",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "元",
         "label": "ORG",
         "start": 64,
         "end": 65
+      },
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 71,
+        "end": 74
+      },
+      {
+        "text": "劉栖楚",
+        "label": "PER",
+        "start": 84,
+        "end": 87
       },
       {
         "text": "丞相",
@@ -1984,6 +2239,12 @@
         "label": "TME",
         "start": 234,
         "end": 238
+      },
+      {
+        "text": "李抱真",
+        "label": "PER",
+        "start": 245,
+        "end": 248
       }
     ]
   },
@@ -2093,7 +2354,14 @@
   {
     "sentence_id": "HCH_008_190c_000260",
     "sentence": "憲宗即位，與李吉甫同自峽內召還，授次禮部郎中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000261",
@@ -2109,6 +2377,24 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "沈傳師",
+        "label": "PER",
+        "start": 39,
+        "end": 42
+      },
+      {
+        "text": "令狐楚",
+        "label": "PER",
+        "start": 100,
+        "end": 103
+      },
+      {
+        "text": "杜元穎",
+        "label": "PER",
+        "start": 104,
+        "end": 107
       }
     ]
   },
@@ -2167,7 +2453,14 @@
   {
     "sentence_id": "HCH_008_190c_000272",
     "sentence": "乃詔掌文之臣令狐楚等，上自周、漢，下洎隋朝，求史籍之忠賢，罹讒謗之事跡，敘瑕釁之本末，紀謠諑之淺深，編次指明，勒成十卷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐楚",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000273",
@@ -2519,14 +2812,7 @@
   {
     "sentence_id": "HCH_008_190c_000304",
     "sentence": "中和中，王重榮鎮河中，辟為從事。",
-    "entities": [
-      {
-        "text": "王重榮鎮",
-        "label": "LOC",
-        "start": 4,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_190c_000305",
@@ -2554,12 +2840,31 @@
   {
     "sentence_id": "HCH_008_190c_000307",
     "sentence": "尤能七言詩，少時師溫庭筠，故文格類之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "溫庭筠",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000308",
     "sentence": "光啟末，王重榮為部下所害，朝議責參佐，彥謙與書記李巨川俱貶漢中掾曹。",
     "entities": [
+      {
+        "text": "王重榮",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "李巨川",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
       {
         "text": "漢",
         "label": "ORG",
@@ -2572,12 +2877,6 @@
     "sentence_id": "HCH_008_190c_000309",
     "sentence": "時楊守亮鎮興元，素聞其名，彥謙以本府參承，守亮見之，喜握手曰：「聞尚書名久矣，邂逅於茲。」翌日，署為判官。",
     "entities": [
-      {
-        "text": "時楊守亮鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 5
-      },
       {
         "text": "元",
         "label": "ORG",
@@ -2631,6 +2930,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "薛廷珪",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -4027,16 +4332,16 @@
     "sentence": "令狐楚在興元，牛僧孺鎮襄陽，辟為從事，待如師友。",
     "entities": [
       {
+        "text": "令狐楚",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "元",
         "label": "ORG",
         "start": 5,
         "end": 6
-      },
-      {
-        "text": "牛僧孺鎮",
-        "label": "LOC",
-        "start": 7,
-        "end": 11
       }
     ]
   },
@@ -4055,7 +4360,14 @@
   {
     "sentence_id": "HCH_008_190c_000560",
     "sentence": "李商隱",
-    "entities": []
+    "entities": [
+      {
+        "text": "李商隱",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000561",
@@ -4099,7 +4411,14 @@
   {
     "sentence_id": "HCH_008_190c_000566",
     "sentence": "令狐楚镇河阳，以所业文干之，年才及弱冠。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐楚",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000567",
@@ -4147,6 +4466,12 @@
     "sentence": "王茂元镇河阳，辟为掌书记，得待御史。",
     "entities": [
       {
+        "text": "王茂元",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 15,
@@ -4162,12 +4487,26 @@
   {
     "sentence_id": "HCH_008_190c_000573",
     "sentence": "茂元虽读书为儒，然本将家子，李德裕素遇之，时德裕秉政，用为河阳帅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000574",
     "sentence": "德裕与李宗闵、杨嗣复、令狐楚大相仇怨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐楚",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000575",
@@ -4177,7 +4516,14 @@
   {
     "sentence_id": "HCH_008_190c_000576",
     "sentence": "时令狐楚已卒，子绹为员外郎，以商隐背恩，尤恶其无行。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐楚",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000577",
@@ -4199,7 +4545,20 @@
   {
     "sentence_id": "HCH_008_190c_000579",
     "sentence": "大中初，白敏中执政，令狐绹在内署，共排李德裕逐之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白敏中",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000580",
@@ -4268,7 +4627,14 @@
   {
     "sentence_id": "HCH_008_190c_000586",
     "sentence": "会河南尹柳仲郢镇东蜀，辟为节度判官、检校工部郎中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "柳仲郢",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000587",
@@ -4290,7 +4656,14 @@
   {
     "sentence_id": "HCH_008_190c_000589",
     "sentence": "从事令狐楚幕。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐楚",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000590",
@@ -4307,10 +4680,22 @@
     "sentence": "与太原温庭筠、南郡段成式齐名，时号“三十六”。",
     "entities": [
       {
+        "text": "温庭筠",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "南郡",
         "label": "LOC",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "段成式",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -4347,12 +4732,26 @@
   {
     "sentence_id": "HCH_008_190c_000599",
     "sentence": "温庭筠",
-    "entities": []
+    "entities": [
+      {
+        "text": "温庭筠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000600",
     "sentence": "温庭筠者，太原人，本名岐，字飛卿。",
-    "entities": []
+    "entities": [
+      {
+        "text": "温庭筠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000601",
@@ -4367,7 +4766,14 @@
   {
     "sentence_id": "HCH_008_190c_000603",
     "sentence": "公卿家無賴子弟裴誠、令狐滈之徒，相與蒱飲酣醉終日，由是累年不第。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐滈",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000604",
@@ -4384,7 +4790,14 @@
   {
     "sentence_id": "HCH_008_190c_000605",
     "sentence": "咸通中，失意歸江東，路由廣陵，心怨令狐綯在位時不為成名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐綯",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000606",
@@ -4400,6 +4813,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "令狐綯",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -4776,7 +5195,14 @@
   {
     "sentence_id": "HCH_008_190c_000649",
     "sentence": "及王行瑜殺朱玫，襄王出奔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王行瑜",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000650",
@@ -4803,12 +5229,26 @@
   {
     "sentence_id": "HCH_008_190c_000653",
     "sentence": "李巨川",
-    "entities": []
+    "entities": [
+      {
+        "text": "李巨川",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000654",
     "sentence": "李巨川，字下已，隴右人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李巨川",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000655",
@@ -4835,14 +5275,7 @@
   {
     "sentence_id": "HCH_008_190c_000658",
     "sentence": "王重榮鎮河中，辟為掌書記。",
-    "entities": [
-      {
-        "text": "王重榮鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 4
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_190c_000659",
@@ -4871,6 +5304,12 @@
     "sentence": "時楊守亮帥興元，素知之聞巨川至，喜謂客曰：“天以李書記遺我也！",
     "entities": [
       {
+        "text": "楊守亮",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "元",
         "label": "ORG",
         "start": 6,
@@ -4886,7 +5325,14 @@
   {
     "sentence_id": "HCH_008_190c_000664",
     "sentence": "景福中，守亮為李茂貞所攻，城䧟，以部下數百人欲投太原。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李茂貞",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000665",
@@ -4918,7 +5364,14 @@
   {
     "sentence_id": "HCH_008_190c_000669",
     "sentence": "俄而李茂貞犯京師，天子駐蹕於華。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李茂貞",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000670",
@@ -4990,12 +5443,26 @@
   {
     "sentence_id": "HCH_008_190c_000678",
     "sentence": "司空圖",
-    "entities": []
+    "entities": [
+      {
+        "text": "司空圖",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000679",
     "sentence": "司空圖，字表聖，本臨淄人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "司空圖",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000680",
@@ -5021,6 +5488,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "盧弘正",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "奏輿為安邑",
@@ -5226,7 +5699,14 @@
   {
     "sentence_id": "HCH_008_190c_000705",
     "sentence": "璨知不可屈，詔曰：「司空圖俊造登科，朱紫升籍，旣養高以傲代，類移山以釣名，心惟樂于漱流，仕非專於祿食。匪夷匪惠，難居公正之朝；載省載思，當徇棲衡之志。可放還山。」",
-    "entities": []
+    "entities": [
+      {
+        "text": "司空圖",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000706",
@@ -5241,7 +5721,14 @@
   {
     "sentence_id": "HCH_008_190c_000708",
     "sentence": "晚年為文，尤事放逹，甞擬白居易醉吟傳為休休亭記曰：",
-    "entities": []
+    "entities": [
+      {
+        "text": "白居易",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000709",
@@ -5306,7 +5793,14 @@
   {
     "sentence_id": "HCH_008_190c_000721",
     "sentence": "王重榮父子兄弟尤重之，伏臘饋遺，不絶於途。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王重榮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_190c_000722",

@@ -243,7 +243,14 @@
   {
     "sentence_id": "HCH_003_088_000033",
     "sentence": "父邃，字懷道，慕容寶中書令。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_088_000034",
@@ -420,6 +427,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "蔡道恭",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -628,6 +641,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "魏蘭根",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -646,6 +665,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },

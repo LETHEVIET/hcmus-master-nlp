@@ -172,6 +172,12 @@
     "sentence": "時左庶子於志寧、右庶子孔穎達受詔輔導，志寧撰《諫苑》二十捲諷之，穎達又多所規奏。",
     "entities": [
       {
+        "text": "孔穎達",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "《諫苑》",
         "label": "TITLE",
         "start": 22,
@@ -197,12 +203,32 @@
   {
     "sentence_id": "HCH_008_076_000033",
     "sentence": "太宗復起志寧為詹事，志寧與左庶子張玄素數上書切諫，承乾並不納。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張玄素",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_076_000034",
     "sentence": "又嘗召壯士左衛副率封師進及刺客張師政、紇干承基，深禮賜之，令殺魏王泰，不克而止。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張師政",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "紇干承基",
+        "label": "PER",
+        "start": 19,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_076_000035",
@@ -213,6 +239,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       },
       {
         "text": "中郎將",
@@ -255,7 +287,14 @@
   {
     "sentence_id": "HCH_008_076_000037",
     "sentence": "承乾謂紇干承基曰：「我西畔宮牆，去大內正可二十步來耳，此間大親近，豈可並齊王乎？」會承基亦外連齊王，繫獄當死，遂告其事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "紇干承基",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_076_000038",
@@ -267,16 +306,40 @@
     "sentence": "命司徒長孫無忌、司空房玄齡、特進蕭瑀、兵部尚書李勣、大理卿孫伏伽、中書侍郎岑文本、御史大夫馬周、諫議大夫褚遂良等參鞫之，事皆明驗。",
     "entities": [
       {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 21,
         "end": 23
       },
       {
+        "text": "孫伏伽",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 35,
         "end": 37
+      },
+      {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 37,
+        "end": 40
       },
       {
         "text": "御史",
@@ -295,6 +358,12 @@
         "label": "TITLE",
         "start": 50,
         "end": 52
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 52,
+        "end": 55
       }
     ]
   },
@@ -307,13 +376,32 @@
         "label": "LOC",
         "start": 7,
         "end": 10
+      },
+      {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
   {
     "sentence_id": "HCH_008_076_000041",
     "sentence": "其宮僚左庶子張玄素、右庶子趙弘智、令狐德棻、中書舍人蕭鈞，並以材選用，承乾既敗，太宗引大義以讓之，咸坐免。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張玄素",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "令狐德棻",
+        "label": "PER",
+        "start": 17,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_076_000042",
@@ -335,20 +423,7 @@
   {
     "sentence_id": "HCH_008_076_000044",
     "sentence": "象官至懷州別駕，厥至鄂州別駕。",
-    "entities": [
-      {
-        "text": "象官至懷州",
-        "label": "LOC",
-        "start": 0,
-        "end": 5
-      },
-      {
-        "text": "厥至鄂州",
-        "label": "LOC",
-        "start": 8,
-        "end": 12
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_076_000045",
@@ -480,12 +555,26 @@
   {
     "sentence_id": "HCH_008_076_000060",
     "sentence": "長孫無忌既輔立高宗，深所忌嫉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_076_000061",
     "sentence": "永徽中，會房遺愛謀反，遂因事誅恪，以絕眾望，海內冤之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房遺愛",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_076_000062",
@@ -649,6 +738,24 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "宗楚客",
+        "label": "PER",
+        "start": 36,
+        "end": 39
+      },
+      {
+        "text": "紀處訥",
+        "label": "PER",
+        "start": 40,
+        "end": 43
       }
     ]
   },
@@ -847,12 +954,6 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
-      },
-      {
-        "text": "兼徐州",
-        "label": "LOC",
-        "start": 10,
-        "end": 13
       },
       {
         "text": "大夫",
@@ -1085,6 +1186,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "裴耀卿",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1243,6 +1350,12 @@
     "sentence_id": "HCH_008_076_000121",
     "sentence": "安祿山反，率眾渡河，凶威甚盛，河南陳留、滎陽、靈昌等郡皆陷於賊。",
     "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "靈昌等郡",
         "label": "LOC",
@@ -1564,6 +1677,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -1692,6 +1811,18 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "柴令武",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "房遺愛",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -1710,6 +1841,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "杜楚客",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1952,14 +2089,7 @@
   {
     "sentence_id": "HCH_008_076_000191",
     "sentence": "欣，則天初陷酷吏獄，貶昭州別駕，卒。",
-    "entities": [
-      {
-        "text": "貶昭州",
-        "label": "LOC",
-        "start": 10,
-        "end": 13
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_076_000192",
@@ -2001,16 +2131,10 @@
     "sentence": "以王守一妹婿貶邵州別駕，移鄧州別駕，後復其爵。",
     "entities": [
       {
-        "text": "守一妹婿貶邵州",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      },
-      {
-        "text": "移鄧州",
-        "label": "LOC",
-        "start": 12,
-        "end": 15
+        "text": "州別駕",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2104,12 +2228,26 @@
   {
     "sentence_id": "HCH_008_076_000204",
     "sentence": "而祐溺情群小，尤好弋獵，長史薛大鼎屢諫不聽，太宗以大鼎輔導無方，竟坐免。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛大鼎",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_076_000205",
     "sentence": "權萬紀前為吳王恪長史，有正直節，以萬紀為祐長史，以匡正之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "權萬紀",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_076_000206",
@@ -2181,6 +2319,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "劉德威",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2279,6 +2423,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "杜行敏",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -2458,6 +2608,12 @@
         "label": "TITLE",
         "start": 115,
         "end": 117
+      },
+      {
+        "text": "李乾祐",
+        "label": "PER",
+        "start": 117,
+        "end": 120
       },
       {
         "text": "蜀",
@@ -2801,6 +2957,12 @@
     "sentence": "天寶十三載，安祿山奏為范陽司馬。",
     "entities": [
       {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 13,
@@ -2957,12 +3119,6 @@
         "label": "TME",
         "start": 0,
         "end": 2
-      },
-      {
-        "text": "授徐州",
-        "label": "LOC",
-        "start": 3,
-        "end": 6
       }
     ]
   },
@@ -3094,6 +3250,12 @@
     "sentence_id": "HCH_008_076_000284",
     "sentence": "自則天稱制，貞與韓王元嘉、魯王靈夔、霍王元軌及元嘉子黃國公譔、靈夔子范陽王藹、元軌子江都王緒並貞長子博州刺史琅邪王沖等，密有匡復之志。",
     "entities": [
+      {
+        "text": "王靈夔",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
       {
         "text": "緒並貞長子博州",
         "label": "LOC",
@@ -3282,16 +3444,34 @@
         "end": 10
       },
       {
+        "text": "麹崇裕",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 22,
         "end": 24
       },
       {
+        "text": "岑長倩",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 45,
         "end": 47
+      },
+      {
+        "text": "張光輔",
+        "label": "PER",
+        "start": 47,
+        "end": 50
       }
     ]
   },
@@ -3354,7 +3534,14 @@
   {
     "sentence_id": "HCH_008_076_000305",
     "sentence": "麹崇裕斬貞父子及裴守德等，傳首東都，梟於闕下。",
-    "entities": []
+    "entities": [
+      {
+        "text": "麹崇裕",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_076_000306",
@@ -3502,6 +3689,12 @@
         "end": 16
       },
       {
+        "text": "馬玄素",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
         "text": "先入武水城",
         "label": "LOC",
         "start": 35,
@@ -3564,6 +3757,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "丘神勣",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -3575,14 +3774,7 @@
   {
     "sentence_id": "HCH_008_076_000323",
     "sentence": "沖三弟：倩，封常山公，歷常州別駕，坐與父兄連謀伏誅。",
-    "entities": [
-      {
-        "text": "歷常州",
-        "label": "LOC",
-        "start": 11,
-        "end": 14
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_076_000324",
@@ -3592,7 +3784,14 @@
   {
     "sentence_id": "HCH_008_076_000325",
     "sentence": "神龍初，侍中敬暉等以沖父子翼戴皇家，義存社稷，請復其官爵，武三思令昭容上官氏代中宗手詔不許。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_076_000326",
@@ -3868,12 +4067,6 @@
         "label": "ORG",
         "start": 11,
         "end": 13
-      },
-      {
-        "text": "遂州別駕襄郡",
-        "label": "LOC",
-        "start": 16,
-        "end": 22
       },
       {
         "text": "廣化郡",
@@ -4197,14 +4390,7 @@
   {
     "sentence_id": "HCH_008_076_000371",
     "sentence": "有二子，南州別駕零陵王俊、黎國公傑，垂拱中並遇害。",
-    "entities": [
-      {
-        "text": "南州",
-        "label": "LOC",
-        "start": 4,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_076_000372",
@@ -4282,7 +4468,14 @@
   {
     "sentence_id": "HCH_008_076_000380",
     "sentence": "皆以才高辯悟，為長孫無忌忌嫉，離間父子，遽為豺狼，而無忌破家，非陰禍之報歟？",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 8,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_076_000381",

@@ -1660,7 +1660,14 @@
   {
     "sentence_id": "HCH_006_094a_000190",
     "sentence": "公孫賀出雲中，無所得。",
-    "entities": []
+    "entities": [
+      {
+        "text": "公孫賀",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_094a_000191",
@@ -2358,6 +2365,12 @@
         "label": "TME",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "公孫賀",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -3592,6 +3605,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -3710,6 +3729,12 @@
         "end": 5
       },
       {
+        "text": "田廣明",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 11,
@@ -3732,6 +3757,12 @@
         "label": "TITLE",
         "start": 54,
         "end": 56
+      },
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 56,
+        "end": 59
       },
       {
         "text": "將軍",
@@ -4135,6 +4166,12 @@
         "label": "TITLE",
         "start": 29,
         "end": 31
+      },
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       },
       {
         "text": "餘騎屯緣邊九郡",

@@ -255,7 +255,14 @@
   {
     "sentence_id": "HCH_007_069_000025",
     "sentence": "憲私謂郭崇韜曰：「不祥之甚，忽其本也。」",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_069_000026",
@@ -265,14 +272,7 @@
   {
     "sentence_id": "HCH_007_069_000027",
     "sentence": "會孟知祥鎮蜀川，選北京留守，徊揚言曰：「北門，國家根本，非重德不可輕授；今之取才，非憲不可。」趨時者因附徊勢，巧中傷之。",
-    "entities": [
-      {
-        "text": "會孟知祥鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 5
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_069_000028",
@@ -301,6 +301,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "魏",
+        "label": "ORG",
+        "start": 9,
+        "end": 10
       }
     ]
   },
@@ -323,6 +329,12 @@
         "label": "LOC",
         "start": 33,
         "end": 35
+      },
+      {
+        "text": "李存渥",
+        "label": "PER",
+        "start": 129,
+        "end": 132
       },
       {
         "text": "洛陽",
@@ -352,6 +364,12 @@
         "label": "TITLE",
         "start": 130,
         "end": 140
+      },
+      {
+        "text": "符彥超",
+        "label": "PER",
+        "start": 219,
+        "end": 222
       },
       {
         "text": "軍城",
@@ -514,10 +532,10 @@
     "sentence": "時孔謙為租庸副使，常畏張憲挺特，不欲其領使，乃白郭崇韜留憲於魏州，請宰相豆盧革判租庸。",
     "entities": [
       {
-        "text": "崇韜留憲於魏州",
-        "label": "LOC",
-        "start": 25,
-        "end": 32
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 36,
+        "end": 39
       }
     ]
   },
@@ -609,6 +627,12 @@
         "label": "LOC",
         "start": 22,
         "end": 24
+      },
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 43,
+        "end": 46
       },
       {
         "text": "《通鑒》",
@@ -710,6 +734,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 146,
+        "end": 149
       }
     ]
   },
@@ -1133,7 +1163,14 @@
   {
     "sentence_id": "HCH_007_069_000103",
     "sentence": "朱、馮患從榮之恣橫，嶽曾極言其禍之端，康義誠聞之不悅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_069_000104",

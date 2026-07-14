@@ -572,6 +572,12 @@
     "sentence": "及孝孫卒後，協律郎張文收復采《三禮》，言孝孫雖創其端，至於郊禋用樂，事未周備。",
     "entities": [
       {
+        "text": "張文收",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "《三禮》",
         "label": "TITLE",
         "start": 14,
@@ -950,6 +956,18 @@
         "end": 4
       },
       {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 7,
+        "end": 11
+      },
+      {
+        "text": "于志寧",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "《易》",
         "label": "TITLE",
         "start": 25,
@@ -1272,6 +1290,12 @@
         "label": "TITLE",
         "start": 506,
         "end": 508
+      },
+      {
+        "text": "顏師古",
+        "label": "PER",
+        "start": 516,
+        "end": 519
       }
     ]
   },
@@ -1484,6 +1508,12 @@
         "end": 73
       },
       {
+        "text": "虞世南",
+        "label": "PER",
+        "start": 203,
+        "end": 206
+      },
+      {
         "text": "《七德》",
         "label": "TITLE",
         "start": 220,
@@ -1630,6 +1660,12 @@
     "sentence": "張文收采古《朱雁》、《天馬》之義，製《景雲河清歌》，名曰宴樂，奏之管弦，為諸樂之首，元會第一奏者是也。",
     "entities": [
       {
+        "text": "張文收",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "《朱雁》",
         "label": "TITLE",
         "start": 5,
@@ -1664,6 +1700,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "宇文節",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       },
       {
         "text": "《九部樂》",
@@ -1833,6 +1875,54 @@
         "end": 9
       },
       {
+        "text": "李義府",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "任雅相",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "許圉師",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "張延師",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      },
+      {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      },
+      {
+        "text": "阿史那忠",
+        "label": "PER",
+        "start": 41,
+        "end": 45
+      },
+      {
+        "text": "上官儀",
+        "label": "PER",
+        "start": 52,
+        "end": 55
+      },
+      {
         "text": "赴洛城",
         "label": "LOC",
         "start": 57,
@@ -1902,6 +1992,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "韋萬石",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       },
       {
         "text": "《貞觀禮》",
@@ -2341,6 +2437,12 @@
     "sentence": "樂作，太常少卿韋萬石奏稱：「《破陣樂舞》者，是皇祚發跡所由，宣揚宗祖盛烈，傳之於後，永永無窮。自天皇臨馭四海，寢而不作，既緣聖情感愴，群下無敢關言。臣忝職樂司，廢缺是懼。依禮，祭之日，天子親總干戚以舞先祖之樂，與天下同樂之也，今《破陣樂》久廢，群下無所稱述，將何以發孝思之情？」上矍然改容，俯遂所請，有制令奏樂舞。",
     "entities": [
       {
+        "text": "韋萬石",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "《破陣樂舞》",
         "label": "TITLE",
         "start": 14,
@@ -2686,7 +2788,14 @@
   {
     "sentence_id": "HCH_008_028_000179",
     "sentence": "命禮儀使太常少卿于休烈使屬吏與東京留臺領，赴於朝廷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "于休烈",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_028_000180",
@@ -2702,6 +2811,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "于休烈",
+        "label": "PER",
+        "start": 34,
+        "end": 37
       }
     ]
   },
@@ -2747,6 +2862,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "王虔休",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       },
       {
         "text": "《繼天誕聖樂》",
@@ -2913,7 +3034,14 @@
   {
     "sentence_id": "HCH_008_028_000198",
     "sentence": "太宗平東都，破宋金剛，其後蘇定方執賀魯，李勣平高麗，皆備軍容凱歌入京師。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_028_000199",

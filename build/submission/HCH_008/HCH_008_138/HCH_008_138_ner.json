@@ -411,6 +411,12 @@
         "end": 5
       },
       {
+        "text": "杜黃裳",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 18,
@@ -427,6 +433,12 @@
         "label": "LOC",
         "start": 39,
         "end": 41
+      },
+      {
+        "text": "裴延齡",
+        "label": "PER",
+        "start": 47,
+        "end": 50
       }
     ]
   },
@@ -439,6 +451,12 @@
     "sentence_id": "HCH_008_138_000050",
     "sentence": "初，憬廉察湖南，令狐峘、崔儆並為巡屬刺史。",
     "entities": [
+      {
+        "text": "令狐峘",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -513,7 +531,14 @@
   {
     "sentence_id": "HCH_008_138_000057",
     "sentence": "裴延齡奸詐恣睢，滿朝側目。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴延齡",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_138_000058",
@@ -635,7 +660,14 @@
   {
     "sentence_id": "HCH_008_138_000073",
     "sentence": "以吏事勤恪，楊國忠署為鑄錢內作使判官。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_138_000074",
@@ -673,6 +705,12 @@
     "sentence_id": "HCH_008_138_000079",
     "sentence": "會安祿山反，車駕幸蜀，拜倫監察御史、劍南節度行軍司馬，兼充置頓使判官，尋改屯田員外、兼侍御史。",
     "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -714,6 +752,12 @@
     "sentence_id": "HCH_008_138_000082",
     "sentence": "屬東都、河南並陷賊，漕運路絕，度支使第五琦薦倫有理能，拜商州刺史，充荊襄等道租庸使。",
     "entities": [
+      {
+        "text": "第五琦",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
       {
         "text": "拜商州",
         "label": "LOC",
@@ -800,14 +844,7 @@
   {
     "sentence_id": "HCH_008_138_000090",
     "sentence": "詔除崔光遠為襄州節度使，征倫為衛尉卿。",
-    "entities": [
-      {
-        "text": "除崔光遠為襄州",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_138_000091",
@@ -890,7 +927,14 @@
   {
     "sentence_id": "HCH_008_138_000093",
     "sentence": "時李輔國秉權用事，節將除拜，皆出其門。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李輔國",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_138_000094",
@@ -990,6 +1034,12 @@
     "sentence_id": "HCH_008_138_000100",
     "sentence": "以中官呂太一於嶺南矯詔募兵為亂，乃以倫為韶州刺史、兼御史中丞、韶連柳三州都團練使。",
     "entities": [
+      {
+        "text": "呂太一",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "乃以倫為韶州",
         "label": "LOC",
@@ -1201,6 +1251,12 @@
     "sentence_id": "HCH_008_138_000114",
     "sentence": "時李楚琳以僕射兼衛尉卿，李忠誠以尚書兼少府監，倫上言曰：「楚琳兇逆，忠誠蕃戎醜類，不合廁列清班。」又表請置義倉以防水旱，擇賢良任之左右。",
     "entities": [
+      {
+        "text": "李楚琳",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -1451,6 +1507,12 @@
     "sentence_id": "HCH_008_138_000133",
     "sentence": "牙將張獻甫曰：「天子巡幸山南，尚書使行軍奉表起居，而行軍敢自圖節鉞，潛奪尚書土地，此可謂事人不忠。軍中皆不伏，請殺樊澤。」耽曰：「公是何言歟！天子有命，即為節度使矣。耽今赴行在，便與公偕行。」即日離鎮，以獻甫自隨，軍中乃安。",
     "entities": [
+      {
+        "text": "張獻甫",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -2125,7 +2187,14 @@
   {
     "sentence_id": "HCH_008_138_000201",
     "sentence": "時王叔文用事，政出群小，耽惡其亂政，屢移病乞骸，不許。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_138_000202",
@@ -2174,12 +2243,26 @@
   {
     "sentence_id": "HCH_008_138_000208",
     "sentence": "姜公輔",
-    "entities": []
+    "entities": [
+      {
+        "text": "姜公輔",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_138_000209",
     "sentence": "姜公輔，不知何許人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姜公輔",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_138_000210",
@@ -2281,6 +2364,12 @@
         "label": "LOC",
         "start": 77,
         "end": 80
+      },
+      {
+        "text": "姜公輔",
+        "label": "PER",
+        "start": 85,
+        "end": 88
       }
     ]
   },
@@ -2314,14 +2403,7 @@
   {
     "sentence_id": "HCH_008_138_000224",
     "sentence": "帝怒，貶公輔為泉州別駕，又遣中使賫詔責竇參。",
-    "entities": [
-      {
-        "text": "貶公輔為泉州",
-        "label": "LOC",
-        "start": 3,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_138_000225",

@@ -2,7 +2,20 @@
   {
     "sentence_id": "HCH_004_027_000001",
     "sentence": "万俟普 子 洛 可朱渾元 劉豐 破六韓常 金祚 韋子粲",
-    "entities": []
+    "entities": [
+      {
+        "text": "破六韓常",
+        "label": "PER",
+        "start": 16,
+        "end": 20
+      },
+      {
+        "text": "韋子粲",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_027_000002",
@@ -45,6 +58,12 @@
     "sentence_id": "HCH_004_027_000008",
     "sentence": "斛斯椿逼帝西出，授司空、秦州刺史，據覆靺城。",
     "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "秦州",
         "label": "LOC",
@@ -325,7 +344,20 @@
   {
     "sentence_id": "HCH_004_027_000034",
     "sentence": "侯莫陳悅之殺賀拔岳也，周文帝率岳所部還，共圖悅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_027_000035",
@@ -676,6 +708,12 @@
     "sentence": "豐與行臺慕容紹宗見北有白氣同入船，忽有暴風從東北來，正晝昏暗，飛沙走礫，船纜忽絕，漂至城下。",
     "entities": [
       {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      },
+      {
         "text": "漂至城",
         "label": "LOC",
         "start": 41,
@@ -724,12 +762,26 @@
   {
     "sentence_id": "HCH_004_027_000078",
     "sentence": "破六韓常",
-    "entities": []
+    "entities": [
+      {
+        "text": "破六韓常",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_027_000079",
     "sentence": "破六韓常，字保年，附化人，匈奴單于之裔也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "破六韓常",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_027_000080",
@@ -846,6 +898,12 @@
         "end": 136
       },
       {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 136,
+        "end": 139
+      },
+      {
         "text": "呼延三鎮",
         "label": "LOC",
         "start": 147,
@@ -943,14 +1001,7 @@
   {
     "sentence_id": "HCH_004_027_000096",
     "sentence": "高祖舉義，尒朱天光率關右之衆與仲遠等北抗義師。",
-    "entities": [
-      {
-        "text": "尒朱天光率關",
-        "label": "LOC",
-        "start": 5,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_004_027_000097",
@@ -1026,12 +1077,26 @@
   {
     "sentence_id": "HCH_004_027_000102",
     "sentence": "韋子粲",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋子粲",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_027_000103",
     "sentence": "韋子粲，字暉茂，京兆人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋子粲",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_027_000104",
@@ -1052,12 +1117,6 @@
         "label": "LOC",
         "start": 0,
         "end": 4
-      },
-      {
-        "text": "從尒朱天光平關",
-        "label": "LOC",
-        "start": 17,
-        "end": 24
       }
     ]
   },

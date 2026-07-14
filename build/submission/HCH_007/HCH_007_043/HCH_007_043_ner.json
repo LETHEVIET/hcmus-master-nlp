@@ -22,12 +22,6 @@
         "end": 5
       },
       {
-        "text": "度使安從進移鎮",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
-      },
-      {
         "text": "延州",
         "label": "LOC",
         "start": 13,
@@ -44,6 +38,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "藥彥稠",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -62,14 +62,7 @@
   {
     "sentence_id": "HCH_007_043_000005",
     "sentence": "辛卯，以前彰國軍留後孫漢韶為利州節度使，充西面行營副部署兼步軍都指揮使。",
-    "entities": [
-      {
-        "text": "後孫漢韶為利州",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_043_000006",
@@ -264,6 +257,12 @@
         "label": "TITLE",
         "start": 61,
         "end": 63
+      },
+      {
+        "text": "羅周敬",
+        "label": "PER",
+        "start": 63,
+        "end": 66
       },
       {
         "text": "將軍",
@@ -486,7 +485,14 @@
   {
     "sentence_id": "HCH_007_043_000023",
     "sentence": "藥彥稠奏，誅党項阿埋等十族，與康福入白魚穀追襲叛黨，獲大首領六人、諸羌二千餘人、孳畜數千，及先劫掠到回鶻物貨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "藥彥稠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_043_000024",
@@ -525,7 +531,14 @@
   {
     "sentence_id": "HCH_007_043_000028",
     "sentence": "壬午，藥彥稠進回鶻可汗先送秦王金裝胡  錄，為党項所掠，至是得之以獻。",
-    "entities": []
+    "entities": [
+      {
+        "text": "藥彥稠",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_043_000029",
@@ -743,6 +756,12 @@
         "label": "LOC",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -865,6 +884,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -961,6 +986,12 @@
     "sentence": "樞密使奏：「近知兩川交惡，如令一賊兼有兩川，撫眾守險，恐難討除，欲令王思同以興元之師伺便進取。」詔從之。",
     "entities": [
       {
+        "text": "王思同",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      },
+      {
         "text": "元",
         "label": "ORG",
         "start": 39,
@@ -977,6 +1008,12 @@
         "label": "LOC",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -1003,6 +1040,12 @@
         "end": 17
       },
       {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "走入東川城",
         "label": "LOC",
         "start": 40,
@@ -1021,10 +1064,10 @@
         "end": 53
       },
       {
-        "text": "孟知祥已入梓州",
-        "label": "LOC",
-        "start": 58,
-        "end": 65
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 77,
+        "end": 80
       }
     ]
   },
@@ -1170,6 +1213,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1226,6 +1275,12 @@
     "sentence": "乙未，福建節度使王延鈞進絹表云：「吳越王錢鏐薨，乞封臣為吳越王。湖南馬殷官是尚書令，殷薨，請授臣尚書令。」不報。",
     "entities": [
       {
+        "text": "王延鈞",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 38,
@@ -1278,6 +1333,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -1355,6 +1416,12 @@
         "label": "LOC",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -1367,20 +1434,19 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "孫漢韶",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
   {
     "sentence_id": "HCH_007_043_000091",
     "sentence": "甲寅，以前振武節度使張萬進為鄧州節度使。",
-    "entities": [
-      {
-        "text": "使張萬進為鄧州",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_043_000092",
@@ -1415,7 +1481,14 @@
   {
     "sentence_id": "HCH_007_043_000094",
     "sentence": "己亥，以湖南節度使馬希聲卒廢朝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬希聲",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_043_000095",
@@ -1437,12 +1510,26 @@
   {
     "sentence_id": "HCH_007_043_000097",
     "sentence": "甲申，荊南節度使、檢校太傅、兼中書令高從誨加檢校太尉、兼中書令。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高從誨",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_043_000098",
     "sentence": "壬辰，供奉官李瑰自西川回，節度使孟知祥附表陳敘隔絕之由，並進物，先賜金器等。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_043_000099",
@@ -1591,7 +1678,20 @@
   {
     "sentence_id": "HCH_007_043_000113",
     "sentence": "庚申，幸至德宮，因幸石敬瑭、李從昶、李從敏之第。",
-    "entities": []
+    "entities": [
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "李從敏",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_043_000114",
@@ -1606,7 +1706,14 @@
   {
     "sentence_id": "HCH_007_043_000116",
     "sentence": "癸酉，湖南馬希範、荊南高從誨並進銀及茶，乞賜戰馬，帝還其直，各賜馬有差。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高從誨",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_043_000117",
@@ -1657,7 +1764,14 @@
   {
     "sentence_id": "HCH_007_043_000121",
     "sentence": "丁亥，以河陽節度使兼六軍諸衛副使石敬瑭為河東節度使，兼大同、彰國、振武、威塞等軍蕃漢馬步總管。",
-    "entities": []
+    "entities": [
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_043_000122",
@@ -1691,6 +1805,12 @@
     "sentence": "己亥，河中節度使李從璋加檢校太傅，以右散騎常侍楊凝式為工部侍郎。",
     "entities": [
       {
+        "text": "楊凝式",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 29,
@@ -1703,6 +1823,12 @@
     "sentence": "庚子，以秘書監盧文紀為工部尚書，以工部尚書崔居儉為太常卿，以工部侍郎鄭韜光為禮部侍郎。",
     "entities": [
       {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 13,
@@ -1713,6 +1839,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "崔居儉",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       },
       {
         "text": "侍郎",
@@ -1795,10 +1927,10 @@
     "sentence": "戊午，以前宣徽使朱宏昭為襄州節度使；康義誠為河陽節度使，充侍衛親軍馬步軍都指揮使。",
     "entities": [
       {
-        "text": "使朱宏昭為襄州",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
+        "text": "康義誠",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },

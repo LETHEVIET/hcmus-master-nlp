@@ -2,12 +2,38 @@
   {
     "sentence_id": "HCH_003_025_000001",
     "sentence": "古弼 張黎 劉潔 丘堆 娥清 伊珝 乙瓌 周幾 豆代田 車伊洛 王洛兒 車路頭 盧魯元 陳建 來大干 宿石 萬安國 周觀 尉撥 陸真 呂洛拔 薛彪子 尉元 慕容白曜 和其奴 苟頹 宇文福",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆代田",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
+        "text": "萬安國",
+        "label": "PER",
+        "start": 54,
+        "end": 57
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_025_000002",
     "sentence": "列傳第十三古弼張黎劉潔丘堆娥清伊珝乙瓌周幾豆代田車伊洛王洛兒車路頭盧魯元陳建來大干宿石萬安國周觀尉撥陸真呂洛拔薛彪子子琡尉元慕容白曜和其奴苟頹宇文福",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆代田",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "萬安國",
+        "label": "PER",
+        "start": 43,
+        "end": 46
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_025_000003",
@@ -143,7 +169,14 @@
   {
     "sentence_id": "HCH_003_025_000021",
     "sentence": "宋將裴方明克仇池，立楊玄庶子保熾。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴方明",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_025_000022",
@@ -414,6 +447,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "長孫道生",
+        "label": "PER",
+        "start": 19,
+        "end": 23
       }
     ]
   },
@@ -1270,12 +1309,6 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
-      },
-      {
-        "text": "磾以萬人襲陝城",
-        "label": "LOC",
-        "start": 14,
-        "end": 21
       }
     ]
   },
@@ -1297,12 +1330,26 @@
   {
     "sentence_id": "HCH_003_025_000179",
     "sentence": "豆代田",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆代田",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_025_000180",
     "sentence": "豆代田，代人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆代田",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_025_000181",
@@ -2376,12 +2423,26 @@
   {
     "sentence_id": "HCH_003_025_000332",
     "sentence": "萬安國",
-    "entities": []
+    "entities": [
+      {
+        "text": "萬安國",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_025_000333",
     "sentence": "萬安國，代人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "萬安國",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_025_000334",
@@ -3634,16 +3695,16 @@
         "end": 4
       },
       {
-        "text": "薛安都以徐州",
-        "label": "LOC",
-        "start": 5,
-        "end": 11
-      },
-      {
         "text": "與城",
         "label": "LOC",
         "start": 30,
         "end": 32
+      },
+      {
+        "text": "孔伯恭",
+        "label": "PER",
+        "start": 34,
+        "end": 37
       }
     ]
   },
@@ -3664,6 +3725,12 @@
         "end": 5
       },
       {
+        "text": "畢眾敬",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "太守",
         "label": "TITLE",
         "start": 11,
@@ -3674,7 +3741,14 @@
   {
     "sentence_id": "HCH_003_025_000481",
     "sentence": "宋遣將張永、沈攸之等屯于下鹈蓋。",
-    "entities": []
+    "entities": [
+      {
+        "text": "沈攸之",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_025_000482",
@@ -3723,6 +3797,12 @@
     "sentence": "別令孔伯恭撫安內外，然後元入彭城。",
     "entities": [
       {
+        "text": "孔伯恭",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "然後元入彭城",
         "label": "LOC",
         "start": 10,
@@ -3767,12 +3847,6 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
-      },
-      {
-        "text": "眾敬對為東兗州",
-        "label": "LOC",
-        "start": 20,
-        "end": 27
       },
       {
         "text": "刺史",
@@ -3905,6 +3979,12 @@
         "label": "LOC",
         "start": 5,
         "end": 11
+      },
+      {
+        "text": "游明根",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -4056,6 +4136,12 @@
         "end": 5
       },
       {
+        "text": "薛安都",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "兗州",
         "label": "LOC",
         "start": 9,
@@ -4066,6 +4152,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "畢眾敬",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       },
       {
         "text": "詔鎮",
@@ -4084,6 +4176,12 @@
         "label": "TITLE",
         "start": 33,
         "end": 35
+      },
+      {
+        "text": "孔伯恭",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       }
     ]
   },
@@ -4269,6 +4367,12 @@
         "end": 5
       },
       {
+        "text": "長孫觀",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "率騎入自馬耳關",
         "label": "LOC",
         "start": 9,
@@ -4321,6 +4425,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "劉休賓",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -4793,14 +4903,7 @@
   {
     "sentence_id": "HCH_003_025_000602",
     "sentence": "祖活撥，仕慕容垂為唐郡內史、遼東公。",
-    "entities": [
-      {
-        "text": "仕慕容垂為唐郡",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_025_000603",

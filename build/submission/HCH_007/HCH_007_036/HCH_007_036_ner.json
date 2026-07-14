@@ -32,6 +32,12 @@
     "sentence": "以樞密使安重誨為檢校司空，守左領軍大將軍，依前充樞密使。",
     "entities": [
       {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 17,
@@ -42,7 +48,14 @@
   {
     "sentence_id": "HCH_007_036_000005",
     "sentence": "宰臣豆盧革等三上表請聽政，從之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_036_000006",
@@ -170,6 +183,12 @@
     "sentence": "宰相豆盧革進位左僕射，韋說進位門下侍郎兼戶部尚書、監修國史，並依舊平章事。",
     "entities": [
       {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 17,
@@ -198,6 +217,12 @@
         "label": "LOC",
         "start": 31,
         "end": 33
+      },
+      {
+        "text": "安元信",
+        "label": "PER",
+        "start": 41,
+        "end": 44
       },
       {
         "text": "移鎮徐州",
@@ -266,6 +291,12 @@
         "end": 2
       },
       {
+        "text": "李紹真",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "貝州",
         "label": "LOC",
         "start": 9,
@@ -305,7 +336,32 @@
   {
     "sentence_id": "HCH_007_036_000027",
     "sentence": "李紹真復曰霍彥威，李紹英復曰房知溫，李紹虔復曰王晏球，李紹奇復曰夏魯奇，李紹能復曰米君立。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李紹真",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "米君立",
+        "label": "PER",
+        "start": 41,
+        "end": 44
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_036_000028",
@@ -322,6 +378,12 @@
         "label": "LOC",
         "start": 22,
         "end": 24
+      },
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       },
       {
         "text": "移鎮鄆州",
@@ -383,12 +445,6 @@
         "end": 35
       },
       {
-        "text": "使王晏球為宋州",
-        "label": "LOC",
-        "start": 37,
-        "end": 44
-      },
-      {
         "text": "以洺州",
         "label": "LOC",
         "start": 48,
@@ -399,6 +455,12 @@
         "label": "TITLE",
         "start": 51,
         "end": 53
+      },
+      {
+        "text": "米君立",
+        "label": "PER",
+        "start": 53,
+        "end": 56
       }
     ]
   },
@@ -473,12 +535,6 @@
         "label": "LOC",
         "start": 45,
         "end": 49
-      },
-      {
-        "text": "後戴思遠為洋州",
-        "label": "LOC",
-        "start": 50,
-        "end": 57
       }
     ]
   },
@@ -503,12 +559,6 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
-      },
-      {
-        "text": "空趙在禮為滑州",
-        "label": "LOC",
-        "start": 14,
-        "end": 21
       }
     ]
   },
@@ -558,6 +608,12 @@
         "end": 16
       },
       {
+        "text": "符彥超",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
         "text": "以前陳州",
         "label": "LOC",
         "start": 25,
@@ -598,6 +654,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "王延翰",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -629,6 +691,18 @@
         "end": 9
       },
       {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 104,
+        "end": 107
+      },
+      {
         "text": "故萬州",
         "label": "LOC",
         "start": 123,
@@ -657,14 +731,7 @@
   {
     "sentence_id": "HCH_007_036_000050",
     "sentence": "戊寅，以樞密使安重誨兼領襄州節度使。",
-    "entities": [
-      {
-        "text": "安重誨兼領襄州",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_036_000051",
@@ -712,12 +779,6 @@
         "end": 9
       },
       {
-        "text": "使康義誠為汾州",
-        "label": "LOC",
-        "start": 25,
-        "end": 32
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 32,
@@ -745,7 +806,14 @@
   {
     "sentence_id": "HCH_007_036_000056",
     "sentence": "初，同光季年，鏐上疏密求玉冊、金印，郭崇韜進議以為不可，而樞密承旨段徊受其重賂，讚成其事，莊宗即允其請，至是故有貢謝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_036_000057",
@@ -756,6 +824,18 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "李紹斌",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -868,6 +948,12 @@
         "end": 45
       },
       {
+        "text": "崔居儉",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 53,
@@ -964,6 +1050,12 @@
     "sentence": "戊戌，樞密使安重誨加檢校太保，行兵部尚書事如故。",
     "entities": [
       {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 18,
@@ -1022,6 +1114,12 @@
         "label": "TITLE",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       },
       {
         "text": "尚書",
@@ -1123,12 +1221,6 @@
         "label": "LOC",
         "start": 3,
         "end": 5
-      },
-      {
-        "text": "王李仁福加食邑",
-        "label": "LOC",
-        "start": 28,
-        "end": 35
       }
     ]
   },
@@ -1165,7 +1257,14 @@
   {
     "sentence_id": "HCH_007_036_000079",
     "sentence": "劍南西川節度副大使、知節度使事孟知祥加檢校太傅、兼侍中，劍南東川節度副大使、知節度事董璋加檢校太傅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_036_000080",
@@ -1195,16 +1294,16 @@
         "end": 6
       },
       {
+        "text": "符彥超",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "以鎮州",
         "label": "LOC",
         "start": 17,
         "end": 20
-      },
-      {
-        "text": "副使王建立為鎮",
-        "label": "LOC",
-        "start": 20,
-        "end": 27
       },
       {
         "text": "軍安崇阮為晉州",
@@ -1218,6 +1317,12 @@
     "sentence_id": "HCH_007_036_000083",
     "sentence": "荊南節度使高季興上言「夔、忠、萬三州，舊是當道屬郡，先被西川侵據，今乞卻割隸本管。」詔可之。",
     "entities": [
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "萬三州",
         "label": "LOC",
@@ -1419,6 +1524,12 @@
         "end": 2
       },
       {
+        "text": "王建立",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "涿州",
         "label": "LOC",
         "start": 9,
@@ -1436,6 +1547,12 @@
     "sentence_id": "HCH_007_036_000096",
     "sentence": "己卯，以比部郎中、知制誥楊凝式為給事中，充史館修撰、判館事；以偽蜀吏部尚書楊玢為給事中，充集賢殿學士、判院事。",
     "entities": [
+      {
+        "text": "楊凝式",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -1460,12 +1577,6 @@
     "sentence_id": "HCH_007_036_000098",
     "sentence": "宰相豆盧革貶辰州刺史，韋說貶漵州刺史，仍令所在馳驛發遣，為諫議大夫蕭希甫疏奏故也。",
     "entities": [
-      {
-        "text": "相豆盧革貶辰州",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -1500,7 +1611,14 @@
   {
     "sentence_id": "HCH_007_036_000100",
     "sentence": "宰相鄭玨、任圜再見安重誨，求解革、說，請不復追行後命，又三上表救解，俱留中不報。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_036_000101",
@@ -1585,12 +1703,6 @@
         "end": 8
       },
       {
-        "text": "盧革可責授費州",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
-      },
-      {
         "text": "漵州",
         "label": "LOC",
         "start": 21,
@@ -1619,6 +1731,12 @@
         "label": "LOC",
         "start": 8,
         "end": 12
+      },
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       },
       {
         "text": "夷州",

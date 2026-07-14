@@ -65,7 +65,14 @@
   {
     "sentence_id": "HCH_008_134_000006",
     "sentence": "安祿山反，俾光祿卿賈循守范陽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_134_000007",
@@ -76,6 +83,12 @@
         "label": "LOC",
         "start": 13,
         "end": 17
+      },
+      {
+        "text": "向潤客",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       },
       {
         "text": "祿山西不能入關",
@@ -115,14 +128,7 @@
   {
     "sentence_id": "HCH_008_134_000012",
     "sentence": "寶應中，澤潞節度使李抱玉署奏趙城尉。",
-    "entities": [
-      {
-        "text": "李抱玉署奏趙城",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_134_000013",
@@ -158,6 +164,24 @@
     "sentence_id": "HCH_008_134_000019",
     "sentence": "燧因說抱玉曰：「屬者與回紇言，燧得其情。今仆固懷恩恃功樹黨，李懷仙、張忠誌、薛嵩、田承嗣分授疆土，皆出於懷恩，其子瑒佻勇不義。以燧度之，將必窺太原西山以為亂，公宜深備之。」無何，懷恩果與太原都將李竭誠通謀，將取太原，其帥辛雲京覺之，斬竭誠，固城自守，懷恩遣其子瑒率兵圍之。",
     "entities": [
+      {
+        "text": "李懷仙",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      },
+      {
+        "text": "田承嗣",
+        "label": "PER",
+        "start": 41,
+        "end": 44
+      },
+      {
+        "text": "辛雲京",
+        "label": "PER",
+        "start": 110,
+        "end": 113
+      },
       {
         "text": "固城",
         "label": "LOC",
@@ -353,6 +377,12 @@
         "end": 14
       },
       {
+        "text": "常休明",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 29,
@@ -389,6 +419,12 @@
         "end": 8
       },
       {
+        "text": "李靈耀",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "因據州城",
         "label": "LOC",
         "start": 15,
@@ -416,12 +452,26 @@
   {
     "sentence_id": "HCH_008_134_000039",
     "sentence": "乃潛結魏博；田承嗣乃遣兄子悅將兵援靈耀，破永平軍將劉洽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田承嗣",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_134_000040",
     "sentence": "詔燧與淮西節度使李忠臣合軍討靈耀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李忠臣",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_134_000041",
@@ -464,6 +514,18 @@
         "label": "LOC",
         "start": 22,
         "end": 25
+      },
+      {
+        "text": "李正己",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
+        "text": "長孫全緒",
+        "label": "PER",
+        "start": 39,
+        "end": 43
       },
       {
         "text": "乘勝去汴州",
@@ -530,6 +592,12 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "李僧惠",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -639,7 +707,14 @@
   {
     "sentence_id": "HCH_008_134_000061",
     "sentence": "昭義軍告急，乃詔燧將步騎二萬與昭義節度使李抱真、神策行營兵馬使李晟合軍救臨洺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李抱真",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_134_000062",
@@ -659,7 +734,14 @@
   {
     "sentence_id": "HCH_008_134_000065",
     "sentence": "燧乃率李抱真、李晟進軍，營於二柵之中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李抱真",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_134_000066",
@@ -686,7 +768,20 @@
   {
     "sentence_id": "HCH_008_134_000069",
     "sentence": "燧乃令大將李自良、李奉國將騎兵合神策軍於雙岡禦之，令曰：「令悅得過，當斬爾！」自良等擊卻悅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李自良",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "李奉國",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_134_000070",
@@ -761,6 +856,12 @@
     "sentence_id": "HCH_008_134_000081",
     "sentence": "軍次於漳，悅遣將王光進以兵守長橋，築月城以為固，軍不得渡。",
     "entities": [
+      {
+        "text": "王光進",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "築月城",
         "label": "LOC",
@@ -894,16 +995,16 @@
     "sentence": "數日，李再春以博州降，悅兄昂以洺州降，王光進以長橋降。",
     "entities": [
       {
-        "text": "李再春以博州",
-        "label": "LOC",
-        "start": 3,
-        "end": 9
-      },
-      {
         "text": "悅兄昂以洺州",
         "label": "LOC",
         "start": 11,
         "end": 17
+      },
+      {
+        "text": "王光進",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -940,17 +1041,42 @@
   {
     "sentence_id": "HCH_008_134_000102",
     "sentence": "悅乃遣許士則、侯臧徒步間行說硃滔、王武俊，借兵求救。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王武俊",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_134_000103",
     "sentence": "時王武俊已殺李惟嶽，傳首京師，授武俊恆冀觀察都防禦使；時武俊同列張孝忠已為易定節度使，武俊獨為防禦使，又割趙、深二州為一鎮，以康日知為觀察使，甚為怨望，且素輕孝忠，恥名在下。",
     "entities": [
       {
+        "text": "王武俊",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "張孝忠",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      },
+      {
         "text": "深二州為一鎮",
         "label": "LOC",
         "start": 55,
         "end": 61
+      },
+      {
+        "text": "康日知",
+        "label": "PER",
+        "start": 63,
+        "end": 66
       }
     ]
   },
@@ -999,6 +1125,12 @@
     "sentence": "六月，硃滔、王武俊聯兵五萬來救悅，至於城下。",
     "entities": [
       {
+        "text": "王武俊",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "至於城",
         "label": "LOC",
         "start": 17,
@@ -1009,7 +1141,14 @@
   {
     "sentence_id": "HCH_008_134_000109",
     "sentence": "諸帥議退兵，燧固不可，德宗遣朔方節度使李懷光將朔方軍步騎萬五千人赴燧。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_134_000110",
@@ -1060,14 +1199,7 @@
   {
     "sentence_id": "HCH_008_134_000114",
     "sentence": "田悅、硃滔、王武俊軍亦至魏縣，與官軍隔河對壘。",
-    "entities": [
-      {
-        "text": "武俊軍亦至魏縣",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_134_000115",
@@ -1078,13 +1210,26 @@
         "label": "LOC",
         "start": 4,
         "end": 9
+      },
+      {
+        "text": "王武俊",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       }
     ]
   },
   {
     "sentence_id": "HCH_008_134_000116",
     "sentence": "四道共推淮西李希烈為天下兵馬元帥、太尉、建興王，皆偽署官號，如國初行臺之制，而名目頗有妖僻者，然未敢偽稱年號。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_134_000117",
@@ -1201,17 +1346,24 @@
   {
     "sentence_id": "HCH_008_134_000124",
     "sentence": "七月，德宗還京，加燧奉誠軍及晉、絳、慈、隰節度並管內諸軍行營副元帥，令與侍中渾瑊、鎮國軍節度使駱元光同討河中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "駱元光",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_134_000125",
     "sentence": "初，李懷光據河中，燧遣使招諭之，懷光妹婿要廷珍守晉州，衙將毛朝易攵守隰州，鄭抗守慈州，皆相次降燧。",
     "entities": [
       {
-        "text": "婿要廷珍守晉州",
-        "label": "LOC",
-        "start": 19,
-        "end": 26
+        "text": "李懷光",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       },
       {
         "text": "毛朝易攵守隰州",
@@ -1232,12 +1384,6 @@
     "sentence": "初，王武俊自魏縣還鎮，雖去偽號，而攻圍趙州不解，康日知窘蹙，欲棄趙州，燧奏曰：「可詔武俊與抱真同擊硃滔，以深、趙隸武俊，請改日知為晉、慈、隰節度使。」日知未至而三州降燧，故又加燧晉、慈、隰節度使。",
     "entities": [
       {
-        "text": "王武俊自魏縣",
-        "label": "LOC",
-        "start": 2,
-        "end": 8
-      },
-      {
         "text": "還鎮",
         "label": "LOC",
         "start": 8,
@@ -1248,6 +1394,12 @@
         "label": "LOC",
         "start": 16,
         "end": 21
+      },
+      {
+        "text": "康日知",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       },
       {
         "text": "欲棄趙州",
@@ -1320,6 +1472,12 @@
         "end": 20
       },
       {
+        "text": "王克同",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "將達奚小進棄城",
         "label": "LOC",
         "start": 25,
@@ -1331,6 +1489,12 @@
     "sentence_id": "HCH_008_134_000132",
     "sentence": "又遣大將李自良、谷秀分兵略定聞喜、夏縣、萬泉、虞鄉、永樂、猗氏六縣，降其將辛兟及兵五千人。",
     "entities": [
+      {
+        "text": "李自良",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "夏縣",
         "label": "LOC",
@@ -1404,7 +1568,14 @@
   {
     "sentence_id": "HCH_008_134_000139",
     "sentence": "七月，燧因朝京師，乃與渾瑊、駱元光、韓遊瑰合軍，次於長春宮。",
-    "entities": []
+    "entities": [
+      {
+        "text": "駱元光",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_134_000140",
@@ -1499,14 +1670,7 @@
   {
     "sentence_id": "HCH_008_134_000151",
     "sentence": "是日，賊將牛名俊斬懷光首以城降。",
-    "entities": [
-      {
-        "text": "俊斬懷光首以城",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_134_000152",
@@ -1567,6 +1731,12 @@
     "sentence_id": "HCH_008_134_000159",
     "sentence": "頃靈監節度使杜希全著書上獻，多所規諫，聊為《君臣箴》，用答其意。",
     "entities": [
+      {
+        "text": "杜希全",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "《君臣箴》",
         "label": "TITLE",
@@ -1641,6 +1811,12 @@
     "sentence_id": "HCH_008_134_000167",
     "sentence": "德宗以燧為綏、銀、麟勝招討使，令與華帥駱元光、邠帥韓遊瑰及鳳翔諸鎮之師會於河西進討。",
     "entities": [
+      {
+        "text": "駱元光",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
       {
         "text": "遊瑰及鳳翔諸鎮",
         "label": "LOC",
@@ -1896,12 +2072,6 @@
     "sentence": "至德中，李光弼鎮太原，辟為掌書記、試大理評事、監察御史，歷侍御史。",
     "entities": [
       {
-        "text": "李光弼鎮",
-        "label": "LOC",
-        "start": 4,
-        "end": 8
-      },
-      {
         "text": "御史",
         "label": "TITLE",
         "start": 25,
@@ -1923,14 +2093,7 @@
   {
     "sentence_id": "HCH_008_134_000203",
     "sentence": "田神功鎮汴州，奏授節度判官、檢校兵部郎中。",
-    "entities": [
-      {
-        "text": "田神功鎮汴州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_134_000204",
@@ -2129,6 +2292,12 @@
     "sentence": "後節度使安思順遣瑊提偏師深入葛祿部，經狐媚磧，略特羅斯山，大破阿布思部；又與諸軍城永清柵、天安軍，遷中郎將。",
     "entities": [
       {
+        "text": "安思順",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "又與諸軍城",
         "label": "LOC",
         "start": 36,
@@ -2146,6 +2315,18 @@
     "sentence_id": "HCH_008_134_000220",
     "sentence": "安祿山構逆，瑊從李光弼出師河北，定諸郡邑。",
     "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "定諸郡邑",
         "label": "LOC",
@@ -2176,6 +2357,18 @@
     "sentence": "從郭子儀收兩京，瑊討安慶緒，破賊於新鄉。",
     "entities": [
       {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "安慶緒",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "破賊於新鄉",
         "label": "LOC",
         "start": 14,
@@ -2191,7 +2384,14 @@
   {
     "sentence_id": "HCH_008_134_000225",
     "sentence": "又從仆固懷恩討史朝義，前後數十戰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史朝義",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_134_000226",
@@ -2201,7 +2401,14 @@
   {
     "sentence_id": "HCH_008_134_000227",
     "sentence": "及懷恩謀亂，令子歊與瑊率軍圍榆次，朔方將殺歊，瑊率所部歸郭子儀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_134_000228",
@@ -2258,6 +2465,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "周智光",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       },
       {
         "text": "步萬人攻下同州",
@@ -2440,6 +2653,12 @@
         "end": 3
       },
       {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "大都",
         "label": "LOC",
         "start": 30,
@@ -2486,6 +2705,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -2493,6 +2718,12 @@
     "sentence_id": "HCH_008_134_000247",
     "sentence": "時以普王為荊襄等道兵馬元帥討李希烈，大開府幕，以瑊檢校戶部尚書、御史大夫，充中軍都虞候。",
     "entities": [
+      {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -2546,6 +2777,12 @@
         "label": "TITLE",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "論惟明",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -2593,6 +2830,12 @@
     "sentence": "十一月，靈武節度使杜希全、鹽州刺史戴休顏、夏州刺史常春合兵六千人赴難。",
     "entities": [
       {
+        "text": "杜希全",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "鹽州",
         "label": "LOC",
         "start": 13,
@@ -2603,6 +2846,12 @@
         "label": "TITLE",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "戴休顏",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       },
       {
         "text": "夏州",
@@ -2843,14 +3092,7 @@
   {
     "sentence_id": "HCH_008_134_000278",
     "sentence": "賊又別造雲橋，周以重鐵，方就，而朔方節度使李懷光自魏縣行營赴難，先遣兵馬使張韶入奏。",
-    "entities": [
-      {
-        "text": "使李懷光自魏縣",
-        "label": "LOC",
-        "start": 20,
-        "end": 27
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_134_000279",
@@ -2867,6 +3109,12 @@
         "label": "LOC",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -2970,6 +3218,12 @@
         "label": "LOC",
         "start": 5,
         "end": 12
+      },
+      {
+        "text": "戴休顏",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -2981,7 +3235,14 @@
   {
     "sentence_id": "HCH_008_134_000291",
     "sentence": "尋聞硃泚、姚令言奔敗，命諸軍分道邀擊，其眾離潰，相率來降。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚令言",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_134_000292",
@@ -3009,6 +3270,24 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "戴休顏",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "駱元光",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      },
+      {
+        "text": "尚可孤",
+        "label": "PER",
+        "start": 36,
+        "end": 39
       }
     ]
   },
@@ -3032,7 +3311,14 @@
   {
     "sentence_id": "HCH_008_134_000297",
     "sentence": "以李懷光未平，又加朔方行營兵馬副元帥，與河東節度使馬燧會兵進討。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_134_000298",
@@ -3114,6 +3400,12 @@
         "end": 44
       },
       {
+        "text": "杜希全",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      },
+      {
         "text": "夏二州",
         "label": "LOC",
         "start": 90,
@@ -3148,23 +3440,30 @@
   {
     "sentence_id": "HCH_008_134_000307",
     "sentence": "初，結贊請李觀、杜希全預盟，欲執之，徑犯京師。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜希全",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_134_000308",
     "sentence": "詔報之曰：「杜希全職在靈州，不可出境，李觀又已改官；今遣侍中渾瑊充盟會使。」五月，瑊自咸陽入朝，詔授平涼盟會使，兵部尚書崔漢衡副之，司勛郎中鄭叔矩為判官。",
     "entities": [
       {
-        "text": "杜希全職在靈州",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
-      },
-      {
         "text": "尚書",
         "label": "TITLE",
         "start": 58,
         "end": 60
+      },
+      {
+        "text": "崔漢衡",
+        "label": "PER",
+        "start": 60,
+        "end": 63
       }
     ]
   },
@@ -3177,12 +3476,6 @@
         "label": "LOC",
         "start": 6,
         "end": 10
-      },
-      {
-        "text": "使駱元光以本鎮",
-        "label": "LOC",
-        "start": 12,
-        "end": 19
       }
     ]
   },
@@ -3209,7 +3502,14 @@
   {
     "sentence_id": "HCH_008_134_000314",
     "sentence": "結贊又謂瑊曰：「請侍中已下具衣冠劍珮。」瑊與監軍宋鳳朝、崔漢衡等入幕次，坦無他慮。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔漢衡",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_134_000315",
@@ -3230,6 +3530,24 @@
     "sentence_id": "HCH_008_134_000318",
     "sentence": "宋鳳朝、瑊判官鄭弇，為追兵所殺；崔漢衡、中官俱文珍、劉延、李清朝，漢衡判官鄭叔矩、瑊判官路泌、袁同直，大將軍扶余準、馬寧、神策將孟日華、李至言、樂演明、範澄、馬弇等六十余人，皆陷於賊。",
     "entities": [
+      {
+        "text": "崔漢衡",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "俱文珍",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
+        "text": "袁同直",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -3259,6 +3577,12 @@
         "label": "LOC",
         "start": 41,
         "end": 43
+      },
+      {
+        "text": "俱文珍",
+        "label": "PER",
+        "start": 99,
+        "end": 102
       }
     ]
   },
@@ -3411,6 +3735,18 @@
     "sentence": "及元和中，諸道出師討王承宗，屬義武軍節度使任迪簡病不能軍，以鎬藉父威名，足以鎮定，乃以鎬檢校右散騎常侍，充義武軍節度副使。",
     "entities": [
       {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "任迪簡",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "足以鎮",
         "label": "LOC",
         "start": 36,
@@ -3527,6 +3863,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "韓重華",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "再貶循州",

@@ -56,7 +56,14 @@
   {
     "sentence_id": "HCH_008_192_000009",
     "sentence": "而遊巖、德義之徒，所高者獨行；盧鴻一、承禎之比，所重者逃名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧鴻一",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000010",
@@ -183,12 +190,26 @@
   {
     "sentence_id": "HCH_008_192_000026",
     "sentence": "田遊巖",
-    "entities": []
+    "entities": [
+      {
+        "text": "田遊巖",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000027",
     "sentence": "田遊巖，京兆三原人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田遊巖",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000028",
@@ -236,6 +257,12 @@
         "label": "TITLE",
         "start": 128,
         "end": 130
+      },
+      {
+        "text": "劉仁軌",
+        "label": "PER",
+        "start": 132,
+        "end": 135
       }
     ]
   },
@@ -247,7 +274,14 @@
   {
     "sentence_id": "HCH_008_192_000036",
     "sentence": "特令不毀，仍親書題額懸其門，曰「隱士田遊巖宅」。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田遊巖",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000037",
@@ -577,12 +611,25 @@
   {
     "sentence_id": "HCH_008_192_000074",
     "sentence": "盧鴻一",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧鴻一",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000075",
     "sentence": "盧鴻一，字浩然，本范陽人，徙家洛陽。",
     "entities": [
+      {
+        "text": "盧鴻一",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "洛陽",
         "label": "LOC",
@@ -699,6 +746,12 @@
     "sentence": "詔曰：「盧鴻一應辟而至，訪之至道，有會淳風，舉逸人，用勸天下。特宜授諫議大夫。」鴻一固辭，又制曰：",
     "entities": [
       {
+        "text": "盧鴻一",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 36,
@@ -726,7 +779,14 @@
   {
     "sentence_id": "HCH_008_192_000094",
     "sentence": "嵩山隱士盧鴻一，抗跡幽遠，凝情篆素；隱居以求其誌，行義以達其道；雲臥林壑，多歷年載。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧鴻一",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000095",
@@ -869,6 +929,12 @@
         "end": 2
       },
       {
+        "text": "盧齊卿",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "敕州縣",
         "label": "LOC",
         "start": 53,
@@ -938,6 +1004,12 @@
         "label": "LOC",
         "start": 30,
         "end": 32
+      },
+      {
+        "text": "王守慎",
+        "label": "PER",
+        "start": 33,
+        "end": 36
       },
       {
         "text": "常州",
@@ -1091,6 +1163,12 @@
         "label": "TITLE",
         "start": 40,
         "end": 44
+      },
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 47,
+        "end": 50
       }
     ]
   },
@@ -1120,12 +1198,26 @@
   {
     "sentence_id": "HCH_008_192_000131",
     "sentence": "王守慎",
-    "entities": []
+    "entities": [
+      {
+        "text": "王守慎",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000132",
     "sentence": "王守慎者，有美名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王守慎",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000133",
@@ -1148,6 +1240,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "張知默",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -1240,6 +1338,12 @@
     "sentence": "神龍初，功臣桓彥範等用事，處玄遺彥範書，論時事得失，彥範竟不用其言，乃去官還鄉里。",
     "entities": [
       {
+        "text": "桓彥範",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "乃去官還鄉",
         "label": "LOC",
         "start": 34,
@@ -1255,12 +1359,26 @@
   {
     "sentence_id": "HCH_008_192_000151",
     "sentence": "白履忠",
-    "entities": []
+    "entities": [
+      {
+        "text": "白履忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000152",
     "sentence": "白履忠，陳留浚儀人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白履忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000153",
@@ -1304,6 +1422,18 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "褚無量",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "text": "馬懷素",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       }
     ]
   },
@@ -1328,6 +1458,12 @@
     "sentence_id": "HCH_008_192_000160",
     "sentence": "詔曰：「處士前秘書省校書郎白履忠，學優緗簡，道賁丘園，探賾以見其微，隱居能達其誌。故以汲引洙、泗，物色夷門，素風自高，玄冕非貴。几杖雲暮，章秩宜加，俾承禮命之優，式副寵賢之美。可朝散大夫。」",
     "entities": [
+      {
+        "text": "白履忠",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
       {
         "text": "大夫",
         "label": "TITLE",
@@ -1488,6 +1624,12 @@
         "end": 5
       },
       {
+        "text": "崔鳳舉",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "敕都城",
         "label": "LOC",
         "start": 34,
@@ -1515,7 +1657,14 @@
   {
     "sentence_id": "HCH_008_192_000179",
     "sentence": "武德中，太宗平王世充，與房玄齡微服以謁之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000180",
@@ -2039,7 +2188,20 @@
   {
     "sentence_id": "HCH_008_192_000246",
     "sentence": "天寶中，李林甫、楊國忠用事，綱紀日紊。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000247",
@@ -2064,7 +2226,14 @@
   {
     "sentence_id": "HCH_008_192_000251",
     "sentence": "嘗於天臺剡中往來，與詩人李白、孔巢父詩篇酬和，逍遙泉石，人多從之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孔巢父",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000252",
@@ -2097,7 +2266,14 @@
   {
     "sentence_id": "HCH_008_192_000255",
     "sentence": "驃騎高力士素奉佛，嘗短筠於上前，筠不悅，乃求還山。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高力士",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000256",
@@ -2117,12 +2293,25 @@
   {
     "sentence_id": "HCH_008_192_000259",
     "sentence": "孔述睿",
-    "entities": []
+    "entities": [
+      {
+        "text": "孔述睿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000260",
     "sentence": "孔述睿，趙州人也。",
     "entities": [
+      {
+        "text": "孔述睿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "趙州",
         "label": "LOC",
@@ -2205,6 +2394,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "趙惠伯",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -2255,7 +2450,14 @@
   {
     "sentence_id": "HCH_008_192_000277",
     "sentence": "時令狐峘亦充修撰，與述睿同職，多以細碎之事侵述睿，述睿皆讓之，竟不與爭，時人稱為長者。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐峘",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000278",
@@ -2376,7 +2578,14 @@
   {
     "sentence_id": "HCH_008_192_000289",
     "sentence": "呂元膺廉問嶽鄂，辟為賓佐。",
-    "entities": []
+    "entities": [
+      {
+        "text": "呂元膺",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000290",
@@ -2669,12 +2878,38 @@
   {
     "sentence_id": "HCH_008_192_000323",
     "sentence": "於是裴延齡、李齊運、韋渠牟尋以奸佞相次進用，誣譖時宰，毀詆大臣，陸贄等鹹遭枉黜，無敢救者。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴延齡",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "李齊運",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "韋渠牟",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000324",
     "sentence": "城乃伏閣上疏，與拾遺王仲舒共論延齡奸佞，贄等無罪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王仲舒",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000325",
@@ -2711,10 +2946,22 @@
         "end": 6
       },
       {
+        "text": "張萬福",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "乃造城",
         "label": "LOC",
         "start": 44,
         "end": 47
+      },
+      {
+        "text": "王仲舒",
+        "label": "PER",
+        "start": 48,
+        "end": 51
       }
     ]
   },
@@ -2802,7 +3049,14 @@
   {
     "sentence_id": "HCH_008_192_000335",
     "sentence": "太學生王魯卿、季償等二百七十人詣闕乞留，經數日，吏遮止之，疏不得上。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王魯卿",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_192_000336",
@@ -3012,6 +3266,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "王直方",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },

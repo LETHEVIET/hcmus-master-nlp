@@ -477,7 +477,14 @@
   {
     "sentence_id": "HCH_004_044_000053",
     "sentence": "張買奴、馬敬德、邢峙、張思伯、張雕、劉晝、鮑長暄、王元則並得服氏之精微。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王元則",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_044_000054",
@@ -781,7 +788,14 @@
   {
     "sentence_id": "HCH_004_044_000080",
     "sentence": "時中山石曜、北平陽絢、北海王晞、清河崔瞻、廣平宋欽道及工書人韓毅同在東館，師友諸王。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_044_000081",
@@ -1792,7 +1806,14 @@
   {
     "sentence_id": "HCH_004_044_000181",
     "sentence": "世祖為後主擇師傅，趙彥深進之，入為侍講。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_044_000182",
@@ -1862,6 +1883,12 @@
     "sentence_id": "HCH_004_044_000187",
     "sentence": "趙彥深云：「何容侍書封王，侍講翻無封爵。」於是亦封敬德廣漢郡王。",
     "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "亦封敬德廣漢郡",
         "label": "LOC",
@@ -2736,7 +2763,14 @@
   {
     "sentence_id": "HCH_004_044_000290",
     "sentence": "時穆提婆、韓長鸞與洪珍同侍帷幄，知雕為洪珍謀主，甚忌惡之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_044_000291",

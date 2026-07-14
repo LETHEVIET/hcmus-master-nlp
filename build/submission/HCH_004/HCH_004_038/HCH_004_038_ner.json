@@ -245,6 +245,12 @@
     "sentence": "邢卲聞之，遺術書曰：「昔鐘離意云『孔子忍渴於盜泉』，便以珠璣委地，足下今能如此，可謂異代一時。」及王僧辯破侯景，術招攜安撫，城鎮相繼款附，前後二十餘州。",
     "entities": [
       {
+        "text": "王僧辯",
+        "label": "PER",
+        "start": 49,
+        "end": 52
+      },
+      {
         "text": "城鎮",
         "label": "LOC",
         "start": 62,
@@ -745,7 +751,14 @@
   {
     "sentence_id": "HCH_004_038_000075",
     "sentence": "旣與趙彥深、和士開同被任遇，雖不如彥深清貞守道，又不為士開貪淫亂政，在於季、孟之間。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_038_000076",
@@ -902,12 +915,26 @@
   {
     "sentence_id": "HCH_004_038_000092",
     "sentence": "趙彥深",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_038_000093",
     "sentence": "趙彥深，自云南陽宛人，漢太傅熹之後。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_038_000094",
@@ -1415,7 +1442,14 @@
   {
     "sentence_id": "HCH_004_038_000151",
     "sentence": "時馮子琮子慈明、祖珽子君信並相繼居中書，故時語云：「馮、祖及趙，穢我鳳池。」然叔堅身材最劣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮子琮",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_038_000152",

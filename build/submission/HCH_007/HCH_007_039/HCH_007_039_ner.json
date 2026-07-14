@@ -50,6 +50,24 @@
     "sentence": "丁巳，詔曰：「朕聞堯、舜有恤刑之典，貴務好生；禹、湯申罪己之言，庶明知過。今月十七日，據巡檢軍使渾公兒口奏稱，有百姓二人，以竹竿習戰鬥之事。朕初聞奏報，實所不容，率爾傳宣，令付石敬瑭處置。今旦重誨敷奏，方知悉是幼童為戲，載聆讜議，方覺失刑，循揣再三，愧惕非一。亦以渾公兒誑誣頗甚，石敬瑭詳覆稍乖，致人枉法而殂，處朕有過之地。今減常膳十日，以謝幽冤。其石敬瑭是朕懿親，合施極諫，既茲錯誤，宜示省循，可罰一月俸。渾公兒決脊杖二十，仍銷在身職銜，配流登州。小兒骨肉，賜絹五十匹、粟麥各百石，便令如法埋葬。兼此後在朝及諸道州府，凡有極刑，並須子細裁遣，不得因循。」百僚進表稱賀。",
     "entities": [
       {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 88,
+        "end": 91
+      },
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 140,
+        "end": 143
+      },
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 175,
+        "end": 178
+      },
+      {
         "text": "配流登州",
         "label": "LOC",
         "start": 220,
@@ -118,6 +136,12 @@
         "label": "TITLE",
         "start": 113,
         "end": 115
+      },
+      {
+        "text": "張虔釗",
+        "label": "PER",
+        "start": 115,
+        "end": 118
       }
     ]
   },
@@ -160,6 +184,12 @@
         "end": 17
       },
       {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "潮州",
         "label": "LOC",
         "start": 39,
@@ -170,6 +200,12 @@
         "label": "TITLE",
         "start": 41,
         "end": 43
+      },
+      {
+        "text": "楊漢章",
+        "label": "PER",
+        "start": 43,
+        "end": 46
       }
     ]
   },
@@ -279,6 +315,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "司馬",
@@ -417,12 +459,6 @@
         "end": 54
       },
       {
-        "text": "度使盧文進移鎮",
-        "label": "LOC",
-        "start": 55,
-        "end": 62
-      },
-      {
         "text": "鄧州",
         "label": "LOC",
         "start": 62,
@@ -468,6 +504,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 10
+      },
+      {
+        "text": "羅周敬",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -588,6 +630,12 @@
         "end": 72
       },
       {
+        "text": "王建立",
+        "label": "PER",
+        "start": 75,
+        "end": 78
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 85,
@@ -648,6 +696,12 @@
         "end": 29
       },
       {
+        "text": "孫漢韶",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
         "text": "以前冀州",
         "label": "LOC",
         "start": 75,
@@ -658,6 +712,12 @@
         "label": "TITLE",
         "start": 79,
         "end": 81
+      },
+      {
+        "text": "婁繼英",
+        "label": "PER",
+        "start": 81,
+        "end": 84
       },
       {
         "text": "以懷州",
@@ -728,6 +788,12 @@
         "end": 9
       },
       {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "權知鎮州",
         "label": "LOC",
         "start": 40,
@@ -791,12 +857,25 @@
   {
     "sentence_id": "HCH_007_039_000061",
     "sentence": "以隨駕馬軍都指揮使康義誠為侍衛親軍馬步軍都指揮使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_039_000062",
     "sentence": "丙戌，樞密使安重誨兼河南尹；以皇子河南尹、判六軍諸衛事從厚為汴州節度使，判六軍如故。",
     "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "衛事從厚為汴州",
         "label": "LOC",
@@ -822,16 +901,16 @@
     "sentence": "以西川馬步軍都指揮使趙廷隱兼漢州刺史，從孟知祥之請也。",
     "entities": [
       {
-        "text": "使趙廷隱兼漢州",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -839,12 +918,6 @@
     "sentence_id": "HCH_007_039_000065",
     "sentence": "〈 （《九國誌·趙廷隱傳》：知祥至蜀，康延孝陷漢州，遣廷隱率兵擊破之，擒延孝，檻送闕下。知祥奏加檢校司空、漢州刺史，遂留屯成都。） 〉 洋州上言，重開入蜀舊路三百餘里，比今官路較二十五程而近。",
     "entities": [
-      {
-        "text": "《九國誌·趙廷隱傳》",
-        "label": "TITLE",
-        "start": 3,
-        "end": 13
-      },
       {
         "text": "康延孝陷漢州",
         "label": "LOC",
@@ -910,12 +983,6 @@
         "label": "LOC",
         "start": 6,
         "end": 8
-      },
-      {
-        "text": "使王晏球以定州",
-        "label": "LOC",
-        "start": 10,
-        "end": 17
       }
     ]
   },
@@ -928,6 +995,12 @@
     "sentence_id": "HCH_007_039_000069",
     "sentence": "壬寅，以王晏球為北面行營招討使，知定州行軍州事；以滄州節度使兼北面行營馬軍都指揮使安審通為副招討使兼諸道馬軍都指揮使；以左散騎常侍蕭希甫兼判大理卿事。",
     "entities": [
+      {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "知定州行軍州",
         "label": "LOC",
@@ -955,7 +1028,14 @@
   {
     "sentence_id": "HCH_007_039_000072",
     "sentence": "丁未，鄴都留守、天雄軍節度使石敬瑭，河陽節度使趙延壽並加駙馬都尉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_039_000073",
@@ -991,6 +1071,12 @@
     "sentence_id": "HCH_007_039_000075",
     "sentence": "王晏球上言，收奪得定州北西二關城。",
     "entities": [
+      {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "收奪得定州",
         "label": "LOC",
@@ -1116,6 +1202,12 @@
     "sentence": "壬申，王晏球奏，今月二十一日，大破定州賊軍及契丹於曲陽，斬獲數千人，王都與托諾以數十騎復入於定州。",
     "entities": [
       {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "大破定州",
         "label": "LOC",
         "start": 15,
@@ -1192,6 +1284,12 @@
         "end": 5
       },
       {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "丹千餘人於幽州",
         "label": "LOC",
         "start": 12,
@@ -1229,14 +1327,7 @@
   {
     "sentence_id": "HCH_007_039_000093",
     "sentence": "丙午，以前武信軍節度使李敬周為邠州節度使。",
-    "entities": [
-      {
-        "text": "使李敬周為邠州",
-        "label": "LOC",
-        "start": 10,
-        "end": 17
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_039_000094",
@@ -1260,6 +1351,12 @@
     "sentence": "甲寅，王晏球奏，六月二十二日進攻逆城，將士傷者三千人。",
     "entities": [
       {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "十二日進攻逆城",
         "label": "LOC",
         "start": 11,
@@ -1276,6 +1373,18 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "朱宏昭",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "張虔釗",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -1323,12 +1432,6 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
-      },
-      {
-        "text": "郎李慎儀貶階州",
-        "label": "LOC",
-        "start": 24,
-        "end": 31
       }
     ]
   },
@@ -1425,6 +1528,12 @@
     "sentence": "甲子，王晏球奏，今月十九日契丹七千騎來援定州，王師逆戰於唐河北，大破之。",
     "entities": [
       {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "七千騎來援定州",
         "label": "LOC",
         "start": 15,
@@ -1443,6 +1552,12 @@
         "end": 9
       },
       {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "追至滿城",
         "label": "LOC",
         "start": 27,
@@ -1453,12 +1568,25 @@
   {
     "sentence_id": "HCH_007_039_000109",
     "sentence": "戊辰，詔福建節度使王延鈞可依前檢校太師、守中書令，進封閩王。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王延鈞",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_039_000110",
     "sentence": "己巳，王晏球奏，此月二十一日，追契丹至易州，掩殺四十里，擒獲甚眾。",
     "entities": [
+      {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "追契丹至易州",
         "label": "LOC",
@@ -1600,6 +1728,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1664,6 +1798,12 @@
         "end": 4
       },
       {
+        "text": "戴思遠",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 11,
@@ -1680,12 +1820,6 @@
     "sentence_id": "HCH_007_039_000125",
     "sentence": "閏月丁未，兩浙節度觀察留後、清海軍節度使、檢校太師、兼中書令錢元瓘可杭州、越州大都督府長史，充鎮東、鎮海等軍節度使。",
     "entities": [
-      {
-        "text": "令錢元瓘可杭州",
-        "label": "LOC",
-        "start": 29,
-        "end": 36
-      },
       {
         "text": "越州",
         "label": "LOC",
@@ -1709,7 +1843,14 @@
   {
     "sentence_id": "HCH_007_039_000126",
     "sentence": "戊申，趙德鈞獻戎俘於闕下，其蕃將惕隱等五十人留於親衛，餘契丹六百人皆斬之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_039_000127",
@@ -1773,6 +1914,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "張希崇",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -1785,12 +1932,6 @@
         "label": "LOC",
         "start": 3,
         "end": 5
-      },
-      {
-        "text": "度使李從敏移鎮",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
       },
       {
         "text": "滄州",
@@ -1907,7 +2048,14 @@
   {
     "sentence_id": "HCH_007_039_000142",
     "sentence": "壬辰，宰臣王建立進玉杯，上有文曰「傳國萬歲杯」。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王建立",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_039_000143",
@@ -2013,6 +2161,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "李從敏",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2045,12 +2199,6 @@
         "end": 3
       },
       {
-        "text": "使李敬周攻慶州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 14,
@@ -2073,6 +2221,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "張希崇",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2154,19 +2308,19 @@
   {
     "sentence_id": "HCH_007_039_000158",
     "sentence": "甲戌，捧聖指揮使何福進招收到安州作亂兵士五百人，自指揮使已下至節級四十餘人並斬，餘眾釋之。",
-    "entities": [
-      {
-        "text": "福進招收到安州",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_039_000159",
     "sentence": "壬午，房知溫奏，荊南高季興卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_039_000160",
@@ -2196,12 +2350,6 @@
         "end": 17
       },
       {
-        "text": "保張希崇為汝州",
-        "label": "LOC",
-        "start": 21,
-        "end": 28
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 28,
@@ -2223,6 +2371,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -2230,12 +2384,6 @@
     "sentence_id": "HCH_007_039_000164",
     "sentence": "詔宰臣王建立權知青州軍州事。",
     "entities": [
-      {
-        "text": "王建立權知青州",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      },
       {
         "text": "軍州",
         "label": "LOC",
@@ -2258,19 +2406,20 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
-      },
-      {
-        "text": "司王建立為青州",
-        "label": "LOC",
-        "start": 24,
-        "end": 31
       }
     ]
   },
   {
     "sentence_id": "HCH_007_039_000167",
     "sentence": "丙申，帝謂侍臣曰：「古鐵券如何？」趙鳳對曰：「帝王誓文，許其子子孫孫長享爵祿。」帝曰：「先朝所賜，惟朕與郭崇韜、李繼麟三人爾，崇韜、繼麟尋已族滅，朕之危疑，慮在旦夕。」於是嗟歎久之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 52,
+        "end": 55
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_039_000168",
@@ -2321,6 +2470,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "李敬周",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "收下慶州",

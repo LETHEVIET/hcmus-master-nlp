@@ -773,10 +773,22 @@
         "end": 24
       },
       {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 34,
         "end": 36
+      },
+      {
+        "text": "朱買臣",
+        "label": "PER",
+        "start": 48,
+        "end": 51
       },
       {
         "text": "司馬",
@@ -795,6 +807,12 @@
     "sentence_id": "HCH_006_065_000108",
     "sentence": "時方外事胡越，內興制度，國家多事，自公孫弘以下至司馬遷皆奉使方外，或為郡國守相至公卿，而朔嘗至太中大夫，後常為郎，與枚皋、郭舍人俱在左右，詼啁而已。",
     "entities": [
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
       {
         "text": "司馬",
         "label": "TITLE",
@@ -998,6 +1016,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 41,
+        "end": 44
       }
     ]
   },

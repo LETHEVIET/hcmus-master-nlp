@@ -1108,12 +1108,25 @@
   {
     "sentence_id": "HCH_006_052_000126",
     "sentence": "行酒次至臨汝侯灌賢，賢方與程不識耳語，又不避席。",
-    "entities": []
+    "entities": [
+      {
+        "text": "程不識",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_052_000127",
     "sentence": "夫無所發怒，乃罵賢曰：「平生毀程不識不直一錢，今日長者為壽，乃效女曹兒呫囁耳語！」蚡謂夫曰：「程、李俱東西宮衛尉，今眾辱程將軍，仲孺獨不為李將軍地乎？」夫曰：「今日斬頭穴匈，何知程、李！」坐乃起更衣，稍稍去。",
     "entities": [
+      {
+        "text": "程不識",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
       {
         "text": "將軍",
         "label": "TITLE",
@@ -1278,7 +1291,14 @@
   {
     "sentence_id": "HCH_006_052_000147",
     "sentence": "內史鄭當時是魏其，後不堅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭當時",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_052_000148",
@@ -1903,6 +1923,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "公孫賀",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       },
       {
         "text": "將軍",

@@ -155,7 +155,14 @@
   {
     "sentence_id": "HCH_008_126_000017",
     "sentence": "時京師多盜賊，有通衢殺人置溝中者，李輔國方恣橫，上請選羽林騎士五百人以備巡檢。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李輔國",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_126_000018",
@@ -221,7 +228,14 @@
   {
     "sentence_id": "HCH_008_126_000025",
     "sentence": "初，揆秉政，侍中苗晉卿累薦元載為重官。",
-    "entities": []
+    "entities": [
+      {
+        "text": "苗晉卿",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_126_000026",
@@ -369,14 +383,7 @@
   {
     "sentence_id": "HCH_008_126_000038",
     "sentence": "朔方節度郭子儀奏為關內鹽池判官。",
-    "entities": [
-      {
-        "text": "度郭子儀奏為關",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_126_000039",
@@ -386,7 +393,14 @@
   {
     "sentence_id": "HCH_008_126_000040",
     "sentence": "涵與朔方留後杜鴻漸，草箋具朔方兵馬招集之勢，軍資倉儲庫物之數，鹹推涵宗枝之英，純厚忠信，乃令涵奉箋至平涼謁見。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜鴻漸",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_126_000041",
@@ -515,7 +529,14 @@
   {
     "sentence_id": "HCH_008_126_000049",
     "sentence": "京畿觀察使李棲筠歿，代之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李棲筠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_126_000050",
@@ -538,6 +559,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "崔祐甫",
+        "label": "PER",
+        "start": 34,
+        "end": 37
       }
     ]
   },
@@ -603,12 +630,25 @@
   {
     "sentence_id": "HCH_008_126_000055",
     "sentence": "陳少遊",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳少遊",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_126_000056",
     "sentence": "陳少遊，博州人也。",
     "entities": [
+      {
+        "text": "陳少遊",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "博州",
         "label": "LOC",
@@ -671,7 +711,14 @@
   {
     "sentence_id": "HCH_008_126_000062",
     "sentence": "所引文句，悉兼他義，諸生不能對，甚為大學士陳希烈所嘆賞，又以同宗，遇之甚厚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳希烈",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_126_000063",
@@ -689,6 +736,12 @@
     "sentence_id": "HCH_008_126_000064",
     "sentence": "至德中，河東節度王思禮奏為參謀，累授大理司直、監察殿中侍御史、節度判官。",
     "entities": [
+      {
+        "text": "王思禮",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -789,6 +842,12 @@
     "sentence_id": "HCH_008_126_000071",
     "sentence": "無幾，澤潞節度使李抱玉表為副使、御史中丞、陳鄭二州留後。",
     "entities": [
+      {
+        "text": "李抱玉",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -1084,7 +1143,20 @@
   {
     "sentence_id": "HCH_008_126_000099",
     "sentence": "勃然曰：「中丞若得，為劉長卿；不爾，為崔眾矣。」長卿嘗任租庸使，為吳仲孺所困，崔眾供軍吝財，為光弼所殺，故言及之，佶大懼，不敢固護，財帛將轉輸入京師者，悉為少遊奪之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉長卿",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "吳仲孺",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_126_000100",
@@ -1094,7 +1166,14 @@
   {
     "sentence_id": "HCH_008_126_000101",
     "sentence": "少遊又遣判官房孺復召之，佶愈懼，托以巡檢，因急棹過江，妻子伏案牘中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房孺復",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_126_000102",
@@ -1143,14 +1222,7 @@
   {
     "sentence_id": "HCH_008_126_000108",
     "sentence": "及李希烈陷汴州，聲言欲襲江淮。",
-    "entities": [
-      {
-        "text": "及李希烈陷汴州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_126_000109",
@@ -1191,6 +1263,12 @@
         "label": "TITLE",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "張建封",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -1237,6 +1315,12 @@
         "label": "LOC",
         "start": 3,
         "end": 8
+      },
+      {
+        "text": "陳少遊",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -1417,6 +1501,12 @@
     "sentence": "是時，安祿山盜陷二京，東都收復，遷太子司議郎。",
     "entities": [
       {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 17,
@@ -1439,7 +1529,14 @@
   {
     "sentence_id": "HCH_008_126_000132",
     "sentence": "東都復為史思明所陷，谞藏匿山谷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_126_000133",
@@ -1564,7 +1661,14 @@
   {
     "sentence_id": "HCH_008_126_000145",
     "sentence": "尚父、汾陽王郭子儀隸人殺羊以入，門者覺之，谞列奏狀，上以為不畏強禦，累遣宣諭。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_126_000146",

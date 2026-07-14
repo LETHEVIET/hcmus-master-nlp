@@ -59,6 +59,12 @@
     "sentence": "仕慕容暐，補著作郎，撰《燕記》。",
     "entities": [
       {
+        "text": "慕容暐",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "《燕記》",
         "label": "TITLE",
         "start": 11,
@@ -122,12 +128,25 @@
   {
     "sentence_id": "HCH_003_024_000013",
     "sentence": "慕容垂滅翟釗，以為秘書監。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_024_000014",
     "sentence": "慕容寶東走和龍，為留台吏部尚書。",
     "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -261,7 +280,14 @@
   {
     "sentence_id": "HCH_003_024_000030",
     "sentence": "初，逞之內徙，終慮不免，乃使其妻張氏與四子歸慕容德於廣固，獨與小子頤在代京。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容德",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_024_000031",
@@ -534,6 +560,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -871,6 +903,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -937,7 +975,14 @@
   {
     "sentence_id": "HCH_003_024_000113",
     "sentence": "高敖曹以三百騎劫取之，以為師友。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高敖曹",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_024_000114",
@@ -1154,6 +1199,12 @@
         "label": "LOC",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "鄭伯猷",
+        "label": "PER",
+        "start": 49,
+        "end": 52
       }
     ]
   },
@@ -1690,6 +1741,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "馮子琮",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -2364,6 +2421,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "盧尚之",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2483,6 +2546,12 @@
     "sentence_id": "HCH_003_024_000295",
     "sentence": "為慕容垂尚書左丞、范陽昌黎二郡太守。",
     "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -2634,7 +2703,14 @@
   {
     "sentence_id": "HCH_003_024_000307",
     "sentence": "父遵，慕容垂少府卿。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_024_000308",
@@ -3021,7 +3097,14 @@
   {
     "sentence_id": "HCH_003_024_000352",
     "sentence": "李䐶、鄧宗慶等，號為明察，而二人終見誅戮。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄧宗慶",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_024_000353",
@@ -3161,10 +3244,22 @@
     "sentence": "悅作色曰：「我帝孫，帝子，帝弟，帝叔，今親起輿床，卿何偃蹇？。對曰：「元景位望微劣，不足使殿下式瞻儀形，安敢以親王僚采，從廝養之役。」悅謝焉。坐上皆引滿酣暢；昕先起，臥於閑室，頻召不至。悅乃自詣呼之，曰：「懷其才而忽府主，可謂仁乎？」昕曰：「商辛沈湎，其亡也忽諸。府主自忽傲，寮佐敢任其咎？」悅大笑而去。後除著作佐郎。以兵亂漸起，將避地海隅。侍中李琰之、黃門侍郎王遵業惜其名士，不容外任，奏除尚書右外兵郎中。出為光州長史，故免河陰之難。遷東萊太守。于時年凶，人多相食，昕勤恤人隱，多所全濟。昕少時與河間邢邵俱為元羅賓友，及守東萊，邵舉室就之。郡人以邵是邢杲從弟，會兵將執之。昕以身蔽伏其上，呼曰：「欲執子才，當先執我。」邵乃免。",
     "entities": [
       {
+        "text": "李琰之",
+        "label": "PER",
+        "start": 173,
+        "end": 176
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 179,
         "end": 181
+      },
+      {
+        "text": "王遵業",
+        "label": "PER",
+        "start": 181,
+        "end": 184
       },
       {
         "text": "尚書",
@@ -3379,7 +3474,14 @@
   {
     "sentence_id": "HCH_003_024_000396",
     "sentence": "帝怒臨漳令嵇曄及舍人李文師，以曄賜薛豐洛，文師賜崔士順為奴。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔士順",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_024_000397",
@@ -3563,7 +3665,14 @@
   {
     "sentence_id": "HCH_003_024_000422",
     "sentence": "及西魏將獨孤信入洛，署為開府記室。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_024_000423",
@@ -3852,7 +3961,14 @@
   {
     "sentence_id": "HCH_003_024_000457",
     "sentence": "王曰：「若內外咸有異望，趙彥深朝夕左右，何因都無所論？自以卿意試密與言之。」晞以事隙問彥深。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_024_000458",
@@ -4286,6 +4402,12 @@
     "sentence": "父放，慕容暐吏部尚書。",
     "entities": [
       {
+        "text": "慕容暐",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 8,
@@ -4307,6 +4429,12 @@
     "sentence_id": "HCH_003_024_000513",
     "sentence": "仕慕容寶，位中書令、戶部尚書。",
     "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -4421,7 +4549,14 @@
   {
     "sentence_id": "HCH_003_024_000525",
     "sentence": "回字叔念，孝文賜名焉，慕容暐太尉奕之後也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容暐",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_024_000526",
@@ -4783,6 +4918,12 @@
     "sentence": "後為斛斯椿等所構，逃歸鄉里，齊神武召赴晉陽。",
     "entities": [
       {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "逃歸鄉",
         "label": "LOC",
         "start": 9,
@@ -5109,6 +5250,12 @@
     "sentence_id": "HCH_003_024_000587",
     "sentence": "陳將吳明徹侵淮南，子繡城陷，送揚州。",
     "entities": [
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "子繡城",
         "label": "LOC",
@@ -5625,7 +5772,14 @@
   {
     "sentence_id": "HCH_003_024_000651",
     "sentence": "父勸，慕容垂侍中、太常卿。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_024_000652",
@@ -6111,12 +6265,6 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
-      },
-      {
-        "text": "僕射蕭寶夤為關",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
       }
     ]
   },
@@ -6129,6 +6277,12 @@
         "label": "LOC",
         "start": 9,
         "end": 16
+      },
+      {
+        "text": "韋子粲",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -6202,6 +6356,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "尚書",

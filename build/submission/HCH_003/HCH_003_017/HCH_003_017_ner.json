@@ -603,7 +603,14 @@
   {
     "sentence_id": "HCH_003_017_000065",
     "sentence": "後例降為公，復姓拓拔氏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "拓拔氏",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_017_000066",
@@ -1322,6 +1329,12 @@
         "end": 2
       },
       {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "敗於煮棗城",
         "label": "LOC",
         "start": 15,
@@ -1474,6 +1487,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "任城王澄",
+        "label": "PER",
+        "start": 3,
+        "end": 7
       },
       {
         "text": "尚書",
@@ -2156,6 +2175,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "元法僧",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },
@@ -2564,7 +2589,14 @@
   {
     "sentence_id": "HCH_003_017_000292",
     "sentence": "居行罵而出，後欲邀車駕論修義罪狀，左僕射蕭寶夤喻之乃止。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_017_000293",
@@ -2600,6 +2632,12 @@
     "sentence_id": "HCH_003_017_000295",
     "sentence": "元志敗沒，賊東至黑水，更遣蕭寶夤討之，以修義為雍州刺史。",
     "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
       {
         "text": "以修義為雍州",
         "label": "LOC",
@@ -3066,6 +3104,12 @@
     "sentence_id": "HCH_003_017_000340",
     "sentence": "從韋孝寬平尉遲迥，以功拜柱國，進封河間郡公。",
     "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "進封河間郡",
         "label": "LOC",
@@ -3891,12 +3935,6 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
-      },
-      {
-        "text": "任城",
-        "label": "LOC",
-        "start": 10,
-        "end": 12
       }
     ]
   },

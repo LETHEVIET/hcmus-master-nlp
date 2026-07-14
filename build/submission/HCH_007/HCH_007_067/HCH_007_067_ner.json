@@ -4,6 +4,12 @@
     "sentence": "豆盧革，祖籍，同州刺史。",
     "entities": [
       {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "同州",
         "label": "LOC",
         "start": 7,
@@ -124,7 +130,14 @@
   {
     "sentence_id": "HCH_007_067_000016",
     "sentence": "安重誨對眾辱之曰：「山陵使名銜尚在，不候新命，便履公朝，意謂邊人可欺也。」側目者聞之，思有所中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_067_000017",
@@ -158,6 +171,12 @@
     "sentence_id": "HCH_007_067_000020",
     "sentence": "後鄭玨、任圜等連上三章，請不行後命，乃下製曰：「豆盧革、韋說等，身為輔相，手握權衡，或端坐稱臣，或半笑奏事，於君無禮，舉世寧容。革則暫委利權，便私俸祿，文武百辟皆從五月起支，父子二人偏自正初給遣。說則自居重位，全紊大綱。敘蔭貪榮，亂兒孫於昭穆；賣官潤屋，換令錄之身名。醜行疊彰，群情共怒，雖居牧守，示塞非尤。革可責授費州司戶參軍，說可夷州司戶參軍，皆員外置同正員，並所在馳驛發遣。」尋貶陵州長流百姓，委長吏常知所在。",
     "entities": [
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
       {
         "text": "革可責授費州",
         "label": "LOC",
@@ -212,6 +231,12 @@
         "end": 11
       },
       {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "《田園帖》",
         "label": "TITLE",
         "start": 15,
@@ -243,7 +268,14 @@
   {
     "sentence_id": "HCH_007_067_000027",
     "sentence": "時郭崇韜秉政，說等承順而已，政事得失，無所措言。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_067_000028",
@@ -270,12 +302,26 @@
   {
     "sentence_id": "HCH_007_067_000031",
     "sentence": "時說與郭崇韜國列，不能執而止之，頗遭物議。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_067_000032",
     "sentence": "說之親黨告之，說曰：「此郭漢子之意也。」及崇韜得罪，說懼流言所鍾，乃令門人左拾遺王鬆、吏部員外郎李慎儀等上疏，云：「崇韜往日專權，不閑故實，塞仕進之門，非獎善之道。」疏下中書，說等覆奏，深詆崇韜，識者非之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李慎儀",
+        "label": "PER",
+        "start": 48,
+        "end": 51
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_067_000033",
@@ -324,7 +370,14 @@
   {
     "sentence_id": "HCH_007_067_000038",
     "sentence": "初，說在江陵，與高季興相知，及入中書，亦常通信幣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_067_000039",
@@ -390,10 +443,22 @@
         "end": 13
       },
       {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "萬三州",
         "label": "LOC",
         "start": 63,
         "end": 66
+      },
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 148,
+        "end": 151
       },
       {
         "text": "刺史",
@@ -445,7 +510,14 @@
   {
     "sentence_id": "HCH_007_067_000048",
     "sentence": "豆盧革客遊中山，依王處直，盧汝弼來太原。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_067_000049",
@@ -465,7 +537,14 @@
   {
     "sentence_id": "HCH_007_067_000052",
     "sentence": "莊宗歸寧太原，置酒公宴，舉酒謂張承業曰：「予今於此會取一書記，先以卮酒辟之。」即舉酒屬巡官馮道，道以所舉非次，抗酒辭避。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_067_000053",
@@ -480,7 +559,14 @@
   {
     "sentence_id": "HCH_007_067_000055",
     "sentence": "時張承業專製河東留守事，人皆敬憚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_067_000056",
@@ -518,6 +604,12 @@
         "label": "LOC",
         "start": 15,
         "end": 19
+      },
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -556,19 +648,19 @@
   {
     "sentence_id": "HCH_007_067_000066",
     "sentence": "及汴將王彥章陷德勝南城，爭攻楊劉，莊宗禦軍苦戰，臣下憂之，鹹白宰臣，欲連章規諫，請不躬禦士伍。",
-    "entities": [
-      {
-        "text": "彥章陷德勝南城",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_067_000067",
     "sentence": "豆盧革言及漢高臨廣武事，矢及於胸，紿雲中足。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_067_000068",
@@ -607,7 +699,14 @@
   {
     "sentence_id": "HCH_007_067_000072",
     "sentence": "莊宗怒，謂郭崇韜曰：「朕誤相此癡物，敢辱予九卿。」促令自盡。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_067_000073",
@@ -669,6 +768,12 @@
     "sentence_id": "HCH_007_067_000080",
     "sentence": "頃之，從劉守奇奔梁，梁用守奇為博州刺史，表鳳為判官。",
     "entities": [
+      {
+        "text": "劉守奇",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "梁用守奇為博州",
         "label": "LOC",
@@ -737,6 +842,12 @@
     "sentence": "時任圜為宰相，為安重誨所傾，以至罷相歸磁州。",
     "entities": [
       {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "以至罷相歸磁州",
         "label": "LOC",
         "start": 14,
@@ -759,7 +870,14 @@
   {
     "sentence_id": "HCH_007_067_000090",
     "sentence": "既而鳳哭謂安重誨曰：「任圜，義士也，肯造逆謀以讎君父乎？如此濫刑，何以安國！」重誨笑而不責。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_067_000091",
@@ -814,12 +932,6 @@
         "label": "TITLE",
         "start": 16,
         "end": 22
-      },
-      {
-        "text": "安重誨出鎮",
-        "label": "LOC",
-        "start": 52,
-        "end": 57
       },
       {
         "text": "五年",
@@ -1173,6 +1285,12 @@
     "sentence": "時物議以蜀險阻，未可長驅，郭崇韜問計於愚，愚曰：「如聞蜀人厭其主荒恣，倉卒必不為用。宜乘其人二三，風馳電擊，彼必破膽，安能守險。」及前軍至固鎮，收軍食十五萬斛，崇韜喜，謂愚曰：「公能料事，吾軍濟矣！」招討判官陳乂至寶雞，稱疾乞留在後。",
     "entities": [
       {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "及前軍至固鎮",
         "label": "LOC",
         "start": 65,
@@ -1203,7 +1321,14 @@
   {
     "sentence_id": "HCH_007_067_000140",
     "sentence": "時西征副招討使任圜為宰相，雅相欽重，屢言於安重誨，請引為同列；屬孔循用事，援引崔協以塞其請。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_067_000141",
@@ -1507,12 +1632,6 @@
     "sentence": "明年，郭崇韜兼鎮，改行軍司馬，充北面水陸轉運使，仍知府事。",
     "entities": [
       {
-        "text": "郭崇韜兼鎮",
-        "label": "LOC",
-        "start": 3,
-        "end": 8
-      },
-      {
         "text": "司馬",
         "label": "TITLE",
         "start": 12,
@@ -1620,7 +1739,14 @@
   {
     "sentence_id": "HCH_007_067_000182",
     "sentence": "雖憂國如家，而切於功名，故為安重誨所忌。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_067_000183",
@@ -1636,6 +1762,12 @@
         "label": "TITLE",
         "start": 43,
         "end": 47
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 48,
+        "end": 51
       },
       {
         "text": "長安",

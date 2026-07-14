@@ -47,6 +47,12 @@
         "end": 16
       },
       {
+        "text": "李義深",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
         "text": "相府城",
         "label": "LOC",
         "start": 20,
@@ -398,6 +404,12 @@
         "end": 20
       },
       {
+        "text": "盧道虔",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 31,
@@ -486,7 +498,14 @@
   {
     "sentence_id": "HCH_004_024_000057",
     "sentence": "元康曰：「相樂緩於機變，不如慕容紹宗，且先王有命，稱其堪敵侯景，公但推赤心於此人，則侯景不足憂也。」是時紹宗在遠，世宗欲召見之，恐其驚叛。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 14,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_024_000058",
@@ -804,14 +823,7 @@
   {
     "sentence_id": "HCH_004_024_000093",
     "sentence": "州牧任城王澄聞而召問，深相嗟賞，許以王佐之才。",
-    "entities": [
-      {
-        "text": "州牧任城",
-        "label": "LOC",
-        "start": 0,
-        "end": 4
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_004_024_000094",
@@ -1325,6 +1337,12 @@
         "label": "LOC",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 22,
+        "end": 26
       }
     ]
   },
@@ -1738,7 +1756,14 @@
   {
     "sentence_id": "HCH_004_024_000179",
     "sentence": "高德政居要，不能下之，乃於衆前面折云：「黃門在帝左右，何得聞善不驚，唯好減削抑挫！」德政深以為恨，數言其短。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高德政",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_024_000180",

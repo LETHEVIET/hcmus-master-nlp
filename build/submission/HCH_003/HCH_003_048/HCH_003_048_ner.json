@@ -566,6 +566,12 @@
         "label": "LOC",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "劉靈助",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -1299,6 +1305,12 @@
     "sentence": "時万俟醜奴、蕭寶夤擁眾豳、涇，榮遣其從子天光為雍州刺史，令率都督賀拔岳、侯莫陳悅等入關討之。",
     "entities": [
       {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "從子天光為雍州",
         "label": "LOC",
         "start": 18,
@@ -1311,10 +1323,10 @@
         "end": 27
       },
       {
-        "text": "侯莫陳悅等入關",
-        "label": "LOC",
-        "start": 36,
-        "end": 43
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },
@@ -2573,7 +2585,14 @@
   {
     "sentence_id": "HCH_003_048_000332",
     "sentence": "仲遠等頻使斛斯椿賀拔勝往喻之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_048_000333",
@@ -2769,7 +2788,14 @@
   {
     "sentence_id": "HCH_003_048_000362",
     "sentence": "時侍中源子恭、黃門郎竇瑗並侍坐。",
-    "entities": []
+    "entities": [
+      {
+        "text": "源子恭",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_048_000363",
@@ -2826,7 +2852,14 @@
   {
     "sentence_id": "HCH_003_048_000372",
     "sentence": "尋與世隆同斬於閶闔門外，縣首於斛斯椿門樹，傳于神武。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_048_000373",
@@ -3586,7 +3619,14 @@
   {
     "sentence_id": "HCH_003_048_000472",
     "sentence": "斛斯椿既據河橋，盡殺世隆黨附，令行台長孫承業詣闕奏狀，掩執世隆及兄彥伯，俱斬之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_048_000473",
@@ -3906,7 +3946,14 @@
   {
     "sentence_id": "HCH_003_048_000517",
     "sentence": "後韓陵之敗，斛斯椿先據河橋，遂西走灅波津，為人執送。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_048_000518",
@@ -4089,7 +4136,20 @@
   {
     "sentence_id": "HCH_003_048_000535",
     "sentence": "遣使人費律如至高平，誘斬琛，為醜奴所並，與蕭寶夤相拒于安定。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "于安定",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_048_000536",
@@ -4155,10 +4215,22 @@
         "end": 29
       },
       {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
         "text": "大都",
         "label": "LOC",
         "start": 33,
         "end": 35
+      },
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 36,
+        "end": 40
       }
     ]
   },
@@ -4226,7 +4298,14 @@
   {
     "sentence_id": "HCH_003_048_000548",
     "sentence": "天光發雍至岐，與嶽合勢，破醜奴，獲蕭寶夤。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_048_000549",
@@ -4454,12 +4533,26 @@
   {
     "sentence_id": "HCH_003_048_000580",
     "sentence": "後令斛斯椿苦要天光云：「非王無以能定，豈可坐看宗家之滅？」天光不得已，東下，與仲遠等敗于韓陵。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_048_000581",
     "sentence": "斛斯椿等先還，於河橋拒之，天光不得度，西北走，被執，與度律並送于神武。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_048_000582",

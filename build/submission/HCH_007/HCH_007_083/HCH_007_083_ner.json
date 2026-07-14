@@ -79,6 +79,12 @@
         "end": 6
       },
       {
+        "text": "馬全節",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "使安審暉為邢州",
         "label": "LOC",
         "start": 28,
@@ -137,12 +143,6 @@
     "sentence_id": "HCH_007_083_000011",
     "sentence": "辛巳，以左龍武統軍李從敏為潞州節度使，天策府都護軍、桂州節度使、知郎州軍事馬希杲加檢校太師。",
     "entities": [
-      {
-        "text": "軍李從敏為潞州",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
-      },
       {
         "text": "桂州",
         "label": "LOC",
@@ -216,6 +216,12 @@
         "end": 37
       },
       {
+        "text": "趙上交",
+        "label": "PER",
+        "start": 49,
+        "end": 52
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 55,
@@ -227,6 +233,12 @@
     "sentence_id": "HCH_007_083_000014",
     "sentence": "己丑，以樞密使、中書令桑維翰充宏文館大學士，太子太傅、譙國公劉句為守司空兼門下侍郎平章事、監修國史、判三司，宰臣李崧、和凝進封爵邑。",
     "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -299,6 +311,12 @@
         "end": 62
       },
       {
+        "text": "劉知遠",
+        "label": "PER",
+        "start": 84,
+        "end": 87
+      },
+      {
         "text": "鎮州",
         "label": "LOC",
         "start": 95,
@@ -311,10 +329,22 @@
         "end": 114
       },
       {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 131,
+        "end": 134
+      },
+      {
         "text": "徐州",
         "label": "LOC",
         "start": 143,
         "end": 145
+      },
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 148,
+        "end": 151
       },
       {
         "text": "晉州",
@@ -323,10 +353,34 @@
         "end": 161
       },
       {
+        "text": "安叔千",
+        "label": "PER",
+        "start": 164,
+        "end": 167
+      },
+      {
         "text": "前兗州",
         "label": "LOC",
         "start": 177,
         "end": 180
+      },
+      {
+        "text": "安審信",
+        "label": "PER",
+        "start": 183,
+        "end": 186
+      },
+      {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 200,
+        "end": 203
+      },
+      {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 217,
+        "end": 220
       },
       {
         "text": "滑州",
@@ -335,16 +389,34 @@
         "end": 232
       },
       {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 254,
+        "end": 257
+      },
+      {
         "text": "滄州",
         "label": "LOC",
         "start": 264,
         "end": 266
       },
       {
+        "text": "王廷胤",
+        "label": "PER",
+        "start": 269,
+        "end": 272
+      },
+      {
         "text": "陜州",
         "label": "LOC",
         "start": 282,
         "end": 284
+      },
+      {
+        "text": "宋彥筠",
+        "label": "PER",
+        "start": 287,
+        "end": 290
       },
       {
         "text": "前金州",
@@ -368,6 +440,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "太子",
@@ -410,6 +488,12 @@
         "label": "TITLE",
         "start": 56,
         "end": 58
+      },
+      {
+        "text": "折從阮",
+        "label": "PER",
+        "start": 58,
+        "end": 61
       }
     ]
   },
@@ -529,6 +613,12 @@
         "end": 22
       },
       {
+        "text": "段希堯",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 28,
@@ -563,6 +653,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "白文珂",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -575,6 +671,12 @@
         "label": "LOC",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "翟光鄴",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -587,6 +689,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "王廷胤",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -604,6 +712,18 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "馬全節",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       }
     ]
   },
@@ -833,6 +953,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -840,6 +966,12 @@
     "sentence_id": "HCH_007_083_000064",
     "sentence": "光遠子承勛等斬觀察判官邱濤、牙將白延祚、楊贍、杜延壽等首級，送於招討使李守貞，乃縱火大噪，劫其父處於私第，以城納款，遣即墨縣令王德柔貢表待罪。",
     "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      },
       {
         "text": "以城",
         "label": "LOC",
@@ -857,7 +989,14 @@
   {
     "sentence_id": "HCH_007_083_000065",
     "sentence": "楊光遠亦遣節度判官楊麟奉表請死。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_083_000066",
@@ -890,7 +1029,20 @@
   {
     "sentence_id": "HCH_007_083_000069",
     "sentence": "癸酉，李守貞奏，楊光遠卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_083_000070",
@@ -947,7 +1099,14 @@
   {
     "sentence_id": "HCH_007_083_000073",
     "sentence": "縱逢恩赦，不在放還之限，並以楊光遠叛故也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_083_000074",
@@ -982,6 +1141,12 @@
         "label": "LOC",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -1002,10 +1167,10 @@
         "end": 10
       },
       {
-        "text": "使符彥卿改許州",
-        "label": "LOC",
-        "start": 37,
-        "end": 44
+        "text": "李守貞",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -1078,12 +1243,6 @@
         "label": "LOC",
         "start": 3,
         "end": 7
-      },
-      {
-        "text": "使翟光鄴為青州",
-        "label": "LOC",
-        "start": 24,
-        "end": 31
       }
     ]
   },
@@ -1157,10 +1316,16 @@
     "sentence": "詔張從恩、馬全節、安審琦率師屯邢州，趙在禮屯鄴都。",
     "entities": [
       {
-        "text": "審琦率師屯邢州",
-        "label": "LOC",
-        "start": 10,
-        "end": 17
+        "text": "馬全節",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -1199,10 +1364,22 @@
     "sentence": "趙在禮還屯澶州，馬全節歸鄴都，遣右神武統軍張彥澤屯黎陽，詔西京留守景延廣將兵守胡梁渡。",
     "entities": [
       {
-        "text": "趙在禮還屯澶州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
+        "text": "馬全節",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 33,
+        "end": 36
       }
     ]
   },
@@ -1339,12 +1516,6 @@
         "label": "LOC",
         "start": 7,
         "end": 14
-      },
-      {
-        "text": "馬全節赴相州",
-        "label": "LOC",
-        "start": 15,
-        "end": 21
       }
     ]
   },
@@ -1362,6 +1533,12 @@
         "label": "LOC",
         "start": 6,
         "end": 13
+      },
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 23,
+        "end": 27
       }
     ]
   },
@@ -1386,6 +1563,18 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 16,
+        "end": 20
+      },
+      {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 71,
+        "end": 74
       }
     ]
   },
@@ -1481,14 +1670,7 @@
   {
     "sentence_id": "HCH_007_083_000105",
     "sentence": "詔李守貞領兵屯滑州，以宣徽北院使李彥韜權侍衛馬步都虞候。",
-    "entities": [
-      {
-        "text": "守貞領兵屯滑州",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_083_000106",
@@ -1536,6 +1718,12 @@
     "sentence": "初，帝以不豫初平，未任親禦軍旅，既而張從恩、馬全節相次奏賊軍充斥，恒州杜威告事勢危急，帝曰：「北敵未平，固難安寢，當悉眾一戰，以救朔方生靈。若宴安遲疑，則大河以北，淪為寇壤矣。」即日命諸將點閱，以定行計。",
     "entities": [
       {
+        "text": "馬全節",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
         "text": "恒州",
         "label": "LOC",
         "start": 33,
@@ -1551,7 +1739,14 @@
   {
     "sentence_id": "HCH_007_083_000111",
     "sentence": "誅楊光遠部下指揮使張迥等五人，以戎事方興，慮其扇搖故也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_083_000112",
@@ -1620,6 +1815,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -1638,7 +1839,26 @@
   {
     "sentence_id": "HCH_007_083_000120",
     "sentence": "戊寅，北面行營副招討使馬全節、行營都監李守貞、右神武統軍張彥澤等以前軍先發。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬全節",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_083_000121",
@@ -1649,6 +1869,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1660,7 +1886,14 @@
   {
     "sentence_id": "HCH_007_083_000123",
     "sentence": "符彥卿、皇甫遇、李殷率諸軍進發。",
-    "entities": []
+    "entities": [
+      {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_083_000124",
@@ -1688,13 +1921,26 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "馬全節",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
   {
     "sentence_id": "HCH_007_083_000127",
     "sentence": "丙戌，幸鐵丘閱馬，因幸趙在禮、李從溫軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_083_000128",
@@ -1704,7 +1950,14 @@
   {
     "sentence_id": "HCH_007_083_000129",
     "sentence": "戊子，安審琦、梁漢璋領兵北征。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_083_000130",
@@ -1715,6 +1968,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "折從阮",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "士攻圍契丹勝州",
@@ -1735,16 +1994,34 @@
     "sentence": "甲午，以河中節度使安審琦為北面行營馬步軍都虞候，許州節度使符彥卿充馬步軍左廂都指揮使，滑州節度使皇甫遇充馬步軍右廂都指揮使，侍衛馬軍都指揮使梁漢璋充馬軍左右廂都指揮使，侍衛步軍都指揮使李殷充步軍左右廂都指揮使，左神武統軍張彥澤充馬軍左右廂都排陣使，右神武統軍潘環充步軍左右廂排陣使。",
     "entities": [
       {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "許州",
         "label": "LOC",
         "start": 24,
         "end": 26
       },
       {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
         "text": "滑州",
         "label": "LOC",
         "start": 43,
         "end": 45
+      },
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 110,
+        "end": 113
       }
     ]
   },
@@ -1800,6 +2077,24 @@
     "sentence": "杜威奏，與李守貞、馬全節、安審琦、皇甫遇部領大軍赴定州。",
     "entities": [
       {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "馬全節",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "部領大軍赴定州",
         "label": "LOC",
         "start": 20,
@@ -1828,7 +2123,14 @@
   {
     "sentence_id": "HCH_007_083_000137",
     "sentence": "是日，以符彥卿為北面行營馬步軍左右廂都排陣使，以皇甫遇為北面行營馬步軍左廂排陣使，以王周為馬步軍右廂排陣使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_083_000138",
@@ -1839,6 +2141,18 @@
         "label": "LOC",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "安審信",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -1949,6 +2263,12 @@
         "end": 37
       },
       {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 84,
+        "end": 87
+      },
+      {
         "text": "不如退還泰州",
         "label": "LOC",
         "start": 113,
@@ -2052,14 +2372,7 @@
   {
     "sentence_id": "HCH_007_083_000159",
     "sentence": "〈 （《宋史·藥元福傳》：晉師列方陣，設拒馬為行寨，契丹以奇兵出陣後，斷糧道。） 〉 是日，東北風猛，揚塵折樹。",
-    "entities": [
-      {
-        "text": "《宋史·藥元福傳》",
-        "label": "TITLE",
-        "start": 3,
-        "end": 12
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_083_000160",
@@ -2079,23 +2392,30 @@
   {
     "sentence_id": "HCH_007_083_000163",
     "sentence": "張彥澤、符彥卿、皇甫遇等率騎奮擊，風勢尤猛，沙塵如夜，敵遂大敗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_083_000164",
     "sentence": "〈 （《宋史·符彥卿傳》：時晉師居下風，將戰，弓弩莫施。彥卿謂張彥澤、皇甫遇曰：「與其束手就擒，曷若死戰，然未必死。」彥澤然之，遂潛兵尾其後，順風擊之，契丹大敗。又，《藥元福傳》：守貞與元福謀曰：「軍中饑渴已甚，若候風反出戰，吾屬為虜矣。彼謂我不能逆風以戰，宜出其不意以擊之，此兵家之奇也。」元福乃率麾下開拒馬出戰，諸將繼至，契丹大敗。） 〉 時步騎齊進，追襲二十餘里。",
     "entities": [
       {
-        "text": "《宋史·符彥卿傳》",
-        "label": "TITLE",
-        "start": 3,
-        "end": 12
-      },
-      {
-        "text": "《藥元福傳》",
-        "label": "TITLE",
-        "start": 83,
-        "end": 89
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -2178,16 +2498,16 @@
     "sentence": "庚寅，河東節度使劉知遠封北平王；恒州節度使杜威加守太傅；徐州趙在禮移鎮兗州；宋州節度使兼侍衛親軍馬步都指揮使高行周移鎮鄆州，侍衛如故；鄴都留守馬全節改天雄軍節度使；兗州節度使兼侍衛都虞候李守貞移鎮宋州，加檢校太師兼侍衛親軍副指揮使；河中節度使安審琦加兼侍中，移鎮許州；許州節度使符彥卿加同平章事，移鎮徐州；滑州節度使皇甫遇加同平章事。",
     "entities": [
       {
+        "text": "劉知遠",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "恒州",
         "label": "LOC",
         "start": 16,
         "end": 18
-      },
-      {
-        "text": "徐州趙在禮移鎮",
-        "label": "LOC",
-        "start": 28,
-        "end": 35
       },
       {
         "text": "兗州",
@@ -2202,16 +2522,16 @@
         "end": 40
       },
       {
-        "text": "揮使高行周移鎮",
-        "label": "LOC",
-        "start": 52,
-        "end": 59
-      },
-      {
         "text": "鄆州",
         "label": "LOC",
         "start": 59,
         "end": 61
+      },
+      {
+        "text": "馬全節",
+        "label": "PER",
+        "start": 71,
+        "end": 74
       },
       {
         "text": "兗州",
@@ -2220,16 +2540,16 @@
         "end": 84
       },
       {
-        "text": "虞候李守貞移鎮",
-        "label": "LOC",
-        "start": 91,
-        "end": 98
-      },
-      {
         "text": "宋州",
         "label": "LOC",
         "start": 98,
         "end": 100
+      },
+      {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 121,
+        "end": 124
       },
       {
         "text": "移鎮許州",
@@ -2242,6 +2562,12 @@
         "label": "LOC",
         "start": 134,
         "end": 136
+      },
+      {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 139,
+        "end": 142
       },
       {
         "text": "移鎮徐州",
@@ -2261,12 +2587,6 @@
     "sentence_id": "HCH_007_083_000174",
     "sentence": "壬辰，西京留守景延廣加邑封，改功臣；泰州節度使侯益移鎮河中；定州節度使王周加檢校太師。",
     "entities": [
-      {
-        "text": "留守景延廣加邑",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      },
       {
         "text": "泰州",
         "label": "LOC",

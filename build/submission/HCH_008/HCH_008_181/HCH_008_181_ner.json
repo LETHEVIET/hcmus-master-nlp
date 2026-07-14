@@ -2,7 +2,38 @@
   {
     "sentence_id": "HCH_008_181_000001",
     "sentence": "史憲誠 子:孝章 何進滔 子:弘敬 韓允忠 子:簡 樂彥禎 子:從訓 羅弘信 子:威",
-    "entities": []
+    "entities": [
+      {
+        "text": "史憲誠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "何進滔",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "韓允忠",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "樂彥禎",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "text": "羅弘信",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000002",
@@ -12,12 +43,25 @@
   {
     "sentence_id": "HCH_008_181_000003",
     "sentence": "史憲誠",
-    "entities": []
+    "entities": [
+      {
+        "text": "史憲誠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000004",
     "sentence": "史憲誠，其先出於奚虜，今爲靈武建康人。",
     "entities": [
+      {
+        "text": "史憲誠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "建康",
         "label": "LOC",
@@ -42,6 +86,12 @@
     "sentence_id": "HCH_008_181_000006",
     "sentence": "父周洛，爲魏博軍校，事田季安，至兵馬大使、銀青光祿大夫、檢校太子賓客、兼御史中丞、柱國、北海郡王。",
     "entities": [
+      {
+        "text": "田季安",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "大夫",
         "label": "TITLE",
@@ -85,6 +135,18 @@
     "sentence": "元和中，田弘正討李師道，令憲誠以先鋒四千人濟河，累下其城柵。",
     "entities": [
       {
+        "text": "田弘正",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "李師道",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "累下其城",
         "label": "LOC",
         "start": 24,
@@ -125,6 +187,12 @@
         "end": 2
       },
       {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "弘正自魏移領鎮",
         "label": "LOC",
         "start": 7,
@@ -135,7 +203,14 @@
   {
     "sentence_id": "HCH_008_181_000013",
     "sentence": "居數月，爲王廷湊所殺，遂以兵叛。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王廷湊",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000014",
@@ -174,7 +249,14 @@
   {
     "sentence_id": "HCH_008_181_000018",
     "sentence": "尋遣司門郎中韋文恪宣慰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋文恪",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000019",
@@ -217,6 +299,12 @@
         "end": 4
       },
       {
+        "text": "李全略",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "子同捷竊據軍城",
         "label": "LOC",
         "start": 16,
@@ -237,7 +325,14 @@
   {
     "sentence_id": "HCH_008_181_000028",
     "sentence": "憲誠嘗遣驍將至闕下，恣爲張大，宰相韋處厚以語折剉之，憲誠不敢復與同捷爲應。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋處厚",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000029",
@@ -495,12 +590,26 @@
   {
     "sentence_id": "HCH_008_181_000054",
     "sentence": "何進滔",
-    "entities": []
+    "entities": [
+      {
+        "text": "何進滔",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000055",
     "sentence": "何進滔，靈武人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "何進滔",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000056",
@@ -540,7 +649,14 @@
   {
     "sentence_id": "HCH_008_181_000059",
     "sentence": "進滔客寄於魏，委質軍門，事節度使田弘正。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田弘正",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000060",
@@ -551,6 +667,12 @@
         "label": "LOC",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "李師道",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       },
       {
         "text": "御史",
@@ -569,6 +691,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "史憲誠",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -604,6 +732,12 @@
     "sentence": "朝廷時遣河中帥李執方、滄州帥劉約各遣使勸令歸闕，別俟朝旨。",
     "entities": [
       {
+        "text": "李執方",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "滄州",
         "label": "LOC",
         "start": 11,
@@ -630,6 +764,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "王元逵",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       },
       {
         "text": "洺二州",
@@ -679,12 +819,25 @@
   {
     "sentence_id": "HCH_008_181_000076",
     "sentence": "韓允忠",
-    "entities": []
+    "entities": [
+      {
+        "text": "韓允忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000077",
     "sentence": "韓允忠，魏州人也。",
     "entities": [
+      {
+        "text": "韓允忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "魏州",
         "label": "LOC",
@@ -714,6 +867,12 @@
     "sentence_id": "HCH_008_181_000080",
     "sentence": "會昌中，從何弘敬破劉稹，以功爲貝州刺史、兼御史中丞。",
     "entities": [
+      {
+        "text": "何弘敬",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "以功爲貝州",
         "label": "LOC",
@@ -772,6 +931,12 @@
         "label": "TME",
         "start": 2,
         "end": 5
+      },
+      {
+        "text": "何全皞",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -880,7 +1045,14 @@
   {
     "sentence_id": "HCH_008_181_000096",
     "sentence": "賊巢之亂，諸葛爽受其偽命河陽節度使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "諸葛爽",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000097",
@@ -908,12 +1080,25 @@
   {
     "sentence_id": "HCH_008_181_000099",
     "sentence": "鄆帥曹全晸出戰，爲簡所敗，死之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "曹全晸",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000100",
     "sentence": "鄆將崔君裕收合殘眾，保鄆州。",
     "entities": [
+      {
+        "text": "崔君裕",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "保鄆州",
         "label": "LOC",
@@ -931,6 +1116,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "諸葛爽",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -964,12 +1155,25 @@
   {
     "sentence_id": "HCH_008_181_000106",
     "sentence": "樂彥禎",
-    "entities": []
+    "entities": [
+      {
+        "text": "樂彥禎",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000107",
     "sentence": "樂彥禎，魏州人也。",
     "entities": [
+      {
+        "text": "樂彥禎",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "魏州",
         "label": "LOC",
@@ -1035,7 +1239,14 @@
   {
     "sentence_id": "HCH_008_181_000111",
     "sentence": "下河陽，走諸葛爽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "諸葛爽",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000112",
@@ -1256,7 +1467,14 @@
   {
     "sentence_id": "HCH_008_181_000134",
     "sentence": "眾懷疑懼，復害文㺹，推羅弘信爲帥。",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅弘信",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000135",
@@ -1283,12 +1501,25 @@
   {
     "sentence_id": "HCH_008_181_000138",
     "sentence": "羅弘信",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅弘信",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000139",
     "sentence": "羅弘信，字德孚，魏州貴鄕人。",
     "entities": [
+      {
+        "text": "羅弘信",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "魏州",
         "label": "LOC",
@@ -1312,7 +1543,14 @@
   {
     "sentence_id": "HCH_008_181_000141",
     "sentence": "弘信少從戎役，歷事節度使韓簡、樂彥禎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "樂彥禎",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000142",
@@ -1356,6 +1594,12 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "權知節",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -1397,14 +1641,7 @@
   {
     "sentence_id": "HCH_008_181_000150",
     "sentence": "太原發軍，假道於魏，令大將李存信屯莘縣。",
-    "entities": [
-      {
-        "text": "將李存信屯莘縣",
-        "label": "LOC",
-        "start": 12,
-        "end": 19
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_181_000151",
@@ -1424,12 +1661,26 @@
   {
     "sentence_id": "HCH_008_181_000154",
     "sentence": "汴將葛從周援之，屯於洹水。",
-    "entities": []
+    "entities": [
+      {
+        "text": "葛從周",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000155",
     "sentence": "李克用子落落時爲鐵林軍使，爲從周所擒，乃退歸。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李克用",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000156",
@@ -1515,6 +1766,12 @@
     "sentence": "魏之牙中軍者，自至德中，田承嗣盜據相、魏、澶、博、衞、貝等六州，召募軍中子弟置之部下，遂以爲號。",
     "entities": [
       {
+        "text": "田承嗣",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "貝等六州",
         "label": "LOC",
         "start": 27,
@@ -1540,7 +1797,32 @@
   {
     "sentence_id": "HCH_008_181_000173",
     "sentence": "變易主帥，有同兒戲，如史憲誠、何進滔、韓君雄、樂彥禎，皆爲其所立。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史憲誠",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "何進滔",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "韓君雄",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "樂彥禎",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000174",
@@ -1578,12 +1860,25 @@
   {
     "sentence_id": "HCH_008_181_000178",
     "sentence": "朱全忠遣將李思安屯於洹水。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李思安",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000179",
     "sentence": "葛從周自邢、洺引軍入魏。",
     "entities": [
+      {
+        "text": "葛從周",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "魏",
         "label": "ORG",
@@ -1663,6 +1958,12 @@
     "sentence_id": "HCH_008_181_000188",
     "sentence": "全忠遣李思安會魏博軍，再攻滄州。",
     "entities": [
+      {
+        "text": "李思安",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "再攻滄州",
         "label": "LOC",
@@ -1840,7 +2141,14 @@
   {
     "sentence_id": "HCH_008_181_000211",
     "sentence": "如史憲誠等五家，其初皆因此而得之，其後亦因此而失之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史憲誠",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_181_000212",

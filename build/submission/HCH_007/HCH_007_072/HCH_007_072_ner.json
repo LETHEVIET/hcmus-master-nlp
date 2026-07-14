@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_007_072_000001",
     "sentence": "張承業",
-    "entities": []
+    "entities": [
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_072_000002",
     "sentence": "張承業，字繼元，本姓康，同州人。",
     "entities": [
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "同州",
         "label": "LOC",
@@ -444,6 +457,12 @@
         "label": "LOC",
         "start": 12,
         "end": 16
+      },
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -519,6 +538,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -549,7 +574,14 @@
   {
     "sentence_id": "HCH_007_072_000060",
     "sentence": "同光時，宦官幹政，邦家之務皆出於郭崇韜。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_072_000061",
@@ -663,6 +695,12 @@
     "sentence": "初與孟知祥同為中門使，及周德威薨，莊宗兼領幽州，令紹宏權知州事。",
     "entities": [
       {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "莊宗兼領幽州",
         "label": "LOC",
         "start": 17,
@@ -680,6 +718,12 @@
     "sentence_id": "HCH_007_072_000074",
     "sentence": "即位之初，郭崇韜勳望高，舊在紹宏之下，時征潞州監軍張居翰與崇韜並為樞密使，紹宏失望，乃以為宣徽使。",
     "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "時征潞州",
         "label": "LOC",
@@ -719,6 +763,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 17
+      },
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       },
       {
         "text": "天成元年",
@@ -776,6 +826,12 @@
     "sentence_id": "HCH_007_072_000085",
     "sentence": "秦王領兵至天津橋，時漢瓊與朱、馮及康義誠方會議於內庭，謀猶未決，漢瓊獨出死力，先入殿門，奏於明宗，語在《秦王傳》。",
     "entities": [
+      {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
       {
         "text": "《秦王傳》",
         "label": "TITLE",

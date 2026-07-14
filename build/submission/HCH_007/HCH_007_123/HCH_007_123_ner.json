@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_007_123_000001",
     "sentence": "高行周",
-    "entities": []
+    "entities": [
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000002",
     "sentence": "高行周，字尚質，幽州人也。",
     "entities": [
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "幽州",
         "label": "LOC",
@@ -47,6 +60,12 @@
         "label": "LOC",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -144,7 +163,14 @@
   {
     "sentence_id": "HCH_007_123_000016",
     "sentence": "鄉人趙德鈞謂明宗曰：「行周心甚謹厚，必享貴位。」梁將劉鄩之據莘也，與太原軍對壘，旦夕轉鬥。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000017",
@@ -238,14 +264,7 @@
   {
     "sentence_id": "HCH_007_123_000028",
     "sentence": "天成中，從王晏球圍定州，敗王都，擒禿諾，皆有功。",
-    "entities": [
-      {
-        "text": "從王晏球圍定州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_123_000029",
@@ -297,6 +316,12 @@
         "label": "ORG",
         "start": 8,
         "end": 9
+      },
+      {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -308,7 +333,14 @@
   {
     "sentence_id": "HCH_007_123_000035",
     "sentence": "楊光遠欲圖敬達，行周知之，引壯士護之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000036",
@@ -329,6 +361,12 @@
     "sentence_id": "HCH_007_123_000039",
     "sentence": "晉祖幸鄴，會安從進叛，命行周為襄州行營都部署。",
     "entities": [
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "命行周為襄州",
         "label": "LOC",
@@ -364,6 +402,12 @@
     "sentence": "車駕還京，代景延廣為侍衛親軍都指揮使，移鄆州節度使。",
     "entities": [
       {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "移鄆州",
         "label": "LOC",
         "start": 19,
@@ -384,19 +428,19 @@
   {
     "sentence_id": "HCH_007_123_000046",
     "sentence": "尋改歸德軍節度使，以李守貞代掌兵柄，許行周歸藩。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000047",
     "sentence": "晉軍降於中渡也，少帝命行周與符彥卿同守澶州。",
-    "entities": [
-      {
-        "text": "符彥卿同守澶州",
-        "label": "LOC",
-        "start": 14,
-        "end": 21
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_123_000048",
@@ -427,6 +471,12 @@
         "end": 12
       },
       {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "京東諸州",
         "label": "LOC",
         "start": 20,
@@ -449,12 +499,26 @@
   {
     "sentence_id": "HCH_007_123_000050",
     "sentence": "漢高祖入汴，加守太傅、兼中書令，代李守貞為天平節度使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000051",
     "sentence": "杜重威據鄴叛，漢祖以行周為招討使，總兵討之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000052",
@@ -492,7 +556,14 @@
   {
     "sentence_id": "HCH_007_123_000056",
     "sentence": "慕容彥超據兗叛，太祖親征，奉迎輿駕，傾家載贄，奉觴進俎，率以身先，太祖待之逾厚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000057",
@@ -533,12 +604,26 @@
   {
     "sentence_id": "HCH_007_123_000060",
     "sentence": "安審琦",
-    "entities": []
+    "entities": [
+      {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000061",
     "sentence": "安審琦，字國瑞，其先沙陀部人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000062",
@@ -631,7 +716,14 @@
   {
     "sentence_id": "HCH_007_123_000069",
     "sentence": "及楊光遠舉晉安寨降於晉祖，審琦亦預焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000070",
@@ -688,7 +780,14 @@
   {
     "sentence_id": "HCH_007_123_000075",
     "sentence": "俄而敵騎大至，時皇甫遇、慕容彥超亦預其行，乃率所部兵與敵戰於安陽河上。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 12,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000076",
@@ -978,10 +1077,10 @@
         "end": 2
       },
       {
-        "text": "李金全據安州",
-        "label": "LOC",
-        "start": 3,
-        "end": 9
+        "text": "馬全節",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -1012,6 +1111,12 @@
         "label": "LOC",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -1146,12 +1251,26 @@
   {
     "sentence_id": "HCH_007_123_000120",
     "sentence": "安審信",
-    "entities": []
+    "entities": [
+      {
+        "text": "安審信",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000121",
     "sentence": "安審信，字行光，審琦之從父兄也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安審信",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000122",
@@ -1347,12 +1466,26 @@
   {
     "sentence_id": "HCH_007_123_000139",
     "sentence": "李從敏",
-    "entities": []
+    "entities": [
+      {
+        "text": "李從敏",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000140",
     "sentence": "李從敏，字叔達，唐明宗之猶子也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李從敏",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000141",
@@ -1397,6 +1530,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "領滄州",
@@ -1598,7 +1737,14 @@
   {
     "sentence_id": "HCH_007_123_000164",
     "sentence": "歲餘，以王守恩代還。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王守恩",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000165",
@@ -1797,12 +1943,25 @@
   {
     "sentence_id": "HCH_007_123_000190",
     "sentence": "張彥成",
-    "entities": []
+    "entities": [
+      {
+        "text": "張彥成",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000191",
     "sentence": "張彥成，潞州潞城人也。",
     "entities": [
+      {
+        "text": "張彥成",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "潞州潞城",
         "label": "LOC",
@@ -1997,6 +2156,12 @@
         "end": 19
       },
       {
+        "text": "張彥成",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
         "text": "周",
         "label": "ORG",
         "start": 31,
@@ -2013,12 +2178,26 @@
   {
     "sentence_id": "HCH_007_123_000207",
     "sentence": "安叔千",
-    "entities": []
+    "entities": [
+      {
+        "text": "安叔千",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000208",
     "sentence": "安叔千，沙陀三部落之種也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安叔千",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000209",
@@ -2161,12 +2340,26 @@
   {
     "sentence_id": "HCH_007_123_000222",
     "sentence": "宋彥筠",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋彥筠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000223",
     "sentence": "宋彥筠，雍丘人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋彥筠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_123_000224",
@@ -2242,6 +2435,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "以功拜鄧州",

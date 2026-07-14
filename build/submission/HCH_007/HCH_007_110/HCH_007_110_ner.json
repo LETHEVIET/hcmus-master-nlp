@@ -351,7 +351,14 @@
   {
     "sentence_id": "HCH_007_110_000033",
     "sentence": "範延光叛於魏，命楊光遠討之，帝當行，意不願從。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_110_000034",
@@ -390,7 +397,14 @@
   {
     "sentence_id": "HCH_007_110_000038",
     "sentence": "帝與蘇逢吉、楊邠、史宏肇等勸漢祖建號，以副人望。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_110_000039",
@@ -416,6 +430,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -438,24 +458,50 @@
         "label": "TITLE",
         "start": 3,
         "end": 13
-      },
-      {
-        "text": "河中李守貞據城",
-        "label": "LOC",
-        "start": 70,
-        "end": 77
       }
     ]
   },
   {
     "sentence_id": "HCH_007_110_000046",
     "sentence": "史宏肇曰：「守貞，河陽一客司耳，竟何能為？」帝曰：「守貞雖不習戎行，然善接英豪，得人死力，亦敵，宜審料之。」乃命白文珂、常思率兵攻取。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白文珂",
+        "label": "PER",
+        "start": 56,
+        "end": 59
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_110_000047",
     "sentence": "師未至，而趙思綰竊據永興，王景崇反狀亦露，朝廷遣郭從義、王峻討趙思綰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙思綰",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "王景崇",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "郭從義",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
+        "text": "趙思綰",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_110_000048",
@@ -470,7 +516,14 @@
   {
     "sentence_id": "HCH_007_110_000050",
     "sentence": "時論以白文珂、常思非守貞之敵，聞帝西行，群情大愜。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白文珂",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_110_000051",
@@ -494,10 +547,10 @@
     "sentence": "〈 （《宋史·扈彥珂傳》：周祖為樞密使，總兵出征，時議多以先討景崇、思綰為便，周祖意未決。彥珂曰：「三叛連衡，推守貞為主，宜先擊河中。河中平，則永興、鳳翔失勢矣。今舍近圖遠，若景崇、思綰逆戰於前，守貞兵其後，腹背受敵，為之奈何？」周祖從其言。） 〉 命白文珂營於河西，帝營於河東。",
     "entities": [
       {
-        "text": "《宋史·扈彥珂傳》",
-        "label": "TITLE",
-        "start": 3,
-        "end": 12
+        "text": "白文珂",
+        "label": "PER",
+        "start": 126,
+        "end": 129
       }
     ]
   },
@@ -562,6 +615,12 @@
     "sentence": "相度將發，謂白文珂、劉詞曰：「困獸猶鬥，當謹備之。」帝至華州，聞蜀軍退敗，遂還。",
     "entities": [
       {
+        "text": "白文珂",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "帝至華州",
         "label": "LOC",
         "start": 26,
@@ -578,6 +637,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -730,7 +795,14 @@
   {
     "sentence_id": "HCH_007_110_000080",
     "sentence": "時漢帝以北兵為患，委帝以河朔之任，宰相蘇逢吉等議，藩臣無兼樞密使例。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_110_000081",
@@ -880,6 +952,12 @@
         "label": "LOC",
         "start": 15,
         "end": 18
+      },
+      {
+        "text": "劉重進",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -891,22 +969,60 @@
   {
     "sentence_id": "HCH_007_110_000100",
     "sentence": "二十一日，兩陣俱列，慕容彥超率軍奮擊，帝遣何福進、王彥超、李筠等大合騎以乘之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 10,
+        "end": 14
+      },
+      {
+        "text": "何福進",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "王彥超",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_110_000101",
     "sentence": "慕容彥超退卻，死者百餘人，於是南軍奪氣，稍稍奔於北軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_110_000102",
     "sentence": "慕容彥超與數十騎東奔兗州，吳虔裕、張彥超等相繼來見帝。",
     "entities": [
       {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
+      {
         "text": "數十騎東奔兗州",
         "label": "LOC",
         "start": 5,
         "end": 12
+      },
+      {
+        "text": "張彥超",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -949,6 +1065,12 @@
         "label": "LOC",
         "start": 6,
         "end": 11
+      },
+      {
+        "text": "何福進",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       }
     ]
   },
@@ -1570,22 +1692,10 @@
         "end": 6
       },
       {
-        "text": "福進受宣權許州",
-        "label": "LOC",
-        "start": 10,
-        "end": 17
-      },
-      {
         "text": "前復州",
         "label": "LOC",
         "start": 21,
         "end": 24
-      },
-      {
-        "text": "彥超受宣權徐州",
-        "label": "LOC",
-        "start": 28,
-        "end": 35
       },
       {
         "text": "前澶州",
@@ -1799,6 +1909,12 @@
         "end": 5
       },
       {
+        "text": "高行周",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 25,
@@ -1817,6 +1933,12 @@
         "end": 51
       },
       {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 52,
+        "end": 55
+      },
+      {
         "text": "青州",
         "label": "LOC",
         "start": 61,
@@ -1827,6 +1949,12 @@
         "label": "ORG",
         "start": 81,
         "end": 83
+      },
+      {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 84,
+        "end": 87
       },
       {
         "text": "夔州",
@@ -1856,7 +1984,14 @@
   {
     "sentence_id": "HCH_007_110_000200",
     "sentence": "帝遣新授節度使王彥超率兵馳赴之，仍賜廷美等敕書。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王彥超",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_110_000201",
@@ -1881,16 +2016,22 @@
         "end": 53
       },
       {
+        "text": "高保融",
+        "label": "PER",
+        "start": 73,
+        "end": 76
+      },
+      {
         "text": "朗州",
         "label": "LOC",
         "start": 84,
         "end": 86
       },
       {
-        "text": "使馬希萼破潭州",
-        "label": "LOC",
-        "start": 88,
-        "end": 95
+        "text": "馬希廣",
+        "label": "PER",
+        "start": 105,
+        "end": 108
       },
       {
         "text": "將軍",
@@ -1922,6 +2063,12 @@
         "end": 33
       },
       {
+        "text": "蘇禹珪",
+        "label": "PER",
+        "start": 72,
+        "end": 75
+      },
+      {
         "text": "夏州",
         "label": "LOC",
         "start": 84,
@@ -1934,36 +2081,35 @@
         "end": 97
       },
       {
-        "text": "保融進封渤海郡",
-        "label": "LOC",
-        "start": 102,
-        "end": 109
-      },
-      {
         "text": "馮暉進封陳留郡",
         "label": "LOC",
         "start": 113,
         "end": 120
       },
       {
+        "text": "白文珂",
+        "label": "PER",
+        "start": 124,
+        "end": 127
+      },
+      {
         "text": "兗州",
         "label": "LOC",
         "start": 128,
         "end": 130
+      },
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 130,
+        "end": 134
       }
     ]
   },
   {
     "sentence_id": "HCH_007_110_000204",
     "sentence": "詔王彥超率兵攻徐州。",
-    "entities": [
-      {
-        "text": "彥超率兵攻徐州",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_110_000205",
@@ -2160,6 +2306,12 @@
         "end": 80
       },
       {
+        "text": "張彥成",
+        "label": "PER",
+        "start": 80,
+        "end": 83
+      },
+      {
         "text": "潞州",
         "label": "LOC",
         "start": 84,
@@ -2220,6 +2372,12 @@
         "end": 16
       },
       {
+        "text": "郭從義",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "定州",
         "label": "LOC",
         "start": 25,
@@ -2256,10 +2414,22 @@
         "end": 5
       },
       {
+        "text": "扈彥珂",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "鄧州",
         "label": "LOC",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "折從阮",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       },
       {
         "text": "邢州",
@@ -2289,6 +2459,12 @@
         "label": "LOC",
         "start": 4,
         "end": 8
+      },
+      {
+        "text": "王延美",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2313,12 +2489,6 @@
         "label": "LOC",
         "start": 26,
         "end": 29
-      },
-      {
-        "text": "使何福進為許州",
-        "label": "LOC",
-        "start": 42,
-        "end": 49
       },
       {
         "text": "以博州",

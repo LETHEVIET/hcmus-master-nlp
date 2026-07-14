@@ -66,10 +66,10 @@
     "sentence": "是時，安祿山始叛，偽署劉道玄為景城守，寧唱義起兵，斬道玄首。",
     "entities": [
       {
-        "text": "署劉道玄為景城",
-        "label": "LOC",
-        "start": 10,
-        "end": 17
+        "text": "安祿山",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -88,14 +88,7 @@
   {
     "sentence_id": "HCH_008_155_000010",
     "sentence": "賊將史思明來寇郡，寧以攝東光令將兵禦之。",
-    "entities": [
-      {
-        "text": "將史思明來寇郡",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_155_000011",
@@ -123,6 +116,12 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "顏真卿",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -196,7 +195,14 @@
   {
     "sentence_id": "HCH_008_155_000022",
     "sentence": "副元帥李光弼以餉運不繼，或惡寧者，誣譖於光弼，光弼揚言欲殺寧。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_155_000023",
@@ -281,7 +287,14 @@
   {
     "sentence_id": "HCH_008_155_000031",
     "sentence": "時淮西節度使李忠臣貪暴不奉法，設防戍以稅商賈，又縱兵士剽劫，行人殆絕。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李忠臣",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_155_000032",
@@ -293,10 +306,10 @@
     "sentence": "沔州別駕薛彥偉坐事忤旨，寧仗之致死。",
     "entities": [
       {
-        "text": "沔州",
-        "label": "LOC",
-        "start": 0,
-        "end": 2
+        "text": "薛彥偉",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -668,7 +681,14 @@
   {
     "sentence_id": "HCH_008_155_000071",
     "sentence": "時裴延齡判度支，以奸巧承恩。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴延齡",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_155_000072",
@@ -683,14 +703,7 @@
   {
     "sentence_id": "HCH_008_155_000074",
     "sentence": "延齡誣贊不平，貶饒州別駕。",
-    "entities": [
-      {
-        "text": "貶饒州",
-        "label": "LOC",
-        "start": 7,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_155_000075",
@@ -812,7 +825,14 @@
   {
     "sentence_id": "HCH_008_155_000088",
     "sentence": "憲宗以王承宗叛，用內官吐突承璀為招討使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_155_000089",
@@ -944,7 +964,14 @@
   {
     "sentence_id": "HCH_008_155_000105",
     "sentence": "常疏論裴延齡，為時所知。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴延齡",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_155_000106",
@@ -1658,7 +1685,14 @@
   {
     "sentence_id": "HCH_008_155_000181",
     "sentence": "會昌初，李德裕用事，與鄲弟兄素善。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_155_000182",
@@ -1760,6 +1794,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "韋夏卿",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -1814,17 +1854,50 @@
   {
     "sentence_id": "HCH_008_155_000194",
     "sentence": "王叔文之黨柳宗元、劉禹錫皆慢群，群不附之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "柳宗元",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "劉禹錫",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_155_000195",
     "sentence": "其黨議欲貶群官，韋執誼止之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋執誼",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_155_000196",
     "sentence": "群嘗謁王叔文，叔文命撤榻而進。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_155_000197",
@@ -1875,7 +1948,20 @@
   {
     "sentence_id": "HCH_008_155_000201",
     "sentence": "宰相武元衡、李吉甫皆愛重之，召入為吏部郎中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武元衡",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_155_000202",
@@ -1886,6 +1972,12 @@
     "sentence_id": "HCH_008_155_000203",
     "sentence": "群奏刑部郎中呂溫、羊士諤為御史。",
     "entities": [
+      {
+        "text": "羊士諤",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -2122,6 +2214,12 @@
         "label": "LOC",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "王武俊",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -2453,7 +2551,14 @@
   {
     "sentence_id": "HCH_008_155_000251",
     "sentence": "性溫雅，多不能持論，士友言議之際，吻動而不發，白居易等目為「囁嚅翁」。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白居易",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_155_000252",
@@ -2502,14 +2607,7 @@
   {
     "sentence_id": "HCH_008_155_000258",
     "sentence": "父震，雅州別駕。",
-    "entities": [
-      {
-        "text": "雅州",
-        "label": "LOC",
-        "start": 3,
-        "end": 5
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_155_000259",
@@ -2659,12 +2757,6 @@
         "label": "ORG",
         "start": 4,
         "end": 5
-      },
-      {
-        "text": "皇甫政鎮",
-        "label": "LOC",
-        "start": 7,
-        "end": 11
       }
     ]
   },
@@ -2779,6 +2871,12 @@
     "sentence": "是時方討吳元濟，朝議以唐、蔡鄰接，遂以鄧隸唐州，三郡別為節制，命高霞寓領之，專俟攻討。",
     "entities": [
       {
+        "text": "吳元濟",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "遂以鄧隸唐州",
         "label": "LOC",
         "start": 17,
@@ -2789,6 +2887,12 @@
         "label": "LOC",
         "start": 24,
         "end": 26
+      },
+      {
+        "text": "高霞寓",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },
@@ -2838,6 +2942,12 @@
     "sentence_id": "HCH_008_155_000285",
     "sentence": "既而綬以無功罷兵柄，命高霞寓代綬將兵於唐州，其襄陽軍隸於霞寓。",
     "entities": [
+      {
+        "text": "高霞寓",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "代綬將兵於唐州",
         "label": "LOC",
@@ -2900,6 +3010,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "李師道",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -3122,7 +3238,14 @@
   {
     "sentence_id": "HCH_008_155_000318",
     "sentence": "與宰相韋貫之友善。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋貫之",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_155_000319",
@@ -3287,10 +3410,10 @@
     "sentence": "是時，姚南仲節制鄭滑，從事馬總以其道直為監軍使誣奏，貶泉州別駕。",
     "entities": [
       {
-        "text": "貶泉州",
-        "label": "LOC",
-        "start": 26,
-        "end": 29
+        "text": "姚南仲",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -3351,7 +3474,14 @@
   {
     "sentence_id": "HCH_008_155_000344",
     "sentence": "後閻濟美為福建觀察使，備聞其事，奏充副使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "閻濟美",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_155_000345",

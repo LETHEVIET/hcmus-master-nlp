@@ -2,7 +2,26 @@
   {
     "sentence_id": "HCH_008_070_000001",
     "sentence": "王珪　戴胄 兄子:至德 岑文本 兄子:長倩　倩子:羲　附:格輔元 杜正倫",
-    "entities": []
+    "entities": [
+      {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "格輔元",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_070_000002",
@@ -163,6 +182,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -179,7 +204,14 @@
   {
     "sentence_id": "HCH_008_070_000019",
     "sentence": "珪及溫彥博諫曰：「孝孫妙解音律，非不用心，但恐陛下顧問不得其人，以惑陛下視聽。且孝孫雅士，陛下忽爲教女樂而怪之，臣恐天下怪愕。」太宗怒曰：「卿皆我之腹心，當進忠獻直，何乃附下罔上，反爲孝孫言也！」彥博拜謝，珪獨不拜。",
-    "entities": []
+    "entities": [
+      {
+        "text": "溫彥博",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_070_000020",
@@ -189,17 +221,50 @@
   {
     "sentence_id": "HCH_008_070_000021",
     "sentence": "翌日，帝謂房玄齡曰：「自古帝王，能納諫者固難矣。昔周武王尚不用伯夷、叔齊，宣王賢主，杜伯猶以無罪見殺，吾夙夜庶幾前聖，恨不能仰及古人。昨責彥博、王珪，朕甚悔之。公等勿以此而不進直言也。」",
-    "entities": []
+    "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_070_000022",
     "sentence": "時房玄齡、李靖、溫彥博、戴胄、魏徵與珪同知國政。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "溫彥博",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_070_000023",
     "sentence": "後嘗侍宴，太宗謂珪曰：「卿識鑑清通，尤善談論，自房玄齡等，咸宜品藻，又可自量，孰與諸子賢？」對曰：「孜孜奉國，知無不爲，臣不如玄齡；才兼文武，出將入相，臣不如李靖；敷奏詳明，出納惟允，臣不如溫彥博；處繁理劇，眾務必舉，臣不如戴胄；以諫諍爲心，恥君不及於堯、舜，臣不如魏徵。至如激濁揚清，嫉惡好善，臣於數子，亦有一日之長。」太宗深然其言，群公亦各以爲盡己所懷，謂之確論。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
+        "text": "溫彥博",
+        "label": "PER",
+        "start": 95,
+        "end": 98
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_070_000024",
@@ -453,7 +518,14 @@
   {
     "sentence_id": "HCH_008_070_000046",
     "sentence": "時光祿少卿盧崇道犯罪配流嶺南，逃歸匿於東都，爲讎家所發。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧崇道",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_070_000047",
@@ -622,6 +694,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 5,
+        "end": 9
       }
     ]
   },
@@ -809,6 +887,12 @@
     "sentence": "先是，右僕射杜如晦專掌選舉，臨終請以選事委胄，由是詔令兼攝吏部尚書，其民部、庶子、諫議並如故。",
     "entities": [
       {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 31,
@@ -973,6 +1057,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "虞世南",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -984,7 +1074,14 @@
   {
     "sentence_id": "HCH_008_070_000103",
     "sentence": "房玄齡、魏徵並美胄才用，俱與之親善，及胄卒後，嘗見其游處之地，數爲之流涕。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_070_000104",
@@ -1037,10 +1134,28 @@
     "sentence": "咸亨中，高宗爲飛白書以賜侍臣，賜至德曰「泛洪源，俟舟楫」；賜郝處俊曰「飛九霄，假六翮」；賜李敬玄曰「資啟沃，罄丹誠」；又賜中書侍郎崔知悌曰「竭忠節，贊皇猷」，其辭皆有興比。",
     "entities": [
       {
+        "text": "郝處俊",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      },
+      {
+        "text": "李敬玄",
+        "label": "PER",
+        "start": 45,
+        "end": 48
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 63,
         "end": 65
+      },
+      {
+        "text": "崔知悌",
+        "label": "PER",
+        "start": 65,
+        "end": 68
       }
     ]
   },
@@ -1059,7 +1174,14 @@
   {
     "sentence_id": "HCH_008_070_000111",
     "sentence": "時劉仁軌爲左僕射，每遇申訴冤滯者，輒美言許之；而至德先據理難詰，未嘗與奪，若有理者，密爲奏之，終不顯己之斷決，由是時譽歸於仁軌。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉仁軌",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_070_000112",
@@ -1098,12 +1220,26 @@
   {
     "sentence_id": "HCH_008_070_000115",
     "sentence": "岑文本",
-    "entities": []
+    "entities": [
+      {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_070_000116",
     "sentence": "岑文本，字景仁，南陽棘陽人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_070_000117",
@@ -1200,19 +1336,19 @@
   {
     "sentence_id": "HCH_008_070_000126",
     "sentence": "署文本荊州別駕。",
-    "entities": [
-      {
-        "text": "署文本荊州",
-        "label": "LOC",
-        "start": 0,
-        "end": 5
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_070_000127",
     "sentence": "孝恭進擊輔公祏，召典軍書，復署行台考功郎中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "輔公祏",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_070_000128",
@@ -1258,7 +1394,14 @@
   {
     "sentence_id": "HCH_008_070_000132",
     "sentence": "初，武德中詔誥及軍國大事，文皆出於顏師古。",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏師古",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_070_000133",
@@ -1281,6 +1424,18 @@
         "end": 5
       },
       {
+        "text": "顏師古",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "溫彥博",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 71,
@@ -1292,6 +1447,12 @@
     "sentence_id": "HCH_008_070_000136",
     "sentence": "又先與令狐德棻撰《周史》，其史論多出於文本。",
     "entities": [
+      {
+        "text": "令狐德棻",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      },
       {
         "text": "《周史》",
         "label": "TITLE",
@@ -1669,12 +1830,6 @@
     "sentence": "其年，鳳閣舍人張嘉福與洛州人王慶之等列名上表，請立武承嗣爲皇太子。",
     "entities": [
       {
-        "text": "人張嘉福與洛州",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
-      },
-      {
         "text": "太子",
         "label": "TITLE",
         "start": 30,
@@ -1691,6 +1846,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "格輔元",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -1707,7 +1868,26 @@
   {
     "sentence_id": "HCH_008_070_000191",
     "sentence": "來俊臣又脅迫長倩子靈源，令誣納言歐陽通及格輔元等數十人，皆陷以同反之罪，並誅死。",
-    "entities": []
+    "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "歐陽通",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "格輔元",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_070_000192",
@@ -1730,13 +1910,26 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "韋嗣立",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
   {
     "sentence_id": "HCH_008_070_000194",
     "sentence": "由是緣坐近親，相次入省，登封令劉守悌爲司門員外郎，渭南令裴惓爲地官員外郎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉守悌",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_070_000195",
@@ -1799,7 +1992,14 @@
   {
     "sentence_id": "HCH_008_070_000199",
     "sentence": "時武三思用事，侍中敬暉欲上表請削諸武之爲王者，募爲疏者。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_070_000200",
@@ -1827,6 +2027,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "李元恭",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -1889,6 +2095,12 @@
         "end": 9
       },
       {
+        "text": "冉祖雍",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "公主",
         "label": "TITLE",
         "start": 19,
@@ -1905,6 +2117,12 @@
         "label": "TITLE",
         "start": 38,
         "end": 40
+      },
+      {
+        "text": "蕭至忠",
+        "label": "PER",
+        "start": 40,
+        "end": 43
       }
     ]
   },
@@ -1981,12 +2199,25 @@
   {
     "sentence_id": "HCH_008_070_000212",
     "sentence": "附 格輔元",
-    "entities": []
+    "entities": [
+      {
+        "text": "格輔元",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_070_000213",
     "sentence": "格輔元者，汴州浚儀人也。",
     "entities": [
+      {
+        "text": "格輔元",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "汴州",
         "label": "LOC",
@@ -2022,6 +2253,12 @@
         "label": "LOC",
         "start": 46,
         "end": 49
+      },
+      {
+        "text": "李行簡",
+        "label": "PER",
+        "start": 61,
+        "end": 64
       }
     ]
   },
@@ -2052,7 +2289,14 @@
   {
     "sentence_id": "HCH_008_070_000216",
     "sentence": "初，張嘉福等請立武承嗣也，則天以問輔元，固稱不可，遂爲承嗣所譖而死，海內冤之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張嘉福",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_070_000217",
@@ -2071,6 +2315,12 @@
         "end": 20
       },
       {
+        "text": "劉訥言",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
         "text": "《後漢書》",
         "label": "TITLE",
         "start": 33,
@@ -2086,12 +2336,25 @@
   {
     "sentence_id": "HCH_008_070_000219",
     "sentence": "杜正倫",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_070_000220",
     "sentence": "杜正倫，相州洹水人也。",
     "entities": [
+      {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "相州",
         "label": "LOC",
@@ -2218,6 +2481,18 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "虞世南",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "姚思廉",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -2326,6 +2601,12 @@
     "sentence": "後承乾構逆，事與侯君集相連，稱遣君集將金帶遺正倫，由是配流驩州。",
     "entities": [
       {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "由是配流驩州",
         "label": "LOC",
         "start": 25,
@@ -2396,6 +2677,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "出爲橫州",

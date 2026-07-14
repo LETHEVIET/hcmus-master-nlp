@@ -110,7 +110,14 @@
   {
     "sentence_id": "HCH_008_168_000017",
     "sentence": "宋申錫被誣，溫倡言曰：「宋公履行有素，身居臺輔，不當有此，是奸人陷害也。吾輩諫官，豈避一時之雷電，而致聖君賢相蒙蔽惑之咎耶？」因率同列伏閣切爭之，由是知名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋申錫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_168_000018",
@@ -156,12 +163,26 @@
   {
     "sentence_id": "HCH_008_168_000022",
     "sentence": "李德裕作相，遷禮部員外郎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_168_000023",
     "sentence": "或以溫厚於牛僧孺，言於德裕。",
-    "entities": []
+    "entities": [
+      {
+        "text": "牛僧孺",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_168_000024",
@@ -249,7 +270,14 @@
   {
     "sentence_id": "HCH_008_168_000034",
     "sentence": "王晏平為靈武，刻削軍士，贓罪發，帝以智興之故，減死，貶官。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王晏平",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_168_000035",
@@ -289,6 +317,12 @@
     "sentence_id": "HCH_008_168_000038",
     "sentence": "吏部員外郎張文規父弘靖，長慶初在幽州為硃克融所囚；文規不時省赴，人士喧然罪之。",
     "entities": [
+      {
+        "text": "張文規",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "長慶初在幽州",
         "label": "LOC",
@@ -345,6 +379,12 @@
     "sentence": "翌日，帝謂楊嗣復曰：「韋溫不放姚勖入省，有故事否？」嗣復對曰：「韋溫誌在銓擇清流。然姚勖士行無玷，梁公元崇之孫，自殿中判鹽鐵案，陛下獎之，宜也。若人有吏能，不入清流，孰為陛下當煩劇者？此衰晉之風也。」上素重溫，亦不奪其操，出為陜虢觀察使。",
     "entities": [
       {
+        "text": "楊嗣復",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "清",
         "label": "ORG",
         "start": 80,
@@ -356,6 +396,12 @@
     "sentence_id": "HCH_008_168_000046",
     "sentence": "武宗即位，李德裕用事，召拜吏部侍郎，欲引以為相。",
     "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "侍郎",
         "label": "TITLE",
@@ -390,7 +436,14 @@
   {
     "sentence_id": "HCH_008_168_000049",
     "sentence": "居無何，出溫為宣歙觀察使，辟鄭處誨為觀察判官，德裕愈不悅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭處誨",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_168_000050",
@@ -409,6 +462,12 @@
     "sentence": "明年，瘍生於首，謂愛婿張復魯曰：「予任校書郎時，夢二黃衣人賫符來追，及浐，將渡，一人續至曰：『彼墳至大，功須萬日。』遂不涉而寤。計今萬日矣，與公訣矣。」明日卒，贈工部尚書，謚曰孝。",
     "entities": [
       {
+        "text": "張復魯",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 83,
@@ -419,7 +478,14 @@
   {
     "sentence_id": "HCH_008_168_000052",
     "sentence": "溫在朝時，與李玨、楊嗣復周旋。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊嗣復",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_168_000053",
@@ -561,17 +627,38 @@
   {
     "sentence_id": "HCH_008_168_000070",
     "sentence": "獨孤郁",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤郁",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_168_000071",
     "sentence": "獨孤郁，河南人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤郁",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_168_000072",
     "sentence": "父及，天寶末與李華、蕭潁士等齊名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭潁士",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_168_000073",
@@ -606,6 +693,12 @@
         "label": "TME",
         "start": 4,
         "end": 7
+      },
+      {
+        "text": "權德輿",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -641,6 +734,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "杜從郁",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -676,7 +775,14 @@
   {
     "sentence_id": "HCH_008_168_000081",
     "sentence": "權德輿作相，郁以婦公辭內職。",
-    "entities": []
+    "entities": [
+      {
+        "text": "權德輿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_168_000082",
@@ -800,6 +906,12 @@
         "end": 8
       },
       {
+        "text": "李景儉",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "出為漳州",
         "label": "LOC",
         "start": 33,
@@ -881,6 +993,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "李道樞",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -907,6 +1025,12 @@
     "sentence": "時崔晃、鄭居中不由憲長而除，皆丞相之僚舊也，敕命雖行，朗拒而不納，晃竟改太常博士，居中分司東臺。",
     "entities": [
       {
+        "text": "鄭居中",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "丞相",
         "label": "TITLE",
         "start": 15,
@@ -924,6 +1048,12 @@
     "sentence_id": "HCH_008_168_000102",
     "sentence": "其年十月，高少逸入閣失儀，朗不彈奏，宰相銜阻崔晃事，左授少逸贊善大夫，朗亦罰俸。",
     "entities": [
+      {
+        "text": "高少逸",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "大夫",
         "label": "TITLE",
@@ -1177,14 +1307,7 @@
   {
     "sentence_id": "HCH_008_168_000127",
     "sentence": "時宰相段文昌出鎮蜀川。",
-    "entities": [
-      {
-        "text": "宰相段文昌出鎮",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_168_000128",
@@ -1238,7 +1361,14 @@
   {
     "sentence_id": "HCH_008_168_000134",
     "sentence": "李宗閔與元稹素相厚善。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李宗閔",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_168_000135",
@@ -1253,7 +1383,14 @@
   {
     "sentence_id": "HCH_008_168_000137",
     "sentence": "楊汝士與徽有舊。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊汝士",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_168_000138",
@@ -1291,6 +1428,12 @@
     "sentence_id": "HCH_008_168_000143",
     "sentence": "遂命中書舍人王起、主客郎中知制誥白居易，於子亭重試，內出題目《孤竹管賦》、《鳥散余花落》詩，而十人不中選。",
     "entities": [
+      {
+        "text": "白居易",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
       {
         "text": "《孤竹管賦》",
         "label": "TITLE",
@@ -1362,7 +1505,26 @@
   {
     "sentence_id": "HCH_008_168_000152",
     "sentence": "孔溫業、趙存約、竇洵直所試粗通，與及第；裴撰特賜及第；鄭朗等十人並落下。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孔溫業",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "趙存約",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "竇洵直",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_168_000153",
@@ -1393,16 +1555,16 @@
         "end": 8
       },
       {
-        "text": "舍人李宗閔劍州",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "楊汝士",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -2017,6 +2179,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李仲言",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -2144,6 +2312,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "姚中立",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2406,18 +2580,38 @@
         "label": "LOC",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "張建封",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
   {
     "sentence_id": "HCH_008_168_000257",
     "sentence": "後建封卒，其子愔為軍士所立，李師古欲乘喪襲取。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李師古",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_168_000258",
     "sentence": "時王武俊且觀其釁，愔恐懼，計無所出。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王武俊",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_168_000259",
@@ -2461,7 +2655,14 @@
   {
     "sentence_id": "HCH_008_168_000264",
     "sentence": "王士真死，以其子承宗不順，不加謚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王士真",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_168_000265",
@@ -2566,10 +2767,10 @@
     "sentence": "牛元翼以深州不從王庭湊，詔授襄州節度使。",
     "entities": [
       {
-        "text": "牛元翼以深州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
+        "text": "王庭湊",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "詔授襄州",
@@ -2810,6 +3011,12 @@
     "sentence": "權德輿掌貢士，擢居上第，後於澗州佐薛蘋幕，得校書郎，尋為鄠縣尉，充集賢校理。",
     "entities": [
       {
+        "text": "權德輿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "後於澗州",
         "label": "LOC",
         "start": 12,
@@ -2977,7 +3184,14 @@
   {
     "sentence_id": "HCH_008_168_000313",
     "sentence": "及改元禦殿，中尉仇士良請用神策仗衛在殿門；定抗疏論罷，人情危之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "仇士良",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_168_000314",
@@ -3298,7 +3512,14 @@
   {
     "sentence_id": "HCH_008_168_000348",
     "sentence": "李德裕在相位，定策破回鶻，誅劉稹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_168_000349",

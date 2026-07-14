@@ -206,6 +206,12 @@
     "sentence": "及隋將宇文述、來護兒等率軍且至，玄感謂曰：「計將安出？」密曰：「元弘嗣統強兵於隴右，今可陽言其反，遣使迎公，因此入關，可得紿眾。」因引軍西入。",
     "entities": [
       {
+        "text": "來護兒",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "因此入關",
         "label": "LOC",
         "start": 54,
@@ -1272,6 +1278,12 @@
         "end": 27
       },
       {
+        "text": "裴行儼",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 32,
@@ -1404,19 +1416,25 @@
   {
     "sentence_id": "HCH_008_053_000185",
     "sentence": "徐圓朗已平魯郡，孟海公又破濟陽，海內英雄，咸來回應。",
-    "entities": [
-      {
-        "text": "徐圓朗已平魯郡",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_053_000186",
     "sentence": "封民贍取平原之境，郝孝德據黎陽之倉，李士雄虎視于長平，王德仁鷹揚於上黨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李士雄",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "王德仁",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_053_000187",
@@ -1563,6 +1581,18 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "元寶藏",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "趙君德",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -1571,10 +1601,22 @@
     "sentence": "永安大族周法明舉江、黃之地以附密，齊郡賊帥徐圓朗、任城大俠徐師仁、淮陽太守趙佗皆歸之。",
     "entities": [
       {
+        "text": "周法明",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "齊郡",
         "label": "LOC",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "徐圓朗",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       },
       {
         "text": "任城",
@@ -1706,7 +1748,32 @@
   {
     "sentence_id": "HCH_008_053_000224",
     "sentence": "竇建德、朱粲、楊士林、孟海公、徐圓朗、盧祖尚、周法明等並隨使通表於密勸進，於是密下官屬咸勸密即尊號，密曰：「東都未平，不可議此。」",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "徐圓朗",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "盧祖尚",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "周法明",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_053_000225",
@@ -1757,7 +1824,14 @@
   {
     "sentence_id": "HCH_008_053_000229",
     "sentence": "俄而宇文化及率眾自江都北指黎陽，兵十餘萬，密乃自將步騎二萬拒之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文化及",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_053_000230",
@@ -2065,6 +2139,12 @@
         "label": "LOC",
         "start": 8,
         "end": 12
+      },
+      {
+        "text": "張善相",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },
@@ -2079,10 +2159,22 @@
         "end": 6
       },
       {
+        "text": "史萬寶",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "熊州",
         "label": "LOC",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "盛彥師",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       },
       {
         "text": "至陸渾縣",
@@ -2142,7 +2234,14 @@
   {
     "sentence_id": "HCH_008_053_000269",
     "sentence": "密故將杜才幹恨元真背密，詐與之會，伏甲斬之，以其首祭於密塚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜才幹",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_053_000270",
@@ -2218,7 +2317,14 @@
   {
     "sentence_id": "HCH_008_053_000280",
     "sentence": "李密因民不忍，首為亂階，心斷機謀，身臨陣敵，據鞏、洛之口，號百萬之師，竇建德輩皆效樂推，唐公紿以欣戴，不亦偉哉！",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_053_000281",

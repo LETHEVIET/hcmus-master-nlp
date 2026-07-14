@@ -44,12 +44,6 @@
         "end": 3
       },
       {
-        "text": "張嘉貞為益州",
-        "label": "LOC",
-        "start": 4,
-        "end": 10
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 25,
@@ -71,6 +65,12 @@
         "label": "LOC",
         "start": 6,
         "end": 9
+      },
+      {
+        "text": "盧成軌",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -94,7 +94,14 @@
   {
     "sentence_id": "HCH_008_131_000009",
     "sentence": "大將管崇嗣於行在朝堂背闕而坐，言笑自若，勉劾之，拘於有司，肅宗特原之，歎曰：「吾有李勉，始知朝廷尊也。」遷司膳員外郎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "管崇嗣",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_131_000010",
@@ -117,6 +124,18 @@
     "sentence_id": "HCH_008_131_000012",
     "sentence": "累為河東節度王思禮、朔方河東都統李國貞行軍司馬，尋遷梁州都督、山南西道觀察使。",
     "entities": [
+      {
+        "text": "王思禮",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "李國貞",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
       {
         "text": "司馬",
         "label": "TITLE",
@@ -166,7 +185,14 @@
   {
     "sentence_id": "HCH_008_131_000018",
     "sentence": "肅宗將大用勉，會李輔國寵任，意欲勉降禮於己。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李輔國",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_131_000019",
@@ -212,6 +238,12 @@
         "label": "LOC",
         "start": 2,
         "end": 9
+      },
+      {
+        "text": "呂太一",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -247,7 +279,14 @@
   {
     "sentence_id": "HCH_008_131_000024",
     "sentence": "宦官魚朝恩為觀軍容使，仍知國子監事，恃寵含威，天憲在舌。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_131_000025",
@@ -332,7 +371,14 @@
   {
     "sentence_id": "HCH_008_131_000032",
     "sentence": "及代歸，至石門停舟，悉搜家人所貯南貨犀象諸物，投之江中，耆老以為可繼前朝宋璟、盧奐、李朝隱之徒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李朝隱",
+        "label": "PER",
+        "start": 42,
+        "end": 45
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_131_000033",
@@ -360,7 +406,14 @@
   {
     "sentence_id": "HCH_008_131_000035",
     "sentence": "及滑亳永平軍節度令狐彰卒，遺表舉勉自代，因除之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐彰",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_131_000036",
@@ -391,6 +444,12 @@
         "end": 3
       },
       {
+        "text": "田神玉",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "詔加勉汴州",
         "label": "LOC",
         "start": 13,
@@ -413,13 +472,26 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "田承嗣",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
   {
     "sentence_id": "HCH_008_131_000039",
     "sentence": "詔勉與李忠臣、馬燧等攻討，大破之，悅僅以身免。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李忠臣",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_131_000040",
@@ -430,12 +502,6 @@
     "sentence_id": "HCH_008_131_000041",
     "sentence": "既而李忠臣代鎮汴州，而勉仍舊鎮。",
     "entities": [
-      {
-        "text": "既而李忠臣代鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      },
       {
         "text": "汴州",
         "label": "LOC",
@@ -497,6 +563,12 @@
         "end": 2
       },
       {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "悉眾來寇汴州",
         "label": "LOC",
         "start": 14,
@@ -553,12 +625,6 @@
         "label": "TITLE",
         "start": 15,
         "end": 17
-      },
-      {
-        "text": "遂授澧州",
-        "label": "LOC",
-        "start": 40,
-        "end": 44
       }
     ]
   },
@@ -750,12 +816,6 @@
     "sentence": "改處州別駕，行州事，以良政聞。",
     "entities": [
       {
-        "text": "改處州",
-        "label": "LOC",
-        "start": 0,
-        "end": 3
-      },
-      {
         "text": "行州",
         "label": "LOC",
         "start": 6,
@@ -858,10 +918,10 @@
     "sentence": "前使辛京杲貪殘，有將王國良鎮邵州武岡縣，豪富，京杲以死罪加之。",
     "entities": [
       {
-        "text": "有將王國良鎮",
-        "label": "LOC",
-        "start": 8,
-        "end": 14
+        "text": "辛京杲",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       },
       {
         "text": "邵州武岡縣",
@@ -904,6 +964,12 @@
         "label": "TITLE",
         "start": 66,
         "end": 68
+      },
+      {
+        "text": "辛京杲",
+        "label": "PER",
+        "start": 70,
+        "end": 73
       },
       {
         "text": "將軍",
@@ -991,10 +1057,22 @@
     "sentence": "會梁崇義反，乃授起復左衛大將軍，復還湖南，尋加散騎常侍李希烈反，遷江西道節度使、洪州刺史、兼御史大夫。",
     "entities": [
       {
+        "text": "梁崇義",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 12,
         "end": 15
+      },
+      {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       },
       {
         "text": "洪州",
@@ -1031,13 +1109,26 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李伯潛",
+        "label": "PER",
+        "start": 44,
+        "end": 47
       }
     ]
   },
   {
     "sentence_id": "HCH_008_131_000092",
     "sentence": "擢王鍔委之中軍，以馬彝、許孟容為賓佐。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許孟容",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_131_000093",
@@ -1054,14 +1145,7 @@
   {
     "sentence_id": "HCH_008_131_000094",
     "sentence": "初，伊慎將江西兵從李希烈平襄州，及反，懼皋任之，乃陰遣遺之鎖甲，又詐為慎書往復，置遺於境。",
-    "entities": [
-      {
-        "text": "從李希烈平襄州",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_131_000095",
@@ -1116,7 +1200,14 @@
   {
     "sentence_id": "HCH_008_131_000101",
     "sentence": "德宗居奉天，淮南節度陳少游強取鹽鐵錢，其使包佶以財幣溯江，次於蘄口。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳少游",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_131_000102",
@@ -1225,7 +1316,14 @@
   {
     "sentence_id": "HCH_008_131_000112",
     "sentence": "皋命李伯潛分師迎擊於應山，獲戒虛及大將二、裨將二十，斬首千餘。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李伯潛",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_131_000113",
@@ -1365,6 +1463,18 @@
     "sentence": "初平希烈，吳少誠殺陳仙奇，上以襄、鄧要厄，三年，除襄州刺史、山南東道節度等使，割汝、隨隸焉。",
     "entities": [
       {
+        "text": "吳少誠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "陳仙奇",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "三年",
         "label": "TME",
         "start": 21,
@@ -1427,14 +1537,7 @@
   {
     "sentence_id": "HCH_008_131_000134",
     "sentence": "漢陽王張柬之有林園在州西，公府多假之游宴，皋將買之，彝斂衽而言曰：「張漢陽有中興功，今遺業當百代保之，王縱欲之，奈何令其子孫自鬻焉！」皋謝曰：「主吏失詞，為足下羞；微足下，安得聞此言！」以改過遷善、知人任下為己任，故賓從將佐多至大官。",
-    "entities": [
-      {
-        "text": "柬之有林園在州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_131_000135",
@@ -1538,6 +1641,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "桂仲武",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -1630,14 +1739,7 @@
   {
     "sentence_id": "HCH_008_131_000152",
     "sentence": "初，以柳公綽在鎮無功，議將代之，裴度言：「道古嗣曹王皋之子，皋嘗以江漢兵遏希烈之亂，威惠至今在人，復用其子必能繼美。」憲宗然之，故有此授。",
-    "entities": [
-      {
-        "text": "以柳公綽在鎮",
-        "label": "LOC",
-        "start": 2,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_131_000153",
@@ -1800,7 +1902,14 @@
   {
     "sentence_id": "HCH_008_131_000166",
     "sentence": "宰相皇甫鎛方諛媚固寵，道古言柳泌有道術，鎛得進之，待詔翰林。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫鎛",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_131_000167",

@@ -15,8 +15,9 @@ Output:
   không chỉ là heuristic đơn thuần.
 
 Sentence segmentation giữ rule-based cũ (src/hcmus_nlp/sentence.segment).
-Nguồn mặc định: RegexSource + SeedSource (nếu có seed cache). Khi user
-chạy `scripts/build_kb.py ingest-seed`, SeedSource tự load.
+Nguồn mặc định: RegexSource + SeedSource + CBDBPersonSource khi các cache tương
+ứng tồn tại. CBDB không được tải lúc annotate; người chạy ingest một bản SQLite
+đã pin trước bằng `scripts/build_kb.py ingest-cbdb`.
 
 KHÔNG ghi đè build/gold/. Mọi write đều atomic (temp + os.replace).
 """
@@ -48,9 +49,20 @@ from hcmus_nlp.sources.regex_source import RegexSource  # noqa: E402
 from hcmus_nlp.volume import from_canonical_dict  # noqa: E402
 
 
-def _build_sources(*, use_seed: bool, kb_dir: Path) -> list:
-    """Build list source adapter. Mặc định chỉ có RegexSource; nếu có seed
-    cache và use_seed=True, thêm SeedSource."""
+def _build_sources(
+    *,
+    use_seed: bool,
+    use_cbdb: bool,
+    kb_dir: Path,
+    cbdb_short_name_policy: str = "exclude",
+    cbdb_max_ambiguity: int = 10,
+    cbdb_period_policy: str = "strict",
+) -> list:
+    """Build source adapters from verified local caches.
+
+    Missing optional caches are skipped. A cache that exists but fails its
+    manifest/hash check is reported and skipped rather than silently trusted.
+    """
     sources: list = [RegexSource()]
     if use_seed:
         seed_cache = kb_dir / "seed.jsonl.gz"
@@ -63,6 +75,22 @@ def _build_sources(*, use_seed: bool, kb_dir: Path) -> list:
                     sources.append(SeedSource(entries))
             except (FileNotFoundError, ValueError) as e:
                 print(f"[warn] seed cache unreadable: {e}", file=sys.stderr)
+    if use_cbdb:
+        cbdb_cache = kb_dir / "cbdb.sqlite"
+        if cbdb_cache.exists():
+            try:
+                from hcmus_nlp.kb.cbdb import CBDBError, CBDBPersonSource
+
+                source = CBDBPersonSource.from_cache(
+                    cbdb_cache,
+                    max_ambiguity=cbdb_max_ambiguity,
+                    short_name_policy=cbdb_short_name_policy,
+                    period_policy=cbdb_period_policy,
+                )
+                if source.available():
+                    sources.append(source)
+            except (CBDBError, FileNotFoundError, ValueError) as e:
+                print(f"[warn] CBDB cache unreadable: {e}", file=sys.stderr)
     return sources
 
 
@@ -276,10 +304,39 @@ def main() -> None:
         help="Không load SeedSource (chỉ dùng RegexSource).",
     )
     parser.add_argument(
+        "--no-cbdb",
+        action="store_true",
+        help="Không load CBDBPersonSource dù build/kb/cbdb.sqlite tồn tại.",
+    )
+    parser.add_argument(
+        "--cbdb-short-names",
+        choices=("context", "all", "exclude"),
+        default="exclude",
+        help=(
+            "Policy cho tên CBDB dài 2 ký tự: exclude (mặc định, precision), "
+            "context (cần cue), hoặc all."
+        ),
+    )
+    parser.add_argument(
+        "--cbdb-max-ambiguity",
+        type=int,
+        default=10,
+        help="Bỏ surface CBDB liên kết quá số person ID này (mặc định: 10).",
+    )
+    parser.add_argument(
+        "--cbdb-period-policy",
+        choices=("strict", "prefer", "off"),
+        default="strict",
+        help=(
+            "Dùng thời kỳ tác phẩm để lọc person ID: strict (mặc định, precision), "
+            "prefer, hoặc off."
+        ),
+    )
+    parser.add_argument(
         "--kb-dir",
         type=Path,
         default=Path("build/kb"),
-        help="Thư mục chứa seed.jsonl.gz (nếu có).",
+        help="Thư mục chứa seed.jsonl.gz và cbdb.sqlite (nếu có).",
     )
     parser.add_argument(
         "--mapping",
@@ -294,7 +351,16 @@ def main() -> None:
     except MappingError as e:
         raise SystemExit(f"Mapping error: {e}")
 
-    sources = _build_sources(use_seed=not args.no_seed, kb_dir=args.kb_dir)
+    if args.cbdb_max_ambiguity < 1:
+        raise SystemExit("--cbdb-max-ambiguity phải >= 1")
+    sources = _build_sources(
+        use_seed=not args.no_seed,
+        use_cbdb=not args.no_cbdb,
+        kb_dir=args.kb_dir,
+        cbdb_short_name_policy=args.cbdb_short_names,
+        cbdb_max_ambiguity=args.cbdb_max_ambiguity,
+        cbdb_period_policy=args.cbdb_period_policy,
+    )
     merger = CandidateMerger(mapping, critical_sources=("cbdb", "guwen_basic"))
 
     build(

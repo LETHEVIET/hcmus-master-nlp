@@ -412,6 +412,12 @@
         "end": 2
       },
       {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "涇之師侵迫州城",
         "label": "LOC",
         "start": 18,
@@ -430,10 +436,22 @@
         "end": 4
       },
       {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "華州",
         "label": "LOC",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "寇彥卿",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -464,6 +482,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       },
       {
         "text": "衍三州",
@@ -513,7 +537,14 @@
   {
     "sentence_id": "HCH_007_005_000065",
     "sentence": "福建節度使王審知奏，舍錢造寺一所，請賜寺額。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王審知",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_005_000066",
@@ -868,6 +899,12 @@
         "end": 114
       },
       {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 145,
+        "end": 148
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 175,
@@ -900,14 +937,7 @@
   {
     "sentence_id": "HCH_007_005_000106",
     "sentence": "劉知俊攻逼夏州。",
-    "entities": [
-      {
-        "text": "劉知俊攻逼夏州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_005_000107",
@@ -918,6 +948,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "李仁福",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       },
       {
         "text": "圍夏州",
@@ -1152,7 +1188,20 @@
   {
     "sentence_id": "HCH_007_005_000138",
     "sentence": "初，劉知俊誘沙陀振武賊帥周德威、涇原賊帥李繼鸞合步騎五萬大舉，欲俯拾夏台，節度使李仁福兵力俱乏，以急來告。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "李仁福",
+        "label": "PER",
+        "start": 40,
+        "end": 43
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_005_000139",
@@ -1224,10 +1273,22 @@
     "sentence": "丙午，詔曰：「劉知俊貴為方伯，尊極郡王，而乃背誕朝恩，竄投賊壘，固神人之共怒，諒天地所不容。雖命討除，尚稽擒戮，宜懸爵賞，以大功名，必有忠貞，咸思憤發。有生擒劉知俊者，賞錢千萬，授節度使，首級次之；得孟審登者，錢百萬，除刺史；得孫亢、卓環、劉儒、張鄰等，賞有差。」乙卯，宴會群臣于宣威殿。",
     "entities": [
       {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "尊極郡",
         "label": "LOC",
         "start": 15,
         "end": 18
+      },
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 79,
+        "end": 82
       },
       {
         "text": "刺史",

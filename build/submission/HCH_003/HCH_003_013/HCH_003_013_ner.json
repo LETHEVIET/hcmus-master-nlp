@@ -1152,7 +1152,14 @@
   {
     "sentence_id": "HCH_003_013_000144",
     "sentence": "後后少子秦王觚使于燕，慕容垂止之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_013_000145",
@@ -2052,7 +2059,14 @@
   {
     "sentence_id": "HCH_003_013_000249",
     "sentence": "故杞道德、王遇、張祐、苻承祖等拔自微閹，歲中而至王公。",
-    "entities": []
+    "entities": [
+      {
+        "text": "苻承祖",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_013_000250",
@@ -3611,6 +3625,12 @@
         "label": "TITLE",
         "start": 46,
         "end": 48
+      },
+      {
+        "text": "奚康生",
+        "label": "PER",
+        "start": 48,
+        "end": 51
       }
     ]
   },
@@ -3808,7 +3828,14 @@
   {
     "sentence_id": "HCH_003_013_000488",
     "sentence": "時博陵崔孝芬、范陽盧道約、隴西李瓚等女，俱為世婦。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔孝芬",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_013_000489",

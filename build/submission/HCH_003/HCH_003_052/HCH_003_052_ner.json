@@ -313,12 +313,6 @@
         "end": 32
       },
       {
-        "text": "獨孤永業領洛州",
-        "label": "LOC",
-        "start": 33,
-        "end": 40
-      },
-      {
         "text": "道兵趣潼關",
         "label": "LOC",
         "start": 40,
@@ -1457,7 +1451,14 @@
   {
     "sentence_id": "HCH_003_052_000175",
     "sentence": "未幾，周武誣後主及延宗等，雲遙應穆提婆反，使並賜死。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_052_000176",
@@ -1530,6 +1531,12 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "鄭道蓋",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -1783,14 +1790,7 @@
   {
     "sentence_id": "HCH_003_052_000206",
     "sentence": "周將宇文神舉軍逼馬邑，紹義遣杜明達拒之，兵大敗。",
-    "entities": [
-      {
-        "text": "文神舉軍逼馬邑",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_052_000207",
@@ -1866,7 +1866,14 @@
   {
     "sentence_id": "HCH_003_052_000216",
     "sentence": "俄而周將宇文神舉攻滅昌期。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文神舉",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_052_000217",
@@ -1924,7 +1931,14 @@
   {
     "sentence_id": "HCH_003_052_000221",
     "sentence": "周人購之於他缽，又使賀若誼往說之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀若誼",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_052_000222",
@@ -1934,7 +1948,14 @@
   {
     "sentence_id": "HCH_003_052_000223",
     "sentence": "紹義妃，勃海封孝琬女，自突厥逃歸。",
-    "entities": []
+    "entities": [
+      {
+        "text": "封孝琬",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_052_000224",
@@ -2741,6 +2762,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "馮子琮",
+        "label": "PER",
+        "start": 58,
+        "end": 61
       }
     ]
   },
@@ -2799,7 +2826,14 @@
   {
     "sentence_id": "HCH_003_052_000329",
     "sentence": "帝又使馮子琮召儼。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮子琮",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_052_000330",
@@ -2819,7 +2853,14 @@
   {
     "sentence_id": "HCH_003_052_000333",
     "sentence": "儼將入，劉辟強牽衣諫曰：「若不斬提婆母子，殿下無由得入。」廣甯、安德二王適從西來，欲助成其事，曰：「何不入？」辟強曰：「人少。」安德王顧眾而言曰：「孝昭殺楊遵彥，止八十人，今乃數千，何言人少？」後主泣啟太后曰：「有緣，更見家家，無緣，永別。」乃急召斛律光，儼亦召之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 124,
+        "end": 127
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_052_000334",
@@ -2834,7 +2875,14 @@
   {
     "sentence_id": "HCH_003_052_000336",
     "sentence": "光曰：「小兒輩弄兵，與交手，即亂。鄙諺云：'奴見大家心死。'至尊宜自至千秋門，琅邪必不敢動。」皮景和亦以為然，後主從之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皮景和",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_052_000337",
@@ -2870,6 +2918,12 @@
     "sentence_id": "HCH_003_052_000343",
     "sentence": "光以皆勳貴子弟，恐人心不安，趙彥深亦云「《春秋》責帥」，於是罪之各有差。",
     "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
       {
         "text": "《春秋》",
         "label": "TITLE",
@@ -3006,6 +3060,12 @@
     "sentence_id": "HCH_003_052_000362",
     "sentence": "儼妃李祖欽女也，進為楚帝后，居宣則宮，齊亡，乃嫁焉。",
     "entities": [
+      {
+        "text": "李祖欽",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "齊",
         "label": "ORG",
@@ -3207,7 +3267,14 @@
   {
     "sentence_id": "HCH_003_052_000382",
     "sentence": "隋開皇中，追仁英，詔與蕭琮、陳叔寶修其本宗祭祀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳叔寶",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_052_000383",

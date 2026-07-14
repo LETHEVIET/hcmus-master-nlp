@@ -84,7 +84,14 @@
   {
     "sentence_id": "HCH_003_059_000012",
     "sentence": "侯莫陳悅既害嶽，欲並其眾。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_059_000013",
@@ -111,7 +118,14 @@
   {
     "sentence_id": "HCH_003_059_000016",
     "sentence": "從討侯莫陳悅，平之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_059_000017",
@@ -253,12 +267,6 @@
     "sentence": "從賀拔岳平關中，累遷大都督。",
     "entities": [
       {
-        "text": "從賀拔岳平關",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      },
-      {
         "text": "大都",
         "label": "LOC",
         "start": 10,
@@ -269,7 +277,14 @@
   {
     "sentence_id": "HCH_003_059_000028",
     "sentence": "岳為侯莫陳悅所害，將吏奔敗，莫有守者。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_059_000029",
@@ -414,12 +429,26 @@
   {
     "sentence_id": "HCH_003_059_000046",
     "sentence": "初，貴與獨孤信等皆與文帝等夷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_059_000047",
     "sentence": "及晉公護攝政，貴自以元勳，每懷怏怏，與信謀殺護，為開府宇文盛告，被誅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文盛",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_059_000048",
@@ -484,7 +513,14 @@
   {
     "sentence_id": "HCH_003_059_000056",
     "sentence": "岳為侯莫陳悅所殺，善共諸將翊戴周文帝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_059_000057",
@@ -678,7 +714,26 @@
   {
     "sentence_id": "HCH_003_059_000079",
     "sentence": "賀拔岳為侯莫陳悅所害，周文帝西征，賢與其弟遠、穆等密應侯莫陳崇。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      },
+      {
+        "text": "侯莫陳崇",
+        "label": "PER",
+        "start": 27,
+        "end": 31
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_059_000080",
@@ -1268,6 +1323,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -1375,6 +1436,12 @@
     "sentence": "隨宇文護伐齊，以功最，授儀同三司。",
     "entities": [
       {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "齊",
         "label": "ORG",
         "start": 5,
@@ -1474,6 +1541,12 @@
         "label": "LOC",
         "start": 7,
         "end": 14
+      },
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 56,
+        "end": 59
       }
     ]
   },
@@ -1779,7 +1852,14 @@
   {
     "sentence_id": "HCH_003_059_000178",
     "sentence": "宇文述知而奏之，竟與渾同誅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_059_000179",
@@ -1894,7 +1974,14 @@
   {
     "sentence_id": "HCH_003_059_000194",
     "sentence": "後以應侯莫陳崇功。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳崇",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_059_000195",
@@ -2220,6 +2307,12 @@
         "label": "TITLE",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -2269,7 +2362,14 @@
   {
     "sentence_id": "HCH_003_059_000237",
     "sentence": "遠子植，文帝時已為相府司錄，參掌朝政。",
-    "entities": []
+    "entities": [
+      {
+        "text": "文帝時",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_059_000238",
@@ -2610,6 +2710,18 @@
     "sentence": "及侯莫陳悅害賀拔岳，周文自夏州赴難，而悅黨史歸據原州，猶為悅守。",
     "entities": [
       {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 1,
+        "end": 5
+      },
+      {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "周文自夏州",
         "label": "LOC",
         "start": 10,
@@ -2627,6 +2739,12 @@
     "sentence_id": "HCH_003_059_000273",
     "sentence": "周文令侯莫陳崇襲之，穆時先在城中，與兄賢、遠應崇，遂禽歸。",
     "entities": [
+      {
+        "text": "侯莫陳崇",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      },
       {
         "text": "穆時先在城",
         "label": "LOC",
@@ -2827,6 +2945,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "拓拔氏",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2920,7 +3044,14 @@
   {
     "sentence_id": "HCH_003_059_000304",
     "sentence": "及兄子植謀害宇文護被誅，穆亦坐除名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_059_000305",
@@ -3539,7 +3670,14 @@
   {
     "sentence_id": "HCH_003_059_000363",
     "sentence": "又遣渾詣韋孝寬所而述穆意。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_059_000364",
@@ -3580,6 +3718,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       },
       {
         "text": "太子",
@@ -3752,12 +3896,6 @@
     "sentence": "從賀拔岳鎮長安。",
     "entities": [
       {
-        "text": "從賀拔岳鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 5
-      },
-      {
         "text": "長安",
         "label": "LOC",
         "start": 5,
@@ -3907,7 +4045,14 @@
   {
     "sentence_id": "HCH_003_059_000395",
     "sentence": "周文帝時，以功臣子養宮中，復命與諸子遊。",
-    "entities": []
+    "entities": [
+      {
+        "text": "文帝時",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_059_000396",
@@ -4247,6 +4392,12 @@
         "end": 89
       },
       {
+        "text": "徐文盛",
+        "label": "PER",
+        "start": 89,
+        "end": 92
+      },
+      {
         "text": "被湘東征赴荊州",
         "label": "LOC",
         "start": 92,
@@ -4429,7 +4580,14 @@
   {
     "sentence_id": "HCH_003_059_000445",
     "sentence": "論曰：賀拔嶽變起倉卒，侯莫陳悅意在兼併，于時人有離心，士無固志。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 11,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_059_000446",

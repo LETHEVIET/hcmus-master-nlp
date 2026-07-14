@@ -2,7 +2,14 @@
   {
     "sentence_id": "HCH_004_030_000001",
     "sentence": "崔暹　高德政　崔昂",
-    "entities": []
+    "entities": [
+      {
+        "text": "高德政",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_030_000002",
@@ -124,6 +131,18 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       },
       {
         "text": "御史",
@@ -488,12 +507,26 @@
   {
     "sentence_id": "HCH_004_030_000061",
     "sentence": "高德政",
-    "entities": []
+    "entities": [
+      {
+        "text": "高德政",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_030_000062",
     "sentence": "高德政，字士貞，渤海蓚人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高德政",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_030_000063",
@@ -573,7 +606,14 @@
   {
     "sentence_id": "HCH_004_030_000074",
     "sentence": "散騎常侍徐之才、館客宋景業先為天文圖讖之學，又陳山提家客楊子術有所援引，並因德政勸顯祖行禪代之事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_030_000075",
@@ -610,7 +650,14 @@
   {
     "sentence_id": "HCH_004_030_000080",
     "sentence": "時杜弼為長史，密啟顯祖云：「關西是國家勁敵，若今受魏禪，恐其稱義兵挾天子而東向，王將何以待之？」顯祖入，召弼入與徐之才相告。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 56,
+        "end": 59
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_030_000081",
@@ -626,6 +673,12 @@
         "label": "TITLE",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 34,
+        "end": 37
       }
     ]
   },
@@ -637,7 +690,14 @@
   {
     "sentence_id": "HCH_004_030_000084",
     "sentence": "帝以衆人意未協，又先得太后旨云：「汝父如龍，汝兄如虎，尚以人臣終，汝何容欲行舜、禹事？此亦非汝意，正是高德政教汝。」又說者以為昔周武王再駕盟津，然始革命，於是乃旋晉陽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高德政",
+        "label": "PER",
+        "start": 51,
+        "end": 54
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_030_000085",
@@ -647,7 +707,14 @@
   {
     "sentence_id": "HCH_004_030_000086",
     "sentence": "徐之才、宋景業等每言卜筮雜占陰陽緯侯，必宜五月應天順人，德政亦勸不已。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_030_000087",
@@ -701,6 +768,12 @@
         "label": "TITLE",
         "start": 47,
         "end": 49
+      },
+      {
+        "text": "裴讓之",
+        "label": "PER",
+        "start": 49,
+        "end": 52
       }
     ]
   },
@@ -731,6 +804,12 @@
     "sentence": "德政、徐之才苦請帝曰：「山提先去，若為形容，恐其漏泄不果。」卽命司馬子如、杜弼馳驛續入，觀察物情。",
     "entities": [
       {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 32,
@@ -752,6 +831,12 @@
         "label": "LOC",
         "start": 9,
         "end": 13
+      },
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       }
     ]
   },
@@ -889,7 +974,14 @@
   {
     "sentence_id": "HCH_004_030_000112",
     "sentence": "又謂左右云：「高德政恒以精神淩逼人。」德政甚懼，乃稱疾屏居佛寺，兼學坐禪，為退身之計。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高德政",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_030_000113",
@@ -974,7 +1066,14 @@
   {
     "sentence_id": "HCH_004_030_000125",
     "sentence": "德政死後，顯祖謂羣臣曰：「高德政常言宜用漢人，除鮮卑，此卽合死。又教我誅諸元，我今殺之，為諸元報讐也。」帝後悔，贈太保，嫡孫王臣襲焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高德政",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_030_000126",
@@ -1288,7 +1387,14 @@
   {
     "sentence_id": "HCH_004_030_000159",
     "sentence": "前者崔暹、季舒為之親援，後乃高德政是其中表，常有挾恃，意色矜高，以此不為名流所服。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高德政",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_030_000160",

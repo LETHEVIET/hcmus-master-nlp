@@ -2,7 +2,14 @@
   {
     "sentence_id": "HCH_003_065_000001",
     "sentence": "達奚武 若干惠 怡峰 劉亮 王德 赫連達 韓果 蔡祐 常善 辛威 厙狄昌 梁椿 梁臺 田弘",
-    "entities": []
+    "entities": [
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_065_000002",
@@ -12,12 +19,26 @@
   {
     "sentence_id": "HCH_003_065_000003",
     "sentence": "達奚武若干惠怡峰劉亮王德赫連達韓果蔡祐常善辛威厙狄昌梁椿梁台田弘子仁恭孫德懋",
-    "entities": []
+    "entities": [
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_065_000004",
     "sentence": "達奚武，字成興，代人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_065_000005",
@@ -34,19 +55,19 @@
   {
     "sentence_id": "HCH_003_065_000006",
     "sentence": "武少倜儻好馳射，賀拔岳征關右，引為別將。",
-    "entities": [
-      {
-        "text": "賀拔岳征關",
-        "label": "LOC",
-        "start": 8,
-        "end": 13
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_065_000007",
     "sentence": "及岳為侯莫陳悅所害，武與趙貴收屍歸平涼，同翊載周文帝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_065_000008",
@@ -87,7 +108,14 @@
   {
     "sentence_id": "HCH_003_065_000010",
     "sentence": "齊神武與竇泰、高敖曹三道來侵，周文欲並兵擊泰，諸將多異議，唯武及蘇綽與周文意同，遂禽之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高敖曹",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_065_000011",
@@ -147,7 +175,14 @@
   {
     "sentence_id": "HCH_003_065_000018",
     "sentence": "又進至河橋，力戰，斬其司徒高敖曹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高敖曹",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_065_000019",
@@ -215,7 +250,14 @@
   {
     "sentence_id": "HCH_003_065_000025",
     "sentence": "會梁武陵王遣其將楊乾運等救修，修更不下。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊乾運",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_065_000026",
@@ -712,7 +754,14 @@
   {
     "sentence_id": "HCH_003_065_000086",
     "sentence": "及岳為侯莫陳悅所害，惠與寇洛、趙貴等同謀翊戴周文。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_065_000087",
@@ -1018,6 +1067,12 @@
     "sentence": "從賀拔岳討万俟醜奴，賜爵蒲陰縣男。",
     "entities": [
       {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "賜爵蒲陰縣",
         "label": "LOC",
         "start": 10,
@@ -1100,6 +1155,18 @@
     "sentence_id": "HCH_003_065_000132",
     "sentence": "仍與元季海、獨孤信復洛陽。",
     "entities": [
+      {
+        "text": "元季海",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "洛陽",
         "label": "LOC",
@@ -1290,7 +1357,14 @@
   {
     "sentence_id": "HCH_003_065_000154",
     "sentence": "侯莫陳悅害嶽，亮與諸將謀迎周文。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_065_000155",
@@ -1573,6 +1647,12 @@
     "sentence": "又從賀拔岳討平万俟醜奴，別封深澤縣男。",
     "entities": [
       {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "別封深澤縣",
         "label": "LOC",
         "start": 12,
@@ -1584,6 +1664,12 @@
     "sentence_id": "HCH_003_065_000187",
     "sentence": "及侯莫陳悅害嶽，德與寇洛等議，翊戴周文，於是除平涼郡守。",
     "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 1,
+        "end": 5
+      },
       {
         "text": "於是除平涼郡",
         "label": "LOC",
@@ -1782,6 +1868,12 @@
     "sentence": "少從賀拔岳征討有功，賜爵長廣鄉男。",
     "entities": [
       {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "賜爵長廣鄉",
         "label": "LOC",
         "start": 10,
@@ -1792,7 +1884,14 @@
   {
     "sentence_id": "HCH_003_065_000209",
     "sentence": "及岳為侯莫陳悅所害，趙貴建議迎周文，達贊成其議，請輕騎告周文，仍迎之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_065_000210",
@@ -1901,6 +2000,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 4
+      },
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       },
       {
         "text": "漢",
@@ -2062,7 +2167,14 @@
   {
     "sentence_id": "HCH_003_065_000242",
     "sentence": "後從周文討平侯莫陳悅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 6,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_065_000243",
@@ -2370,7 +2482,20 @@
   {
     "sentence_id": "HCH_003_065_000274",
     "sentence": "侯莫陳悅害賀拔岳，諸將迎周文，周文將赴之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_065_000275",
@@ -2595,7 +2720,14 @@
   {
     "sentence_id": "HCH_003_065_000303",
     "sentence": "周文不豫，祐與晉公護、賀蘭祥等侍疾。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀蘭祥",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_065_000304",
@@ -2818,6 +2950,12 @@
     "sentence": "後周文平侯莫陳悅，除天水郡守。",
     "entities": [
       {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      },
+      {
         "text": "除天水郡",
         "label": "LOC",
         "start": 9,
@@ -2951,6 +3089,12 @@
     "sentence_id": "HCH_003_065_000340",
     "sentence": "初從賀拔岳征伐有功，假輔國將軍、都督。",
     "entities": [
+      {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "將軍",
         "label": "TITLE",
@@ -3158,6 +3302,12 @@
     "sentence": "從平侯莫陳悅，賜爵陰盤縣子。",
     "entities": [
       {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      },
+      {
         "text": "賜爵陰盤縣",
         "label": "LOC",
         "start": 7,
@@ -3239,7 +3389,14 @@
   {
     "sentence_id": "HCH_003_065_000368",
     "sentence": "初從爾硃榮入洛，又從賀拔岳討平万俟醜奴，仍從周文平侯草陳悅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_065_000369",
@@ -3376,7 +3533,14 @@
   {
     "sentence_id": "HCH_003_065_000381",
     "sentence": "岳為侯莫陳悅所害，台與諸將翊戴周文。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_065_000382",
@@ -3930,7 +4094,14 @@
   {
     "sentence_id": "HCH_003_065_000435",
     "sentence": "達奚武、若干惠、怡峰、劉亮、王德、赫連達、韓果、蔡祐、常善、辛威、厙狄昌、梁椿、梁台、田弘等，並兼資勇略，咸會風雲，或效績中權，或立功方面，均分休戚，同濟艱危，可謂國之爪牙，朝之禦侮者也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_065_000436",

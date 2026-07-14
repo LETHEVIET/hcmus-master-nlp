@@ -2,17 +2,44 @@
   {
     "sentence_id": "HCH_008_144_000001",
     "sentence": "尚可孤",
-    "entities": []
+    "entities": [
+      {
+        "text": "尚可孤",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000002",
     "sentence": "尚可孤，東部鮮卑宇文之別種也，代居松、漠之間。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尚可孤",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000003",
     "sentence": "天寶末歸國，隸范陽節度安祿山，後事史思明。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000004",
@@ -36,6 +63,12 @@
     "sentence_id": "HCH_008_144_000005",
     "sentence": "魚朝恩之統禁軍，愛其勇，甚委遇之，俾為養子，奏姓魚氏，名智德，以禁兵三千鎮於扶風縣，後移武功。",
     "entities": [
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "以禁兵三千鎮",
         "label": "LOC",
@@ -72,6 +105,12 @@
     "sentence": "會李希烈反叛，建中四年七月，除兼御史中丞、荊襄應援淮西使，仍復本姓名尚可孤，以所統之眾赴山南，累有戰功。",
     "entities": [
       {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "四年",
         "label": "TME",
         "start": 9,
@@ -82,6 +121,12 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "尚可孤",
+        "label": "PER",
+        "start": 34,
+        "end": 37
       }
     ]
   },
@@ -159,14 +204,7 @@
   {
     "sentence_id": "HCH_008_144_000013",
     "sentence": "五月，晟率可孤及駱元光之軍收京城，可孤之師為先鋒。",
-    "entities": [
-      {
-        "text": "元光之軍收京城",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_144_000014",
@@ -204,7 +242,14 @@
   {
     "sentence_id": "HCH_008_144_000018",
     "sentence": "及李懷光以河中叛，詔可孤帥師與諸軍進討，次於沙苑，遇疾，卒於軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000019",
@@ -248,6 +293,12 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       },
       {
         "text": "令佐坊州",
@@ -351,7 +402,14 @@
   {
     "sentence_id": "HCH_008_144_000034",
     "sentence": "及駕出奉天，與令狐建、李升、韋清等鹹執羈靮，周旋艱險，皆著功勞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐建",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000035",
@@ -414,7 +472,14 @@
   {
     "sentence_id": "HCH_008_144_000039",
     "sentence": "及瑊遁歸，賴觀遊軍及李元諒之師表裏以免。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李元諒",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000040",
@@ -454,12 +519,25 @@
   {
     "sentence_id": "HCH_008_144_000043",
     "sentence": "戴休顏",
-    "entities": []
+    "entities": [
+      {
+        "text": "戴休顏",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000044",
     "sentence": "戴休顏，夏州人。",
     "entities": [
+      {
+        "text": "戴休顏",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "夏州",
         "label": "LOC",
@@ -477,6 +555,12 @@
     "sentence_id": "HCH_008_144_000046",
     "sentence": "大歷中，為郭子儀部將，以戰功累遷至鹽州刺史。",
     "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "戰功累遷至鹽州",
         "label": "LOC",
@@ -499,7 +583,14 @@
   {
     "sentence_id": "HCH_008_144_000048",
     "sentence": "與渾瑊、杜希全、韓遊瑰等捍禦有功。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜希全",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000049",
@@ -510,6 +601,12 @@
     "sentence_id": "HCH_008_144_000050",
     "sentence": "及李懷光叛據咸陽，使誘休顏；休顏集三軍斬其使，嬰城自守。",
     "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "嬰城",
         "label": "LOC",
@@ -577,12 +674,25 @@
   {
     "sentence_id": "HCH_008_144_000058",
     "sentence": "陽惠元",
-    "entities": []
+    "entities": [
+      {
+        "text": "陽惠元",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000059",
     "sentence": "陽惠元，平州人。",
     "entities": [
+      {
+        "text": "陽惠元",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "平州",
         "label": "LOC",
@@ -594,12 +704,32 @@
   {
     "sentence_id": "HCH_008_144_000060",
     "sentence": "以材力從軍，隸平盧節度劉正臣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉正臣",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000061",
     "sentence": "後與田神功、李忠臣等相繼泛海至青、齊間，忠勇多權略，稱為名將。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田神功",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "李忠臣",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000062",
@@ -616,10 +746,22 @@
     "sentence": "李正己有淄、青、齊、海、登、萊、沂、密、德、棣、曹、濮、徐、兗、鄆十五州之地，養兵十萬；李寶臣有恆、易、深、趙、滄、冀、定七州之地，有兵五萬；田承嗣有魏、博、相、衛、洺、貝、澶七州之地，有兵五萬；梁崇義有襄、鄧、均、房、復、郢六州之地，其眾二萬。",
     "entities": [
       {
+        "text": "李正己",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "鄆十五州",
         "label": "LOC",
         "start": 32,
         "end": 36
+      },
+      {
+        "text": "李寶臣",
+        "label": "PER",
+        "start": 44,
+        "end": 47
       },
       {
         "text": "定七州",
@@ -628,10 +770,22 @@
         "end": 63
       },
       {
+        "text": "田承嗣",
+        "label": "PER",
+        "start": 71,
+        "end": 74
+      },
+      {
         "text": "澶七州",
         "label": "LOC",
         "start": 87,
         "end": 90
+      },
+      {
+        "text": "梁崇義",
+        "label": "PER",
+        "start": 98,
+        "end": 101
       },
       {
         "text": "郢六州",
@@ -718,6 +872,12 @@
     "sentence": "李正己聞之，移兵萬人屯於曹州，田悅亦加兵河上；河南大擾，羽書警急。",
     "entities": [
       {
+        "text": "李正己",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "兵萬人屯於曹州",
         "label": "LOC",
         "start": 7,
@@ -769,6 +929,12 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "張巨濟",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -803,6 +969,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -879,12 +1051,32 @@
   {
     "sentence_id": "HCH_008_144_000088",
     "sentence": "李元諒",
-    "entities": []
+    "entities": [
+      {
+        "text": "李元諒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000089",
     "sentence": "李元諒，本駱元光，姓安氏，其先安息人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李元諒",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "駱元光",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000090",
@@ -912,12 +1104,6 @@
     "sentence_id": "HCH_008_144_000093",
     "sentence": "鎮國軍節度使李懷讓署奏鎮國軍副使，俾領州事。",
     "entities": [
-      {
-        "text": "使李懷讓署奏鎮",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      },
       {
         "text": "俾領州",
         "label": "LOC",
@@ -1018,7 +1204,14 @@
   {
     "sentence_id": "HCH_008_144_000101",
     "sentence": "是時，尚可孤守藍田，與元諒掎角；賊東不能逾渭南，元諒功居多。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尚可孤",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000102",
@@ -1116,7 +1309,14 @@
   {
     "sentence_id": "HCH_008_144_000108",
     "sentence": "李懷光反於河中，絕河津。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000109",
@@ -1408,6 +1608,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "論惟明",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -1472,17 +1678,50 @@
   {
     "sentence_id": "HCH_008_144_000151",
     "sentence": "李懷光反，從駕山南。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000152",
     "sentence": "德宗以禁軍無職局，六軍特置統軍一員，秩從二品，以遊瑰、惟明、賈隱林等分典從駕禁兵。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賈隱林",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000153",
     "sentence": "李晟移軍東渭橋，與駱元光、尚可孤分扼京東要路；渾瑊與遊瑰、戴休顏分典京西要路，掎角進攻。",
-    "entities": []
+    "entities": [
+      {
+        "text": "駱元光",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "尚可孤",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "戴休顏",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000154",
@@ -1541,6 +1780,18 @@
         "label": "ORG",
         "start": 4,
         "end": 5
+      },
+      {
+        "text": "尚可孤",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "駱元光",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       },
       {
         "text": "還鎮",
@@ -1715,6 +1966,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "張獻甫",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -1727,6 +1984,12 @@
     "sentence_id": "HCH_008_144_000173",
     "sentence": "都虞侯楊朝晟初逃難郊外，翌日聞請希朝，乃復入城，與軍眾曰：「所請甚愜，我來賀也。」叛卒稍安。",
     "entities": [
+      {
+        "text": "楊朝晟",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "乃復入城",
         "label": "LOC",
@@ -1869,17 +2132,37 @@
   {
     "sentence_id": "HCH_008_144_000187",
     "sentence": "事未發，魏修、李傪上變，令內官王希遷等捕其黨與斬之，德宗因禁止諸色人不得輒入寺觀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王希遷",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000188",
     "sentence": "賈隱林",
-    "entities": []
+    "entities": [
+      {
+        "text": "賈隱林",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000189",
     "sentence": "賈隱林者，滑州牙將也。",
     "entities": [
+      {
+        "text": "賈隱林",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "滑州",
         "label": "LOC",
@@ -1940,12 +2223,26 @@
   {
     "sentence_id": "HCH_008_144_000197",
     "sentence": "杜希全",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜希全",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000198",
     "sentence": "杜希全，京兆醴泉人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜希全",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000199",
@@ -1969,6 +2266,12 @@
         "end": 19
       },
       {
+        "text": "戴休顏",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
         "text": "夏州",
         "label": "LOC",
         "start": 23,
@@ -1979,6 +2282,12 @@
         "label": "TITLE",
         "start": 25,
         "end": 27
+      },
+      {
+        "text": "時常春",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -2358,6 +2667,24 @@
     "sentence": "宜令左右神策及朔方河中絳邠寧慶兵馬副元帥渾瑊、朔方靈鹽豐夏綏銀節度都統杜希全、邠寧節度使張獻甫、神策行營節度使邢君牙、銀夏節度使韓潭、鄜坊節度使王棲曜、振武節度使範希朝，各於所部簡練將士，令三萬五千人同赴鹽州。",
     "entities": [
       {
+        "text": "杜希全",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      },
+      {
+        "text": "張獻甫",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      },
+      {
+        "text": "邢君牙",
+        "label": "PER",
+        "start": 55,
+        "end": 58
+      },
+      {
         "text": "五千人同赴鹽州",
         "label": "LOC",
         "start": 97,
@@ -2398,6 +2725,12 @@
         "label": "TME",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "杜彥先",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -2457,6 +2790,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李景略",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2497,12 +2836,26 @@
   {
     "sentence_id": "HCH_008_144_000261",
     "sentence": "尉遲勝",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉遲勝",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000262",
     "sentence": "尉遲勝，本於闐王珪之長子，少嗣位。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉遲勝",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000263",
@@ -2521,6 +2874,12 @@
     "sentence": "與西安節度使高仙芝同擊破薩毗播仙，以功加銀青光祿大夫、鴻臚卿，改光祿卿，皆同正。",
     "entities": [
       {
+        "text": "高仙芝",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 24,
@@ -2531,7 +2890,14 @@
   {
     "sentence_id": "HCH_008_144_000265",
     "sentence": "至德初，聞安祿山反，勝乃命弟曜行國事，自率兵五千赴難。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000266",
@@ -2669,12 +3035,25 @@
   {
     "sentence_id": "HCH_008_144_000282",
     "sentence": "邢君牙",
-    "entities": []
+    "entities": [
+      {
+        "text": "邢君牙",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000283",
     "sentence": "邢君牙，瀛州樂壽人也。",
     "entities": [
+      {
+        "text": "邢君牙",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "瀛州",
         "label": "LOC",
@@ -2691,12 +3070,31 @@
   {
     "sentence_id": "HCH_008_144_000285",
     "sentence": "安祿山反，隨平盧節度使侯希逸過海，至青、徐間。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "侯希逸",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000286",
     "sentence": "田神功之討劉展，君牙又從神功戰伐有功，歷將軍、試光祿卿。",
     "entities": [
+      {
+        "text": "田神功",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "將軍",
         "label": "TITLE",
@@ -2839,12 +3237,25 @@
   {
     "sentence_id": "HCH_008_144_000300",
     "sentence": "楊朝晟",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊朝晟",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000301",
     "sentence": "楊朝晟，字叔明，夏州朔方人。",
     "entities": [
+      {
+        "text": "楊朝晟",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "夏州",
         "label": "LOC",
@@ -2862,6 +3273,12 @@
     "sentence_id": "HCH_008_144_000303",
     "sentence": "建中初，從李懷光討劉文喜於涇州，斬獲擒生居多，授驃騎大將軍，稍遷右先鋒兵馬使。",
     "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "討劉文喜於涇州",
         "label": "LOC",
@@ -2887,6 +3304,12 @@
         "end": 6
       },
       {
+        "text": "唐",
+        "label": "ORG",
+        "start": 8,
+        "end": 9
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 31,
@@ -2897,7 +3320,14 @@
   {
     "sentence_id": "HCH_008_144_000305",
     "sentence": "上在奉天，李懷光自山東赴難，以朝晟為右廂兵馬使，將千余人下咸陽，以挫硃泚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000306",
@@ -2986,7 +3416,14 @@
   {
     "sentence_id": "HCH_008_144_000316",
     "sentence": "後詔征遊瑰宿衛，以張獻甫代之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張獻甫",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000317",
@@ -3159,22 +3596,50 @@
   {
     "sentence_id": "HCH_008_144_000329",
     "sentence": "張敬則",
-    "entities": []
+    "entities": [
+      {
+        "text": "張敬則",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000330",
     "sentence": "張敬則者，不知何許人，本名昌，後賜名敬則。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張敬則",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000331",
     "sentence": "初助劉玄佐，累有軍功，官至鳳翔節度使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉玄佐",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000332",
     "sentence": "常有復河湟之誌，遣大將野詩良輔發銳卒至隴西，番戎大駭。",
-    "entities": []
+    "entities": [
+      {
+        "text": "野詩良輔",
+        "label": "PER",
+        "start": 11,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_144_000333",

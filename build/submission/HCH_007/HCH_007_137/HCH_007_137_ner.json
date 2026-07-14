@@ -47,14 +47,7 @@
   {
     "sentence_id": "HCH_007_137_000006",
     "sentence": "劉仁恭鎮幽州，素知契丹軍情偽，選將練兵，乘秋深入，逾摘星嶺討之，霜降秋暮，即燔塞下野草以困之，馬多饑死，即以良馬賂仁恭，以市牧地。",
-    "entities": [
-      {
-        "text": "劉仁恭鎮幽州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_137_000007",
@@ -206,6 +199,12 @@
         "label": "LOC",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "盧文進",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "殺新州",
@@ -412,7 +411,14 @@
   {
     "sentence_id": "HCH_007_137_000036",
     "sentence": "安巴堅召盧文進，以手指天謂之曰：「天未令我到此。」乃引眾北去。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧文進",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_137_000037",
@@ -505,6 +511,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "盧文進",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       },
       {
         "text": "平等州",
@@ -720,6 +732,12 @@
         "end": 21
       },
       {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 38,
+        "end": 41
+      },
+      {
         "text": "托諾走保賊城",
         "label": "LOC",
         "start": 47,
@@ -736,6 +754,12 @@
         "label": "LOC",
         "start": 9,
         "end": 16
+      },
+      {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -748,6 +772,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },
@@ -841,6 +871,18 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 63,
+        "end": 66
       }
     ]
   },
@@ -860,6 +902,12 @@
     "sentence_id": "HCH_007_137_000072",
     "sentence": "時趙德鈞、趙延壽自潞州出降於契丹，德光鎖之，令隨牙帳。",
     "entities": [
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "趙延壽自潞州",
         "label": "LOC",
@@ -952,10 +1000,22 @@
     "sentence": "會契丹回圖使喬榮北歸，侍衛親軍都指揮使景延廣謂榮曰：「先朝是契丹所立，嗣君乃中國自冊，稱孫可矣，稱臣未可。中國自有十萬口橫磨劍，要戰即來！」榮至本國，具言其事，德光大怒，會青州楊光遠叛，遣使構之。",
     "entities": [
       {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
         "text": "會青州",
         "label": "LOC",
         "start": 85,
         "end": 88
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 88,
+        "end": 91
       }
     ]
   },
@@ -1015,6 +1075,12 @@
         "label": "ORG",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -1022,6 +1088,18 @@
     "sentence_id": "HCH_007_137_000086",
     "sentence": "使回，德光報曰：「但使桑維翰、景延廣自來，並割鎮、定與我，則可通和也。」朝廷知其不可，乃止。",
     "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
       {
         "text": "並割鎮",
         "label": "LOC",
@@ -1050,7 +1128,20 @@
   {
     "sentence_id": "HCH_007_137_000089",
     "sentence": "十月，少帝遣杜重威、李守貞等率兵經略。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_137_000090",
@@ -1073,12 +1164,6 @@
         "label": "LOC",
         "start": 16,
         "end": 20
-      },
-      {
-        "text": "杜重威等自瀛州",
-        "label": "LOC",
-        "start": 21,
-        "end": 28
       }
     ]
   },
@@ -1086,6 +1171,12 @@
     "sentence_id": "HCH_007_137_000092",
     "sentence": "十二月十日，杜重威率諸軍降於契丹，語在《晉少帝紀》中。",
     "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "《晉少帝紀》",
         "label": "TITLE",
@@ -1127,7 +1218,14 @@
   {
     "sentence_id": "HCH_007_137_000095",
     "sentence": "命張彥澤領二千騎先趨東京，遣重威部轄降兵取邢、相路前進。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_137_000096",
@@ -1323,6 +1421,18 @@
     "sentence": "十八日晡時，有大星落於穹廬之前，若迸火而散，德光見之，西望而唾，連呼曰：「劉知遠滅，劉知遠滅！」是月二十一日卒，時年四十六，主契丹凡二十二年。",
     "entities": [
       {
+        "text": "劉知遠",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      },
+      {
+        "text": "劉知遠",
+        "label": "PER",
+        "start": 42,
+        "end": 45
+      },
+      {
         "text": "二十二年",
         "label": "TME",
         "start": 66,
@@ -1470,6 +1580,12 @@
         "label": "LOC",
         "start": 350,
         "end": 353
+      },
+      {
+        "text": "王彥超",
+        "label": "PER",
+        "start": 356,
+        "end": 359
       },
       {
         "text": "千騎戰於安平縣",

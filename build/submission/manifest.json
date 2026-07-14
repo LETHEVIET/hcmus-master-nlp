@@ -1,6 +1,6 @@
 {
   "annotation_status": "preannotation_needs_review",
-  "entities": 192109,
+  "entities": 208558,
   "excluded_sentences": {
     "unchecked": 0,
     "unknown_label": 0,
@@ -8,7 +8,7 @@
   },
   "include_provenance": false,
   "input": "build/corpus_preannotated.jsonl",
-  "input_sha256": "94f00fd880bd049a4e7fe115c6e157766637495668334a40e02d821943dbfaeb",
+  "input_sha256": "ff95ce1375b09e1cb7363cd5277aeb6c4f051bb7a2fb81bc10276c1e62163dbc",
   "input_type": "text",
   "label_schema": [
     "PER",
@@ -25,7 +25,7 @@
   "raw_files": "not generated; raw text is preserved under dataset/",
   "scope": "full",
   "sentences": 271471,
-  "source_corpus_sha256": "94f00fd880bd049a4e7fe115c6e157766637495668334a40e02d821943dbfaeb",
+  "source_corpus_sha256": "ff95ce1375b09e1cb7363cd5277aeb6c4f051bb7a2fb81bc10276c1e62163dbc",
   "source_validation_report_sha256": null,
   "submission_shape": "minimal",
   "volumes": 787,

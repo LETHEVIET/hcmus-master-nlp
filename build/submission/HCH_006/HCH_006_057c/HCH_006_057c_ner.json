@@ -149,12 +149,25 @@
   {
     "sentence_id": "HCH_006_057c_000015",
     "sentence": "於是卓王孫、臨邛諸公皆因門下獻牛酒以交驩。",
-    "entities": []
+    "entities": [
+      {
+        "text": "卓王孫",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_057c_000016",
     "sentence": "卓王孫喟然而歎，自以得使女尚司馬長卿晚， 〈 師古曰：「尚猶配也，義與尚公主同。今流俗書本此尚字作當，蓋後人見前云文君恐不得當，故改此文以就之耳。」 〉 乃厚分與其女財，與男等。",
     "entities": [
+      {
+        "text": "卓王孫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "司馬",
         "label": "TITLE",

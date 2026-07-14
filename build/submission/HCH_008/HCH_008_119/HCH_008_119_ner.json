@@ -117,7 +117,14 @@
   {
     "sentence_id": "HCH_008_119_000017",
     "sentence": "天寶末，安祿山反，肅宗即位于靈武。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_119_000018",
@@ -468,6 +475,12 @@
     "sentence_id": "HCH_008_119_000064",
     "sentence": "給事中李廣、給事中李棲筠、尚書左丞賈至、京兆尹兼御史大夫嚴武所奏議狀與綰同。",
     "entities": [
+      {
+        "text": "李棲筠",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -896,7 +909,14 @@
   {
     "sentence_id": "HCH_008_119_000119",
     "sentence": "會魚朝恩死，載以朝恩嘗判國子監事，塵汙太學，宜得名儒，以淸其秩，乃奏爲國子祭酒，實欲以散地處之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_119_000120",
@@ -956,14 +976,7 @@
   {
     "sentence_id": "HCH_008_119_000127",
     "sentence": "中書令郭子儀在邠州行營，聞綰拜相，座内音樂減散五分之四。",
-    "entities": [
-      {
-        "text": "令郭子儀在邠州",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_119_000128",
@@ -1204,12 +1217,26 @@
   {
     "sentence_id": "HCH_008_119_000162",
     "sentence": "崔祐甫",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔祐甫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_119_000163",
     "sentence": "崔祐甫，字貽孫。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔祐甫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_119_000164",
@@ -1249,6 +1276,12 @@
     "sentence_id": "HCH_008_119_000168",
     "sentence": "安祿山陷洛陽，士庶奔迸，祐甫獨崎危于矢石之間，潛入私廟，負木主以竄。",
     "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "洛陽",
         "label": "LOC",
@@ -1486,7 +1519,14 @@
   {
     "sentence_id": "HCH_008_119_000196",
     "sentence": "是時，中書令郭子儀、檢校司空平章事硃泚，名是宰臣，當署制敕，至于密勿之議，則莫得聞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_119_000197",
@@ -1594,7 +1634,14 @@
   {
     "sentence_id": "HCH_008_119_000212",
     "sentence": "神策軍使王駕鶴掌禁兵十餘年，權傾中外，德宗初登極，將令白琇珪代之，懼其生變。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白琇珪",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_119_000213",
@@ -1604,7 +1651,14 @@
   {
     "sentence_id": "HCH_008_119_000214",
     "sentence": "時李正己畏懼德宗威德，乃表獻錢三十萬貫。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李正己",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_119_000215",
@@ -1710,7 +1764,14 @@
   {
     "sentence_id": "HCH_008_119_000231",
     "sentence": "時皇甫鎛以宰相判度支，請減内外官俸祿，植封還敕書，極諫而止。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫鎛",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_119_000232",
@@ -1768,6 +1829,18 @@
         "label": "TITLE",
         "start": 108,
         "end": 110
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 138,
+        "end": 141
+      },
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 142,
+        "end": 145
       },
       {
         "text": "元",
@@ -1878,12 +1951,26 @@
   {
     "sentence_id": "HCH_008_119_000244",
     "sentence": "及張弘靖赴鎭，令克融等從還。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張弘靖",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_119_000245",
     "sentence": "不數月，克融囚弘靖，害賓佐，結王廷湊，國家復失河朔，職植兄弟之由。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王廷湊",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_119_000246",
@@ -2063,10 +2150,10 @@
     "sentence": "時朝廷以王承元歸國，命田弘正移帥鎭州。",
     "entities": [
       {
-        "text": "田弘正移帥鎭州",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
+        "text": "王承元",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2221,7 +2308,14 @@
   {
     "sentence_id": "HCH_008_119_000284",
     "sentence": "内侍魚朝恩恃權寵，兼領國子監事，袞上疎以爲不可。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_119_000285",
@@ -2379,6 +2473,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "崔祐甫",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -2391,6 +2491,12 @@
     "sentence_id": "HCH_008_119_000311",
     "sentence": "時袞散官尚朝議，又無封爵，郭子儀因入朝奏之，遂特加銀靑光祿大夫，封河内郡公。",
     "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
       {
         "text": "大夫",
         "label": "TITLE",
@@ -2497,7 +2603,14 @@
   {
     "sentence_id": "HCH_008_119_000323",
     "sentence": "昔趙文子薦士七十，古爲美談；崔祐甫除吏八百，人無間言。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔祐甫",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_119_000324",

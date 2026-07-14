@@ -953,7 +953,14 @@
   {
     "sentence_id": "HCH_006_097c_000120",
     "sentence": "其後趙飛燕姊弟亦從自微賤興，踰越禮制，寖盛於前。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙飛燕",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_097c_000121",
@@ -976,6 +983,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "趙飛燕",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "皇后",

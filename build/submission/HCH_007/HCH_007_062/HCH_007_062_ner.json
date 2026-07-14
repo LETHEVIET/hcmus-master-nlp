@@ -98,6 +98,12 @@
     "sentence": "〈 （案：此二句上下有脫文。今無可復考。） 〉 六月，李存孝下洺、磁兩郡，方立遣馬溉、袁奉韜盡率其眾，逆戰於琉璃陂。",
     "entities": [
       {
+        "text": "李存孝",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
         "text": "磁兩郡",
         "label": "LOC",
         "start": 33,
@@ -293,6 +299,12 @@
         "end": 455
       },
       {
+        "text": "朱全忠",
+        "label": "PER",
+        "start": 509,
+        "end": 512
+      },
+      {
         "text": "二年",
         "label": "TME",
         "start": 541,
@@ -339,6 +351,12 @@
         "label": "TME",
         "start": 721,
         "end": 723
+      },
+      {
+        "text": "李存孝",
+        "label": "PER",
+        "start": 732,
+        "end": 735
       },
       {
         "text": "假三州",
@@ -427,7 +445,14 @@
   {
     "sentence_id": "HCH_007_062_000017",
     "sentence": "初為劉仁恭裨將，性凶險，多奸謀，辭氣庸下，與人交言，癖於不遜，自少及長，專蓄異謀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_062_000018",
@@ -577,6 +602,12 @@
     "sentence": "是夜作亂，殺王鎔父子，舉族灰滅，惟留王昭祚妻朱氏通梁人；尋間道告於梁曰：「王氏喪於亂軍，普寧公主無恙。」文禮徇賊帥張友順所請，因為留後，於潭城視事。",
     "entities": [
       {
+        "text": "王昭祚",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "公主",
         "label": "TITLE",
         "start": 46,
@@ -613,19 +644,19 @@
   {
     "sentence_id": "HCH_007_062_000042",
     "sentence": "是歲八月，莊宗遣閻寶、史建瑭及趙將符習等率王鎔本軍進討。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史建瑭",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_062_000043",
     "sentence": "師興，文禮病疽腹，及聞史建瑭攻下趙州，驚悸而卒。",
-    "entities": [
-      {
-        "text": "史建瑭攻下趙州",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_062_000044",
@@ -664,6 +695,12 @@
     "sentence": "存進亦以戰歿，乃以符存審為北面招討使，攻鎮州。",
     "entities": [
       {
+        "text": "符存審",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "攻鎮州",
         "label": "LOC",
         "start": 19,
@@ -691,14 +728,7 @@
   {
     "sentence_id": "HCH_007_062_000052",
     "sentence": "俄而符存審師至城下。",
-    "entities": [
-      {
-        "text": "而符存審師至城",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_062_000053",
@@ -730,7 +760,14 @@
   {
     "sentence_id": "HCH_007_062_000057",
     "sentence": "幼與高季興、孔循俱事豪士李七郎為童仆。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_062_000058",
@@ -815,7 +852,14 @@
   {
     "sentence_id": "HCH_007_062_000065",
     "sentence": "時郭崇韜當國，待璋尤厚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_062_000066",
@@ -856,7 +900,14 @@
   {
     "sentence_id": "HCH_007_062_000068",
     "sentence": "時郭崇韜為招討使，凡有軍機，皆召璋參決。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_062_000069",
@@ -883,7 +934,20 @@
   {
     "sentence_id": "HCH_007_062_000072",
     "sentence": "是時安重誨當國，采人邪謀，言孟知祥必不為國家使，惟董璋性忠義，可特寵任，令圖知祥。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_062_000073",
@@ -909,6 +973,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -1039,7 +1109,14 @@
   {
     "sentence_id": "HCH_007_062_000089",
     "sentence": "虔裕，安重誨之心腹也，故先囚之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_062_000090",
@@ -1068,7 +1145,14 @@
   {
     "sentence_id": "HCH_007_062_000092",
     "sentence": "先是，璋欲謀叛，先遣使持厚幣於孟知祥，求為婚家。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_062_000093",
@@ -1101,7 +1185,14 @@
   {
     "sentence_id": "HCH_007_062_000096",
     "sentence": "其年秋，詔削奪璋在身官爵，命天雄軍節度使石敬瑭為東川行營招討使，率師以討之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_062_000097",
@@ -1118,7 +1209,14 @@
   {
     "sentence_id": "HCH_007_062_000098",
     "sentence": "及石敬瑭率師進討，以糧運不接，班師。",
-    "entities": []
+    "entities": [
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_062_000099",
@@ -1128,7 +1226,14 @@
   {
     "sentence_id": "HCH_007_062_000100",
     "sentence": "時孟知祥其骨肉在京師者俱無恙焉，因遣使報璋，欲連表稱謝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_062_000101",
@@ -1186,12 +1291,6 @@
     "sentence_id": "HCH_007_062_000105",
     "sentence": "〈 （《九國誌·趙廷隱傳》：董璋襲廣漢，將攻成都，時東川廩藏充實，部下多敢死之士，其來也，眾皆畏之。知祥親督諸將，與璋戰雞縱橋前，頗為所挫。廷隱偽遁，璋逐之，知祥與張公鐸繼進，璋軍亂不成列，廷隱整陣，與知祥合擊之，璋軍大敗。） 〉 先是，前陵州刺史王暉為璋所邀，寓於東川，至是因璋之敗，率眾以害之，傳其首於西川。",
     "entities": [
-      {
-        "text": "《九國誌·趙廷隱傳》",
-        "label": "TITLE",
-        "start": 3,
-        "end": 13
-      },
       {
         "text": "成都",
         "label": "LOC",

@@ -159,7 +159,14 @@
   {
     "sentence_id": "HCH_008_171_000019",
     "sentence": "會澤潞節度使郗士美卒，渤充吊祭使，路次陜西。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郗士美",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000020",
@@ -219,7 +226,14 @@
   {
     "sentence_id": "HCH_008_171_000026",
     "sentence": "宰臣蕭俛、段文昌、崔植，是陛下君臨之初，用為輔弼，安危理亂，決在此時。",
-    "entities": []
+    "entities": [
+      {
+        "text": "段文昌",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000027",
@@ -289,7 +303,20 @@
   {
     "sentence_id": "HCH_008_171_000040",
     "sentence": "其蕭亻免、段文昌、崔植三人並翰林學士杜元穎等，並請考中下。",
-    "entities": []
+    "entities": [
+      {
+        "text": "段文昌",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "杜元穎",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000041",
@@ -306,6 +333,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "張惟素",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -324,17 +357,38 @@
   {
     "sentence_id": "HCH_008_171_000043",
     "sentence": "其李絳、張惟素、李益三人，伏請賜上下考外，特與遷官，以彰陛下優忠賞諫之美。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張惟素",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000044",
     "sentence": "其崔元略冠供奉之首，合考上下；緣與於翚上下考，於翚以犯贓處死，準令須降，請賜考中中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔元略",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000045",
     "sentence": "大理卿許季同，任使於翚、韋道沖、韋正牧，皆以犯贓，或左降，或處死，合考中下；然頃者陷劉辟之亂，棄家歸朝，忠節明著，今宜以功補過，請賜考中中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許季同",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000046",
@@ -379,12 +433,25 @@
   {
     "sentence_id": "HCH_008_171_000054",
     "sentence": "未幾，渤以墜馬傷足，請告，會魏博節度使田弘正表渤為副使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田弘正",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000055",
     "sentence": "杜元穎奏曰：「渤賣直沽名，動多狂躁。聖恩矜貸，且使居官。而幹進多端，外交方鎮，遠求奏請，不能自安。久留在朝，轉恐生事。」乃出為虔州刺史。",
     "entities": [
+      {
+        "text": "杜元穎",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "外交方鎮",
         "label": "LOC",
@@ -450,6 +517,12 @@
     "sentence_id": "HCH_008_171_000059",
     "sentence": "張平叔判度支，奏征久遠逋懸，渤在州上疏曰：「伏奉詔敕，雲度支使所奏，令臣設計征填當州貞元二年逃戶所欠錢四千四百一十貫。臣當州管田二千一百九十七頃，今已旱死一千九百頃有余，若更勒徇度支使所為，必懼史官書陛下於大旱中征三十六年前逋懸。臣任刺史，罪無所逃。臣既上不副聖情，下不忍鞭笞黎庶，不敢輕持符印，特乞放臣歸田。」乃下詔曰：「江州所奏，實為懇誠。若不蠲容，必難存濟。所訴逋欠並放。」長慶二年，入為職方郎中。",
     "entities": [
+      {
+        "text": "張平叔",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "渤在州",
         "label": "LOC",
@@ -691,7 +764,26 @@
   {
     "sentence_id": "HCH_008_171_000082",
     "sentence": "後宰相李逢吉、竇易直、李程因延英上語及崔發，逢吉等奏曰：「崔發淩轢中人，誠大不敬。然發母是故相韋貫之姊，年僅八十。自發下獄，積憂成疾。伏以陛下孝治天下，稍垂恩宥。」帝湣然良久，曰：「比諫官論奏，但言發屈，未嘗言不敬之罪，亦不言有老母。如卿等言，寧無湣惻！」即遣中使送發至其家，兼撫問發母。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "竇易直",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "韋貫之",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000083",
@@ -769,12 +861,25 @@
   {
     "sentence_id": "HCH_008_171_000091",
     "sentence": "張仲方",
-    "entities": []
+    "entities": [
+      {
+        "text": "張仲方",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000092",
     "sentence": "張仲方，韶州始興人。",
     "entities": [
+      {
+        "text": "張仲方",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "韶州",
         "label": "LOC",
@@ -849,7 +954,20 @@
   {
     "sentence_id": "HCH_008_171_000099",
     "sentence": "會呂溫、羊士諤誣告宰相李吉甫陰事，二人俱貶。",
-    "entities": []
+    "entities": [
+      {
+        "text": "羊士諤",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000100",
@@ -883,6 +1001,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "尉遲汾",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -1243,6 +1367,12 @@
         "end": 2
       },
       {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 11,
@@ -1287,7 +1417,14 @@
   {
     "sentence_id": "HCH_008_171_000155",
     "sentence": "逡巡，閣門使馬元贄斜開宣政衙門傳宣曰：「有敕召左散騎常侍張仲方。」仲方出班。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張仲方",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000156",
@@ -1298,6 +1435,12 @@
     "sentence_id": "HCH_008_171_000157",
     "sentence": "月余，鄭覃作相，用薛元賞為京兆尹，出仲方為華州刺史。",
     "entities": [
+      {
+        "text": "薛元賞",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
       {
         "text": "出仲方為華州",
         "label": "LOC",
@@ -1327,12 +1470,25 @@
   {
     "sentence_id": "HCH_008_171_000159",
     "sentence": "外議以鄭覃黨李德裕，排擯仲方。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000160",
     "sentence": "覃恐涉朋黨，因紫宸奏事，覃啟曰：「丞郎闕人，臣欲用張仲方。」文宗曰：「中臺侍郎，朝廷華選。仲方作牧守無政，安可以丞郎處之？」累加銀青光祿大夫、上柱國、曲江縣開國伯，食邑七百戶。",
     "entities": [
+      {
+        "text": "張仲方",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
       {
         "text": "侍郎",
         "label": "TITLE",
@@ -1441,7 +1597,14 @@
   {
     "sentence_id": "HCH_008_171_000174",
     "sentence": "有曹進玉者，恃恩暴戾，遇四方使多倨，有至捽辱者，宰相李吉甫奏罷之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000175",
@@ -1487,6 +1650,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "李道古",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -1543,7 +1712,14 @@
   {
     "sentence_id": "HCH_008_171_000189",
     "sentence": "伏見自去年已來，諸處頻薦藥術之士，有韋山甫、柳泌等，或更相稱引，迄今狂謬，薦送漸多。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋山甫",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000190",
@@ -1653,6 +1829,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "元利貞",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -1669,7 +1851,20 @@
   {
     "sentence_id": "HCH_008_171_000205",
     "sentence": "伏以貞觀已來，左右起居有褚遂良、杜正倫、呂向、韋述等，鹹能竭其忠誠，悉心規諫。",
-    "entities": []
+    "entities": [
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000206",
@@ -2047,12 +2242,26 @@
   {
     "sentence_id": "HCH_008_171_000248",
     "sentence": "李中敏",
-    "entities": []
+    "entities": [
+      {
+        "text": "李中敏",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000249",
     "sentence": "李中敏，隴西人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李中敏",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000250",
@@ -2095,6 +2304,18 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "王守澄",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "宋申錫",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -2107,6 +2328,12 @@
     "sentence_id": "HCH_008_171_000257",
     "sentence": "中敏上言曰：「仍歲大旱，非聖德不至，直以宋申錫之冤濫，鄭註之奸弊。今致雨之方，莫若斬鄭註而雪申錫。」士大夫皆危之，疏留中不下。",
     "entities": [
+      {
+        "text": "宋申錫",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
       {
         "text": "大夫",
         "label": "TITLE",
@@ -2189,7 +2416,14 @@
   {
     "sentence_id": "HCH_008_171_000268",
     "sentence": "鄭註入翰林侍講，舒元輿既作相，註亦求入中書。",
-    "entities": []
+    "entities": [
+      {
+        "text": "舒元輿",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000269",
@@ -2280,12 +2514,26 @@
   {
     "sentence_id": "HCH_008_171_000276",
     "sentence": "高元裕",
-    "entities": []
+    "entities": [
+      {
+        "text": "高元裕",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000277",
     "sentence": "高元裕，字景圭，渤海人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高元裕",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000278",
@@ -2318,6 +2566,12 @@
     "sentence_id": "HCH_008_171_000282",
     "sentence": "李宗閔作相，用為諫議大夫，尋改中書舍人。",
     "entities": [
+      {
+        "text": "李宗閔",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "大夫",
         "label": "TITLE",
@@ -2449,16 +2703,16 @@
         "end": 38
       },
       {
+        "text": "杜宣猷",
+        "label": "PER",
+        "start": 38,
+        "end": 41
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 49,
         "end": 51
-      },
-      {
-        "text": "魏",
-        "label": "ORG",
-        "start": 51,
-        "end": 52
       },
       {
         "text": "出為府縣",
@@ -2774,6 +3028,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 8
+      },
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -2792,7 +3052,14 @@
   {
     "sentence_id": "HCH_008_171_000322",
     "sentence": "李宗閔作相，用為知制誥，尋遷駕部郎中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李宗閔",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000323",
@@ -2803,6 +3070,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "宇文鼎",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       },
       {
         "text": "御史",
@@ -3047,6 +3320,18 @@
         "label": "TME",
         "start": 266,
         "end": 268
+      },
+      {
+        "text": "段平仲",
+        "label": "PER",
+        "start": 275,
+        "end": 278
+      },
+      {
+        "text": "韋公肅",
+        "label": "PER",
+        "start": 286,
+        "end": 289
       }
     ]
   },
@@ -3115,6 +3400,12 @@
     "sentence": "六月，李宗閔得罪罷相，漢坐其黨，出為汾州刺史。",
     "entities": [
       {
+        "text": "李宗閔",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "出為汾州",
         "label": "LOC",
         "start": 16,
@@ -3155,7 +3446,14 @@
   {
     "sentence_id": "HCH_008_171_000339",
     "sentence": "會昌中，李德裕用事，漢竟淪躓而卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000340",
@@ -3182,12 +3480,25 @@
   {
     "sentence_id": "HCH_008_171_000343",
     "sentence": "李景儉",
-    "entities": []
+    "entities": [
+      {
+        "text": "李景儉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000344",
     "sentence": "李景儉，字寬中，漢中王瑀之孫。",
     "entities": [
+      {
+        "text": "李景儉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "漢",
         "label": "ORG",
@@ -3246,6 +3557,18 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "韋執誼",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -3257,7 +3580,14 @@
   {
     "sentence_id": "HCH_008_171_000351",
     "sentence": "韋夏卿留守東都，辟為從事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋夏卿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000352",
@@ -3358,7 +3688,14 @@
   {
     "sentence_id": "HCH_008_171_000362",
     "sentence": "中丞蕭俛、學士段文昌相交輔政，景儉輕之，形於談謔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "段文昌",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000363",
@@ -3374,6 +3711,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "李景儉",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "亦分郡",
@@ -3410,12 +3753,32 @@
   {
     "sentence_id": "HCH_008_171_000365",
     "sentence": "其年十二月，景儉朝退，與兵部郎中知制誥馮宿、庫部郎中知制誥楊嗣復、起居舍人溫造、司勛員外郎李肇、刑部員外郎王鎰等同謁史官獨孤朗，乃於史館飲酒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊嗣復",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "獨孤朗",
+        "label": "PER",
+        "start": 60,
+        "end": 63
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000366",
     "sentence": "景儉乘醉詣中書謁宰相，呼王播、崔植、杜元穎名，面疏其失，辭頗悖慢。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜元穎",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_171_000367",

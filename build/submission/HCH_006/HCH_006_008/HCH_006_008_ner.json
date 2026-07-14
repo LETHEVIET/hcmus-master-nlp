@@ -733,6 +733,12 @@
         "end": 4
       },
       {
+        "text": "田廣明",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 10,
@@ -743,6 +749,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       },
       {
         "text": "將軍",
@@ -1598,7 +1610,14 @@
   {
     "sentence_id": "HCH_006_008_000128",
     "sentence": "冬，京兆尹趙廣漢有罪，要斬。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙廣漢",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_008_000129",
@@ -1737,7 +1756,14 @@
   {
     "sentence_id": "HCH_006_008_000139",
     "sentence": "秋八月，賜故右扶風尹翁歸子黃金百斤，以奉其祭祀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尹翁歸",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_008_000140",
@@ -1861,6 +1887,12 @@
         "end": 8
       },
       {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 14,
@@ -1882,6 +1914,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "辛武賢",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "將軍",
@@ -2613,6 +2651,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },

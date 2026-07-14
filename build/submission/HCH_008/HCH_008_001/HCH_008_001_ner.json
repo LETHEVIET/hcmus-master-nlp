@@ -372,7 +372,14 @@
   {
     "sentence_id": "HCH_008_001_000035",
     "sentence": "群賊蜂起，江都阻絕，太宗與晉陽令劉文靜首謀，勸舉義兵。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_001_000036",
@@ -395,7 +402,26 @@
   {
     "sentence_id": "HCH_008_001_000037",
     "sentence": "高祖乃命太宗與劉文靜及門下客長孫順德、劉弘基各募兵，旬日間眾且一萬，密遣使召世子建成及元吉於河東。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "長孫順德",
+        "label": "PER",
+        "start": 14,
+        "end": 18
+      },
+      {
+        "text": "劉弘基",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_001_000038",
@@ -411,6 +437,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "劉世龍",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -428,13 +460,26 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "劉政會",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
   {
     "sentence_id": "HCH_008_001_000042",
     "sentence": "甲戌，遣劉文靜使於突厥始畢可汗，令率兵相應。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_001_000043",
@@ -476,6 +521,12 @@
         "end": 6
       },
       {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 14,
@@ -486,6 +537,24 @@
         "label": "LOC",
         "start": 17,
         "end": 20
+      },
+      {
+        "text": "劉政會",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
+        "text": "長孫順德",
+        "label": "PER",
+        "start": 33,
+        "end": 37
+      },
+      {
+        "text": "劉弘基",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       }
     ]
   },
@@ -593,6 +662,12 @@
         "end": 94
       },
       {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 124,
+        "end": 127
+      },
+      {
         "text": "隋",
         "label": "ORG",
         "start": 132,
@@ -614,7 +689,20 @@
   {
     "sentence_id": "HCH_008_001_000054",
     "sentence": "高祖令華與統軍王長諧、劉弘基引兵渡河。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王長諧",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "劉弘基",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_001_000055",
@@ -658,7 +746,14 @@
   {
     "sentence_id": "HCH_008_001_000060",
     "sentence": "華陰令李孝常以永豐倉來降。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李孝常",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_001_000061",
@@ -681,6 +776,12 @@
         "end": 12
       },
       {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "兼守潼關",
         "label": "LOC",
         "start": 21,
@@ -691,7 +792,20 @@
   {
     "sentence_id": "HCH_008_001_000064",
     "sentence": "太宗率劉弘基、長孫順德等前後數萬人，自渭北徇三輔，所至皆下。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉弘基",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "長孫順德",
+        "label": "PER",
+        "start": 7,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_001_000065",
@@ -714,6 +828,18 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "丘師利",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "李仲文",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -894,12 +1020,6 @@
         "label": "LOC",
         "start": 0,
         "end": 6
-      },
-      {
-        "text": "靜等追擒於閿鄉",
-        "label": "LOC",
-        "start": 12,
-        "end": 19
       }
     ]
   },
@@ -960,7 +1080,14 @@
   {
     "sentence_id": "HCH_008_001_000088",
     "sentence": "二月，清河賊帥竇建德僭稱長樂王。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_001_000089",
@@ -976,6 +1103,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "宇文化及",
+        "label": "PER",
+        "start": 10,
+        "end": 14
       },
       {
         "text": "丞相",
@@ -1284,6 +1417,12 @@
         "end": 31
       },
       {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 41,
@@ -1475,6 +1614,12 @@
         "end": 44
       },
       {
+        "text": "宇文弼",
+        "label": "PER",
+        "start": 44,
+        "end": 47
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 51,
@@ -1549,14 +1694,7 @@
   {
     "sentence_id": "HCH_008_001_000148",
     "sentence": "宇文化及至魏州，鴆殺秦王浩，僭稱天子，國號許。",
-    "entities": [
-      {
-        "text": "宇文化及至魏州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_001_000149",
@@ -1627,12 +1765,26 @@
   {
     "sentence_id": "HCH_008_001_000158",
     "sentence": "丁丑，封上柱國李孝常為義安王。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李孝常",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_001_000159",
     "sentence": "庚子，李密反於桃林，行軍總管盛彥師追討斬之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盛彥師",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_001_000160",
@@ -1687,10 +1839,10 @@
     "sentence": "丁酉，竇建德攻宇文化及於聊城，斬之，傳首突厥。",
     "entities": [
       {
-        "text": "宇文化及於聊城",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
+        "text": "竇建德",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -1762,6 +1914,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "安興貴",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -1813,14 +1971,7 @@
   {
     "sentence_id": "HCH_008_001_000176",
     "sentence": "王世充遣其將羅士信侵我穀州，士信率其眾來降。",
-    "entities": [
-      {
-        "text": "羅士信侵我穀州",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_001_000177",
@@ -1846,6 +1997,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "杜伏威",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "授和州",
@@ -1876,6 +2033,12 @@
         "label": "TITLE",
         "start": 23,
         "end": 26
+      },
+      {
+        "text": "姜寶誼",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -1934,6 +2097,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "楊恭仁",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -1946,6 +2115,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "劉文靜",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1981,7 +2156,14 @@
   {
     "sentence_id": "HCH_008_001_000191",
     "sentence": "十一月丙子，竇建德陷黎陽，盡有山東之地。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_001_000192",
@@ -2004,6 +2186,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "獨孤懷恩",
+        "label": "PER",
+        "start": 16,
+        "end": 20
       }
     ]
   },
@@ -2062,7 +2250,14 @@
   {
     "sentence_id": "HCH_008_001_000199",
     "sentence": "甲午，李世勣於竇建德所自拔歸國。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_001_000200",
@@ -2088,6 +2283,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "獨孤懷恩",
+        "label": "PER",
+        "start": 4,
+        "end": 8
       }
     ]
   },
@@ -2194,6 +2395,12 @@
     "sentence": "偽總管尉遲敬德、尋相以介州降。",
     "entities": [
       {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      },
+      {
         "text": "尋相以介州",
         "label": "LOC",
         "start": 8,
@@ -2205,6 +2412,12 @@
     "sentence_id": "HCH_008_001_000214",
     "sentence": "六月壬辰，徙封楚王杜伏威為吳王，賜姓李氏，加授東南道行臺尚書令。",
     "entities": [
+      {
+        "text": "杜伏威",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -2250,6 +2463,12 @@
     "sentence": "冬十月庚子，懷戍賊帥高開道遣使降，授蔚州總管，封北平郡王，賜姓李氏。",
     "entities": [
       {
+        "text": "高開道",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "授蔚州",
         "label": "LOC",
         "start": 17,
@@ -2286,16 +2505,16 @@
         "end": 2
       },
       {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 13,
         "end": 15
-      },
-      {
-        "text": "胡大恩以大安鎮",
-        "label": "LOC",
-        "start": 16,
-        "end": 23
       },
       {
         "text": "封定襄郡",
@@ -2327,6 +2546,12 @@
     "sentence": "竇建德來援王世充，攻陷我管州。",
     "entities": [
       {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "攻陷我管州",
         "label": "LOC",
         "start": 9,
@@ -2347,7 +2572,14 @@
   {
     "sentence_id": "HCH_008_001_000228",
     "sentence": "五月己未，秦王大破竇建德之眾於武牢，擒建德，河北悉平。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_001_000229",
@@ -2372,7 +2604,14 @@
   {
     "sentence_id": "HCH_008_001_000233",
     "sentence": "斬竇建德於市；流王世充於蜀，未發，為仇人所害。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_001_000234",
@@ -2400,6 +2639,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "徐圓朗",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -2522,6 +2767,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "高開道",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "寇易州",
@@ -2757,6 +3008,12 @@
         "end": 2
       },
       {
+        "text": "杜伏威",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 12,
@@ -2803,6 +3060,12 @@
         "end": 12
       },
       {
+        "text": "楊恭仁",
+        "label": "PER",
+        "start": 40,
+        "end": 43
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 46,
@@ -2832,6 +3095,12 @@
     "sentence_id": "HCH_008_001_000275",
     "sentence": "八月壬子，東南道行臺僕射輔公祏據丹陽反，僭稱宋王，遣趙郡王孝恭及嶺南道大使、永康縣公李靖討之。",
     "entities": [
+      {
+        "text": "輔公祏",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
       {
         "text": "遣趙郡",
         "label": "LOC",
@@ -2878,14 +3147,7 @@
   {
     "sentence_id": "HCH_008_001_000279",
     "sentence": "高開道引突厥寇幽州。",
-    "entities": [
-      {
-        "text": "道引突厥寇幽州",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_001_000280",
@@ -2952,7 +3214,20 @@
   {
     "sentence_id": "HCH_008_001_000286",
     "sentence": "二月，高開道為部將張金樹所殺，以其地降。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高開道",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "張金樹",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_001_000287",
@@ -3003,6 +3278,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "輔公祏",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -3037,7 +3318,14 @@
   {
     "sentence_id": "HCH_008_001_000295",
     "sentence": "李世勣討徐圓朗，平之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐圓朗",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_001_000296",
@@ -3170,6 +3458,18 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "張公謹",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "溫彥博",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -3233,6 +3533,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "宇文士及",
+        "label": "PER",
+        "start": 7,
+        "end": 11
       }
     ]
   },
@@ -3520,6 +3826,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 24,
+        "end": 28
       }
     ]
   },
@@ -3561,6 +3873,12 @@
     "sentence_id": "HCH_008_001_000364",
     "sentence": "高祖命突厥頡利可汗起舞，又遣南越酋長馮智戴詠詩，既而笑曰：「胡、越一家，自古未之有也。」太宗奉觴上壽曰：「臣早蒙慈訓，教以文道；爰從義旗，平定京邑。重以薛舉、武周、世充、建德，皆上稟睿算，幸而克定。三數年間，混一區宇。天慈崇寵，遂蒙重任。今上天垂祐，時和歲阜，被發左衽，並為臣妾。此豈臣智力，皆由上稟聖算。」高祖大悅，群臣皆呼萬歲，極夜方罷。",
     "entities": [
+      {
+        "text": "馮智戴",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
       {
         "text": "平定京邑",
         "label": "LOC",

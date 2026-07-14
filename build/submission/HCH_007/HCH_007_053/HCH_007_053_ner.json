@@ -36,7 +36,14 @@
   {
     "sentence_id": "HCH_007_053_000005",
     "sentence": "大順中，累遷至馬步都校，與李存孝擊張浚軍於平陽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李存孝",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_053_000006",
@@ -197,7 +204,14 @@
   {
     "sentence_id": "HCH_007_053_000020",
     "sentence": "八月，從討劉仁恭，師次安塞，為燕軍所敗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_053_000021",
@@ -224,7 +238,14 @@
   {
     "sentence_id": "HCH_007_053_000024",
     "sentence": "李存孝，本姓安，名敬思。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李存孝",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_053_000025",
@@ -1036,7 +1057,14 @@
   {
     "sentence_id": "HCH_007_053_000105",
     "sentence": "時孟知祥權知太原軍府事，會契丹侵北鄙。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_053_000106",
@@ -1101,6 +1129,12 @@
         "end": 41
       },
       {
+        "text": "張虔釗",
+        "label": "PER",
+        "start": 41,
+        "end": 44
+      },
+      {
         "text": "漢韶逃歸本鎮",
         "label": "LOC",
         "start": 62,
@@ -1111,14 +1145,7 @@
   {
     "sentence_id": "HCH_007_053_000112",
     "sentence": "聞末帝即位，心不自安，乃與張虔釗各舉其城送款於蜀。",
-    "entities": [
-      {
-        "text": "張虔釗各舉其城",
-        "label": "LOC",
-        "start": 13,
-        "end": 20
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_053_000113",
@@ -1129,6 +1156,12 @@
         "label": "LOC",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1258,6 +1291,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },

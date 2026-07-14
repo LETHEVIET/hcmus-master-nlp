@@ -883,7 +883,14 @@
   {
     "sentence_id": "HCH_006_00_000097",
     "sentence": "〈 止解《司馬相如傳》一卷。 〉",
-    "entities": []
+    "entities": [
+      {
+        "text": "司馬",
+        "label": "TITLE",
+        "start": 5,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_00_000098",

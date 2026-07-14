@@ -1555,7 +1555,14 @@
   {
     "sentence_id": "HCH_005_057_000200",
     "sentence": "注[五]列將謂皇甫規﹑段熲等。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫規",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_057_000201",
@@ -1598,6 +1605,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "辛慶忌",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
@@ -2203,6 +2216,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "歐陽參",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },

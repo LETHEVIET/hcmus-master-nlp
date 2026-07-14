@@ -1300,12 +1300,6 @@
         "label": "LOC",
         "start": 13,
         "end": 15
-      },
-      {
-        "text": "景崇連兵寇定州",
-        "label": "LOC",
-        "start": 16,
-        "end": 23
       }
     ]
   },
@@ -1381,6 +1375,12 @@
         "label": "TITLE",
         "start": 66,
         "end": 76
+      },
+      {
+        "text": "朱全忠",
+        "label": "PER",
+        "start": 114,
+        "end": 117
       }
     ]
   },
@@ -1604,12 +1604,31 @@
   {
     "sentence_id": "HCH_007_025_000148",
     "sentence": "遣李存孝、薛阿檀、史儼兒、安金俊、安休休將七千騎送罕之至河陽。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李存孝",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_025_000149",
     "sentence": "汴將丁會、牛存節、葛從周將兵赴援，李存孝率精騎逆戰於溫縣。",
     "entities": [
+      {
+        "text": "牛存節",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "李存孝",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
       {
         "text": "精騎逆戰於溫縣",
         "label": "LOC",
@@ -1673,12 +1692,6 @@
         "label": "TME",
         "start": 2,
         "end": 4
-      },
-      {
-        "text": "李存孝攻邢州",
-        "label": "LOC",
-        "start": 12,
-        "end": 18
       }
     ]
   },
@@ -1737,12 +1750,6 @@
         "label": "TME",
         "start": 2,
         "end": 4
-      },
-      {
-        "text": "遣李存孝攻邢州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
       },
       {
         "text": "磁三州",
@@ -1845,6 +1852,12 @@
     "sentence": "武皇遣大將康君立、李存孝等攻之，汴將朱崇節、葛從周率兵入潞州以固之。",
     "entities": [
       {
+        "text": "李存孝",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "從周率兵入潞州",
         "label": "LOC",
         "start": 23,
@@ -1899,6 +1912,12 @@
     "sentence": "汴將朱友裕將兵屯晉、絳，時汴軍已據潞州，又遣大將李讜等率軍數萬，急攻澤州，武皇遣李存孝自潞州將三千騎以援之。",
     "entities": [
       {
+        "text": "朱友裕",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "時汴軍已據潞州",
         "label": "LOC",
         "start": 12,
@@ -1909,12 +1928,6 @@
         "label": "LOC",
         "start": 32,
         "end": 36
-      },
-      {
-        "text": "遣李存孝自潞州",
-        "label": "LOC",
-        "start": 39,
-        "end": 46
       }
     ]
   },
@@ -2014,12 +2027,6 @@
         "end": 23
       },
       {
-        "text": "以李存孝為汾州",
-        "label": "LOC",
-        "start": 27,
-        "end": 34
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 34,
@@ -2041,6 +2048,12 @@
         "label": "LOC",
         "start": 11,
         "end": 18
+      },
+      {
+        "text": "李存孝",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       },
       {
         "text": "營於趙城",
@@ -2173,14 +2186,7 @@
   {
     "sentence_id": "HCH_007_025_000193",
     "sentence": "以李存孝為邢州節度使。",
-    "entities": [
-      {
-        "text": "以李存孝為邢州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_025_000194",
@@ -2232,12 +2238,6 @@
         "label": "LOC",
         "start": 0,
         "end": 2
-      },
-      {
-        "text": "度使李存孝以鎮",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
       }
     ]
   },
@@ -2262,12 +2262,6 @@
     "sentence_id": "HCH_007_025_000200",
     "sentence": "十月，李存孝董前軍攻臨城，鎮人五萬營於臨城西北龍尾崗。",
     "entities": [
-      {
-        "text": "孝董前軍攻臨城",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      },
       {
         "text": "人五萬營於臨城",
         "label": "LOC",

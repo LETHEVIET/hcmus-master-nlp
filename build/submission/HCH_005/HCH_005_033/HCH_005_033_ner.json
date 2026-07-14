@@ -1680,6 +1680,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "第五倫",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1868,7 +1874,14 @@
   {
     "sentence_id": "HCH_005_033_000217",
     "sentence": "時舉將第五倫為司空，班次在下，每正朔朝見，弘曲躬而自卑。",
-    "entities": []
+    "entities": [
+      {
+        "text": "第五倫",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_033_000218",

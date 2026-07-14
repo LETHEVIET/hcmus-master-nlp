@@ -7,17 +7,79 @@
   {
     "sentence_id": "HCH_008_081_000002",
     "sentence": "○崔敦禮　盧承慶　劉祥道　李敬玄　李義琰　孫處約　樂彥瑋　趙仁本",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔敦禮",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "盧承慶",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "劉祥道",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "李敬玄",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "李義琰",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "孫處約",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "樂彥瑋",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "趙仁本",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_081_000003",
     "sentence": "崔敦禮",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔敦禮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_081_000004",
     "sentence": "崔敦禮，雍州咸陽人，隋禮部尚書仲方孫也。",
     "entities": [
+      {
+        "text": "崔敦禮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "雍州",
         "label": "LOC",
@@ -275,12 +337,25 @@
   {
     "sentence_id": "HCH_008_081_000028",
     "sentence": "盧承慶",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧承慶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_081_000029",
     "sentence": "盧承慶，幽州范陽人。",
     "entities": [
+      {
+        "text": "盧承慶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "幽州",
         "label": "LOC",
@@ -409,12 +484,6 @@
     "sentence": "”俄曆雍州別駕、尚書左丞。",
     "entities": [
       {
-        "text": "俄曆雍州",
-        "label": "LOC",
-        "start": 1,
-        "end": 5
-      },
-      {
         "text": "尚書",
         "label": "TITLE",
         "start": 8,
@@ -426,6 +495,12 @@
     "sentence_id": "HCH_008_081_000043",
     "sentence": "永徽初，為褚遂良所構，出為益州大都督府長史。",
     "entities": [
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "出為益州",
         "label": "LOC",
@@ -511,6 +586,12 @@
         "end": 4
       },
       {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 12,
@@ -557,6 +638,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "李乾祐",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "尚書",
@@ -762,6 +849,30 @@
         "label": "LOC",
         "start": 28,
         "end": 30
+      },
+      {
+        "text": "盧懷慎",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      },
+      {
+        "text": "李休光",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      },
+      {
+        "text": "倪若水",
+        "label": "PER",
+        "start": 51,
+        "end": 54
+      },
+      {
+        "text": "崔日用",
+        "label": "PER",
+        "start": 65,
+        "end": 68
       }
     ]
   },
@@ -781,6 +892,12 @@
     "sentence_id": "HCH_008_081_000066",
     "sentence": "時張守珪為果毅，齊卿禮接之，謂曰：“十年內當知節度。",
     "entities": [
+      {
+        "text": "張守珪",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "十年",
         "label": "TME",
@@ -825,12 +942,25 @@
   {
     "sentence_id": "HCH_008_081_000071",
     "sentence": "劉祥道",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉祥道",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_081_000072",
     "sentence": "劉祥道，魏州觀城人也。",
     "entities": [
+      {
+        "text": "劉祥道",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "魏州觀城",
         "label": "LOC",
@@ -1277,7 +1407,14 @@
   {
     "sentence_id": "HCH_008_081_000138",
     "sentence": "明年，中書令杜正倫亦言入流人多，為政之弊。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_081_000139",
@@ -1500,6 +1637,12 @@
         "end": 19
       },
       {
+        "text": "劉齊賢",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 28,
@@ -1510,7 +1653,14 @@
   {
     "sentence_id": "HCH_008_081_000161",
     "sentence": "帝曰：“劉齊賢豈是覓鷂人耶！",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉齊賢",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_081_000162",
@@ -1560,6 +1710,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "胡元範",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -1613,12 +1769,25 @@
   {
     "sentence_id": "HCH_008_081_000171",
     "sentence": "李敬玄",
-    "entities": []
+    "entities": [
+      {
+        "text": "李敬玄",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_081_000172",
     "sentence": "李敬玄，亳州譙人也。",
     "entities": [
+      {
+        "text": "李敬玄",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "亳州",
         "label": "LOC",
@@ -1652,7 +1821,14 @@
   {
     "sentence_id": "HCH_008_081_000176",
     "sentence": "敬玄雖風格高峻，有不可犯之色，然勤於造請，不避寒暑，馬周及許敬宗等皆推薦延譽之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_081_000177",
@@ -1872,6 +2048,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "劉仁軌",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -1924,6 +2106,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "劉審禮",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -2047,6 +2235,12 @@
         "label": "TITLE",
         "start": 24,
         "end": 26
+      },
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -2070,6 +2264,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "李文暕",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -2117,18 +2317,37 @@
         "label": "LOC",
         "start": 7,
         "end": 11
+      },
+      {
+        "text": "武懿宗",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
   {
     "sentence_id": "HCH_008_081_000218",
     "sentence": "李義琰",
-    "entities": []
+    "entities": [
+      {
+        "text": "李義琰",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_081_000219",
     "sentence": "李義琰，魏州昌樂人，常州刺史玄道族孫也。",
     "entities": [
+      {
+        "text": "李義琰",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "魏州",
         "label": "LOC",
@@ -2140,12 +2359,6 @@
         "label": "LOC",
         "start": 10,
         "end": 12
-      },
-      {
-        "text": "刺史",
-        "label": "TITLE",
-        "start": 12,
-        "end": 14
       }
     ]
   },
@@ -2208,7 +2421,14 @@
   {
     "sentence_id": "HCH_008_081_000226",
     "sentence": "時天後預知國政，高宗嘗欲下詔令後攝知國事，義琰與中書令郝處俊固爭，以為不可，事竟寢。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郝處俊",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_081_000227",
@@ -2390,7 +2610,26 @@
   {
     "sentence_id": "HCH_008_081_000249",
     "sentence": "高宗時宰相，又有孫處約、樂彥瑋、趙仁本。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孫處約",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "樂彥瑋",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "趙仁本",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_081_000250",
@@ -2400,12 +2639,25 @@
   {
     "sentence_id": "HCH_008_081_000251",
     "sentence": "〈 附 〉 孫處約",
-    "entities": []
+    "entities": [
+      {
+        "text": "孫處約",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_081_000252",
     "sentence": "孫處約者，汝州郟城人也。",
     "entities": [
+      {
+        "text": "孫處約",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "汝州郟城",
         "label": "LOC",
@@ -2437,7 +2689,14 @@
   {
     "sentence_id": "HCH_008_081_000257",
     "sentence": "其年，中書令杜正倫奏請更授一舍人，與處約同知制誥，高宗曰：“處約一人足辦我事，何須多也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_081_000258",
@@ -2460,6 +2719,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -2493,12 +2758,25 @@
   {
     "sentence_id": "HCH_008_081_000264",
     "sentence": "〈 附 〉 樂彥瑋",
-    "entities": []
+    "entities": [
+      {
+        "text": "樂彥瑋",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_081_000265",
     "sentence": "樂彥瑋者，雍州長安人。",
     "entities": [
+      {
+        "text": "樂彥瑋",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "雍州",
         "label": "LOC",
@@ -2523,10 +2801,22 @@
     "sentence": "時故侍中劉洎之子詣闕上言，洎貞觀末為褚遂良所譖枉死，稱冤請雪，中書侍郎李義府又左右之。",
     "entities": [
       {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 33,
         "end": 35
+      },
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       }
     ]
   },
@@ -2601,6 +2891,12 @@
         "end": 4
       },
       {
+        "text": "劉仁軌",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 21,
@@ -2665,12 +2961,25 @@
   {
     "sentence_id": "HCH_008_081_000279",
     "sentence": "〈 附 〉 趙仁本",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙仁本",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_081_000280",
     "sentence": "趙仁本者，陝州河北人也。",
     "entities": [
+      {
+        "text": "趙仁本",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "陝州",
         "label": "LOC",
@@ -2740,6 +3049,12 @@
     "sentence_id": "HCH_008_081_000287",
     "sentence": "時許敬宗為右相，頗任權勢，仁本拒其請托，遂為敬宗所構，俄授尚書左丞，罷知政事。",
     "entities": [
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "尚書",
         "label": "TITLE",

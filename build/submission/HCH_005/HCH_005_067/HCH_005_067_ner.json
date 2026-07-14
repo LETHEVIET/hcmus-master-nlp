@@ -4692,7 +4692,14 @@
   {
     "sentence_id": "HCH_005_067_000494",
     "sentence": "二一八七頁一三行孔昱按：皇甫規傳「昱」作「翊」。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫規",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_067_000495",

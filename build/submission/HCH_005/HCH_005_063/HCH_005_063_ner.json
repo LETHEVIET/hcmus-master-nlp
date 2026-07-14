@@ -912,6 +912,12 @@
     "sentence": "注[六]趙飛燕，成帝皇后。",
     "entities": [
       {
+        "text": "趙飛燕",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "皇后",
         "label": "TITLE",
         "start": 10,
@@ -2240,6 +2246,12 @@
         "label": "LOC",
         "start": 6,
         "end": 12
+      },
+      {
+        "text": "趙伯英",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },

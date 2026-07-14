@@ -31,6 +31,12 @@
     "sentence": "後得朱買臣、吾丘壽王、司馬相如、主父偃、徐樂、嚴安、東方朔、枚皐、膠倉、終軍、嚴葱竒等，並在左右。",
     "entities": [
       {
+        "text": "朱買臣",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 11,
@@ -54,6 +60,12 @@
     "sentence_id": "HCH_006_064a_000007",
     "sentence": "〈 師古曰：「婁，古屢字。」 〉 公孫弘起徒步，數年至丞相，開東閤，延賢人與謀議，朝覲奏事，因言國家便宜。",
     "entities": [
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
       {
         "text": "丞相",
         "label": "TITLE",
@@ -386,12 +398,26 @@
   {
     "sentence_id": "HCH_006_064a_000042",
     "sentence": "朱買臣",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱買臣",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_064a_000043",
     "sentence": "朱買臣字翁子，吳人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱買臣",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_064a_000044",
@@ -472,7 +498,14 @@
   {
     "sentence_id": "HCH_006_064a_000055",
     "sentence": "是時方築朔方，公孫弘諫，以爲罷敝中國。",
-    "entities": []
+    "entities": [
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_064a_000056",
@@ -805,6 +838,12 @@
         "label": "TITLE",
         "start": 97,
         "end": 99
+      },
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 99,
+        "end": 102
       }
     ]
   },
@@ -902,6 +941,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },
@@ -1137,10 +1182,22 @@
     "sentence": "公孫弘曰：「秦時甞發三十萬衆築北河，終不可就， 〈 師古曰：「就，成也。」 〉 已而棄之。」朱買臣難詘弘，遂置朔方，本偃計也。",
     "entities": [
       {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "秦",
         "label": "ORG",
         "start": 6,
         "end": 7
+      },
+      {
+        "text": "朱買臣",
+        "label": "PER",
+        "start": 46,
+        "end": 49
       }
     ]
   },
@@ -1195,6 +1252,12 @@
     "sentence_id": "HCH_006_064a_000140",
     "sentence": "上欲勿誅，公孫弘爭曰：「齊王自殺無後，國除爲郡，入漢，偃本首惡，非誅偃無以謝天下。」迺遂族偃。",
     "entities": [
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "國除爲郡",
         "label": "LOC",

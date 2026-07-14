@@ -28,6 +28,12 @@
     "sentence": "詔宣徽使李紹宏、宰相豆盧革、租庸使張憲、興唐尹王正言同守鄴城。",
     "entities": [
       {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "唐",
         "label": "ORG",
         "start": 21,
@@ -66,7 +72,14 @@
   {
     "sentence_id": "HCH_007_030_000007",
     "sentence": "時王彥章守中都。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_030_000008",
@@ -83,7 +96,20 @@
   {
     "sentence_id": "HCH_007_030_000009",
     "sentence": "是日，擒梁將王彥章及都監張漢傑、趙廷隱、劉嗣彬、李知節、康文通、王山興等將吏二百餘人，斬馘二萬，奪馬千匹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "趙廷隱",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_030_000010",
@@ -94,6 +120,12 @@
         "label": "LOC",
         "start": 17,
         "end": 23
+      },
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       },
       {
         "text": "宜急趨汴州",
@@ -377,7 +409,14 @@
   {
     "sentence_id": "HCH_007_030_000030",
     "sentence": "其張漢傑昨於中都與王彥章同時俘獲，此際未詳行止，偶示哀矜。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_030_000031",
@@ -475,6 +514,12 @@
         "label": "TITLE",
         "start": 67,
         "end": 69
+      },
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 69,
+        "end": 72
       }
     ]
   },
@@ -661,6 +706,12 @@
         "end": 22
       },
       {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
         "text": "太原郡",
         "label": "LOC",
         "start": 61,
@@ -672,6 +723,12 @@
     "sentence_id": "HCH_007_030_000078",
     "sentence": "乙未，詔宰相豆盧革權判吏部上銓，御史中丞李德休權判東西銓事。",
     "entities": [
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -742,7 +799,14 @@
   {
     "sentence_id": "HCH_007_030_000082",
     "sentence": "時宦官怙寵，廣侵占居人第舍，郭崇韜奏其事，乃斬彥朗以徇。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_030_000083",
@@ -758,6 +822,12 @@
         "label": "LOC",
         "start": 45,
         "end": 48
+      },
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 49,
+        "end": 52
       },
       {
         "text": "加食邑",
@@ -792,7 +862,26 @@
   {
     "sentence_id": "HCH_007_030_000088",
     "sentence": "帝酒酣，謂李嗣源曰：「今日宴客，皆吾前日之敵，一旦同會，皆卿前鋒之力也。」梁將霍彥威、戴思遠等皆伏陛叩頭，帝因賜禦衣、酒器，盡歡而罷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 39,
+        "end": 42
+      },
+      {
+        "text": "戴思遠",
+        "label": "PER",
+        "start": 43,
+        "end": 46
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_030_000089",
@@ -899,6 +988,12 @@
         "end": 29
       },
       {
+        "text": "李存渥",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
         "text": "忻州",
         "label": "LOC",
         "start": 66,
@@ -909,6 +1004,12 @@
         "label": "TITLE",
         "start": 68,
         "end": 70
+      },
+      {
+        "text": "李紹榮",
+        "label": "PER",
+        "start": 70,
+        "end": 73
       },
       {
         "text": "以滑州",
@@ -1161,6 +1262,12 @@
         "end": 61
       },
       {
+        "text": "盧文度",
+        "label": "PER",
+        "start": 70,
+        "end": 73
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 76,
@@ -1195,6 +1302,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -1206,7 +1319,14 @@
   {
     "sentence_id": "HCH_007_030_000113",
     "sentence": "己未，以洛京留守、判六軍諸衛事、守太尉、兼中書令、河南尹、魏王張全義為檢校太師、守中書令，餘如故；以荊南節度使、檢校太師、守中書令、渤海王高季興依前檢校太師、守中書令，餘如故。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 69,
+        "end": 72
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_030_000114",
@@ -1254,12 +1374,6 @@
     "sentence": "辛酉，以宣化軍留後、檢校太傅戴思遠權知青州軍州事，檢校司空、左監門上將軍安崇阮並檢校舊官，卻復本任；以鎮國軍留後、檢校太傅霍彥威為保義軍節度留後；以權知威化軍留後、檢校司徒高允貞權知鎮國軍留後；以權知河陽留後、檢校太保張繼業依前權知河陽留後；以鄜延兩鎮節度使、檢校太師、兼中書令、西平王高萬興依前鄜、延節度使，仍封北平王；襄州節度使、檢校太傅、平章事孔依前襄州節度使，餘如故。",
     "entities": [
       {
-        "text": "戴思遠權知青州",
-        "label": "LOC",
-        "start": 14,
-        "end": 21
-      },
-      {
         "text": "軍州",
         "label": "LOC",
         "start": 21,
@@ -1276,6 +1390,12 @@
         "label": "LOC",
         "start": 50,
         "end": 52
+      },
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 61,
+        "end": 64
       },
       {
         "text": "徒高允貞權知鎮",
@@ -1342,6 +1462,12 @@
         "label": "TITLE",
         "start": 23,
         "end": 26
+      },
+      {
+        "text": "李存確",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -1639,6 +1765,12 @@
         "end": 59
       },
       {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 70,
+        "end": 73
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 74,
@@ -1781,6 +1913,12 @@
     "sentence_id": "HCH_007_030_000138",
     "sentence": "己巳，以中書舍人崔居儉為刑部侍郎，充史館修撰、判館事。",
     "entities": [
+      {
+        "text": "崔居儉",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "侍郎",
         "label": "TITLE",

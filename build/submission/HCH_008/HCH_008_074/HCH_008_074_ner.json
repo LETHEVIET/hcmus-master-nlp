@@ -2,7 +2,14 @@
   {
     "sentence_id": "HCH_008_074_000001",
     "sentence": "劉洎　馬周　崔仁師 孫湜　湜弟液　液子論　液弟滌",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔仁師",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_074_000002",
@@ -151,7 +158,14 @@
   {
     "sentence_id": "HCH_008_074_000015",
     "sentence": "及杜正倫續任右丞，頗亦厲下。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_074_000016",
@@ -576,6 +590,12 @@
     "sentence": "自此敕洎令與岑文本同馬周遞日往東宮，與皇太子談論。",
     "entities": [
       {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 20,
@@ -600,6 +620,24 @@
     "sentence": "太宗謂司徒長孫無忌曰：「夫人久相與處，自然染習。自朕臨御天下，虛心正直，即有魏徵朝夕進諫。自徵雲亡，劉洎、岑文本、馬周、褚遂良等繼之。皇太子幼在朕膝前，每見朕心悅諫，昔者因染以成性，固有今日之諫耳。」十八年，遷侍中。",
     "entities": [
       {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 5,
+        "end": 9
+      },
+      {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 53,
+        "end": 56
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 60,
+        "end": 63
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 68,
@@ -616,12 +654,31 @@
   {
     "sentence_id": "HCH_008_074_000078",
     "sentence": "太宗嘗謂侍臣曰：「夫人臣之對帝王，多順旨而不逆，甘言以取容。朕今發問，欲聞己過，卿等須言朕愆失。」長孫無忌、李勣、楊師道等咸云：「陛下聖化致太平，臣等不見其失。」洎對曰：「陛下化高萬古，誠如無忌等言。然頃上書人不稱旨者，或面加窮詰，無不慚退，恐非獎進言者之路。」太宗曰：「卿言是也，當為卿改之。」",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 49,
+        "end": 53
+      },
+      {
+        "text": "楊師道",
+        "label": "PER",
+        "start": 57,
+        "end": 60
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_074_000079",
     "sentence": "太宗征遼，令洎與高士廉、馬周留輔皇太子定州監國，仍兼左庶子、檢校民部尚書。",
     "entities": [
+      {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -750,6 +807,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "達奚恕",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       },
       {
         "text": "長安",
@@ -1679,6 +1742,12 @@
         "end": 24
       },
       {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
         "text": "十五年",
         "label": "TME",
         "start": 116,
@@ -1760,6 +1829,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       },
       {
         "text": "太子",
@@ -1895,12 +1970,25 @@
   {
     "sentence_id": "HCH_008_074_000239",
     "sentence": "崔仁師",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔仁師",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_074_000240",
     "sentence": "崔仁師，定州安喜人。",
     "entities": [
+      {
+        "text": "崔仁師",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "定州",
         "label": "LOC",
@@ -1978,7 +2066,14 @@
   {
     "sentence_id": "HCH_008_074_000246",
     "sentence": "及奏報，詔使將往決之，大理少卿孫伏伽謂仁師曰：「此獄徒侶極眾，而足下雪免者多，人皆好生，誰肯讓死？今既臨命，恐未甘心，深為足下憂也。」仁師曰：「嘗聞理獄之體，必務仁恕，故稱殺人刖足，亦皆有禮。豈有求身之安，知枉不為申理？若以一介暗短，但易得十囚之命，亦所願也。」伏伽慚而退。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孫伏伽",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_074_000247",
@@ -2001,6 +2096,12 @@
         "label": "TITLE",
         "start": 32,
         "end": 34
+      },
+      {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 34,
+        "end": 37
       }
     ]
   },
@@ -2008,6 +2109,12 @@
     "sentence_id": "HCH_008_074_000249",
     "sentence": "時校書郎王玄度注《尚書》、《毛詩》，毀孔、鄭舊義，上表請廢舊注，行己所注者，詔禮部集諸儒詳議。",
     "entities": [
+      {
+        "text": "王玄度",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "《毛詩》",
         "label": "TITLE",
@@ -2031,7 +2138,14 @@
   {
     "sentence_id": "HCH_008_074_000251",
     "sentence": "郎中許敬宗請付秘閣藏其書，河間王孝恭特請與孔、鄭並行。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_074_000252",
@@ -2072,10 +2186,22 @@
     "sentence": "右僕射高士廉、吏部尚書侯君集、兵部尚書李勣等議請從重；民部尚書唐儉、禮部尚書江夏王道宗、工部尚書杜楚客等議請依舊不改。",
     "entities": [
       {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       },
       {
         "text": "尚書",
@@ -2100,6 +2226,12 @@
         "label": "TITLE",
         "start": 46,
         "end": 48
+      },
+      {
+        "text": "杜楚客",
+        "label": "PER",
+        "start": 48,
+        "end": 51
       }
     ]
   },
@@ -2235,7 +2367,14 @@
   {
     "sentence_id": "HCH_008_074_000267",
     "sentence": "時仁師甚承恩遇，中書令褚遂良頗忌嫉之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_074_000268",
@@ -2326,7 +2465,14 @@
   {
     "sentence_id": "HCH_008_074_000276",
     "sentence": "時桓彥范、敬暉等既知國政，懼武三思讒間，引湜為耳目，使伺其動靜。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_074_000277",
@@ -2347,6 +2493,12 @@
     "sentence_id": "HCH_008_074_000280",
     "sentence": "三思問誰可使者，湜表兄周利貞先為桓、敬等所惡，自侍御史出嘉州司馬，湜乃舉充此行。",
     "entities": [
+      {
+        "text": "周利貞",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -2423,6 +2575,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "李尚隱",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       },
       {
         "text": "湜左轉為江州",
@@ -2572,6 +2730,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "劉幽求",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -2584,6 +2748,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "周利貞",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -2630,7 +2800,14 @@
   {
     "sentence_id": "HCH_008_074_000300",
     "sentence": "及帝將誅蕭至忠等，召將托為腹心，湜弟滌謂湜曰：「主上若有所問，不得有所隱也。」湜不從，及見帝，對問失旨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭至忠",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_074_000301",
@@ -2663,6 +2840,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "盧藏用",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -2741,7 +2924,14 @@
   {
     "sentence_id": "HCH_008_074_000314",
     "sentence": "友人裴耀卿纂其遺文為集十捲。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴耀卿",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_074_000315",
@@ -2940,7 +3130,14 @@
   {
     "sentence_id": "HCH_008_074_000338",
     "sentence": "崔仁師以史材獲進，其刊正褒貶，雅得詳明。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔仁師",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_074_000339",

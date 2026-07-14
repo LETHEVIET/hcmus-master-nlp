@@ -76,7 +76,14 @@
   {
     "sentence_id": "HCH_007_096_000013",
     "sentence": "初，桑維翰登第之歲，保極時在秦王幕下，因戲謂同輩曰：「近知今歲有三個半人及第。」蓋其年收四人，保極以維翰短陋，故謂之半人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_096_000014",
@@ -203,12 +210,6 @@
     "sentence_id": "HCH_007_096_000029",
     "sentence": "杜重威之鎮東平也，瑜父欽祚為節度副使，及重威移鎮常山，瑜乃詭計於重威，使奏己為恒州節度副使，竟代其父位。",
     "entities": [
-      {
-        "text": "杜重威之鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 5
-      },
       {
         "text": "及重威移鎮",
         "label": "LOC",
@@ -434,6 +435,12 @@
     "sentence": "及敗，宰臣桑維翰以父珙早事齊王，奏欲雪之，高祖不允， 〈 （《通鑒》：史館修撰李濤上言：張全義有再造洛邑之功，乞免其族。遂止誅繼祚妻子。） 〉 遂止罪繼祚一房，不累其族。",
     "entities": [
       {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "《通鑒》",
         "label": "TITLE",
         "start": 30,
@@ -472,7 +479,14 @@
   {
     "sentence_id": "HCH_007_096_000058",
     "sentence": "阮有子，自幼事明宗中門使安重誨，重誨以其桀黠，愛之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_096_000059",
@@ -611,6 +625,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "王建立",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -735,12 +755,6 @@
     "sentence": "從賓敗，饒以王建立方鎮平盧，走投之，建立延入城，斬之以聞，聞者快焉。",
     "entities": [
       {
-        "text": "饒以王建立方鎮",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      },
-      {
         "text": "建立延入城",
         "label": "LOC",
         "start": 18,
@@ -751,12 +765,25 @@
   {
     "sentence_id": "HCH_007_096_000082",
     "sentence": "劉遂清",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉遂清",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_096_000083",
     "sentence": "劉遂清，字得一，青州北海人，梁開封尹鄩之猶子也。",
     "entities": [
+      {
+        "text": "劉遂清",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "青州",
         "label": "LOC",
@@ -862,6 +889,12 @@
         "label": "TITLE",
         "start": 21,
         "end": 23
+      },
+      {
+        "text": "劉遂清",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       },
       {
         "text": "西縣",
@@ -1133,14 +1166,7 @@
   {
     "sentence_id": "HCH_007_096_000114",
     "sentence": "及契丹入汴，張彥澤引兵逼宮城，少帝召承誨計之，承誨匿身不赴。",
-    "entities": [
-      {
-        "text": "彥澤引兵逼宮城",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_096_000115",
@@ -1256,7 +1282,14 @@
   {
     "sentence_id": "HCH_007_096_000123",
     "sentence": "時馮道在側，繼勛事急，指道曰：「少帝在鄴，道為首相，與景延廣謀議，遂致南北失歡。臣位至卑，未嘗措言，今請問道，道細知之。」契丹主曰：「此老子不是好鬧人，無相牽引，皆爾輩為之。」繼勛不敢復對。",
-    "entities": []
+    "entities": [
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_096_000124",
@@ -1277,18 +1310,37 @@
         "label": "TITLE",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
   {
     "sentence_id": "HCH_007_096_000127",
     "sentence": "鄭受益",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭受益",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_096_000128",
     "sentence": "鄭受益， 〈 （《新唐書·宰相世系表》：字謙光。） 〉 唐宰相餘慶之曾孫也。",
     "entities": [
+      {
+        "text": "鄭受益",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "《新唐書·宰相世系表》",
         "label": "TITLE",
@@ -1351,6 +1403,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -1533,7 +1591,14 @@
   {
     "sentence_id": "HCH_007_096_000158",
     "sentence": "馬重績，字洞微。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬重績",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_096_000159",

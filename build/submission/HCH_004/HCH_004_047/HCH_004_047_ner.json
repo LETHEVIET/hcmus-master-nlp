@@ -341,7 +341,14 @@
   {
     "sentence_id": "HCH_004_047_000036",
     "sentence": "都官郎中畢義雲主其事，有奏而禁，有不奏輒禁者。",
-    "entities": []
+    "entities": [
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_047_000037",
@@ -366,6 +373,12 @@
         "end": 47
       },
       {
+        "text": "鄭述祖",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 80,
@@ -376,6 +389,12 @@
         "label": "LOC",
         "start": 148,
         "end": 150
+      },
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 200,
+        "end": 203
       },
       {
         "text": "大將軍",
@@ -778,6 +797,12 @@
     "sentence": "趙彥深引入內省，參典機密，歷中書、黃門侍郎，遷儀同三司、散騎常侍，常領黃門侍郎。",
     "entities": [
       {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 19,
@@ -830,6 +855,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "侍郎",
@@ -923,12 +954,26 @@
   {
     "sentence_id": "HCH_004_047_000102",
     "sentence": "畢義雲",
-    "entities": []
+    "entities": [
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_047_000103",
     "sentence": "畢義雲，小字陀兒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_047_000104",

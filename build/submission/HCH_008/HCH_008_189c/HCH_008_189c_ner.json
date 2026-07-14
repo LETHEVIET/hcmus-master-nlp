@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_008_189c_000001",
     "sentence": "邢文偉",
-    "entities": []
+    "entities": [
+      {
+        "text": "邢文偉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000002",
     "sentence": "邢文偉，滁州全椒人也。",
     "entities": [
+      {
+        "text": "邢文偉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "滁州",
         "label": "LOC",
@@ -145,7 +158,14 @@
   {
     "sentence_id": "HCH_008_189c_000019",
     "sentence": "其後右史缺官，高宗謂侍臣曰：「邢文偉事我兒，能減膳切諫，此正直人也。」遂擢拜右史。",
-    "entities": []
+    "entities": [
+      {
+        "text": "邢文偉",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000020",
@@ -175,6 +195,12 @@
     "sentence_id": "HCH_008_189c_000022",
     "sentence": "天授初，內史宗秦客以奸贓獲罪，文偉坐附會秦客，貶授珍州刺史。",
     "entities": [
+      {
+        "text": "宗秦客",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "貶授珍州",
         "label": "LOC",
@@ -263,12 +289,6 @@
     "sentence": "屬徐敬業作亂於揚州，遣弟敬猷統兵五千人，緣江西上，將逼和州。",
     "entities": [
       {
-        "text": "敬業作亂於揚州",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      },
-      {
         "text": "將逼和州",
         "label": "LOC",
         "start": 25,
@@ -348,12 +368,25 @@
   {
     "sentence_id": "HCH_008_189c_000038",
     "sentence": "郎餘令",
-    "entities": []
+    "entities": [
+      {
+        "text": "郎餘令",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000039",
     "sentence": "郎餘令，定州新樂人也。",
     "entities": [
+      {
+        "text": "郎餘令",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "定州",
         "label": "LOC",
@@ -399,7 +432,14 @@
   {
     "sentence_id": "HCH_008_189c_000044",
     "sentence": "後受詔招諭山東，為竇建德所獲，脅以兵刃，又誘以厚利，楚之竟不為屈。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000045",
@@ -523,12 +563,25 @@
   {
     "sentence_id": "HCH_008_189c_000057",
     "sentence": "路敬淳",
-    "entities": []
+    "entities": [
+      {
+        "text": "路敬淳",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000058",
     "sentence": "路敬淳，貝州臨清人也。",
     "entities": [
+      {
+        "text": "路敬淳",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "貝州",
         "label": "LOC",
@@ -684,12 +737,25 @@
   {
     "sentence_id": "HCH_008_189c_000077",
     "sentence": "王元感",
-    "entities": []
+    "entities": [
+      {
+        "text": "王元感",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000078",
     "sentence": "王元感，濮州鄄城人也。",
     "entities": [
+      {
+        "text": "王元感",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "濮州鄄城",
         "label": "LOC",
@@ -806,22 +872,60 @@
   {
     "sentence_id": "HCH_008_189c_000087",
     "sentence": "學士祝欽明、郭山惲、李憲等皆專守先儒章句，深譏元感掎摭舊義，元感隨方應答，竟不之屈。",
-    "entities": []
+    "entities": [
+      {
+        "text": "祝欽明",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "郭山惲",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000088",
     "sentence": "鳳閣舍人魏知古、司封郎中徐堅、左史劉知幾、右史張思敬，雅好異聞，每為元感申理其義，連表薦之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏知古",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "劉知幾",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000089",
     "sentence": "尋下詔曰：「王元感質性溫敏，博聞強記，手不釋卷，老而彌篤。掎前達之失，究先聖之旨，是謂儒宗，不可多得。可太子司議郎，兼崇賢館學士。」魏知古嘗稱其所撰書曰：「信可謂《五經》之指南也。」中宗即位，以春宮舊僚，進加朝散大夫，拜崇賢館學士。",
     "entities": [
       {
+        "text": "王元感",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 52,
         "end": 54
+      },
+      {
+        "text": "魏知古",
+        "label": "PER",
+        "start": 66,
+        "end": 69
       },
       {
         "text": "《五經》",
@@ -845,12 +949,25 @@
   {
     "sentence_id": "HCH_008_189c_000091",
     "sentence": "王紹宗",
-    "entities": []
+    "entities": [
+      {
+        "text": "王紹宗",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000092",
     "sentence": "王紹宗，揚州江都人也，梁左民尚書銓曾孫也，其先自瑯邪徙焉。",
     "entities": [
+      {
+        "text": "王紹宗",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "揚州",
         "label": "LOC",
@@ -896,19 +1013,20 @@
         "label": "ORG",
         "start": 1,
         "end": 2
-      },
-      {
-        "text": "徐敬業於揚州",
-        "label": "LOC",
-        "start": 4,
-        "end": 10
       }
     ]
   },
   {
     "sentence_id": "HCH_008_189c_000097",
     "sentence": "又令唐之奇親詣所居逼之，竟不起。",
-    "entities": []
+    "entities": [
+      {
+        "text": "唐之奇",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000098",
@@ -924,6 +1042,12 @@
     "sentence_id": "HCH_008_189c_000100",
     "sentence": "及賊平，行軍大總管李孝逸以其狀聞，則天驛召赴東都，引入禁中，親加慰撫，擢拜太子文學，累轉秘書少監，仍侍皇太子讀書。",
     "entities": [
+      {
+        "text": "李孝逸",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -946,7 +1070,14 @@
   {
     "sentence_id": "HCH_008_189c_000102",
     "sentence": "張易之兄弟，亦加厚禮。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000103",
@@ -963,12 +1094,25 @@
   {
     "sentence_id": "HCH_008_189c_000104",
     "sentence": "韋叔夏",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋叔夏",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000105",
     "sentence": "韋叔夏，尚書左僕射安石兄也。",
     "entities": [
+      {
+        "text": "韋叔夏",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -1034,7 +1178,20 @@
   {
     "sentence_id": "HCH_008_189c_000110",
     "sentence": "則天將拜洛及享明堂，皆別受制，共當時大儒祝欽明、郭山惲撰定儀註。",
-    "entities": []
+    "entities": [
+      {
+        "text": "祝欽明",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
+        "text": "郭山惲",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000111",
@@ -1063,10 +1220,22 @@
         "end": 25
       },
       {
+        "text": "韋叔夏",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 39,
         "end": 41
+      },
+      {
+        "text": "祝欽明",
+        "label": "PER",
+        "start": 44,
+        "end": 47
       }
     ]
   },
@@ -1172,12 +1341,25 @@
   {
     "sentence_id": "HCH_008_189c_000123",
     "sentence": "祝欽明",
-    "entities": []
+    "entities": [
+      {
+        "text": "祝欽明",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000124",
     "sentence": "祝欽明，雍州始平人也。",
     "entities": [
+      {
+        "text": "祝欽明",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "雍州",
         "label": "LOC",
@@ -1279,6 +1461,12 @@
         "end": 9
       },
       {
+        "text": "蕭至忠",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "貶授申州",
         "label": "LOC",
         "start": 17,
@@ -1306,6 +1494,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "郭山惲",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       },
       {
         "text": "皇后",
@@ -1477,6 +1671,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "蔣欽緒",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "皇后",
@@ -1908,6 +2108,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "韋巨源",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -1930,6 +2136,18 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "倪若水",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "郭山惲",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       },
       {
         "text": "是左授欽明饒州",
@@ -1958,12 +2176,25 @@
   {
     "sentence_id": "HCH_008_189c_000203",
     "sentence": "郭山惲",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭山惲",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000204",
     "sentence": "郭山惲，蒲州河東人。",
     "entities": [
+      {
+        "text": "郭山惲",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "蒲州",
         "label": "LOC",
@@ -2011,6 +2242,12 @@
         "end": 13
       },
       {
+        "text": "宗晉卿",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "《渾脫》",
         "label": "TITLE",
         "start": 22,
@@ -2035,16 +2272,34 @@
         "end": 45
       },
       {
+        "text": "杜元琰",
+        "label": "PER",
+        "start": 45,
+        "end": 48
+      },
+      {
         "text": "《婆羅門咒》",
         "label": "TITLE",
         "start": 49,
         "end": 55
       },
       {
+        "text": "李行言",
+        "label": "PER",
+        "start": 59,
+        "end": 62
+      },
+      {
         "text": "《駕車西河》",
         "label": "TITLE",
         "start": 63,
         "end": 69
+      },
+      {
+        "text": "盧藏用",
+        "label": "PER",
+        "start": 74,
+        "end": 77
       }
     ]
   },
@@ -2076,6 +2331,12 @@
     "sentence": "翌日，帝嘉山惲之意，詔曰：「郭山惲業優經史，識貯古今，《八索》、《九丘》，由來遍覽；前言往行，實所該詳。昨者因其豫遊，式宴朝彥，既乘歡洽，咸使詠歌。遂能志在匡時，潛申規諷，謇謇之誠彌切，諤諤之操逾明。宜示褒揚，美茲鯁直。」賜時服一幅。",
     "entities": [
       {
+        "text": "郭山惲",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "《八索》",
         "label": "TITLE",
         "start": 27,
@@ -2093,6 +2354,12 @@
     "sentence_id": "HCH_008_189c_000212",
     "sentence": "尋與祝欽明同獻皇后助祭郊祀之議。",
     "entities": [
+      {
+        "text": "祝欽明",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "皇后",
         "label": "TITLE",
@@ -2233,7 +2500,14 @@
   {
     "sentence_id": "HCH_008_189c_000224",
     "sentence": "貞觀中，累轉光祿少卿，使突厥存撫李思摩，突厥贈馬百匹及方物，悉拒而不受。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李思摩",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000225",
@@ -2268,7 +2542,14 @@
   {
     "sentence_id": "HCH_008_189c_000227",
     "sentence": "冲博學，尤明世族，名亞路敬淳。",
-    "entities": []
+    "entities": [
+      {
+        "text": "路敬淳",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000228",
@@ -2315,6 +2596,12 @@
     "sentence": "中宗命冲與左僕射魏元忠及史官張錫、徐堅、劉憲等八人，依據《氏族志》，重加修撰。",
     "entities": [
       {
+        "text": "魏元忠",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "《氏族志》",
         "label": "TITLE",
         "start": 28,
@@ -2332,10 +2619,22 @@
     "sentence": "至先天初，冲始與侍中魏知古、中書侍郎陸象先及徐堅、劉子玄、吳兢等撰成《姓族系錄》二百卷，奏上。",
     "entities": [
       {
+        "text": "魏知古",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "陸象先",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       },
       {
         "text": "《姓族系錄》",
@@ -2372,6 +2671,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "薛南金",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       },
       {
         "text": "《系錄》",
@@ -2497,10 +2802,22 @@
         "end": 5
       },
       {
+        "text": "武崇訓",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "趙履溫",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -2780,6 +3097,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "武攸暨",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2847,7 +3170,14 @@
   {
     "sentence_id": "HCH_008_189c_000284",
     "sentence": "後秘書監馬懷素奏引知章就秘書省與學者刊定經史。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬懷素",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000285",
@@ -3000,6 +3330,12 @@
     "sentence_id": "HCH_008_189c_000300",
     "sentence": "浙西觀察使李棲筠厚遇之，敕故所居為復禮鄉。",
     "entities": [
+      {
+        "text": "李棲筠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "故所居為復禮鄉",
         "label": "LOC",
@@ -3201,7 +3537,14 @@
   {
     "sentence_id": "HCH_008_189c_000323",
     "sentence": "裴延齡卒，德宗聞其才，特開延英，面賜金紫。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴延齡",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000324",
@@ -3245,6 +3588,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "鄒儒立",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -3448,14 +3797,7 @@
   {
     "sentence_id": "HCH_008_189c_000351",
     "sentence": "陳少遊鎮揚州，愛其才，辟為從事。",
-    "entities": [
-      {
-        "text": "陳少遊鎮揚州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_189c_000352",
@@ -3497,6 +3839,12 @@
     "sentence": "順宗即位，質素與韋執誼善，由是徵為給事中、皇太子侍讀，仍改賜名質。",
     "entities": [
       {
+        "text": "韋執誼",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 22,
@@ -3507,7 +3855,14 @@
   {
     "sentence_id": "HCH_008_189c_000355",
     "sentence": "時執誼得幸，順帝寢疾，與王叔文等竊弄權柄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000356",
@@ -3632,7 +3987,14 @@
   {
     "sentence_id": "HCH_008_189c_000368",
     "sentence": "澤潞節度使李抱真卒，為吊贈使，抱真男遺伉帛數百匹，不納。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李抱真",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000369",
@@ -3684,6 +4046,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "韋渠牟",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "太子",
@@ -3784,12 +4152,26 @@
   {
     "sentence_id": "HCH_008_189c_000380",
     "sentence": "韋表微",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋表微",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000381",
     "sentence": "韋表微，始舉進士登第，累佐籓府。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋表微",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000382",
@@ -3891,12 +4273,26 @@
   {
     "sentence_id": "HCH_008_189c_000392",
     "sentence": "許康佐",
-    "entities": []
+    "entities": [
+      {
+        "text": "許康佐",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000393",
     "sentence": "許康佐，父審。",
-    "entities": []
+    "entities": [
+      {
+        "text": "許康佐",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189c_000394",

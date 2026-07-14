@@ -2,7 +2,20 @@
   {
     "sentence_id": "HCH_008_085_000001",
     "sentence": "唐臨（孫紹）　張文瓘（兄文琮 從弟文收）　徐有功",
-    "entities": []
+    "entities": [
+      {
+        "text": "張文瓘",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "徐有功",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_085_000002",
@@ -114,6 +127,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "李道彥",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -256,12 +275,6 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
-      },
-      {
-        "text": "齡之以前任廣州",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
       }
     ]
   },
@@ -317,7 +330,14 @@
   {
     "sentence_id": "HCH_008_085_000039",
     "sentence": "今議蕭齡之事，有輕有重，重者流死，輕者請除名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭齡之",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_085_000040",
@@ -498,6 +518,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "徐敬業",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -662,6 +688,12 @@
     "sentence": "中宗將親拜南郊，國子祭酒祝欽明等希旨皇后為亞獻，紹與博士蔣欽緒固爭以為不可。",
     "entities": [
       {
+        "text": "祝欽明",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "皇后",
         "label": "TITLE",
         "start": 18,
@@ -672,13 +704,26 @@
         "label": "TITLE",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "蔣欽緒",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
   {
     "sentence_id": "HCH_008_085_000078",
     "sentence": "又則天父母二陵各置守戶五百人，武三思及子崇訓墓各置守戶六十人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_085_000079",
@@ -739,12 +784,25 @@
   {
     "sentence_id": "HCH_008_085_000086",
     "sentence": "張文瓘",
-    "entities": []
+    "entities": [
+      {
+        "text": "張文瓘",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_085_000087",
     "sentence": "張文瓘，貝州武城人。",
     "entities": [
+      {
+        "text": "張文瓘",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "貝州武城",
         "label": "LOC",
@@ -1102,12 +1160,6 @@
     "sentence": "從母弟房遺愛以罪貶授房州刺史，文琮作詩祖餞。",
     "entities": [
       {
-        "text": "愛以罪貶授房州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 12,
@@ -1401,12 +1453,25 @@
   {
     "sentence_id": "HCH_008_085_000160",
     "sentence": "徐有功",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐有功",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_085_000161",
     "sentence": "徐有功，國子博士文遠孫也。",
     "entities": [
+      {
+        "text": "徐有功",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "博士",
         "label": "TITLE",
@@ -1457,7 +1522,20 @@
   {
     "sentence_id": "HCH_008_085_000167",
     "sentence": "時酷吏周興、來俊臣、丘神勣、王弘義等構陷無辜，皆抵極法，公卿震恐，莫敢正言。",
-    "entities": []
+    "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "丘神勣",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_085_000168",
@@ -1489,6 +1567,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "裴行本",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -1500,7 +1584,14 @@
   {
     "sentence_id": "HCH_008_085_000173",
     "sentence": "”俊臣、張知默等又抗表請申大法，則天不許之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張知默",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_085_000174",
@@ -1537,6 +1628,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "唐奉一",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -1671,6 +1768,18 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "竇孝諶",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "薛季昶",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -1782,12 +1891,26 @@
   {
     "sentence_id": "HCH_008_085_000216",
     "sentence": "故贈大理卿徐有功，節操貞勁，器懷亮直，徇古人之誌業，實一代之賢良，司彼刑書，深存敬慎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐有功",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_085_000217",
     "sentence": "周興、來俊臣等性惟殘酷，務在誅夷，不順其情，立加誣害。",
-    "entities": []
+    "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_085_000218",
@@ -1830,7 +1953,14 @@
   {
     "sentence_id": "HCH_008_085_000223",
     "sentence": "”今上踐祚，竇孝諶之子希瑊等請以身之官爵讓有功子惀，以報舊恩。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇孝諶",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_085_000224",
@@ -1873,7 +2003,14 @@
   {
     "sentence_id": "HCH_008_085_000229",
     "sentence": "當賊後遷鼎之際，酷吏羅織之辰，徐有功獨抗群邪，持平不撓，此所以為難也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐有功",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_085_000230",

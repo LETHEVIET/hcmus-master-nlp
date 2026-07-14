@@ -2,12 +2,26 @@
   {
     "sentence_id": "HCH_006_066_000001",
     "sentence": "公孫賀",
-    "entities": []
+    "entities": [
+      {
+        "text": "公孫賀",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_066_000002",
     "sentence": "公孫賀字子叔，北地義渠人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "公孫賀",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_066_000003",
@@ -136,6 +150,12 @@
     "sentence_id": "HCH_006_066_000014",
     "sentence": "自公孫弘後，丞相李蔡、嚴青翟、趙周三人比坐事死。",
     "entities": [
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "丞相",
         "label": "TITLE",
@@ -1455,6 +1475,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "杜延年",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1513,6 +1539,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "張安世",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -2139,12 +2171,25 @@
   {
     "sentence_id": "HCH_006_066_000211",
     "sentence": "陳萬年",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳萬年",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_066_000212",
     "sentence": "陳萬年字幼公，沛郡相人也。",
     "entities": [
+      {
+        "text": "陳萬年",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "沛郡",
         "label": "LOC",
@@ -2207,7 +2252,14 @@
   {
     "sentence_id": "HCH_006_066_000218",
     "sentence": "吉薦于定國、杜延年及萬年。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜延年",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_066_000219",
@@ -2429,6 +2481,12 @@
     "sentence": "咸，三公子，少顯名於朝廷，而薛宣、朱博、翟方進、孔光等仕宦絕在咸後，皆以廉儉先至公卿，而咸滯於郡守。",
     "entities": [
       {
+        "text": "翟方進",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "而咸滯於郡",
         "label": "LOC",
         "start": 43,
@@ -2473,7 +2531,14 @@
   {
     "sentence_id": "HCH_006_066_000246",
     "sentence": "爲少府三歲，與翟方進有隙。",
-    "entities": []
+    "entities": [
+      {
+        "text": "翟方進",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_066_000247",

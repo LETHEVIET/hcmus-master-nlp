@@ -2,7 +2,14 @@
   {
     "sentence_id": "HCH_003_076_000001",
     "sentence": "段文振 來護兒 樊子蓋 周羅睺 周法尚 衞玄 劉權 李景 薛世雄",
-    "entities": []
+    "entities": [
+      {
+        "text": "周法尚",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_076_000002",
@@ -12,7 +19,14 @@
   {
     "sentence_id": "HCH_003_076_000003",
     "sentence": "段文振來護兒樊子蓋周羅碶周法尚衛玄劉權李景薛世雄",
-    "entities": []
+    "entities": [
+      {
+        "text": "周法尚",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_076_000004",
@@ -63,7 +77,14 @@
   {
     "sentence_id": "HCH_003_076_000008",
     "sentence": "初為周塚宰宇文護親信，護知其有器局幹用，擢授中外府兵曹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_076_000009",
@@ -120,7 +141,14 @@
   {
     "sentence_id": "HCH_003_076_000014",
     "sentence": "又以天官都上士從韋孝寬經略淮南。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_076_000015",
@@ -167,7 +195,14 @@
   {
     "sentence_id": "HCH_003_076_000018",
     "sentence": "尋以行軍長史從達奚震討平叛蠻，加上開府，遷鴻臚卿。",
-    "entities": []
+    "entities": [
+      {
+        "text": "達奚震",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_076_000019",
@@ -421,6 +456,12 @@
     "sentence_id": "HCH_003_076_000041",
     "sentence": "文振見文帝時容納突厥啟人，居於塞內，妻以公主，賞賜重疊，及大業初，恩澤彌厚，恐為國患。",
     "entities": [
+      {
+        "text": "文帝時",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "公主",
         "label": "TITLE",
@@ -985,6 +1026,12 @@
     "sentence": "諸將咸懼，護兒笑謂副將周法尚及軍吏曰：「吾本謂其堅城清野以待王師，今來送死，當殄之而朝食。」高元弟建驍勇絕倫，率敢死數百人來致師。",
     "entities": [
       {
+        "text": "周法尚",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "吾本謂其堅城",
         "label": "LOC",
         "start": 20,
@@ -1025,7 +1072,14 @@
   {
     "sentence_id": "HCH_003_076_000101",
     "sentence": "會宇文述等眾軍皆敗，乃旋軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_076_000102",
@@ -1048,6 +1102,12 @@
         "label": "LOC",
         "start": 22,
         "end": 24
+      },
+      {
+        "text": "周法尚",
+        "label": "PER",
+        "start": 33,
+        "end": 36
       }
     ]
   },
@@ -1088,12 +1148,6 @@
         "label": "TITLE",
         "start": 27,
         "end": 29
-      },
-      {
-        "text": "述破玄感於閿鄉",
-        "label": "LOC",
-        "start": 103,
-        "end": 110
       }
     ]
   },
@@ -1214,6 +1268,12 @@
     "sentence_id": "HCH_003_076_000119",
     "sentence": "尋代宇文述為左翊衛大將軍。",
     "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "大將軍",
         "label": "TITLE",
@@ -1665,7 +1725,14 @@
   {
     "sentence_id": "HCH_003_076_000153",
     "sentence": "後與蘇威、宇文述陪宴積翠池，帝親以金杯屬子蓋酒，曰：「良算嘉謀，俟公後動，即以此杯賜公，用為永年之瑞。」",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_076_000154",
@@ -1809,6 +1876,12 @@
         "label": "LOC",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1825,7 +1898,14 @@
   {
     "sentence_id": "HCH_003_076_000178",
     "sentence": "太僕卿蕭摩訶副之，斬首不可勝計。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭摩訶",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_076_000179",
@@ -1836,12 +1916,6 @@
         "label": "LOC",
         "start": 0,
         "end": 4
-      },
-      {
-        "text": "梁士彥戰于彭城",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
       }
     ]
   },
@@ -1964,7 +2038,20 @@
   {
     "sentence_id": "HCH_003_076_000191",
     "sentence": "蕭摩訶、魯廣達等保明之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭摩訶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "魯廣達",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_076_000192",
@@ -2255,7 +2342,14 @@
   {
     "sentence_id": "HCH_003_076_000222",
     "sentence": "周法尚，字德邁，汝南安成人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "周法尚",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_076_000223",
@@ -2774,7 +2868,14 @@
   {
     "sentence_id": "HCH_003_076_000264",
     "sentence": "會楊玄感反，與宇文述、來護等破之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_076_000265",
@@ -3199,7 +3300,14 @@
   {
     "sentence_id": "HCH_003_076_000306",
     "sentence": "會宇文述、來護等援兵至，玄感西遁。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_076_000307",
@@ -3216,6 +3324,12 @@
         "label": "LOC",
         "start": 22,
         "end": 26
+      },
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -3924,7 +4038,14 @@
   {
     "sentence_id": "HCH_003_076_000383",
     "sentence": "歲餘，復位，與宇文述等參掌選舉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_076_000384",
@@ -4259,7 +4380,14 @@
   {
     "sentence_id": "HCH_003_076_000420",
     "sentence": "遼東之役，為沃沮道軍將，與宇文述同敗績於平壤。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_076_000421",

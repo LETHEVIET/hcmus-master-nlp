@@ -290,7 +290,14 @@
   {
     "sentence_id": "HCH_007_058_000027",
     "sentence": "及莊宗平定汴、洛，時盧程以狂妄免，郭崇韜自勳臣拜，議者以為國朝典禮故實，須訪前代名家，咸曰光允有宰相器。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_058_000028",
@@ -300,7 +307,14 @@
   {
     "sentence_id": "HCH_007_058_000029",
     "sentence": "郭崇韜采言事者雲，廷珪朽老，浮華無相業；琪雖文學高，傾險無士風，皆不可相，乃止。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_058_000030",
@@ -322,7 +336,14 @@
   {
     "sentence_id": "HCH_007_058_000032",
     "sentence": "豆盧革雖憑門地，在本朝時，仕進尚微，久從使府，朝章典禮，未能深悉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_058_000033",
@@ -474,6 +495,12 @@
     "sentence": "張全義言於郭崇韜，將復相之，尋入為太子賓客。",
     "entities": [
       {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 17,
@@ -484,7 +511,14 @@
   {
     "sentence_id": "HCH_007_058_000050",
     "sentence": "明宗即位，任圜自蜀至，安重誨不欲圜獨拜宰輔，共議朝望一人共之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_058_000051",
@@ -675,7 +709,14 @@
   {
     "sentence_id": "HCH_007_058_000067",
     "sentence": "與中書舍人崔居儉相遇於幕次，協厲聲而言曰：「崔蕘之子，何敢相見！」居儉亦報之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔居儉",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_058_000068",
@@ -727,7 +768,20 @@
   {
     "sentence_id": "HCH_007_058_000072",
     "sentence": "初，豆盧革、韋說得罪，執政議命相，樞密使孔循意不欲河朔人居相位，任圜欲相李琪，而鄭玨素與琪不協，孔循亦惡琪，謂安重誨曰：「李琪非無藝學，但不廉耳。朝論莫若崔協。」重誨然之，因奏擇相。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 55,
+        "end": 58
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_058_000073",
@@ -1305,7 +1359,14 @@
   {
     "sentence_id": "HCH_007_058_000134",
     "sentence": "及明宗即位，豆盧革、韋說得罪，任圜陳奏，請命琪為相，為孔循、鄭玨排沮，乃相崔協。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_058_000135",
@@ -1322,6 +1383,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -1357,14 +1424,7 @@
   {
     "sentence_id": "HCH_007_058_000139",
     "sentence": "時琪奏中有「敗契丹之凶黨，破真定之逆賊」之言，詔曰：「契丹即為凶黨，真定不是逆賊，李琪罰一月俸。」又嘗秦敕撰《霍彥威神道碑》文。",
-    "entities": [
-      {
-        "text": "《霍彥威神道碑》",
-        "label": "TITLE",
-        "start": 54,
-        "end": 62
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_058_000140",

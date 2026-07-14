@@ -297,7 +297,14 @@
   {
     "sentence_id": "HCH_006_024c_000049",
     "sentence": "武帝因文、景之畜，忿胡、粵之害，即位數年，嚴助、朱買臣等招徠東甌，事兩粵，江淮之間蕭然煩費矣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱買臣",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_024c_000050",
@@ -475,7 +482,14 @@
   {
     "sentence_id": "HCH_006_024c_000072",
     "sentence": "公孫弘以宰相，布被，食不重味，為下先，然而無益於俗，稍務於功利矣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_024c_000073",
@@ -513,6 +527,12 @@
     "sentence_id": "HCH_006_024c_000078",
     "sentence": "其後番係欲省底柱之漕，穿汾、河渠以為溉田；鄭當時為渭漕回遠，鑿漕直渠自長安至華陰；而朔方亦穿溉渠。",
     "entities": [
+      {
+        "text": "鄭當時",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
       {
         "text": "長安",
         "label": "LOC",
@@ -717,7 +737,14 @@
   {
     "sentence_id": "HCH_006_024c_000103",
     "sentence": "咸陽，齊之大煮鹽，孔僅，南陽大冶，皆致產累千金，故鄭當時進言之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭當時",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_024c_000104",
@@ -936,6 +963,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "王溫舒",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },

@@ -321,6 +321,12 @@
         "end": 5
       },
       {
+        "text": "姚元之",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "刺史",
         "label": "TITLE",
         "start": 27,
@@ -367,6 +373,12 @@
     "sentence_id": "HCH_008_095_000026",
     "sentence": "及玄宗討平蕭至忠、岑羲等，成器又進位太尉，依舊兼揚州大都督，加實封一千戶。",
     "entities": [
+      {
+        "text": "蕭至忠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "依舊兼揚州",
         "label": "LOC",
@@ -759,6 +771,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 21
+      },
+      {
+        "text": "高力士",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -875,7 +893,14 @@
   {
     "sentence_id": "HCH_008_095_000088",
     "sentence": "監獲使、左僕射裴耀卿奏曰：「尚食所料水陸等味一千余種，每色瓶盛，安於藏內，皆是非時瓜果及馬牛驢犢麞鹿等肉，並諸藥酒三十余色。儀註禮料，皆無所憑。臣據禮司所料，奠祭相次，事無不備，典制分明。天恩每申讓帝之誌，務令儉約，禮外加數，竊恐不安。又非時之物，馬犢驢等並野味魚雁鵝鷗之屬，所用銖兩，動皆宰殺，盛夏胎養，聖情所禁。又須造作什物，動逾千計，求征市井，實謂煩勞。千味不供，禮無所闕。伏望依禮減省，以取折衷。」制從之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴耀卿",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_095_000089",
@@ -896,6 +921,12 @@
         "label": "LOC",
         "start": 2,
         "end": 6
+      },
+      {
+        "text": "賀知章",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -1495,12 +1526,6 @@
     "sentence": "景龍年，兼隴州別駕，加銀青光祿大夫。",
     "entities": [
       {
-        "text": "兼隴州",
-        "label": "LOC",
-        "start": 4,
-        "end": 7
-      },
-      {
         "text": "大夫",
         "label": "TITLE",
         "start": 15,
@@ -1529,6 +1554,18 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "竇懷貞",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "蕭至忠",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -1588,7 +1625,20 @@
   {
     "sentence_id": "HCH_008_095_000147",
     "sentence": "與閻朝隱、劉庭琦、張諤、鄭繇篇題唱和，又多聚書畫古跡，為時所稱。",
-    "entities": []
+    "entities": [
+      {
+        "text": "閻朝隱",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "劉庭琦",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_095_000148",
@@ -1598,12 +1648,25 @@
   {
     "sentence_id": "HCH_008_095_000149",
     "sentence": "駙馬都尉裴虛己坐與範遊宴，兼私挾讖緯之書，配徙嶺外。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴虛己",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_095_000150",
     "sentence": "萬年尉劉庭琦、太祝張諤皆坐與範飲酒賦詩，黜庭琦為雅州司戶，諤為山茌丞。",
     "entities": [
+      {
+        "text": "劉庭琦",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "黜庭琦為雅州",
         "label": "LOC",
@@ -1656,6 +1719,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "盧從願",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       },
       {
         "text": "太子",
@@ -1788,6 +1857,12 @@
         "end": 27
       },
       {
+        "text": "劉從諫",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
         "text": "蔚州長鎮",
         "label": "LOC",
         "start": 31,
@@ -1834,7 +1909,14 @@
   {
     "sentence_id": "HCH_008_095_000166",
     "sentence": "駙馬都尉薛履謙預逆謀，宜賜自盡。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛履謙",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_095_000167",
@@ -2035,12 +2117,6 @@
         "label": "TME",
         "start": 2,
         "end": 4
-      },
-      {
-        "text": "兼陳州",
-        "label": "LOC",
-        "start": 5,
-        "end": 8
       }
     ]
   },
@@ -2081,7 +2157,14 @@
   {
     "sentence_id": "HCH_008_095_000185",
     "sentence": "及玄宗誅蕭至忠、岑羲等，業以翊從之功，加實封通舊為五千戶。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭至忠",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_095_000186",
@@ -2177,6 +2260,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "皇甫恂",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -2184,12 +2273,6 @@
     "sentence_id": "HCH_008_095_000195",
     "sentence": "事發，玄宗令杖殺韋賓，左遷皇甫恂為錦州刺史。",
     "entities": [
-      {
-        "text": "遷皇甫恂為錦州",
-        "label": "LOC",
-        "start": 12,
-        "end": 19
-      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -2294,6 +2377,12 @@
         "end": 11
       },
       {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
         "text": "貶夷陵郡",
         "label": "LOC",
         "start": 22,
@@ -2321,7 +2410,14 @@
   {
     "sentence_id": "HCH_008_095_000208",
     "sentence": "十四載，安祿山反，赴於西京。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_095_000209",

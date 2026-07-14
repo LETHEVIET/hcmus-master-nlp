@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_007_094_000001",
     "sentence": "萇從簡",
-    "entities": []
+    "entities": [
+      {
+        "text": "萇從簡",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_094_000002",
     "sentence": "萇從簡，陳州人也。",
     "entities": [
+      {
+        "text": "萇從簡",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "陳州",
         "label": "LOC",
@@ -168,6 +181,12 @@
         "label": "TITLE",
         "start": 22,
         "end": 24
+      },
+      {
+        "text": "萇從簡",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -647,6 +666,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -667,6 +692,12 @@
     "sentence": "尋從杜重威破張從賓於汜水，以功除趙州刺史。",
     "entities": [
       {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "以功除趙州",
         "label": "LOC",
         "start": 13,
@@ -684,6 +715,12 @@
     "sentence_id": "HCH_007_094_000060",
     "sentence": "從楊光遠平範延光於鄴，移刺萊州，遷安州防禦使。",
     "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "移刺萊州",
         "label": "LOC",
@@ -921,6 +958,12 @@
         "end": 12
       },
       {
+        "text": "丁審琪",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
         "text": "以所部兵攻其城",
         "label": "LOC",
         "start": 30,
@@ -997,12 +1040,6 @@
         "label": "TITLE",
         "start": 49,
         "end": 54
-      },
-      {
-        "text": "張虔釗出大散關",
-        "label": "LOC",
-        "start": 64,
-        "end": 71
       },
       {
         "text": "由隴州",
@@ -1304,12 +1341,26 @@
   {
     "sentence_id": "HCH_007_094_000103",
     "sentence": "下汶陽日，首獲鄆帥戴思遠判官趙鳳，訊之曰：「爾狀貌必儒人也，勿隱其情。」鳳具言之，尋引薦於明宗，明宗令送赴行臺，尋除鳳翰林學士。",
-    "entities": []
+    "entities": [
+      {
+        "text": "戴思遠",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_094_000104",
     "sentence": "及鳳入相，頗與廷蘊相洽，數言於近臣安重誨，重誨亦以廷蘊苦戰出於諸將之右，力保薦之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_094_000105",
@@ -1343,12 +1394,25 @@
   {
     "sentence_id": "HCH_007_094_000108",
     "sentence": "郭延魯",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭延魯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_094_000109",
     "sentence": "郭延魯，字德興，沁州綿上人也。",
     "entities": [
+      {
+        "text": "郭延魯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "沁州",
         "label": "LOC",
@@ -1598,6 +1662,12 @@
     "sentence": "其年十一月，安從進謀犯闕，金海為襄州道行營先鋒都指揮使，與李建崇等同於唐州湖陽遇從進軍萬餘人，金海以一旅之眾突擊，大敗之，策勛授檢校太保、商州刺史，俄移慶州。",
     "entities": [
       {
+        "text": "安從進",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "金海為襄州",
         "label": "LOC",
         "start": 13,
@@ -1715,12 +1785,25 @@
   {
     "sentence_id": "HCH_007_094_000134",
     "sentence": "劉處讓",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉處讓",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_094_000135",
     "sentence": "劉處讓，字德謙，滄州人也。",
     "entities": [
+      {
+        "text": "劉處讓",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "滄州",
         "label": "LOC",
@@ -1762,12 +1845,6 @@
         "label": "ORG",
         "start": 2,
         "end": 3
-      },
-      {
-        "text": "張萬進帥兗州",
-        "label": "LOC",
-        "start": 5,
-        "end": 11
       }
     ]
   },
@@ -1863,6 +1940,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1953,19 +2036,19 @@
   {
     "sentence_id": "HCH_007_094_000152",
     "sentence": "範延光之據鄴也，高祖命宣武軍節度使楊光遠領兵討之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_094_000153",
     "sentence": "時處讓奉詔與光遠同參議軍政，會張從賓作亂於河陽，處讓自黎陽分兵討襲，從賓平，復與楊光遠同攻鄴城。",
-    "entities": [
-      {
-        "text": "楊光遠同攻鄴城",
-        "label": "LOC",
-        "start": 40,
-        "end": 47
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_094_000154",
@@ -1988,24 +2071,31 @@
   {
     "sentence_id": "HCH_007_094_000155",
     "sentence": "先是，桑維翰、李崧兼充樞密使，處讓以莊宗已來，樞密使罕有宰臣兼者，因萌心以覬其位。",
-    "entities": []
-  },
-  {
-    "sentence_id": "HCH_007_094_000156",
-    "sentence": "及楊光遠討伐鄴城，軍機大事，高祖每命處讓宣達。",
     "entities": [
       {
-        "text": "楊光遠討伐鄴城",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },
   {
+    "sentence_id": "HCH_007_094_000156",
+    "sentence": "及楊光遠討伐鄴城，軍機大事，高祖每命處讓宣達。",
+    "entities": []
+  },
+  {
     "sentence_id": "HCH_007_094_000157",
     "sentence": "時光遠恃軍權，多有越體論奏，高祖依違而已，光遠慊之，頻與處讓宴語及之，處讓訴曰：「非聖旨也，皆出維翰等意。」及楊光遠入朝，遂於高祖前面言執政之失，高祖知其故，不得已乃罷維翰等，以處讓為樞密使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 55,
+        "end": 58
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_094_000158",
@@ -2160,7 +2250,14 @@
   {
     "sentence_id": "HCH_007_094_000176",
     "sentence": "同光末，明宗討趙在禮於鄴。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_094_000177",
@@ -2316,12 +2413,6 @@
     "sentence": "遇楊光遠以青州叛，自統本部兵攻其城，且以書誘瓊，瓊因拒之，以書上進，朝廷嘉之。",
     "entities": [
       {
-        "text": "遇楊光遠以青州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      },
-      {
         "text": "統本部兵攻其城",
         "label": "LOC",
         "start": 10,
@@ -2381,6 +2472,12 @@
     "sentence_id": "HCH_007_094_000191",
     "sentence": "及杜重威降敵，改授瓊威州刺史。",
     "entities": [
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "改授瓊威州",
         "label": "LOC",
@@ -3135,6 +3232,12 @@
     "sentence": "高祖即位，遣安重榮代之，授瓊齊州防禦使。",
     "entities": [
       {
+        "text": "安重榮",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "授瓊齊州",
         "label": "LOC",
         "start": 12,
@@ -3165,12 +3268,25 @@
   {
     "sentence_id": "HCH_007_094_000255",
     "sentence": "李彥珣",
-    "entities": []
+    "entities": [
+      {
+        "text": "李彥珣",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_094_000256",
     "sentence": "李彥珣，邢州人也。",
     "entities": [
+      {
+        "text": "李彥珣",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "邢州",
         "label": "LOC",
@@ -3252,6 +3368,12 @@
     "sentence_id": "HCH_007_094_000264",
     "sentence": "招討使楊光遠以彥珣見用，欲撓延光而誘彥珣，乃遣人就邢臺訪得其母，令於城下以招之。",
     "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "令於城",
         "label": "LOC",

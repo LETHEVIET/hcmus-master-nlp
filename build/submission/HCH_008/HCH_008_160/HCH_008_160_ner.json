@@ -27,7 +27,14 @@
   {
     "sentence_id": "HCH_008_160_000006",
     "sentence": "大歷、貞元之間，文字多尚古學，效楊雄、董仲舒之述作，而獨孤及、梁肅最稱淵奧，儒林推重。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤及",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000007",
@@ -65,6 +72,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "張建封",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -142,6 +155,12 @@
         "end": 5
       },
       {
+        "text": "閻濟美",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "停華陰令柳澗縣",
         "label": "LOC",
         "start": 11,
@@ -206,6 +225,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "李宗奭",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -381,6 +406,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "吳元濟",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -392,7 +423,14 @@
   {
     "sentence_id": "HCH_008_160_000036",
     "sentence": "憲宗命翰林學士段文昌重撰文勒石。",
-    "entities": []
+    "entities": [
+      {
+        "text": "段文昌",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000037",
@@ -1164,6 +1202,18 @@
         "end": 3
       },
       {
+        "text": "田弘正",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "王廷湊",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "令愈往鎮州",
         "label": "LOC",
         "start": 13,
@@ -1371,6 +1421,12 @@
     "sentence": "若南人妄以柳宗元為羅池神，而愈撰碑以實之；李賀父名晉，不應進士，而愈為賀作《諱辨》，令舉進士；又為《毛穎傳》，譏戲不近人情：此文章之甚紕繆者。",
     "entities": [
       {
+        "text": "柳宗元",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "《諱辨》",
         "label": "TITLE",
         "start": 37,
@@ -1405,6 +1461,12 @@
     "sentence_id": "HCH_008_160_000159",
     "sentence": "而韋處厚竟別撰《順宗實錄》三卷。",
     "entities": [
+      {
+        "text": "韋處厚",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "《順宗實錄》",
         "label": "TITLE",
@@ -1453,7 +1515,20 @@
   {
     "sentence_id": "HCH_008_160_000166",
     "sentence": "以詩名當代，公卿裴度、令狐楚，才名如白居易、元稹，皆與之遊，而韓愈尤重之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐楚",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "白居易",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000167",
@@ -1559,6 +1634,12 @@
     "sentence_id": "HCH_008_160_000183",
     "sentence": "左拾遺白居易遺之詩曰：「賈誼哭時事，阮籍哭路歧。唐生今亦哭，異代同其悲。唐生者何人？五十寒且饑。不悲口無食，不悲身無衣。所悲忠與義，悲甚則哭之。太尉擊賊日，尚書叱盜時。大夫死兇寇，諫議謫蠻夷。每見如此事，聲發涕輒隨。我亦君之徒，郁郁何所為？不能發聲哭，轉作樂府辭。」其為名流稱重若此。",
     "entities": [
+      {
+        "text": "白居易",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "唐",
         "label": "ORG",
@@ -1800,6 +1881,12 @@
     "sentence": "不然者，房玄齡、魏徵輩皆一代名臣，窮極經史，豈不見《國語》、《禮記》有日祭、月祭之詞乎？",
     "entities": [
       {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "《國語》",
         "label": "TITLE",
         "start": 25,
@@ -2014,6 +2101,12 @@
         "label": "TITLE",
         "start": 235,
         "end": 240
+      },
+      {
+        "text": "段秀實",
+        "label": "PER",
+        "start": 255,
+        "end": 258
       }
     ]
   },
@@ -2037,7 +2130,14 @@
   {
     "sentence_id": "HCH_008_160_000235",
     "sentence": "翺與李景儉友善。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李景儉",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000236",
@@ -2089,7 +2189,14 @@
   {
     "sentence_id": "HCH_008_160_000240",
     "sentence": "因入中書謁宰相，面數李逢吉之過失。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000241",
@@ -2320,12 +2427,26 @@
   {
     "sentence_id": "HCH_008_160_000255",
     "sentence": "宇文籍",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文籍",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000256",
     "sentence": "宇文籍，字夏龜。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文籍",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000257",
@@ -2357,14 +2478,7 @@
   {
     "sentence_id": "HCH_008_160_000261",
     "sentence": "宰相武元衡出鎮西蜀，奏為從事。",
-    "entities": [
-      {
-        "text": "宰相武元衡出鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_160_000262",
@@ -2387,12 +2501,26 @@
   {
     "sentence_id": "HCH_008_160_000263",
     "sentence": "王承宗叛，詔捕其弟駙馬都尉承系，其賓客中有為誤識者。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000264",
     "sentence": "又蘇表以破淮西策幹宰相武元衡，元衡不用。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武元衡",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000265",
@@ -2425,6 +2553,24 @@
     "sentence_id": "HCH_008_160_000269",
     "sentence": "與韋處厚、韋表微、路隨、沈傳師同修《憲宗實錄》。",
     "entities": [
+      {
+        "text": "韋處厚",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "韋表微",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "沈傳師",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
       {
         "text": "《憲宗實錄》",
         "label": "TITLE",
@@ -2481,12 +2627,25 @@
   {
     "sentence_id": "HCH_008_160_000275",
     "sentence": "劉禹錫",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉禹錫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000276",
     "sentence": "劉禹錫，字夢得，彭城人。",
     "entities": [
+      {
+        "text": "劉禹錫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "彭城",
         "label": "LOC",
@@ -2549,7 +2708,14 @@
   {
     "sentence_id": "HCH_008_160_000283",
     "sentence": "與吏部郎中韋執誼相善。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋執誼",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000284",
@@ -2560,6 +2726,12 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2576,7 +2748,14 @@
   {
     "sentence_id": "HCH_008_160_000287",
     "sentence": "引禹錫及柳宗元入禁中，與之圖議，言無不從。",
-    "entities": []
+    "entities": [
+      {
+        "text": "柳宗元",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000288",
@@ -2592,6 +2771,18 @@
     "sentence_id": "HCH_008_160_000290",
     "sentence": "宗元素不悅武元衡，時武元衡為御史中丞，乃左授右庶子。",
     "entities": [
+      {
+        "text": "武元衡",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "武元衡",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -2737,18 +2928,19 @@
   {
     "sentence_id": "HCH_008_160_000306",
     "sentence": "屬武元衡在中書，諫官十余人論列，言不可復用而止。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武元衡",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000307",
     "sentence": "禹錫積歲在湘、澧間，郁悒不怡，因讀《張九齡文集》，乃敘其意曰：「世稱曲江為相，建言放臣不宜於善地，多徙五溪不毛之鄉。今讀其文章，自內職牧始，安有瘴癘之嘆，自退相守荊州，有拘囚之思。托諷禽鳥，寄辭草樹，郁然與騷人同風。嗟夫，身出於遐陬，一失意而不能堪，矧華人士族，而必致醜地，然後快意哉！議者以曲江為良臣，識胡雛有反相，羞與凡器同列，密啟廷諍，雖古哲人不及。而燕翼無似，終為餒魂。豈忮心失恕，陰謫最大，雖二美莫贖耶？不然，何袁公一言明楚獄而鐘祉四葉。以是相較，神可誣乎？」",
     "entities": [
-      {
-        "text": "《張九齡文集》",
-        "label": "TITLE",
-        "start": 17,
-        "end": 24
-      },
       {
         "text": "徙五溪不毛之鄉",
         "label": "LOC",
@@ -2808,6 +3000,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "劉禹錫",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       },
       {
         "text": "今播州",
@@ -2933,7 +3131,20 @@
   {
     "sentence_id": "HCH_008_160_000316",
     "sentence": "禹錫甚怒武元衡、李逢吉，而裴度稍知之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武元衡",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000317",
@@ -3012,7 +3223,14 @@
   {
     "sentence_id": "HCH_008_160_000324",
     "sentence": "禹錫晚年與少傅白居易友善，詩筆文章，時無在其右者。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白居易",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000325",
@@ -3130,12 +3348,26 @@
   {
     "sentence_id": "HCH_008_160_000331",
     "sentence": "柳宗元",
-    "entities": []
+    "entities": [
+      {
+        "text": "柳宗元",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000332",
     "sentence": "柳宗元，字子厚，河東人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "柳宗元",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000333",
@@ -3224,7 +3456,20 @@
   {
     "sentence_id": "HCH_008_160_000342",
     "sentence": "順宗即位，王叔文、韋執誼用事，尤奇待宗元。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "韋執誼",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000343",
@@ -3340,6 +3585,12 @@
         "end": 5
       },
       {
+        "text": "劉禹錫",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "刺史",
         "label": "TITLE",
         "start": 11,
@@ -3442,7 +3693,14 @@
   {
     "sentence_id": "HCH_008_160_000361",
     "sentence": "觀察使裴行立為營護其喪及妻子還於京師，時人義之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴行立",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000362",
@@ -3492,6 +3750,12 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "韋夏卿",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -3545,7 +3809,14 @@
   {
     "sentence_id": "HCH_008_160_000370",
     "sentence": "長慶初，韋處厚、路隨以公望居顯要，素知辭有文學理行，亟稱薦之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋處厚",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000371",
@@ -3567,7 +3838,14 @@
   {
     "sentence_id": "HCH_008_160_000373",
     "sentence": "文宗即位，韋處厚執政，且以澄汰浮華、登用藝實為事，乃以辭與李翺同拜中書舍人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋處厚",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_160_000374",

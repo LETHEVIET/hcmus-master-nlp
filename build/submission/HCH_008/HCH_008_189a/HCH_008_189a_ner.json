@@ -214,12 +214,32 @@
   {
     "sentence_id": "HCH_008_189a_000026",
     "sentence": "廣引文學之士，下詔以府屬杜如晦等十八人為學士，給五品珍膳，分為三番更直，宿於閣下。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189a_000027",
     "sentence": "及即位，又於正殿之左，置弘文學館，精選天下文儒之士虞世南、褚亮、姚思廉等，各以本官兼署學士，令更日宿直。",
-    "entities": []
+    "entities": [
+      {
+        "text": "虞世南",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "姚思廉",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189a_000028",
@@ -331,6 +351,12 @@
         "end": 23
       },
       {
+        "text": "顏師古",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
         "text": "《五經》",
         "label": "TITLE",
         "start": 28,
@@ -342,6 +368,12 @@
     "sentence_id": "HCH_008_189a_000042",
     "sentence": "又以儒學多門，章句繁雜，詔國子祭酒孔穎達與諸儒撰定《五經》義疏，凡一百七十卷，名曰《五經正義》，令天下傳習。",
     "entities": [
+      {
+        "text": "孔穎達",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
       {
         "text": "《五經》",
         "label": "TITLE",
@@ -404,6 +436,12 @@
     "sentence_id": "HCH_008_189a_000049",
     "sentence": "祭酒孔穎達等赴上日，皆講《五經》題。",
     "entities": [
+      {
+        "text": "孔穎達",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "《五經》",
         "label": "TITLE",
@@ -488,12 +526,25 @@
   {
     "sentence_id": "HCH_008_189a_000059",
     "sentence": "徐文遠",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐文遠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189a_000060",
     "sentence": "徐文遠，洛州偃師人，陳司空孝嗣玄孫，其先自東海徙家焉。",
     "entities": [
+      {
+        "text": "徐文遠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "洛州",
         "label": "LOC",
@@ -790,6 +841,12 @@
     "sentence": "因出樵采，為羅士信獲之，送於京師，復授國子博士。",
     "entities": [
       {
+        "text": "羅士信",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "博士",
         "label": "TITLE",
         "start": 21,
@@ -984,6 +1041,12 @@
     "sentence": "後高祖親臨釋奠，時徐文遠講《 孝經 》，沙門惠乘講《波若經》，道士劉進喜講《 老子 》，德明難此三人，各因宗指，隨端立義，眾皆為之屈。",
     "entities": [
       {
+        "text": "徐文遠",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "《 孝經 》",
         "label": "TITLE",
         "start": 13,
@@ -1149,6 +1212,12 @@
         "label": "LOC",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "李襲譽",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -1195,6 +1264,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 11
+      },
+      {
+        "text": "公孫羅",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       },
       {
         "text": "《文選》",
@@ -1322,6 +1397,12 @@
     "sentence": "坐與賀蘭敏之周密，配流姚州。",
     "entities": [
       {
+        "text": "賀蘭敏之",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      },
+      {
         "text": "配流姚州",
         "label": "LOC",
         "start": 9,
@@ -1366,12 +1447,26 @@
   {
     "sentence_id": "HCH_008_189a_000146",
     "sentence": "附 公孫羅",
-    "entities": []
+    "entities": [
+      {
+        "text": "公孫羅",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189a_000147",
     "sentence": "公孫羅，江都人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "公孫羅",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189a_000148",
@@ -1664,10 +1759,22 @@
     "sentence": "為相月餘，會鳳閣舍人張嘉福等請立武承嗣為皇太子，通與岑長倩固執以為不可，遂忤諸武意，為酷吏所陷，被誅。",
     "entities": [
       {
+        "text": "張嘉福",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 21,
         "end": 23
+      },
+      {
+        "text": "岑長倩",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -1679,12 +1786,25 @@
   {
     "sentence_id": "HCH_008_189a_000183",
     "sentence": "朱子奢",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱子奢",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189a_000184",
     "sentence": "朱子奢，蘇州吳人也。",
     "entities": [
+      {
+        "text": "朱子奢",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "蘇州",
         "label": "LOC",
@@ -1725,6 +1845,12 @@
         "label": "LOC",
         "start": 6,
         "end": 10
+      },
+      {
+        "text": "杜伏威",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -1918,6 +2044,12 @@
         "label": "LOC",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "王靈夔",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -1977,17 +2109,37 @@
   {
     "sentence_id": "HCH_008_189a_000209",
     "sentence": "士衡既禮學為優，當時受其業擅名於時者，唯賈公彥為最焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賈公彥",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189a_000210",
     "sentence": "賈公彥",
-    "entities": []
+    "entities": [
+      {
+        "text": "賈公彥",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189a_000211",
     "sentence": "賈公彥，洺州永年人。",
     "entities": [
+      {
+        "text": "賈公彥",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "洺州",
         "label": "LOC",
@@ -2083,6 +2235,12 @@
         "end": 11
       },
       {
+        "text": "王德韶",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "《毛詩》",
         "label": "TITLE",
         "start": 17,
@@ -2120,12 +2278,25 @@
   {
     "sentence_id": "HCH_008_189a_000223",
     "sentence": "張後胤",
-    "entities": []
+    "entities": [
+      {
+        "text": "張後胤",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189a_000224",
     "sentence": "張後胤，蘇州昆山人也。",
     "entities": [
+      {
+        "text": "張後胤",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "蘇州",
         "label": "LOC",
@@ -2289,6 +2460,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "孔穎達",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
@@ -2460,6 +2637,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2767,12 +2950,25 @@
   {
     "sentence_id": "HCH_008_189a_000295",
     "sentence": "許叔牙",
-    "entities": []
+    "entities": [
+      {
+        "text": "許叔牙",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189a_000296",
     "sentence": "許叔牙，潤州句容人。",
     "entities": [
+      {
+        "text": "許叔牙",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "潤州",
         "label": "LOC",
@@ -2876,6 +3072,12 @@
         "end": 4
       },
       {
+        "text": "高智周",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "《詩》",
         "label": "TITLE",
         "start": 16,
@@ -2977,6 +3179,18 @@
     "sentence": "俄有詔詣秘書內省佐顏師古、孔穎達修《隋史》，尋授太子校書。",
     "entities": [
       {
+        "text": "顏師古",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "孔穎達",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "《隋史》",
         "label": "TITLE",
         "start": 17,
@@ -2999,6 +3213,12 @@
     "sentence_id": "HCH_008_189a_000316",
     "sentence": "與給事中許敬宗撰《高祖》、《太宗實錄》，自創業至於貞觀十四年，凡四十卷。",
     "entities": [
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "《高祖》",
         "label": "TITLE",
@@ -3040,6 +3260,18 @@
         "end": 3
       },
       {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "顏師古",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
         "text": "《 漢書 》",
         "label": "TITLE",
         "start": 34,
@@ -3073,6 +3305,12 @@
         "label": "TITLE",
         "start": 26,
         "end": 30
+      },
+      {
+        "text": "令狐德棻",
+        "label": "PER",
+        "start": 33,
+        "end": 37
       }
     ]
   },
@@ -3095,6 +3333,12 @@
     "sentence_id": "HCH_008_189a_000326",
     "sentence": "與許敬宗等撰《西域圖》。",
     "entities": [
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "《西域圖》",
         "label": "TITLE",
@@ -3183,12 +3427,25 @@
   {
     "sentence_id": "HCH_008_189a_000333",
     "sentence": "劉伯莊",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉伯莊",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189a_000334",
     "sentence": "劉伯莊，徐州彭城人也。",
     "entities": [
+      {
+        "text": "劉伯莊",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "徐州彭城",
         "label": "LOC",
@@ -3223,6 +3480,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       },
       {
         "text": "《文思博要》",
@@ -3437,12 +3700,25 @@
   {
     "sentence_id": "HCH_008_189a_000356",
     "sentence": "羅道琮",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅道琮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189a_000357",
     "sentence": "羅道琮，蒲州虞鄉人也。",
     "entities": [
+      {
+        "text": "羅道琮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "蒲州虞鄉",
         "label": "LOC",
@@ -3541,7 +3817,14 @@
   {
     "sentence_id": "HCH_008_189a_000370",
     "sentence": "每與太學助教康國安、道士李榮等講論，為時所稱。",
-    "entities": []
+    "entities": [
+      {
+        "text": "康國安",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_189a_000371",

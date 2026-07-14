@@ -831,7 +831,14 @@
   {
     "sentence_id": "HCH_005_087_000116",
     "sentence": "”安國以事奏闻，後将军趙充國以爲不可听。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_087_000117",
@@ -875,7 +882,14 @@
   {
     "sentence_id": "HCH_005_087_000122",
     "sentence": "乃遣趙充國與諸将将兵六萬人擊破平之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_087_000123",
@@ -885,7 +899,14 @@
   {
     "sentence_id": "HCH_005_087_000124",
     "sentence": "元帝時，彡姐等七種羌寇隴西，遣右将军馮奉世擊破降之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮奉世",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_087_000125",
@@ -4759,7 +4780,14 @@
   {
     "sentence_id": "HCH_005_087_000527",
     "sentence": "及骠騎将军霍去病破匈奴，取西河地，开湟中，於是月氏来降，與漢人错居。",
-    "entities": []
+    "entities": [
+      {
+        "text": "霍去病",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_087_000528",
@@ -5054,7 +5082,14 @@
   {
     "sentence_id": "HCH_005_087_000573",
     "sentence": "先零侵境，趙充國遷之内地；煎当作寇，馬文渊徙之三辅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_087_000574",

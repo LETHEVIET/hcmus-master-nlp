@@ -32,10 +32,22 @@
         "end": 8
       },
       {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 36,
+        "end": 39
+      },
+      {
         "text": "《通鑒》",
         "label": "TITLE",
         "start": 64,
         "end": 68
+      },
+      {
+        "text": "李紹榮",
+        "label": "PER",
+        "start": 70,
+        "end": 73
       },
       {
         "text": "亦率眾千人棄鎮",
@@ -141,6 +153,12 @@
         "label": "LOC",
         "start": 14,
         "end": 17
+      },
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -153,6 +171,18 @@
         "label": "TITLE",
         "start": 3,
         "end": 9
+      },
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       },
       {
         "text": "魏州",
@@ -183,7 +213,14 @@
   {
     "sentence_id": "HCH_007_051_000016",
     "sentence": "莊宗敗，並為霍彥威所殺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_051_000017",
@@ -194,12 +231,6 @@
         "label": "TITLE",
         "start": 4,
         "end": 8
-      },
-      {
-        "text": "《盧文進傳》",
-        "label": "TITLE",
-        "start": 19,
-        "end": 25
       },
       {
         "text": "《薛史宗室傳》",
@@ -259,6 +290,12 @@
         "label": "ORG",
         "start": 32,
         "end": 33
+      },
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 41,
+        "end": 44
       }
     ]
   },
@@ -367,12 +404,6 @@
         "label": "LOC",
         "start": 90,
         "end": 92
-      },
-      {
-        "text": "度使王承休棄城",
-        "label": "LOC",
-        "start": 93,
-        "end": 100
       }
     ]
   },
@@ -466,6 +497,12 @@
         "label": "LOC",
         "start": 92,
         "end": 99
+      },
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 227,
+        "end": 230
       }
     ]
   },
@@ -507,6 +544,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       },
       {
         "text": "四年",
@@ -590,7 +633,14 @@
   {
     "sentence_id": "HCH_007_051_000047",
     "sentence": "一日，明宗謂安重誨曰：「 近聞從榮左右有詐宣朕旨，令勿接儒生，儒生多懦，恐鈍誌相染。朕方知之，頗駭其事。餘比以從榮方幼，出臨大藩，故先儒雅，賴其裨佐。今聞此奸憸之言，豈朕之所望屯。」鞫其言者將戮之，重誨曰：「若遽行刑，又慮賓從難處，且望嚴誡。」遂止。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_051_000048",
@@ -655,12 +705,6 @@
     "sentence": "〈 （《宋史·趙上交傳》：秦王從榮開府兼判軍衛，以上交為虞部員外郎，充六軍諸衛推官。李澣、張沆、魚崇遠皆白衣在秦府，悉與上交友善。累遷司封郎中，充判官。從榮素豪邁，不遵禮法，好昵群小，上交從容言曰：「王位尊嚴，當修令德以慰民望。王忍為此，獨不見恭世子、戾太子之事乎？」從榮怒，出之。曆涇、秦二鎮節度判官。從榮及禍，僚屬皆坐斥。上交由是知名。） 〉 後舉兵犯宮室，敗死，廢為庶人。",
     "entities": [
       {
-        "text": "《宋史·趙上交傳》",
-        "label": "TITLE",
-        "start": 3,
-        "end": 12
-      },
-      {
         "text": "太子",
         "label": "TITLE",
         "start": 127,
@@ -683,6 +727,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 11
+      },
+      {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 187,
+        "end": 190
       },
       {
         "text": "皇城",
@@ -729,6 +779,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 10
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -752,7 +808,14 @@
   {
     "sentence_id": "HCH_007_051_000061",
     "sentence": "安重誨奏請誅之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_051_000062",
@@ -885,6 +948,12 @@
         "end": 27
       },
       {
+        "text": "趙上交",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
         "text": "丞相",
         "label": "TITLE",
         "start": 33,
@@ -895,7 +964,20 @@
   {
     "sentence_id": "HCH_007_051_000075",
     "sentence": "李式、翟光鄴為樞密使，王景崇為宣徽使，餘官各有署置。",
-    "entities": []
+    "entities": [
+      {
+        "text": "翟光鄴",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "王景崇",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_051_000076",
@@ -910,7 +992,14 @@
   {
     "sentence_id": "HCH_007_051_000078",
     "sentence": "及漢高祖將離太原，從益召高行周、武行德欲拒漢高祖，行周等不從，且奏其事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_051_000079",
@@ -932,6 +1021,12 @@
         "label": "LOC",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "郭從義",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },

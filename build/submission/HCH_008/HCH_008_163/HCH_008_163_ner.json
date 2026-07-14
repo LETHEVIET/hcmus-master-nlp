@@ -2,7 +2,38 @@
   {
     "sentence_id": "HCH_008_163_000001",
     "sentence": "孟簡　胡證　崔元略 子:鉉　孫:沆　弟:元受　元式　元儒　從子:鍇 杜元穎　崔弘禮　李虞仲　王質　盧簡辭 兄:簡能　弟:弘正　簡求　子:貽殷　玄禧　從子:知猷　虔灌　嗣業　汝弼",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔元略",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "杜元穎",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "text": "崔弘禮",
+        "label": "PER",
+        "start": 38,
+        "end": 41
+      },
+      {
+        "text": "李虞仲",
+        "label": "PER",
+        "start": 42,
+        "end": 45
+      },
+      {
+        "text": "盧簡辭",
+        "label": "PER",
+        "start": 49,
+        "end": 52
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000002",
@@ -51,6 +82,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -93,6 +130,12 @@
         "end": 2
       },
       {
+        "text": "劉伯芻",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 14,
@@ -109,7 +152,14 @@
   {
     "sentence_id": "HCH_008_163_000012",
     "sentence": "王承宗叛，詔以吐突承璀為招討使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000013",
@@ -226,6 +276,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "崔元略",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "御史",
@@ -560,6 +616,12 @@
     "sentence": "田弘正以魏博內屬，請除副貳，乃兼御史中丞，充魏博節度副使，仍兼左庶子。",
     "entities": [
       {
+        "text": "田弘正",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 16,
@@ -838,7 +900,14 @@
   {
     "sentence_id": "HCH_008_163_000068",
     "sentence": "軍人執溵入左軍，仇士良命斬之以徇。",
-    "entities": []
+    "entities": [
+      {
+        "text": "仇士良",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000069",
@@ -853,12 +922,26 @@
   {
     "sentence_id": "HCH_008_163_000071",
     "sentence": "崔元略",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔元略",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000072",
     "sentence": "崔元略，博陵人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔元略",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000073",
@@ -933,6 +1016,12 @@
         "label": "TME",
         "start": 2,
         "end": 5
+      },
+      {
+        "text": "李夷簡",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "御史",
@@ -1087,6 +1176,12 @@
     "sentence": "有詔刑部郎中趙元亮、大理正元從質、侍御史溫造充三司覆理。",
     "entities": [
       {
+        "text": "趙元亮",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 18,
@@ -1137,7 +1232,14 @@
   {
     "sentence_id": "HCH_008_163_000100",
     "sentence": "時諫官有疏，指言內常侍崔潭峻方有權寵，元略以諸父事之，故雖被彈劾，而遽遷顯要。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔潭峻",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000101",
@@ -1166,7 +1268,14 @@
   {
     "sentence_id": "HCH_008_163_000103",
     "sentence": "敕云：「元略不能檢下，有涉慢官，罰一月俸料。」時劉棲楚自為京兆尹，有覬覦相位之意。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉棲楚",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000104",
@@ -1302,6 +1411,12 @@
     "sentence_id": "HCH_008_163_000118",
     "sentence": "為同列李德裕所嫉，罷相，為陜虢觀察使、檢校刑部尚書。",
     "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -1692,12 +1807,26 @@
   {
     "sentence_id": "HCH_008_163_000156",
     "sentence": "杜元穎",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜元穎",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000157",
     "sentence": "杜元穎，萊公如晦裔孫也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜元穎",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000158",
@@ -1729,7 +1858,14 @@
   {
     "sentence_id": "HCH_008_163_000162",
     "sentence": "吳元濟平，以書詔之勤，賜緋魚袋。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳元濟",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000163",
@@ -1921,6 +2057,12 @@
     "sentence": "蠻首領泬顛遣人上表曰：「蠻軍比修職貢，遽敢侵邊？但杜元穎不恤三軍，令入蠻疆作賊；移文報彼，都不見信。故蜀部軍人，繼為鄉導，蓋蜀人怨苦之深，祈我此行，誅虐帥也。誅之不遂，無以慰蜀士之心，願陛下誅之。」監軍小使張士謙至，備言元穎之咎。",
     "entities": [
       {
+        "text": "杜元穎",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
         "text": "繼為鄉",
         "label": "LOC",
         "start": 56,
@@ -2026,12 +2168,26 @@
   {
     "sentence_id": "HCH_008_163_000186",
     "sentence": "崔弘禮",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔弘禮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000187",
     "sentence": "崔弘禮，字從周，博陵人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔弘禮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000188",
@@ -2082,12 +2238,38 @@
   {
     "sentence_id": "HCH_008_163_000193",
     "sentence": "元和中，呂元膺為東都留守，以弘禮為從事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "呂元膺",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000194",
     "sentence": "時淮西吳少陽初死，吳元濟阻兵拒命，山東反側之徒，為之影援；東結李師道，謀襲東洛，以脅朝廷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳少陽",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "吳元濟",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "李師道",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000195",
@@ -2123,6 +2305,12 @@
     "sentence": "會田弘正請入覲，請副使，乃授弘禮衛州刺史，充魏博節度副使，歷鄭州刺史。",
     "entities": [
       {
+        "text": "田弘正",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "乃授弘禮衛州",
         "label": "LOC",
         "start": 12,
@@ -2157,12 +2345,6 @@
         "label": "TME",
         "start": 7,
         "end": 9
-      },
-      {
-        "text": "張弘靖移鎮",
-        "label": "LOC",
-        "start": 15,
-        "end": 20
       },
       {
         "text": "充幽州",
@@ -2263,6 +2445,12 @@
     "sentence": "會天平軍節度使烏重胤卒，朝廷難其人，復以弘禮為天平軍節度使，仍詔即日乘遞赴鎮。",
     "entities": [
       {
+        "text": "烏重胤",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "詔即日乘遞赴鎮",
         "label": "LOC",
         "start": 31,
@@ -2329,12 +2517,25 @@
   {
     "sentence_id": "HCH_008_163_000214",
     "sentence": "李虞仲",
-    "entities": []
+    "entities": [
+      {
+        "text": "李虞仲",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000215",
     "sentence": "李虞仲，字見之，趙郡人。",
     "entities": [
+      {
+        "text": "李虞仲",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "趙郡",
         "label": "LOC",
@@ -2683,7 +2884,20 @@
   {
     "sentence_id": "HCH_008_163_000250",
     "sentence": "太和中，王守澄構陷宰相宋申錫。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王守澄",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "宋申錫",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000251",
@@ -2693,7 +2907,14 @@
   {
     "sentence_id": "HCH_008_163_000252",
     "sentence": "質與常侍崔玄亮雨泣切諫，請付外推，申錫方從輕典。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔玄亮",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000253",
@@ -2716,7 +2937,14 @@
   {
     "sentence_id": "HCH_008_163_000254",
     "sentence": "質射策時，深為李吉甫所器；及德裕為相，甚禮之，事必咨決。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000255",
@@ -2796,6 +3024,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "裴夷直",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -2812,12 +3046,26 @@
   {
     "sentence_id": "HCH_008_163_000264",
     "sentence": "盧簡辭",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧簡辭",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000265",
     "sentence": "盧簡辭，字子策，范陽人，後徙家於蒲。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧簡辭",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000266",
@@ -2833,6 +3081,12 @@
         "label": "LOC",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "吉中孚",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -2891,6 +3145,12 @@
         "end": 2
       },
       {
+        "text": "吉中孚",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 15,
@@ -2906,7 +3166,14 @@
   {
     "sentence_id": "HCH_008_163_000276",
     "sentence": "太府卿韋渠牟得幸於德宗，綸即渠牟之甥也，數稱綸之才。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋渠牟",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000277",
@@ -2952,6 +3219,12 @@
         "end": 103
       },
       {
+        "text": "夏侯審",
+        "label": "PER",
+        "start": 128,
+        "end": 131
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 143,
@@ -2968,6 +3241,12 @@
         "label": "TITLE",
         "start": 17,
         "end": 22
+      },
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       },
       {
         "text": "御史",
@@ -3027,6 +3306,12 @@
     "sentence_id": "HCH_008_163_000287",
     "sentence": "簡辭曰：「幹坐魚朝恩黨誅，田產籍沒。大歷已來，多少赦令，豈有雪朝恩、黎幹節文？況其田產分給百姓，將及百年，而煟恃中助而冒論耶！」乃移汝州刺史裴通，準大歷元年敕給百姓。",
     "entities": [
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "百年",
         "label": "TME",
@@ -3262,6 +3547,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "宇文鼎",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -3304,6 +3595,18 @@
     "sentence": "俄而何弘敬、王元逵得邢、洺、磁三郡。",
     "entities": [
       {
+        "text": "何弘敬",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "王元逵",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "磁三郡",
         "label": "LOC",
         "start": 14,
@@ -3320,6 +3623,18 @@
         "label": "LOC",
         "start": 7,
         "end": 11
+      },
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 56,
+        "end": 59
+      },
+      {
+        "text": "盧弘正",
+        "label": "PER",
+        "start": 65,
+        "end": 68
       }
     ]
   },
@@ -3380,7 +3695,14 @@
   {
     "sentence_id": "HCH_008_163_000316",
     "sentence": "弘正令判官司空輿至池務檢察，特立新法，仍奏輿為兩池使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "司空輿",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000317",
@@ -3490,6 +3812,12 @@
         "label": "TME",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "王仲舒",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -3541,14 +3869,7 @@
   {
     "sentence_id": "HCH_008_163_000330",
     "sentence": "牛僧孺鎮襄漢，辟為觀察判官。",
-    "entities": [
-      {
-        "text": "牛僧孺鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 4
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_163_000331",
@@ -3558,7 +3879,14 @@
   {
     "sentence_id": "HCH_008_163_000332",
     "sentence": "會昌末，討劉稹，詔以許帥李彥佐為招討使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李彥佐",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000333",
@@ -4116,6 +4444,12 @@
     "sentence": "遇潞府為太原所攻，節度使丁會歸降，從會至太原，李克用奏為節度副使，累奏戶部侍郎。",
     "entities": [
       {
+        "text": "李克用",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 37,
@@ -4198,7 +4532,14 @@
   {
     "sentence_id": "HCH_008_163_000397",
     "sentence": "以端、綸之才，任不逾元士，而盧簡辭之昆仲，雲摶水擊，郁為鼎門，非德積慶鐘，安能及此？",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧簡辭",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_163_000398",

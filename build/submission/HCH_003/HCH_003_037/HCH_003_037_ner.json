@@ -2,7 +2,44 @@
   {
     "sentence_id": "HCH_003_037_000001",
     "sentence": "韓茂 皮豹子 封敕文 呂羅漢 孔伯恭 田益宗 孟表 奚康生 楊大眼 崔延伯 李叔仁",
-    "entities": []
+    "entities": [
+      {
+        "text": "呂羅漢",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "孔伯恭",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "田益宗",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "奚康生",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "text": "崔延伯",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "text": "李叔仁",
+        "label": "PER",
+        "start": 38,
+        "end": 41
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_037_000002",
@@ -12,7 +49,44 @@
   {
     "sentence_id": "HCH_003_037_000003",
     "sentence": "韓茂皮豹子封敕文呂羅漢孔伯恭田益宗孟表奚康生楊大眼崔延伯李叔仁",
-    "entities": []
+    "entities": [
+      {
+        "text": "呂羅漢",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "孔伯恭",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "田益宗",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "奚康生",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "崔延伯",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
+      {
+        "text": "李叔仁",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_037_000004",
@@ -482,6 +556,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "裴方明",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -709,6 +789,12 @@
         "end": 4
       },
       {
+        "text": "蕭道成",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "漢",
         "label": "ORG",
         "start": 12,
@@ -835,6 +921,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "長孫觀",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -911,6 +1003,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "楊文度",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -1246,6 +1344,12 @@
     "sentence": "呂羅漢，本東平壽張人也，其先石勒時徙居幽州。",
     "entities": [
       {
+        "text": "呂羅漢",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "石勒時徙居幽州",
         "label": "LOC",
         "start": 14,
@@ -1267,6 +1371,12 @@
     "sentence_id": "HCH_003_037_000129",
     "sentence": "慕容垂以為河間太守。",
     "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "太守",
         "label": "TITLE",
@@ -1476,7 +1586,14 @@
   {
     "sentence_id": "HCH_003_037_000151",
     "sentence": "羅漢帥步騎隨長孫觀，掩擊氐、羌大破之，賊眾退散。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫觀",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_037_000152",
@@ -1552,6 +1669,12 @@
     "sentence": "孔伯恭，魏郡鄴人也。",
     "entities": [
       {
+        "text": "孔伯恭",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "魏郡",
         "label": "LOC",
         "start": 4,
@@ -1609,13 +1732,26 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "薛安都",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
   {
     "sentence_id": "HCH_003_037_000168",
     "sentence": "宋遣將張永、沈攸之等擊安都。",
-    "entities": []
+    "entities": [
+      {
+        "text": "沈攸之",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_037_000169",
@@ -1689,6 +1825,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "陳顯達",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1817,6 +1959,12 @@
     "sentence_id": "HCH_003_037_000186",
     "sentence": "田益宗，光城蠻也。",
     "entities": [
+      {
+        "text": "田益宗",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "光城",
         "label": "LOC",
@@ -1976,6 +2124,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "黃天賜",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "黃公賞屯於漴城",
@@ -2370,6 +2524,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2481,7 +2641,14 @@
   {
     "sentence_id": "HCH_003_037_000234",
     "sentence": "奚康生，河南陽翟人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "奚康生",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_037_000235",
@@ -2624,7 +2791,14 @@
   {
     "sentence_id": "HCH_003_037_000253",
     "sentence": "齊將裴叔業率眾圍渦陽，欲解義陽之急，詔遣高聰、元衍等援之，並敗退。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_037_000254",
@@ -3198,6 +3372,18 @@
     "sentence": "宣武初，裴叔業以壽春內附，大眼與奚康生等率眾先入，以功封安成縣子。",
     "entities": [
       {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "奚康生",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
         "text": "以功封安成縣",
         "label": "LOC",
         "start": 25,
@@ -3264,7 +3450,14 @@
   {
     "sentence_id": "HCH_003_037_000327",
     "sentence": "梁武遣其將張惠紹總率眾軍，竊據宿豫。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張惠紹",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_037_000328",
@@ -3366,7 +3559,14 @@
   {
     "sentence_id": "HCH_003_037_000338",
     "sentence": "後與蕭寶夤俱征淮堰，不能克，遂於堰上流鑿渠決水而還。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_037_000339",
@@ -3586,7 +3786,14 @@
   {
     "sentence_id": "HCH_003_037_000366",
     "sentence": "崔延伯，博陵人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔延伯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_037_000367",
@@ -3876,7 +4083,14 @@
   {
     "sentence_id": "HCH_003_037_000389",
     "sentence": "行台蕭寶夤與延伯結壘馬嵬，南北相去百餘步。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_037_000390",
@@ -3987,7 +4201,14 @@
   {
     "sentence_id": "HCH_003_037_000407",
     "sentence": "延伯既破秦賊，乃與寶夤率眾會于安定。",
-    "entities": []
+    "entities": [
+      {
+        "text": "于安定",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_037_000408",
@@ -4179,7 +4400,14 @@
   {
     "sentence_id": "HCH_003_037_000432",
     "sentence": "李叔仁，隴西人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李叔仁",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_037_000433",
@@ -4220,6 +4448,12 @@
         "label": "TITLE",
         "start": 22,
         "end": 24
+      },
+      {
+        "text": "薛真度",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -4401,7 +4635,20 @@
   {
     "sentence_id": "HCH_003_037_000447",
     "sentence": "論曰：韓茂、皮豹子、封敕文、呂羅漢、孔伯恭之為將也，皆以沈勇篤實，仁厚扶眾，功成事立，不徒然矣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "呂羅漢",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "孔伯恭",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_037_000448",
@@ -4411,7 +4658,14 @@
   {
     "sentence_id": "HCH_003_037_000449",
     "sentence": "田益宗蠻夷荒帥，翻然效款，終於懷金曳紫，不其美歟。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田益宗",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_037_000450",
@@ -4431,7 +4685,14 @@
   {
     "sentence_id": "HCH_003_037_000453",
     "sentence": "奚康生等俱以熊虎之姿，奮征伐之氣，亦一時之驍猛，壯士之功名乎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "奚康生",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_037_000454",

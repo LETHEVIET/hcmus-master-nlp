@@ -2,12 +2,26 @@
   {
     "sentence_id": "HCH_008_080_000001",
     "sentence": "褚遂良",
-    "entities": []
+    "entities": [
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_080_000002",
     "sentence": "褚遂良，散騎常侍亮之子也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_080_000003",
@@ -46,7 +60,20 @@
   {
     "sentence_id": "HCH_008_080_000007",
     "sentence": "太宗嘗謂侍中魏徵曰：「虞世南死後，無人可以論書。」徵曰：「褚遂良下筆遒勁，甚得王逸少體。」太宗即日召令侍書。",
-    "entities": []
+    "entities": [
+      {
+        "text": "虞世南",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_080_000008",
@@ -121,6 +148,12 @@
         "label": "TITLE",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       },
       {
         "text": "《傳》",
@@ -241,6 +274,18 @@
         "label": "TITLE",
         "start": 143,
         "end": 145
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 228,
+        "end": 232
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 233,
+        "end": 236
       },
       {
         "text": "太子",
@@ -496,7 +541,14 @@
   {
     "sentence_id": "HCH_008_080_000057",
     "sentence": "昔侯君集、李靖，所謂庸夫，猶能掃萬里之高昌，平千載之突厥，皆是陛下發蹤指示，聲歸聖明。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_080_000058",
@@ -949,6 +1001,12 @@
         "end": 4
       },
       {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 14,
+        "end": 18
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 60,
@@ -1057,6 +1115,12 @@
         "end": 2
       },
       {
+        "text": "張行成",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 8,
@@ -1085,6 +1149,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 24,
+        "end": 28
       },
       {
         "text": "尚書",
@@ -1133,6 +1203,12 @@
     "sentence_id": "HCH_008_080_000121",
     "sentence": "長孫無忌曰：「遂良受先朝顧命，有罪不加刑。」翌日，帝謂李勣曰：「冊立武昭儀之事，遂良固執不從。遂良既是受顧命大臣，事若不可，當且止也。」勣對曰：「此乃陛下家事，不合問外人。」帝乃立昭儀為皇后，左遷遂良潭州都督。",
     "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
       {
         "text": "皇后",
         "label": "TITLE",
@@ -1192,6 +1268,24 @@
     "sentence_id": "HCH_008_080_000125",
     "sentence": "遂良卒後二歲餘，許敬宗、李義府奏言長孫無忌所構逆謀，並遂良搧動，乃追削官爵，子孫配流愛州。",
     "entities": [
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 17,
+        "end": 21
+      },
       {
         "text": "子孫配流愛州",
         "label": "LOC",
@@ -1433,6 +1527,12 @@
         "end": 4
       },
       {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "以忤旨左授潭州",
         "label": "LOC",
         "start": 10,
@@ -1448,14 +1548,7 @@
   {
     "sentence_id": "HCH_008_080_000146",
     "sentence": "伏見詔書以褚遂良為潭州都督，臣夙夜思之，用增感激。",
-    "entities": [
-      {
-        "text": "以褚遂良為潭州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_080_000147",
@@ -1563,10 +1656,28 @@
         "end": 4
       },
       {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "皇后",
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       },
       {
         "text": "以桂州",
@@ -1633,7 +1744,14 @@
   {
     "sentence_id": "HCH_008_080_000169",
     "sentence": "明年，長孫無忌死，敬宗等又奏瑗與無忌通謀，遣使殺之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_080_000170",
@@ -1678,7 +1796,14 @@
   {
     "sentence_id": "HCH_008_080_000174",
     "sentence": "宇文化及之難，闔門遇害。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文化及",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_080_000175",
@@ -1729,6 +1854,12 @@
     "sentence_id": "HCH_008_080_000180",
     "sentence": "尋遷中書舍人，與令狐德棻等撰《晉書》。",
     "entities": [
+      {
+        "text": "令狐德棻",
+        "label": "PER",
+        "start": 8,
+        "end": 12
+      },
       {
         "text": "《晉書》",
         "label": "TITLE",
@@ -1862,6 +1993,18 @@
     "sentence": "尋而許敬宗等奏濟與褚遂良朋黨構扇，左授台州刺史。",
     "entities": [
       {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "左授台州",
         "label": "LOC",
         "start": 17,
@@ -1971,12 +2114,25 @@
   {
     "sentence_id": "HCH_008_080_000196",
     "sentence": "上官儀",
-    "entities": []
+    "entities": [
+      {
+        "text": "上官儀",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_080_000197",
     "sentence": "上官儀，本陝州陝人也。",
     "entities": [
+      {
+        "text": "上官儀",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "本陝州",
         "label": "LOC",
@@ -2104,6 +2260,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },

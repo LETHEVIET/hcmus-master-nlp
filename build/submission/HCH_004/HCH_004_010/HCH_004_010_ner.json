@@ -999,6 +999,12 @@
         "label": "LOC",
         "start": 14,
         "end": 18
+      },
+      {
+        "text": "裴之橫",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -1640,7 +1646,14 @@
   {
     "sentence_id": "HCH_004_010_000168",
     "sentence": "其妃父護軍長史張晏之嘗要道拜湜，湜不禮焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張晏之",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_010_000169",

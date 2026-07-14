@@ -161,12 +161,6 @@
     "sentence": "八月，德倫、張歸厚棄城遁去，我復取潞州。",
     "entities": [
       {
-        "text": "張歸厚棄城",
-        "label": "LOC",
-        "start": 6,
-        "end": 11
-      },
-      {
         "text": "我復取潞州",
         "label": "LOC",
         "start": 14,
@@ -189,6 +183,12 @@
         "label": "LOC",
         "start": 6,
         "end": 11
+      },
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -490,6 +490,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -823,7 +829,14 @@
   {
     "sentence_id": "HCH_007_052_000081",
     "sentence": "莊宗令李存渥馳騎追諭，兄弟俱忿，欲害存渥，存渥遁而獲免。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李存渥",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_052_000082",
@@ -946,6 +959,12 @@
     "sentence_id": "HCH_007_052_000096",
     "sentence": "李存渥深訶詆之，繼韜心不自安，復賂伶閹，求歸本鎮，莊宗不聽。",
     "entities": [
+      {
+        "text": "李存渥",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "求歸本鎮",
         "label": "LOC",
@@ -1154,6 +1173,12 @@
     "sentence": "莊宗知其忠懇，謂諸將曰：「朕於繼韜何薄，於裴約何厚？裴約能分逆順，不附賊黨，先兄一何不幸，生此鴟梟！」乃顧李紹斌曰：「爾識機便，為我取裴約來，朕不藉澤州彈丸之地。」即遣紹斌率五千騎以赴之。",
     "entities": [
       {
+        "text": "李紹斌",
+        "label": "PER",
+        "start": 53,
+        "end": 56
+      },
+      {
         "text": "朕不藉澤州",
         "label": "LOC",
         "start": 71,
@@ -1324,6 +1349,12 @@
         "end": 2
       },
       {
+        "text": "盧文進",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      },
+      {
         "text": "武州",
         "label": "LOC",
         "start": 39,
@@ -1479,6 +1510,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "解汾州",

@@ -1300,12 +1300,26 @@
   {
     "sentence_id": "HCH_005_079a_000156",
     "sentence": "歐陽歙",
-    "entities": []
+    "entities": [
+      {
+        "text": "歐陽歙",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_079a_000157",
     "sentence": "歐陽歙字正思，乐安千乘人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "歐陽歙",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_079a_000158",
@@ -1429,6 +1443,12 @@
     "sentence_id": "HCH_005_079a_000172",
     "sentence": "曰：“伏見臣师大司徒歐陽歙，學爲儒宗，八世博士，而以臧咎当伏重辜。",
     "entities": [
+      {
+        "text": "歐陽歙",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "博士",
         "label": "TITLE",

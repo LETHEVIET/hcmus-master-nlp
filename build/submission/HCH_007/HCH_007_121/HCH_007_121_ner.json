@@ -135,6 +135,12 @@
     "sentence": "安重誨保庇妃家，致其仕進，父母即以妃嫁於鄉人石光輔，不數年嫠居。",
     "entities": [
       {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "母即以妃嫁於鄉",
         "label": "LOC",
         "start": 14,
@@ -301,6 +307,12 @@
         "label": "LOC",
         "start": 13,
         "end": 16
+      },
+      {
+        "text": "符存審",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -637,7 +649,14 @@
   {
     "sentence_id": "HCH_007_121_000065",
     "sentence": "後初適李守貞之子崇訓。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_121_000066",
@@ -722,6 +741,12 @@
         "label": "TITLE",
         "start": 41,
         "end": 43
+      },
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 78,
+        "end": 81
       },
       {
         "text": "皇后",

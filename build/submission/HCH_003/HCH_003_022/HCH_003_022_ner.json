@@ -2,7 +2,20 @@
   {
     "sentence_id": "HCH_003_022_000001",
     "sentence": "長孫嵩 長孫道生 長孫肥",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "長孫道生",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_022_000002",
@@ -12,12 +25,26 @@
   {
     "sentence_id": "HCH_003_022_000003",
     "sentence": "長孫嵩",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_022_000004",
     "sentence": "長孫嵩，代人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_022_000005",
@@ -37,7 +64,14 @@
   {
     "sentence_id": "HCH_003_022_000008",
     "sentence": "昭成末年，諸部乖亂，苻堅使劉庫仁攝國事，嵩與元他等率部眾歸之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉庫仁",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_022_000009",
@@ -534,12 +568,25 @@
   {
     "sentence_id": "HCH_003_022_000072",
     "sentence": "及賀拔岳被害，周文赴平涼，凡有經綸謀策，儉皆參預。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_022_000073",
     "sentence": "從平侯莫陳悅，留儉為秦州長史、防城大都督，委以後事，別封信都縣伯。",
     "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      },
       {
         "text": "留儉為秦州",
         "label": "LOC",
@@ -1201,7 +1248,14 @@
   {
     "sentence_id": "HCH_003_022_000134",
     "sentence": "時武帝逼于宇文護，與衛王謀誅之，王常使平通意於帝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_022_000135",
@@ -1502,12 +1556,26 @@
   {
     "sentence_id": "HCH_003_022_000165",
     "sentence": "長孫道生",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫道生",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_022_000166",
     "sentence": "長孫道生，嵩從子也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫道生",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_022_000167",
@@ -1566,7 +1634,14 @@
   {
     "sentence_id": "HCH_003_022_000174",
     "sentence": "昌弟定走保平涼，宋遣將到彥之、王仲德寇河南以救定。",
-    "entities": []
+    "entities": [
+      {
+        "text": "到彥之",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_022_000175",
@@ -1577,6 +1652,12 @@
     "sentence_id": "HCH_003_022_000176",
     "sentence": "遂誘宋將檀道濟，邀其前後，追至曆城而還。",
     "entities": [
+      {
+        "text": "檀道濟",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "追至曆城",
         "label": "LOC",
@@ -1859,6 +1940,12 @@
         "label": "LOC",
         "start": 25,
         "end": 27
+      },
+      {
+        "text": "酈道元",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -1960,6 +2047,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -2101,7 +2194,14 @@
   {
     "sentence_id": "HCH_003_022_000230",
     "sentence": "及韓陵之敗，斛斯椿先據河橋，謀誅爾硃。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_022_000231",
@@ -4239,7 +4339,14 @@
   {
     "sentence_id": "HCH_003_022_000469",
     "sentence": "及誅宇文護，以功進封薛國公，累遷小司空。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_022_000470",
@@ -4405,7 +4512,14 @@
   {
     "sentence_id": "HCH_003_022_000484",
     "sentence": "澄字士亮，年十歲，司徒李琰之見而奇之，遂以女妻焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李琰之",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_022_000485",
@@ -4901,7 +5015,14 @@
   {
     "sentence_id": "HCH_003_022_000547",
     "sentence": "長孫嵩寬厚沈毅，任重王室，曆事累世，邈為元老。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_022_000548",

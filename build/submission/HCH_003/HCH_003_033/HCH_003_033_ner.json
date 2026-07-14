@@ -2,7 +2,20 @@
   {
     "sentence_id": "HCH_003_033_000001",
     "sentence": "李靈 曾孫:元忠　渾弟子:璨　璨曾孫:德饒　公緒 李順 玄孫:元操 李孝伯 兄孫:謐　謐弟子:士謙 李裔 子:子雄 李義深 弟:幼廉",
-    "entities": []
+    "entities": [
+      {
+        "text": "李孝伯",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "text": "李義深",
+        "label": "PER",
+        "start": 58,
+        "end": 61
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_033_000002",
@@ -12,14 +25,7 @@
   {
     "sentence_id": "HCH_003_033_000003",
     "sentence": "李靈，字武符，趙郡平棘人也。",
-    "entities": [
-      {
-        "text": "趙郡",
-        "label": "LOC",
-        "start": 7,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_033_000004",
@@ -292,7 +298,14 @@
   {
     "sentence_id": "HCH_003_033_000030",
     "sentence": "元忠唯受一匹，殺五牛以食之，遣奴爲導，曰：「若逢賊，但道李元忠遣。」如言，賊皆舍避。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李元忠",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_033_000031",
@@ -1605,6 +1618,12 @@
         "end": 9
       },
       {
+        "text": "薛安都",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "詔鎮",
         "label": "LOC",
         "start": 17,
@@ -1621,6 +1640,12 @@
         "label": "TITLE",
         "start": 31,
         "end": 33
+      },
+      {
+        "text": "孔伯恭",
+        "label": "PER",
+        "start": 36,
+        "end": 39
       }
     ]
   },
@@ -1640,6 +1665,12 @@
     "sentence_id": "HCH_003_033_000183",
     "sentence": "宋將張永、沈攸之等先屯下磕，元令璨與中書郎高閭入彭城説安都，即與俱載赴軍。",
     "entities": [
+      {
+        "text": "沈攸之",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "書郎高閭入彭城",
         "label": "LOC",
@@ -2341,6 +2372,12 @@
     "sentence": "父系，慕容垂散騎侍郎、東武城令。",
     "entities": [
       {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 8,
@@ -2815,6 +2852,12 @@
         "end": 6
       },
       {
+        "text": "薛安都",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "司州",
         "label": "LOC",
         "start": 10,
@@ -2825,12 +2868,6 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
-      },
-      {
-        "text": "常珍奇等以彭城",
-        "label": "LOC",
-        "start": 14,
-        "end": 21
       }
     ]
   },
@@ -3666,6 +3703,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -3702,6 +3745,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -3754,6 +3803,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -4014,12 +4069,26 @@
   {
     "sentence_id": "HCH_003_033_000432",
     "sentence": "李孝伯",
-    "entities": []
+    "entities": [
+      {
+        "text": "李孝伯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_033_000433",
     "sentence": "李孝伯，高平公順從父弟也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李孝伯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_033_000434",
@@ -4386,7 +4455,14 @@
   {
     "sentence_id": "HCH_003_033_000472",
     "sentence": "李彪使江南，齊武帝謂曰：「北有李孝伯，于卿遠近？」其爲遠人所知若此。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李孝伯",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_033_000473",
@@ -4777,6 +4853,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -6053,7 +6135,14 @@
   {
     "sentence_id": "HCH_003_033_000665",
     "sentence": "後從達奚武與齊人戰於芒山，諸軍大破，子雄所領獨全。",
-    "entities": []
+    "entities": [
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_033_000666",
@@ -6076,6 +6165,12 @@
     "sentence_id": "HCH_003_033_000668",
     "sentence": "宣帝即位，行軍總管韋孝寬略定淮南，拜亳州刺史。",
     "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
       {
         "text": "拜亳州",
         "label": "LOC",
@@ -6629,7 +6724,14 @@
   {
     "sentence_id": "HCH_003_033_000718",
     "sentence": "煥有幹用，與酈道元俱爲李彪所知。",
-    "entities": []
+    "entities": [
+      {
+        "text": "酈道元",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_033_000719",
@@ -6652,6 +6754,12 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "任城王澄",
+        "label": "PER",
+        "start": 19,
+        "end": 23
       }
     ]
   },
@@ -6690,10 +6798,22 @@
         "end": 9
       },
       {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 28,
         "end": 30
+      },
+      {
+        "text": "奚康生",
+        "label": "PER",
+        "start": 36,
+        "end": 39
       },
       {
         "text": "仍行揚州",
@@ -6821,12 +6941,25 @@
   {
     "sentence_id": "HCH_003_033_000732",
     "sentence": "李義深",
-    "entities": []
+    "entities": [
+      {
+        "text": "李義深",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_033_000733",
     "sentence": "李義深，趙郡高邑人也。",
     "entities": [
+      {
+        "text": "李義深",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "趙郡高邑",
         "label": "LOC",
@@ -6863,6 +6996,12 @@
     "sentence_id": "HCH_003_033_000736",
     "sentence": "義深有當世才用，而心胸險峭，時人語曰：「劍戟森森李義深。」初以殷州別駕歸齊神武，再遷鴻臚少卿。",
     "entities": [
+      {
+        "text": "李義深",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
       {
         "text": "初以殷州",
         "label": "LOC",

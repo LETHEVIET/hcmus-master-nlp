@@ -73,7 +73,14 @@
   {
     "sentence_id": "HCH_007_034_000011",
     "sentence": "甲子，魏王繼岌殺樞密使郭崇韜於西川，夷其族。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_034_000012",
@@ -110,7 +117,14 @@
   {
     "sentence_id": "HCH_007_034_000017",
     "sentence": "存乂，郭崇韜之子婿也，故亦及於禍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_034_000018",
@@ -342,6 +356,12 @@
     "sentence": "乙未，宰臣豆盧革上言，請支州縣官實俸，以責課效。",
     "entities": [
       {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "請支州縣",
         "label": "LOC",
         "start": 11,
@@ -423,6 +443,12 @@
     "sentence": "洎郭崇韜伏誅，人未測其禍始，皆云：「崇韜已殺繼岌，自王西川，故盡誅郭氏。」先是，有密詔令史彥瓊殺朱友謙之子澶州刺史建徽。",
     "entities": [
       {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "令史",
         "label": "TITLE",
         "start": 43,
@@ -483,6 +509,12 @@
     "sentence": "軍士皇甫暉等因夜聚蒱博不勝，遂作亂，劫都將楊仁晸曰：「我輩十有餘年為國家效命，甲不離體，已至吞並天下，主上未垂恩澤，翻有猜嫌。防戍邊遠，經年離阻鄉國，及得代歸，去家咫尺，不令與家屬相見。今聞皇后弑逆，京邑已亂，將士各欲歸府寧親，請公同行。」仁晸曰：「汝等何謀之過耶！今英主在上，天下一家，從駕精兵不下百萬，西平巴、蜀，威振華夷，公等各有家族，何事如此！」軍人乃抽戈露刃環仁晸曰：「三軍怨怒，鹹欲謀反，苟不聽從，須至無禮。」仁晸曰：「吾非不知此，但丈夫舉事，須計萬全。」 軍人即斬仁晸。",
     "entities": [
       {
+        "text": "皇甫暉",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "經年離阻鄉",
         "label": "LOC",
         "start": 68,
@@ -506,6 +538,12 @@
     "sentence_id": "HCH_007_034_000048",
     "sentence": "裨將趙在禮聞軍亂，衣不及帶，將逾垣而遁，亂兵追及，白刃環之曰：「公能為帥否？否則頭隨刃落！」在禮懼，即曰：「吾能為之。」眾遂呼噪，中夜燔劫貝郡。",
     "entities": [
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "中夜燔劫貝郡",
         "label": "LOC",
@@ -576,10 +614,10 @@
     "sentence": "晡晚，趙在禮引諸軍據宮城，署皇甫暉等為都虞候、斬斫使，諸軍大掠。",
     "entities": [
       {
-        "text": "禮引諸軍據宮城",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
+        "text": "皇甫暉",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -630,7 +668,20 @@
   {
     "sentence_id": "HCH_007_034_000061",
     "sentence": "庚子，福建節度副使王延翰奏，節度使王審知委權知軍府事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王延翰",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "王審知",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_034_000062",
@@ -647,6 +698,12 @@
         "label": "LOC",
         "start": 5,
         "end": 12
+      },
+      {
+        "text": "李紹真",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -661,6 +718,12 @@
         "end": 21
       },
       {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
         "text": "登城",
         "label": "LOC",
         "start": 32,
@@ -671,7 +734,14 @@
   {
     "sentence_id": "HCH_007_034_000064",
     "sentence": "皇甫暉聚眾大詬，即壞詔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫暉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_034_000065",
@@ -841,7 +911,20 @@
   {
     "sentence_id": "HCH_007_034_000082",
     "sentence": "癸丑，湖南馬殷奏，福建節度使王審知疾甚，副使王延翰已權知軍府事，請降旄節。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王審知",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "王延翰",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_034_000083",
@@ -863,7 +946,20 @@
   {
     "sentence_id": "HCH_007_034_000085",
     "sentence": "甲辰，命蕃漢總管李嗣源統親軍赴鄴都，以討趙在禮。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_034_000086",
@@ -912,6 +1008,12 @@
         "end": 115
       },
       {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 129,
+        "end": 132
+      },
+      {
         "text": "何城",
         "label": "LOC",
         "start": 148,
@@ -922,6 +1024,18 @@
         "label": "LOC",
         "start": 180,
         "end": 182
+      },
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 205,
+        "end": 208
+      },
+      {
+        "text": "李紹榮",
+        "label": "PER",
+        "start": 319,
+        "end": 322
       }
     ]
   },
@@ -946,7 +1060,14 @@
   {
     "sentence_id": "HCH_007_034_000090",
     "sentence": "魏王繼岌傳送郭崇韜父子首函至闕下，詔張全義收瘞之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_034_000091",
@@ -977,6 +1098,12 @@
     "sentence": "三月丁未朔，李紹真奏，收復邢州，擒賊首趙太等二十一人，徇於鄴都城下，皆磔於軍門。",
     "entities": [
       {
+        "text": "李紹真",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "收復邢州",
         "label": "LOC",
         "start": 11,
@@ -994,12 +1121,6 @@
     "sentence_id": "HCH_007_034_000093",
     "sentence": "庚戌，李紹真自邢州赴鄴都城下。",
     "entities": [
-      {
-        "text": "李紹真自邢州",
-        "label": "LOC",
-        "start": 3,
-        "end": 9
-      },
       {
         "text": "赴鄴都城",
         "label": "LOC",
@@ -1023,13 +1144,26 @@
         "label": "TITLE",
         "start": 29,
         "end": 31
+      },
+      {
+        "text": "王延翰",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
   {
     "sentence_id": "HCH_007_034_000095",
     "sentence": "壬子，李嗣源領軍至鄴都，營於西南隅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_034_000096",
@@ -1053,10 +1187,10 @@
     "sentence": "遲明，亂軍擁嗣源及霍彥威入於鄴城，復為皇甫暉、趙進等所脅，嗣源以詭詞得出，夜分至魏縣。",
     "entities": [
       {
-        "text": "霍彥威入於鄴城",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
+        "text": "皇甫暉",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       },
       {
         "text": "夜分至魏縣",
@@ -1075,6 +1209,12 @@
         "label": "LOC",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       },
       {
         "text": "《明宗紀》",
@@ -1137,6 +1277,12 @@
     "sentence": "丙辰，荊南高季興上言，請割峽內夔、忠、萬等三州卻歸當道，依舊管係，又請雲安監。",
     "entities": [
       {
+        "text": "高季興",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "萬等三州",
         "label": "LOC",
         "start": 19,
@@ -1153,6 +1299,12 @@
         "label": "ORG",
         "start": 5,
         "end": 6
+      },
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "自收元管屬郡",
@@ -1216,7 +1368,14 @@
   {
     "sentence_id": "HCH_007_034_000111",
     "sentence": "壬戌，宰臣豆盧革率百官上表，以魏博軍變，請出內府金帛優給將士。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_034_000112",
@@ -1329,7 +1488,14 @@
   {
     "sentence_id": "HCH_007_034_000124",
     "sentence": "是時，李嗣源已入於汴。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_034_000125",
@@ -1475,7 +1641,14 @@
   {
     "sentence_id": "HCH_007_034_000141",
     "sentence": "丙子，樞密使李紹宏與宰相豆盧革、韋說會於中興殿之廊下，商議軍機，因奏：「魏王西征兵士將至，車駕且宜控汜水，以俟魏王。」從之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_034_000142",
@@ -1542,10 +1715,10 @@
         "end": 35
       },
       {
-        "text": "《東都事略·符彥卿傳》",
-        "label": "TITLE",
-        "start": 83,
-        "end": 94
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 51,
+        "end": 54
       }
     ]
   },

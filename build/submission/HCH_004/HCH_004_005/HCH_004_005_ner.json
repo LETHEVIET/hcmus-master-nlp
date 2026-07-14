@@ -276,6 +276,12 @@
         "end": 10
       },
       {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "丞相",
         "label": "TITLE",
         "start": 19,
@@ -435,6 +441,12 @@
         "label": "TITLE",
         "start": 30,
         "end": 33
+      },
+      {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 41,
+        "end": 44
       }
     ]
   },
@@ -605,7 +617,14 @@
   {
     "sentence_id": "HCH_004_005_000048",
     "sentence": "及承大位，楊愔、燕子獻、宋欽道等同輔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_005_000049",

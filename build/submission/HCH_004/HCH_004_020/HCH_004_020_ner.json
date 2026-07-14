@@ -2,7 +2,20 @@
   {
     "sentence_id": "HCH_004_020_000001",
     "sentence": "●張瓊　斛律羌舉　堯雄　宋顯　王則　慕容绍宗　薛脩義　叱列平　步大汗薩　慕容儼",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律羌舉",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      },
+      {
+        "text": "慕容儼",
+        "label": "PER",
+        "start": 36,
+        "end": 39
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_020_000002",
@@ -336,12 +349,26 @@
   {
     "sentence_id": "HCH_004_020_000027",
     "sentence": "斛律羌舉",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律羌舉",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_020_000028",
     "sentence": "斛律羌舉，太安人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律羌舉",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_020_000029",
@@ -543,7 +570,14 @@
   {
     "sentence_id": "HCH_004_020_000049",
     "sentence": "自趙彥深死，朝貴典機密者，唯孝卿一人差居雅道，不至貪穢。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_020_000050",
@@ -682,6 +716,12 @@
         "label": "TITLE",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -746,6 +786,12 @@
     "sentence_id": "HCH_004_020_000067",
     "sentence": "仍為都督，從叱列延討劉靈助，平之，拜鎮東將軍、燕州刺史，封城平縣伯，邑五百戶。",
     "entities": [
+      {
+        "text": "劉靈助",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "拜鎮",
         "label": "LOC",
@@ -1005,12 +1051,6 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
-      },
-      {
-        "text": "慶之復率衆逼州",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
       }
     ]
   },
@@ -1160,6 +1200,12 @@
         "label": "LOC",
         "start": 34,
         "end": 41
+      },
+      {
+        "text": "任延敬",
+        "label": "PER",
+        "start": 47,
+        "end": 50
       }
     ]
   },
@@ -1194,14 +1240,7 @@
   {
     "sentence_id": "HCH_004_020_000091",
     "sentence": "周文帝因延敬之敗，遣其右丞韋孝寬等攻豫州。",
-    "entities": [
-      {
-        "text": "韋孝寬等攻豫州",
-        "label": "LOC",
-        "start": 13,
-        "end": 20
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_004_020_000092",
@@ -1258,6 +1297,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -2145,6 +2190,12 @@
         "end": 12
       },
       {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "椿遂翻城",
         "label": "LOC",
         "start": 45,
@@ -2407,12 +2458,26 @@
   {
     "sentence_id": "HCH_004_020_000185",
     "sentence": "慕容紹宗",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_020_000186",
     "sentence": "慕容紹宗，慕容晃第四子太原王恪後也，曾祖騰，歸魏，遂居於代。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_020_000187",
@@ -2662,14 +2727,7 @@
   {
     "sentence_id": "HCH_004_020_000211",
     "sentence": "搴譖之於高祖，云：「慕容紹宗嘗登廣固城長嘆，謂其所親云 『大丈夫有復先業理不』。」由是徵還。",
-    "entities": [
-      {
-        "text": "紹宗嘗登廣固城",
-        "label": "LOC",
-        "start": 12,
-        "end": 19
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_004_020_000212",
@@ -2819,7 +2877,14 @@
   {
     "sentence_id": "HCH_004_020_000225",
     "sentence": "初，高祖末，命世宗云：「侯景若反，以慕容紹宗當之。」至是，竟立功效。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 18,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_020_000226",
@@ -3103,6 +3168,12 @@
         "label": "LOC",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "長孫稚",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -3172,7 +3243,14 @@
   {
     "sentence_id": "HCH_004_020_000261",
     "sentence": "鳳賢等猶據險屯結，長孫稚軍於弘農，珍孫軍靈橋，未能進。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫稚",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_020_000262",
@@ -3735,7 +3813,14 @@
   {
     "sentence_id": "HCH_004_020_000302",
     "sentence": "及賀拔岳拒命，令嘉族置騎河上，以禦大軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_020_000303",
@@ -3804,6 +3889,12 @@
     "sentence_id": "HCH_004_020_000309",
     "sentence": "後從慕容紹宗討侯景，以功別封膚施縣男。",
     "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      },
       {
         "text": "以功別封膚施縣",
         "label": "LOC",
@@ -4439,12 +4530,32 @@
   {
     "sentence_id": "HCH_004_020_000364",
     "sentence": "慕容儼",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容儼",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_020_000365",
     "sentence": "慕容儼，字恃德，清都成安人，慕容廆之後也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容儼",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "慕容廆",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_020_000366",
@@ -4518,7 +4629,14 @@
   {
     "sentence_id": "HCH_004_020_000372",
     "sentence": "又襲破王神念等軍，擒二百餘人，神念僅以身免。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王神念",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_020_000373",
@@ -4573,6 +4691,12 @@
         "label": "LOC",
         "start": 4,
         "end": 7
+      },
+      {
+        "text": "曹義宗",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -4609,7 +4733,14 @@
   {
     "sentence_id": "HCH_004_020_000380",
     "sentence": "又破梁將馬元達、蔡天起、柳白嘉等，累有功。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蔡天起",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_020_000381",
@@ -4627,6 +4758,12 @@
     "sentence_id": "HCH_004_020_000382",
     "sentence": "與梁將王玄真、董當門等戰，並破之，解穰城圍，克復南陽、新鄉。",
     "entities": [
+      {
+        "text": "董當門",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "解穰城",
         "label": "LOC",
@@ -4937,6 +5074,12 @@
         "end": 2
       },
       {
+        "text": "陸法和",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "率其部下以郢州",
         "label": "LOC",
         "start": 16,
@@ -5133,7 +5276,14 @@
   {
     "sentence_id": "HCH_004_020_000424",
     "sentence": "後蕭方智立，遣使請和。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭方智",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_020_000425",
@@ -5231,13 +5381,26 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "魯悉達",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
   {
     "sentence_id": "HCH_004_020_000434",
     "sentence": "又監蕭莊、王琳軍，與陳將侯瑱、侯安都戰於蕪湖，敗歸。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯安都",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_020_000435",
@@ -5714,7 +5877,14 @@
   {
     "sentence_id": "HCH_004_020_000483",
     "sentence": "慕容紹宗兵機武略，在世見推。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_020_000484",

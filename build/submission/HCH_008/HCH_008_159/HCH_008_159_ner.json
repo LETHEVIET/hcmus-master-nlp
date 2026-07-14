@@ -2,12 +2,26 @@
   {
     "sentence_id": "HCH_008_159_000001",
     "sentence": "衛次公",
-    "entities": []
+    "entities": [
+      {
+        "text": "衛次公",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000002",
     "sentence": "衛次公，字從周，河東人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "衛次公",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000003",
@@ -41,7 +55,14 @@
   {
     "sentence_id": "HCH_008_159_000006",
     "sentence": "次公善鼓琴，京兆尹李齊運使其子交歡，意欲次公授之琴。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李齊運",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000007",
@@ -116,7 +137,14 @@
   {
     "sentence_id": "HCH_008_159_000013",
     "sentence": "及順宗在諒闇，外有王叔文輩操權樹黨，無復經制。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000014",
@@ -194,7 +222,14 @@
   {
     "sentence_id": "HCH_008_159_000022",
     "sentence": "選人李勣、徐有功之孫，名在黜中，次公召而謂之曰：「子之祖先，勛在王府，豈限常格。」並優秩而遣之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐有功",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000023",
@@ -365,14 +400,7 @@
   {
     "sentence_id": "HCH_008_159_000039",
     "sentence": "張延賞鎮西川，辟為書記，入除補闕、起居郎，兼史職。",
-    "entities": [
-      {
-        "text": "張延賞鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 4
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_159_000040",
@@ -406,12 +434,26 @@
   {
     "sentence_id": "HCH_008_159_000043",
     "sentence": "絪與同列衛次公密申正論，中人不敢違。",
-    "entities": []
+    "entities": [
+      {
+        "text": "衛次公",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000044",
     "sentence": "及王伾、王叔文朋黨擅權之際，絪又能守道中立。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000045",
@@ -439,7 +481,14 @@
   {
     "sentence_id": "HCH_008_159_000047",
     "sentence": "憲宗初，勵精求理，絪與杜黃裳同當國柄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜黃裳",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000048",
@@ -713,12 +762,26 @@
   {
     "sentence_id": "HCH_008_159_000070",
     "sentence": "韋處厚",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋處厚",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000071",
     "sentence": "韋處厚，字德載，京兆人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋處厚",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000072",
@@ -810,6 +873,12 @@
     "sentence": "早為宰相韋貫之所重，時貫之以議兵不合旨出官，處厚坐友善，出為開州刺史。",
     "entities": [
       {
+        "text": "韋貫之",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "出為開州",
         "label": "LOC",
         "start": 28,
@@ -844,6 +913,12 @@
     "sentence_id": "HCH_008_159_000085",
     "sentence": "時張平叔以便佞詼諧，他門捷進，自京兆少尹為鴻臚卿、判度支，不數月，宣授戶部侍郎。",
     "entities": [
+      {
+        "text": "張平叔",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "侍郎",
         "label": "TITLE",
@@ -936,7 +1011,14 @@
   {
     "sentence_id": "HCH_008_159_000098",
     "sentence": "敬宗嗣位，李逢吉用事，素惡李紳，乃構成其罪，禍將不測。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000099",
@@ -1094,7 +1176,14 @@
   {
     "sentence_id": "HCH_008_159_000120",
     "sentence": "李逢吉以李紳之故，所撰赦文但雲左降官已經量移者與量移，不言未量移者，蓋欲紳不受恩例。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000121",
@@ -1193,12 +1282,6 @@
         "label": "ORG",
         "start": 3,
         "end": 4
-      },
-      {
-        "text": "罷諸州",
-        "label": "LOC",
-        "start": 15,
-        "end": 18
       }
     ]
   },
@@ -1220,14 +1303,7 @@
   {
     "sentence_id": "HCH_008_159_000136",
     "sentence": "及處厚秉政，復奏置六雄、十望、十緊、三十四州別駕以處之。",
-    "entities": [
-      {
-        "text": "三十四州",
-        "label": "LOC",
-        "start": 18,
-        "end": 22
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_159_000137",
@@ -1242,7 +1318,14 @@
   {
     "sentence_id": "HCH_008_159_000139",
     "sentence": "處厚常獨論奏曰：「陛下不以臣等不肖，用為宰相，參議大政。凡有奏請，初蒙聽納，尋易聖懷。若出自宸衷，即示臣等不信；若出於橫議，臣等何名鼎司？且裴度元勛宿德，歷輔四朝，孜孜竭誠，人望所屬，陛下固宜親重。竇易直良厚，忠事先朝，陛下固當委信。微臣才薄，首蒙陛下擢用，非出他門，言既不從，臣宜先退。」即趨下再拜陳乞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇易直",
+        "label": "PER",
+        "start": 99,
+        "end": 102
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000140",
@@ -1278,13 +1361,26 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "李同捷",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
   {
     "sentence_id": "HCH_008_159_000146",
     "sentence": "魏博史憲誠，中懷向背，裴度以宿舊自任，待憲誠於不疑。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史憲誠",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000147",
@@ -1318,7 +1414,14 @@
   {
     "sentence_id": "HCH_008_159_000150",
     "sentence": "李載義累破滄、鎮兩軍，兵士每有俘執，多遣刳剔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李載義",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000151",
@@ -1467,7 +1570,14 @@
   {
     "sentence_id": "HCH_008_159_000173",
     "sentence": "時魏博節度使田季安進絹五千匹，充助修開業寺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田季安",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000174",
@@ -1532,6 +1642,24 @@
         "end": 3
       },
       {
+        "text": "李師道",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "李師古",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "text": "李宗奭",
+        "label": "PER",
+        "start": 61,
+        "end": 64
+      },
+      {
         "text": "詔出於鄧州",
         "label": "LOC",
         "start": 155,
@@ -1547,7 +1675,14 @@
   {
     "sentence_id": "HCH_008_159_000181",
     "sentence": "又鹽鐵福建院官權長孺坐贓，詔付京兆府決殺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "權長孺",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000182",
@@ -1619,6 +1754,18 @@
         "end": 13
       },
       {
+        "text": "張九齡",
+        "label": "PER",
+        "start": 41,
+        "end": 44
+      },
+      {
+        "text": "楊國忠",
+        "label": "PER",
+        "start": 61,
+        "end": 64
+      },
+      {
         "text": "天寶十五年",
         "label": "TME",
         "start": 70,
@@ -1629,6 +1776,18 @@
         "label": "TME",
         "start": 92,
         "end": 97
+      },
+      {
+        "text": "張九齡",
+        "label": "PER",
+        "start": 100,
+        "end": 103
+      },
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 108,
+        "end": 111
       }
     ]
   },
@@ -1709,6 +1868,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "王智興",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "領徐州",
@@ -2136,7 +2301,14 @@
   {
     "sentence_id": "HCH_008_159_000243",
     "sentence": "韋夏卿為東都留守，聞而辟之，由是聲名日振。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋夏卿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000244",
@@ -2169,6 +2341,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "韋處厚",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -2190,7 +2368,14 @@
   {
     "sentence_id": "HCH_008_159_000251",
     "sentence": "與韋處厚同入翰林為侍講學士。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋處厚",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000252",
@@ -2242,6 +2427,12 @@
     "sentence_id": "HCH_008_159_000257",
     "sentence": "文宗即位，韋處厚入相，隨代為承旨，轉兵部侍郎、知制誥。",
     "entities": [
+      {
+        "text": "韋處厚",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "侍郎",
         "label": "TITLE",
@@ -2314,10 +2505,34 @@
     "sentence": "近見衛尉卿周居巢、諫議大夫王彥威、給事中李固言、史官蘇景胤等各上章疏，具陳刊改非甚便宜。",
     "entities": [
       {
+        "text": "周居巢",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "王彥威",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "李固言",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
+        "text": "蘇景胤",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -2557,14 +2772,7 @@
   {
     "sentence_id": "HCH_008_159_000296",
     "sentence": "會李德裕連貶至袁州長史，隨不署奏狀，始為鄭註所忌。",
-    "entities": [
-      {
-        "text": "德裕連貶至袁州",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_159_000297",
@@ -2648,7 +2856,20 @@
   {
     "sentence_id": "HCH_008_159_000305",
     "sentence": "史臣曰：衛次公、鄭絪、韋處厚、崔群、路隨等，皆以文學飾身，致位崇極。",
-    "entities": []
+    "entities": [
+      {
+        "text": "衛次公",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "韋處厚",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_159_000306",

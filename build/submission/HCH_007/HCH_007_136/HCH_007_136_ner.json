@@ -671,7 +671,14 @@
   {
     "sentence_id": "HCH_007_136_000051",
     "sentence": "或勸建因取鳳翔，建曰：「此言失策，吾所得已多，不俟復增岐下。茂貞雖常才，然名望宿素，與朱公力爭不足，守境有餘。韓生所謂入為扞蔽，出為席藉是也。適宜援而固之，為吾盾鹵耳。」及梁祖將謀強禪，建與諸藩同謀興復，乃令其將康晏率兵三萬會於鳳翔，數與汴將王重師戰，不利而還。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王重師",
+        "label": "PER",
+        "start": 121,
+        "end": 124
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_136_000052",
@@ -881,6 +888,12 @@
         "label": "ORG",
         "start": 15,
         "end": 16
+      },
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 33,
+        "end": 36
       }
     ]
   },
@@ -988,6 +1001,12 @@
         "end": 100
       },
       {
+        "text": "杜光庭",
+        "label": "PER",
+        "start": 324,
+        "end": 327
+      },
+      {
         "text": "長安",
         "label": "LOC",
         "start": 328,
@@ -1018,6 +1037,12 @@
         "end": 464
       },
       {
+        "text": "杜光庭",
+        "label": "PER",
+        "start": 464,
+        "end": 467
+      },
+      {
         "text": "蜀",
         "label": "ORG",
         "start": 550,
@@ -1046,12 +1071,25 @@
   {
     "sentence_id": "HCH_007_136_000085",
     "sentence": "孟知祥",
-    "entities": []
+    "entities": [
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_136_000086",
     "sentence": "孟知祥，字保裔，邢州龍岡人也。",
     "entities": [
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "邢州",
         "label": "LOC",
@@ -1092,7 +1130,14 @@
   {
     "sentence_id": "HCH_007_136_000090",
     "sentence": "天成中，安重誨專權用事，以知祥莊宗舊識，方據大藩，慮久而難制，潛欲圖之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_136_000091",
@@ -1221,12 +1266,6 @@
         "label": "TITLE",
         "start": 42,
         "end": 45
-      },
-      {
-        "text": "廷隱率軍圍遂州",
-        "label": "LOC",
-        "start": 50,
-        "end": 57
       }
     ]
   },
@@ -1287,12 +1326,6 @@
     "sentence_id": "HCH_007_136_000103",
     "sentence": "〈 （案：《孟知祥傳》，《永樂大典》原闕，今采《冊府元龜》僭偽部以存梗概。） 〉",
     "entities": [
-      {
-        "text": "《孟知祥傳》",
-        "label": "TITLE",
-        "start": 5,
-        "end": 11
-      },
       {
         "text": "《永樂大典》",
         "label": "TITLE",
@@ -1475,6 +1508,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 9
+      },
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "蜀",

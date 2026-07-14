@@ -32,7 +32,14 @@
   {
     "sentence_id": "HCH_007_041_000007",
     "sentence": "詔以宣徽南院使朱宏昭充。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱宏昭",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_041_000008",
@@ -82,7 +89,14 @@
   {
     "sentence_id": "HCH_007_041_000013",
     "sentence": "以天雄軍節度使石敬瑭為御營使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_041_000014",
@@ -258,6 +272,12 @@
     "sentence": "丙子，以宣徽使朱宏昭為鳳翔節度使；潞州節度使朱漢賓加檢校太傅，移鎮晉州；徐州節度使房知溫移鎮鄆州；鄆州節度使王晏球移鎮青州。",
     "entities": [
       {
+        "text": "朱宏昭",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "潞州",
         "label": "LOC",
         "start": 17,
@@ -292,12 +312,6 @@
         "label": "LOC",
         "start": 49,
         "end": 51
-      },
-      {
-        "text": "度使王晏球移鎮",
-        "label": "LOC",
-        "start": 52,
-        "end": 59
       },
       {
         "text": "青州",
@@ -366,12 +380,6 @@
         "end": 36
       },
       {
-        "text": "度使張虔釗移鎮",
-        "label": "LOC",
-        "start": 37,
-        "end": 44
-      },
-      {
         "text": "徐州",
         "label": "LOC",
         "start": 44,
@@ -400,12 +408,6 @@
     "sentence_id": "HCH_007_041_000038",
     "sentence": "丙戌，以侍衛親軍馬步軍都指揮使、河陽節度使康義誠為襄州節度使、檢校太傅；以左武衛上將軍劉彥琮為陝州節度使、檢校太保。",
     "entities": [
-      {
-        "text": "使康義誠為襄州",
-        "label": "LOC",
-        "start": 20,
-        "end": 27
-      },
       {
         "text": "將軍",
         "label": "TITLE",
@@ -493,7 +495,14 @@
   {
     "sentence_id": "HCH_007_041_000046",
     "sentence": "壬寅，以樞密使安重誨為留守、太尉、兼中書令，使如故。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_041_000047",
@@ -504,6 +513,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "王建立",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "移鎮潞州",
@@ -534,6 +549,12 @@
         "label": "LOC",
         "start": 78,
         "end": 84
+      },
+      {
+        "text": "藥彥稠",
+        "label": "PER",
+        "start": 104,
+        "end": 107
       },
       {
         "text": "仍授彥溫絳州",
@@ -569,6 +590,12 @@
         "label": "TITLE",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
@@ -592,7 +619,14 @@
   {
     "sentence_id": "HCH_007_041_000053",
     "sentence": "癸丑，索自通、藥彥稠等奏，收復河中，斬楊彥溫，傳首來獻。",
-    "entities": []
+    "entities": [
+      {
+        "text": "藥彥稠",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_041_000054",
@@ -609,7 +643,14 @@
   {
     "sentence_id": "HCH_007_041_000055",
     "sentence": "時議皆以為安重誨方弄國權，從榮諸王敬事不暇，獨忌從珂威名，每於帝前屢言其短，巧作窺圖，冀能傾陷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_041_000056",
@@ -929,6 +970,12 @@
         "end": 27
       },
       {
+        "text": "符彥超",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 41,
@@ -1023,6 +1070,12 @@
         "label": "LOC",
         "start": 15,
         "end": 18
+      },
+      {
+        "text": "王建立",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -1030,6 +1083,12 @@
     "sentence_id": "HCH_007_041_000092",
     "sentence": "建立素與安重誨不協，因其入朝，乃言建立自鎮歸朝過鄴都，日有扇搖之言，以是罪之，故令致仕。",
     "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "乃言建立自鎮",
         "label": "LOC",
@@ -1245,6 +1304,12 @@
         "end": 19
       },
       {
+        "text": "安從進",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
         "text": "澄州",
         "label": "LOC",
         "start": 49,
@@ -1255,6 +1320,12 @@
         "label": "TITLE",
         "start": 51,
         "end": 53
+      },
+      {
+        "text": "藥彥稠",
+        "label": "PER",
+        "start": 53,
+        "end": 56
       }
     ]
   },
@@ -1363,6 +1434,12 @@
         "end": 23
       },
       {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 34,
@@ -1448,6 +1525,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -1460,6 +1543,12 @@
         "label": "LOC",
         "start": 5,
         "end": 9
+      },
+      {
+        "text": "盧文進",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       },
       {
         "text": "將軍",
@@ -1489,7 +1578,14 @@
   {
     "sentence_id": "HCH_007_041_000124",
     "sentence": "乙未，捧聖軍使李行德、十將張儉、告密人邊彥溫並族誅，以其誣告安重誨私市兵仗故也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_041_000125",
@@ -1535,6 +1631,12 @@
     "sentence_id": "HCH_007_041_000129",
     "sentence": "都官員外郎、知制誥張昭遠奏：「請依國朝舊以例，選郎官、御史分行天下，宣問風俗，興利除害。」不報。",
     "entities": [
+      {
+        "text": "張昭遠",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -1648,6 +1750,12 @@
     "sentence_id": "HCH_007_041_000133",
     "sentence": "以前雄武軍節度使王思同為左武衛上將軍，以前鳳州節度使陳皋為右威衛上將軍。",
     "entities": [
+      {
+        "text": "王思同",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "將軍",
         "label": "TITLE",
@@ -1779,6 +1887,12 @@
         "label": "LOC",
         "start": 7,
         "end": 10
+      },
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -1827,6 +1941,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -1930,6 +2050,18 @@
     "sentence": "丁亥，以西川節度使孟知祥兼西南面供饋使，天雄軍節度使石敬瑭兼東川行營都招討使，以遂州節度使夏魯奇兼東川行營招討副使。",
     "entities": [
       {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      },
+      {
         "text": "以遂州",
         "label": "LOC",
         "start": 39,
@@ -1946,6 +2078,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "王思同",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1970,6 +2108,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "米君立",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2065,7 +2209,14 @@
   {
     "sentence_id": "HCH_007_041_000157",
     "sentence": "辛亥，以武安軍節度副使、洪鄂道行營副都統、檢校太尉馬希聲為武安軍節度使，加兼侍中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬希聲",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_041_000158",
@@ -2160,6 +2311,12 @@
         "label": "LOC",
         "start": 38,
         "end": 41
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 44,
+        "end": 47
       }
     ]
   },
@@ -2167,12 +2324,6 @@
     "sentence_id": "HCH_007_041_000167",
     "sentence": "壬申，黔南節度使楊漢章棄城奔忠州，為董璋所攻也。",
     "entities": [
-      {
-        "text": "度使楊漢章棄城",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
-      },
       {
         "text": "奔忠州",
         "label": "LOC",
@@ -2184,7 +2335,14 @@
   {
     "sentence_id": "HCH_007_041_000168",
     "sentence": "乙亥，製西川節度使孟知祥削奪官爵，以其同董璋叛也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_041_000169",
@@ -2195,6 +2353,12 @@
         "label": "LOC",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "羅周敬",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "將軍",
@@ -2337,12 +2501,6 @@
         "label": "LOC",
         "start": 3,
         "end": 7
-      },
-      {
-        "text": "使安元信為宋州",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
       }
     ]
   },
@@ -2359,7 +2517,14 @@
   {
     "sentence_id": "HCH_007_041_000180",
     "sentence": "庚戌，湖南節度使馬希聲起復，加兼中書令。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬希聲",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_041_000181",
@@ -2394,7 +2559,14 @@
   {
     "sentence_id": "HCH_007_041_000182",
     "sentence": "甲寅，遣樞密使安重誨赴西面軍前。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_041_000183",
@@ -2411,6 +2583,12 @@
         "label": "LOC",
         "start": 23,
         "end": 30
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 68,
+        "end": 71
       }
     ]
   },
@@ -2450,6 +2628,12 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },

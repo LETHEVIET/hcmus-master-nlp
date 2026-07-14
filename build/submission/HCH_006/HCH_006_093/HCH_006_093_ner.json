@@ -466,7 +466,14 @@
   {
     "sentence_id": "HCH_006_093_000065",
     "sentence": "衞青、霍去病皆愛幸，然亦以功能自進。",
-    "entities": []
+    "entities": [
+      {
+        "text": "霍去病",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_093_000066",
@@ -542,6 +549,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "大夫",
@@ -652,6 +665,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "馮奉世",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -728,6 +747,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -913,6 +938,12 @@
     "sentence_id": "HCH_006_093_000113",
     "sentence": "久之，趙飛燕貴幸，上欲立以爲皇后，太后以其所出微，難之。",
     "entities": [
+      {
+        "text": "趙飛燕",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "皇后",
         "label": "TITLE",

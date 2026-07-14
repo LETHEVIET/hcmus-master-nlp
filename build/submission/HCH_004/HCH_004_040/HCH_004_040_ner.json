@@ -2,7 +2,14 @@
   {
     "sentence_id": "HCH_004_040_000001",
     "sentence": "尉瑾　馮子琮　赫連子悅　唐邕　白建",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮子琮",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_040_000002",
@@ -81,6 +88,12 @@
     "sentence": "世祖踐祚，趙彥深本子如賓僚，元文遙、和士開並帝鄉故舊，共相薦達，任遇彌重。",
     "entities": [
       {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "和士開並帝鄉",
         "label": "LOC",
         "start": 18,
@@ -131,12 +144,26 @@
   {
     "sentence_id": "HCH_004_040_000020",
     "sentence": "馮子琮",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮子琮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_040_000021",
     "sentence": "馮子琮，信都人，北燕主馮跋之後也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮子琮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_040_000022",
@@ -184,6 +211,12 @@
     "sentence_id": "HCH_004_040_000029",
     "sentence": "又奉別詔，令共胡長粲輔遵太子，轉庶子。",
     "entities": [
+      {
+        "text": "胡長粲",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -590,6 +623,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },

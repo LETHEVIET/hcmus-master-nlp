@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_007_088_000001",
     "sentence": "景延廣",
-    "entities": []
+    "entities": [
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_088_000002",
     "sentence": "景延廣，字航川，陜州人也。",
     "entities": [
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "陜州",
         "label": "LOC",
@@ -40,6 +53,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -194,13 +213,26 @@
         "label": "ORG",
         "start": 46,
         "end": 47
+      },
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 64,
+        "end": 67
       }
     ]
   },
   {
     "sentence_id": "HCH_007_088_000022",
     "sentence": "初，高祖在位時，宣借楊光遠騎兵數百，延廣請下詔遣還，光遠由此忿延廣，怨朝廷，遣使泛海構釁。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_088_000023",
@@ -251,6 +283,18 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },
@@ -275,6 +319,12 @@
         "label": "LOC",
         "start": 9,
         "end": 13
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
@@ -291,7 +341,14 @@
   {
     "sentence_id": "HCH_007_088_000032",
     "sentence": "俄與宰臣桑維翰不協，少帝亦憚其難制，遂罷兵權，出為洛都留守、兼侍中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_088_000033",
@@ -307,12 +364,6 @@
         "label": "TITLE",
         "start": 3,
         "end": 12
-      },
-      {
-        "text": "景延廣鎮",
-        "label": "LOC",
-        "start": 16,
-        "end": 20
       }
     ]
   },
@@ -368,6 +419,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -420,6 +477,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 9
+      },
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -546,12 +609,25 @@
   {
     "sentence_id": "HCH_007_088_000067",
     "sentence": "張希崇",
-    "entities": []
+    "entities": [
+      {
+        "text": "張希崇",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_088_000068",
     "sentence": "張希崇，字德峰，幽州薊縣人也。",
     "entities": [
+      {
+        "text": "張希崇",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "幽州薊縣",
         "label": "LOC",
@@ -640,6 +716,12 @@
         "label": "LOC",
         "start": 4,
         "end": 7
+      },
+      {
+        "text": "盧文進",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -1129,12 +1211,26 @@
   {
     "sentence_id": "HCH_007_088_000123",
     "sentence": "史匡翰",
-    "entities": []
+    "entities": [
+      {
+        "text": "史匡翰",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_088_000124",
     "sentence": "史匡翰，字元輔，雁門人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史匡翰",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_088_000125",
@@ -1354,6 +1450,12 @@
     "sentence": "一日使酒，怒謂匡翰曰：「明公昔刺覃懷，與徹主客隨至，事無不可，今領節鉞，數不相容。且書記趙礪，險诐之人也，脅肩諂笑，黷貨無厭，而明公待之甚厚，徹今請死。近聞張彥澤臠張式，未聞匡翰斬關徹，恐天下談者未有比類。」匡翰不怒，引滿自罰而慰勉之，其寬厚如此。",
     "entities": [
       {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 78,
+        "end": 81
+      },
+      {
         "text": "未聞匡翰斬關",
         "label": "LOC",
         "start": 85,
@@ -1426,7 +1528,14 @@
   {
     "sentence_id": "HCH_007_088_000147",
     "sentence": "莊宗之破劉仁恭、王德明，及與梁軍對壘於德勝，皆預其戰，累功至龍武指揮使、檢校司空。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_088_000148",
@@ -1569,12 +1678,25 @@
   {
     "sentence_id": "HCH_007_088_000155",
     "sentence": "楊思權",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊思權",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_088_000156",
     "sentence": "楊思權，邠州新平人也。",
     "entities": [
+      {
+        "text": "楊思權",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "邠州",
         "label": "LOC",
@@ -1659,7 +1781,14 @@
   {
     "sentence_id": "HCH_007_088_000166",
     "sentence": "閔帝嗣位，奉詔從張虔釗討鳳翔，洎至岐下，思權首倡倒戈以攻虔釗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張虔釗",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_088_000167",
@@ -1799,7 +1928,14 @@
   {
     "sentence_id": "HCH_007_088_000178",
     "sentence": "唐應順中，王師討末帝於岐下，暉與楊思權首歸，末帝約以鄴都授之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊思權",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_088_000179",
@@ -2181,7 +2317,14 @@
   {
     "sentence_id": "HCH_007_088_000218",
     "sentence": "及受代歸洛，漢榮母燕氏獲其子婦，以訴於府尹景延廣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_088_000219",
@@ -2191,7 +2334,14 @@
   {
     "sentence_id": "HCH_007_088_000220",
     "sentence": "後以青衣趙滿師因不勝楚毒，逾垣訴景延廣，雲重俊與妹私奸及前後不法事，延廣奏之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_088_000221",
@@ -2453,12 +2603,26 @@
   {
     "sentence_id": "HCH_007_088_000248",
     "sentence": "張萬進",
-    "entities": []
+    "entities": [
+      {
+        "text": "張萬進",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_088_000249",
     "sentence": "張萬進，突厥南鄙人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張萬進",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_088_000250",

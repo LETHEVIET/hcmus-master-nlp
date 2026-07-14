@@ -96,6 +96,12 @@
     "sentence": "興光中，蠻王文武龍請降，詔褒慰之，拜南雍州刺史、魯陽侯。",
     "entities": [
       {
+        "text": "文武龍",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "拜南雍州",
         "label": "LOC",
         "start": 17,
@@ -256,6 +262,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "田益宗",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -487,6 +499,12 @@
         "end": 10
       },
       {
+        "text": "桓叔興",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "請置郡",
         "label": "LOC",
         "start": 30,
@@ -497,6 +515,12 @@
         "label": "LOC",
         "start": 40,
         "end": 43
+      },
+      {
+        "text": "酈道元",
+        "label": "PER",
+        "start": 47,
+        "end": 50
       }
     ]
   },
@@ -650,6 +674,12 @@
         "end": 5
       },
       {
+        "text": "文僧明",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 14,
@@ -755,6 +785,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "田超秀",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -917,7 +953,14 @@
   {
     "sentence_id": "HCH_003_095_000071",
     "sentence": "王雄、權景宣等前後討平之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "權景宣",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_095_000072",
@@ -1059,7 +1102,20 @@
   {
     "sentence_id": "HCH_003_095_000077",
     "sentence": "詔田弘、賀若敦、潘招、李遷哲等討破之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀若敦",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "李遷哲",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_095_000078",
@@ -1643,6 +1699,12 @@
     "sentence": "正始中，夏侯道遷舉漢中內附，宣武遣尚書邢巒為梁、益二州刺史以鎮之，近夏人者安堵樂業，在山谷者不敢為寇。",
     "entities": [
       {
+        "text": "夏侯道遷",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      },
+      {
         "text": "漢",
         "label": "ORG",
         "start": 9,
@@ -1671,12 +1733,6 @@
         "label": "LOC",
         "start": 0,
         "end": 7
-      },
-      {
-        "text": "傅豎眼為益州",
-        "label": "LOC",
-        "start": 8,
-        "end": 14
       }
     ]
   },
@@ -1743,10 +1799,10 @@
     "sentence": "後以元法僧代傅豎眼為益州，法僧在任貪殘，獠遂反叛，勾引梁兵，圍逼晉壽。",
     "entities": [
       {
-        "text": "代傅豎眼為益州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
+        "text": "元法僧",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },
@@ -1852,7 +1908,14 @@
   {
     "sentence_id": "HCH_003_095_000165",
     "sentence": "山南行台魏子建勉喻，即時散罷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏子建",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_095_000166",
@@ -1874,6 +1937,12 @@
         "label": "TITLE",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "陰子春",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },

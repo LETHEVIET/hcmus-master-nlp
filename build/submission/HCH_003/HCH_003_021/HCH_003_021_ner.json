@@ -71,7 +71,14 @@
   {
     "sentence_id": "HCH_003_021_000012",
     "sentence": "鳳以道武幼弱，固請於苻堅曰：「代主初崩，臣子亡叛，遺孫沖幼，莫相輔立。其別部大人劉庫仁勇而有智，鐵弗衛辰狡猾多端，皆不可獨任。宜分部爲二，令人統之。兩人素有深仇，其勢莫能先發，此禦邊之上策。待其孫長，乃存而立之，是陛下大惠于亡國也。」堅從之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉庫仁",
+        "label": "PER",
+        "start": 40,
+        "end": 43
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_021_000013",
@@ -186,7 +193,14 @@
   {
     "sentence_id": "HCH_003_021_000027",
     "sentence": "慕容寶之來寇也，道武使謙告難於姚興。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_021_000028",
@@ -218,7 +232,14 @@
   {
     "sentence_id": "HCH_003_021_000032",
     "sentence": "及慕容垂死，謙上書勸進。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_021_000033",
@@ -329,6 +350,12 @@
     "sentence": "父潛，仕慕容暐，爲黃門侍郎。",
     "entities": [
       {
+        "text": "慕容暐",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 11,
@@ -430,6 +457,12 @@
     "sentence": "仕慕容垂，爲吏部郎、尚書左丞、高陽內史，所曆著稱。",
     "entities": [
       {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 10,
@@ -445,7 +478,14 @@
   {
     "sentence_id": "HCH_003_021_000057",
     "sentence": "道武征慕容寶，次中山。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_021_000058",
@@ -654,7 +694,14 @@
   {
     "sentence_id": "HCH_003_021_000084",
     "sentence": "宏獨不受紹財，長孫嵩以下咸愧焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_021_000085",
@@ -671,7 +718,14 @@
   {
     "sentence_id": "HCH_003_021_000086",
     "sentence": "又詔宏與長孫嵩等朝堂決刑獄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_021_000087",
@@ -1153,6 +1207,12 @@
         "label": "LOC",
         "start": 304,
         "end": 311
+      },
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 337,
+        "end": 340
       }
     ]
   },
@@ -1223,6 +1283,12 @@
         "end": 13
       },
       {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 72,
+        "end": 75
+      },
+      {
         "text": "秦",
         "label": "ORG",
         "start": 160,
@@ -1245,6 +1311,18 @@
         "label": "LOC",
         "start": 204,
         "end": 211
+      },
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 244,
+        "end": 247
+      },
+      {
+        "text": "慕容暐",
+        "label": "PER",
+        "start": 327,
+        "end": 330
       },
       {
         "text": "司馬",
@@ -1379,7 +1457,14 @@
   {
     "sentence_id": "HCH_003_021_000164",
     "sentence": "司徒長孫嵩、高陽公奚斤、北新公安同爲左輔，坐東廂，西面。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_021_000165",
@@ -1399,7 +1484,14 @@
   {
     "sentence_id": "HCH_003_021_000168",
     "sentence": "大悅，謂左右侍臣曰：「長孫嵩宿德舊臣，曆事四世，功存社稷；奚斤辯捷智謀，名聞遐邇；安同曉解俗情，明於校練；穆觀達政事要，識吾旨趣；崔浩博聞強識，精於天人之會；丘堆雖無大用，然在公專謹。以六人輔吾子，足以經國。吾與汝曹遊行四境，伐叛柔服，可以得志於天下矣。」群臣時奏事所疑。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_021_000169",
@@ -1819,14 +1911,7 @@
   {
     "sentence_id": "HCH_003_021_000216",
     "sentence": "帝從容謂浩曰：「卿才智深博，事朕祖考，忠著三世，朕故延卿自近。其思盡規諫，勿有隱懷。朕雖當時遷怒，若或不用，久可不深思卿言也？」因令歌工曆頌群臣，事在《長孫道生傳》。",
-    "entities": [
-      {
-        "text": "《長孫道生傳》",
-        "label": "TITLE",
-        "start": 75,
-        "end": 82
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_021_000217",
@@ -1917,6 +2002,12 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "韓延之",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -1988,7 +2079,14 @@
   {
     "sentence_id": "HCH_003_021_000230",
     "sentence": "於是寇來遂疾，到彥之自清水入河，",
-    "entities": []
+    "entities": [
+      {
+        "text": "到彥之",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_021_000231",
@@ -2857,7 +2955,14 @@
   {
     "sentence_id": "HCH_003_021_000330",
     "sentence": "初，宏父潛爲兄渾等誄手筆本草，延昌初，著作佐郎王遵業買書於市，遇得之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王遵業",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_021_000331",
@@ -3467,7 +3572,14 @@
   {
     "sentence_id": "HCH_003_021_000409",
     "sentence": "慕容寶之來寇也，袞言于道武曰：「寶乘滑台功，因長子捷，頌財竭力，難與爭鋒，宜羸師以侈其心。」帝從之，果破之參合。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_021_000410",
@@ -4054,6 +4166,12 @@
     "sentence_id": "HCH_003_021_000478",
     "sentence": "慕容垂之圍鄴，以爲冀州刺史，爵真定侯。",
     "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "以爲冀州",
         "label": "LOC",

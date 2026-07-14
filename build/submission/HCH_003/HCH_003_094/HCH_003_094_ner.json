@@ -549,12 +549,6 @@
     "sentence": "晉永嘉之亂，鮮卑慕容廆據昌黎大棘城，元帝授平州刺史。",
     "entities": [
       {
-        "text": "廆據昌黎大棘城",
-        "label": "LOC",
-        "start": 10,
-        "end": 17
-      },
-      {
         "text": "元帝授平州",
         "label": "LOC",
         "start": 18,
@@ -587,6 +581,12 @@
         "label": "TME",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "慕容廆",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -634,6 +634,12 @@
     "sentence_id": "HCH_003_094_000082",
     "sentence": "後燕慕容垂遣其弟農伐句麗，復二郡。",
     "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "復二郡",
         "label": "LOC",
@@ -4897,7 +4903,14 @@
   {
     "sentence_id": "HCH_003_094_000701",
     "sentence": "帝覽不悅，謂鴻臚卿曰：「蠻夷書有無禮者，勿復以聞。」明年，上遣文林郎裴世清使倭國，度百濟，行至竹島，南望耽羅國，經都斯麻國，迥在大海中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴世清",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_094_000702",

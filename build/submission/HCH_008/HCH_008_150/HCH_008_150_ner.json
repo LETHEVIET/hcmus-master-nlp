@@ -112,7 +112,14 @@
   {
     "sentence_id": "HCH_008_150_000009",
     "sentence": "明年，尚父郭子儀病篤，上御紫宸，命誼持制書省之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_150_000010",
@@ -148,20 +155,25 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "哥舒曜",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
   {
     "sentence_id": "HCH_008_150_000016",
     "sentence": "八月，希烈自帥眾三萬，圍哥舒曜於襄城，又詔河南都統李勉援之。",
-    "entities": [
-      {
-        "text": "圍哥舒曜於襄城",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_150_000017",
@@ -218,7 +230,14 @@
   {
     "sentence_id": "HCH_008_150_000021",
     "sentence": "又以哥舒翰聲近，士卒竊議，改封普王，令統攝諸軍，進攻希烈。",
-    "entities": []
+    "entities": [
+      {
+        "text": "哥舒翰",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_150_000022",
@@ -264,6 +283,12 @@
         "label": "LOC",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "孔巢父",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       },
       {
         "text": "御史",
@@ -320,6 +345,12 @@
     "sentence": "刑部員外郎劉從一為吏部郎中、兼中丞；侍御史韋儹為工部郎中、兼中丞，並充元帥府判官。",
     "entities": [
       {
+        "text": "劉從一",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 19,
@@ -375,7 +406,14 @@
   {
     "sentence_id": "HCH_008_150_000030",
     "sentence": "荊南節度使張伯儀充後軍兵馬使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張伯儀",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_150_000031",
@@ -409,7 +447,14 @@
   {
     "sentence_id": "HCH_008_150_000033",
     "sentence": "德宗初聞兵士出怨言，不得賞設，乃令誼與翰林學士姜公輔傳詔安撫，許以厚賞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姜公輔",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_150_000034",
@@ -490,6 +535,12 @@
         "label": "LOC",
         "start": 16,
         "end": 20
+      },
+      {
+        "text": "李萬榮",
+        "label": "PER",
+        "start": 37,
+        "end": 40
       }
     ]
   },
@@ -502,6 +553,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "李自良",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "司馬",
@@ -543,6 +600,12 @@
         "label": "LOC",
         "start": 5,
         "end": 8
+      },
+      {
+        "text": "吳少誠",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -591,13 +654,26 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "程懷信",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
   {
     "sentence_id": "HCH_008_150_000047",
     "sentence": "十月，以諒領橫海節度大使、滄景觀察等使，以都知兵馬使程懷信為留後，王不出閣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "程懷信",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_150_000048",
@@ -608,6 +684,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "張建封",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "又以諒領徐州",
@@ -714,6 +796,12 @@
         "end": 5
       },
       {
+        "text": "張孝忠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "以定州",
         "label": "LOC",
         "start": 28,
@@ -724,6 +812,12 @@
         "label": "TITLE",
         "start": 31,
         "end": 33
+      },
+      {
+        "text": "張茂昭",
+        "label": "PER",
+        "start": 33,
+        "end": 36
       }
     ]
   },
@@ -736,6 +830,18 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李抱真",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "王虔休",
+        "label": "PER",
+        "start": 37,
+        "end": 40
       },
       {
         "text": "司馬",

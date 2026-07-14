@@ -2,7 +2,26 @@
   {
     "sentence_id": "HCH_003_067_000001",
     "sentence": "崔彥穆 楊纂 段永 令狐整 唐永 柳敏 王士良",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔彥穆",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "令狐整",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "王士良",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_067_000002",
@@ -12,17 +31,49 @@
   {
     "sentence_id": "HCH_003_067_000003",
     "sentence": "崔彥穆楊纂段永令狐整子熙唐永子瑾柳敏子昂王士良",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔彥穆",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "令狐整",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "王士良",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_067_000004",
     "sentence": "崔彥穆",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔彥穆",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_067_000005",
     "sentence": "崔彥穆，字彥穆，清河東武城人，魏司空安陽侯林之九世孫也。",
     "entities": [
+      {
+        "text": "崔彥穆",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "清河東武城",
         "label": "LOC",
@@ -384,6 +435,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "獨孤永業",
+        "label": "PER",
+        "start": 7,
+        "end": 11
       }
     ]
   },
@@ -1104,12 +1161,26 @@
   {
     "sentence_id": "HCH_003_067_000088",
     "sentence": "令狐整",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐整",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_067_000089",
     "sentence": "令狐整，字延保，敦煌人也，本名延。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐整",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_067_000090",
@@ -2503,12 +2574,6 @@
     "sentence": "行台蕭寶夤表永為南幽州刺史，夷人送故者，莫不垂淚，當路遮留，隨數日，始得出境。",
     "entities": [
       {
-        "text": "夤表永為南幽州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 11,
@@ -3565,12 +3630,26 @@
   {
     "sentence_id": "HCH_003_067_000338",
     "sentence": "王士良",
-    "entities": []
+    "entities": [
+      {
+        "text": "王士良",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_067_000339",
     "sentence": "王士良，字君明，其先太原晉陽人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王士良",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_067_000340",
@@ -4051,6 +4130,12 @@
         "end": 4
       },
       {
+        "text": "權景宣",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "以山南兵圍豫州",
         "label": "LOC",
         "start": 14,
@@ -4215,12 +4300,25 @@
   {
     "sentence_id": "HCH_003_067_000388",
     "sentence": "崔彥穆、楊纂、段永等昔在山東，沈渝下位，並以羈旅之士，邅回于燕雀之伍，終佩龜組，可謂見機者乎？",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔彥穆",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_067_000389",
     "sentence": "令狐整幹用確然，雅望重於河右，處州裏則勳著方隅，升朝廷則績宣出內，而畏避權寵，克保終吉，不然，何以自致顯名而取高位也？",
     "entities": [
+      {
+        "text": "令狐整",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "處州",
         "label": "LOC",
@@ -4247,7 +4345,14 @@
   {
     "sentence_id": "HCH_003_067_000393",
     "sentence": "王士良之仕于齊，職居卿牧，而失忠與義，臨難苟免，其背叛之徒歟！",
-    "entities": []
+    "entities": [
+      {
+        "text": "王士良",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_067_000394",

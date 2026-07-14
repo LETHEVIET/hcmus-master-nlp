@@ -1226,7 +1226,14 @@
   {
     "sentence_id": "HCH_004_014_000146",
     "sentence": "高元海、畢義雲、高乾乾和等咸數言其短。",
-    "entities": []
+    "entities": [
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_014_000147",
@@ -1372,6 +1379,12 @@
         "end": 18
       },
       {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 57,
+        "end": 60
+      },
+      {
         "text": "卽臨城",
         "label": "LOC",
         "start": 81,
@@ -1406,6 +1419,12 @@
     "sentence_id": "HCH_004_014_000161",
     "sentence": "對曰：「高元海受畢義雲宅，用作本州刺史，給後部鼓吹。臣為藩王、太宰，仍不得鼓吹。正殺元海、義雲而已。」上令都督劉桃枝牽入，歸彥猶作前語望活。",
     "entities": [
+      {
+        "text": "畢義雲",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "用作本州",
         "label": "LOC",

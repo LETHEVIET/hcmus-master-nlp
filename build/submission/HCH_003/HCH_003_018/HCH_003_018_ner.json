@@ -890,7 +890,14 @@
   {
     "sentence_id": "HCH_003_018_000087",
     "sentence": "下車封孫叔敖之墓，毀蔣子文之廟；上表請修復皇宗之學，開四門之教。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蔣子文",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_018_000088",
@@ -901,12 +908,6 @@
     "sentence_id": "HCH_003_018_000089",
     "sentence": "先是，朝議有南伐之計，以蕭寶夤為東揚州刺史，據東城；陳伯之為江州刺史，戍陽石。",
     "entities": [
-      {
-        "text": "蕭寶夤為東揚州",
-        "label": "LOC",
-        "start": 12,
-        "end": 19
-      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -949,6 +950,18 @@
     "sentence_id": "HCH_003_018_000091",
     "sentence": "澄於是遣統軍傅豎眼、王神念等進次大峴、東關、九山、淮陵，皆分部諸將，倍道據之。",
     "entities": [
+      {
+        "text": "傅豎眼",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "王神念",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "東關",
         "label": "LOC",
@@ -1503,6 +1516,12 @@
     "sentence_id": "HCH_003_018_000157",
     "sentence": "年九歲，師事樂安陳豐，初書王羲之《小學篇》數千言，晝夜誦之，旬有五日，一皆通徹。",
     "entities": [
+      {
+        "text": "王羲之",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
       {
         "text": "《小學篇》",
         "label": "TITLE",
@@ -2220,7 +2239,14 @@
   {
     "sentence_id": "HCH_003_018_000239",
     "sentence": "孝文南伐，齊將陳顯達率眾拒戰，嵩身備三仗，免胄直前，勇冠三軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳顯達",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_018_000240",
@@ -2261,12 +2287,6 @@
     "sentence_id": "HCH_003_018_000243",
     "sentence": "既平顯達，回次谷唐原，帝疾甚，將賜後死，曰：「使人不易可得。」顧謂任城王澄曰：「任城必不負我，嵩亦當不負任城，可使嵩也。」於是引嵩入內，親詔遣之。",
     "entities": [
-      {
-        "text": "顧謂任城",
-        "label": "LOC",
-        "start": 31,
-        "end": 35
-      },
       {
         "text": "任城",
         "label": "LOC",
@@ -2647,7 +2667,14 @@
   {
     "sentence_id": "HCH_003_018_000286",
     "sentence": "尋詔英率眾南討，大破梁曹景宗軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "曹景宗",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_018_000287",
@@ -2666,6 +2693,12 @@
         "end": 5
       },
       {
+        "text": "蔡道恭",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "三關戍棄城",
         "label": "LOC",
         "start": 11,
@@ -2681,7 +2714,14 @@
   {
     "sentence_id": "HCH_003_018_000289",
     "sentence": "及為陳顯達所敗，遂寢。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳顯達",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_018_000290",
@@ -3091,6 +3131,12 @@
     "sentence": "熙起兵甫十日，為其長史柳元章、別駕游荊、魏郡太守李孝怡執熙置之高樓，並其子弟。",
     "entities": [
       {
+        "text": "柳元章",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "魏郡",
         "label": "LOC",
         "start": 20,
@@ -3135,6 +3181,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "李琰之",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -3152,12 +3204,6 @@
     "sentence_id": "HCH_003_018_000337",
     "sentence": "又，熙于任城王澄薨前，夢有人告之曰：「任城當死，死後二百日外，君亦不免。若其不信，試看任城家。」熙夢中顧瞻任城第舍，四面牆崩，無遺堵焉。",
     "entities": [
-      {
-        "text": "熙于任城",
-        "label": "LOC",
-        "start": 2,
-        "end": 6
-      },
       {
         "text": "任城",
         "label": "LOC",
@@ -3299,6 +3345,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "元法僧",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "大都",
@@ -3617,6 +3669,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "盧陽烏",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "降為定襄縣",
@@ -4549,7 +4607,14 @@
   {
     "sentence_id": "HCH_003_018_000498",
     "sentence": "時以胡國珍封安定公，改封北平王，後復本封。",
-    "entities": []
+    "entities": [
+      {
+        "text": "胡國珍",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_018_000499",
@@ -4618,7 +4683,14 @@
   {
     "sentence_id": "HCH_003_018_000508",
     "sentence": "宣帝嗣位，從上柱國韋孝寬經略淮南。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_018_000509",
@@ -4629,6 +4701,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "宇文亮",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },

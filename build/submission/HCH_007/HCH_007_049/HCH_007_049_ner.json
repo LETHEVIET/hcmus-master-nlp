@@ -74,7 +74,14 @@
   {
     "sentence_id": "HCH_007_049_000010",
     "sentence": "太后召監軍張承業，指莊宗謂之曰：「先人把臂授公此兒，如聞外謀，欲孤付托，公等但置予母子有地，毋令乞食於汴，幸矣。」承業因誅存顥、克寧，以清內難。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_049_000011",
@@ -522,6 +529,12 @@
         "label": "TME",
         "start": 26,
         "end": 30
+      },
+      {
+        "text": "豆盧革",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       }
     ]
   },
@@ -878,6 +891,12 @@
         "label": "TITLE",
         "start": 432,
         "end": 437
+      },
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 447,
+        "end": 450
       },
       {
         "text": "《五代會要》",
@@ -1262,6 +1281,12 @@
         "label": "TITLE",
         "start": 34,
         "end": 36
+      },
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       },
       {
         "text": "同光三年",

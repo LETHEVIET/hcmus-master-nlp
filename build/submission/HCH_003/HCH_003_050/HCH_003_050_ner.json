@@ -89,12 +89,6 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
-      },
-      {
-        "text": "任城",
-        "label": "LOC",
-        "start": 23,
-        "end": 25
       }
     ]
   },
@@ -119,7 +113,14 @@
   {
     "sentence_id": "HCH_003_050_000014",
     "sentence": "右僕射元欽稱雄之美，左僕射蕭寶夤曰：「吾聞遊僕射云：'得如雄者四五人共省事，足矣'今日之賞，何其晚哉！」",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_050_000015",
@@ -406,6 +407,12 @@
         "label": "TITLE",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "崔孝芬",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
@@ -458,6 +465,12 @@
     "sentence_id": "HCH_003_050_000051",
     "sentence": "至定考，懌曰：「辛騎兵有學有才，宜為上第。」及梁將曹義宗攻新野，詔纂為荊州軍司。",
     "entities": [
+      {
+        "text": "曹義宗",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      },
       {
         "text": "詔纂為荊州",
         "label": "LOC",
@@ -675,7 +688,14 @@
   {
     "sentence_id": "HCH_003_050_000067",
     "sentence": "時蠻酋樊大能應西魏，纂攻之，不克而敗，為西魏將獨孤信所害。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_050_000068",
@@ -869,7 +889,14 @@
   {
     "sentence_id": "HCH_003_050_000086",
     "sentence": "魏子建為山南行台，以為郎中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏子建",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_050_000087",
@@ -1148,6 +1175,12 @@
     "sentence": "邢邵聞之，遺術書曰：「昔鐘離意云：孔子忍渴於盜泉，便以珠璣委地。足下今能如此，可謂異代一時。」及王僧辨破侯景，術招攜安撫，城鎮相繼款附，前後二十餘州。",
     "entities": [
       {
+        "text": "王僧辨",
+        "label": "PER",
+        "start": 48,
+        "end": 51
+      },
+      {
         "text": "城鎮",
         "label": "LOC",
         "start": 61,
@@ -1390,6 +1423,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "裴讓之",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -1534,6 +1573,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "崔彥武",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -1943,7 +1988,14 @@
   {
     "sentence_id": "HCH_003_050_000190",
     "sentence": "蕭寶夤西征，以為行台郎中，委以軍機之事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_050_000191",
@@ -2056,6 +2108,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "李希宗",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -2442,7 +2500,14 @@
   {
     "sentence_id": "HCH_003_050_000239",
     "sentence": "謙之與袁翻、常景、酈道元、溫子升之徒，或申款舊。",
-    "entities": []
+    "entities": [
+      {
+        "text": "酈道元",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_050_000240",
@@ -2807,7 +2872,14 @@
   {
     "sentence_id": "HCH_003_050_000296",
     "sentence": "時黃門崔甗議不同，高乾、魏蘭根等固執甗言，遂立孝武帝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏蘭根",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_050_000297",
@@ -2830,6 +2902,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "賈顯度",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -2854,7 +2932,14 @@
   {
     "sentence_id": "HCH_003_050_000300",
     "sentence": "俊佞巧，能候當塗，斛斯椿、賀拔勝皆與友善。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_050_000301",
@@ -3326,7 +3411,14 @@
   {
     "sentence_id": "HCH_003_050_000357",
     "sentence": "元象初，兼通直散騎常侍，副鄭伯猷，使梁。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭伯猷",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_050_000358",
@@ -3456,6 +3548,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "皇甫集",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       }
     ]
   },

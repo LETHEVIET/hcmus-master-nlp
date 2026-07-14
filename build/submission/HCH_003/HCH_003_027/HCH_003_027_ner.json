@@ -2,7 +2,20 @@
   {
     "sentence_id": "HCH_003_027_000001",
     "sentence": "屈遵 張蒲 谷渾 〈 曾孫楷 〉 公孫表 張濟 李先 賈彝 竇瑾 李訢 韓延之 袁式 毛脩之 〈 朱修之 嚴棱 〉 唐和 寇讚 〈 孫俊 〉 酈範 〈 子道元 〉 韓秀 堯暄 〈 孫雄 〉 柳崇",
-    "entities": []
+    "entities": [
+      {
+        "text": "韓延之",
+        "label": "PER",
+        "start": 36,
+        "end": 39
+      },
+      {
+        "text": "朱修之",
+        "label": "PER",
+        "start": 49,
+        "end": 52
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_027_000002",
@@ -17,7 +30,14 @@
   {
     "sentence_id": "HCH_003_027_000004",
     "sentence": "慕容垂以為博陸令。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_027_000005",
@@ -256,6 +276,12 @@
     "sentence": "父攀，仕慕容垂，位兵部尚書，以清方稱。",
     "entities": [
       {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 11,
@@ -267,6 +293,12 @@
     "sentence_id": "HCH_003_027_000036",
     "sentence": "蒲少有父風，仕慕容寶為尚書左丞。",
     "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -389,6 +421,12 @@
     "sentence_id": "HCH_003_027_000051",
     "sentence": "仕慕容垂，位廣武將軍。",
     "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "將軍",
         "label": "TITLE",
@@ -603,12 +641,25 @@
   {
     "sentence_id": "HCH_003_027_000079",
     "sentence": "慕容垂破長子，從入中山。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_027_000080",
     "sentence": "慕容寶走，乃歸，為博士。",
     "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "博士",
         "label": "TITLE",
@@ -621,6 +672,12 @@
     "sentence_id": "HCH_003_027_000081",
     "sentence": "初，道武以慕容垂諸子分據勢要，權柄推移，遂至亡滅，表詣闕上《韓非書》二十卷。",
     "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "《韓非書》",
         "label": "TITLE",
@@ -1156,6 +1213,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "楊佺期",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -1281,12 +1344,6 @@
     "sentence_id": "HCH_003_027_000160",
     "sentence": "道武問先曰：「卿何國人？祖父及身悉曆何官？」先曰：「臣本趙郡平棘人。大父重，晉平陽太守、大將軍右司馬。父懋，石季龍樂安太守、左中郎將。臣，苻丕左主客郎，慕容永秘書監、高密侯。」車駕還代，以先為尚書右中兵郎。",
     "entities": [
-      {
-        "text": "臣本趙郡",
-        "label": "LOC",
-        "start": 26,
-        "end": 30
-      },
       {
         "text": "太守",
         "label": "TITLE",
@@ -1774,7 +1831,14 @@
   {
     "sentence_id": "HCH_003_027_000221",
     "sentence": "遠近歎之，僉曰：「此子英英，賈誼之後，莫之與京。」弱冠，為慕容垂遼西王農記室參軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_027_000222",
@@ -2494,7 +2558,14 @@
   {
     "sentence_id": "HCH_003_027_000296",
     "sentence": "浩舉其弟子箱子與盧度世、李敷三人應之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧度世",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_027_000297",
@@ -2805,7 +2876,14 @@
   {
     "sentence_id": "HCH_003_027_000334",
     "sentence": "韓延之，字顯宗，南陽堵陽人，魏司徒暨之後也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韓延之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_027_000335",
@@ -4778,6 +4856,12 @@
     "sentence": "祖紹，慕容寶濮陽太守，以郡迎降，道武授兗州監軍。",
     "entities": [
       {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "太守",
         "label": "TITLE",
         "start": 8,
@@ -5200,12 +5284,6 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
-      },
-      {
-        "text": "元法僧又于彭城",
-        "label": "LOC",
-        "start": 12,
-        "end": 19
       }
     ]
   },
@@ -5307,6 +5385,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "遣為關",
@@ -6206,6 +6290,12 @@
         "end": 7
       },
       {
+        "text": "陳慶之",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "復圍南荊州",
         "label": "LOC",
         "start": 11,
@@ -6282,6 +6372,12 @@
         "end": 2
       },
       {
+        "text": "賀若統",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "刺史",
         "label": "TITLE",
         "start": 8,
@@ -6345,14 +6441,7 @@
   {
     "sentence_id": "HCH_003_027_000686",
     "sentence": "周文帝遣其右丞韋孝寬等攻豫州，雄都督程多寶降之。",
-    "entities": [
-      {
-        "text": "韋孝寬等攻豫州",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_027_000687",
@@ -6760,7 +6849,14 @@
   {
     "sentence_id": "HCH_003_027_000733",
     "sentence": "韓延之忠於所事，有國士之烈。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韓延之",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_027_000734",

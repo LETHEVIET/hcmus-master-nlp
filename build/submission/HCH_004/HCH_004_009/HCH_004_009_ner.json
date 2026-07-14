@@ -352,6 +352,12 @@
         "label": "LOC",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "李希宗",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -869,7 +875,14 @@
   {
     "sentence_id": "HCH_004_009_000124",
     "sentence": "母名輕霄，本穆子倫婢也，轉入侍中宋欽道家，姦私而生后，莫知氏族，或云后即欽道女子也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_009_000125",

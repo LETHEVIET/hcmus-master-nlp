@@ -66,6 +66,12 @@
     "sentence": "註得賂甚悅，乘間薦於中尉王守澄，乃以註之藥術，訓之《易》道，合薦於文宗。",
     "entities": [
       {
+        "text": "王守澄",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "《易》",
         "label": "TITLE",
         "start": 25,
@@ -146,7 +152,14 @@
   {
     "sentence_id": "HCH_008_169_000023",
     "sentence": "前與侍講宋申錫謀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋申錫",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000024",
@@ -239,7 +252,14 @@
   {
     "sentence_id": "HCH_008_169_000036",
     "sentence": "王守澄自長慶已來知樞密，典禁軍，作威作福。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王守澄",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000037",
@@ -292,6 +312,18 @@
         "label": "TITLE",
         "start": 33,
         "end": 35
+      },
+      {
+        "text": "羅立言",
+        "label": "PER",
+        "start": 48,
+        "end": 51
+      },
+      {
+        "text": "李孝本",
+        "label": "PER",
+        "start": 74,
+        "end": 77
       }
     ]
   },
@@ -401,7 +433,20 @@
   {
     "sentence_id": "HCH_008_169_000060",
     "sentence": "羅立言率府中從人自東來，李孝本率臺中從人自西來，共四百余人，上殿縱擊內官，死傷者數十人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅立言",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "李孝本",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000061",
@@ -426,7 +471,14 @@
   {
     "sentence_id": "HCH_008_169_000065",
     "sentence": "宰相王涯、賈餗、舒元輿、方中書會食，聞難出走，諸司從吏死者六七百人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "舒元輿",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000066",
@@ -468,7 +520,14 @@
   {
     "sentence_id": "HCH_008_169_000072",
     "sentence": "仇士良以宗密容李訓，遺人縛入左軍，責以不告之罪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "仇士良",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000073",
@@ -550,7 +609,14 @@
   {
     "sentence_id": "HCH_008_169_000083",
     "sentence": "時王守澄監徐軍，深怒注。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王守澄",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000084",
@@ -614,7 +680,14 @@
   {
     "sentence_id": "HCH_008_169_000093",
     "sentence": "既以陰事誣陷宋申錫，守道正人，始側目焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋申錫",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000094",
@@ -766,7 +839,26 @@
   {
     "sentence_id": "HCH_008_169_000110",
     "sentence": "因楊虞卿之獄，挾忌李宗閔、李德裕，心所惡者，目為二人之黨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊虞卿",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "李宗閔",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000111",
@@ -874,7 +966,14 @@
   {
     "sentence_id": "HCH_008_169_000126",
     "sentence": "監軍使張仲清已得密詔，迎而勞之，召至監軍府議事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張仲清",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000127",
@@ -979,6 +1078,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "李吉甫",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "再貶虢州",
@@ -1350,6 +1455,12 @@
     "sentence": "洎涯疏至，盧士玫已為賊劫，陷瀛、莫州，兇勢不可遏。",
     "entities": [
       {
+        "text": "盧士玫",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "莫州",
         "label": "LOC",
         "start": 16,
@@ -1508,6 +1619,12 @@
     "sentence": "奏李師道前據河南十二州，其兗、鄆、淄、青、濮州界，舊有銅鐵冶，每年額利百餘萬，自收復，未定稅額，請復係鹽鐵司，依建中元年九月敕例制置，從之。",
     "entities": [
       {
+        "text": "李師道",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "前據河南十二州",
         "label": "LOC",
         "start": 4,
@@ -1593,7 +1710,14 @@
   {
     "sentence_id": "HCH_008_169_000193",
     "sentence": "仇士良鞫涯反狀，涯實不知其故。",
-    "entities": []
+    "entities": [
+      {
+        "text": "仇士良",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000194",
@@ -1604,6 +1728,24 @@
     "sentence_id": "HCH_008_169_000195",
     "sentence": "獄具，左軍兵馬三百人領涯與王璠、羅立言，右軍兵馬三百人領賈餗、舒元輿、李孝本，先赴郊廟，徇兩市，乃腰斬於子城西南隅獨柳樹下。",
     "entities": [
+      {
+        "text": "羅立言",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "舒元輿",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      },
+      {
+        "text": "李孝本",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      },
       {
         "text": "乃腰斬於子城",
         "label": "LOC",
@@ -1682,7 +1824,20 @@
   {
     "sentence_id": "HCH_008_169_000208",
     "sentence": "昭義節度使劉從諫三上章，求示涯等三相罪名，仇士良頗懷憂恐。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉從諫",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "仇士良",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000209",
@@ -1782,7 +1937,14 @@
   {
     "sentence_id": "HCH_008_169_000220",
     "sentence": "時李逢吉為宰相，與璠親厚，故自郎官掌誥，便拜中丞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李逢吉",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000221",
@@ -2045,7 +2207,14 @@
   {
     "sentence_id": "HCH_008_169_000244",
     "sentence": "李訓舉事之日，遐休於館中禮上，同職駕部郎中令狐定等五六人送之，是日悉為亂兵所執。",
-    "entities": []
+    "entities": [
+      {
+        "text": "令狐定",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000245",
@@ -2122,7 +2291,14 @@
   {
     "sentence_id": "HCH_008_169_000253",
     "sentence": "長慶初，策召賢良，選當時名士考策，餗與白居易俱為考策官，選文人以為公。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白居易",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000254",
@@ -2138,6 +2314,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "張又新",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       },
       {
         "text": "出為常州",
@@ -2340,12 +2522,25 @@
   {
     "sentence_id": "HCH_008_169_000272",
     "sentence": "舒元輿",
-    "entities": []
+    "entities": [
+      {
+        "text": "舒元輿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000273",
     "sentence": "舒元輿者，江州人。",
     "entities": [
+      {
+        "text": "舒元輿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "江州",
         "label": "LOC",
@@ -2498,12 +2693,26 @@
   {
     "sentence_id": "HCH_008_169_000290",
     "sentence": "郭行餘",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭行餘",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000291",
     "sentence": "郭行餘者，亦登進士第。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭行餘",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000292",
@@ -2565,12 +2774,26 @@
   {
     "sentence_id": "HCH_008_169_000297",
     "sentence": "羅立言",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅立言",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000298",
     "sentence": "羅立言者，父名歡。",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅立言",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000299",
@@ -2643,6 +2866,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "姚中立",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -2673,12 +2902,25 @@
   {
     "sentence_id": "HCH_008_169_000308",
     "sentence": "姚中立陰知其故，恐以詐聞，不免其累，乃以狀告洪之詐。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚中立",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000309",
     "sentence": "仇士良拘洪入軍，洪銜中立之告，謂士良曰：「追集所由，皆因縣令處分，予何罪也。」故中立坐貶，洪免死。",
     "entities": [
+      {
+        "text": "仇士良",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "縣令",
         "label": "TITLE",
@@ -2690,12 +2932,26 @@
   {
     "sentence_id": "HCH_008_169_000310",
     "sentence": "李孝本",
-    "entities": []
+    "entities": [
+      {
+        "text": "李孝本",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000311",
     "sentence": "李孝本者，宗室之子也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李孝本",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000312",
@@ -2705,7 +2961,14 @@
   {
     "sentence_id": "HCH_008_169_000313",
     "sentence": "舒元輿作相，訓用孝本知臺雜，權知中丞事，最預訓謀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "舒元輿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_169_000314",

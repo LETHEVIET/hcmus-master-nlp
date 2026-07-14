@@ -427,7 +427,14 @@
   {
     "sentence_id": "HCH_004_029_000047",
     "sentence": "每稱曰：「若披雲霧，如對珠玉，宅相之寄，良在此甥。」齊王蕭寶夤引為主簿記室，專管表檄，待以賓友之禮。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_029_000048",
@@ -837,7 +844,14 @@
   {
     "sentence_id": "HCH_004_029_000091",
     "sentence": "誦以女妻穆提婆子懷廆，超遷臨漳令、儀同三司。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_029_000092",
@@ -948,12 +962,26 @@
   {
     "sentence_id": "HCH_004_029_000109",
     "sentence": "鄭述祖",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭述祖",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_029_000110",
     "sentence": "鄭述祖，字恭文，滎陽開封人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭述祖",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_029_000111",

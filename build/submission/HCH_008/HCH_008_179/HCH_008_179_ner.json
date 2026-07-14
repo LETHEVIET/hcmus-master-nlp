@@ -54,7 +54,14 @@
   {
     "sentence_id": "HCH_008_179_000010",
     "sentence": "與韋保衡同年登進士第，保衡以幸進無藝，同年門生皆薄之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋保衡",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000011",
@@ -64,7 +71,14 @@
   {
     "sentence_id": "HCH_008_179_000012",
     "sentence": "自比李德裕，同年皆戲呼「太尉」，保衡心銜之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000013",
@@ -237,7 +251,14 @@
   {
     "sentence_id": "HCH_008_179_000032",
     "sentence": "內官田令孜受溥厚賂，曲奏請收損下獄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田令孜",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000033",
@@ -271,7 +292,14 @@
   {
     "sentence_id": "HCH_008_179_000036",
     "sentence": "時田令孜專總禁軍，公卿僚庶，無不候其顏色，唯遘以道自處，未嘗屈降。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田令孜",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000037",
@@ -288,7 +316,14 @@
   {
     "sentence_id": "HCH_008_179_000038",
     "sentence": "王重榮上章論列。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王重榮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000039",
@@ -311,6 +346,12 @@
     "sentence_id": "HCH_008_179_000041",
     "sentence": "重榮求援於太原，李克用引軍赴之，拒戰沙苑，禁軍大敗，逼京城。",
     "entities": [
+      {
+        "text": "李克用",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "逼京城",
         "label": "LOC",
@@ -407,7 +448,14 @@
   {
     "sentence_id": "HCH_008_179_000051",
     "sentence": "乃命鄭昌圖爲之，玫滋不悅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭昌圖",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000052",
@@ -476,7 +524,14 @@
   {
     "sentence_id": "HCH_008_179_000057",
     "sentence": "咸通中，王鐸掌貢籍，遘與韋保衡俱以進士中選，而保衡暴貴，與鐸同在中書。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋保衡",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000058",
@@ -588,14 +643,7 @@
   {
     "sentence_id": "HCH_008_179_000071",
     "sentence": "崔慎由鎮梓州，辟爲從事。",
-    "entities": [
-      {
-        "text": "崔慎由鎮梓州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_179_000072",
@@ -612,14 +660,7 @@
   {
     "sentence_id": "HCH_008_179_000073",
     "sentence": "崔慎由鎮華州、河中，緯皆從之，歷觀察判官。",
-    "entities": [
-      {
-        "text": "崔慎由鎮華州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_179_000074",
@@ -781,7 +822,14 @@
   {
     "sentence_id": "HCH_008_179_000093",
     "sentence": "是時，田令孜軍敗，沙陁逼京師，帝移幸鳳翔，邠帥朱玫引兵來迎駕。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田令孜",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000094",
@@ -819,7 +867,14 @@
   {
     "sentence_id": "HCH_008_179_000098",
     "sentence": "緯承命見宰相論事，蕭遘、裴澈以田令孜在帝左右，意不欲行，辭疾不見緯。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田令孜",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000099",
@@ -847,6 +902,12 @@
     "sentence_id": "HCH_008_179_000102",
     "sentence": "即日見李昌符告曰：「主上再有詔命，令促百僚前進。觀群公立意，未有發期。僕忝憲闈，不宜居後。道途多梗，明公幸假五十騎，送至陳倉。」昌符嘉之，謂緯曰：「路無頓遞，裹糧辦耶？」乃送錢五十緡，令騎士援緯達散關。",
     "entities": [
+      {
+        "text": "李昌符",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "騎士援緯達散關",
         "label": "LOC",
@@ -912,6 +973,12 @@
     "sentence_id": "HCH_008_179_000106",
     "sentence": "王行瑜斬朱玫，平定京城，遷門下侍郎、監修國史。",
     "entities": [
+      {
+        "text": "王行瑜",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "平定京城",
         "label": "LOC",
@@ -979,7 +1046,14 @@
   {
     "sentence_id": "HCH_008_179_000113",
     "sentence": "蔡賊秦宗權伏誅，進階開府儀同三司，進位司徒，封魯國公。",
-    "entities": []
+    "entities": [
+      {
+        "text": "秦宗權",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000114",
@@ -1125,6 +1199,12 @@
         "label": "LOC",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "韋昭度",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -1223,6 +1303,12 @@
         "label": "LOC",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "王行約",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -1262,7 +1348,14 @@
   {
     "sentence_id": "HCH_008_179_000143",
     "sentence": "大順初，天武都頭李順節恃恩頗橫，不期年領浙西節度使，俄加平章事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李順節",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000144",
@@ -1314,12 +1407,26 @@
   {
     "sentence_id": "HCH_008_179_000152",
     "sentence": "韋昭度",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋昭度",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000153",
     "sentence": "韋昭度，字正紀，京兆人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋昭度",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000154",
@@ -1403,6 +1510,12 @@
         "end": 9
       },
       {
+        "text": "陳敬瑄",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "成都",
         "label": "LOC",
         "start": 16,
@@ -1437,7 +1550,14 @@
   {
     "sentence_id": "HCH_008_179_000163",
     "sentence": "詔東川顧彥朗與王建合勢討之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "顧彥朗",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000164",
@@ -1497,18 +1617,38 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "杜讓能",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
   {
     "sentence_id": "HCH_008_179_000172",
     "sentence": "時宰相崔昭緯專政，惡李谿之爲人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔昭緯",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000173",
     "sentence": "降制日，令知制誥劉崇魯哭麻以沮之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉崇魯",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000174",
@@ -1531,17 +1671,36 @@
         "end": 5
       },
       {
+        "text": "王行瑜",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
   {
     "sentence_id": "HCH_008_179_000177",
     "sentence": "崔昭緯宗人鋌，曾爲行瑜從事，朝廷每降制敕，不便於昭緯者，即令鋌訴於行瑜，俾上章論列。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔昭緯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000178",
@@ -1556,7 +1715,14 @@
   {
     "sentence_id": "HCH_008_179_000180",
     "sentence": "昭緯謂鋌曰：「前時尚父之命已行，而昭度沮之，今又引谿同列。此人姦纎，惑上視聽，宗社不寧。恐復有杜太尉之事。」行瑜與李茂貞上章言：「命相非其人，懼危宗社。」天子優詔曉諭，言谿有才。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李茂貞",
+        "label": "PER",
+        "start": 57,
+        "end": 60
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000181",
@@ -1590,12 +1756,26 @@
   {
     "sentence_id": "HCH_008_179_000184",
     "sentence": "崔昭緯",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔昭緯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000185",
     "sentence": "崔昭緯，清河人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔昭緯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000186",
@@ -1707,7 +1887,14 @@
   {
     "sentence_id": "HCH_008_179_000198",
     "sentence": "崔昭緯頃居內署，粗著微勞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔昭緯",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000199",
@@ -1747,7 +1934,14 @@
   {
     "sentence_id": "HCH_008_179_000206",
     "sentence": "故宰臣韋昭度、李谿並以無辜見害，幾危宗社，顯辱君親。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋昭度",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000207",
@@ -1964,6 +2158,12 @@
     "sentence": "乾符中，樞密使楊復恭因使遇之，自處士薦爲太常博士，累轉度支員外郎。",
     "entities": [
       {
+        "text": "楊復恭",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "博士",
         "label": "TITLE",
         "start": 22,
@@ -2036,7 +2236,14 @@
   {
     "sentence_id": "HCH_008_179_000250",
     "sentence": "時王敬武初破弘霸郎，軍威大振，累詔征平盧兵，敬武獨不赴援。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王敬武",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000251",
@@ -2080,12 +2287,26 @@
   {
     "sentence_id": "HCH_008_179_000256",
     "sentence": "濬初發跡，依楊復恭。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊復恭",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000257",
     "sentence": "及復恭失勢，乃依田令孜，以至重位，而反薄復恭。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田令孜",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000258",
@@ -2122,6 +2343,24 @@
     "sentence": "會朱全忠誅秦宗權，安居受殺李克恭，以潞州降全忠。",
     "entities": [
       {
+        "text": "秦宗權",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "安居受",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "李克恭",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "以潞州",
         "label": "LOC",
         "start": 17,
@@ -2140,10 +2379,22 @@
         "end": 2
       },
       {
+        "text": "李匡威",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "雲州",
         "label": "LOC",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "赫連鐸",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -2183,6 +2434,18 @@
         "label": "LOC",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "李匡威",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      },
+      {
+        "text": "赫連鐸",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       }
     ]
   },
@@ -2206,7 +2469,14 @@
   {
     "sentence_id": "HCH_008_179_000273",
     "sentence": "昭宗御安喜樓臨送，濬酒酣泣奏曰：「陛下動爲賊臣掣肘，臣所以誓死憤惋，爲陛下除其僭逼。」楊復恭聞之不悅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊復恭",
+        "label": "PER",
+        "start": 43,
+        "end": 46
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000274",
@@ -2230,10 +2500,10 @@
     "sentence": "汴將朱崇節權知潞州事，太原將李存孝攻之。",
     "entities": [
       {
-        "text": "朱崇節權知潞州",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
+        "text": "李存孝",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -2269,14 +2539,7 @@
   {
     "sentence_id": "HCH_008_179_000280",
     "sentence": "九月，汴將葛從周棄潞州。",
-    "entities": [
-      {
-        "text": "將葛從周棄潞州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_179_000281",
@@ -2293,7 +2556,14 @@
   {
     "sentence_id": "HCH_008_179_000282",
     "sentence": "李存孝擊之，一戰而敗，委兵仗潰散。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李存孝",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000283",
@@ -2337,7 +2607,14 @@
   {
     "sentence_id": "HCH_008_179_000288",
     "sentence": "李克用上章論訴曰：",
-    "entities": []
+    "entities": [
+      {
+        "text": "李克用",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000289",
@@ -2421,12 +2698,26 @@
   {
     "sentence_id": "HCH_008_179_000302",
     "sentence": "若以臣雲中之伐，獲罪於時，則拓拔思恭取鄜、延，朱全忠侵徐、鄆，陛下何不討之？",
-    "entities": []
+    "entities": [
+      {
+        "text": "拓拔思恭",
+        "label": "PER",
+        "start": 14,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000303",
     "sentence": "假令李孝德不忠於主，伐之爲是，則朱瑄、時溥有何罪耶？",
-    "entities": []
+    "entities": [
+      {
+        "text": "李孝德",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000304",
@@ -2587,7 +2878,14 @@
   {
     "sentence_id": "HCH_008_179_000329",
     "sentence": "俾擁旄乘驛之使，囚在虜庭；勤王奉國之軍，懷歸本土。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王奉國",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000330",
@@ -2723,6 +3021,12 @@
         "label": "LOC",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "韋昭度",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -2798,14 +3102,7 @@
   {
     "sentence_id": "HCH_008_179_000349",
     "sentence": "王師範青州起兵，欲取濬爲謀主。",
-    "entities": [
-      {
-        "text": "王師範青州",
-        "label": "LOC",
-        "start": 0,
-        "end": 5
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_179_000350",
@@ -2815,7 +3112,14 @@
   {
     "sentence_id": "HCH_008_179_000351",
     "sentence": "朱全忠將圖篡代，懼濬構亂四方，不欲顯誅，密諷張全義令圖之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張全義",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000352",
@@ -3105,7 +3409,14 @@
   {
     "sentence_id": "HCH_008_179_000386",
     "sentence": "僖宗自山南還，以宰相杜讓能弟弘徽爲中書舍人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜讓能",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000387",
@@ -3201,7 +3512,14 @@
   {
     "sentence_id": "HCH_008_179_000401",
     "sentence": "劉崇望",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉崇望",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000402",
@@ -3211,7 +3529,14 @@
   {
     "sentence_id": "HCH_008_179_000403",
     "sentence": "劉崇望，字希徒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉崇望",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000404",
@@ -3339,6 +3664,12 @@
         "end": 4
       },
       {
+        "text": "鄭從讜",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 33,
@@ -3433,12 +3764,6 @@
     "sentence": "崔安潛鎮許昌、成都，崇望昆仲四人，皆在安潛幕下。",
     "entities": [
       {
-        "text": "崔安潛鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 4
-      },
-      {
         "text": "成都",
         "label": "LOC",
         "start": 7,
@@ -3469,6 +3794,12 @@
     "sentence": "崔安潛爲吏部尚書，崇望判南曹，滌除宿弊，復清選部。",
     "entities": [
       {
+        "text": "崔安潛",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 6,
@@ -3480,6 +3811,12 @@
     "sentence_id": "HCH_008_179_000426",
     "sentence": "田令孜幹政，籓鎮怨望，河中尤甚，不修職貢。",
     "entities": [
+      {
+        "text": "田令孜",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "籓鎮",
         "label": "LOC",
@@ -3567,7 +3904,20 @@
   {
     "sentence_id": "HCH_008_179_000433",
     "sentence": "明年，玉山都頭楊守信協楊復恭稱兵闕下，陣於通化門。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊守信",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "楊復恭",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000434",
@@ -3629,17 +3979,37 @@
   {
     "sentence_id": "HCH_008_179_000444",
     "sentence": "王重盈死，王珂、王珙爭河中節鉞，朝廷以宰相崔胤爲河中節度使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王重盈",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000445",
     "sentence": "珂，李克用之子婿也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李克用",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000446",
     "sentence": "河東進奏官薛志勤揚言曰：「崔相雖重德，如作鎮河中代王珂，不如光德劉公，於我公事素也。」及三鎮以兵入朝，殺害大臣，以志勤之言，責授崇望昭州司馬。",
     "entities": [
+      {
+        "text": "薛志勤",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "如作鎮",
         "label": "LOC",
@@ -3669,7 +4039,14 @@
   {
     "sentence_id": "HCH_008_179_000447",
     "sentence": "及王行瑜誅，太原上表言崇望無辜放逐。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王行瑜",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000448",
@@ -3705,6 +4082,12 @@
     "sentence_id": "HCH_008_179_000450",
     "sentence": "時西川侵寇顧彥暉，欲並東川，以崇望檢校右僕射、平章事、梓州刺史、劍南東川節度使。",
     "entities": [
+      {
+        "text": "顧彥暉",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "梓州",
         "label": "LOC",
@@ -3763,6 +4146,12 @@
         "label": "TME",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "鄭從讜",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -3797,13 +4186,32 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "杜讓能",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "韋昭度",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
   {
     "sentence_id": "HCH_008_179_000459",
     "sentence": "崇魯與崔昭緯相善。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔昭緯",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000460",
@@ -3833,12 +4241,31 @@
   {
     "sentence_id": "HCH_008_179_000465",
     "sentence": "昭緯召李茂貞、王行瑜、韓建稱兵入朝，殺昭度與谿。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李茂貞",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "王行瑜",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000466",
     "sentence": "其年，太原誅王行瑜，昭緯貶官，崇魯坐貶崖州司戸。",
     "entities": [
+      {
+        "text": "王行瑜",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "崇魯坐貶崖州",
         "label": "LOC",
@@ -3877,12 +4304,26 @@
   {
     "sentence_id": "HCH_008_179_000471",
     "sentence": "徐彥若",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐彥若",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000472",
     "sentence": "徐彥若，天后朝大理卿有功之裔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐彥若",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000473",
@@ -4072,6 +4513,12 @@
         "label": "TITLE",
         "start": 21,
         "end": 23
+      },
+      {
+        "text": "李茂貞",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
@@ -4257,7 +4704,14 @@
   {
     "sentence_id": "HCH_008_179_000502",
     "sentence": "九月，宰相韋昭度領鹽鐵，奏爲巡官。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋昭度",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000503",
@@ -4429,7 +4883,14 @@
   {
     "sentence_id": "HCH_008_179_000520",
     "sentence": "九月，覃王率師送徐彥若赴鳳翔。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐彥若",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000521",
@@ -4610,12 +5071,6 @@
         "label": "LOC",
         "start": 5,
         "end": 9
-      },
-      {
-        "text": "損等被害於滑州",
-        "label": "LOC",
-        "start": 21,
-        "end": 28
       }
     ]
   },
@@ -4769,6 +5224,12 @@
     "sentence": "翌日對學士，上謂之曰：「朕以柳璨奇特，似可獎任。若令預政事，宜授何官？」承旨張文蔚曰：「陛下拔用賢能，固不拘資級。恩命高下，出自聖懷。若循兩省遷轉，拾遺超等入起居郎，臨大位，非宜也。」帝曰：「超至諫議大夫可乎？」文蔚曰：「此命甚愜。」即以諫議大夫平章事，改中書侍郎。",
     "entities": [
       {
+        "text": "張文蔚",
+        "label": "PER",
+        "start": 38,
+        "end": 41
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 100,
@@ -4796,7 +5257,14 @@
   {
     "sentence_id": "HCH_008_179_000562",
     "sentence": "同列裴樞、獨孤損、崔遠皆宿素名德，遽與璨同列，意微輕之，璨深蓄怨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤損",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000563",
@@ -4818,7 +5286,14 @@
   {
     "sentence_id": "HCH_008_179_000565",
     "sentence": "而妖星謫見，占者云：「君臣俱災，宜刑殺以應天變。」蔣玄暉、張廷範謀殺衣冠宿望難制者，璨即首疏素所不快者三十餘人，相次誅殺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張廷範",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_179_000566",

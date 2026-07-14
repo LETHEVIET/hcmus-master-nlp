@@ -40,16 +40,34 @@
         "end": 32
       },
       {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      },
+      {
         "text": "兗州",
         "label": "LOC",
         "start": 44,
         "end": 46
       },
       {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 46,
+        "end": 49
+      },
+      {
         "text": "徐州",
         "label": "LOC",
         "start": 58,
         "end": 60
+      },
+      {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 60,
+        "end": 63
       },
       {
         "text": "滑州",
@@ -68,6 +86,12 @@
         "label": "LOC",
         "start": 101,
         "end": 104
+      },
+      {
+        "text": "宋彥筠",
+        "label": "PER",
+        "start": 104,
+        "end": 107
       },
       {
         "text": "洺州",
@@ -216,12 +240,6 @@
         "label": "LOC",
         "start": 61,
         "end": 65
-      },
-      {
-        "text": "後安審琦為邠州",
-        "label": "LOC",
-        "start": 66,
-        "end": 73
       }
     ]
   },
@@ -233,14 +251,7 @@
   {
     "sentence_id": "HCH_007_085_000012",
     "sentence": "丁酉，詔李守貞知幽州行府事。",
-    "entities": [
-      {
-        "text": "詔李守貞知幽州",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_085_000013",
@@ -280,12 +291,6 @@
     "sentence": "會張彥澤領騎自鎮定至，且言契丹可破之狀，於是大軍西趨鎮州。",
     "entities": [
       {
-        "text": "張彥澤領騎自鎮",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      },
-      {
         "text": "於是大軍西趨鎮",
         "label": "LOC",
         "start": 20,
@@ -308,6 +313,18 @@
         "label": "LOC",
         "start": 46,
         "end": 52
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 54,
+        "end": 57
+      },
+      {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 58,
+        "end": 61
       },
       {
         "text": "及發兵守澶州",
@@ -344,12 +361,6 @@
         "label": "LOC",
         "start": 0,
         "end": 3
-      },
-      {
-        "text": "符彥卿屯澶州",
-        "label": "LOC",
-        "start": 3,
-        "end": 9
       }
     ]
   },
@@ -363,10 +374,10 @@
     "sentence": "壬戌，又遣高行周屯澶州，景延廣守河陽。",
     "entities": [
       {
-        "text": "遣高行周屯澶州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
+        "text": "景延廣",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -403,6 +414,18 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       },
       {
         "text": "邢州",
@@ -449,7 +472,14 @@
   {
     "sentence_id": "HCH_007_085_000030",
     "sentence": "壬申，始聞杜威、李守貞等以此月十日率諸軍降於契丹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_085_000031",
@@ -460,6 +490,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "自封丘門斬關",
@@ -473,6 +509,12 @@
     "sentence_id": "HCH_007_085_000032",
     "sentence": "癸酉旦，張彥澤頓兵於明德門外，京城大擾。",
     "entities": [
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "京城",
         "label": "LOC",
@@ -508,10 +550,16 @@
     "sentence": "是夜，偵知張彥澤已至滑州，召李崧、馮玉、李彥韜入內計事，方議詔河東劉知遠起兵赴難，至五鼓初，張彥澤引蕃騎入京。",
     "entities": [
       {
-        "text": "張彥澤已至滑州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
+        "text": "劉知遠",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      },
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 46,
+        "end": 49
       }
     ]
   },
@@ -546,10 +594,22 @@
         "end": 15
       },
       {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "皇帝",
         "label": "TITLE",
         "start": 37,
         "end": 39
+      },
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 51,
+        "end": 54
       },
       {
         "text": "漢步騎來幸汴州",
@@ -671,12 +731,26 @@
   {
     "sentence_id": "HCH_007_085_000057",
     "sentence": "甲戌，張彥澤遷帝與太后及諸宮屬於開封府，遣控鶴指揮使李榮將兵監守。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_085_000058",
     "sentence": "是夜，開封尹桑維翰、宣徽使孟承誨皆遇害。",
-    "entities": []
+    "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_085_000059",
@@ -758,6 +832,12 @@
         "end": 7
       },
       {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      },
+      {
         "text": "以其剽劫京城",
         "label": "LOC",
         "start": 39,
@@ -774,6 +854,24 @@
         "label": "TITLE",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 48,
+        "end": 51
       }
     ]
   },
@@ -1186,6 +1284,30 @@
         "label": "TITLE",
         "start": 99,
         "end": 105
+      },
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 125,
+        "end": 128
+      },
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 146,
+        "end": 149
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 186,
+        "end": 189
+      },
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 298,
+        "end": 301
       }
     ]
   },

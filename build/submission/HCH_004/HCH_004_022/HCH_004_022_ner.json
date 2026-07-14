@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_004_022_000001",
     "sentence": "李元忠",
-    "entities": []
+    "entities": [
+      {
+        "text": "李元忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_022_000002",
     "sentence": "李元忠，趙郡柏人人也。",
     "entities": [
+      {
+        "text": "李元忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "趙郡",
         "label": "LOC",
@@ -178,7 +191,14 @@
   {
     "sentence_id": "HCH_004_022_000019",
     "sentence": "奉絹千疋，元忠唯受一疋，殺五羊以食之，遣奴為導，曰：「若逢賊，但道李元忠遣送。」奴如其言，賊皆捨避。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李元忠",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_022_000020",
@@ -366,7 +386,14 @@
   {
     "sentence_id": "HCH_004_022_000039",
     "sentence": "斛斯椿等以元忠淡於榮利，又不以世事經懷，故不在嫌嫉之地。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛斯椿",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_022_000040",
@@ -1035,6 +1062,12 @@
         "label": "LOC",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "長孫稚",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -1089,6 +1122,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "源子邕",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "大都裴衍屯鄴城",
@@ -1278,6 +1317,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "劉靈助",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "安州",
@@ -2035,6 +2080,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "劉靈助",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -2378,7 +2429,14 @@
   {
     "sentence_id": "HCH_004_022_000203",
     "sentence": "李祖勳嘗宴文士，顯祖使小黃門勑祖勳曰：「茹茹既破，何故無賀表？」使者佇立待之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李祖勳",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_022_000204",
@@ -2870,12 +2928,25 @@
   {
     "sentence_id": "HCH_004_022_000251",
     "sentence": "李義深",
-    "entities": []
+    "entities": [
+      {
+        "text": "李義深",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_022_000252",
     "sentence": "李義深，趙郡高邑人也。",
     "entities": [
+      {
+        "text": "李義深",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "趙郡高邑",
         "label": "LOC",

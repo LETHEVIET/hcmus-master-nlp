@@ -53,7 +53,14 @@
   {
     "sentence_id": "HCH_007_078_000007",
     "sentence": "己酉，朔方軍節度使張希崇卒，贈太師。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張希崇",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_078_000008",
@@ -70,7 +77,14 @@
   {
     "sentence_id": "HCH_007_078_000009",
     "sentence": "甲寅，以侍衛步軍都指揮使、寧江軍節度使景延廣為義成軍節度使，以義成軍節度使馮暉為朔方軍節度使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "景延廣",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_078_000010",
@@ -123,6 +137,18 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "呂咸休",
+        "label": "PER",
+        "start": 55,
+        "end": 58
+      },
+      {
+        "text": "李知損",
+        "label": "PER",
+        "start": 72,
+        "end": 75
       },
       {
         "text": "御史",
@@ -342,18 +368,44 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "張萬進",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
   {
     "sentence_id": "HCH_007_078_000038",
     "sentence": "己未，皇子開封尹鄭王重貴、歸德軍節度使兼侍衛親軍馬步軍都指揮使劉知遠、忠武軍節度使杜重威，並加同中書門下平章事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉知遠",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      },
+      {
+        "text": "杜重威",
+        "label": "PER",
+        "start": 41,
+        "end": 44
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_078_000039",
     "sentence": "天平軍節度使趙在禮封衛國公。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_078_000040",
@@ -387,13 +439,26 @@
         "label": "LOC",
         "start": 70,
         "end": 77
+      },
+      {
+        "text": "張彥澤",
+        "label": "PER",
+        "start": 83,
+        "end": 86
       }
     ]
   },
   {
     "sentence_id": "HCH_007_078_000043",
     "sentence": "夏四月壬申朔，以河中節度副使薛仁謙為衛尉卿。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛仁謙",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_078_000044",
@@ -404,12 +469,6 @@
         "label": "LOC",
         "start": 3,
         "end": 6
-      },
-      {
-        "text": "使宋彥筠為同州",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
       },
       {
         "text": "領壽州",
@@ -535,17 +594,42 @@
   {
     "sentence_id": "HCH_007_078_000051",
     "sentence": "先是，桑維翰免樞密之務，以劉處讓代之，奏議多不稱旨，及處讓丁母憂，遂以密院印付中書，故密院廢焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "劉處讓",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_078_000052",
     "sentence": "丙戌，以韓昭裔為兵部尚書致仕，馬裔孫為太子賓客致仕，房暠為右驍衛大將軍致仕，皆唐末帝之舊臣也。",
     "entities": [
       {
+        "text": "韓昭裔",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "馬裔孫",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       },
       {
         "text": "太子",
@@ -660,9 +744,9 @@
         "end": 4
       },
       {
-        "text": "使安叔千為滄州",
+        "text": "滄州",
         "label": "LOC",
-        "start": 6,
+        "start": 11,
         "end": 13
       }
     ]
@@ -681,6 +765,12 @@
         "label": "LOC",
         "start": 3,
         "end": 10
+      },
+      {
+        "text": "錢元瓘",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -705,6 +795,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "崔居儉",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -902,6 +998,12 @@
         "label": "LOC",
         "start": 82,
         "end": 85
+      },
+      {
+        "text": "錢元瓘",
+        "label": "PER",
+        "start": 93,
+        "end": 96
       }
     ]
   },
@@ -1043,6 +1145,12 @@
         "end": 8
       },
       {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "相州",
         "label": "LOC",
         "start": 31,
@@ -1129,6 +1237,12 @@
         "label": "LOC",
         "start": 12,
         "end": 15
+      },
+      {
+        "text": "錢元瓘",
+        "label": "PER",
+        "start": 35,
+        "end": 38
       }
     ]
   },
@@ -1153,7 +1267,14 @@
   {
     "sentence_id": "HCH_007_078_000092",
     "sentence": "丙辰，司天監馬重績等進所撰新歷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬重績",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_078_000093",
@@ -1237,6 +1358,12 @@
         "end": 7
       },
       {
+        "text": "鮑君福",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "判湖州",
         "label": "LOC",
         "start": 26,
@@ -1253,6 +1380,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "天下諸州",
@@ -1357,7 +1490,20 @@
   {
     "sentence_id": "HCH_007_078_000107",
     "sentence": "庚戌，閩王王昶、威武軍節度使王繼恭遣僚佐林思、鄭元弼等朝貢，致書於宰執，無人臣之禮。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王繼恭",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "text": "鄭元弼",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_078_000108",
@@ -1368,13 +1514,26 @@
         "label": "LOC",
         "start": 10,
         "end": 13
+      },
+      {
+        "text": "鄭元弼",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
   {
     "sentence_id": "HCH_007_078_000109",
     "sentence": "既而兵部員外郎李知損上疏，請禁錮使人，籍沒綱運。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李知損",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_078_000110",
@@ -1527,6 +1686,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "楊凝式",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "尚書",

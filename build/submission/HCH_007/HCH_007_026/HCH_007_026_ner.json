@@ -26,7 +26,14 @@
   {
     "sentence_id": "HCH_007_026_000002",
     "sentence": "武皇遣李存信將兵應援，李存孝素與存信不協，遞相猜貳，留兵不進。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李存孝",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_026_000003",
@@ -107,6 +114,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "李存孝",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -119,6 +132,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "李存孝",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -147,14 +166,7 @@
   {
     "sentence_id": "HCH_007_026_000013",
     "sentence": "進軍下井陘，李存孝將兵夜入鎮州，鎮人乞師於汴；汴帥方攻時溥，不暇應之。",
-    "entities": [
-      {
-        "text": "存孝將兵夜入鎮",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_026_000014",
@@ -172,12 +184,6 @@
     "sentence_id": "HCH_007_026_000015",
     "sentence": "七月，武皇討李存孝於邢州，遂攻平山，渡滹水，攻鎮州。",
     "entities": [
-      {
-        "text": "討李存孝於邢州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      },
       {
         "text": "攻鎮州",
         "label": "LOC",
@@ -224,12 +230,6 @@
         "label": "TME",
         "start": 2,
         "end": 4
-      },
-      {
-        "text": "邢州李存孝出城",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
       }
     ]
   },
@@ -308,7 +308,14 @@
   {
     "sentence_id": "HCH_007_026_000026",
     "sentence": "初，李匡儔奪據兄位，燕人多不義之，安塞軍戍將劉仁恭挈族歸於武皇，武皇遇之甚厚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_026_000027",
@@ -325,14 +332,7 @@
   {
     "sentence_id": "HCH_007_026_000028",
     "sentence": "武皇方討李存孝於邢州，輟兵數千，欲納仁恭，不利而還。",
-    "entities": [
-      {
-        "text": "討李存孝於邢州",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_026_000029",
@@ -474,12 +474,6 @@
         "label": "LOC",
         "start": 8,
         "end": 11
-      },
-      {
-        "text": "審與劉仁恭入城",
-        "label": "LOC",
-        "start": 21,
-        "end": 28
       }
     ]
   },
@@ -498,12 +492,6 @@
         "label": "LOC",
         "start": 7,
         "end": 12
-      },
-      {
-        "text": "劉仁恭徇諸屬郡",
-        "label": "LOC",
-        "start": 18,
-        "end": 25
       }
     ]
   },
@@ -764,7 +752,14 @@
   {
     "sentence_id": "HCH_007_026_000064",
     "sentence": "八月乙酉，供奉官張承業齎詔告諭。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_026_000065",
@@ -1167,6 +1162,12 @@
         "label": "LOC",
         "start": 24,
         "end": 26
+      },
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -1201,6 +1202,12 @@
         "label": "LOC",
         "start": 4,
         "end": 11
+      },
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -1260,6 +1267,12 @@
         "label": "LOC",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -1526,14 +1539,7 @@
   {
     "sentence_id": "HCH_007_026_000145",
     "sentence": "時汴將賀德倫、張歸厚等守潞州。",
-    "entities": [
-      {
-        "text": "張歸厚等守潞州",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_026_000146",
@@ -1586,6 +1592,12 @@
         "label": "LOC",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -1740,6 +1752,12 @@
     "sentence": "四月，汴將氏叔琮率兵五萬自太行路寇澤、潞，魏博大將張文恭領軍自新口入，葛從周領兗、鄆之眾自土門入，張歸厚以邢、洺之眾自馬嶺入，定州王處直之眾自飛狐入，侯言以晉、絳之兵自陰地入。",
     "entities": [
       {
+        "text": "張歸厚",
+        "label": "PER",
+        "start": 49,
+        "end": 52
+      },
+      {
         "text": "定州",
         "label": "LOC",
         "start": 63,
@@ -1750,14 +1768,7 @@
   {
     "sentence_id": "HCH_007_026_000163",
     "sentence": "氏叔琮、康懷英營於澤州之昂車。",
-    "entities": [
-      {
-        "text": "康懷英營於澤州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_026_000164",
@@ -1857,7 +1868,14 @@
   {
     "sentence_id": "HCH_007_026_000170",
     "sentence": "時大將李嗣昭、李嗣源每夜率驍騎突營掩殺，敵眾恐懼。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_026_000171",
@@ -2118,7 +2136,14 @@
   {
     "sentence_id": "HCH_007_026_000192",
     "sentence": "李嗣昭與李嗣源夜入汴軍，斬將搴旗，敵人扞禦不暇，自相驚擾。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_026_000193",
@@ -2171,6 +2196,12 @@
         "label": "LOC",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -2306,6 +2337,12 @@
         "label": "LOC",
         "start": 39,
         "end": 46
+      },
+      {
+        "text": "牛存節",
+        "label": "PER",
+        "start": 53,
+        "end": 56
       }
     ]
   },
@@ -2324,6 +2361,12 @@
         "label": "LOC",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "將攻潞州",
@@ -2528,6 +2571,12 @@
     "sentence": "五月，梁祖遣其將康懷英率兵十萬圍潞州，懷英驅率士眾，築壘環城，城中音信斷絕。",
     "entities": [
       {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "率兵十萬圍潞州",
         "label": "LOC",
         "start": 11,
@@ -2689,7 +2738,14 @@
   {
     "sentence_id": "HCH_007_026_000251",
     "sentence": "淮南楊行密常恨識其狀貌，因使畫工詐為商賈，往河東寫之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊行密",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_026_000252",
@@ -2722,6 +2778,12 @@
         "end": 7
       },
       {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
         "text": "汝不先下幽州",
         "label": "LOC",
         "start": 31,
@@ -2732,7 +2794,14 @@
   {
     "sentence_id": "HCH_007_026_000257",
     "sentence": "及討劉仁恭，命幕吏以少牢告廟，請一矢，盛以錦囊，使親將負之以為前驅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_026_000258",

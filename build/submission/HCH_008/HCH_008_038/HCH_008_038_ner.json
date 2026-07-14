@@ -15631,12 +15631,6 @@
         "end": 9
       },
       {
-        "text": "忠嗣奏請割勝州",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
-      },
-      {
         "text": "銀城兩縣置麟州",
         "label": "LOC",
         "start": 21,
@@ -18261,10 +18255,22 @@
         "end": 2
       },
       {
+        "text": "史思明",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "洛陽",
         "label": "LOC",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -18272,6 +18278,12 @@
     "sentence_id": "HCH_008_038_001185",
     "sentence": "及雍王平賊，留觀軍容使魚朝恩守河陽，乃以河南府之河陽、河清、濟源、溫四縣租稅入河陽三城使。",
     "entities": [
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
       {
         "text": "溫四縣",
         "label": "LOC",
@@ -19738,6 +19750,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "李齊物",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "因改為平陸縣",
@@ -21862,12 +21880,6 @@
     "sentence": "縣人王要漢率豪族置縣於汴州之內，要漢自為縣令。",
     "entities": [
       {
-        "text": "要漢率豪族置縣",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      },
-      {
         "text": "於汴州",
         "label": "LOC",
         "start": 10,
@@ -22584,12 +22596,6 @@
         "label": "TME",
         "start": 2,
         "end": 5
-      },
-      {
-        "text": "討吳元濟于文城",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
       },
       {
         "text": "置行吳房縣",
@@ -26319,6 +26325,12 @@
         "end": 4
       },
       {
+        "text": "徐圓朗",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "於鄆城置鄆州",
         "label": "LOC",
         "start": 10,
@@ -27161,12 +27173,6 @@
         "label": "TME",
         "start": 2,
         "end": 4
-      },
-      {
-        "text": "源中奏置平陰縣",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
       }
     ]
   },
@@ -28160,6 +28166,12 @@
         "end": 4
       },
       {
+        "text": "徐圓朗",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "置兗州",
         "label": "LOC",
         "start": 10,
@@ -29087,12 +29099,6 @@
     "sentence": "其徐州都督，管徐、泗、譙三州。",
     "entities": [
       {
-        "text": "其徐州",
-        "label": "LOC",
-        "start": 0,
-        "end": 3
-      },
-      {
         "text": "譙三州",
         "label": "LOC",
         "start": 11,
@@ -29989,6 +29995,12 @@
         "end": 4
       },
       {
+        "text": "徐圓朗",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "置沂州",
         "label": "LOC",
         "start": 10,
@@ -30630,6 +30642,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "殷仲卿",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "請治于故昌安城",

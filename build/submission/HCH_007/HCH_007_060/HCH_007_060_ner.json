@@ -51,7 +51,14 @@
   {
     "sentence_id": "HCH_007_060_000008",
     "sentence": "自武皇上源之難，與梁祖不協，乾寧末，劉仁恭負恩，其間論列是非，交相聘答者數百篇，警策之句，播在人口，文士稱之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_060_000009",
@@ -450,6 +457,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -686,12 +699,6 @@
         "label": "TME",
         "start": 0,
         "end": 3
-      },
-      {
-        "text": "史建瑭收新鄉",
-        "label": "LOC",
-        "start": 10,
-        "end": 16
       }
     ]
   },
@@ -734,7 +741,14 @@
   {
     "sentence_id": "HCH_007_060_000088",
     "sentence": "監軍張承業尤不悅本朝宰輔子孫，待敬義甚薄，或面折於公宴，或指言德裕過惡，敬義不得志，鬱憤而卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_060_000089",
@@ -1212,6 +1226,12 @@
     "sentence_id": "HCH_007_060_000131",
     "sentence": "時張承業未欲莊宗即尊位，諸將賓僚無敢讚成者，及循至，入衙城見府廨即拜，謂之拜殿。",
     "entities": [
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "入衙城",
         "label": "LOC",

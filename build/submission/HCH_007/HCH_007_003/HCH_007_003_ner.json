@@ -20,7 +20,14 @@
   {
     "sentence_id": "HCH_007_003_000002",
     "sentence": "節度使羅紹威以帝回軍，慮有不測之患，由是供億甚至，因密以天人之望切陳之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_003_000003",
@@ -1046,7 +1053,14 @@
   {
     "sentence_id": "HCH_007_003_000093",
     "sentence": "魏博羅紹威二男廷望、廷矩，年在幼稚，皆有材器，帝以其籓屏勳臣之胄，宜受非次之用，皆擢為郎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_003_000094",

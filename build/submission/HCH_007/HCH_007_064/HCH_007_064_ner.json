@@ -4,6 +4,12 @@
     "sentence": "霍彥威，字子重，洺州曲周人也。",
     "entities": [
       {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "洺州",
         "label": "LOC",
         "start": 8,
@@ -83,6 +89,12 @@
         "end": 4
       },
       {
+        "text": "朱友珪",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "刺史",
         "label": "TITLE",
         "start": 21,
@@ -101,12 +113,6 @@
         "end": 6
       },
       {
-        "text": "衡背李茂貞以城",
-        "label": "LOC",
-        "start": 10,
-        "end": 17
-      },
-      {
         "text": "梁以彥威為邠州",
         "label": "LOC",
         "start": 20,
@@ -117,7 +123,14 @@
   {
     "sentence_id": "HCH_007_064_000011",
     "sentence": "其年五月，茂貞遣將劉知俊率大軍攻之，彥威固守逾年，竟不能下；或得其俘，悉令放之，秦人懷其惠，遂無侵擾。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_064_000012",
@@ -218,12 +231,26 @@
   {
     "sentence_id": "HCH_007_064_000023",
     "sentence": "時趙在禮據魏州，與明宗會兵於鄴下，大軍夕亂，明宗為其所逼，彥威從入魏州。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏",
+        "label": "ORG",
+        "start": 5,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_064_000024",
     "sentence": "皇甫暉等尤忌彥威，欲殺之，彥威機辯開說，竟免。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫暉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_064_000025",
@@ -240,7 +267,14 @@
   {
     "sentence_id": "HCH_007_064_000026",
     "sentence": "時明宗欲北趨常山，彥威與安重誨懇請赴闕。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_064_000027",
@@ -268,6 +302,12 @@
     "sentence_id": "HCH_007_064_000030",
     "sentence": "安重誨曰：「溫、段罪惡，負於梁室，眾所知矣。今主上克平內艱，冀安萬國，豈為公報仇耶！」至天成初，除鄆州節度使。",
     "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "除鄆州",
         "label": "LOC",
@@ -343,6 +383,12 @@
         "label": "TME",
         "start": 10,
         "end": 14
+      },
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -373,7 +419,14 @@
   {
     "sentence_id": "HCH_007_064_000039",
     "sentence": "王晏球，字瑩之，自言洛都人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_064_000040",
@@ -431,6 +484,12 @@
     "sentence_id": "HCH_007_064_000045",
     "sentence": "朱友珪之篡位也，懷州龍驤守禦軍作亂，欲入京城。",
     "entities": [
+      {
+        "text": "朱友珪",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "懷州",
         "label": "LOC",
@@ -553,6 +612,12 @@
     "sentence": "明年，與霍彥威北捍契丹，授齊州防禦使、北面行營馬軍都指揮使，仍賜姓氏，名紹虔。",
     "entities": [
       {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "授齊州",
         "label": "LOC",
         "start": 12,
@@ -612,6 +677,18 @@
         "end": 17
       },
       {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 67,
+        "end": 70
+      },
+      {
         "text": "權知定州行州",
         "label": "LOC",
         "start": 77,
@@ -629,6 +706,18 @@
     "sentence_id": "HCH_007_064_000060",
     "sentence": "王都、托諾出軍拒戰，晏球督厲軍士，令短兵擊賊，戒之曰：「回首者死。」符彥卿以龍武左軍攻軍其左，高行周以龍武右軍攻其右，奮劍揮楇，應手首落，賊軍大敗於嘉山之下，追襲至於城門。",
     "entities": [
+      {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 47,
+        "end": 50
+      },
       {
         "text": "追襲至於城",
         "label": "LOC",
@@ -663,6 +752,12 @@
         "label": "LOC",
         "start": 2,
         "end": 9
+      },
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -773,7 +868,14 @@
   {
     "sentence_id": "HCH_007_064_000073",
     "sentence": "戴思遠，本梁之故將也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "戴思遠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_064_000074",
@@ -881,10 +983,16 @@
     "sentence": "屬燕將張萬進殺滄州留後劉繼威，以城歸梁，末帝命思遠鎮之。",
     "entities": [
       {
-        "text": "將張萬進殺滄州",
+        "text": "滄州",
         "label": "LOC",
-        "start": 2,
+        "start": 7,
         "end": 9
+      },
+      {
+        "text": "劉繼威",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       },
       {
         "text": "以城",
@@ -951,14 +1059,7 @@
   {
     "sentence_id": "HCH_007_064_000084",
     "sentence": "城中危急，符存審晝夜乘城以拒之。",
-    "entities": [
-      {
-        "text": "符存審晝夜乘城",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_064_000085",
@@ -1222,7 +1323,14 @@
   {
     "sentence_id": "HCH_007_064_000108",
     "sentence": "趙在禮據魏州，元行欽率軍進討，詔漢賓權知河南府事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏",
+        "label": "ORG",
+        "start": 4,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_064_000109",
@@ -1233,6 +1341,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -1707,6 +1821,12 @@
     "sentence": "少事燕帥劉仁恭為騎將，表為媯州刺史。",
     "entities": [
       {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "表為媯州",
         "label": "LOC",
         "start": 11,
@@ -1747,6 +1867,12 @@
         "label": "LOC",
         "start": 5,
         "end": 12
+      },
+      {
+        "text": "張萬進",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },

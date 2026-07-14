@@ -46,7 +46,14 @@
   {
     "sentence_id": "HCH_007_126_000007",
     "sentence": "守光敗，遁歸太原，監軍使張承業辟為本院巡官。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_126_000008",
@@ -61,7 +68,14 @@
   {
     "sentence_id": "HCH_007_126_000010",
     "sentence": "莊宗與梁軍夾河對壘，一日，郭崇韜以諸校伴食數多，主者不辦，請少罷減。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_126_000011",
@@ -135,7 +149,14 @@
   {
     "sentence_id": "HCH_007_126_000018",
     "sentence": "明宗入洛，遽謂近臣安重誨曰：「先帝時馮道郎中何在？」重誨曰：「近除翰林學士。」明宗曰：「此人朕素諳委，甚好宰相。」俄拜端明殿學士，端明之號，自道始也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_126_000019",
@@ -1186,6 +1207,12 @@
         "label": "LOC",
         "start": 7,
         "end": 11
+      },
+      {
+        "text": "趙上交",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -1225,7 +1252,14 @@
   {
     "sentence_id": "HCH_007_126_000111",
     "sentence": "趙上交與王度聞之，皆惶怖不知所為，惟道偃仰自適，略無懼色，尋亦獲免焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙上交",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_126_000112",

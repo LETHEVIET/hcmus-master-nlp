@@ -278,6 +278,12 @@
         "label": "LOC",
         "start": 64,
         "end": 70
+      },
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 111,
+        "end": 114
       }
     ]
   },
@@ -810,7 +816,14 @@
   {
     "sentence_id": "HCH_003_071_000098",
     "sentence": "大軍北伐，河間王弘、豆盧勣、竇榮定、高熲、虞慶則等分道而進，以爽為元帥，俱受爽節度。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧勣",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_071_000099",
@@ -1966,6 +1979,12 @@
     "sentence": "因引張衡定策，遣褒公宇文述深交楊約，令喻旨於越公素，具言皇后此語。",
     "entities": [
       {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "皇后",
         "label": "TITLE",
         "start": 28,
@@ -2232,6 +2251,12 @@
         "end": 183
       },
       {
+        "text": "陳叔寶",
+        "label": "PER",
+        "start": 218,
+        "end": 221
+      },
+      {
         "text": "十八年",
         "label": "TME",
         "start": 245,
@@ -2432,6 +2457,12 @@
         "label": "LOC",
         "start": 283,
         "end": 285
+      },
+      {
+        "text": "崔君綽",
+        "label": "PER",
+        "start": 286,
+        "end": 289
       },
       {
         "text": "瀛州",
@@ -3054,6 +3085,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 14
+      },
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -3571,12 +3608,25 @@
   {
     "sentence_id": "HCH_003_071_000390",
     "sentence": "王頍者，梁將王僧辯之子，少倜儻，有奇略，為諒諮議參軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王僧辯",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_071_000391",
     "sentence": "蕭摩訶者，陳氏舊將。",
     "entities": [
+      {
+        "text": "蕭摩訶",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "陳氏",
         "label": "ORG",

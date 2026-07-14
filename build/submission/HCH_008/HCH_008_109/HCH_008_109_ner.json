@@ -250,12 +250,26 @@
   {
     "sentence_id": "HCH_008_109_000022",
     "sentence": "阿史那社爾",
-    "entities": []
+    "entities": [
+      {
+        "text": "阿史那社爾",
+        "label": "PER",
+        "start": 0,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000023",
     "sentence": "阿史那社爾，突厥處羅可汗子也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "阿史那社爾",
+        "label": "PER",
+        "start": 0,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000024",
@@ -323,7 +337,14 @@
   {
     "sentence_id": "HCH_008_109_000031",
     "sentence": "遇我行人劉善因立同娥設為咥利始可汗，社爾部兵又苦久役，多委之逃。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉善因",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000032",
@@ -533,7 +554,14 @@
   {
     "sentence_id": "HCH_008_109_000053",
     "sentence": "貞觀初，阿史那蘇尼失者，啟民可汗之母弟，社{人小}叔祖也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "阿史那蘇尼失",
+        "label": "PER",
+        "start": 4,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000054",
@@ -688,12 +716,26 @@
   {
     "sentence_id": "HCH_008_109_000067",
     "sentence": "契苾何力",
-    "entities": []
+    "entities": [
+      {
+        "text": "契苾何力",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000068",
     "sentence": "契苾何力，其先鐵勒別部之酋長也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "契苾何力",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000069",
@@ -761,6 +803,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "李大亮",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "將軍",
@@ -901,10 +949,22 @@
         "end": 62
       },
       {
+        "text": "契苾何力",
+        "label": "PER",
+        "start": 69,
+        "end": 73
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 82,
         "end": 84
+      },
+      {
+        "text": "崔敦禮",
+        "label": "PER",
+        "start": 84,
+        "end": 87
       },
       {
         "text": "公主",
@@ -1254,12 +1314,26 @@
   {
     "sentence_id": "HCH_008_109_000124",
     "sentence": "黑齒常之",
-    "entities": []
+    "entities": [
+      {
+        "text": "黑齒常之",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000125",
     "sentence": "黑齒常之，百濟西部人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "黑齒常之",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000126",
@@ -1293,6 +1367,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "蘇定方",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1352,12 +1432,26 @@
   {
     "sentence_id": "HCH_008_109_000134",
     "sentence": "儀鳳中，吐蕃犯邊，常之從李敬玄擊之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李敬玄",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000135",
     "sentence": "劉審禮之沒賊，敬玄欲抽軍，卻阻泥溝，而計無所出。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉審禮",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000136",
@@ -1485,6 +1579,18 @@
         "label": "LOC",
         "start": 3,
         "end": 9
+      },
+      {
+        "text": "李多祚",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "王九言",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -1540,12 +1646,26 @@
   {
     "sentence_id": "HCH_008_109_000158",
     "sentence": "李多祚",
-    "entities": []
+    "entities": [
+      {
+        "text": "李多祚",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000159",
     "sentence": "李多祚，代為靺鞨酋長。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李多祚",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000160",
@@ -1569,6 +1689,18 @@
     "sentence": "神龍初，張柬之將誅張易之兄弟，引多祚將籌其事，謂曰：「將軍在北門幾年？」曰：「三十年矣。」柬之曰：「將軍擊鐘鼎食，金章紫綬，貴寵當代，位極武臣，豈非大帝之恩乎？」曰：「然。」又曰：「將軍既感大帝殊澤，能有報乎？大帝之子見在東宮，逆豎張易之兄弟擅權，朝夕危逼。宗社之重，於將軍，誠能報恩，正屬今日。」多祚曰：「茍緣王室，惟相公所使，終不顧妻子性命。」因即引天地神祗為要誓，詞氣感動，義形於色。",
     "entities": [
       {
+        "text": "張柬之",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 27,
@@ -1591,6 +1723,12 @@
         "label": "TITLE",
         "start": 91,
         "end": 93
+      },
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 116,
+        "end": 119
       },
       {
         "text": "將軍",
@@ -1626,6 +1764,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "李多祚",
+        "label": "PER",
+        "start": 48,
+        "end": 51
       }
     ]
   },
@@ -1640,10 +1784,22 @@
         "end": 4
       },
       {
+        "text": "武三思",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 16,
         "end": 19
+      },
+      {
+        "text": "李千里",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -1696,18 +1852,38 @@
         "label": "LOC",
         "start": 42,
         "end": 45
+      },
+      {
+        "text": "李多祚",
+        "label": "PER",
+        "start": 46,
+        "end": 49
       }
     ]
   },
   {
     "sentence_id": "HCH_008_109_000172",
     "sentence": "李嗣業",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣業",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000173",
     "sentence": "李嗣業，京兆高陵人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣業",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000174",
@@ -1744,7 +1920,14 @@
   {
     "sentence_id": "HCH_008_109_000179",
     "sentence": "天寶七載，安西都知兵馬使高仙芝奉詔總軍，專征勃律，選嗣業與郎將田珍為左右陌刀將。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高仙芝",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000180",
@@ -1928,7 +2111,14 @@
   {
     "sentence_id": "HCH_008_109_000201",
     "sentence": "至鳳翔謁見，上曰：「今日得卿，勝數萬眾，事之濟否，實在卿也。」遂與郭子儀、仆固懷恩等常犄角為先鋒將。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000202",
@@ -1967,6 +2157,18 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "王思禮",
+        "label": "PER",
+        "start": 42,
+        "end": 45
       }
     ]
   },
@@ -1983,7 +2185,14 @@
   {
     "sentence_id": "HCH_008_109_000208",
     "sentence": "嗣業謂郭子儀曰：「今日之事，若不以身啖寇，決戰於陣，萬死而冀其一生。不然，則我軍無孑遺矣。」嗣業乃脫衣徒搏，執長刀立於陣前大呼，當嗣業刀者，人馬俱碎，殺十數人，陣容方駐。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000209",
@@ -2010,6 +2219,12 @@
     "sentence": "賊帥張通儒、安守忠、李歸仁等收合殘卒，東走保陜郡。",
     "entities": [
       {
+        "text": "張通儒",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "東走保陜郡",
         "label": "LOC",
         "start": 19,
@@ -2025,7 +2240,20 @@
   {
     "sentence_id": "HCH_008_109_000215",
     "sentence": "廣平王、郭子儀、王思禮等大軍營於陜西。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "王思禮",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000216",
@@ -2114,6 +2342,12 @@
         "end": 47
       },
       {
+        "text": "李嗣業",
+        "label": "PER",
+        "start": 60,
+        "end": 63
+      },
+      {
         "text": "可贈武威郡",
         "label": "LOC",
         "start": 187,
@@ -2124,12 +2358,26 @@
   {
     "sentence_id": "HCH_008_109_000227",
     "sentence": "白孝德",
-    "entities": []
+    "entities": [
+      {
+        "text": "白孝德",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000228",
     "sentence": "白孝德，安西胡人也，驍悍有膽力。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白孝德",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000229",
@@ -2140,6 +2388,12 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -2147,6 +2401,12 @@
     "sentence_id": "HCH_008_109_000230",
     "sentence": "史思明攻河陽，使驍將劉龍仙率鐵騎五千臨城挑戰。",
     "entities": [
+      {
+        "text": "史思明",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "率鐵騎五千臨城",
         "label": "LOC",
@@ -2169,6 +2429,12 @@
         "label": "LOC",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "白孝德",
+        "label": "PER",
+        "start": 48,
+        "end": 51
       }
     ]
   },
@@ -2200,7 +2466,14 @@
   {
     "sentence_id": "HCH_008_109_000238",
     "sentence": "孝德息馬伺便，因瞋目曰：「賊識我乎？」龍仙曰：「誰耶？」曰：「我，國之大將白孝德也。」龍仙曰：「是何豬狗！」孝德發聲寔啖，持矛躍馬而搏之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白孝德",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_109_000239",

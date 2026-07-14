@@ -7,7 +7,26 @@
   {
     "sentence_id": "HCH_003_089_000002",
     "sentence": "晁崇 張深 殷紹 王早 耿玄 劉靈助 沙門靈遠 李順興 檀特師 由吾道榮 張遠遊 顏惡頭 王春 信都芳 宋景業 許遵 麹紹 吳遵世 趙輔和 皇甫玉 解法選 魏甯 綦母懷文 張子信 陸法和 蔣升 強練 庾季才子質 盧太翼 耿詢 來和 蕭吉 楊伯醜 臨孝恭 劉祐 張胄玄",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉靈助",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "陸法和",
+        "label": "PER",
+        "start": 90,
+        "end": 93
+      },
+      {
+        "text": "庾季才",
+        "label": "PER",
+        "start": 100,
+        "end": 103
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_089_000003",
@@ -91,6 +110,12 @@
     "sentence": "在魏，則敘晁崇、張深、殷紹、王早、耿玄、劉靈助、江式、周澹、李脩、徐謇、王顯、崔彧、蔣少遊，以為《 術藝傳 》；在齊，則有由吾道榮、王春、信都芳、宋景業、許遵、吳遵世、趙輔和、皇甫玉、解法選、魏甯、綦母懷文、張子信、馬嗣明為《 方伎傳 》；在周，則有冀俊、蔣升、姚僧垣、黎景熙、趙文深、褚該、強練，以為《 藝術傳 》；在隋，則有庾季才、盧太翼、耿詢、韋鼎、來和、蕭吉、張胄玄、許智藏、萬寶常為《 藝術傳 》。",
     "entities": [
       {
+        "text": "劉靈助",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "《 術藝傳 》",
         "label": "TITLE",
         "start": 48,
@@ -103,10 +128,22 @@
         "end": 119
       },
       {
+        "text": "姚僧垣",
+        "label": "PER",
+        "start": 131,
+        "end": 134
+      },
+      {
         "text": "《 藝術傳 》",
         "label": "TITLE",
         "start": 151,
         "end": 158
+      },
+      {
+        "text": "庾季才",
+        "label": "PER",
+        "start": 164,
+        "end": 167
       },
       {
         "text": "《 藝術傳 》",
@@ -125,6 +162,18 @@
     "sentence_id": "HCH_003_089_000019",
     "sentence": "又檢得沙門靈遠、李順興、檀特師、顏惡頭，並以陸法和、徐之才、何稠附此篇，以備《藝術傳》。",
     "entities": [
+      {
+        "text": "陸法和",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      },
       {
         "text": "《藝術傳》",
         "label": "TITLE",
@@ -166,12 +215,26 @@
   {
     "sentence_id": "HCH_003_089_000026",
     "sentence": "善天文術數，為慕容垂太史郎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_089_000027",
     "sentence": "從慕容寶敗於參合，為道武所獲。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_089_000028",
@@ -346,6 +409,12 @@
     "sentence_id": "HCH_003_089_000051",
     "sentence": "別駕崔隆宗就禁慰問之，路曰：「昨夜驛馬星流，計赦須臾應至。」隆宗先信之，遂遣人出城候焉，俄而赦至。",
     "entities": [
+      {
+        "text": "崔隆宗",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "遂遣人出城",
         "label": "LOC",
@@ -756,12 +825,25 @@
   {
     "sentence_id": "HCH_003_089_000099",
     "sentence": "劉靈助",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉靈助",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_089_000100",
     "sentence": "劉靈助，燕郡人也。",
     "entities": [
+      {
+        "text": "劉靈助",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "燕郡",
         "label": "LOC",
@@ -794,6 +876,12 @@
     "sentence_id": "HCH_003_089_000105",
     "sentence": "時奉車都尉盧道虔兄弟，亦相率朝行宮，靈助以其州裏，衛護之。",
     "entities": [
+      {
+        "text": "盧道虔",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "靈助以其州",
         "label": "LOC",
@@ -1179,6 +1267,12 @@
     "sentence": "蕭寶夤反，召順興問曰：「朕王可幾年？」對曰：「為天子自有百年者，十年者，一年者，百日者，事由可知。」及寶夤敗，裁百日也。",
     "entities": [
       {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "百年",
         "label": "TME",
         "start": 28,
@@ -1228,7 +1322,14 @@
   {
     "sentence_id": "HCH_003_089_000158",
     "sentence": "後賀拔嶽北征，順興與魏收書，上為毛鴻賓等九人姓名者悉放貴還。",
-    "entities": []
+    "entities": [
+      {
+        "text": "毛鴻賓",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_089_000159",
@@ -1333,7 +1434,14 @@
   {
     "sentence_id": "HCH_003_089_000171",
     "sentence": "未幾，仲和拒不受代，朝廷令獨孤信禽之，仲和身死，資財沒官。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_089_000172",
@@ -2069,7 +2177,14 @@
   {
     "sentence_id": "HCH_003_089_000254",
     "sentence": "又上党李業興撰新曆，自以為長於趙匪攵、何承天、祖沖之三家，芳難業興五闕。",
-    "entities": []
+    "entities": [
+      {
+        "text": "何承天",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_089_000255",
@@ -2087,6 +2202,12 @@
     "sentence_id": "HCH_003_089_000256",
     "sentence": "每云：「何承天亦為此法，而不能精。《靈憲》若成，必當百代無異議者。」書未成而卒。",
     "entities": [
+      {
+        "text": "何承天",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "《靈憲》",
         "label": "TITLE",
@@ -2139,6 +2260,12 @@
     "sentence": "景業因高德政上言：「《易稽覽圖》曰：' 《鼎》，五月，聖人君，天與延年齒，東北水中，庶人王，高得之。'謹案：東北水，謂勃海也。高得之，明高氏得天下也。」時魏武定八年三月也。",
     "entities": [
       {
+        "text": "高德政",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "《易稽覽圖》",
         "label": "TITLE",
         "start": 10,
@@ -2161,7 +2288,20 @@
   {
     "sentence_id": "HCH_003_089_000263",
     "sentence": "高德政、徐之才並勸文宣應天受禪，乃之鄴。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高德政",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_089_000264",
@@ -3114,12 +3254,26 @@
   {
     "sentence_id": "HCH_003_089_000376",
     "sentence": "陸法和",
-    "entities": []
+    "entities": [
+      {
+        "text": "陸法和",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_089_000377",
     "sentence": "陸法和，不知何許人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陸法和",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_089_000378",
@@ -3180,7 +3334,14 @@
   {
     "sentence_id": "HCH_003_089_000384",
     "sentence": "湘東遣胡僧祐領千餘人與同行。",
-    "entities": []
+    "entities": [
+      {
+        "text": "胡僧祐",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_089_000385",
@@ -3237,7 +3398,14 @@
   {
     "sentence_id": "HCH_003_089_000394",
     "sentence": "法和既平約，往進見王僧辯于巴陵，謂曰：「貧道已卻侯景一臂，其更何能為？檀越宜即逐取。」乃請還。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王僧辯",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_089_000395",
@@ -3259,7 +3427,14 @@
   {
     "sentence_id": "HCH_003_089_000397",
     "sentence": "武陵王紀果遣蜀兵來度，峽口勢蹙，進退不可，王琳與法和經略，一戰而殄之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武陵王紀",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_089_000398",
@@ -4086,12 +4261,26 @@
   {
     "sentence_id": "HCH_003_089_000493",
     "sentence": "庾季才",
-    "entities": []
+    "entities": [
+      {
+        "text": "庾季才",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_089_000494",
     "sentence": "庾季才，字叔弈，新野人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "庾季才",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_089_000495",
@@ -4222,7 +4411,14 @@
   {
     "sentence_id": "HCH_003_089_000507",
     "sentence": "後宇文護執政，問以天道徵祥，對曰：「頃上臺有變，不利宰輔，公宜歸政天子，請老私門。」護沈吟久之，曰：「吾本意如此，但辭未獲免。」自是漸疏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_089_000508",
@@ -4970,6 +5166,12 @@
     "sentence": "周大塚宰宇文護引之左右，累遷畿伯下大夫，封洹水縣男。",
     "entities": [
       {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 17,
@@ -5020,6 +5222,12 @@
         "label": "LOC",
         "start": 127,
         "end": 129
+      },
+      {
+        "text": "梁彥光",
+        "label": "PER",
+        "start": 217,
+        "end": 220
       },
       {
         "text": "二年",

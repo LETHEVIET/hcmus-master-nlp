@@ -435,6 +435,7 @@ class TestComplianceCheck:
     def test_clean_submission_passes(self, fake_submission: Path):
         r = compliance_check(fake_submission)
         assert r.fatal_count == 0
+        assert r.n_entities == 2
 
     def test_seg_ner_mismatch_fatal(self, fake_submission: Path):
         # Sửa _seg.tsv để sentence_id khác.

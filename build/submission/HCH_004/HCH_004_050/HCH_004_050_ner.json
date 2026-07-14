@@ -357,6 +357,12 @@
     "sentence": "段韶呼胡長粲傳言，太后曰：「梓宮在殯，事大拚速，欲王等更思量。」趙郡王等遂並拜謝，更無餘言。",
     "entities": [
       {
+        "text": "胡長粲",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "趙郡",
         "label": "LOC",
         "start": 32,
@@ -492,7 +498,14 @@
   {
     "sentence_id": "HCH_004_050_000067",
     "sentence": "瑯邪王儼惡之，與領軍庫狄伏連、侍中馮子琮、禦史王子宜、武衛高舍洛等謀誅之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮子琮",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_050_000068",
@@ -585,12 +598,26 @@
   {
     "sentence_id": "HCH_004_050_000083",
     "sentence": "穆提婆",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_050_000084",
     "sentence": "穆提婆，本姓駱，漢陽人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_050_000085",
@@ -1096,12 +1123,25 @@
   {
     "sentence_id": "HCH_004_050_000140",
     "sentence": "軍國要密，無不經手，與高阿那肱、穆提婆共處衡軸，號曰三貴，損國害政，日月滋甚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_050_000141",
     "sentence": "壽陽陷沒，鳳與穆提婆聞告敗，握槊不輟，曰：「他家物，從他去。」後帝使於黎陽臨河築城戍，曰：「急時且守此作龜茲國子，更可憐人生如寄，唯當行樂，何因愁為？」君臣應和若此。",
     "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "於黎陽臨河築城",
         "label": "LOC",
@@ -1135,7 +1175,14 @@
   {
     "sentence_id": "HCH_004_050_000145",
     "sentence": "陳德信馳驛檢行，見孝言役官夫匠自營宅，卽語云：「僕射為至尊起臺殿未訖，何容先自營造？」鳳及穆提婆亦遣孝言分工匠為己造宅，德信還具奏聞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 45,
+        "end": 48
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_050_000146",

@@ -82,7 +82,14 @@
   {
     "sentence_id": "HCH_008_118_000010",
     "sentence": "東都留守苗晉卿又引為判官，遷大理司直。",
-    "entities": []
+    "entities": [
+      {
+        "text": "苗晉卿",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000011",
@@ -104,6 +111,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "李希言",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       },
       {
         "text": "遷洪州",
@@ -156,7 +169,14 @@
   {
     "sentence_id": "HCH_008_118_000017",
     "sentence": "載與幸臣李輔國善。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李輔國",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000018",
@@ -230,6 +250,12 @@
     "sentence": "李輔國罷職，又加判天下元帥行軍司馬。",
     "entities": [
       {
+        "text": "李輔國",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 15,
@@ -246,6 +272,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "裴遵慶",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -272,7 +304,14 @@
   {
     "sentence_id": "HCH_008_118_000032",
     "sentence": "內侍魚朝恩負恃權寵，不與載協，載常憚之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000033",
@@ -305,6 +344,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "第五琦",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -361,7 +406,14 @@
   {
     "sentence_id": "HCH_008_118_000047",
     "sentence": "自魚朝恩就誅，誌頗盈滿，遂抗表請建中都，文多不載。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000048",
@@ -503,7 +555,14 @@
   {
     "sentence_id": "HCH_008_118_000054",
     "sentence": "檢校左僕射田神功沮之曰：「夫興師料敵，老將所難。陛下信一書生言，舉國從之，聽誤矣。」上遲疑不決，會載得罪乃止。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田神功",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000055",
@@ -840,6 +899,12 @@
         "label": "TITLE",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "衛伯玉",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -958,6 +1023,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "張延賞",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -1111,6 +1182,12 @@
     "sentence": "祿山之亂，選為太原少尹，與李光弼同守太原，功效謀略，眾所推先，加憲部侍郎，兼本官。",
     "entities": [
       {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 34,
@@ -1168,7 +1245,14 @@
   {
     "sentence_id": "HCH_008_118_000127",
     "sentence": "屬平殄史朝義，河朔未安，詔縉以本官河北宣慰，奉使稱旨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史朝義",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000128",
@@ -1191,14 +1275,7 @@
   {
     "sentence_id": "HCH_008_118_000129",
     "sentence": "其年，河南副元帥李光弼薨於徐州，以縉為侍中、持節都統河南、淮西、山南東道諸節度行營事。",
-    "entities": [
-      {
-        "text": "李光弼薨於徐州",
-        "label": "LOC",
-        "start": 8,
-        "end": 15
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_118_000130",
@@ -1227,6 +1304,12 @@
         "end": 7
       },
       {
+        "text": "李懷仙",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "以縉領幽州",
         "label": "LOC",
         "start": 15,
@@ -1243,13 +1326,26 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "朱希彩",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
   {
     "sentence_id": "HCH_008_118_000134",
     "sentence": "又屬河東節度辛雲京卒，遂兼太原尹、北都留守、河東節度營田觀察等使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "辛雲京",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000135",
@@ -1259,7 +1355,14 @@
   {
     "sentence_id": "HCH_008_118_000136",
     "sentence": "太原舊將王無縱、張奉璋等恃功，且以縉儒者易之，每事多違約束。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張奉璋",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000137",
@@ -1313,7 +1416,14 @@
   {
     "sentence_id": "HCH_008_118_000144",
     "sentence": "與杜鴻漸舍財造寺無限極。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜鴻漸",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000145",
@@ -1328,7 +1438,14 @@
   {
     "sentence_id": "HCH_008_118_000147",
     "sentence": "初，代宗喜祠祀，未甚重佛，而元載、杜鴻漸與縉喜飯僧徒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜鴻漸",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000148",
@@ -1581,12 +1698,26 @@
   {
     "sentence_id": "HCH_008_118_000183",
     "sentence": "節度使呂崇賁愛其才，不之責。",
-    "entities": []
+    "entities": [
+      {
+        "text": "呂崇賁",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000184",
     "sentence": "後副元帥李光弼奏為判官，不應，徵拜起居舍人，辭祿就養岐下。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000185",
@@ -1616,14 +1747,7 @@
   {
     "sentence_id": "HCH_008_118_000190",
     "sentence": "嘗為《李楷洛碑》，辭甚工，文士莫不成誦之。",
-    "entities": [
-      {
-        "text": "《李楷洛碑》",
-        "label": "TITLE",
-        "start": 2,
-        "end": 8
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_118_000191",
@@ -1682,6 +1806,12 @@
     "sentence": "德宗即位，議用宰相，崔祐甫薦炎有文學器用，上亦自聞其名，拜銀青光祿大夫、門下侍郎、同平章事。",
     "entities": [
       {
+        "text": "崔祐甫",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 33,
@@ -1715,7 +1845,14 @@
   {
     "sentence_id": "HCH_008_118_000199",
     "sentence": "及第五琦為度支、鹽鐵使，京師多豪將，求取無節，琦不能禁，乃悉以租賦進入大盈內庫，以中人主之意，天子以取給為便，故不復出。",
-    "entities": []
+    "entities": [
+      {
+        "text": "第五琦",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000200",
@@ -1937,7 +2074,14 @@
   {
     "sentence_id": "HCH_008_118_000230",
     "sentence": "蒞事數月，屬崔祐甫疾病，多不視事，喬琳罷免，炎遂獨當國政。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔祐甫",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000231",
@@ -2032,6 +2176,12 @@
         "label": "LOC",
         "start": 12,
         "end": 17
+      },
+      {
+        "text": "段秀實",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
@@ -2044,6 +2194,12 @@
     "sentence_id": "HCH_008_118_000242",
     "sentence": "以邠寧別駕李懷光居前督作，以檢校司空平章事朱泚、御史大夫平章事崔寧各統兵萬人以翼後。",
     "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -2079,6 +2235,12 @@
         "label": "LOC",
         "start": 53,
         "end": 56
+      },
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 73,
+        "end": 76
       }
     ]
   },
@@ -2091,6 +2253,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "段秀實",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -2124,7 +2292,14 @@
   {
     "sentence_id": "HCH_008_118_000250",
     "sentence": "命朱泚、李懷光等軍攻之，乃築壘環之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000251",
@@ -2170,7 +2345,14 @@
   {
     "sentence_id": "HCH_008_118_000255",
     "sentence": "李正己上表請殺晏之罪，指斥朝廷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李正己",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000256",
@@ -2181,6 +2363,12 @@
         "label": "LOC",
         "start": 33,
         "end": 35
+      },
+      {
+        "text": "盧東美",
+        "label": "PER",
+        "start": 36,
+        "end": 39
       }
     ]
   },
@@ -2266,12 +2454,32 @@
   {
     "sentence_id": "HCH_008_118_000265",
     "sentence": "屬梁崇義叛換，德宗欲以淮西節度使李希烈統諸軍討之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "梁崇義",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000266",
     "sentence": "炎諫曰：「希烈始與李忠臣為子，親任無雙，竟逐忠臣而取其位，背本若此，豈可信也！居常無尺寸功，猶強不奉法，異日平賊後，恃功邀上，陛下何以馭之？」初，炎之南來，途經襄、漢，固勸崇義入朝，崇義不能從，已懷反側。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李忠臣",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000267",
@@ -2291,7 +2499,14 @@
   {
     "sentence_id": "HCH_008_118_000270",
     "sentence": "會德宗嘗訪宰相群臣中可以大任者，盧杞薦張鎰、嚴郢，而炎舉崔昭、趙惠伯。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙惠伯",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000271",
@@ -2372,7 +2587,14 @@
   {
     "sentence_id": "HCH_008_118_000281",
     "sentence": "初，炎將立家廟，先有私第在東都，令河南尹趙惠伯貨之，惠伯為炎市為官廨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙惠伯",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000282",
@@ -2551,6 +2773,12 @@
     "sentence_id": "HCH_008_118_000297",
     "sentence": "魚朝恩伏誅，坐交通出為桂州刺史、本管觀察使。",
     "entities": [
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "坐交通出為桂州",
         "label": "LOC",
@@ -2840,7 +3068,20 @@
   {
     "sentence_id": "HCH_008_118_000331",
     "sentence": "炎隳崔祐甫之規，怒段秀實之直，酬恩報怨，以私害公。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔祐甫",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "段秀實",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_118_000332",

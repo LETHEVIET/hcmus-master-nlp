@@ -24,6 +24,12 @@
     "sentence": "祖曠，從慕容德南度河，居青州之時水。",
     "entities": [
       {
+        "text": "慕容德",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "居青州",
         "label": "LOC",
         "start": 11,
@@ -721,12 +727,6 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
-      },
-      {
-        "text": "任城",
-        "label": "LOC",
-        "start": 7,
-        "end": 9
       }
     ]
   },
@@ -1207,10 +1207,10 @@
     "sentence": "光初為黃門則讓宋弁；為中書監讓汝南王悅；為太常讓劉芳；為少傅讓元暉、穆紹、甄琛；為國子祭酒讓清河王懌、任城王澄；為車騎、儀同讓江陽王繼，又讓靈太后父胡國珍，皆顧望時情，議者以為矯飾。",
     "entities": [
       {
-        "text": "任城",
-        "label": "LOC",
-        "start": 51,
-        "end": 53
+        "text": "胡國珍",
+        "label": "PER",
+        "start": 74,
+        "end": 77
       }
     ]
   },
@@ -1896,6 +1896,18 @@
     "sentence": "以劉元海、石勒、慕容俊、苻健、慕容垂、姚萇、慕容德、赫連屈孑、張軌、李雄、呂光、乞伏國仁、禿發烏孤、李皓、沮渠蒙遜、馮跋等並因世故，跨僭一方，各有國書，未有統一，鴻乃撰為《十六國春秋》，勒成百卷，因其舊記，時有增損褒貶焉。",
     "entities": [
       {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "慕容德",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
         "text": "《十六國春秋》",
         "label": "TITLE",
         "start": 85,
@@ -2497,7 +2509,14 @@
   {
     "sentence_id": "HCH_003_044_000267",
     "sentence": "高祖瓊，為慕容垂車騎屬。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容垂",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_044_000268",
@@ -2883,12 +2902,6 @@
         "end": 22
       },
       {
-        "text": "齊王蕭寶夤鎮",
-        "label": "LOC",
-        "start": 23,
-        "end": 29
-      },
-      {
         "text": "將軍",
         "label": "TITLE",
         "start": 30,
@@ -3220,6 +3233,12 @@
     "sentence": "後甄琛、元修義、城陽王徽相繼為吏部尚書，利其便己，踵而行之。",
     "entities": [
       {
+        "text": "元修義",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 17,
@@ -3393,14 +3412,7 @@
   {
     "sentence_id": "HCH_003_044_000359",
     "sentence": "蕭寶夤之在關中，高選寮佐，以為都督府長史。",
-    "entities": [
-      {
-        "text": "蕭寶夤之在關",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_044_000360",
@@ -3830,6 +3842,12 @@
         "label": "ORG",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "崔景茂",
+        "label": "PER",
+        "start": 55,
+        "end": 58
       },
       {
         "text": "前瀛州",
@@ -4372,6 +4390,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "薛安都",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -4478,7 +4502,20 @@
   {
     "sentence_id": "HCH_003_044_000464",
     "sentence": "初，道固之在客邸，與薛安都、畢眾敬鄰館，時以公集相見。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛安都",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "畢眾敬",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_044_000465",
@@ -4494,6 +4531,18 @@
     "sentence_id": "HCH_003_044_000467",
     "sentence": "道固謂劉休賓、房法壽曰：「古人云：「非我族類，其心必異」，安都視人，殊自蕭索，畢固依依也。」景徽字文睿，卒于平州刺史，諡曰定。",
     "entities": [
+      {
+        "text": "劉休賓",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "房法壽",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "卒于平州",
         "label": "LOC",

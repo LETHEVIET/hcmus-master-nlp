@@ -101,7 +101,20 @@
   {
     "sentence_id": "HCH_007_130_000010",
     "sentence": "及趙思綰作亂於永興，漢隱帝命郭從義討之，以峻為兵馬都監。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙思綰",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "郭從義",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_130_000011",
@@ -250,6 +263,12 @@
         "label": "LOC",
         "start": 32,
         "end": 35
+      },
+      {
+        "text": "王彥超",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       }
     ]
   },
@@ -340,6 +359,12 @@
     "sentence": "時永興軍節度使李洪信，漢室之密戚也，自太祖踐阼，恒有憂沮之意，而本城軍不滿千，峻出征至陜州，以救援晉州為辭，抽起數百人，及劉崇北遁，又遣禁兵千餘人，屯於京兆，洪信懼，遂請入朝。",
     "entities": [
       {
+        "text": "李洪信",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "而本城",
         "label": "LOC",
         "start": 31,
@@ -367,14 +392,7 @@
   {
     "sentence_id": "HCH_007_130_000040",
     "sentence": "時慕容彥超叛於兗州，已遣侍衛步軍都指揮使曹英、客省使向訓率兵攻之。",
-    "entities": [
-      {
-        "text": "容彥超叛於兗州",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_130_000041",
@@ -406,7 +424,14 @@
   {
     "sentence_id": "HCH_007_130_000045",
     "sentence": "太祖登極之初，務存謙抑，潛龍將佐未甚進用，其後鄭仁誨、李重進、向訓等稍遷要職，峻心忌之，至是求退，蓋偵太祖之意也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李重進",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_130_000046",
@@ -505,6 +530,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "趙上交",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -654,7 +685,14 @@
   {
     "sentence_id": "HCH_007_130_000077",
     "sentence": "主者曰：「昔安重誨授河中節，亦有此異焉。」又所居堂陛，忽然隱起如堆。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_130_000078",
@@ -693,18 +731,37 @@
         "label": "LOC",
         "start": 74,
         "end": 78
+      },
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 153,
+        "end": 157
       }
     ]
   },
   {
     "sentence_id": "HCH_007_130_000081",
     "sentence": "慕容彥超",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_130_000082",
     "sentence": "慕容彥超， 〈 （案：此下有闕文。） 〉 為兗州節度使，彥超即漢高祖之同產弟也。",
     "entities": [
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
       {
         "text": "為兗州",
         "label": "LOC",
@@ -744,6 +801,12 @@
         "label": "LOC",
         "start": 5,
         "end": 11
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -806,6 +869,12 @@
         "end": 9
       },
       {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 10,
+        "end": 14
+      },
+      {
         "text": "兗州",
         "label": "LOC",
         "start": 19,
@@ -816,6 +885,12 @@
         "label": "LOC",
         "start": 321,
         "end": 323
+      },
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 323,
+        "end": 327
       },
       {
         "text": "陛下明日當得城",
@@ -834,6 +909,12 @@
         "label": "LOC",
         "start": 594,
         "end": 601
+      },
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 602,
+        "end": 606
       },
       {
         "text": "乘城",
@@ -892,7 +973,14 @@
   {
     "sentence_id": "HCH_007_130_000096",
     "sentence": "家本魯中，洎告疾歸裏，慕容彥超初臨，禮待極厚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 11,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_130_000097",

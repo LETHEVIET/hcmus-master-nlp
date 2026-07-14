@@ -2,17 +2,38 @@
   {
     "sentence_id": "HCH_003_023_000001",
     "sentence": "于栗磾（孫勁 六世孫謹 謹子寔 寔 〈 （子顗） 〉 仲文 寔（弟翼 翼子璽 翼弟義宣敏",
-    "entities": []
+    "entities": [
+      {
+        "text": "于栗磾",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_023_000002",
     "sentence": "于栗磾",
-    "entities": []
+    "entities": [
+      {
+        "text": "于栗磾",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_023_000003",
     "sentence": "于栗磾，代人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "于栗磾",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_023_000004",
@@ -46,6 +67,12 @@
         "label": "LOC",
         "start": 20,
         "end": 24
+      },
+      {
+        "text": "慕容寶",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -428,6 +455,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "陳顯達",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -938,12 +971,6 @@
     "sentence": "忠與門下議，以帝沖年，未親機政，太尉高陽王雍屬尊望重，宜入居西柏堂，省決庶政；任城王澄明德茂親，可為尚書令，總攝百揆。",
     "entities": [
       {
-        "text": "任城",
-        "label": "LOC",
-        "start": 39,
-        "end": 41
-      },
-      {
         "text": "尚書",
         "label": "TITLE",
         "start": 50,
@@ -1304,7 +1331,14 @@
   {
     "sentence_id": "HCH_003_023_000154",
     "sentence": "有司奏太常少卿元端議：「案諡法，剛強理直曰武，怙威肆行曰晗鬼，宜諡武晗鬼公。」太常卿元修義議：「忠盡心奉上，翦除凶逆。依諡法，除偽甯直曰武，夙夜恭事曰敬，宜諡武敬公。」二卿不同。",
-    "entities": []
+    "entities": [
+      {
+        "text": "元修義",
+        "label": "PER",
+        "start": 42,
+        "end": 45
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_023_000155",
@@ -1914,7 +1948,14 @@
   {
     "sentence_id": "HCH_003_023_000222",
     "sentence": "及賀拔岳被害，周文赴平涼。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_023_000223",
@@ -2072,7 +2113,14 @@
   {
     "sentence_id": "HCH_003_023_000233",
     "sentence": "獨孤信又收兵於後奮擊，神武軍亂，以此大軍得全。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_023_000234",
@@ -2199,6 +2247,12 @@
     "sentence_id": "HCH_003_023_000243",
     "sentence": "長孫儉曰：「為蕭繹計將如何？」謹曰：「曜兵漢沔，席捲度江，直據丹陽，是其上策。移郭內居人，退保子城，以待援至，是其中策。若難於移動，據守羅郭，是其下策。」儉曰：「裁繹出何策？」謹曰：「必用下。」儉曰：「何也？」對曰：「蕭氏保據江南，綿歷數紀。屬中原有故，未遑外略。又以我有齊氏之患，必謂力不能分。且繹懦而無謀，多疑少斷。愚人難與慮始，皆戀邑居，既惡遷移，當保羅郭。所以用下策。」謹令中山公護及大將軍楊忠等先據江津，斷其走路。",
     "entities": [
+      {
+        "text": "長孫儉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "退保子城",
         "label": "LOC",
@@ -2403,12 +2457,26 @@
   {
     "sentence_id": "HCH_003_023_000268",
     "sentence": "孝閔踐阼，進封燕國公，邑萬戶，遷太傅、太宗伯，與李弼、侯莫陳崇等參議朝政。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳崇",
+        "label": "PER",
+        "start": 27,
+        "end": 31
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_023_000269",
     "sentence": "及賀蘭祥討吐谷渾，明帝令謹遙統其軍，授以方略。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀蘭祥",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_023_000270",
@@ -2921,7 +2989,14 @@
   {
     "sentence_id": "HCH_003_023_000323",
     "sentence": "周大塚宰宇文護見而器之，以女妻之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_023_000324",
@@ -2956,7 +3031,14 @@
   {
     "sentence_id": "HCH_003_023_000326",
     "sentence": "大象中，以水軍總管從韋孝寬經略淮南。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_023_000327",
@@ -3148,6 +3230,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -3282,7 +3370,14 @@
   {
     "sentence_id": "HCH_003_023_000366",
     "sentence": "時韋孝寬拒迥於永橋。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_023_000367",
@@ -3806,7 +3901,14 @@
   {
     "sentence_id": "HCH_003_023_000422",
     "sentence": "時宇文述以糧盡欲還，仲文議以精銳追文德，可以有功。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_023_000423",
@@ -3838,7 +3940,14 @@
   {
     "sentence_id": "HCH_003_023_000427",
     "sentence": "宇文述以兵餒退歸，師遂敗績。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_023_000428",
@@ -4049,6 +4158,12 @@
     "sentence_id": "HCH_003_023_000449",
     "sentence": "賀蘭祥討吐谷渾，翼率州兵，先鋒深入，以功增邑。",
     "entities": [
+      {
+        "text": "賀蘭祥",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "翼率州",
         "label": "LOC",
@@ -5362,6 +5477,12 @@
         "label": "ORG",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "于栗磾",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },

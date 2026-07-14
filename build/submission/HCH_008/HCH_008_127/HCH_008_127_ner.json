@@ -2,12 +2,26 @@
   {
     "sentence_id": "HCH_008_127_000001",
     "sentence": "姚令言",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚令言",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_127_000002",
     "sentence": "姚令言，河中人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚令言",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_127_000003",
@@ -91,10 +105,22 @@
         "end": 4
       },
       {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "寇陷汝州",
         "label": "LOC",
         "start": 10,
         "end": 14
+      },
+      {
+        "text": "哥舒曜",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       },
       {
         "text": "營於襄城",
@@ -160,6 +186,12 @@
     "sentence": "街市居人狼狽走竄，亂兵呼曰：「勿走，不稅汝間架矣！」德宗令普王與學士姜公輔往撫勞之，才出內門，賊已斬關，陣於丹鳳樓下。",
     "entities": [
       {
+        "text": "姜公輔",
+        "label": "PER",
+        "start": 34,
+        "end": 37
+      },
+      {
         "text": "賊已斬關",
         "label": "LOC",
         "start": 47,
@@ -224,6 +256,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "田希鑒",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -242,10 +280,10 @@
     "sentence": "天寶末，哥舒翰兵敗潼關，大將王思禮所乘馬中流矢而斃，光晟時在騎卒之中，因下，以馬授思禮。",
     "entities": [
       {
-        "text": "哥舒翰兵敗潼關",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
+        "text": "王思禮",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -258,12 +296,6 @@
     "sentence_id": "HCH_008_127_000027",
     "sentence": "無何，思禮為河東節度使，其偏將辛雲京為代州刺史，屢為將校譖毀，思禮怒焉。",
     "entities": [
-      {
-        "text": "將辛雲京為代州",
-        "label": "LOC",
-        "start": 14,
-        "end": 21
-      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -426,6 +458,12 @@
         "label": "LOC",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "駱元光",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -702,6 +740,12 @@
     "sentence": "朔方節度郭子儀辟為掌書記，尋拜監察御史。",
     "entities": [
       {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 17,
@@ -743,6 +787,12 @@
         "end": 13
       },
       {
+        "text": "張獻誠",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 24,
@@ -753,7 +803,14 @@
   {
     "sentence_id": "HCH_008_127_000086",
     "sentence": "使罷，為劍南東川節度鮮于叔明判官。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鮮于叔明",
+        "label": "PER",
+        "start": 10,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_127_000087",
@@ -995,7 +1052,14 @@
   {
     "sentence_id": "HCH_008_127_000112",
     "sentence": "俄受前湖南都團練使辛京杲贓事發，詔曰：「尊師之道，禮有所加；議故之法，恩有所掩。張涉賄賂交通，頗駭時聽，常所親重，良深嘆惜。宜放歸田里。」",
-    "entities": []
+    "entities": [
+      {
+        "text": "辛京杲",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_127_000113",
@@ -1210,12 +1274,26 @@
   {
     "sentence_id": "HCH_008_127_000135",
     "sentence": "洪經綸",
-    "entities": []
+    "entities": [
+      {
+        "text": "洪經綸",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_127_000136",
     "sentence": "洪經綸，建中初為黜陟使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "洪經綸",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_127_000137",
@@ -1263,6 +1341,12 @@
     "sentence_id": "HCH_008_127_000144",
     "sentence": "時劍南東川觀察使李叔明上言，以「佛、道二教，無益於時，請粗加澄汰。其東川寺觀，請定為二等：上寺留僧二十一人；上觀留道士十四人，降殺以七，皆精選有道行者，餘悉令返初。蘭若、道場無名者皆廢。」德宗曰：「叔明此奏，可為天下通制，不唯劍南一道。」下尚書集議。",
     "entities": [
+      {
+        "text": "李叔明",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -1444,7 +1528,14 @@
   {
     "sentence_id": "HCH_008_127_000179",
     "sentence": "賊敗，與偽中丞崔宣、賊將杜如江、吳希光等十三人，李晟收之，俱斬於安國寺前。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳希光",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_127_000180",

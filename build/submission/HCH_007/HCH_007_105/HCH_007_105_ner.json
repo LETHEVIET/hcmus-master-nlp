@@ -265,12 +265,6 @@
     "sentence": "數日，陳思讓率馬軍經過城西，但令供頓，不敢出城。",
     "entities": [
       {
-        "text": "讓率馬軍經過城",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      },
-      {
         "text": "不敢出城",
         "label": "LOC",
         "start": 19,
@@ -426,6 +420,12 @@
         "end": 67
       },
       {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 78,
+        "end": 82
+      },
+      {
         "text": "赟行至宋州",
         "label": "LOC",
         "start": 288,
@@ -436,6 +436,12 @@
         "label": "LOC",
         "start": 294,
         "end": 299
+      },
+      {
+        "text": "郭崇威",
+        "label": "PER",
+        "start": 324,
+        "end": 327
       },
       {
         "text": "崇威至宋州",
@@ -454,6 +460,12 @@
         "label": "LOC",
         "start": 510,
         "end": 515
+      },
+      {
+        "text": "趙上交",
+        "label": "PER",
+        "start": 566,
+        "end": 569
       },
       {
         "text": "三十年",

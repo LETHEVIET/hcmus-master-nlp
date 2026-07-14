@@ -348,6 +348,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "戴思遠",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -423,6 +429,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -434,7 +446,14 @@
   {
     "sentence_id": "HCH_007_075_000042",
     "sentence": "明宗受霍彥威勸，將自訴於天子，遂佯諾。",
-    "entities": []
+    "entities": [
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_075_000043",
@@ -662,7 +681,20 @@
   {
     "sentence_id": "HCH_007_075_000065",
     "sentence": "是時，秦王從榮奏：「伏見北面頻奏報，契丹族移帳近塞，吐渾、突厥已侵邊地，戍兵雖多，未有統帥，早宜命大將一人，以安雲、朔。」明宗曰：「卿等商量。」從榮與諸大臣奏曰：「將校之中，唯石敬瑭、康義誠二人可行。」帝素不欲為禁軍之副，即奏曰：「臣願北行。」明宗曰：「卿為吾行，事無不濟。」及受詔，不落六軍副使，帝復遷延辭避。",
-    "entities": []
+    "entities": [
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 88,
+        "end": 91
+      },
+      {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 92,
+        "end": 95
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_075_000066",
@@ -679,6 +711,18 @@
         "label": "LOC",
         "start": 19,
         "end": 24
+      },
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 55,
+        "end": 58
+      },
+      {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 59,
+        "end": 62
       }
     ]
   },
@@ -927,6 +971,18 @@
         "label": "TITLE",
         "start": 272,
         "end": 278
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 420,
+        "end": 423
+      },
+      {
+        "text": "劉知遠",
+        "label": "PER",
+        "start": 427,
+        "end": 430
       }
     ]
   },
@@ -951,7 +1007,14 @@
   {
     "sentence_id": "HCH_007_075_000094",
     "sentence": "帝尋命桑維翰詣諸道求援，契丹遣人復書諾之，約以中秋赴義。",
-    "entities": []
+    "entities": [
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_075_000095",
@@ -962,6 +1025,30 @@
         "label": "TITLE",
         "start": 3,
         "end": 10
+      },
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      },
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 39,
+        "end": 42
+      },
+      {
+        "text": "桑維翰",
+        "label": "PER",
+        "start": 51,
+        "end": 54
+      },
+      {
+        "text": "安重榮",
+        "label": "PER",
+        "start": 89,
+        "end": 92
       },
       {
         "text": "部曲數千人入城",
@@ -980,6 +1067,18 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "安元信",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "安審信",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -1026,13 +1125,32 @@
         "label": "TITLE",
         "start": 63,
         "end": 65
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 104,
+        "end": 107
+      },
+      {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 108,
+        "end": 111
       }
     ]
   },
   {
     "sentence_id": "HCH_007_075_000101",
     "sentence": "時張敬達、楊光遠列陣西山下，士未及成伍，而行周、彥卿為伏兵所斷，舍軍而退，敬達等步兵大敗，死者萬人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_075_000102",
@@ -1101,6 +1219,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -1418,6 +1542,12 @@
         "label": "TITLE",
         "start": 34,
         "end": 39
+      },
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 230,
+        "end": 233
       },
       {
         "text": "張敬達引軍逼城",

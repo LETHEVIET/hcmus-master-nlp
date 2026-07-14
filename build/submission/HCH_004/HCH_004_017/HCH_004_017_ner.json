@@ -2,22 +2,49 @@
   {
     "sentence_id": "HCH_004_017_000001",
     "sentence": "斛律金",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_017_000002",
     "sentence": "斛律金 子光 羨",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_017_000003",
     "sentence": "斛律金",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_017_000004",
     "sentence": "斛律金，字阿六敦，朔州勑勒部人也。",
     "entities": [
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "朔州",
         "label": "LOC",
@@ -415,7 +442,14 @@
   {
     "sentence_id": "HCH_004_017_000040",
     "sentence": "世宗嗣事，侯景據潁川降於西魏，詔遣金帥潘樂、薛孤延等固守河陽以備。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛孤延",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_017_000041",
@@ -466,7 +500,14 @@
   {
     "sentence_id": "HCH_004_017_000045",
     "sentence": "世宗遣高嶽、慕容紹宗、劉豐等率衆圍之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容紹宗",
+        "label": "PER",
+        "start": 6,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_017_000046",
@@ -803,7 +844,14 @@
   {
     "sentence_id": "HCH_004_017_000077",
     "sentence": "斛律光",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_017_000078",
@@ -1214,6 +1262,12 @@
         "end": 20
       },
       {
+        "text": "宇文憲",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
+      {
         "text": "洛陽",
         "label": "LOC",
         "start": 41,
@@ -1356,6 +1410,12 @@
         "end": 18
       },
       {
+        "text": "梁士彥",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 26,
@@ -1372,6 +1432,12 @@
         "label": "ORG",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "宇文憲",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -1496,7 +1562,20 @@
   {
     "sentence_id": "HCH_004_017_000129",
     "sentence": "周柱國枹罕公普屯威、柱國韋孝寬等步騎萬餘，來逼平隴，與光戰於汾水之北，光大破之，俘斬千計。",
-    "entities": []
+    "entities": [
+      {
+        "text": "普屯威",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_017_000130",
@@ -1625,7 +1704,14 @@
   {
     "sentence_id": "HCH_004_017_000143",
     "sentence": "珽知光忿，而賂光從奴而問之曰：「相王瞋孝徵耶？」曰：「自公用事，相王每夜抱膝嘆曰：『盲人入，國必破矣！』」穆提婆求娶光庶女，不許。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 53,
+        "end": 56
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_017_000144",
@@ -1641,6 +1727,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       },
       {
         "text": "長安",
@@ -1857,7 +1949,14 @@
   {
     "sentence_id": "HCH_004_017_000175",
     "sentence": "斛律羨",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律羨",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_017_000176",
@@ -2147,12 +2246,6 @@
         "label": "LOC",
         "start": 11,
         "end": 13
-      },
-      {
-        "text": "孤永業便發定州",
-        "label": "LOC",
-        "start": 18,
-        "end": 25
       }
     ]
   },
@@ -2598,7 +2691,14 @@
   {
     "sentence_id": "HCH_004_017_000234",
     "sentence": "史臣曰：斛律金以高祖撥亂之始，翼成王業，忠款之至，成此大功，故能終享遐年，位高百辟。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_017_000235",

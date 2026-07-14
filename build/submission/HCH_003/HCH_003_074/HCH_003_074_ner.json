@@ -183,7 +183,14 @@
   {
     "sentence_id": "HCH_003_074_000024",
     "sentence": "于時尉遲迥起兵，帝令韋孝寬討之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_074_000025",
@@ -279,7 +286,14 @@
   {
     "sentence_id": "HCH_003_074_000039",
     "sentence": "時上柱國梁士彥、宇文忻俱失職怨望，時昉並與之交，數相往來。",
-    "entities": []
+    "entities": [
+      {
+        "text": "梁士彥",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_074_000040",
@@ -304,7 +318,14 @@
   {
     "sentence_id": "HCH_003_074_000044",
     "sentence": "上柱國郕國公梁士彥、杞國公宇文忻、柱國舒國公劉昉等，朕受命之初，並展勤力，酬勳報效，榮高祿重。",
-    "entities": []
+    "entities": [
+      {
+        "text": "梁士彥",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_074_000045",
@@ -790,7 +811,14 @@
   {
     "sentence_id": "HCH_003_074_000101",
     "sentence": "績三歲而孤，為外祖韋孝寬所鞠養。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_074_000102",
@@ -1131,6 +1159,12 @@
     "sentence": "尉遲迥之亂，從韋孝寬討之，以功授上柱國，封武山郡公。",
     "entities": [
       {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "封武山郡",
         "label": "LOC",
         "start": 20,
@@ -1358,7 +1392,14 @@
   {
     "sentence_id": "HCH_003_074_000160",
     "sentence": "王有奪宗之謀，托衍心腹，遣宇文述以情告之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_074_000161",
@@ -1420,6 +1461,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -2244,7 +2291,14 @@
   {
     "sentence_id": "HCH_003_074_000260",
     "sentence": "忌在陳，與吳明徹同見俘于周，周賜爵江夏公，在隋十餘年而卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_074_000261",
@@ -2558,6 +2612,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "張惠紹",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -3043,6 +3103,12 @@
     "sentence_id": "HCH_003_074_000354",
     "sentence": "隋文帝作相，從韋孝寬破尉遲迥，拜上開府，賜爵建昌縣公。",
     "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "賜爵建昌縣",
         "label": "LOC",

@@ -197,7 +197,14 @@
   {
     "sentence_id": "HCH_007_045_000020",
     "sentence": "庚戌，帝縗服見群臣於廣壽門之東廡下，宰臣馮道進曰：「陛下久居哀毀，臣等鹹願一睹聖顏。」朱宏昭前舉帽，群臣再拜而退。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱宏昭",
+        "label": "PER",
+        "start": 43,
+        "end": 46
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_045_000021",
@@ -376,6 +383,12 @@
         "end": 19
       },
       {
+        "text": "崔居儉",
+        "label": "PER",
+        "start": 50,
+        "end": 53
+      },
+      {
         "text": "以前蔡州",
         "label": "LOC",
         "start": 58,
@@ -450,7 +463,14 @@
   {
     "sentence_id": "HCH_007_045_000041",
     "sentence": "壬午，侍衛親軍馬步軍都指揮使、河陽節度使康義誠加檢校太尉、兼侍中，判六軍諸衛事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_045_000042",
@@ -491,17 +511,36 @@
   {
     "sentence_id": "HCH_007_045_000043",
     "sentence": "戊子，樞密使、檢校太尉、同平章事朱宏昭，樞密使、檢校太尉、同中書門下二品馮贇並加兼中書令。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱宏昭",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_045_000044",
     "sentence": "北京留守、河東節度使兼大同彰國振武威塞等軍蕃漢馬步總管石敬瑭加兼中書令；幽州節度使、檢校太尉、兼中書令趙德鈞加檢校太師、兼中書令。",
     "entities": [
       {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
         "text": "幽州",
         "label": "LOC",
         "start": 36,
         "end": 38
+      },
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 51,
+        "end": 54
       }
     ]
   },
@@ -537,18 +576,37 @@
         "label": "TITLE",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
   {
     "sentence_id": "HCH_007_045_000048",
     "sentence": "壬辰，荊南節度使、檢校太尉、兼中書令高從誨封南平王；湖南節度使、檢校太尉、兼中書令馬希範封楚王。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高從誨",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_045_000049",
     "sentence": "甲午，兩浙節度使、檢校太師、守中書令、吳王錢元瓘進封吳越王；前洺州團練使皇甫立加檢校太保，充鄜州節度使；前彰義軍節度使康福加檢校太傅，充邠州節度使；劍南東、西兩川節度使、檢校太尉、兼中書令、蜀王孟知祥加檢校太師。",
     "entities": [
+      {
+        "text": "錢元瓘",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      },
       {
         "text": "前洺州",
         "label": "LOC",
@@ -566,6 +624,12 @@
         "label": "LOC",
         "start": 67,
         "end": 70
+      },
+      {
+        "text": "孟知祥",
+        "label": "PER",
+        "start": 97,
+        "end": 100
       }
     ]
   },
@@ -597,10 +661,22 @@
     "sentence": "戊戌，山南西道節度使、檢校太傅、同平章事張虔釗，襄州節度使趙在禮，並加檢校太尉。",
     "entities": [
       {
+        "text": "張虔釗",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
         "text": "襄州",
         "label": "LOC",
         "start": 24,
         "end": 26
+      },
+      {
+        "text": "趙在禮",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -776,13 +852,26 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "符彥超",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
   {
     "sentence_id": "HCH_007_045_000067",
     "sentence": "戊午，以前振武軍節度使、安北都護高行周為彰武節度使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_045_000068",
@@ -838,12 +927,6 @@
         "label": "LOC",
         "start": 3,
         "end": 7
-      },
-      {
-        "text": "傅李敬周為安州",
-        "label": "LOC",
-        "start": 14,
-        "end": 21
       }
     ]
   },
@@ -851,12 +934,6 @@
     "sentence_id": "HCH_007_045_000074",
     "sentence": "是日，宣授鳳翔節度使、潞王從珂為權北京留守；以北京留守石敬瑭權知鎮州軍州事；以鎮州範延光權知鄴都留守事；以前河中節度使、洋王從璋權知鳳翔軍軍府事。",
     "entities": [
-      {
-        "text": "守石敬瑭權知鎮",
-        "label": "LOC",
-        "start": 26,
-        "end": 33
-      },
       {
         "text": "州軍州",
         "label": "LOC",
@@ -879,17 +956,36 @@
   {
     "sentence_id": "HCH_007_045_000076",
     "sentence": "是日，西京留守王思同奏，鳳翔節度使、潞王從珂拒命。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王思同",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_045_000077",
     "sentence": "丁酉，王思同加同平章事，充西面行營都部署；以前邠州節度使藥彥稠為副部署。",
     "entities": [
       {
+        "text": "王思同",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "以前邠州",
         "label": "LOC",
         "start": 21,
         "end": 25
+      },
+      {
+        "text": "藥彥稠",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -971,6 +1067,12 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "張虔釗",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1003,10 +1105,22 @@
         "end": 5
       },
       {
+        "text": "孫漢韶",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "元",
         "label": "ORG",
         "start": 12,
         "end": 13
+      },
+      {
+        "text": "張虔釗",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -1025,6 +1139,12 @@
         "label": "ORG",
         "start": 25,
         "end": 26
+      },
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 57,
+        "end": 60
       },
       {
         "text": "充鎮州",
@@ -1066,6 +1186,12 @@
         "label": "ORG",
         "start": 58,
         "end": 59
+      },
+      {
+        "text": "張虔釗",
+        "label": "PER",
+        "start": 59,
+        "end": 62
       },
       {
         "text": "自鎮",
@@ -1128,10 +1254,16 @@
         "end": 54
       },
       {
-        "text": "權引軍西面入城",
-        "label": "LOC",
-        "start": 64,
-        "end": 71
+        "text": "康義誠",
+        "label": "PER",
+        "start": 83,
+        "end": 86
+      },
+      {
+        "text": "朱宏昭",
+        "label": "PER",
+        "start": 160,
+        "end": 163
       },
       {
         "text": "臣請自往關",
@@ -1160,17 +1292,44 @@
   {
     "sentence_id": "HCH_007_045_000097",
     "sentence": "是日，誅馬軍都指揮使朱洪實，坐與康義誠忿爭故也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_045_000098",
     "sentence": "癸亥，以康義誠為鳳翔行營都招討使，餘如故。",
-    "entities": []
+    "entities": [
+      {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_045_000099",
     "sentence": "以王思同為副招討使；以安從進為順化軍節度使，充侍衛馬軍都指揮使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王思同",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_045_000100",
@@ -1192,6 +1351,12 @@
         "label": "LOC",
         "start": 7,
         "end": 12
+      },
+      {
+        "text": "王思同",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -1203,14 +1368,7 @@
   {
     "sentence_id": "HCH_007_045_000103",
     "sentence": "詔侍衛馬軍都指揮使安從進京城巡檢。",
-    "entities": [
-      {
-        "text": "揮使安從進京城",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_045_000104",
@@ -1232,12 +1390,26 @@
   {
     "sentence_id": "HCH_007_045_000106",
     "sentence": "戊辰，帝急召孟漢瓊，不至；召朱宏昭，宏昭懼，投於井。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱宏昭",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_045_000107",
     "sentence": "安從進尋殺馮贇於其第。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安從進",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_045_000108",
@@ -1264,6 +1436,18 @@
         "label": "LOC",
         "start": 35,
         "end": 37
+      },
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 40,
+        "end": 43
+      },
+      {
+        "text": "康義誠",
+        "label": "PER",
+        "start": 71,
+        "end": 74
       },
       {
         "text": "公主",

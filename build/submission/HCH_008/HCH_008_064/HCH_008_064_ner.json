@@ -8,6 +8,24 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "王元方",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      },
+      {
+        "text": "王元裕",
+        "label": "PER",
+        "start": 75,
+        "end": 78
+      },
+      {
+        "text": "王靈夔",
+        "label": "PER",
+        "start": 85,
+        "end": 88
       }
     ]
   },
@@ -26,6 +44,24 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "王靈夔",
+        "label": "PER",
+        "start": 76,
+        "end": 79
+      },
+      {
+        "text": "王元裕",
+        "label": "PER",
+        "start": 84,
+        "end": 87
+      },
+      {
+        "text": "王元方",
+        "label": "PER",
+        "start": 180,
+        "end": 183
       }
     ]
   },
@@ -200,6 +236,12 @@
         "end": 3
       },
       {
+        "text": "安興貴",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "令建成往原州",
         "label": "LOC",
         "start": 18,
@@ -232,6 +274,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "鄭善果",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -376,6 +424,12 @@
         "label": "LOC",
         "start": 47,
         "end": 49
+      },
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 114,
+        "end": 117
       }
     ]
   },
@@ -629,6 +683,36 @@
     "sentence": "長孫無忌、房玄齡、杜如晦、尉遲敬德、侯君集等日夜固爭曰：「事急矣！若不行權道，社稷必危。周公聖人，豈無情於骨肉？為存社稷，大義滅親。今大王臨機不斷，坐受屠戮，於義何成？若不見聽，無忌等將竄身草澤，不得居王左右。」太宗然其計。",
     "entities": [
       {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 13,
+        "end": 17
+      },
+      {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "周",
         "label": "ORG",
         "start": 44,
@@ -644,7 +728,20 @@
   {
     "sentence_id": "HCH_008_064_000064",
     "sentence": "高祖已召裴寂、蕭瑀、陳叔達、封倫、宇文士及、竇誕、顏師古等，欲令窮覆其事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文士及",
+        "label": "PER",
+        "start": 17,
+        "end": 21
+      },
+      {
+        "text": "顏師古",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_064_000065",
@@ -659,7 +756,14 @@
   {
     "sentence_id": "HCH_008_064_000067",
     "sentence": "太宗乃射之，建成應弦而斃，元吉中流矢而走，尉遲敬德殺之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 21,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_064_000068",
@@ -691,12 +795,26 @@
   {
     "sentence_id": "HCH_008_064_000072",
     "sentence": "長子太原王承宗早卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王承宗",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_064_000073",
     "sentence": "次子安陸王承道、河東王承德、武安王承訓、汝南王承明、鉅鹿王承義並坐誅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王承訓",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_064_000074",
@@ -879,12 +997,6 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
-      },
-      {
-        "text": "歆助元吉守并州",
-        "label": "LOC",
-        "start": 20,
-        "end": 27
       }
     ]
   },
@@ -961,6 +1073,12 @@
         "end": 9
       },
       {
+        "text": "劉德威",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "卿以老弱守城",
         "label": "LOC",
         "start": 15,
@@ -985,10 +1103,28 @@
         "end": 10
       },
       {
+        "text": "宇文歆",
+        "label": "PER",
+        "start": 30,
+        "end": 33
+      },
+      {
         "text": "十年",
         "label": "TME",
         "start": 43,
         "end": 45
+      },
+      {
+        "text": "宇文歆",
+        "label": "PER",
+        "start": 58,
+        "end": 61
+      },
+      {
+        "text": "宇文歆",
+        "label": "PER",
+        "start": 163,
+        "end": 166
       },
       {
         "text": "元",
@@ -1031,6 +1167,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -1145,7 +1287,26 @@
   {
     "sentence_id": "HCH_008_064_000109",
     "sentence": "建成乃薦元吉代太宗督軍北討，仍令秦府驍將秦叔寶、尉遲敬德、程知節、段志玄等並與同行。",
-    "entities": []
+    "entities": [
+      {
+        "text": "尉遲敬德",
+        "label": "PER",
+        "start": 24,
+        "end": 28
+      },
+      {
+        "text": "程知節",
+        "label": "PER",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "text": "段志玄",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_064_000110",
@@ -1155,7 +1316,20 @@
   {
     "sentence_id": "HCH_008_064_000111",
     "sentence": "又譖杜如晦、房玄齡，逐令歸第。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_064_000112",
@@ -1191,6 +1365,18 @@
         "label": "LOC",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "王承業",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "王承裕",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -1577,12 +1763,6 @@
         "end": 11
       },
       {
-        "text": "徐州",
-        "label": "LOC",
-        "start": 18,
-        "end": 20
-      },
-      {
         "text": "潞州",
         "label": "LOC",
         "start": 27,
@@ -1655,6 +1835,12 @@
         "end": 84
       },
       {
+        "text": "王元裕",
+        "label": "PER",
+        "start": 85,
+        "end": 88
+      },
+      {
         "text": "壽州",
         "label": "LOC",
         "start": 89,
@@ -1671,6 +1857,12 @@
         "label": "LOC",
         "start": 98,
         "end": 100
+      },
+      {
+        "text": "王靈夔",
+        "label": "PER",
+        "start": 103,
+        "end": 106
       },
       {
         "text": "蘇州",
@@ -1811,6 +2003,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "房遺愛",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -1822,7 +2020,14 @@
   {
     "sentence_id": "HCH_008_064_000164",
     "sentence": "以渤海王奉慈子長沙為嗣，降爵為侯。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王奉慈",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_064_000165",
@@ -1961,6 +2166,12 @@
     "sentence": "大臣高士廉、李世勣等奏言：「王者以四海為家，以萬姓為子，公行天下，情無獨親。元昌苞藏凶惡，圖謀逆亂，觀其指趣，察其心府，罪深燕旦，釁甚楚英。天地之所不容，人臣之所切齒，五刑不足申其罰，九死無以當其愆。而陛下情屈至公，恩加梟獍，欲開疏網，漏此鯨鯢。臣等有司，期不奉制，伏願敦師憲典，誅此凶慝。順群臣之願，奪鷹鸇之心，則吳、楚七君，不幽嘆於往漢；管、蔡二叔，不沉恨於有周。」太宗事不獲已，乃賜元昌自盡於家，妻子籍沒，國除。",
     "entities": [
       {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "元",
         "label": "ORG",
         "start": 38,
@@ -2034,12 +2245,26 @@
   {
     "sentence_id": "HCH_008_064_000185",
     "sentence": "周王元方",
-    "entities": []
+    "entities": [
+      {
+        "text": "王元方",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_064_000186",
     "sentence": "周王元方，高祖第九子也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王元方",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_064_000187",
@@ -2131,12 +2356,6 @@
         "label": "TITLE",
         "start": 15,
         "end": 17
-      },
-      {
-        "text": "遷徐州",
-        "label": "LOC",
-        "start": 23,
-        "end": 26
       }
     ]
   },
@@ -2326,6 +2545,12 @@
     "sentence": "天寶初，拔汗那王入朝，延年將嫁女與之，為右相李林甫所奏，貶文安郡別駕、彭城長史，坐贓貶永嘉司士。",
     "entities": [
       {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
         "text": "貶文安郡",
         "label": "LOC",
         "start": 28,
@@ -2366,6 +2591,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "趙國珍",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       },
       {
         "text": "以延年子前施州",
@@ -2605,6 +2836,12 @@
         "label": "TITLE",
         "start": 50,
         "end": 52
+      },
+      {
+        "text": "王靈夔",
+        "label": "PER",
+        "start": 54,
+        "end": 57
       },
       {
         "text": "太子",
@@ -3242,6 +3479,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "劉玄平",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -3333,7 +3576,14 @@
   {
     "sentence_id": "HCH_008_064_000289",
     "sentence": "高宗崩，與侍中劉齊賢等知山陵葬事，齊賢服其識練故事，每謂人曰：「非我輩所及也。」元軌嘗使國令征封，令白：「請依諸國賦物貿易取利。」元軌曰：「汝為國令，當正吾失，反說吾以利耶！」拒而不納。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉齊賢",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_064_000290",
@@ -3420,7 +3670,14 @@
   {
     "sentence_id": "HCH_008_064_000295",
     "sentence": "重拱中，坐與裴承光交通被殺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴承光",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_064_000296",
@@ -4103,12 +4360,26 @@
   {
     "sentence_id": "HCH_008_064_000347",
     "sentence": "鄧王元裕",
-    "entities": []
+    "entities": [
+      {
+        "text": "王元裕",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_064_000348",
     "sentence": "鄧王元裕，高祖第十七子也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王元裕",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_064_000349",
@@ -4149,7 +4420,14 @@
   {
     "sentence_id": "HCH_008_064_000351",
     "sentence": "元裕好學，善談名理，與典簽盧照鄰為布衣之交。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧照鄰",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_064_000352",
@@ -4459,7 +4737,14 @@
   {
     "sentence_id": "HCH_008_064_000371",
     "sentence": "永昌年，與子亶俱為丘神勣所陷，被殺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "丘神勣",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_064_000372",
@@ -4527,12 +4812,26 @@
   {
     "sentence_id": "HCH_008_064_000378",
     "sentence": "魯王靈夔",
-    "entities": []
+    "entities": [
+      {
+        "text": "王靈夔",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_064_000379",
     "sentence": "魯王靈夔，高祖第十九子也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王靈夔",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_064_000380",
@@ -5031,6 +5330,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "王仁皎",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "將軍",

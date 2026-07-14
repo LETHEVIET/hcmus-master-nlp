@@ -575,6 +575,12 @@
         "end": 6
       },
       {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "長安",
         "label": "LOC",
         "start": 16,
@@ -719,6 +725,12 @@
         "label": "LOC",
         "start": 2,
         "end": 9
+      },
+      {
+        "text": "牛存節",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -1015,6 +1027,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "張萬進",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "鄩為兗州",
@@ -1546,12 +1564,25 @@
   {
     "sentence_id": "HCH_007_023_000126",
     "sentence": "康懷英",
-    "entities": []
+    "entities": [
+      {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_023_000127",
     "sentence": "康懷英，兗州人也。",
     "entities": [
+      {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "兗州",
         "label": "LOC",
@@ -1774,6 +1805,12 @@
         "end": 4
       },
       {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "勝引軍攻下鄜州",
         "label": "LOC",
         "start": 29,
@@ -1883,7 +1920,14 @@
   {
     "sentence_id": "HCH_007_023_000159",
     "sentence": "及劉知俊奔鳳翔，引岐軍以圖靈武。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_023_000160",
@@ -1912,6 +1956,18 @@
         "label": "TITLE",
         "start": 29,
         "end": 35
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 61,
+        "end": 64
+      },
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 107,
+        "end": 110
       },
       {
         "text": "蓋懷英過長城",
@@ -1999,14 +2055,7 @@
   {
     "sentence_id": "HCH_007_023_000168",
     "sentence": "在淮南累職為都指揮使，楊行密偽署宣州節度使。",
-    "entities": [
-      {
-        "text": "楊行密偽署宣州",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_023_000169",
@@ -2058,6 +2107,12 @@
     "sentence_id": "HCH_007_023_000174",
     "sentence": "劉知俊之叛也，從駕至陝，始佐楊師厚西入關。",
     "entities": [
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "佐楊師厚西入關",
         "label": "LOC",

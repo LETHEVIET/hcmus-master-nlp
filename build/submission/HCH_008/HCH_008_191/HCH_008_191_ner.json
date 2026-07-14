@@ -2,7 +2,50 @@
   {
     "sentence_id": "HCH_008_191_000001",
     "sentence": "崔善為 薛頤 甄權 弟:立言 宋俠 許胤宗 乙弗弘禮 袁天綱 孫思邈 明崇儼 張憬藏 李嗣真 張文仲 附:李虔縱 韋慈藏 尚獻甫 附:裴知古 孟詵 嚴善思 金梁鳳 張果 葉法善 僧玄奘 僧神秀 附:慧能 普寂 義福 僧一行 附:泓師 桑道茂",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔善為",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "text": "袁天綱",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
+        "text": "李嗣真",
+        "label": "PER",
+        "start": 43,
+        "end": 46
+      },
+      {
+        "text": "韋慈藏",
+        "label": "PER",
+        "start": 57,
+        "end": 60
+      },
+      {
+        "text": "裴知古",
+        "label": "PER",
+        "start": 67,
+        "end": 70
+      },
+      {
+        "text": "嚴善思",
+        "label": "PER",
+        "start": 74,
+        "end": 77
+      },
+      {
+        "text": "葉法善",
+        "label": "PER",
+        "start": 85,
+        "end": 88
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000002",
@@ -56,22 +99,55 @@
   {
     "sentence_id": "HCH_008_191_000009",
     "sentence": "國史載袁天綱前知武后，恐匪格言，而李淳風刪方伎書，備言其要。",
-    "entities": []
+    "entities": [
+      {
+        "text": "袁天綱",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "李淳風",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000010",
     "sentence": "舊本錄崔善為已下，此深於其術者，兼桑門道士方伎等，並附此篇。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔善為",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000011",
     "sentence": "崔善為",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔善為",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000012",
     "sentence": "崔善為，貝州武城人也。",
     "entities": [
+      {
+        "text": "崔善為",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "貝州武城",
         "label": "LOC",
@@ -222,6 +298,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 12
+      },
+      {
+        "text": "李淳風",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -351,7 +433,14 @@
   {
     "sentence_id": "HCH_008_191_000041",
     "sentence": "會褚遂良亦言其事，於是乃止。",
-    "entities": []
+    "entities": [
+      {
+        "text": "褚遂良",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000042",
@@ -373,7 +462,14 @@
   {
     "sentence_id": "HCH_008_191_000044",
     "sentence": "前後所奏，與京台李淳風多相符契。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李淳風",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000045",
@@ -751,6 +847,12 @@
         "end": 6
       },
       {
+        "text": "薛大鼎",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "隋",
         "label": "ORG",
         "start": 9,
@@ -766,12 +868,25 @@
   {
     "sentence_id": "HCH_008_191_000088",
     "sentence": "袁天綱",
-    "entities": []
+    "entities": [
+      {
+        "text": "袁天綱",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000089",
     "sentence": "袁天綱，益州成都人也。",
     "entities": [
+      {
+        "text": "袁天綱",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "益州",
         "label": "LOC",
@@ -1075,7 +1190,14 @@
   {
     "sentence_id": "HCH_008_191_000110",
     "sentence": "時中書舍人岑文本令視之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000111",
@@ -1091,6 +1213,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "張行成",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "尚書",
@@ -1120,7 +1248,14 @@
   {
     "sentence_id": "HCH_008_191_000115",
     "sentence": "申國公高士廉嘗謂曰：「君更作何官？」天綱曰：「自知相命，今年四月盡矣。」果至是月而卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高士廉",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000116",
@@ -1217,7 +1352,20 @@
   {
     "sentence_id": "HCH_008_191_000125",
     "sentence": "當時知名之士宋令文、孟詵、盧照鄰等，執師資之禮以事焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋令文",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "盧照鄰",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000126",
@@ -1368,6 +1516,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "孫處約",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -1380,6 +1534,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "盧齊卿",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       },
       {
         "text": "五十年",
@@ -1692,7 +1852,14 @@
   {
     "sentence_id": "HCH_008_191_000173",
     "sentence": "少工相術，與袁天綱齊名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "袁天綱",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000174",
@@ -1770,6 +1937,12 @@
     "sentence": "左僕射劉仁軌微時，嘗與鄉人靖思賢各齎絹贈憬藏以問官祿。",
     "entities": [
       {
+        "text": "劉仁軌",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
         "text": "嘗與鄉",
         "label": "LOC",
         "start": 9,
@@ -1800,12 +1973,25 @@
   {
     "sentence_id": "HCH_008_191_000184",
     "sentence": "李嗣真",
-    "entities": []
+    "entities": [
+      {
+        "text": "李嗣真",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000185",
     "sentence": "李嗣真，滑州匡城人也。",
     "entities": [
+      {
+        "text": "李嗣真",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "滑州匡城",
         "label": "LOC",
@@ -1846,12 +2032,26 @@
   {
     "sentence_id": "HCH_008_191_000189",
     "sentence": "時左侍極賀蘭敏之受詔于東台修撰，奏嗣真弘文館參預其事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀蘭敏之",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000190",
     "sentence": "嗣真與同時學士劉獻臣、徐昭俱稱少俊，館中號為「三少」。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉獻臣",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000191",
@@ -1931,7 +2131,14 @@
   {
     "sentence_id": "HCH_008_191_000197",
     "sentence": "時酷吏來俊臣構陷無罪，嗣真上書諫曰：「臣聞陳平事漢祖，謀疏楚君臣，乃用黃金五萬斤，行反間之術。項王果疑臣下，陳平反間果行。今告事紛紜，虛多實少，焉知必無陳平先謀疏陛下君臣，後謀除國家良善，臣恐為社稷之禍！伏乞陛下特回天慮，察臣狂瞽，然後退就鼎鑊，實無所恨！」疏奏不納。",
-    "entities": []
+    "entities": [
+      {
+        "text": "來俊臣",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000198",
@@ -2064,6 +2271,12 @@
         "label": "LOC",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "韋慈藏",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -2075,7 +2288,14 @@
   {
     "sentence_id": "HCH_008_191_000208",
     "sentence": "時特進蘇良嗣於殿庭因拜跪便絕倒，則天令文仲、慈藏隨至宅候之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇良嗣",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000209",
@@ -2100,7 +2320,14 @@
   {
     "sentence_id": "HCH_008_191_000213",
     "sentence": "其後則天令文仲集當時名醫共撰療風氣諸方，仍令麟台監王方慶監其修撰。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王方慶",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000214",
@@ -2127,7 +2354,14 @@
   {
     "sentence_id": "HCH_008_191_000217",
     "sentence": "李虔縱　韋慈藏 附",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋慈藏",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000218",
@@ -2219,7 +2453,14 @@
   {
     "sentence_id": "HCH_008_191_000230",
     "sentence": "裴知古 附",
-    "entities": []
+    "entities": [
+      {
+        "text": "裴知古",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000231",
@@ -2230,6 +2471,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "裴知古",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -2308,6 +2555,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "劉禕之",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -2459,12 +2712,25 @@
   {
     "sentence_id": "HCH_008_191_000253",
     "sentence": "嚴善思",
-    "entities": []
+    "entities": [
+      {
+        "text": "嚴善思",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000254",
     "sentence": "嚴善思，同州朝邑人也。",
     "entities": [
+      {
+        "text": "嚴善思",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "同州朝邑",
         "label": "LOC",
@@ -2527,7 +2793,14 @@
   {
     "sentence_id": "HCH_008_191_000261",
     "sentence": "善思對曰：「商姓大臣當之。」其年，文昌左相王及善卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王及善",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000262",
@@ -2550,7 +2823,20 @@
   {
     "sentence_id": "HCH_008_191_000263",
     "sentence": "善思奏曰：「法有亂臣伏罪，且有臣下謀上之象。」歲餘，張柬之、敬暉等起兵誅張易之、昌宗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張柬之",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "text": "張易之",
+        "label": "PER",
+        "start": 36,
+        "end": 39
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000264",
@@ -2724,7 +3010,14 @@
   {
     "sentence_id": "HCH_008_191_000290",
     "sentence": "睿宗在籓，善思嘗謂姚元之曰：「相王必登帝位。」及踐祚，元之以事聞奏，由是召拜右散騎常侍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "姚元之",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000291",
@@ -2753,6 +3046,18 @@
         "label": "TME",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "韓思復",
+        "label": "PER",
+        "start": 36,
+        "end": 39
+      },
+      {
+        "text": "嚴善思",
+        "label": "PER",
+        "start": 63,
+        "end": 66
       }
     ]
   },
@@ -2799,6 +3104,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "劉允濟",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -2815,7 +3126,14 @@
   {
     "sentence_id": "HCH_008_191_000300",
     "sentence": "韓思復奏免善思之罪，亦未曾有所言謝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韓思復",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000301",
@@ -2893,7 +3211,14 @@
   {
     "sentence_id": "HCH_008_191_000309",
     "sentence": "時哥舒翰為節度使，詔入京師。",
-    "entities": []
+    "entities": [
+      {
+        "text": "哥舒翰",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000310",
@@ -2917,6 +3242,12 @@
     "sentence": "其後安祿山反，南犯洛陽，僭稱偽位。",
     "entities": [
       {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "洛陽",
         "label": "LOC",
         "start": 9,
@@ -2928,12 +3259,6 @@
     "sentence_id": "HCH_008_191_000313",
     "sentence": "哥舒翰東守潼關，累月，奏冕為御史中丞，追赴京。",
     "entities": [
-      {
-        "text": "哥舒翰東守潼關",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -3321,12 +3646,25 @@
   {
     "sentence_id": "HCH_008_191_000359",
     "sentence": "葉法善",
-    "entities": []
+    "entities": [
+      {
+        "text": "葉法善",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000360",
     "sentence": "道士葉法善，括州括蒼縣人。",
     "entities": [
+      {
+        "text": "葉法善",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "括州括蒼縣",
         "label": "LOC",
@@ -3466,7 +3804,14 @@
   {
     "sentence_id": "HCH_008_191_000380",
     "sentence": "故道士鴻臚卿、員外置、越國公葉法善，天真精密，妙理玄暢，包括秘要，發揮靈符，固以冥默難源，希夷罕測。",
-    "entities": []
+    "entities": [
+      {
+        "text": "葉法善",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000381",
@@ -3598,10 +3943,22 @@
     "sentence": "於是詔將梵本六百五十七部於弘福寺翻譯，仍敕右僕射房玄齡、太子左庶子許敬宗，廣召碩學沙門五十餘人，相助整比。",
     "entities": [
       {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 28,
         "end": 30
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 33,
+        "end": 36
       }
     ]
   },
@@ -3632,6 +3989,30 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "于志寧",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "許敬宗",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "李義府",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
+        "text": "杜正倫",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       },
       {
         "text": "侍郎",
@@ -3906,7 +4287,14 @@
   {
     "sentence_id": "HCH_008_191_000433",
     "sentence": "又于相王舊宅置報恩寺，岐王范、張說及征士盧鴻一皆為其碑文。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧鴻一",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000434",
@@ -4106,6 +4494,12 @@
         "label": "TME",
         "start": 1,
         "end": 4
+      },
+      {
+        "text": "大智禪師",
+        "label": "PER",
+        "start": 11,
+        "end": 15
       }
     ]
   },
@@ -4123,6 +4517,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "嚴挺之",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -4229,7 +4629,14 @@
   {
     "sentence_id": "HCH_008_191_000467",
     "sentence": "武三思慕其學行，就請與結交，一行逃匿以避之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000468",
@@ -4239,7 +4646,14 @@
   {
     "sentence_id": "HCH_008_191_000469",
     "sentence": "睿宗即位，敕東都留守韋安石以禮征。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋安石",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_191_000470",

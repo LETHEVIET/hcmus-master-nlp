@@ -901,6 +901,12 @@
         "end": 2
       },
       {
+        "text": "羲皇上人",
+        "label": "PER",
+        "start": 19,
+        "end": 23
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 26,
@@ -911,7 +917,20 @@
   {
     "sentence_id": "HCH_003_082_000092",
     "sentence": "將通名，見徐之才、和士開二人相對，以徐之才諱「雄」，和士開諱「安」，乃稱「觸觸生」，群公哂之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "徐之才",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_082_000093",
@@ -2056,7 +2075,14 @@
   {
     "sentence_id": "HCH_003_082_000216",
     "sentence": "初為賀拔岳墨曹參軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_082_000217",
@@ -2066,7 +2092,14 @@
   {
     "sentence_id": "HCH_003_082_000218",
     "sentence": "時周文志平侯莫陳悅，乃令俊偽為魏帝敕書與費也頭，令將兵助周文討悅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 5,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_082_000219",
@@ -2718,6 +2751,12 @@
     "sentence_id": "HCH_003_082_000286",
     "sentence": "事梁武陵王紀，主知金帛，因致巨富，號為西州大賈。",
     "entities": [
+      {
+        "text": "武陵王紀",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      },
       {
         "text": "號為西州",
         "label": "LOC",
@@ -3920,7 +3959,14 @@
   {
     "sentence_id": "HCH_003_082_000431",
     "sentence": "梁鄱陽王恢之孫，少封攸侯。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王恢之",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_082_000432",
@@ -4921,7 +4967,14 @@
   {
     "sentence_id": "HCH_003_082_000530",
     "sentence": "內史令博陵李德林甚禮之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_082_000531",
@@ -5224,7 +5277,14 @@
   {
     "sentence_id": "HCH_003_082_000556",
     "sentence": "始文帝時，以刀筆吏類多小人，年久長奸，勢使然也；又以風俗陵遲，婦人無節。",
-    "entities": []
+    "entities": [
+      {
+        "text": "文帝時",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_082_000557",

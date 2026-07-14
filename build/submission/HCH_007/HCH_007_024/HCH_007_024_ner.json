@@ -681,6 +681,12 @@
         "end": 9
       },
       {
+        "text": "朱全忠",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
         "text": "二年",
         "label": "TME",
         "start": 70,
@@ -808,7 +814,14 @@
   {
     "sentence_id": "HCH_007_024_000098",
     "sentence": "魏博節度使羅紹威密表推薦，乃授給事中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_024_000099",
@@ -922,6 +935,12 @@
         "end": 90
       },
       {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 400,
+        "end": 403
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 472,
@@ -989,12 +1008,6 @@
         "label": "LOC",
         "start": 100,
         "end": 105
-      },
-      {
-        "text": "劉知俊閉關",
-        "label": "LOC",
-        "start": 105,
-        "end": 110
       }
     ]
   },

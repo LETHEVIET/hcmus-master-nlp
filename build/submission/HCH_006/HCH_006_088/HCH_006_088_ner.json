@@ -295,6 +295,12 @@
         "label": "TITLE",
         "start": 60,
         "end": 64
+      },
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 75,
+        "end": 78
       }
     ]
   },
@@ -307,6 +313,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 36,
+        "end": 39
       },
       {
         "text": "《春秋》",
@@ -1284,6 +1296,12 @@
     "sentence": "充宗授平陵士孫張仲方、沛鄧彭祖子夏、齊衡咸長賓。",
     "entities": [
       {
+        "text": "士孫張",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "沛",
         "label": "LOC",
         "start": 11,
@@ -1674,6 +1692,12 @@
     "sentence": "寬又受業孔安國，至御史大夫，自有傳。",
     "entities": [
       {
+        "text": "孔安國",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 9,
@@ -1989,6 +2013,12 @@
         "end": 12
       },
       {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 19,
@@ -2298,6 +2328,12 @@
     "sentence_id": "HCH_006_088_000213",
     "sentence": "孔氏有古文《尚書》，孔安國以今文字讀之，因以起其家逸《書》，得十餘篇，蓋《尚書》茲多於是矣。",
     "entities": [
+      {
+        "text": "孔安國",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
       {
         "text": "《書》",
         "label": "TITLE",
@@ -2691,6 +2727,12 @@
         "end": 5
       },
       {
+        "text": "孔安國",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "太守",
         "label": "TITLE",
         "start": 15,
@@ -2707,6 +2749,12 @@
         "label": "TITLE",
         "start": 37,
         "end": 39
+      },
+      {
+        "text": "闕門慶忌",
+        "label": "PER",
+        "start": 58,
+        "end": 62
       }
     ]
   },
@@ -3079,6 +3127,12 @@
     "sentence": "初，薛廣德亦事王式，以博士論石渠，授龔捨。",
     "entities": [
       {
+        "text": "薛廣德",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "博士",
         "label": "TITLE",
         "start": 11,
@@ -3212,7 +3266,14 @@
   {
     "sentence_id": "HCH_006_088_000293",
     "sentence": "公孫弘亦徵，仄目而事固。",
-    "entities": []
+    "entities": [
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_088_000294",
@@ -3280,6 +3341,12 @@
         "label": "TITLE",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -3429,7 +3496,14 @@
   {
     "sentence_id": "HCH_006_088_000314",
     "sentence": "武帝時，嬰嘗與董仲舒論於上前，其人精悍，處事分明，仲舒不能難也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_088_000315",
@@ -3921,7 +3995,14 @@
   {
     "sentence_id": "HCH_006_088_000358",
     "sentence": "與董仲舒同業，仲舒著書稱其德。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_088_000359",
@@ -3932,6 +4013,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 15
+      },
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -3943,7 +4030,14 @@
   {
     "sentence_id": "HCH_006_088_000361",
     "sentence": "弟子遂之者，蘭陵褚大、東平贏公、廣川段仲、溫呂步舒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "呂步舒",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_088_000362",
@@ -3971,12 +4065,26 @@
   {
     "sentence_id": "HCH_006_088_000364",
     "sentence": "嚴彭祖",
-    "entities": []
+    "entities": [
+      {
+        "text": "嚴彭祖",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_088_000365",
     "sentence": "嚴彭祖字公子，東海下邳人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "嚴彭祖",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_088_000366",
@@ -4255,7 +4363,14 @@
   {
     "sentence_id": "HCH_006_088_000393",
     "sentence": "武帝時，江公與董仲舒並。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_088_000394",
@@ -4283,6 +4398,12 @@
         "label": "TITLE",
         "start": 1,
         "end": 3
+      },
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 3,
+        "end": 6
       },
       {
         "text": "《公羊》",
@@ -4534,6 +4655,12 @@
         "end": 10
       },
       {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "《公羊》",
         "label": "TITLE",
         "start": 22,
@@ -4562,6 +4689,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "嚴彭祖",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "侍郎",
@@ -4664,6 +4797,12 @@
         "label": "TITLE",
         "start": 15,
         "end": 20
+      },
+      {
+        "text": "翟方進",
+        "label": "PER",
+        "start": 36,
+        "end": 39
       }
     ]
   },
@@ -4878,6 +5017,12 @@
     "sentence": "禹與蕭望之同時為御史，數為望之言《左氏》，望之善之，上書數以稱說。",
     "entities": [
       {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 8,
@@ -4906,7 +5051,14 @@
   {
     "sentence_id": "HCH_006_088_000436",
     "sentence": "授尹更始，更始傳子咸及翟方進、胡常。",
-    "entities": []
+    "entities": [
+      {
+        "text": "翟方進",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_088_000437",
@@ -4929,7 +5081,14 @@
   {
     "sentence_id": "HCH_006_088_000438",
     "sentence": "而劉歆從尹咸及翟方進受。",
-    "entities": []
+    "entities": [
+      {
+        "text": "翟方進",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_088_000439",

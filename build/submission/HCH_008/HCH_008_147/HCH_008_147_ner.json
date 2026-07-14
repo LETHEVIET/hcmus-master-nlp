@@ -2,27 +2,62 @@
   {
     "sentence_id": "HCH_008_147_000001",
     "sentence": "杜黃裳",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜黃裳",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_147_000002",
     "sentence": "杜黃裳，字遵素，京兆杜陵人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜黃裳",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_147_000003",
     "sentence": "登進士第、宏辭科，杜鴻漸深器重之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜鴻漸",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_147_000004",
     "sentence": "為郭子儀朔方從事，子儀入朝，令黃裳主留務於朔方。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_147_000005",
     "sentence": "邠將李懷光與監軍陰謀代子儀，乃為偽詔書，欲誅大將溫儒雅等。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_147_000006",
@@ -38,6 +73,12 @@
     "sentence_id": "HCH_008_147_000008",
     "sentence": "後入為臺省官，為裴延齡所惡，十年不遷。",
     "entities": [
+      {
+        "text": "裴延齡",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
       {
         "text": "十年",
         "label": "TME",
@@ -61,12 +102,25 @@
   {
     "sentence_id": "HCH_008_147_000010",
     "sentence": "王叔文之竊權，黃裳終不造其門。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_147_000011",
     "sentence": "嘗語其子婿韋執誼，令率百官請皇太子監國，執誼遽曰：「丈人才得一官，可復開口議禁中事耶！」黃裳勃然曰：「黃裳受恩三朝，豈可以一官見買！」即拂衣而出。",
     "entities": [
+      {
+        "text": "韋執誼",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "太子",
         "label": "TITLE",
@@ -89,6 +143,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "韓全義",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -100,7 +160,14 @@
   {
     "sentence_id": "HCH_008_147_000015",
     "sentence": "又奏請不以中官為監軍，只委高崇文為使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高崇文",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_147_000016",
@@ -196,7 +263,14 @@
   {
     "sentence_id": "HCH_008_147_000025",
     "sentence": "始為卿士，女嫁韋執誼，深不為執誼所稱；及執誼譴逐，黃裳終保全之，洎死嶺表，請歸其喪，以辦葬事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋執誼",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_147_000026",
@@ -230,10 +304,22 @@
         "end": 7
       },
       {
+        "text": "杜黃裳",
+        "label": "PER",
+        "start": 28,
+        "end": 31
+      },
+      {
         "text": "於故州",
         "label": "LOC",
         "start": 32,
         "end": 35
+      },
+      {
+        "text": "高崇文",
+        "label": "PER",
+        "start": 40,
+        "end": 43
       },
       {
         "text": "事關",
@@ -342,7 +428,14 @@
   {
     "sentence_id": "HCH_008_147_000040",
     "sentence": "郭子儀節制朔方，辟為掌書記。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_147_000041",
@@ -352,7 +445,14 @@
   {
     "sentence_id": "HCH_008_147_000042",
     "sentence": "李懷光節制邠寧，奏為從事，累轉副元帥判官、檢校禮部郎中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李懷光",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_147_000043",
@@ -412,6 +512,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "孔巢父",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -500,6 +606,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "韋執誼",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -617,17 +729,37 @@
   {
     "sentence_id": "HCH_008_147_000072",
     "sentence": "與鄭珣瑜並命拜相；未幾，德宗升遐。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭珣瑜",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_147_000073",
     "sentence": "時同在相位，杜佑以宿舊居上，而韋執誼由朋黨專柄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋執誼",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_147_000074",
     "sentence": "順宗風恙方甚，樞機不宣，而王叔文以翰林學士兼戶部侍郎，充度支副使。",
     "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
       {
         "text": "侍郎",
         "label": "TITLE",
@@ -639,7 +771,20 @@
   {
     "sentence_id": "HCH_008_147_000075",
     "sentence": "是時政事，王叔文謀議，王伾通導，李忠言宣下，韋執誼奉行。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "韋執誼",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_147_000076",
@@ -796,6 +941,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "韋元甫",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1023,6 +1174,12 @@
         "label": "LOC",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "張建封",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1069,7 +1226,14 @@
   {
     "sentence_id": "HCH_008_147_000114",
     "sentence": "然於賓僚間依阿無制，判官南宮僔、李亞、鄭元均爭權，頗紊軍政，德宗知之，並竄於嶺外。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭元均",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_147_000115",
@@ -1096,7 +1260,14 @@
   {
     "sentence_id": "HCH_008_147_000118",
     "sentence": "時王叔文為副使，佑雖總統，而權歸叔文。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_147_000119",
@@ -1892,7 +2063,20 @@
   {
     "sentence_id": "HCH_008_147_000225",
     "sentence": "於時翰林學士獨孤郁，權德輿之女婿，時德輿作相，郁避嫌辭內職。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤郁",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "權德輿",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_147_000226",
@@ -2134,12 +2318,6 @@
     "sentence": "先是，李德裕鎮西川，維州吐蕃首領悉怛謀以城來降，德裕奏之；執政者與德裕不協，遽勒還其城。",
     "entities": [
       {
-        "text": "李德裕鎮",
-        "label": "LOC",
-        "start": 3,
-        "end": 7
-      },
-      {
         "text": "維州",
         "label": "LOC",
         "start": 10,
@@ -2217,7 +2395,20 @@
   {
     "sentence_id": "HCH_008_147_000251",
     "sentence": "諫官崔群、韋貫之、獨孤郁等以從郁宰相子，不合為諫官，乃降授左拾遺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋貫之",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
+        "text": "獨孤郁",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_147_000252",
@@ -2252,14 +2443,7 @@
   {
     "sentence_id": "HCH_008_147_000258",
     "sentence": "沈傳師廉察江西宣州，辟牧為從事、試大理評事。",
-    "entities": [
-      {
-        "text": "師廉察江西宣州",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_147_000259",
@@ -2356,7 +2540,14 @@
   {
     "sentence_id": "HCH_008_147_000268",
     "sentence": "李德裕稱之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_147_000269",

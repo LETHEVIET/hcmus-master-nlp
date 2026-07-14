@@ -27,7 +27,20 @@
   {
     "sentence_id": "HCH_006_089_000006",
     "sentence": "時少能以化治稱者，惟江都相董仲舒、內史公孫弘、兒寬，居官可紀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "董仲舒",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "公孫弘",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_089_000007",
@@ -117,7 +130,20 @@
   {
     "sentence_id": "HCH_006_089_000017",
     "sentence": "若趙廣漢、韓延壽、尹翁歸、嚴延年、張敞之屬，皆稱其位，然任刑罰，或抵罪誅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙廣漢",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "尹翁歸",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_089_000018",

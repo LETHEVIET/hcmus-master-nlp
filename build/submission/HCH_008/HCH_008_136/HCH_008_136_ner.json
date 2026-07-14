@@ -84,6 +84,12 @@
         "label": "LOC",
         "start": 5,
         "end": 8
+      },
+      {
+        "text": "陳少遊",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -221,10 +227,22 @@
     "sentence": "故淮南節度使陳少遊子正儀請襲封，參大署尚書省門曰：「陳少遊位兼將相之崇，節變艱危之際，君上含垢，未能發明，愚子何心，輒求傳襲。」正儀懼，不敢求封而去。",
     "entities": [
       {
+        "text": "陳少遊",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "陳少遊",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -294,12 +312,6 @@
     "sentence": "貶參郴州別駕，貞元八年四月也。",
     "entities": [
       {
-        "text": "貶參郴州",
-        "label": "LOC",
-        "start": 0,
-        "end": 4
-      },
-      {
         "text": "八年",
         "label": "TME",
         "start": 9,
@@ -322,6 +334,12 @@
         "label": "LOC",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "劉士寧",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -457,7 +475,14 @@
   {
     "sentence_id": "HCH_008_136_000051",
     "sentence": "吳通微弟兄與贄同在翰林，俱承德宗顧遇，亦爭寵不協。",
-    "entities": []
+    "entities": [
+      {
+        "text": "吳通微",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_136_000052",
@@ -521,14 +546,7 @@
   {
     "sentence_id": "HCH_008_136_000055",
     "sentence": "不旬日貶參郴州別駕，即日以陸贄為宰相。",
-    "entities": [
-      {
-        "text": "不旬日貶參郴州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_136_000056",
@@ -545,7 +563,14 @@
   {
     "sentence_id": "HCH_008_136_000057",
     "sentence": "德宗謂陸贄曰：「竇申、竇榮、李則之首末同惡，無所不至，又並細微，不比竇參，便宜商量處置，所有親密，並發遣於遠惡處。」贄奏曰：",
-    "entities": []
+    "entities": [
+      {
+        "text": "李則之",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_136_000058",
@@ -565,7 +590,14 @@
   {
     "sentence_id": "HCH_008_136_000061",
     "sentence": "其竇申、竇榮、李則之等，即皆同惡，固亦難容；然以得罪相因，法有首從，首當居重，從合從輕。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李則之",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_136_000062",
@@ -669,6 +701,12 @@
     "sentence": "滑亳節度使令狐彰辟為掌書記，累授監察御史。",
     "entities": [
       {
+        "text": "令狐彰",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 18,
@@ -737,7 +775,14 @@
   {
     "sentence_id": "HCH_008_136_000086",
     "sentence": "鎰懦緩不曉兵家事，部將有李楚琳者，慓悍兇暴，軍中畏之，乘間將謀亂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李楚琳",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_136_000087",
@@ -876,7 +921,14 @@
   {
     "sentence_id": "HCH_008_136_000103",
     "sentence": "映於東都舉進士及宏詞時，張延賞為河南尹、東都留守，厚映。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張延賞",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_136_000104",
@@ -1228,6 +1280,12 @@
         "label": "LOC",
         "start": 7,
         "end": 11
+      },
+      {
+        "text": "杜鴻漸",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -1366,7 +1424,14 @@
   {
     "sentence_id": "HCH_008_136_000145",
     "sentence": "少以孝友謹厚稱，深為叔舅崔祐甫所親重。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔祐甫",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_136_000146",
@@ -1654,6 +1719,12 @@
         "label": "TITLE",
         "start": 28,
         "end": 30
+      },
+      {
+        "text": "裴延齡",
+        "label": "PER",
+        "start": 30,
+        "end": 33
       }
     ]
   },
@@ -1666,6 +1737,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "趙宗儒",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -1849,7 +1926,14 @@
   {
     "sentence_id": "HCH_008_136_000193",
     "sentence": "德宗在奉天，鎰為李楚琳所害。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李楚琳",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_136_000194",

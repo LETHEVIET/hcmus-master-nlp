@@ -2,7 +2,14 @@
   {
     "sentence_id": "HCH_003_064_000001",
     "sentence": "韋孝寬 韋瑱 柳虯",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_064_000002",
@@ -12,17 +19,38 @@
   {
     "sentence_id": "HCH_003_064_000003",
     "sentence": "韋孝寬兄夐夐子世康韋瑱子師柳虯弟檜慶慶子機機子述機弟弘旦肅機從子謇之",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_064_000004",
     "sentence": "韋孝寬",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_064_000005",
     "sentence": "韋叔裕，字孝寬，京兆杜陵人也，少以字行。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋叔裕",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_064_000006",
@@ -132,14 +160,7 @@
   {
     "sentence_id": "HCH_003_064_000014",
     "sentence": "弱冠，屬蕭寶夤作亂關右，乃詣闕，請為軍前驅。",
-    "entities": [
-      {
-        "text": "屬蕭寶夤作亂關",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_064_000015",
@@ -233,6 +254,12 @@
         "end": 12
       },
       {
+        "text": "源子恭",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "穰城",
         "label": "LOC",
         "start": 16,
@@ -250,12 +277,6 @@
     "sentence_id": "HCH_003_064_000022",
     "sentence": "時獨孤信為新野郡守，同隸荊州，與孝寬情好款密，政術俱美，荊部吏人號為連璧。",
     "entities": [
-      {
-        "text": "獨孤信為新野郡",
-        "label": "LOC",
-        "start": 1,
-        "end": 8
-      },
       {
         "text": "同隸荊州",
         "label": "LOC",
@@ -322,10 +343,22 @@
     "sentence": "仍與獨孤信入洛，為陽城郡守，復與宇文貴、怡峰應接潁川義徒，破東魏將任祥、堯雄於潁川。",
     "entities": [
       {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "為陽城郡",
         "label": "LOC",
         "start": 8,
         "end": 12
+      },
+      {
+        "text": "宇文貴",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -723,6 +756,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "長孫紹遠",
+        "label": "PER",
+        "start": 13,
+        "end": 17
       },
       {
         "text": "大將軍",
@@ -1532,10 +1571,10 @@
     "sentence": "乃分遣郐巳公宇文亮攻黃城，郕公梁士彥攻廣陵，孝寬率眾攻壽陽，並拔之。",
     "entities": [
       {
-        "text": "公宇文亮攻黃城",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
+        "text": "梁士彥",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -1580,6 +1619,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "宇文亮",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -3377,6 +3422,12 @@
         "label": "LOC",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "王長述",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -3563,6 +3614,12 @@
     "sentence_id": "HCH_003_064_000375",
     "sentence": "隨劉義真過江，仕宋為順陽太守、行南雍州事。",
     "entities": [
+      {
+        "text": "劉義真",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "太守",
         "label": "TITLE",
@@ -3932,7 +3989,14 @@
   {
     "sentence_id": "HCH_003_064_000408",
     "sentence": "周大塚宰宇文護引為中外府記室，轉賓曹參軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_064_000409",
@@ -4233,6 +4297,12 @@
         "end": 5
       },
       {
+        "text": "裴叔業",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "曆北地潁川二郡",
         "label": "LOC",
         "start": 13,
@@ -4368,10 +4438,10 @@
         "end": 4
       },
       {
-        "text": "領軍獨孤信鎮",
-        "label": "LOC",
-        "start": 12,
-        "end": 18
+        "text": "元季海",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "洛陽",
@@ -4423,7 +4493,14 @@
   {
     "sentence_id": "HCH_003_064_000451",
     "sentence": "又為獨孤信開府從事中郎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_064_000452",
@@ -5178,7 +5255,14 @@
   {
     "sentence_id": "HCH_003_064_000525",
     "sentence": "後達奚武經略漢川，以帶韋為行台左丞，從軍南討。",
-    "entities": []
+    "entities": [
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_064_000526",
@@ -5390,12 +5474,6 @@
     "sentence": "陳王純鎮并州，以帶韋為并州司會、并州總管府長史。",
     "entities": [
       {
-        "text": "陳王純鎮并州",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      },
-      {
         "text": "以帶韋為并州",
         "label": "LOC",
         "start": 7,
@@ -5582,12 +5660,6 @@
     "sentence_id": "HCH_003_064_000565",
     "sentence": "獨孤信之鎮洛陽，乃得入關。",
     "entities": [
-      {
-        "text": "獨孤信之鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 5
-      },
       {
         "text": "洛陽",
         "label": "LOC",
@@ -7059,6 +7131,12 @@
         "label": "TITLE",
         "start": 31,
         "end": 34
+      },
+      {
+        "text": "宇文述",
+        "label": "PER",
+        "start": 34,
+        "end": 37
       }
     ]
   },
@@ -7116,6 +7194,12 @@
     "sentence_id": "HCH_003_064_000743",
     "sentence": "韋孝寬奇材異度，緯武經文，居要害之地，受幹城之托。",
     "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "受幹城",
         "label": "LOC",

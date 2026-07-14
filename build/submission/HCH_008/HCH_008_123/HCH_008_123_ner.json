@@ -60,7 +60,14 @@
   {
     "sentence_id": "HCH_008_123_000006",
     "sentence": "時史朝義盜據東都，寄理長水。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史朝義",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_123_000007",
@@ -114,6 +121,12 @@
     "sentence_id": "HCH_008_123_000010",
     "sentence": "時顏真卿以文學正直出為利州刺史，晏舉真卿自代為戶部，乃加國子祭酒。",
     "entities": [
+      {
+        "text": "顏真卿",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "學正直出為利州",
         "label": "LOC",
@@ -435,7 +448,14 @@
   {
     "sentence_id": "HCH_008_123_000054",
     "sentence": "又至德初，為國用不足，令第五琦於諸道榷鹽以助軍用，及晏代其任，法益精密，官無遺利。",
-    "entities": []
+    "entities": [
+      {
+        "text": "第五琦",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_123_000055",
@@ -468,6 +488,18 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "裴遵慶",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },
@@ -735,6 +767,12 @@
     "sentence": "炎因對易攵流涕奏言：「賴祖宗福祐，先皇與陛下不為賊臣所間。不然，劉晏、黎幹之輩，搖動社稷，兇謀果矣。今幹以伏罪，晏猶領權，臣為宰相，不能正持此事，罪當萬死。」崔祐甫奏言：「此事曖昧，陛下以廓然大赦，不當究尋虛語。」硃泚、崔寧又從傍與祐甫救解之，寧言頗切，炎大怒，故斥寧令出鎮鄜坊以摧挫之。",
     "entities": [
       {
+        "text": "崔祐甫",
+        "label": "PER",
+        "start": 79,
+        "end": 82
+      },
+      {
         "text": "故斥寧令出鎮",
         "label": "LOC",
         "start": 131,
@@ -826,12 +864,25 @@
   {
     "sentence_id": "HCH_008_123_000099",
     "sentence": "第五琦",
-    "entities": []
+    "entities": [
+      {
+        "text": "第五琦",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_123_000100",
     "sentence": "第五琦，京兆長安人。",
     "entities": [
+      {
+        "text": "第五琦",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "長安",
         "label": "LOC",
@@ -864,6 +915,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "賀蘭進明",
+        "label": "PER",
+        "start": 9,
+        "end": 13
       }
     ]
   },
@@ -871,6 +928,12 @@
     "sentence_id": "HCH_008_123_000105",
     "sentence": "會安祿山反，進明遷北海郡太守，奏琦為錄事參軍。",
     "entities": [
+      {
+        "text": "安祿山",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "進明遷北海郡",
         "label": "LOC",
@@ -1085,6 +1148,12 @@
     "sentence": "屬吐蕃寇陷京師，代宗幸陜，關內副元帥郭子儀請琦為糧料使、兼御史大夫，充關內元帥副使。",
     "entities": [
       {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 29,
@@ -1147,6 +1216,12 @@
     "sentence_id": "HCH_008_123_000130",
     "sentence": "魚朝恩伏誅，琦坐與款狎，出為處州刺史，歷饒、湖二州。",
     "entities": [
+      {
+        "text": "魚朝恩",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "出為處州",
         "label": "LOC",
@@ -1228,6 +1303,12 @@
     "sentence": "宏少舉進士，授右司禦胄曹，後為薛景先鳳翔掌書記，又為高適劍南觀察判官，累拜大理司直，攝監察御史。",
     "entities": [
       {
+        "text": "薛景先",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 45,
@@ -1250,7 +1331,14 @@
   {
     "sentence_id": "HCH_008_123_000140",
     "sentence": "既而郭英乂代適，以厭人望，奏署秘書郎，兼雒令，以疾免。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭英乂",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_123_000141",
@@ -1267,7 +1355,14 @@
   {
     "sentence_id": "HCH_008_123_000142",
     "sentence": "時李寶臣卒於其位，子惟嶽匿喪求位，上遣宏使成德問疾，且喻之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李寶臣",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_123_000143",
@@ -1521,7 +1616,14 @@
   {
     "sentence_id": "HCH_008_123_000171",
     "sentence": "少時，顏真卿器重之，因紹舊名，字之曰德素，奏授武康尉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "顏真卿",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_123_000172",
@@ -1544,7 +1646,14 @@
   {
     "sentence_id": "HCH_008_123_000173",
     "sentence": "時李希烈阻兵，江淮租輸，所在艱阻，特移運路自潁入汴。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李希烈",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_123_000174",
@@ -1646,6 +1755,12 @@
     "sentence_id": "HCH_008_123_000185",
     "sentence": "順宗即位，王叔文始奪其權，拜兵部尚書，尋除檢校吏部尚書、東都留守。",
     "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -1905,7 +2020,14 @@
   {
     "sentence_id": "HCH_008_123_000207",
     "sentence": "初，程異附王叔文貶竄，巽知其吏才明辯，奏而用之，憲宗不違其請。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王叔文",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_123_000208",
@@ -1980,7 +2102,14 @@
   {
     "sentence_id": "HCH_008_123_000214",
     "sentence": "宣武軍節度使劉士寧以擅襲父任，物議不可，朝廷不得已而授之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉士寧",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_123_000215",
@@ -2035,7 +2164,14 @@
   {
     "sentence_id": "HCH_008_123_000221",
     "sentence": "或問曰：鄭子產吏不能欺，宓子賤吏不忍欺，西門豹吏不敢欺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭子產",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_123_000222",
@@ -2097,7 +2233,14 @@
   {
     "sentence_id": "HCH_008_123_000232",
     "sentence": "第五琦促辦應卒，民不加賦，而國豐饒，亦庶幾矣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "第五琦",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_123_000233",

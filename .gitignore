@@ -15,7 +15,10 @@ build/*
 !build/metadata.json
 !build/statistics.json
 !build/kb/
-!build/kb/**
+build/kb/*
+!build/kb/seed.jsonl.gz
+!build/kb/seed.jsonl.gz.manifest.json
+!build/kb/*.manifest.json
 !build/pilot/
 !build/pilot/**
 !build/report/

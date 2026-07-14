@@ -696,6 +696,12 @@
     "sentence": "咸通末，琮為韋保衡所構譴逐，裼坐貶封州司馬。",
     "entities": [
       {
+        "text": "韋保衡",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "裼坐貶封州",
         "label": "LOC",
         "start": 14,
@@ -1013,7 +1019,14 @@
   {
     "sentence_id": "HCH_008_178_000096",
     "sentence": "天後時，曾營大像，功費百萬，狄仁傑諫曰：「夫寶鉸殫於綴飾，瑰材竭於輪奐。功不使鬼，必在役人；物不天來，皆從地出；非苦百姓，物何以求？物生有時，用之無度；臣每思惟，實所悲痛。至如往在江表，像法盛興；梁武、簡文，施舍無限。及乎三淮沸浪，五嶺騰煙，列剎盈衢，無救危亡之禍；緇衣蔽路，豈益勤王之師？況近年以來，風塵屢擾；水旱失節，征役稍繁。必若多費官財，又苦人力，一隅有難，將何以救？」此切當之言一也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "狄仁傑",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_178_000097",
@@ -1036,6 +1049,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "辛替否",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -1222,6 +1241,12 @@
         "end": 2
       },
       {
+        "text": "崔季康",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
         "text": "詔以邠寧李侃鎮",
         "label": "LOC",
         "start": 13,
@@ -1300,12 +1325,26 @@
   {
     "sentence_id": "HCH_008_178_000123",
     "sentence": "崔彥昭",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔彥昭",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_178_000124",
     "sentence": "崔彥昭，字思文，清河人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔彥昭",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_178_000125",
@@ -1484,7 +1523,14 @@
   {
     "sentence_id": "HCH_008_178_000140",
     "sentence": "先是，楊收、路巖、韋保衡皆以朋黨好賂得罪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋保衡",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_178_000141",
@@ -1768,7 +1814,14 @@
   {
     "sentence_id": "HCH_008_178_000186",
     "sentence": "李德裕在翰林，亞以文幹謁，深知之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李德裕",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_178_000187",
@@ -1864,6 +1917,12 @@
         "end": 4
       },
       {
+        "text": "吳汝納",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "德裕再貶潮州",
         "label": "LOC",
         "start": 11,
@@ -1913,7 +1972,20 @@
   {
     "sentence_id": "HCH_008_178_000197",
     "sentence": "大中朝，白敏中、令狐綯相繼秉政十余年，素與德裕相惡。",
-    "entities": []
+    "entities": [
+      {
+        "text": "白敏中",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "令狐綯",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_178_000198",
@@ -1924,12 +1996,6 @@
     "sentence_id": "HCH_008_178_000199",
     "sentence": "咸通中，令狐綯出鎮，劉瞻鎮北門，辟為從事。",
     "entities": [
-      {
-        "text": "令狐綯出鎮",
-        "label": "LOC",
-        "start": 4,
-        "end": 9
-      },
       {
         "text": "劉瞻鎮",
         "label": "LOC",
@@ -2360,7 +2426,14 @@
   {
     "sentence_id": "HCH_008_178_000244",
     "sentence": "畋預知賊至，令大將李昌言等伏於要害。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李昌言",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_178_000245",
@@ -2690,10 +2763,22 @@
     "sentence": "畋與涇原節度使程宗楚、秦州節度使仇公遇等，已驅組練，大集關畿；爭麾隴右之蛇矛，待掃關中之蟻聚。",
     "entities": [
       {
+        "text": "程宗楚",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "秦州",
         "label": "LOC",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "仇公遇",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       },
       {
         "text": "大集關",
@@ -2795,6 +2880,12 @@
         "label": "LOC",
         "start": 16,
         "end": 21
+      },
+      {
+        "text": "李昌言",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -2877,7 +2968,14 @@
   {
     "sentence_id": "HCH_008_178_000308",
     "sentence": "光啟末，李茂貞授鳳翔節度使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李茂貞",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_178_000309",
@@ -3194,7 +3292,14 @@
   {
     "sentence_id": "HCH_008_178_000345",
     "sentence": "初，王仙芝起河南，攜舉宋威、齊克讓、曾袞等有將略，用為招討使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "齊克讓",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_178_000346",
@@ -3287,7 +3392,14 @@
   {
     "sentence_id": "HCH_008_178_000358",
     "sentence": "攜內倚田令孜，外以高駢為援，朝廷大政，高下在心。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田令孜",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_178_000359",
@@ -3524,6 +3636,12 @@
     "sentence": "從令狐綯歷宣武、淮南兩鎮掌書記，得大理評事。",
     "entities": [
       {
+        "text": "令狐綯",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "淮南兩鎮",
         "label": "LOC",
         "start": 8,
@@ -3673,7 +3791,14 @@
   {
     "sentence_id": "HCH_008_178_000399",
     "sentence": "徽與同列崔沆、豆盧瑑、僕射于琮，至曙方知車駕出幸，遂相奔馳赴行在。",
-    "entities": []
+    "entities": [
+      {
+        "text": "豆盧瑑",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_178_000400",
@@ -3733,7 +3858,14 @@
   {
     "sentence_id": "HCH_008_178_000407",
     "sentence": "徽與行營都監楊復光謀，赦沙陁三部落，令赴難。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊復光",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_178_000408",
@@ -3762,6 +3894,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "鄭昌圖",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -3769,12 +3907,6 @@
     "sentence_id": "HCH_008_178_000410",
     "sentence": "時孟方立割據山東三州，別為一鎮。",
     "entities": [
-      {
-        "text": "立割據山東三州",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      },
       {
         "text": "別為一鎮",
         "label": "LOC",
@@ -3839,7 +3971,20 @@
   {
     "sentence_id": "HCH_008_178_000414",
     "sentence": "而河東李克用與孟方立方爭澤潞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李克用",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "孟方立",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_178_000415",
@@ -3890,10 +4035,10 @@
     "sentence": "但以鄭昌圖主留累月，將結深根；孟方立專據三州，轉成積釁。",
     "entities": [
       {
-        "text": "孟方立專據三州",
-        "label": "LOC",
-        "start": 15,
-        "end": 22
+        "text": "鄭昌圖",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },
@@ -4079,7 +4224,14 @@
   {
     "sentence_id": "HCH_008_178_000446",
     "sentence": "不旬日，沙陀逼京師，僖宗出幸寶雞，而軍容田令孜得咎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田令孜",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_178_000447",

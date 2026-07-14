@@ -2,12 +2,26 @@
   {
     "sentence_id": "HCH_004_023_000001",
     "sentence": "魏蘭根",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏蘭根",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_023_000002",
     "sentence": "魏蘭根，鉅鹿下曲陽人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "魏蘭根",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_023_000003",
@@ -194,7 +208,14 @@
   {
     "sentence_id": "HCH_004_023_000016",
     "sentence": "從行臺蕭寶寅討破宛川，俘其民人為奴婢，以美女十人賞蘭根。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭寶寅",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_023_000017",
@@ -224,12 +245,6 @@
     "sentence_id": "HCH_004_023_000019",
     "sentence": "屬秦隴反叛，蕭寶寅敗於涇州，高平虜賊逼岐州，州城民逼囚蘭根降賊。",
     "entities": [
-      {
-        "text": "蕭寶寅敗於涇州",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
-      },
       {
         "text": "高平虜賊逼岐州",
         "label": "LOC",
@@ -1207,7 +1222,14 @@
   {
     "sentence_id": "HCH_004_023_000112",
     "sentence": "鄭伯猷嘆曰：「身長八尺，面如刻畫，謦咳為洪鐘響，胸中貯千卷書，使人那得不畏服！」",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭伯猷",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_023_000113",
@@ -1982,6 +2004,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "李德林",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -2151,7 +2179,14 @@
   {
     "sentence_id": "HCH_004_023_000216",
     "sentence": "並功參霸迹，位遇通顯，與李元忠、盧文偉蓋義旗之人物歟？",
-    "entities": []
+    "entities": [
+      {
+        "text": "李元忠",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_023_000217",

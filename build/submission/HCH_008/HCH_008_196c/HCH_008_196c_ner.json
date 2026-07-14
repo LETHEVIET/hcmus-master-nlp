@@ -61,6 +61,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "薛景仙",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -108,6 +114,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "白元光",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -119,14 +131,7 @@
   {
     "sentence_id": "HCH_008_196c_000010",
     "sentence": "關內副元帥郭子儀於靈州破吐蕃六萬餘眾。",
-    "entities": [
-      {
-        "text": "帥郭子儀於靈州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_196c_000011",
@@ -190,6 +195,12 @@
         "label": "LOC",
         "start": 6,
         "end": 9
+      },
+      {
+        "text": "郭子儀",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -490,7 +501,14 @@
   {
     "sentence_id": "HCH_008_196c_000052",
     "sentence": "初，魯與其使崔漢衡至列館，贊普令止之，先命取國信敕。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔漢衡",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_196c_000053",
@@ -541,6 +559,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "崔漢衡",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -563,6 +587,12 @@
     "sentence_id": "HCH_008_196c_000061",
     "sentence": "以崔漢衡為鴻臚卿，以都官員外郎樊澤兼御史中丞、充入蕃計會使。",
     "entities": [
+      {
+        "text": "崔漢衡",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "御史",
         "label": "TITLE",
@@ -603,7 +633,14 @@
   {
     "sentence_id": "HCH_008_196c_000065",
     "sentence": "鎰與賓佐齊映、齊抗及會盟官崔漢衡、樊澤、常魯、于頔等七人皆朝服；結贊與其本國將相論悉頰藏、論臧熱、論利陀、斯官者、論力徐等亦七人，俱陞壇為盟。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔漢衡",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_196c_000066",
@@ -794,7 +831,14 @@
   {
     "sentence_id": "HCH_008_196c_000090",
     "sentence": "二月，命崔漢衡持節答蕃，遣區頰贊等歸。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔漢衡",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_196c_000091",
@@ -858,6 +902,12 @@
     "sentence": "又命宰相李忠臣、盧杞、關播、右僕射崔寧、工部尚書喬琳、御史大夫於頎、太府卿張獻恭、司農卿段秀實、少府監李昌夔、京兆尹王翃、左金吾衛將軍渾瑊等與區頰贊等會盟於壇所。",
     "entities": [
       {
+        "text": "李忠臣",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 22,
@@ -874,6 +924,18 @@
         "label": "TITLE",
         "start": 29,
         "end": 31
+      },
+      {
+        "text": "張獻恭",
+        "label": "PER",
+        "start": 37,
+        "end": 40
+      },
+      {
+        "text": "段秀實",
+        "label": "PER",
+        "start": 44,
+        "end": 47
       },
       {
         "text": "將軍",
@@ -1039,6 +1101,18 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "張獻甫",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "駱元光",
+        "label": "PER",
+        "start": 34,
+        "end": 37
       }
     ]
   },
@@ -1046,6 +1120,12 @@
     "sentence_id": "HCH_008_196c_000112",
     "sentence": "九月，以吐蕃遊騎及於好畤，上復遣張獻甫等統兵屯於咸陽，又詔遣左監門將軍康成使於吐蕃。",
     "entities": [
+      {
+        "text": "張獻甫",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
       {
         "text": "將軍",
         "label": "TITLE",
@@ -1124,6 +1204,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "杜彥光",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1160,6 +1246,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "拓拔乾暉",
+        "label": "PER",
+        "start": 10,
+        "end": 14
       },
       {
         "text": "復據其城",
@@ -1242,6 +1334,12 @@
         "label": "LOC",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "駱元光",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "燧率師次於石州",
@@ -1431,6 +1529,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "杜希全",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1464,14 +1568,7 @@
   {
     "sentence_id": "HCH_008_196c_000160",
     "sentence": "令浣報尚結贊曰：「杜希全職在靈州，不可出境。李觀今已改官，以侍中渾瑊充盟會使。」約以五月二十四日復盟於清水。",
-    "entities": [
-      {
-        "text": "杜希全職在靈州",
-        "label": "LOC",
-        "start": 9,
-        "end": 16
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_196c_000161",
@@ -1511,6 +1608,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "崔漢衡",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1523,6 +1626,12 @@
         "label": "LOC",
         "start": 17,
         "end": 22
+      },
+      {
+        "text": "駱元光",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -1615,7 +1724,14 @@
   {
     "sentence_id": "HCH_008_196c_000178",
     "sentence": "瑊與崔漢衡、監軍特進宋鳳朝等皆入幕次，坦無他慮，結贊命伐鼓三聲，其眾呼噪而至。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔漢衡",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_196c_000179",
@@ -1640,7 +1756,20 @@
   {
     "sentence_id": "HCH_008_196c_000183",
     "sentence": "漢衡及中官劉延邕、俱文珍、李清朝，漢衡判官鄭叔矩、路泌，掌書記袁同直，大將扶餘準、馬寧及神策、鳳翔、河東大將孟日華、李至言、樂演明、范澄、馬弇等六十餘人皆陷焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "俱文珍",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "袁同直",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_196c_000184",
@@ -1701,7 +1830,14 @@
   {
     "sentence_id": "HCH_008_196c_000190",
     "sentence": "結贊率其眾於石門，遣中官俱文珍、渾瑊之將馬寧、馬燧之將馬弇歸於我。",
-    "entities": []
+    "entities": [
+      {
+        "text": "俱文珍",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_196c_000191",
@@ -1730,7 +1866,14 @@
   {
     "sentence_id": "HCH_008_196c_000192",
     "sentence": "結贊本請杜希全、李觀問盟，將執二節將，率其銳師來犯京師，希全等既不行，又欲執渾瑊長驅入寇，其謀也如此。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜希全",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_196c_000193",
@@ -1740,14 +1883,7 @@
   {
     "sentence_id": "HCH_008_196c_000194",
     "sentence": "初，瑊與駱元光將發涇州，元光謂瑊曰：「本奉詔令營於潘原堡，以應援侍中。竊以潘原去盟所六七十里，蕃情多詐，侍中倘有急，何由知之？請次侍中為營，以虞其變。」瑊以非詔旨，固止之。",
-    "entities": [
-      {
-        "text": "駱元光將發涇州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_196c_000195",
@@ -1853,6 +1989,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "崔漢衡",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -1870,6 +2012,12 @@
         "label": "TITLE",
         "start": 31,
         "end": 33
+      },
+      {
+        "text": "袁同直",
+        "label": "PER",
+        "start": 84,
+        "end": 87
       }
     ]
   },
@@ -1888,6 +2036,12 @@
     "sentence": "於是遣決勝軍使唐良臣以眾六百人戍潘原堡，神策副將蘇太平率其眾五百人戍隴州。",
     "entities": [
       {
+        "text": "唐良臣",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "眾五百人戍隴州",
         "label": "LOC",
         "start": 29,
@@ -1898,7 +2052,14 @@
   {
     "sentence_id": "HCH_008_196c_000216",
     "sentence": "八月，崔漢衡至自吐蕃。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔漢衡",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_196c_000217",
@@ -1952,7 +2113,14 @@
   {
     "sentence_id": "HCH_008_196c_000224",
     "sentence": "賊遣羌、渾之眾，衣漢戎服，偽稱邢君牙之眾，奄至吳山及寶雞北界，焚燒廬舍，驅掠人畜，斷吳山神之首，百姓丁壯者驅之以歸，羸老者咸殺之，或斷手鑿目，棄之而去。",
-    "entities": []
+    "entities": [
+      {
+        "text": "邢君牙",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_196c_000225",
@@ -1963,6 +2131,12 @@
     "sentence_id": "HCH_008_196c_000226",
     "sentence": "九月，詔神策軍將石季章以眾三千戍武宮，召唐良臣自潘原戍百里城。",
     "entities": [
+      {
+        "text": "唐良臣",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
       {
         "text": "自潘原戍百里城",
         "label": "LOC",
@@ -2023,6 +2197,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "韓清沔",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -2075,6 +2255,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "韓清沔",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },
@@ -2203,6 +2389,12 @@
         "label": "LOC",
         "start": 6,
         "end": 13
+      },
+      {
+        "text": "韓全義",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -2267,14 +2459,7 @@
   {
     "sentence_id": "HCH_008_196c_000260",
     "sentence": "陳許行營將韓全義自長武城率眾抗之，無功而還。",
-    "entities": [
-      {
-        "text": "韓全義自長武城",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_196c_000261",
@@ -2314,6 +2499,12 @@
         "end": 18
       },
       {
+        "text": "張獻甫",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
         "text": "賊轉寇麟坊等州",
         "label": "LOC",
         "start": 36,
@@ -2330,6 +2521,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "王有道",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       },
       {
         "text": "等帥兵於故巂州",
@@ -2443,6 +2640,12 @@
     "sentence": "北庭節度使楊襲古與麾下二千餘人出奔西州，頡幹迦斯不利而還。",
     "entities": [
       {
+        "text": "楊襲古",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "千餘人出奔西州",
         "label": "LOC",
         "start": 12,
@@ -2550,6 +2753,12 @@
         "label": "LOC",
         "start": 8,
         "end": 15
+      },
+      {
+        "text": "唐",
+        "label": "ORG",
+        "start": 32,
+        "end": 33
       }
     ]
   },
@@ -2640,6 +2849,12 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "杜彥光",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -2791,12 +3006,6 @@
         "end": 3
       },
       {
-        "text": "君牙奏請於隴州",
-        "label": "LOC",
-        "start": 7,
-        "end": 14
-      },
-      {
         "text": "西七十里築城",
         "label": "LOC",
         "start": 14,
@@ -2865,12 +3074,6 @@
         "label": "LOC",
         "start": 6,
         "end": 8
-      },
-      {
-        "text": "義破吐蕃於鹽州",
-        "label": "LOC",
-        "start": 13,
-        "end": 20
       }
     ]
   },
@@ -3204,10 +3407,22 @@
         "end": 13
       },
       {
+        "text": "韋良金",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "雅州",
         "label": "LOC",
         "start": 26,
         "end": 28
+      },
+      {
+        "text": "路惟明",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       },
       {
         "text": "偏松等城",
@@ -3222,10 +3437,22 @@
         "end": 59
       },
       {
+        "text": "王有道",
+        "label": "PER",
+        "start": 62,
+        "end": 65
+      },
+      {
         "text": "巂州",
         "label": "LOC",
         "start": 85,
         "end": 87
+      },
+      {
+        "text": "陳孝陽",
+        "label": "PER",
+        "start": 90,
+        "end": 93
       },
       {
         "text": "諾濟城",
@@ -3390,10 +3617,22 @@
         "end": 20
       },
       {
+        "text": "田景度",
+        "label": "PER",
+        "start": 22,
+        "end": 25
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 41,
         "end": 43
+      },
+      {
+        "text": "熊執易",
+        "label": "PER",
+        "start": 45,
+        "end": 48
       }
     ]
   },
@@ -3423,6 +3662,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "侯幼平",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -3837,6 +4082,12 @@
     "sentence": "命右軍中尉梁守謙充左右神策、京西、京北行營都監，統神策兵四千人，並發八鎮全軍往救援。",
     "entities": [
       {
+        "text": "梁守謙",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "並發八鎮",
         "label": "LOC",
         "start": 32,
@@ -3928,6 +4179,12 @@
         "label": "LOC",
         "start": 22,
         "end": 24
+      },
+      {
+        "text": "李光顏",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -4029,6 +4286,12 @@
         "end": 11
       },
       {
+        "text": "劉元鼎",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "御史",
         "label": "TITLE",
         "start": 28,
@@ -4051,6 +4314,12 @@
         "label": "TITLE",
         "start": 61,
         "end": 63
+      },
+      {
+        "text": "李公度",
+        "label": "PER",
+        "start": 63,
+        "end": 66
       }
     ]
   },
@@ -4190,12 +4459,26 @@
   {
     "sentence_id": "HCH_008_196c_000428",
     "sentence": "其劉元鼎等與論訥羅同赴吐蕃本國就盟，仍敕元鼎到彼，令宰相已下各於盟文後自書名。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉元鼎",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_196c_000429",
     "sentence": "靈武節度使李進誠於太石山下破吐蕃三千騎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李進誠",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_196c_000430",
@@ -4223,6 +4506,12 @@
         "label": "LOC",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "劉元鼎",
+        "label": "PER",
+        "start": 46,
+        "end": 49
       }
     ]
   },
@@ -4434,6 +4723,12 @@
         "label": "LOC",
         "start": 33,
         "end": 38
+      },
+      {
+        "text": "康季榮",
+        "label": "PER",
+        "start": 46,
+        "end": 49
       }
     ]
   },

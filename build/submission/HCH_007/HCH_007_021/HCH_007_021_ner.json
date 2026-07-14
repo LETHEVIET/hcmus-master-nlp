@@ -55,6 +55,12 @@
     "sentence": "尋代朱友裕領軍，攻下徐州，斬時溥首以獻。",
     "entities": [
       {
+        "text": "朱友裕",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "攻下徐州",
         "label": "LOC",
         "start": 8,
@@ -106,6 +112,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "楊行密",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -298,7 +310,14 @@
   {
     "sentence_id": "HCH_007_021_000033",
     "sentence": "始，朱友裕以大軍伐鄆，臨其壁，既而師陷圍中，以急來告，存領二百騎馳赴擊退之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "朱友裕",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_021_000034",
@@ -519,6 +538,12 @@
         "end": 10
       },
       {
+        "text": "寇彥卿",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "已下大軍伐滄州",
         "label": "LOC",
         "start": 27,
@@ -585,14 +610,7 @@
   {
     "sentence_id": "HCH_007_021_000064",
     "sentence": "太祖受禪後，委兵柄，與康懷英等攻潞州，以「蚰蜓塹」繚之，飛鳥不度。",
-    "entities": [
-      {
-        "text": "康懷英等攻潞州",
-        "label": "LOC",
-        "start": 11,
-        "end": 18
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_021_000065",
@@ -602,12 +620,25 @@
   {
     "sentence_id": "HCH_007_021_000066",
     "sentence": "徐懷玉",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐懷玉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_021_000067",
     "sentence": "徐懷玉，本名琮，亳州焦夷縣人。",
     "entities": [
+      {
+        "text": "徐懷玉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "亳州焦夷縣",
         "label": "LOC",
@@ -900,7 +931,14 @@
   {
     "sentence_id": "HCH_007_021_000090",
     "sentence": "及友珪遣康懷英率師圍河中，友謙慮懷玉有變，遂害之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_021_000091",
@@ -1407,12 +1445,25 @@
   {
     "sentence_id": "HCH_007_021_000155",
     "sentence": "王彥章",
-    "entities": []
+    "entities": [
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_021_000156",
     "sentence": "王彥章，字賢明，鄆州壽張縣人也。",
     "entities": [
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "鄆州壽張縣",
         "label": "LOC",
@@ -1646,6 +1697,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },
@@ -1787,7 +1844,14 @@
   {
     "sentence_id": "HCH_007_021_000183",
     "sentence": "五月，以彥章代戴思遠為北面招討使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "戴思遠",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_021_000184",
@@ -1951,7 +2015,14 @@
   {
     "sentence_id": "HCH_007_021_000202",
     "sentence": "魯奇嘗事太祖，與彥章素善，及彥章敗，識其語音，曰：「此王鐵槍也。」揮槊刺之，彥章重傷，馬踣，遂就擒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王鐵槍",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_021_000203",
@@ -1997,6 +2068,12 @@
         "label": "TITLE",
         "start": 38,
         "end": 40
+      },
+      {
+        "text": "李嗣源",
+        "label": "PER",
+        "start": 78,
+        "end": 81
       }
     ]
   },
@@ -2064,6 +2141,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 9
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -2172,6 +2255,12 @@
         "label": "LOC",
         "start": 158,
         "end": 162
+      },
+      {
+        "text": "張承業",
+        "label": "PER",
+        "start": 173,
+        "end": 176
       }
     ]
   },

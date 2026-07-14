@@ -2,7 +2,14 @@
   {
     "sentence_id": "HCH_006_060_000001",
     "sentence": "杜周 杜延年 杜緩 杜欽 杜業",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜延年",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_060_000002",
@@ -462,6 +469,12 @@
         "label": "TITLE",
         "start": 18,
         "end": 20
+      },
+      {
+        "text": "張安世",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -535,10 +548,22 @@
         "end": 53
       },
       {
+        "text": "杜延年",
+        "label": "PER",
+        "start": 65,
+        "end": 68
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 77,
         "end": 79
+      },
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 79,
+        "end": 82
       }
     ]
   },
@@ -1001,7 +1026,14 @@
   {
     "sentence_id": "HCH_006_060_000090",
     "sentence": "數稱達名士王駿、韋安世、王延世等，救解馮野王、王尊、胡常之罪過，及繼功臣絕世，填撫四夷，當世善政，多出於欽者。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮野王",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_060_000091",
@@ -1178,6 +1210,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "翟方進",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },

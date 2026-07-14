@@ -371,6 +371,12 @@
         "end": 6
       },
       {
+        "text": "李仁福",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
         "text": "進封隴西郡",
         "label": "LOC",
         "start": 28,
@@ -387,6 +393,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "戴思遠",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       },
       {
         "text": "充邢州",
@@ -483,6 +495,12 @@
     "sentence": "五月乙巳，天雄軍節度使楊師厚及劉守奇率魏、博、邢、洺、徐、兗、鄆、滑之眾十萬討鎮州。",
     "entities": [
       {
+        "text": "劉守奇",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
         "text": "滑之眾十萬討鎮",
         "label": "LOC",
         "start": 33,
@@ -507,12 +525,6 @@
     "sentence": "壬子，晉將史建瑭自趙州領騎五百入於鎮州，師厚知其有備，自九門移軍於下博。",
     "entities": [
       {
-        "text": "將史建瑭自趙州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      },
-      {
         "text": "領騎五百入於鎮",
         "label": "LOC",
         "start": 11,
@@ -524,12 +536,6 @@
     "sentence_id": "HCH_007_008_000052",
     "sentence": "劉守奇以一軍自貝州掠冀州衡水、阜城，陷下博。",
     "entities": [
-      {
-        "text": "奇以一軍自貝州",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      },
       {
         "text": "掠冀州",
         "label": "LOC",
@@ -555,15 +561,21 @@
         "end": 12
       },
       {
+        "text": "張萬進",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "請以萬進為青州",
         "label": "LOC",
         "start": 24,
         "end": 31
       },
       {
-        "text": "以劉守奇為滄州",
+        "text": "滄州",
         "label": "LOC",
-        "start": 35,
+        "start": 40,
         "end": 42
       }
     ]
@@ -600,12 +612,6 @@
         "label": "LOC",
         "start": 15,
         "end": 18
-      },
-      {
-        "text": "事張萬進為青州",
-        "label": "LOC",
-        "start": 32,
-        "end": 39
       }
     ]
   },
@@ -696,12 +702,6 @@
         "label": "LOC",
         "start": 10,
         "end": 13
-      },
-      {
-        "text": "使張萬進為兗州",
-        "label": "LOC",
-        "start": 15,
-        "end": 22
       }
     ]
   },
@@ -720,6 +720,12 @@
         "label": "LOC",
         "start": 31,
         "end": 34
+      },
+      {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 37,
+        "end": 40
       },
       {
         "text": "大安金棣等州",
@@ -768,6 +774,12 @@
         "label": "TITLE",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       },
       {
         "text": "刺史",
@@ -825,6 +837,12 @@
         "label": "LOC",
         "start": 2,
         "end": 9
+      },
+      {
+        "text": "牛存節",
+        "label": "PER",
+        "start": 47,
+        "end": 50
       }
     ]
   },
@@ -842,6 +860,12 @@
         "label": "TME",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "牛存節",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "劉鄩拔徐州",
@@ -885,6 +909,12 @@
     "sentence_id": "HCH_007_008_000073",
     "sentence": "三月辛酉朔，以天平軍節度副大使、知節度事、兼淮南西北面行營招討應接等使、檢校太傅、同平章事牛存節為檢校太尉，加食邑一千戶，賞平徐之功也。",
     "entities": [
+      {
+        "text": "牛存節",
+        "label": "PER",
+        "start": 45,
+        "end": 48
+      },
       {
         "text": "加食邑",
         "label": "LOC",
@@ -937,6 +967,12 @@
         "label": "LOC",
         "start": 19,
         "end": 23
+      },
+      {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       },
       {
         "text": "魏為兩鎮",
@@ -1034,6 +1070,12 @@
         "end": 38
       },
       {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 49,
+        "end": 52
+      },
+      {
         "text": "百騎先入於魏州",
         "label": "LOC",
         "start": 56,
@@ -1084,12 +1126,6 @@
         "label": "LOC",
         "start": 57,
         "end": 63
-      },
-      {
-        "text": "王彥章斬關",
-        "label": "LOC",
-        "start": 95,
-        "end": 100
       }
     ]
   },
@@ -1177,10 +1213,22 @@
         "end": 341
       },
       {
+        "text": "羅紹威",
+        "label": "PER",
+        "start": 344,
+        "end": 347
+      },
+      {
         "text": "況今劉鄩指鎮",
         "label": "LOC",
         "start": 406,
         "end": 412
+      },
+      {
+        "text": "康懷英",
+        "label": "PER",
+        "start": 417,
+        "end": 420
       }
     ]
   },
@@ -1211,19 +1259,20 @@
         "label": "LOC",
         "start": 3,
         "end": 5
-      },
-      {
-        "text": "留後李保衡以城",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
       }
     ]
   },
   {
     "sentence_id": "HCH_007_008_000095",
     "sentence": "保衡，楊崇本養子也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊崇本",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_008_000096",
@@ -1252,12 +1301,6 @@
         "label": "LOC",
         "start": 21,
         "end": 28
-      },
-      {
-        "text": "後霍彥威為邠州",
-        "label": "LOC",
-        "start": 36,
-        "end": 43
       }
     ]
   },
@@ -1276,7 +1319,14 @@
   {
     "sentence_id": "HCH_007_008_000099",
     "sentence": "節度使牛存節薨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "牛存節",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_008_000100",
@@ -1289,17 +1339,24 @@
         "end": 13
       },
       {
-        "text": "知俊率師攻邠州",
-        "label": "LOC",
-        "start": 17,
-        "end": 24
+        "text": "李保衡",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
   {
     "sentence_id": "HCH_007_008_000101",
     "sentence": "自是，凡攻圍十四月，節度使霍彥威、諸軍都指揮使黃貴堅守捍寇，會救軍至，岐人乃退。",
-    "entities": []
+    "entities": [
+      {
+        "text": "霍彥威",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_008_000102",
@@ -1333,6 +1390,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1357,6 +1420,12 @@
         "label": "TITLE",
         "start": 15,
         "end": 17
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       },
       {
         "text": "至樂平縣",
@@ -1427,12 +1496,6 @@
         "label": "TITLE",
         "start": 18,
         "end": 20
-      },
-      {
-        "text": "保王彥章為汝州",
-        "label": "LOC",
-        "start": 24,
-        "end": 31
       }
     ]
   },
@@ -1619,12 +1682,6 @@
         "label": "TITLE",
         "start": 55,
         "end": 57
-      },
-      {
-        "text": "杜建徽遙領涇州",
-        "label": "LOC",
-        "start": 57,
-        "end": 64
       }
     ]
   },
@@ -1660,12 +1717,6 @@
         "label": "LOC",
         "start": 21,
         "end": 23
-      },
-      {
-        "text": "章率師自陰地關",
-        "label": "LOC",
-        "start": 28,
-        "end": 35
       }
     ]
   },
@@ -1805,7 +1856,14 @@
   {
     "sentence_id": "HCH_007_008_000140",
     "sentence": "夏四月乙酉朔，威武軍節度使、守太傅、兼中書令、閩王王審知賜號忠勤保安興國功臣，餘如故。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王審知",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_008_000141",
@@ -1867,12 +1925,6 @@
         "label": "LOC",
         "start": 15,
         "end": 17
-      },
-      {
-        "text": "使王彥章為鄭州",
-        "label": "LOC",
-        "start": 19,
-        "end": 26
       }
     ]
   },
@@ -1991,12 +2043,6 @@
         "label": "LOC",
         "start": 0,
         "end": 2
-      },
-      {
-        "text": "度使戴思遠棄城",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
       },
       {
         "text": "晉人陷貝州",

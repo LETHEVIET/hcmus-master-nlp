@@ -2,17 +2,67 @@
   {
     "sentence_id": "HCH_008_069_000001",
     "sentence": "○侯君集　張亮　薛萬徹 兄萬均　盛彥師　盧祖尚　劉世讓　劉蘭　李君羨等附",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "text": "薛萬徹",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "盛彥師",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "盧祖尚",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
+        "text": "劉世讓",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
+        "text": "李君羨",
+        "label": "PER",
+        "start": 31,
+        "end": 34
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000002",
     "sentence": "侯君集",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000003",
     "sentence": "侯君集，豳州三水人也。",
     "entities": [
+      {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "豳州",
         "label": "LOC",
@@ -139,7 +189,20 @@
   {
     "sentence_id": "HCH_008_069_000014",
     "sentence": "靖乃中分士馬為兩道併入，靖與薛萬均、李大亮趣北路，使侯君集、道宗趣南路。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李大亮",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000015",
@@ -170,6 +233,12 @@
         "label": "TME",
         "start": 0,
         "end": 3
+      },
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 5,
+        "end": 9
       },
       {
         "text": "授君集陳州",
@@ -357,6 +426,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "岑文本",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -440,6 +515,12 @@
         "label": "TITLE",
         "start": 29,
         "end": 31
+      },
+      {
+        "text": "李廣利",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       },
       {
         "text": "四年",
@@ -743,6 +824,12 @@
     "sentence": "後房玄齡、李勣以亮倜儻有智謀，薦之於太宗，引為秦府車騎將軍。",
     "entities": [
       {
+        "text": "房玄齡",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 27,
@@ -994,6 +1081,12 @@
     "sentence": "及侯君集誅，以亮先奏其將反，優詔褒美，遷刑部尚書，參預朝政。",
     "entities": [
       {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 22,
@@ -1048,7 +1141,14 @@
   {
     "sentence_id": "HCH_008_069_000117",
     "sentence": "其副總管張金樹等乃鳴鼓令士眾擊賊，破之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張金樹",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000118",
@@ -1108,7 +1208,14 @@
   {
     "sentence_id": "HCH_008_069_000125",
     "sentence": "太宗謂侍臣曰：「亮有義兒五百，畜養此輩，將何為也？正欲反耳。」命百僚議其獄，多言亮當誅，唯將作少匠李道裕言亮反形未具，明其無罪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李道裕",
+        "label": "PER",
+        "start": 49,
+        "end": 52
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000126",
@@ -1132,6 +1239,12 @@
     "sentence": "太宗曰：「朕得其人也。往者李道裕議張亮雲『反形未具』，此言當矣。雖不即從，至今追悔。」遂授道裕刑部侍郎。",
     "entities": [
       {
+        "text": "李道裕",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 49,
@@ -1142,12 +1255,25 @@
   {
     "sentence_id": "HCH_008_069_000129",
     "sentence": "薛萬徹",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛萬徹",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000130",
     "sentence": "薛萬徹，雍州咸陽人，自燉煌徙焉。",
     "entities": [
+      {
+        "text": "薛萬徹",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "雍州",
         "label": "LOC",
@@ -1225,7 +1351,14 @@
   {
     "sentence_id": "HCH_008_069_000135",
     "sentence": "會竇建德率眾十萬來寇范陽，藝逆拒之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇建德",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000136",
@@ -1412,7 +1545,14 @@
   {
     "sentence_id": "HCH_008_069_000159",
     "sentence": "會薛延陀率回紇、同羅之眾渡磧，南擊李思摩，萬徹副李勣援之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李思摩",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000160",
@@ -1499,7 +1639,14 @@
   {
     "sentence_id": "HCH_008_069_000165",
     "sentence": "太宗從容謂從臣曰：「當今名將，唯李勣、道宗、萬徹三人而已。李勣、道宗不能大勝，亦不大敗；萬徹非大勝，即大敗。」太宗嘗召司徒長孫無忌等十餘人宴於丹霄殿，各賜以貘皮，萬徹預焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫無忌",
+        "label": "PER",
+        "start": 61,
+        "end": 65
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000166",
@@ -1551,6 +1698,12 @@
         "label": "TITLE",
         "start": 21,
         "end": 23
+      },
+      {
+        "text": "裴行方",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -1614,6 +1767,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "裴行方",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -1656,12 +1815,32 @@
   {
     "sentence_id": "HCH_008_069_000178",
     "sentence": "入朝與房遺愛款暱，因謂遺愛曰：「今雖患腳，坐置京師，諸輩猶不敢動。」遺愛謂萬徹曰：「公若國家有變，我當與公立荊王元景為主。」及謀洩，吏逮之，萬徹不之伏，遺愛證之，遂伏誅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "房遺愛",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000179",
     "sentence": "臨刑大言曰：「薛萬徹大健兒，留為國家效死力固好，豈得坐房遺愛殺之乎！」遂解衣謂監刑者疾斫。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛萬徹",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "房遺愛",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000180",
@@ -1727,17 +1906,55 @@
   {
     "sentence_id": "HCH_008_069_000187",
     "sentence": "初，武德、貞觀之際，有盛彥師、盧祖尚、劉世讓、劉蘭、李君羨等，並有功名而不終其位。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盛彥師",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "盧祖尚",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "text": "劉世讓",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
+      {
+        "text": "李君羨",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000188",
     "sentence": "盛彥師",
-    "entities": []
+    "entities": [
+      {
+        "text": "盛彥師",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000189",
     "sentence": "盛彥師者，宋州虞城人。",
     "entities": [
+      {
+        "text": "盛彥師",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "宋州虞城",
         "label": "LOC",
@@ -1779,19 +1996,19 @@
   {
     "sentence_id": "HCH_008_069_000192",
     "sentence": "俄與史萬寶鎮宜陽以拒東寇。",
-    "entities": [
-      {
-        "text": "俄與史萬寶鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_069_000193",
     "sentence": "及李密之叛，將出山南，史萬寶懼密威名，不敢拒，謂彥師曰：「李密，驍賊也，又輔以王伯當，決策而叛，其下兵士思欲東歸，若非計出萬全，則不為也。兵在死地，殆不可當。」彥師笑曰：「請以數千之眾邀之，必梟其首。」萬寶曰：「計將安出？」對曰：「軍法尚詐，不可為公說之。」便領眾逾熊耳山南，傍道而止，令弓弩者夾路乘高，刀楯者伏於溪谷。",
-    "entities": []
+    "entities": [
+      {
+        "text": "史萬寶",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000194",
@@ -1808,6 +2025,12 @@
         "label": "LOC",
         "start": 64,
         "end": 68
+      },
+      {
+        "text": "張善相",
+        "label": "PER",
+        "start": 69,
+        "end": 72
       },
       {
         "text": "李密既度陝州",
@@ -1868,12 +2091,6 @@
         "end": 7
       },
       {
-        "text": "將陳寶遇為宋州",
-        "label": "LOC",
-        "start": 14,
-        "end": 21
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 21,
@@ -1894,7 +2111,14 @@
   {
     "sentence_id": "HCH_008_069_000202",
     "sentence": "會徐圓朗反，彥師為安撫大使，因戰，遂沒於賊。",
-    "entities": []
+    "entities": [
+      {
+        "text": "徐圓朗",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000203",
@@ -1928,12 +2152,25 @@
   {
     "sentence_id": "HCH_008_069_000206",
     "sentence": "盧祖尚",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧祖尚",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000207",
     "sentence": "盧祖尚者，字季良，光州樂安人也。",
     "entities": [
+      {
+        "text": "盧祖尚",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "光州",
         "label": "LOC",
@@ -1971,6 +2208,12 @@
     "sentence_id": "HCH_008_069_000213",
     "sentence": "及宇文化及作亂，州人請祖尚為刺史。",
     "entities": [
+      {
+        "text": "宇文化及",
+        "label": "PER",
+        "start": 1,
+        "end": 5
+      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -2041,6 +2284,12 @@
         "label": "LOC",
         "start": 5,
         "end": 8
+      },
+      {
+        "text": "輔公祏",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       },
       {
         "text": "歙州",
@@ -2130,7 +2379,14 @@
   {
     "sentence_id": "HCH_008_069_000223",
     "sentence": "太宗遣杜如晦諭旨，祖尚固辭。",
-    "entities": []
+    "entities": [
+      {
+        "text": "杜如晦",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000224",
@@ -2152,12 +2408,25 @@
   {
     "sentence_id": "HCH_008_069_000226",
     "sentence": "劉世讓",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉世讓",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000227",
     "sentence": "劉世讓，字元欽，雍州醴泉人也。",
     "entities": [
+      {
+        "text": "劉世讓",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "雍州",
         "label": "LOC",
@@ -2255,24 +2524,30 @@
   {
     "sentence_id": "HCH_008_069_000235",
     "sentence": "尋領陝東道行軍總管，與永安王孝基擊呂崇茂於夏縣，諸軍敗績，世讓與唐儉俱為賊所獲。",
-    "entities": [
-      {
-        "text": "擊呂崇茂於夏縣",
-        "label": "LOC",
-        "start": 16,
-        "end": 23
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_069_000236",
     "sentence": "獄中聞獨孤懷恩有逆謀，逃還以告高祖。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤懷恩",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000237",
     "sentence": "時高祖方濟河，將幸懷恩之營，聞難驚曰：「劉世讓之至，豈非天命哉！」因勞之曰：「卿往陷薛舉，遣弟潛效款誠，今復冒危告難，是皆憂國忘身也。」尋封弘農郡公，賜莊一區、錢百萬。",
     "entities": [
+      {
+        "text": "劉世讓",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
       {
         "text": "尋封弘農郡",
         "label": "LOC",
@@ -2296,12 +2571,32 @@
   {
     "sentence_id": "HCH_008_069_000239",
     "sentence": "突厥處羅可汗與高開道、苑君璋合眾，攻之甚急。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高開道",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "text": "苑君璋",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000240",
     "sentence": "鴻臚卿鄭元璹先使在蕃，可汗令元璹來說之，世讓厲聲曰：「大丈夫奈何為夷狄作說客耶！」經日餘，虜乃退。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭元璹",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000241",
@@ -2537,7 +2832,14 @@
   {
     "sentence_id": "HCH_008_069_000261",
     "sentence": "時突厥攜離，有郁射設阿史那摸末率其部落入居河南。",
-    "entities": []
+    "entities": [
+      {
+        "text": "阿史那摸末",
+        "label": "PER",
+        "start": 10,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000262",
@@ -2590,6 +2892,12 @@
         "end": 6
       },
       {
+        "text": "丘行恭",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "太子",
         "label": "TITLE",
         "start": 59,
@@ -2600,12 +2908,25 @@
   {
     "sentence_id": "HCH_008_069_000266",
     "sentence": "李君羨",
-    "entities": []
+    "entities": [
+      {
+        "text": "李君羨",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000267",
     "sentence": "李君羨者，洺州武安人也。",
     "entities": [
+      {
+        "text": "李君羨",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "洺州",
         "label": "LOC",
@@ -2720,7 +3041,14 @@
   {
     "sentence_id": "HCH_008_069_000278",
     "sentence": "史臣曰：侯君集摧凶克敵，效用居多；恃寵矜功，粗率無檢，棄前功而罹後患，貪愚之將明矣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "侯君集",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_069_000279",

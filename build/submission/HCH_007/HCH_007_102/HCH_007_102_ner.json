@@ -66,7 +66,26 @@
   {
     "sentence_id": "HCH_007_102_000011",
     "sentence": "河府李守貞、鳳翔王景崇、永興趙思綰等，比與國家素無讎釁，偶因疑懼，遂至叛違。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
+        "text": "王景崇",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "趙思綰",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_102_000012",
@@ -81,7 +100,14 @@
   {
     "sentence_id": "HCH_007_102_000014",
     "sentence": "其李守貞等，宜令逐處都部署分明曉諭，若能翻然歸順，朕即待之如初，當保始終，享其富貴，明申信誓，固無改移。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_102_000015",
@@ -168,6 +194,18 @@
         "label": "LOC",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "王景崇",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      },
+      {
+        "text": "白文珂",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       },
       {
         "text": "並在城",
@@ -262,7 +300,14 @@
   {
     "sentence_id": "HCH_007_102_000032",
     "sentence": "達，李守貞之妹婿也，故皆誅之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_102_000033",
@@ -320,6 +365,12 @@
         "label": "TITLE",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "王保義",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
@@ -366,6 +417,12 @@
         "label": "LOC",
         "start": 23,
         "end": 26
+      },
+      {
+        "text": "馬希聲",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -427,10 +484,10 @@
     "sentence": "乙丑，永興趙思綰遣牙將劉成詣闕乞降，制授趙思綰華州節度留後、檢校太保，以永興城內都指揮使常彥卿為虢州刺史。",
     "entities": [
       {
-        "text": "制授趙思綰華州",
-        "label": "LOC",
-        "start": 18,
-        "end": 25
+        "text": "趙思綰",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "以永興城",
@@ -643,12 +700,6 @@
         "label": "LOC",
         "start": 10,
         "end": 16
-      },
-      {
-        "text": "李守貞退保子城",
-        "label": "LOC",
-        "start": 17,
-        "end": 24
       }
     ]
   },
@@ -657,10 +708,22 @@
     "sentence": "丁巳，永興都部署郭從義奏：「新除華州留後趙思綰，自今月三日授華州留後，準詔赴任，三移行期，仍要鎧甲以給牙兵，及與之，竟不遵路。至九日夕，有部曲曹彥進告，思綰欲於十一日夜與同惡五百人奔南山入蜀。是日詰旦，再促上路，雲俟夜進途。臣尋與王峻入城，分兵守四門，其趙思綰部下軍，各已執帶，遂至牙署，令趙思綰至則執之，與一行徒黨，並處置訖。」甲子，樞密使郭威奏，收復河中府，逆賊李守貞自燔而死。",
     "entities": [
       {
+        "text": "郭從義",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
         "text": "新除華州",
         "label": "LOC",
         "start": 14,
         "end": 18
+      },
+      {
+        "text": "趙思綰",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       },
       {
         "text": "今月三日授華州",
@@ -679,6 +742,24 @@
         "label": "LOC",
         "start": 112,
         "end": 119
+      },
+      {
+        "text": "趙思綰",
+        "label": "PER",
+        "start": 127,
+        "end": 130
+      },
+      {
+        "text": "趙思綰",
+        "label": "PER",
+        "start": 145,
+        "end": 148
+      },
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 183,
+        "end": 186
       }
     ]
   },
@@ -723,6 +804,12 @@
     "sentence": "戊辰，永興軍節度使兼兵馬都部署郭從義加同平章事，徙華州節度使。",
     "entities": [
       {
+        "text": "郭從義",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
         "text": "徙華州",
         "label": "LOC",
         "start": 24,
@@ -733,12 +820,25 @@
   {
     "sentence_id": "HCH_007_102_000069",
     "sentence": "郭從義奏，處斬前巡檢使喬守溫，供奉官王益、時知化、任繼勛等。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭從義",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_102_000070",
     "sentence": "守溫受高祖命巡檢京兆，會王益自鳳翔押送趙思綰等赴闕，行至京兆，守溫迎益於郊外，思綰等突然作亂，遂據其城。",
     "entities": [
+      {
+        "text": "趙思綰",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      },
       {
         "text": "遂據其城",
         "label": "LOC",
@@ -750,7 +850,14 @@
   {
     "sentence_id": "HCH_007_102_000071",
     "sentence": "及郭從義率兵攻討，令守溫部署役夫。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭從義",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_102_000072",
@@ -820,6 +927,12 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "白文珂",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       },
       {
         "text": "潞州",
@@ -956,13 +1069,32 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       }
     ]
   },
   {
     "sentence_id": "HCH_007_102_000086",
     "sentence": "辛亥，宰臣竇貞固加守司徒，蘇逢吉加守司空，蘇禹珪加左僕射，楊邠加右僕射，依前兼樞密使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "蘇禹珪",
+        "label": "PER",
+        "start": 21,
+        "end": 24
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_102_000087",
@@ -993,16 +1125,34 @@
     "sentence": "乙卯，鄴都高行周加守太師，襄州安審琦加守太傅，兗州府符彥卿加守太保，北京劉崇加兼中書令。",
     "entities": [
       {
+        "text": "高行周",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "襄州",
         "label": "LOC",
         "start": 13,
         "end": 15
       },
       {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
         "text": "兗州",
         "label": "LOC",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -1010,12 +1160,6 @@
     "sentence_id": "HCH_007_102_000090",
     "sentence": "丁巳，澶州李洪信移鎮陜州，以侍衛馬軍都指揮使、遂州節度使李洪義為澶州節度使。",
     "entities": [
-      {
-        "text": "澶州李洪信移鎮",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      },
       {
         "text": "陜州",
         "label": "LOC",
@@ -1053,6 +1197,12 @@
         "end": 25
       },
       {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 25,
+        "end": 29
+      },
+      {
         "text": "青州",
         "label": "LOC",
         "start": 30,
@@ -1065,10 +1215,22 @@
     "sentence": "湖南馬希廣奏，於八月十八日大破朗州馬希萼之眾。",
     "entities": [
       {
+        "text": "馬希廣",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
+      {
         "text": "十八日大破朗州",
         "label": "LOC",
         "start": 10,
         "end": 17
+      },
+      {
+        "text": "馬希萼",
+        "label": "PER",
+        "start": 17,
+        "end": 20
       }
     ]
   },
@@ -1270,6 +1432,12 @@
         "label": "LOC",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "劉重進",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -1282,6 +1450,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "馬希廣",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -1289,6 +1463,12 @@
     "sentence_id": "HCH_007_102_000106",
     "sentence": "癸未，監修國史蘇逢吉、史官賈緯以所撰《高祖實錄》二十卷上之。",
     "entities": [
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "《高祖實錄》",
         "label": "TITLE",
@@ -1301,6 +1481,12 @@
     "sentence_id": "HCH_007_102_000107",
     "sentence": "丙戌，荊南高保融加檢校太師、兼侍中；以殿前都部署、江州防禦使李建為遂州節度使，充侍衛馬軍都指揮使；以奉國左廂都指揮使、永州防禦使王殷為夔州節度使，充侍衛步軍都指揮使。",
     "entities": [
+      {
+        "text": "高保融",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
       {
         "text": "江州",
         "label": "LOC",
@@ -1383,6 +1569,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "折從阮",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
         "text": "豐州",

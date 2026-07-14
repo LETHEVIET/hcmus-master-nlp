@@ -70,6 +70,12 @@
     "sentence": "庚午，監修國史姚顗，史官張昭遠、李祥、吳承範等修撰《明宗實錄》三十卷上之。",
     "entities": [
       {
+        "text": "張昭遠",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
         "text": "《明宗實錄》",
         "label": "TITLE",
         "start": 25,
@@ -86,6 +92,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 9
+      },
+      {
+        "text": "張昭遠",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       },
       {
         "text": "以前許州",
@@ -152,13 +164,26 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "鮑君福",
+        "label": "PER",
+        "start": 25,
+        "end": 28
       }
     ]
   },
   {
     "sentence_id": "HCH_007_048_000015",
     "sentence": "丁亥，以昭義節度使安元信卒廢朝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安元信",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_048_000016",
@@ -181,7 +206,14 @@
   {
     "sentence_id": "HCH_007_048_000017",
     "sentence": "辛丑，權知福建節度使王昶奏，節度使王延鈞以去年十月十四日卒。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王延鈞",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_048_000018",
@@ -191,7 +223,14 @@
   {
     "sentence_id": "HCH_007_048_000019",
     "sentence": "甲辰，以右神武統軍楊漢章為彰武軍節度使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊漢章",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_048_000020",
@@ -202,6 +241,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "馬裔孫",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       },
       {
         "text": "侍郎",
@@ -360,6 +405,12 @@
     "sentence": "辛未，以中書舍人、史館修撰張昭遠為禮部侍郎；以前滄州節度使李金全為右領軍上將軍。",
     "entities": [
       {
+        "text": "張昭遠",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 19,
@@ -370,6 +421,12 @@
         "label": "LOC",
         "start": 22,
         "end": 26
+      },
+      {
+        "text": "李金全",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       },
       {
         "text": "將軍",
@@ -394,14 +451,7 @@
   {
     "sentence_id": "HCH_007_048_000034",
     "sentence": "五月辛卯，以河東節度使、兼大同彰國振武威塞等軍蕃漢馬步總管、檢校太師、兼中書令、駙馬都尉石敬瑭為鄆州節度使，進封趙國公。",
-    "entities": [
-      {
-        "text": "尉石敬瑭為鄆州",
-        "label": "LOC",
-        "start": 43,
-        "end": 50
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_048_000035",
@@ -464,17 +514,38 @@
   {
     "sentence_id": "HCH_007_048_000040",
     "sentence": "戊戌，昭義奏，河東節度使石敬瑭叛。",
-    "entities": []
+    "entities": [
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_048_000041",
     "sentence": "以鴻臚卿兼通事舍人、判四方館王景崇為衛尉卿，充引進使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王景崇",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_048_000042",
     "sentence": "壬寅，削奪石敬瑭官爵，便令張敬達進軍攻討。",
-    "entities": []
+    "entities": [
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_048_000043",
@@ -496,6 +567,12 @@
         "label": "LOC",
         "start": 58,
         "end": 61
+      },
+      {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 64,
+        "end": 67
       },
       {
         "text": "以陝州",
@@ -520,13 +597,26 @@
         "label": "LOC",
         "start": 3,
         "end": 6
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
   {
     "sentence_id": "HCH_007_048_000046",
     "sentence": "以前彰武軍節度使高行周為太原四面招撫兼排陣使。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_048_000047",
@@ -536,14 +626,7 @@
   {
     "sentence_id": "HCH_007_048_000048",
     "sentence": "翌日，欲移石敬瑭於鄆州，房暠等堅言不可，司天監趙延乂亦言星辰失度，尤宜安靜，由是稍緩其事。",
-    "entities": [
-      {
-        "text": "移石敬瑭於鄆州",
-        "label": "LOC",
-        "start": 4,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_048_000049",
@@ -559,6 +642,12 @@
         "label": "TME",
         "start": 13,
         "end": 15
+      },
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },
@@ -572,6 +661,12 @@
     "sentence": "居六七日，敬瑭上章云：「明宗社稷，陛下纂承，未契輿情，宜推令辟。許王先朝血緒，養德皇闈，儻循當璧之言，免負鬩牆之議。」帝覽奏不悅，手攘抵地，召馬裔孫草詔報曰：「父有社稷，傳之於子；君有禍難，倚之於親。卿於鄂王，故非疏遠。往歲衛州之事，天下皆知；今朝許王之言，人誰肯信！英賢立事，安肯如斯」云。",
     "entities": [
       {
+        "text": "馬裔孫",
+        "label": "PER",
+        "start": 71,
+        "end": 74
+      },
+      {
         "text": "往歲衛州",
         "label": "LOC",
         "start": 110,
@@ -582,7 +677,14 @@
   {
     "sentence_id": "HCH_007_048_000053",
     "sentence": "戊申，張敬達奏，西北面先鋒都指揮使安審信率雄義左第二指揮二百二十七騎，並部下共五百騎，剽劫百井，叛入太原。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安審信",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_048_000054",
@@ -599,7 +701,14 @@
   {
     "sentence_id": "HCH_007_048_000055",
     "sentence": "詔安審信及雄義兵士妻男並處斬，家產沒官。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安審信",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_048_000056",
@@ -612,16 +721,16 @@
         "end": 9
       },
       {
-        "text": "安元信謀殺伏州",
-        "label": "LOC",
-        "start": 16,
-        "end": 23
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 23,
         "end": 25
+      },
+      {
+        "text": "安審信",
+        "label": "PER",
+        "start": 37,
+        "end": 40
       }
     ]
   },
@@ -633,7 +742,20 @@
   {
     "sentence_id": "HCH_007_048_000058",
     "sentence": "己酉，振武節度使安叔千奏，西北界巡檢使安重榮驅掠戍兵五百騎叛入太原。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安叔千",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "安重榮",
+        "label": "PER",
+        "start": 19,
+        "end": 22
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_048_000059",
@@ -690,6 +812,12 @@
         "label": "TITLE",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "崔居儉",
+        "label": "PER",
+        "start": 13,
+        "end": 16
       }
     ]
   },
@@ -837,12 +965,6 @@
     "sentence": "乙未，以前彰武軍節度使高行周為潞州節度使，充太原四面招撫排陣使；以潞州節度使皇甫立為華州節度使。",
     "entities": [
       {
-        "text": "使高行周為潞州",
-        "label": "LOC",
-        "start": 10,
-        "end": 17
-      },
-      {
         "text": "以潞州",
         "label": "LOC",
         "start": 32,
@@ -942,6 +1064,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "張昭遠",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "御史",
@@ -1106,6 +1234,12 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "安叔千",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -1178,6 +1312,12 @@
         "label": "LOC",
         "start": 20,
         "end": 27
+      },
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -1196,17 +1336,30 @@
   {
     "sentence_id": "HCH_007_048_000103",
     "sentence": "時契丹主自率部族來援太原，高行周、符彥卿率左右廂騎軍出鬥，蕃軍引退。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高行周",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_048_000104",
     "sentence": "巳時後，蕃軍復成列，張敬達、楊光遠、安審琦等陣於賊城西北，倚山橫陣，諸將奮擊，蕃軍屢卻。",
     "entities": [
       {
-        "text": "審琦等陣於賊城",
-        "label": "LOC",
-        "start": 19,
-        "end": 26
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -1234,6 +1387,12 @@
         "label": "LOC",
         "start": 35,
         "end": 38
+      },
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 38,
+        "end": 41
       },
       {
         "text": "輝州",
@@ -1285,7 +1444,14 @@
   {
     "sentence_id": "HCH_007_048_000113",
     "sentence": "夕次河陽，召群臣議進取，盧文紀勸帝駐河橋。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧文紀",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_048_000114",
@@ -1390,6 +1556,12 @@
         "end": 5
       },
       {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "本軍三千騎與鎮",
         "label": "LOC",
         "start": 9,
@@ -1406,7 +1578,14 @@
   {
     "sentence_id": "HCH_007_048_000124",
     "sentence": "十一月戊子，以趙德鈞為諸道行營都統，以趙延壽為河東道南面行營招討使，以劉延朗副之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_048_000125",
@@ -1446,6 +1625,12 @@
         "end": 5
       },
       {
+        "text": "楊漢章",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "以前坊州",
         "label": "LOC",
         "start": 20,
@@ -1462,7 +1647,14 @@
   {
     "sentence_id": "HCH_007_048_000130",
     "sentence": "庚子，趙德鈞奏，大軍至團柏穀，前鋒殺蕃軍五百騎。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_048_000131",
@@ -1484,7 +1676,14 @@
   {
     "sentence_id": "HCH_007_048_000133",
     "sentence": "壬寅，趙德鈞奏，軍出穀口，蕃軍漸退，契丹主見駐柳林寨。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_048_000134",
@@ -1530,6 +1729,12 @@
         "label": "LOC",
         "start": 19,
         "end": 23
+      },
+      {
+        "text": "楊思權",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -1548,6 +1753,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "康承詢",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       },
       {
         "text": "配流鄧州",
@@ -1578,7 +1789,14 @@
   {
     "sentence_id": "HCH_007_048_000140",
     "sentence": "甲子，太原行營副招討使楊光遠殺招討使張敬達於晉安寨，以兵降契丹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_048_000141",
@@ -1588,17 +1806,37 @@
   {
     "sentence_id": "HCH_007_048_000142",
     "sentence": "楊光遠謂敬達曰：「少時人馬俱盡，不如奮命血戰，十得三四，猶勝坐受其弊。」敬達曰：「更少待之。」一日，光遠伺敬達無備，遂殺之，與諸將同降契丹。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_048_000143",
     "sentence": "時馬猶有五千匹，戎王主以漢軍與石敬瑭，其馬及甲仗即齎驅出塞。",
-    "entities": []
+    "entities": [
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_048_000144",
     "sentence": "丁卯，戎王立石敬瑭為大晉皇帝，約為父子之國，改元為天福。",
     "entities": [
+      {
+        "text": "石敬瑭",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
       {
         "text": "皇帝",
         "label": "TITLE",
@@ -1610,7 +1848,14 @@
   {
     "sentence_id": "HCH_007_048_000145",
     "sentence": "戎王與晉高祖南行，趙德鈞父子與諸將自團柏穀南奔，王師為蕃騎所蹙，投戈棄甲，自相騰踐，擠於岩穀者不可勝紀。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙德鈞",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_048_000146",
@@ -1724,6 +1969,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 10
+      },
+      {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 23,
+        "end": 26
       },
       {
         "text": "清",

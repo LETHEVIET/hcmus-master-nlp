@@ -163,7 +163,14 @@
   {
     "sentence_id": "HCH_003_069_000020",
     "sentence": "周文與語，奇之，薦之于賀拔岳，嶽亦雅相敬待，引為賓客。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_069_000021",
@@ -789,7 +796,20 @@
   {
     "sentence_id": "HCH_003_069_000083",
     "sentence": "頃之，賀拔岳為侯莫陳悅所害。",
-    "entities": []
+    "entities": [
+      {
+        "text": "賀拔岳",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
+      {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 7,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_069_000084",
@@ -907,6 +927,12 @@
     "sentence_id": "HCH_003_069_000097",
     "sentence": "與于謹討劉平伏，加大都督。",
     "entities": [
+      {
+        "text": "劉平伏",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
       {
         "text": "大都",
         "label": "LOC",
@@ -1694,6 +1720,12 @@
     "sentence": "及平侯莫陳悅，使薦入洛請事，孝武授周文關西大行台，仍除薦直閤將軍。",
     "entities": [
       {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      },
+      {
         "text": "孝武授周文關",
         "label": "LOC",
         "start": 14,
@@ -1746,14 +1778,7 @@
   {
     "sentence_id": "HCH_003_069_000177",
     "sentence": "孝武曰：「卿歸語行台迎我。」周文又遣薦與長史宇文測出關候接。",
-    "entities": [
-      {
-        "text": "長史宇文測出關",
-        "label": "LOC",
-        "start": 20,
-        "end": 27
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_003_069_000178",
@@ -2181,6 +2206,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "宇文貴",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -2437,6 +2468,12 @@
         "end": 292
       },
       {
+        "text": "李魔憐",
+        "label": "PER",
+        "start": 292,
+        "end": 295
+      },
+      {
         "text": "勸令歸關",
         "label": "LOC",
         "start": 296,
@@ -2495,7 +2532,14 @@
   {
     "sentence_id": "HCH_003_069_000240",
     "sentence": "初，賀拔勝、獨孤信以孝武西遷之後，並流寓江左。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_069_000241",
@@ -2523,6 +2567,12 @@
         "label": "TITLE",
         "start": 24,
         "end": 26
+      },
+      {
+        "text": "杜懷寶",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -2569,7 +2619,14 @@
   {
     "sentence_id": "HCH_003_069_000247",
     "sentence": "尋而梁人禮送賀拔勝、獨孤信等。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獨孤信",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_069_000248",
@@ -2726,6 +2783,12 @@
     "sentence_id": "HCH_003_069_000262",
     "sentence": "屬宇文貴等西討，詔以剛行渭州事，資給糧餼。",
     "entities": [
+      {
+        "text": "宇文貴",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "詔以剛行渭州",
         "label": "LOC",
@@ -3149,6 +3212,12 @@
     "sentence_id": "HCH_003_069_000308",
     "sentence": "蜀王秀之得罪，奉詔往益州按之。",
     "entities": [
+      {
+        "text": "王秀之",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
       {
         "text": "奉詔往益州",
         "label": "LOC",
@@ -3771,7 +3840,14 @@
   {
     "sentence_id": "HCH_003_069_000373",
     "sentence": "從達奚武征梁漢。",
-    "entities": []
+    "entities": [
+      {
+        "text": "達奚武",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_069_000374",
@@ -4102,6 +4178,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "宇文貴",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -4342,6 +4424,12 @@
     "sentence": "從周文討侯莫陳悅，以功拜步兵校尉。",
     "entities": [
       {
+        "text": "侯莫陳悅",
+        "label": "PER",
+        "start": 4,
+        "end": 8
+      },
+      {
         "text": "校尉",
         "label": "TITLE",
         "start": 14,
@@ -4527,7 +4615,20 @@
   {
     "sentence_id": "HCH_003_069_000438",
     "sentence": "陳遣其將淳于量、徐度、吳明徹等水陸來拒，皎為陳人所敗，真得脫身歸梁。",
-    "entities": []
+    "entities": [
+      {
+        "text": "淳于量",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "吳明徹",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_069_000439",

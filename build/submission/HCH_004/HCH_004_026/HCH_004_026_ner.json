@@ -304,12 +304,26 @@
   {
     "sentence_id": "HCH_004_026_000040",
     "sentence": "敬顯儁",
-    "entities": []
+    "entities": [
+      {
+        "text": "敬顯儁",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_026_000041",
     "sentence": "敬顯儁，字孝英，平陽人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "敬顯儁",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_026_000042",
@@ -454,6 +468,12 @@
         "label": "LOC",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "慕容儼",
+        "label": "PER",
+        "start": 21,
+        "end": 24
       }
     ]
   },

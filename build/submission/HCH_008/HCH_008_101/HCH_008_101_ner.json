@@ -2,7 +2,26 @@
   {
     "sentence_id": "HCH_008_101_000001",
     "sentence": "李乂　薛登　韋湊 從子:虛心　虛舟 韓思復 曾孫:佽 張廷珪　王求禮　辛替否",
-    "entities": []
+    "entities": [
+      {
+        "text": "韓思復",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "張廷珪",
+        "label": "PER",
+        "start": 27,
+        "end": 30
+      },
+      {
+        "text": "辛替否",
+        "label": "PER",
+        "start": 35,
+        "end": 38
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_101_000002",
@@ -68,6 +87,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "盧從願",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -207,12 +232,6 @@
         "label": "LOC",
         "start": 5,
         "end": 9
-      },
-      {
-        "text": "嗣安等同據本郡",
-        "label": "LOC",
-        "start": 12,
-        "end": 19
       }
     ]
   },
@@ -244,6 +263,12 @@
     "sentence_id": "HCH_008_101_000024",
     "sentence": "俄而輔公祏於江都構逆，遣其將西門君儀等寇常州，士通率兵拒戰，大破之，君儀等僅以身免。",
     "entities": [
+      {
+        "text": "輔公祏",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "門君儀等寇常州",
         "label": "LOC",
@@ -1145,6 +1170,12 @@
     "sentence": "嘗以公事忤宗楚客，出為貝州刺史。",
     "entities": [
       {
+        "text": "宗楚客",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "出為貝州",
         "label": "LOC",
         "start": 9,
@@ -1191,6 +1222,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "李多祚",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -1238,6 +1275,12 @@
         "label": "TITLE",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "李多祚",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       },
       {
         "text": "破扉斬關",
@@ -1351,7 +1394,14 @@
   {
     "sentence_id": "HCH_008_101_000167",
     "sentence": "以其斬武三思父子而嘉之乎？",
-    "entities": []
+    "entities": [
+      {
+        "text": "武三思",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_101_000168",
@@ -1689,7 +1739,14 @@
   {
     "sentence_id": "HCH_008_101_000207",
     "sentence": "其李多祚等罪，請從宥免，不謂為雪，以順天下之心，則盡善盡美矣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李多祚",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_101_000208",
@@ -1983,7 +2040,14 @@
   {
     "sentence_id": "HCH_008_101_000242",
     "sentence": "自大理丞累至戶部郎中，善於剖判，時員外郎宋之問工於詩，時人以為戶部有二妙。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋之問",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_101_000243",
@@ -2005,7 +2069,20 @@
   {
     "sentence_id": "HCH_008_101_000245",
     "sentence": "神龍年，推按大獄，時僕射竇懷貞、侍中劉幽求意欲寬假，虛心堅執法令，有不可奪之志。",
-    "entities": []
+    "entities": [
+      {
+        "text": "竇懷貞",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "劉幽求",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_101_000246",
@@ -2107,12 +2184,25 @@
   {
     "sentence_id": "HCH_008_101_000255",
     "sentence": "韓思復",
-    "entities": []
+    "entities": [
+      {
+        "text": "韓思復",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_101_000256",
     "sentence": "韓思復，京兆長安人也。",
     "entities": [
+      {
+        "text": "韓思復",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "長安",
         "label": "LOC",
@@ -2183,6 +2273,12 @@
     "sentence": "時左散騎常侍嚴善思坐譙王重福事下制獄，有司言：「善思昔嘗任汝州刺史，素與重福交遊，召至京師，竟不言其謀逆，唯奏雲『東都有兵氣』。據狀正當匿反，請從絞刑。」思復駁奏曰：「議獄緩死，列聖明規；刑疑從輕，有國常典。嚴善思往在先朝，屬韋氏擅內，恃寵宮掖，謀危宗社。善思此時遂能先覺，因詣相府有所發明，進論聖躬必登宸極。雖交遊重福，蓋謀陷韋氏。及其謁見，猶不奏聞，將此行藏，即從極法。且敕追善思，書至便發，向懷逆節，寧即奔命？一面疏網，誠合順生；三驅取禽，來而可宥。惟刑是恤，事合昭詳。請付刑部集群官議定奏裁，以符慎獄。」是時議者多雲善思合從原宥，有司仍執前議請誅之。",
     "entities": [
       {
+        "text": "嚴善思",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "善思昔嘗任汝州",
         "label": "LOC",
         "start": 24,
@@ -2193,6 +2289,12 @@
         "label": "TITLE",
         "start": 31,
         "end": 33
+      },
+      {
+        "text": "嚴善思",
+        "label": "PER",
+        "start": 104,
+        "end": 107
       }
     ]
   },
@@ -2200,6 +2302,12 @@
     "sentence_id": "HCH_008_101_000264",
     "sentence": "思復又駁曰：「臣聞刑人於市，爵人於朝，必僉謀攸同，始行之無惑。謹按諸司所議，嚴善思十才一入，抵罪惟輕。夫帝閽九重，塗遠千里。故借天下之耳以聽，聽無不聰；借天下之目以視，視無不接。今群言上聞，采擇宜審，若棄多就少，臣實懼焉。輿誦一乖，下情不達，雖欲從眾，其可及乎！凡百京司，逢時之泰，列官分職，有賢有親。親則列籓諸王，陛下愛子；賢則胙茅開國，陛下名臣。見無禮於君，寧肯雷同不異？今措詞多出，法令從輕。」上納其奏，竟免善思死，配流靜州。",
     "entities": [
+      {
+        "text": "嚴善思",
+        "label": "PER",
+        "start": 38,
+        "end": 41
+      },
       {
         "text": "配流靜州",
         "label": "LOC",
@@ -2441,14 +2549,7 @@
   {
     "sentence_id": "HCH_008_101_000285",
     "sentence": "歲滿受代，宰相牛僧孺鎮鄂渚，辟為從事，征拜刑部郎中，轉京兆少尹，遷給事中。",
-    "entities": [
-      {
-        "text": "宰相牛僧孺鎮",
-        "label": "LOC",
-        "start": 5,
-        "end": 11
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_101_000286",
@@ -2528,12 +2629,25 @@
   {
     "sentence_id": "HCH_008_101_000293",
     "sentence": "張廷珪",
-    "entities": []
+    "entities": [
+      {
+        "text": "張廷珪",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_101_000294",
     "sentence": "張廷珪，河南濟源人，其先自常州徙焉。",
     "entities": [
+      {
+        "text": "張廷珪",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "其先自常州",
         "label": "LOC",
@@ -3024,6 +3138,12 @@
         "label": "LOC",
         "start": 13,
         "end": 20
+      },
+      {
+        "text": "武懿宗",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -3053,6 +3173,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "豆盧欽望",
+        "label": "PER",
+        "start": 13,
+        "end": 17
       }
     ]
   },
@@ -3065,6 +3191,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "蘇味道",
+        "label": "PER",
+        "start": 9,
+        "end": 12
       }
     ]
   },
@@ -3076,12 +3208,26 @@
   {
     "sentence_id": "HCH_008_101_000365",
     "sentence": "辛替否",
-    "entities": []
+    "entities": [
+      {
+        "text": "辛替否",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_101_000366",
     "sentence": "辛替否，京兆人也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "辛替否",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_101_000367",
@@ -3109,7 +3255,14 @@
   {
     "sentence_id": "HCH_008_101_000369",
     "sentence": "又駙馬武崇訓死後，棄舊宅別造一宅，侈麗過甚。",
-    "entities": []
+    "entities": [
+      {
+        "text": "武崇訓",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_101_000370",
@@ -3738,7 +3891,20 @@
   {
     "sentence_id": "HCH_008_101_000478",
     "sentence": "往者，和帝之憐悖逆也，為奸人之所誤，宗晉卿勸為第宅，趙履溫勸為園亭，損數百家之居，侵數百家之地。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宗晉卿",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      },
+      {
+        "text": "趙履溫",
+        "label": "PER",
+        "start": 26,
+        "end": 29
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_101_000479",
@@ -3759,6 +3925,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "趙履溫",
+        "label": "PER",
+        "start": 20,
+        "end": 23
       }
     ]
   },
@@ -3832,7 +4004,14 @@
   {
     "sentence_id": "HCH_008_101_000490",
     "sentence": "韋月將受誅於丹僥，燕欽融見殺於紫庭，此人皆不惜其身而納忠於主，身既死矣，朝亦危矣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "韋月將",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_101_000491",

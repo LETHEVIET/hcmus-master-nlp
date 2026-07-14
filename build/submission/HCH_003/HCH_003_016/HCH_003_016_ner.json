@@ -87,7 +87,14 @@
   {
     "sentence_id": "HCH_003_016_000014",
     "sentence": "良久，南平公長孫嵩曰：「臣等不審登遐狀。」唯陰平西元烈哭泣而去。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫嵩",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_016_000015",
@@ -608,7 +615,14 @@
   {
     "sentence_id": "HCH_003_016_000072",
     "sentence": "景仲將應之，為西江督護陳霸先所攻，乃縊而死。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳霸先",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_016_000073",
@@ -944,6 +958,12 @@
         "label": "LOC",
         "start": 3,
         "end": 10
+      },
+      {
+        "text": "盧陽烏",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       },
       {
         "text": "郡縣",
@@ -1710,12 +1730,6 @@
     "sentence_id": "HCH_003_016_000215",
     "sentence": "舉其親元法僧為徐州刺史，法僧據州反叛。",
     "entities": [
-      {
-        "text": "親元法僧為徐州",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      },
       {
         "text": "刺史",
         "label": "TITLE",
@@ -3089,6 +3103,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "盧道將",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       }
     ]
   },
@@ -5254,6 +5274,12 @@
         "end": 6
       },
       {
+        "text": "酈道元",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "欲復鎮為州",
         "label": "LOC",
         "start": 13,
@@ -5304,7 +5330,14 @@
   {
     "sentence_id": "HCH_003_016_000667",
     "sentence": "先是，別將李叔仁以拔陵來逼，請求迎援，深赴之，前後降附二十萬人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李叔仁",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_016_000668",

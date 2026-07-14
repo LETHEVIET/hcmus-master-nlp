@@ -3262,7 +3262,14 @@
   {
     "sentence_id": "HCH_005_002_000225",
     "sentence": "而鍾離意、宋均之徒，常以察慧爲言， 〈 並見本傳。 〉 夫豈弘人之度未優乎？",
-    "entities": []
+    "entities": [
+      {
+        "text": "鍾離意",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_005_002_000226",

@@ -42,14 +42,7 @@
   {
     "sentence_id": "HCH_007_091_000005",
     "sentence": "時部將牛存節屯於鎮，好摴博，每求辨采者，知溫以善博見推，因得侍左右，遂熟於存節。",
-    "entities": [
-      {
-        "text": "將牛存節屯於鎮",
-        "label": "LOC",
-        "start": 2,
-        "end": 9
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_091_000006",
@@ -84,6 +77,12 @@
         "label": "LOC",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "劉知俊",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -156,7 +155,14 @@
   {
     "sentence_id": "HCH_007_091_000012",
     "sentence": "明宗自鄴入洛，知溫與王晏球首赴焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王晏球",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_091_000013",
@@ -196,7 +202,14 @@
   {
     "sentence_id": "HCH_007_091_000016",
     "sentence": "以盧文進來歸，加特進、同平章事，賞招討之功也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧文進",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_091_000017",
@@ -252,7 +265,14 @@
   {
     "sentence_id": "HCH_007_091_000023",
     "sentence": "會朝廷起兵伐高季興，授荊南招討使，知行府事。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_091_000024",
@@ -412,12 +432,25 @@
   {
     "sentence_id": "HCH_007_091_000039",
     "sentence": "王建立",
-    "entities": []
+    "entities": [
+      {
+        "text": "王建立",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_091_000040",
     "sentence": "王建立，遼州榆社人也。",
     "entities": [
+      {
+        "text": "王建立",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "遼州",
         "label": "LOC",
@@ -532,6 +565,12 @@
         "label": "TITLE",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 32,
+        "end": 35
       }
     ]
   },
@@ -939,7 +978,14 @@
   {
     "sentence_id": "HCH_007_091_000089",
     "sentence": "安重誨奏曰：「累據使臣所言，康福大有寶貨，必負朝廷。」明宗密遣人謂曰：「朕何負於卿，而有異心耶！」福奏曰：「臣受國重恩，有死無貳，豈願負於聖人，此必讒人之言也。」因表乞入覲，不允。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_091_000090",
@@ -1309,6 +1355,12 @@
         "label": "LOC",
         "start": 82,
         "end": 86
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 94,
+        "end": 97
       }
     ]
   },
@@ -1633,12 +1685,26 @@
   {
     "sentence_id": "HCH_007_091_000159",
     "sentence": "李繼忠",
-    "entities": []
+    "entities": [
+      {
+        "text": "李繼忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_091_000160",
     "sentence": "李繼忠，字化遠，後唐昭義軍節度使、兼中書令嗣昭之第二子。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李繼忠",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_091_000161",
@@ -2340,6 +2406,12 @@
         "end": 9
       },
       {
+        "text": "楊光遠",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
         "text": "貶商州",
         "label": "LOC",
         "start": 17,
@@ -2510,12 +2582,26 @@
   {
     "sentence_id": "HCH_007_091_000228",
     "sentence": "羅周敬",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅周敬",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_091_000229",
     "sentence": "羅周敬，字尚素，鄴王紹威之弟三子也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "羅周敬",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_091_000230",
@@ -2703,7 +2789,14 @@
   {
     "sentence_id": "HCH_007_091_000249",
     "sentence": "安重誨將征兵於四方，琮在帳前，歷數諸道屯軍及主將姓名，附口傳檄，相次而至。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_091_000250",

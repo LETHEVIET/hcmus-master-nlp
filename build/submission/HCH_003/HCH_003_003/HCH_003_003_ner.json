@@ -262,6 +262,12 @@
     "sentence": "三月戊辰，以散騎常侍、駙馬都尉萬安國為大司馬、大將軍，封安城王。",
     "entities": [
       {
+        "text": "萬安國",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 20,
@@ -573,7 +579,14 @@
   {
     "sentence_id": "HCH_003_003_000058",
     "sentence": "夏四月戊申，詔假司空、上黨王長孫觀等討吐谷渾拾寅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "長孫觀",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_003_000059",
@@ -986,6 +999,12 @@
         "label": "LOC",
         "start": 11,
         "end": 13
+      },
+      {
+        "text": "陸定國",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -1061,6 +1080,12 @@
         "label": "LOC",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "萬安國",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1223,6 +1248,12 @@
         "label": "TITLE",
         "start": 9,
         "end": 11
+      },
+      {
+        "text": "尉洛侯",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -1258,6 +1289,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "陸定國",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -1338,7 +1375,14 @@
   {
     "sentence_id": "HCH_003_003_000145",
     "sentence": "宋葭蘆戍主楊文度遣弟鼠襲陷仇池。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊文度",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_003_000146",
@@ -1373,7 +1417,14 @@
   {
     "sentence_id": "HCH_003_003_000148",
     "sentence": "閏月庚午，詔員外散騎常侍李長仁使於宋。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李長仁",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_003_000149",
@@ -1384,6 +1435,12 @@
         "label": "TITLE",
         "start": 8,
         "end": 10
+      },
+      {
+        "text": "楊文度",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -2106,6 +2163,12 @@
     "sentence": "乙未，詔曰：「蕭道成逆亂江淮，戎旗頻舉。七州之人既有征運之勞，深乖輕徭之義，其復常調三年。」癸丑，賜王公已下清勤著稱者，谷帛有差。",
     "entities": [
       {
+        "text": "蕭道成",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "七州",
         "label": "LOC",
         "start": 20,
@@ -2817,7 +2880,14 @@
   {
     "sentence_id": "HCH_003_003_000342",
     "sentence": "己巳，齊將陳顯達攻陷灃陽，長樂王穆亮率騎討之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳顯達",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_003_000343",
@@ -3838,7 +3908,14 @@
   {
     "sentence_id": "HCH_003_003_000480",
     "sentence": "辛巳，武興王楊集始來朝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊集始",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_003_000481",
@@ -3970,6 +4047,12 @@
         "label": "TITLE",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "田益宗",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -5895,7 +5978,14 @@
   {
     "sentence_id": "HCH_003_003_000757",
     "sentence": "壬申，武興王楊集始來朝。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊集始",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_003_000758",
@@ -6312,6 +6402,12 @@
     "sentence": "三月壬午朔，大破齊將崔慧景、蕭衍軍於鄧城。",
     "entities": [
       {
+        "text": "崔慧景",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "蕭衍軍於鄧城",
         "label": "LOC",
         "start": 14,
@@ -6502,7 +6598,14 @@
   {
     "sentence_id": "HCH_003_003_000832",
     "sentence": "癸酉，齊將陳顯達攻陷馬圈戍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "陳顯達",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_003_000833",
@@ -6596,12 +6699,6 @@
         "label": "TITLE",
         "start": 32,
         "end": 34
-      },
-      {
-        "text": "右僕射任城",
-        "label": "LOC",
-        "start": 43,
-        "end": 48
       }
     ]
   },

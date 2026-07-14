@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_008_103_000001",
     "sentence": "郭虔瓘",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭虔瓘",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_103_000002",
     "sentence": "郭虔瓘，齊州歷城人也。",
     "entities": [
+      {
+        "text": "郭虔瓘",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "齊州歷城",
         "label": "LOC",
@@ -136,6 +149,12 @@
         "end": 48
       },
       {
+        "text": "郭虔瓘",
+        "label": "PER",
+        "start": 51,
+        "end": 54
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 57,
@@ -158,6 +177,12 @@
         "label": "TITLE",
         "start": 74,
         "end": 76
+      },
+      {
+        "text": "郭知運",
+        "label": "PER",
+        "start": 91,
+        "end": 94
       }
     ]
   },
@@ -488,12 +513,25 @@
   {
     "sentence_id": "HCH_008_103_000056",
     "sentence": "郭知運",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭知運",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_103_000057",
     "sentence": "郭知運字逢時，瓜州常樂人。",
     "entities": [
+      {
+        "text": "郭知運",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "瓜州",
         "label": "LOC",
@@ -548,6 +586,12 @@
         "end": 4
       },
       {
+        "text": "郭虔瓘",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "以功封介休縣",
         "label": "LOC",
         "start": 17,
@@ -593,6 +637,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "張知運",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
@@ -605,6 +655,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "張知運",
+        "label": "PER",
+        "start": 36,
+        "end": 39
       }
     ]
   },
@@ -683,7 +739,14 @@
   {
     "sentence_id": "HCH_008_103_000069",
     "sentence": "知運自居西陲，甚為蕃夷所憚，其後王君㚟亦號勇將，時人稱王、郭焉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王君㚟",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_103_000070",
@@ -719,6 +782,18 @@
         "end": 9
       },
       {
+        "text": "薛楚玉",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      },
+      {
+        "text": "烏知義",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
         "text": "屯兵於榆關",
         "label": "LOC",
         "start": 47,
@@ -749,12 +824,25 @@
   {
     "sentence_id": "HCH_008_103_000077",
     "sentence": "王君㚟",
-    "entities": []
+    "entities": [
+      {
+        "text": "王君㚟",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_103_000078",
     "sentence": "王君㚟，瓜州常樂人也。",
     "entities": [
+      {
+        "text": "王君㚟",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "瓜州",
         "label": "LOC",
@@ -766,7 +854,14 @@
   {
     "sentence_id": "HCH_008_103_000079",
     "sentence": "初，為郭知運別奏，驍勇善騎射，以戰功累除右衛副率。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭知運",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_103_000080",
@@ -817,7 +912,14 @@
   {
     "sentence_id": "HCH_008_103_000084",
     "sentence": "君㚟令副使馬元慶、裨將車蒙追之，不及。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬元慶",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_103_000085",
@@ -838,6 +940,12 @@
         "label": "LOC",
         "start": 19,
         "end": 24
+      },
+      {
+        "text": "張景順",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -984,12 +1092,6 @@
         "end": 15
       },
       {
-        "text": "渾大德長流吉州",
-        "label": "LOC",
-        "start": 16,
-        "end": 23
-      },
-      {
         "text": "苾承明長流藤州",
         "label": "LOC",
         "start": 29,
@@ -1008,16 +1110,16 @@
     "sentence": "右散騎常侍李令問、特進契苾嵩以與回紇等結婚，貶令問為撫州別駕，嵩為連州別駕。",
     "entities": [
       {
-        "text": "貶令問為撫州",
-        "label": "LOC",
-        "start": 22,
-        "end": 28
+        "text": "李令問",
+        "label": "PER",
+        "start": 5,
+        "end": 8
       },
       {
-        "text": "嵩為連州",
-        "label": "LOC",
-        "start": 31,
-        "end": 35
+        "text": "契苾嵩",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1122,6 +1224,12 @@
         "label": "TITLE",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "賈師順",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       }
     ]
   },
@@ -1219,6 +1327,12 @@
     "sentence": "賈師順者，岐州人也。",
     "entities": [
       {
+        "text": "賈師順",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "岐州",
         "label": "LOC",
         "start": 5,
@@ -1259,12 +1373,25 @@
   {
     "sentence_id": "HCH_008_103_000118",
     "sentence": "張守珪",
-    "entities": []
+    "entities": [
+      {
+        "text": "張守珪",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_103_000119",
     "sentence": "張守珪，陜州河北人也。",
     "entities": [
+      {
+        "text": "張守珪",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "陜州",
         "label": "LOC",
@@ -1276,14 +1403,7 @@
   {
     "sentence_id": "HCH_008_103_000120",
     "sentence": "初以戰功授平樂府別駕，從郭虔瓘於北庭鎮，遣守珪率眾救援，在路逢賊甚眾，守珪身先士卒，與之苦戰，斬首千餘級，生擒賊率頡斤一人。",
-    "entities": [
-      {
-        "text": "郭虔瓘於北庭鎮",
-        "label": "LOC",
-        "start": 12,
-        "end": 19
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_103_000121",
@@ -1325,12 +1445,6 @@
     "sentence": "時盧齊卿為幽州刺史，深禮遇之，常共榻而坐，謂曰：「足下數年外必節度幽、涼，為國之良將，方以子孫相托，豈得以僚屬常禮相期耶！」守珪後累轉左金吾員外將軍，為建康軍使。",
     "entities": [
       {
-        "text": "時盧齊卿為幽州",
-        "label": "LOC",
-        "start": 0,
-        "end": 7
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 7,
@@ -1365,6 +1479,12 @@
         "label": "LOC",
         "start": 4,
         "end": 10
+      },
+      {
+        "text": "王君㚟",
+        "label": "PER",
+        "start": 11,
+        "end": 14
       }
     ]
   },
@@ -1548,10 +1668,10 @@
     "sentence": "趙含章、薛楚玉等前後為幽州長史，竟不能拒。",
     "entities": [
       {
-        "text": "玉等前後為幽州",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
+        "text": "趙含章",
+        "label": "PER",
+        "start": 0,
+        "end": 3
       }
     ]
   },
@@ -1653,6 +1773,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "烏知義",
+        "label": "PER",
+        "start": 29,
+        "end": 32
       }
     ]
   },
@@ -1739,12 +1865,25 @@
   {
     "sentence_id": "HCH_008_103_000159",
     "sentence": "牛仙客",
-    "entities": []
+    "entities": [
+      {
+        "text": "牛仙客",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_103_000160",
     "sentence": "牛仙客，涇州鶉觚人也。",
     "entities": [
+      {
+        "text": "牛仙客",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "涇州",
         "label": "LOC",
@@ -1798,6 +1937,12 @@
         "label": "ORG",
         "start": 1,
         "end": 2
+      },
+      {
+        "text": "王君㚟",
+        "label": "PER",
+        "start": 4,
+        "end": 7
       }
     ]
   },
@@ -1829,14 +1974,7 @@
   {
     "sentence_id": "HCH_008_103_000169",
     "sentence": "稍遷太仆少卿，判涼州別駕事，仍知節度留後事。",
-    "entities": [
-      {
-        "text": "判涼州",
-        "label": "LOC",
-        "start": 7,
-        "end": 10
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_103_000170",
@@ -1864,13 +2002,26 @@
         "label": "TME",
         "start": 0,
         "end": 6
+      },
+      {
+        "text": "崔希逸",
+        "label": "PER",
+        "start": 27,
+        "end": 30
       }
     ]
   },
   {
     "sentence_id": "HCH_008_103_000173",
     "sentence": "初，仙客在河西節度時，省用所積鉅萬，希逸以其事奏聞，上令刑部員外郎張利貞馳傳往覆視之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張利貞",
+        "label": "PER",
+        "start": 33,
+        "end": 36
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_103_000174",
@@ -1892,7 +2043,14 @@
   {
     "sentence_id": "HCH_008_103_000176",
     "sentence": "中書令張九齡執奏以為不可，乃加實封二百戶。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張九齡",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_103_000177",
@@ -1927,6 +2085,18 @@
         "label": "TITLE",
         "start": 14,
         "end": 16
+      },
+      {
+        "text": "李適之",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "牛仙客",
+        "label": "PER",
+        "start": 22,
+        "end": 25
       },
       {
         "text": "大夫",
@@ -2066,12 +2236,25 @@
   {
     "sentence_id": "HCH_008_103_000188",
     "sentence": "王忠嗣",
-    "entities": []
+    "entities": [
+      {
+        "text": "王忠嗣",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_103_000189",
     "sentence": "王忠嗣，太原祁人也，家於華州之鄭縣。",
     "entities": [
+      {
+        "text": "王忠嗣",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "家於華州之鄭縣",
         "label": "LOC",
@@ -2107,6 +2290,24 @@
         "label": "TITLE",
         "start": 21,
         "end": 23
+      },
+      {
+        "text": "杜賓客",
+        "label": "PER",
+        "start": 32,
+        "end": 35
+      },
+      {
+        "text": "郭知運",
+        "label": "PER",
+        "start": 36,
+        "end": 39
+      },
+      {
+        "text": "安思順",
+        "label": "PER",
+        "start": 43,
+        "end": 46
       }
     ]
   },
@@ -2228,19 +2429,19 @@
   {
     "sentence_id": "HCH_008_103_000203",
     "sentence": "嘗短皇甫惟明義弟王昱，憾焉，遂為所陷，貶東陽府左果毅。",
-    "entities": []
+    "entities": [
+      {
+        "text": "皇甫惟明",
+        "label": "PER",
+        "start": 2,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_103_000204",
     "sentence": "屬河西節度使杜希望謀拔新城，或言忠嗣之材足以輯事，必欲取勝，非其人不可。",
-    "entities": [
-      {
-        "text": "杜希望謀拔新城",
-        "label": "LOC",
-        "start": 6,
-        "end": 13
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_008_103_000205",
@@ -2349,13 +2550,26 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "韋光乘",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
   {
     "sentence_id": "HCH_008_103_000214",
     "sentence": "其月，以田仁琬充河東節度使，忠嗣依舊朔方節度。",
-    "entities": []
+    "entities": [
+      {
+        "text": "田仁琬",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_103_000215",
@@ -2507,7 +2721,14 @@
   {
     "sentence_id": "HCH_008_103_000235",
     "sentence": "自張仁亶之後四十餘年，忠嗣繼之，北塞之人，復罷戰矣。",
-    "entities": []
+    "entities": [
+      {
+        "text": "張仁亶",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_103_000236",
@@ -2518,6 +2739,12 @@
         "label": "TME",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "皇甫惟明",
+        "label": "PER",
+        "start": 8,
+        "end": 12
       },
       {
         "text": "以持節充西平郡",
@@ -2614,7 +2841,14 @@
   {
     "sentence_id": "HCH_008_103_000246",
     "sentence": "李林甫尤忌忠嗣，日求其過。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_103_000247",
@@ -2636,7 +2870,14 @@
   {
     "sentence_id": "HCH_008_103_000249",
     "sentence": "河西兵馬使李光弼危之，遽而入告。",
-    "entities": []
+    "entities": [
+      {
+        "text": "李光弼",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_103_000250",
@@ -2714,6 +2955,12 @@
     "sentence": "李林甫又令濟陽別駕魏林告忠嗣，稱往任朔州刺史，忠嗣為河東節度，云「早與忠王同養宮中，我欲尊奉太子。」玄宗大怒，因征入朝，令三司推訊之，幾陷極刑。",
     "entities": [
       {
+        "text": "李林甫",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
+      {
         "text": "稱往任朔州",
         "label": "LOC",
         "start": 15,
@@ -2736,7 +2983,14 @@
   {
     "sentence_id": "HCH_008_103_000253",
     "sentence": "會哥舒翰代忠嗣為隴右節度，特承恩顧，因奏忠嗣之枉，詞甚懇切，請以己官爵贖罪。",
-    "entities": []
+    "entities": [
+      {
+        "text": "哥舒翰",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_103_000254",
@@ -2787,6 +3041,12 @@
     "sentence_id": "HCH_008_103_000259",
     "sentence": "其後哥舒翰大舉兵伐石堡城，拔之，死者大半，竟如忠嗣之言，當代稱為名將。",
     "entities": [
+      {
+        "text": "哥舒翰",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "大舉兵伐石堡城",
         "label": "LOC",
@@ -2841,7 +3101,44 @@
   {
     "sentence_id": "HCH_008_103_000266",
     "sentence": "史臣曰：郭虔瓘、郭知運、王君㚟、張守珪、牛仙客、王忠嗣，立功邊域，為世虎臣，班超、傅介子之流也。",
-    "entities": []
+    "entities": [
+      {
+        "text": "郭虔瓘",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "郭知運",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      },
+      {
+        "text": "王君㚟",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "text": "張守珪",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
+        "text": "牛仙客",
+        "label": "PER",
+        "start": 20,
+        "end": 23
+      },
+      {
+        "text": "王忠嗣",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      }
+    ]
   },
   {
     "sentence_id": "HCH_008_103_000267",

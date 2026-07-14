@@ -2,12 +2,25 @@
   {
     "sentence_id": "HCH_007_133_000001",
     "sentence": "高季興",
-    "entities": []
+    "entities": [
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_133_000002",
     "sentence": "高季興，字貽孫，陜州硤石人也。",
     "entities": [
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "陜州",
         "label": "LOC",
@@ -159,6 +172,12 @@
         "label": "LOC",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       }
     ]
   },
@@ -390,6 +409,12 @@
         "end": 5
       },
       {
+        "text": "安從進",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 32,
@@ -463,6 +488,12 @@
         "label": "LOC",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "安審琦",
+        "label": "PER",
+        "start": 7,
+        "end": 10
       }
     ]
   },
@@ -520,7 +551,14 @@
   {
     "sentence_id": "HCH_007_133_000048",
     "sentence": "其諸將之倚任者，則有王保義。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王保義",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_133_000049",
@@ -549,7 +587,14 @@
   {
     "sentence_id": "HCH_007_133_000051",
     "sentence": "劉仁恭之子守奇善射，惟去非許以為能。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉仁恭",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_133_000052",
@@ -632,6 +677,12 @@
         "end": 13
       },
       {
+        "text": "高季興",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "司馬",
         "label": "TITLE",
         "start": 21,
@@ -653,6 +704,12 @@
         "label": "TME",
         "start": 0,
         "end": 4
+      },
+      {
+        "text": "高從誨",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       },
       {
         "text": "司馬",
@@ -710,6 +767,12 @@
         "end": 9
       },
       {
+        "text": "高季興",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "本陵州",
         "label": "LOC",
         "start": 14,
@@ -734,6 +797,12 @@
         "end": 165
       },
       {
+        "text": "高從誨",
+        "label": "PER",
+        "start": 232,
+        "end": 235
+      },
+      {
         "text": "大夫",
         "label": "TITLE",
         "start": 252,
@@ -752,6 +821,12 @@
         "end": 445
       },
       {
+        "text": "高季興",
+        "label": "PER",
+        "start": 458,
+        "end": 461
+      },
+      {
         "text": "梁朝",
         "label": "ORG",
         "start": 591,
@@ -762,6 +837,12 @@
         "label": "TME",
         "start": 604,
         "end": 607
+      },
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 665,
+        "end": 668
       },
       {
         "text": "遽以詔命襄州",
@@ -921,7 +1002,14 @@
   {
     "sentence_id": "HCH_007_133_000076",
     "sentence": "唐天復中，楊行密急攻江夏，杜洪求援於荊南，成汭舉舟師援之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "楊行密",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_133_000077",
@@ -944,7 +1032,14 @@
   {
     "sentence_id": "HCH_007_133_000078",
     "sentence": "彥恭東連行密，斷江、嶺行商之路，殷與高季興合勢攻彥恭於澧朗。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_133_000079",
@@ -1129,12 +1224,6 @@
     "sentence": "〈 （案：此傳有闕文，《馬希廣》、《希萼傳》全篇俱佚。《五代史補》：高郁為武穆王謀臣，莊宗素聞其名，及有天下，且欲離間之。會武穆王使其子希範入覲，莊宗以希範年少易激發，因其敷奏敏速，乃拊其背曰：「國人皆言馬家社稷必為高郁所取，今有子如此，高郁安得取此耶！」希範居常嫉郁，忽聞莊宗言，深以為然。及歸，告武穆請誅之，武穆笑曰：「主上爭戰得天下，能用機數，以郁資吾霸業，故欲間之耳！若梁朝罷王彥章兵權也。蓋遭此計，必至破滅，今汝誅郁，正落其彀中，慎勿言也。」希範以武穆不決，禍在朝夕，因使誣告郁謀反而族滅之。自是軍中之政，往往失序，識者痛之。初，郁與武穆俱起行陣，郁貪且僭，常以所居之井不甚清澈，思所以澄汰之，乃用銀葉護其四方，自內至外皆然，謂之「拓裏」，其奉養過差，皆此類也，故莊宗得以媒蘗。自後陰晦中見郁，後竟為所患爾。",
     "entities": [
       {
-        "text": "《馬希廣》",
-        "label": "TITLE",
-        "start": 11,
-        "end": 16
-      },
-      {
         "text": "《希萼傳》",
         "label": "TITLE",
         "start": 17,
@@ -1151,6 +1240,12 @@
         "label": "ORG",
         "start": 189,
         "end": 191
+      },
+      {
+        "text": "王彥章",
+        "label": "PER",
+        "start": 192,
+        "end": 195
       }
     ]
   },
@@ -1241,12 +1336,25 @@
   {
     "sentence_id": "HCH_007_133_000113",
     "sentence": "附 石文德",
-    "entities": []
+    "entities": [
+      {
+        "text": "石文德",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_133_000114",
     "sentence": "石文德，連州人。",
     "entities": [
+      {
+        "text": "石文德",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "連州",
         "label": "LOC",
@@ -1333,7 +1441,14 @@
   {
     "sentence_id": "HCH_007_133_000126",
     "sentence": "天成中入洛，時秦王為河南尹，尤重士，仲舉與張杭、江文蔚俱遊其門。",
-    "entities": []
+    "entities": [
+      {
+        "text": "江文蔚",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_133_000127",
@@ -1378,12 +1493,26 @@
   {
     "sentence_id": "HCH_007_133_000131",
     "sentence": "附 歐陽彬",
-    "entities": []
+    "entities": [
+      {
+        "text": "歐陽彬",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_133_000132",
     "sentence": "歐陽彬，衡山人。",
-    "entities": []
+    "entities": [
+      {
+        "text": "歐陽彬",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_133_000133",
@@ -1787,7 +1916,14 @@
   {
     "sentence_id": "HCH_007_133_000186",
     "sentence": "馬希萼既立，不治國事，數與僚吏縱酒為樂。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬希萼",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_133_000187",
@@ -1928,7 +2064,14 @@
   {
     "sentence_id": "HCH_007_133_000201",
     "sentence": "荊南高季興次子，忘其名，管親軍雲猛都，謂之雲猛郎君。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高季興",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_133_000202",
@@ -2117,6 +2260,12 @@
         "end": 44
       },
       {
+        "text": "周行逢",
+        "label": "PER",
+        "start": 52,
+        "end": 55
+      },
+      {
         "text": "領舟師以襲潭州",
         "label": "LOC",
         "start": 57,
@@ -2224,12 +2373,6 @@
         "end": 26
       },
       {
-        "text": "以周行逢領集州",
-        "label": "LOC",
-        "start": 77,
-        "end": 84
-      },
-      {
         "text": "刺史",
         "label": "TITLE",
         "start": 84,
@@ -2288,12 +2431,6 @@
         "label": "TME",
         "start": 0,
         "end": 4
-      },
-      {
-        "text": "使周行逢為鄂州",
-        "label": "LOC",
-        "start": 14,
-        "end": 21
       },
       {
         "text": "權知潭州",
@@ -2359,12 +2496,6 @@
         "label": "LOC",
         "start": 0,
         "end": 5
-      },
-      {
-        "text": "請周行逢至朗州",
-        "label": "LOC",
-        "start": 5,
-        "end": 12
       }
     ]
   },
@@ -2571,6 +2702,12 @@
     "sentence": "時孫儒、楊行密交亂，淮海煙塵數千里，镠常率師以為防捍，孫儒據宣州，不敢侵江、浙，由是镠勛名日著。",
     "entities": [
       {
+        "text": "楊行密",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "孫儒據宣州",
         "label": "LOC",
         "start": 27,
@@ -2676,6 +2813,12 @@
         "label": "LOC",
         "start": 0,
         "end": 5
+      },
+      {
+        "text": "楊行密",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       },
       {
         "text": "潤等州",
@@ -2824,6 +2967,12 @@
         "label": "LOC",
         "start": 79,
         "end": 82
+      },
+      {
+        "text": "郭崇韜",
+        "label": "PER",
+        "start": 90,
+        "end": 93
       }
     ]
   },
@@ -2847,7 +2996,14 @@
   {
     "sentence_id": "HCH_007_133_000276",
     "sentence": "明宗即位之初，安重誨用事，镠嘗與重誨書，云「吳越國王致書於某官執事」，不敘暄涼，重誨怒其無禮。",
-    "entities": []
+    "entities": [
+      {
+        "text": "安重誨",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_133_000277",

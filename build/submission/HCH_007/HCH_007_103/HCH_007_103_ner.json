@@ -14,7 +14,14 @@
   {
     "sentence_id": "HCH_007_103_000002",
     "sentence": "鳳翔行營都部署趙暉奏，前月二十四日，收復鳳翔，逆賊王景崇舉族自燔而死。",
-    "entities": []
+    "entities": [
+      {
+        "text": "王景崇",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_103_000003",
@@ -86,6 +93,12 @@
     "sentence": "先是，友規權知永興軍府事，及趙思綰之奔沖，友規失守城池，至是乃正其罪焉。",
     "entities": [
       {
+        "text": "趙思綰",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "友規失守城",
         "label": "LOC",
         "start": 21,
@@ -102,6 +115,12 @@
         "label": "LOC",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "宋彥筠",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "太子",
@@ -182,6 +201,12 @@
         "label": "LOC",
         "start": 3,
         "end": 5
+      },
+      {
+        "text": "劉審交",
+        "label": "PER",
+        "start": 8,
+        "end": 11
       }
     ]
   },
@@ -238,16 +263,40 @@
     "sentence": "是月，鄴都留守高行周、兗州符彥卿、鄆州慕容彥超、西京留守白文珂、鎮州武行德、安州楊信、潞州常思、府州折從阮皆自鎮來朝，嘉慶節故也。",
     "entities": [
       {
+        "text": "高行周",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "兗州",
         "label": "LOC",
         "start": 11,
         "end": 13
       },
       {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 13,
+        "end": 16
+      },
+      {
         "text": "鄆州",
         "label": "LOC",
         "start": 17,
         "end": 19
+      },
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 19,
+        "end": 23
+      },
+      {
+        "text": "白文珂",
+        "label": "PER",
+        "start": 28,
+        "end": 31
       },
       {
         "text": "鎮州",
@@ -272,12 +321,6 @@
         "label": "LOC",
         "start": 48,
         "end": 50
-      },
-      {
-        "text": "折從阮皆自鎮",
-        "label": "LOC",
-        "start": 50,
-        "end": 56
       }
     ]
   },
@@ -291,22 +334,10 @@
     "sentence": "壬戌，鄴都高行周移鎮鄆州，兗州符彥卿移鎮青州，並加邑封。",
     "entities": [
       {
-        "text": "鄴都高行周移鎮",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      },
-      {
         "text": "鄆州",
         "label": "LOC",
         "start": 10,
         "end": 12
-      },
-      {
-        "text": "兗州符彥卿移鎮",
-        "label": "LOC",
-        "start": 13,
-        "end": 20
       },
       {
         "text": "青州",
@@ -326,6 +357,12 @@
     "sentence_id": "HCH_007_103_000021",
     "sentence": "甲子，西京留守白文珂、潞州常思、鎮州武行德並進邑封，鄆州慕容彥超移鎮兗州。",
     "entities": [
+      {
+        "text": "白文珂",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
       {
         "text": "潞州",
         "label": "LOC",
@@ -349,12 +386,6 @@
         "label": "LOC",
         "start": 26,
         "end": 28
-      },
-      {
-        "text": "慕容彥超移鎮",
-        "label": "LOC",
-        "start": 28,
-        "end": 34
       },
       {
         "text": "兗州",
@@ -398,12 +429,6 @@
     "sentence_id": "HCH_007_103_000023",
     "sentence": "庚午，府州折從阮移鎮鄧州。",
     "entities": [
-      {
-        "text": "府州折從阮移鎮",
-        "label": "LOC",
-        "start": 3,
-        "end": 10
-      },
       {
         "text": "鄧州",
         "label": "LOC",
@@ -623,6 +648,12 @@
         "end": 14
       },
       {
+        "text": "王仁裕",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 23,
@@ -687,6 +718,12 @@
         "label": "LOC",
         "start": 3,
         "end": 7
+      },
+      {
+        "text": "安審信",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       },
       {
         "text": "將軍",
@@ -843,7 +880,14 @@
   {
     "sentence_id": "HCH_007_103_000054",
     "sentence": "丙子，帝御崇元殿，授皇太后冊，命宰臣蘇逢吉行禮。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 18,
+        "end": 21
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_103_000055",
@@ -936,6 +980,12 @@
         "label": "LOC",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "馬希萼",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -962,7 +1012,14 @@
   {
     "sentence_id": "HCH_007_103_000066",
     "sentence": "丙午，湖南馬希廣遣使上章，且言荊南、淮南、廣南三道結構，欲分割湖、湘，乞聊發兵師，以為援助。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馬希廣",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_103_000067",
@@ -1149,16 +1206,40 @@
         "end": 4
       },
       {
+        "text": "高行周",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "青州",
         "label": "LOC",
         "start": 8,
         "end": 10
       },
       {
+        "text": "符彥卿",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "text": "郭從義",
+        "label": "PER",
+        "start": 16,
+        "end": 19
+      },
+      {
         "text": "兗州",
         "label": "LOC",
         "start": 20,
         "end": 22
+      },
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 22,
+        "end": 26
       },
       {
         "text": "同州",
@@ -1184,6 +1265,12 @@
     "sentence_id": "HCH_007_103_000087",
     "sentence": "以宰臣蘇逢吉權知樞密院事，前青州劉銖權知開封府事，侍衛馬軍都指揮使李洪建判侍衛司事，內客省使閻晉卿權侍衛馬軍都指揮使。",
     "entities": [
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      },
       {
         "text": "前青州",
         "label": "LOC",
@@ -1281,6 +1368,12 @@
         "end": 14
       },
       {
+        "text": "張彥超",
+        "label": "PER",
+        "start": 17,
+        "end": 20
+      },
+      {
         "text": "鄭州",
         "label": "LOC",
         "start": 34,
@@ -1324,7 +1417,14 @@
   {
     "sentence_id": "HCH_007_103_000099",
     "sentence": "帝大懼，私謂宰臣竇貞固等曰：「昨來之事，太草草耳！」李業等請帝傾府庫以給諸軍，宰相蘇禹珪以為未可。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇禹珪",
+        "label": "PER",
+        "start": 41,
+        "end": 44
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_103_000100",
@@ -1344,14 +1444,7 @@
   {
     "sentence_id": "HCH_007_103_000103",
     "sentence": "慕容彥超自鎮馳至，帝遂以軍旅之事委之。",
-    "entities": [
-      {
-        "text": "慕容彥超自鎮",
-        "label": "LOC",
-        "start": 0,
-        "end": 6
-      }
-    ]
+    "entities": []
   },
   {
     "sentence_id": "HCH_007_103_000104",
@@ -1374,18 +1467,38 @@
         "label": "LOC",
         "start": 60,
         "end": 64
+      },
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 86,
+        "end": 90
       }
     ]
   },
   {
     "sentence_id": "HCH_007_103_000105",
     "sentence": "彥超懼，曰：「大是劇賊，不宜輕耳！」又遣袁鳷、劉重進、王知則等出師，以繼前軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "劉重進",
+        "label": "PER",
+        "start": 23,
+        "end": 26
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_103_000106",
     "sentence": "慕容彥超以大軍駐於七里郊，掘塹以自衛，都下率坊市出酒食以餉軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 0,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_103_000107",
@@ -1395,7 +1508,14 @@
   {
     "sentence_id": "HCH_007_103_000108",
     "sentence": "翌日，慕容彥超揚言曰：「官家宮中無事，明日再出，觀臣破賊。」甲申，車駕復出，幸七里店軍營。",
-    "entities": []
+    "entities": [
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 3,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_103_000109",
@@ -1405,7 +1525,20 @@
   {
     "sentence_id": "HCH_007_103_000110",
     "sentence": "太后以帝至晚在外，遣中使謂聶文進曰：「賊軍在近，大須用意！」文進曰：「有臣在，必不失策，縱有一百個郭威，亦當生擒之耳！」彥超輕脫，先擊北軍，郭威命何福進、王彥超、李筠等大合騎以乘之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "何福進",
+        "label": "PER",
+        "start": 73,
+        "end": 76
+      },
+      {
+        "text": "王彥超",
+        "label": "PER",
+        "start": 77,
+        "end": 80
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_103_000111",
@@ -1416,6 +1549,18 @@
     "sentence_id": "HCH_007_103_000112",
     "sentence": "吳虔裕、張彥超等相繼而去，慕容彥超以部下十數騎奔兗州。",
     "entities": [
+      {
+        "text": "張彥超",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
+        "text": "慕容彥超",
+        "label": "PER",
+        "start": 13,
+        "end": 17
+      },
       {
         "text": "下十數騎奔兗州",
         "label": "LOC",
@@ -1437,12 +1582,26 @@
   {
     "sentence_id": "HCH_007_103_000115",
     "sentence": "帝回，與蘇逢吉、郭允明詣西北村舍，郭允明知事不濟，乃剚刃於帝而崩，時年二十。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_103_000116",
     "sentence": "蘇逢吉、郭允明皆自殺。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_103_000117",
@@ -1566,10 +1725,22 @@
         "end": 21
       },
       {
+        "text": "何福進",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      },
+      {
         "text": "前復州",
         "label": "LOC",
         "start": 28,
         "end": 31
+      },
+      {
+        "text": "王彥超",
+        "label": "PER",
+        "start": 34,
+        "end": 37
       },
       {
         "text": "前博州",
@@ -1582,6 +1753,18 @@
         "label": "TITLE",
         "start": 41,
         "end": 43
+      },
+      {
+        "text": "白重贊",
+        "label": "PER",
+        "start": 74,
+        "end": 77
+      },
+      {
+        "text": "李萬全",
+        "label": "PER",
+        "start": 90,
+        "end": 93
       }
     ]
   },
@@ -1777,6 +1960,12 @@
         "label": "LOC",
         "start": 28,
         "end": 32
+      },
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 66,
+        "end": 69
       }
     ]
   },
@@ -1788,7 +1977,14 @@
   {
     "sentence_id": "HCH_007_103_000146",
     "sentence": "其劉銖等準誥旨處置訖，並蘇逢吉、郭允明、閻晉卿、聶文進首級，並梟於南北市，其骨肉放棄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇逢吉",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_103_000147",
@@ -1805,7 +2001,14 @@
   {
     "sentence_id": "HCH_007_103_000148",
     "sentence": "太后誥曰：「王室多故，邊境未寧，內難雖平，外寇仍熾。據北面奏報，強敵奔沖，繼發兵師，未聞平殄，須勞上將，暫自臨戎。宜令樞密使郭威部署大軍，早謀掩擊。其軍國庶事，權委宰臣竇貞固、蘇禹珪、樞密使王峻等商量施行。在京馬步兵士，委王殷都大提舉。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蘇禹珪",
+        "label": "PER",
+        "start": 88,
+        "end": 91
+      }
+    ]
   },
   {
     "sentence_id": "HCH_007_103_000149",
@@ -1841,6 +2044,12 @@
         "end": 9
       },
       {
+        "text": "李守貞",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      },
+      {
         "text": "侍郎",
         "label": "TITLE",
         "start": 98,
@@ -1851,6 +2060,12 @@
         "label": "LOC",
         "start": 110,
         "end": 112
+      },
+      {
+        "text": "李洪信",
+        "label": "PER",
+        "start": 112,
+        "end": 115
       }
     ]
   },
@@ -1889,6 +2104,12 @@
         "end": 10
       },
       {
+        "text": "馬希萼",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      },
+      {
         "text": "谿蠻及淮南洪州",
         "label": "LOC",
         "start": 15,
@@ -1919,6 +2140,12 @@
     "sentence": "辛亥，遣宰相蘇禹珪及朝臣十員，往宋州迎奉嗣君。",
     "entities": [
       {
+        "text": "蘇禹珪",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
         "text": "往宋州",
         "label": "LOC",
         "start": 15,
@@ -1935,6 +2162,12 @@
         "label": "LOC",
         "start": 4,
         "end": 11
+      },
+      {
+        "text": "何福進",
+        "label": "PER",
+        "start": 12,
+        "end": 15
       }
     ]
   },

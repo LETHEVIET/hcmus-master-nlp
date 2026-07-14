@@ -8,6 +8,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 31,
+        "end": 34
       }
     ]
   },
@@ -25,6 +31,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 9
+      },
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 43,
+        "end": 46
       }
     ]
   },
@@ -136,6 +148,12 @@
         "label": "TITLE",
         "start": 19,
         "end": 21
+      },
+      {
+        "text": "封隆之",
+        "label": "PER",
+        "start": 24,
+        "end": 27
       }
     ]
   },
@@ -247,12 +265,26 @@
   {
     "sentence_id": "HCH_003_054_000031",
     "sentence": "初，博陵崔孝芬取貧家子賈氏為養女。",
-    "entities": []
+    "entities": [
+      {
+        "text": "崔孝芬",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_054_000032",
     "sentence": "孝芬死，其妻元更適鄭伯猷，攜賈于鄭氏。",
-    "entities": []
+    "entities": [
+      {
+        "text": "鄭伯猷",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_054_000033",
@@ -770,6 +802,12 @@
     "sentence_id": "HCH_003_054_000107",
     "sentence": "隆之見信神武，性陰毒，儀同三司崔孝芬以結婚姻不果，太僕卿任集同知營構，頗相乖異；瀛州刺史元晏請托不遂。",
     "entities": [
+      {
+        "text": "崔孝芬",
+        "label": "PER",
+        "start": 15,
+        "end": 18
+      },
       {
         "text": "瀛州",
         "label": "LOC",
@@ -1631,7 +1669,14 @@
   {
     "sentence_id": "HCH_003_054_000205",
     "sentence": "初，司徒趙彥深起自孤微，為子如管記，膺之甚相忽略，不為之禮。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_054_000206",
@@ -2742,7 +2787,14 @@
   {
     "sentence_id": "HCH_003_054_000334",
     "sentence": "初，定遠弟季略，穆提婆求其伎妾，定遠不許。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_054_000335",
@@ -2919,6 +2971,12 @@
         "label": "TITLE",
         "start": 10,
         "end": 12
+      },
+      {
+        "text": "宋仲羨",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -3183,7 +3241,14 @@
   {
     "sentence_id": "HCH_003_054_000383",
     "sentence": "曾詣京師，魏譙王元孝友于公門言戲過常，無能面折者，幹正色責之，孝友大慚，時人稱善。",
-    "entities": []
+    "entities": [
+      {
+        "text": "元孝友",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_054_000384",
@@ -3440,6 +3505,12 @@
         "label": "ORG",
         "start": 5,
         "end": 7
+      },
+      {
+        "text": "長孫覽",
+        "label": "PER",
+        "start": 19,
+        "end": 22
       }
     ]
   },
@@ -4025,6 +4096,12 @@
         "end": 4
       },
       {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "將軍",
         "label": "TITLE",
         "start": 15,
@@ -4105,6 +4182,12 @@
         "label": "LOC",
         "start": 7,
         "end": 14
+      },
+      {
+        "text": "陳霸先",
+        "label": "PER",
+        "start": 15,
+        "end": 18
       }
     ]
   },
@@ -4262,7 +4345,14 @@
   {
     "sentence_id": "HCH_003_054_000498",
     "sentence": "周塚宰宇文護母閻氏，先配中山宮，護聞尚存，乃因邊境移書，請還其母，並通鄰好。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宇文護",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_054_000499",
@@ -4305,6 +4395,12 @@
         "label": "TITLE",
         "start": 7,
         "end": 10
+      },
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -4338,7 +4434,14 @@
   {
     "sentence_id": "HCH_003_054_000509",
     "sentence": "韶為左軍，蘭陵王為中軍，斛律光為右軍。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_054_000510",
@@ -4450,6 +4553,12 @@
         "label": "TITLE",
         "start": 12,
         "end": 14
+      },
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 14,
+        "end": 17
       }
     ]
   },
@@ -4497,7 +4606,14 @@
   {
     "sentence_id": "HCH_003_054_000522",
     "sentence": "是月，周又遣將攻邊，斛律光先率軍禦之，韶亦請行。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_054_000523",
@@ -4899,7 +5015,14 @@
   {
     "sentence_id": "HCH_003_054_000566",
     "sentence": "曾夜過其客宋孝王家，呼坊人防援，不時赴，遂拷殺之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋孝王",
+        "label": "PER",
+        "start": 5,
+        "end": 8
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_054_000567",
@@ -4954,7 +5077,14 @@
   {
     "sentence_id": "HCH_003_054_000573",
     "sentence": "祖珽執政，將廢趙彥深，引孝言為助，加侍中。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_054_000574",
@@ -5029,6 +5159,12 @@
     "sentence": "儀同三司崔士順、將作大匠元士將、太府少卿酈孝裕、尚書左戶郎中薛叔昭、司州中從事崔龍子、清都尹丞李道隆、鄴縣令尉長卿、臨漳令崔象、成安令高子徹等，並在孝言部下典作。",
     "entities": [
       {
+        "text": "崔士順",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "尚書",
         "label": "TITLE",
         "start": 24,
@@ -5039,6 +5175,12 @@
         "label": "LOC",
         "start": 34,
         "end": 36
+      },
+      {
+        "text": "崔龍子",
+        "label": "PER",
+        "start": 39,
+        "end": 42
       },
       {
         "text": "縣令",
@@ -5158,12 +5300,25 @@
   {
     "sentence_id": "HCH_003_054_000598",
     "sentence": "斛律金",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_054_000599",
     "sentence": "斛律金，字阿六敦，朔州敕勒部人也。",
     "entities": [
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "朔州",
         "label": "LOC",
@@ -5708,7 +5863,14 @@
   {
     "sentence_id": "HCH_003_054_000662",
     "sentence": "初為侯景部下，彭樂謂高敖曹曰：「斛律家小兒，不可三度將行，後奪人名。」以庫直事文襄。",
-    "entities": []
+    "entities": [
+      {
+        "text": "高敖曹",
+        "label": "PER",
+        "start": 10,
+        "end": 13
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_054_000663",
@@ -6024,7 +6186,20 @@
   {
     "sentence_id": "HCH_003_054_000691",
     "sentence": "周柱國枹罕公普屯威、柱國韋孝寬等來逼平隴，光與戰于汾水，大破之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "普屯威",
+        "label": "PER",
+        "start": 6,
+        "end": 9
+      },
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 12,
+        "end": 15
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_054_000692",
@@ -6124,7 +6299,14 @@
   {
     "sentence_id": "HCH_003_054_000707",
     "sentence": "又穆提婆求娶光庶女，不許。",
-    "entities": []
+    "entities": [
+      {
+        "text": "穆提婆",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_054_000708",
@@ -6150,6 +6332,12 @@
     "sentence_id": "HCH_003_054_000712",
     "sentence": "周將韋孝寬懼光，乃作謠言，令間諜漏之于鄴曰：「百斗飛上天，明月照長安。」又曰：「高山不推自崩，槲樹不扶自豎。」珽讀之曰：「盲老公背上下大斧，饒舌老母不得語。」令小兒歌之于路。",
     "entities": [
+      {
+        "text": "韋孝寬",
+        "label": "PER",
+        "start": 2,
+        "end": 5
+      },
       {
         "text": "長安",
         "label": "LOC",
@@ -6670,12 +6858,6 @@
         "label": "LOC",
         "start": 51,
         "end": 53
-      },
-      {
-        "text": "孤永業便發定州",
-        "label": "LOC",
-        "start": 58,
-        "end": 65
       }
     ]
   },
@@ -6925,7 +7107,14 @@
   {
     "sentence_id": "HCH_003_054_000815",
     "sentence": "斛律金以神武撥亂之始，翼成王業，忠款之至，成此大功，故能終享遐年，位高百辟。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_054_000816",

@@ -452,6 +452,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "常珍奇",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
@@ -1539,10 +1545,22 @@
     "sentence": "陳遣其將章昭達圍江陵，衞王直聞有陳寇，遣大將軍趙訚、李遷哲等率歩騎赴之，並受騰節度。",
     "entities": [
       {
+        "text": "章昭達",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      },
+      {
         "text": "大將軍",
         "label": "TITLE",
         "start": 20,
         "end": 23
+      },
+      {
+        "text": "李遷哲",
+        "label": "PER",
+        "start": 26,
+        "end": 29
       }
     ]
   },
@@ -1555,6 +1573,12 @@
         "label": "LOC",
         "start": 0,
         "end": 7
+      },
+      {
+        "text": "程文季",
+        "label": "PER",
+        "start": 10,
+        "end": 13
       }
     ]
   },
@@ -2094,7 +2118,14 @@
   {
     "sentence_id": "HCH_003_028_000237",
     "sentence": "後娶范陽盧度世女，生昕之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "盧度世",
+        "label": "PER",
+        "start": 4,
+        "end": 7
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_028_000238",
@@ -4932,6 +4963,12 @@
     "sentence": "及蕭寶夤等爲賊所敗，關右騷擾，時子邕新平黑城，遂率士馬並夏州募義人，鼓行南出。",
     "entities": [
       {
+        "text": "蕭寶夤",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      },
+      {
         "text": "時子邕新平黑城",
         "label": "LOC",
         "start": 15,
@@ -5804,7 +5841,14 @@
   {
     "sentence_id": "HCH_003_028_000642",
     "sentence": "陳人見中原多故，遣其將陳紀、蕭摩訶、任蠻奴、周羅碶、樊毅等侵江北。",
-    "entities": []
+    "entities": [
+      {
+        "text": "蕭摩訶",
+        "label": "PER",
+        "start": 14,
+        "end": 17
+      }
+    ]
   },
   {
     "sentence_id": "HCH_003_028_000643",

@@ -2,12 +2,26 @@
   {
     "sentence_id": "HCH_006_079_000001",
     "sentence": "馮奉世",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮奉世",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_079_000002",
     "sentence": "馮奉世字子明，上黨潞人也，徙杜陵。",
-    "entities": []
+    "entities": [
+      {
+        "text": "馮奉世",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_079_000003",
@@ -251,6 +265,12 @@
         "label": "TITLE",
         "start": 16,
         "end": 18
+      },
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 51,
+        "end": 54
       }
     ]
   },
@@ -675,6 +695,12 @@
         "label": "TME",
         "start": 6,
         "end": 8
+      },
+      {
+        "text": "趙充國",
+        "label": "PER",
+        "start": 18,
+        "end": 21
       }
     ]
   },
@@ -757,6 +783,12 @@
         "label": "TITLE",
         "start": 2,
         "end": 4
+      },
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 16,
+        "end": 19
       }
     ]
   },
@@ -1501,6 +1533,12 @@
         "label": "TITLE",
         "start": 0,
         "end": 2
+      },
+      {
+        "text": "翟方進",
+        "label": "PER",
+        "start": 2,
+        "end": 5
       }
     ]
   },

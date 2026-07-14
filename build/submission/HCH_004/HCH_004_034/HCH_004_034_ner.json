@@ -55,6 +55,12 @@
     "sentence": "幼喪母，曾詣舅源子恭，子恭與之飲，問讀何書，曰：「誦《詩》。」子恭曰：「誦至《渭陽》未邪？」愔便號泣感噎，子恭亦對之歔欷，遂為之罷酒。",
     "entities": [
       {
+        "text": "源子恭",
+        "label": "PER",
+        "start": 7,
+        "end": 10
+      },
+      {
         "text": "《詩》",
         "label": "TITLE",
         "start": 26,
@@ -879,7 +885,14 @@
   {
     "sentence_id": "HCH_004_034_000105",
     "sentence": "可朱渾天和又每云：「若不誅二王，少主無自安之理。」宋欽道面奏帝，稱二叔威權旣重，宜速去之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 25,
+        "end": 28
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_034_000106",
@@ -998,7 +1011,14 @@
   {
     "sentence_id": "HCH_004_034_000117",
     "sentence": "使薛孤延、康買執子默於尚藥局。",
-    "entities": []
+    "entities": [
+      {
+        "text": "薛孤延",
+        "label": "PER",
+        "start": 1,
+        "end": 4
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_034_000118",
@@ -1008,7 +1028,14 @@
   {
     "sentence_id": "HCH_004_034_000119",
     "sentence": "二叔率高歸彥、賀拔仁、斛律金擁愔等唐突入雲龍門。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_034_000120",
@@ -1039,6 +1066,12 @@
     "sentence_id": "HCH_004_034_000125",
     "sentence": "常山王以磚叩頭，進而言曰：「臣與陛下骨肉相連。楊遵彥等欲擅朝權，威福自己，王公以還，皆重足屏氣。共相唇齒，以成亂階，若不早圖，必為宗社之害。臣與湛等為國事重，賀拔仁、斛律金等惜獻皇帝基業，共執遵彥等領入宮，未敢刑戮，專輒之失，罪合萬死。」帝時默然，領軍劉桃枝之徒陛衛，叩刀仰視，帝不睨之，太皇太后令卻仗，不肯。",
     "entities": [
+      {
+        "text": "斛律金",
+        "label": "PER",
+        "start": 83,
+        "end": 86
+      },
       {
         "text": "皇帝",
         "label": "TITLE",
@@ -1112,7 +1145,14 @@
   {
     "sentence_id": "HCH_004_034_000137",
     "sentence": "遵彥死，仍以中書令趙彥深代總機務。",
-    "entities": []
+    "entities": [
+      {
+        "text": "趙彥深",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_034_000138",
@@ -1171,7 +1211,14 @@
   {
     "sentence_id": "HCH_004_034_000146",
     "sentence": "子獻素多力，頭又少發，當狼狽之際，排衆走出省門，斛律光逐而擒之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "斛律光",
+        "label": "PER",
+        "start": 24,
+        "end": 27
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_034_000147",
@@ -1220,12 +1267,25 @@
   {
     "sentence_id": "HCH_004_034_000153",
     "sentence": "宋欽道",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_034_000154",
     "sentence": "宋欽道，廣平人，魏吏部尚書弁孫也。",
     "entities": [
+      {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 0,
+        "end": 3
+      },
       {
         "text": "尚書",
         "label": "TITLE",
@@ -1351,7 +1411,14 @@
   {
     "sentence_id": "HCH_004_034_000167",
     "sentence": "初為太原公東閣祭酒，與宋欽道特相友愛，欽道每師事之。",
-    "entities": []
+    "entities": [
+      {
+        "text": "宋欽道",
+        "label": "PER",
+        "start": 11,
+        "end": 14
+      }
+    ]
   },
   {
     "sentence_id": "HCH_004_034_000168",

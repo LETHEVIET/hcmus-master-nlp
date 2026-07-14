@@ -99,7 +99,14 @@
   {
     "sentence_id": "HCH_006_096c_000015",
     "sentence": "昆莫 獵驕靡",
-    "entities": []
+    "entities": [
+      {
+        "text": "獵驕靡",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_096c_000016",
@@ -335,7 +342,14 @@
   {
     "sentence_id": "HCH_006_096c_000042",
     "sentence": "岑陬 軍須靡",
-    "entities": []
+    "entities": [
+      {
+        "text": "軍須靡",
+        "label": "PER",
+        "start": 3,
+        "end": 6
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_096c_000043",
@@ -345,12 +359,26 @@
   {
     "sentence_id": "HCH_006_096c_000044",
     "sentence": "岑陬者，官號也，名軍須靡。",
-    "entities": []
+    "entities": [
+      {
+        "text": "軍須靡",
+        "label": "PER",
+        "start": 9,
+        "end": 12
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_096c_000045",
     "sentence": "昆莫，王號也，名獵驕靡。",
-    "entities": []
+    "entities": [
+      {
+        "text": "獵驕靡",
+        "label": "PER",
+        "start": 8,
+        "end": 11
+      }
+    ]
   },
   {
     "sentence_id": "HCH_006_096c_000046",
@@ -505,6 +533,12 @@
         "label": "TITLE",
         "start": 32,
         "end": 34
+      },
+      {
+        "text": "蕭望之",
+        "label": "PER",
+        "start": 64,
+        "end": 67
       }
     ]
   },
@@ -693,6 +727,12 @@
         "label": "TITLE",
         "start": 4,
         "end": 6
+      },
+      {
+        "text": "辛武賢",
+        "label": "PER",
+        "start": 6,
+        "end": 9
       }
     ]
   },
