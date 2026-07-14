@@ -1,0 +1,87 @@
+[project]
+name = "hcmus-nlp"
+version = "0.2.0"
+description = "Classical Chinese historical corpus NER pipeline"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "Proprietary" }
+authors = [{ name = "HCMUS NLP team" }]
+# Core runtime chỉ dùng Python standard library.
+# Mọi dependency bổ sung (torch, transformers, pytest, seqeval, pytorch-crf) nằm
+# trong [project.optional-dependencies] để không bắt buộc khi chạy pipeline mặc định.
+dependencies = []
+
+[project.optional-dependencies]
+# Chạy test suite + lint.
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.6",
+]
+# Token-classification cơ bản với transformers + torch (không có CRF wrapper).
+ner-basic = [
+    "transformers>=4.40",
+    "torch>=2.0",
+]
+# Thử nghiệm Guwen NER với CRF (experimental, xem G2 trong plan).
+ner-crf = [
+    "transformers>=4.40",
+    "torch>=2.0",
+    "pytorch-crf>=0.7.2",
+]
+# Model tách câu cổ văn (Koichi).
+sentseg-models = [
+    "transformers>=4.40",
+    "torch>=2.0",
+]
+# Đánh giá token-level (seqeval).
+ner-eval = ["seqeval>=1.2.2"]
+
+[project.scripts]
+# Cho phép gọi `uv run hcmus-nlp-prepare` ... khi cần.
+# Hiện tại entrypoint chính vẫn là scripts/*.py để tương thích README cũ.
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/hcmus_nlp"]
+
+[tool.pytest.ini_options]
+# Pytest tự tìm src/hcmus_nlp cho package import; root để test có thể
+# `import scripts._bootstrap` (smoke test cho backward-compat CLI).
+pythonpath = ["src", "."]
+testpaths = ["tests"]
+addopts = ["-ra", "--strict-markers"]
+
+[tool.ruff]
+# Tránh xung đột với Python 3.11 target; line-length giữ mặc định 88.
+target-version = "py311"
+line-length = 100
+extend-exclude = [
+    "build",
+    ".venv",
+    "__pycache__",
+]
+
+[tool.ruff.lint]
+# Bật các rule cơ bản; bỏ qua những rule quá strict cho phase đầu.
+select = [
+    "E",   # pycodestyle errors
+    "W",   # pycodestyle warnings
+    "F",   # pyflakes (unused imports/vars)
+    "I",   # isort
+    "B",   # bugbear (common pitfalls)
+]
+ignore = [
+    "E501",  # line length — handled by formatter
+    "E741",  # ambiguous variable name `l` — Python idiom cho list iteration
+    "B008",  # do not perform function calls in argument defaults
+    "B904",  # raise from — main() re-raise SystemExit là CLI pattern chuẩn
+]
+
+[tool.ruff.lint.per-file-ignores]
+# Tests có thể import private symbols, magic numbers OK trong tests.
+"tests/**/*.py" = ["F401", "B011"]
+# Scripts là thin entrypoint — có thể có print, broad except.
+"scripts/**/*.py" = ["E402"]

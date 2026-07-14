@@ -45,7 +45,7 @@ Các nhãn `DYNASTY`, `EVENT`, `ETHNIC_GROUP` để dành cho phiên bản mở 
 
 ## Định dạng đầu ra
 
-`build/corpus_annotated.jsonl` giữ nguyên `text`, thêm:
+`build/corpus_preannotated.jsonl` giữ nguyên `text`, thêm:
 
 - `sentences`: các span câu.
 - `entities`: các span entity ở offset toàn văn bản.
@@ -57,5 +57,5 @@ Script tạo tiền gán nhãn bằng:
 python3 scripts/annotate_corpus.py
 ```
 
-Không được xem `build/corpus_annotated.jsonl` là gold corpus cho tới khi đã
+Không được xem `build/corpus_preannotated.jsonl` là gold corpus cho tới khi đã
 review và sửa các bản ghi `needs_review`.

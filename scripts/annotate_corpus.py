@@ -1,128 +1,189 @@
 #!/usr/bin/env python3
 """Add sentence boundaries and reviewable NER candidates to corpus JSONL.
 
-This is intentionally a corpus-building tool, not a model-training pipeline.
-Sentence boundaries are created conservatively from existing punctuation. NER
-output is pre-annotation only: every heuristic entity is marked
-``needs_review`` and must be checked before being called gold data.
+Phase C5 (plan v5): pipeline dùng `RegexSource` adapter + `CandidateMerger`
+để sinh entity. Mỗi entity có đầy đủ provenance:
+    sources: [adapter name, ...]
+    priority_score: float
+    merged_from_labels: [...]
+    review_status: needs_review
+
+Output:
+- build/corpus_preannotated.jsonl (mặc định) — output production theo plan.
+- Tên `corpus_annotated.jsonl` đã được thay bằng `corpus_preannotated.jsonl`
+  vì entity giờ kèm provenance (sources/priority_score) từ CandidateMerger,
+  không chỉ là heuristic đơn thuần.
+
+Sentence segmentation giữ rule-based cũ (src/hcmus_nlp/sentence.segment).
+Nguồn mặc định: RegexSource + SeedSource (nếu có seed cache). Khi user
+chạy `scripts/build_kb.py ingest-seed`, SeedSource tự load.
+
+KHÔNG ghi đè build/gold/. Mọi write đều atomic (temp + os.replace).
 """
 
 from __future__ import annotations
 
 import argparse
 import json
-import re
+import os
+import sys
 from collections import Counter
 from pathlib import Path
 
+# Bootstrap cho direct-script mode.
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from _bootstrap import ensure_src_on_path  # noqa: E402
 
-OPEN_TO_CLOSE = {"〈": "〉", "《": "》", "（": "）", "(": ")", "「": "」", "『": "』", "【": "】", "[": "]"}
-CLOSE_CHARS = set(OPEN_TO_CLOSE.values())
-SENTENCE_ENDS = set("。！？!?｡")
+ensure_src_on_path()
 
-ERA_NAMES = (
-    "建武|永平|建安|元嘉|太和|孝昌|武德|貞觀|開元|天寶|乾隆|寶慶|更始|"
-    "地皇|天鳳|永興|正始|太康|咸和|大業|顯慶|神龍|天成|同光|廣順|乾祐|顯德"
+from hcmus_nlp.candidates import CandidateMerger  # noqa: E402
+from hcmus_nlp.labels import MappingError, load_mapping  # noqa: E402
+from hcmus_nlp.sentence import segment  # noqa: E402
+from hcmus_nlp.source_base import (  # noqa: E402
+    AnnotationContext,
+    Candidate,
+    Span,
 )
-TIME_RE = re.compile(rf"(?:{ERA_NAMES})?(?:元年|[一二三四五六七八九十百千万〇零０-９0-9]{{1,4}}年)")
-BOOK_RE = re.compile(r"《[^》\n]{1,40}》")
-OFFICIAL_RE = re.compile(
-    r"(?:太守|刺史|將軍|大將軍|司馬|尚書|侍郎|丞相|御史|博士|校尉|中郎將|令史|大夫|太子|公主|皇帝|皇后|侯國|縣令)"
-)
-LOCATION_RE = re.compile(r"[\u3400-\u9fff]{1,6}(?:郡|縣|州|邑|城|關|鄉|鎮)")
-POLITY_RE = re.compile(r"(?:漢|魏|吳|蜀|秦|楚|齊|梁|陳|周|晉|隋|唐|宋|遼|金|元|明|清)(?:朝|國|氏)")
+from hcmus_nlp.sources.regex_source import RegexSource  # noqa: E402
+from hcmus_nlp.volume import from_canonical_dict  # noqa: E402
 
 
-def split_sentences(text: str) -> list[dict]:
-    """Split at strong sentence punctuation outside paired editorial spans."""
-    sentences: list[dict] = []
-    stack: list[str] = []
-    start = 0
+def _build_sources(*, use_seed: bool, kb_dir: Path) -> list:
+    """Build list source adapter. Mặc định chỉ có RegexSource; nếu có seed
+    cache và use_seed=True, thêm SeedSource."""
+    sources: list = [RegexSource()]
+    if use_seed:
+        seed_cache = kb_dir / "seed.jsonl.gz"
+        if seed_cache.exists():
+            try:
+                from hcmus_nlp.kb.seed import SeedSource, load_seed_cache
 
-    def emit(end: int) -> None:
-        nonlocal start
-        raw = text[start:end]
-        left_trim = len(raw) - len(raw.lstrip())
-        right_trim = len(raw.rstrip())
-        s = start + left_trim
-        e = start + right_trim
-        if s < e:
-            sentences.append({"start": s, "end": e, "text": text[s:e]})
-        start = end
-
-    for index, char in enumerate(text):
-        if char in OPEN_TO_CLOSE:
-            stack.append(OPEN_TO_CLOSE[char])
-        elif stack and char == stack[-1]:
-            stack.pop()
-        elif char in CLOSE_CHARS and stack:
-            # Keep malformed/unbalanced markup in the same sentence rather
-            # than losing text or guessing a new boundary.
-            if char in stack:
-                stack = stack[: len(stack) - 1 - stack[::-1].index(char)]
-
-        if char in SENTENCE_ENDS and not stack:
-            emit(index + 1)
-
-    emit(len(text))
-    return sentences
+                entries, _manifest = load_seed_cache(seed_cache)
+                if entries:
+                    sources.append(SeedSource(entries))
+            except (FileNotFoundError, ValueError) as e:
+                print(f"[warn] seed cache unreadable: {e}", file=sys.stderr)
+    return sources
 
 
-def candidate_matches(text: str) -> list[dict]:
-    """Generate conservative, non-overlapping candidates for human review."""
-    matches: list[dict] = []
-    occupied: list[tuple[int, int]] = []
-
-    def overlaps(start: int, end: int) -> bool:
-        return any(start < other_end and end > other_start for other_start, other_end in occupied)
-
-    # Longer/more explicit patterns have priority over broad location rules.
-    patterns = [
-        ("BOOK", BOOK_RE),
-        ("TIME", TIME_RE),
-        ("OFFICIAL_TITLE", OFFICIAL_RE),
-        ("POLITY", POLITY_RE),
-        ("LOCATION", LOCATION_RE),
-    ]
-    for label, pattern in patterns:
-        for match in pattern.finditer(text):
-            start, end = match.span()
-            if overlaps(start, end):
-                continue
-            occupied.append((start, end))
-            matches.append({
-                "start": start,
-                "end": end,
-                "text": match.group(0),
-                "label": label,
-                "method": "heuristic",
-                "review_status": "needs_review",
-                "normalized": None,
-            })
-    return sorted(matches, key=lambda item: (item["start"], item["end"]))
+def _annotate_text(
+    text: str,
+    ctx: AnnotationContext,
+    sources: list,
+    merger: CandidateMerger,
+) -> tuple[list[dict], list]:
+    """Chạy tất cả source trên text, merge, trả (entities, conflicts)."""
+    candidates: list[Candidate] = []
+    for src in sources:
+        if not src.available():
+            continue
+        candidates.extend(src.candidates(text, ctx))
+    result = merger.merge(candidates)
+    return list(result.entities), list(result.conflicts)
 
 
-def annotate_record(record: dict) -> tuple[dict, Counter]:
+def _span_to_sentence_dict(s: Span, record_id: str, idx: int, text: str) -> dict:
+    return {
+        "sid": f"{record_id}-s{idx + 1}",
+        "start": s.start,
+        "end": s.end,
+        "text": text,
+        "method": "rule",
+        "review_status": "needs_review",
+    }
+
+
+def _serialize_conflict(conflict) -> dict:
+    """MergeConflict → JSON-serializable dict.
+
+    Conflict spans bên trong `_annotate_text` là sentence-relative (vì
+    `_annotate_text` được gọi với `sent_text`). Khi serialize vào record,
+    ta cộng `sentence.start` để convert sang record-global (giống entity)
+    và đánh dấu `offset_scope: "record"` để downstream biết cách xử lý.
+    """
+    return {
+        "kind": conflict.kind,
+        "offset_scope": "sentence",  # default; annotate_record sẽ đổi thành "record"
+        "candidates": list(conflict.candidates),
+    }
+
+
+def annotate_record(
+    record: dict,
+    *,
+    sources: list,
+    merger: CandidateMerger,
+) -> tuple[dict, Counter]:
+    """Annotate một record: sentence + entities + unresolved_conflicts.
+
+    Conflict từ CandidateMerger được gom vào `record["unresolved_conflicts"]`
+    để strict validator và downstream tools có thể phát hiện. Mỗi conflict
+    được tag `sentence_id` để truy ngược.
+    """
     text = record["text"]
-    sentences = split_sentences(text)
-    entities: list[dict] = []
-    counts = Counter()
+    record_id = record["id"]
 
-    for number, sentence in enumerate(sentences, start=1):
-        sentence["sid"] = f"{record['id']}-s{number}"
-        sentence["method"] = "rule"
-        sentence["review_status"] = "needs_review"
-        for entity_number, entity in enumerate(candidate_matches(sentence["text"]), start=1):
-            entity["start"] += sentence["start"]
-            entity["end"] += sentence["start"]
-            entity["eid"] = f"{record['id']}-e{len(entities) + 1}"
-            entity["sentence_id"] = sentence["sid"]
-            entities.append(entity)
-            counts[entity["label"]] += 1
+    # Build AnnotationContext.
+    vol_obj = from_canonical_dict(record) if record.get("volume_id") else None
+    ctx = AnnotationContext(
+        record_id=record_id,
+        title=record.get("title", ""),
+        period=record.get("period"),
+        volume_id=vol_obj.canonical_key if vol_obj else None,
+        source_file=record.get("source_file", ""),
+        sentence_spans=tuple(),
+    )
+
+    sentence_spans = segment(text)
+    sentences: list[dict] = []
+    entities: list[dict] = []
+    counts: Counter = Counter()
+    all_conflicts: list[dict] = []
+
+    for idx, s in enumerate(sentence_spans):
+        sent = _span_to_sentence_dict(s, record_id, idx, text[s.start : s.end])
+        sentences.append(sent)
+
+        sent_text = text[s.start : s.end]
+        sent_ctx = AnnotationContext(
+            record_id=record_id,
+            title=ctx.title,
+            period=ctx.period,
+            volume_id=ctx.volume_id,
+            source_file=ctx.source_file,
+            sentence_spans=tuple(sentence_spans),
+        )
+        sent_entities, sent_conflicts = _annotate_text(sent_text, sent_ctx, sources, merger)
+        for ent in sent_entities:
+            ent["eid"] = f"{record_id}-e{len(entities) + 1}"
+            ent["sentence_id"] = sent["sid"]
+            ent["start"] = ent["start"] + s.start
+            ent["end"] = ent["end"] + s.start
+            entities.append(ent)
+            counts[ent["label"]] += 1
+
+        # Tag conflict với sentence_id và convert span sang record-global.
+        for conflict in sent_conflicts:
+            cd = _serialize_conflict(conflict)
+            cd["sentence_id"] = sent["sid"]
+            # Convert sentence-relative spans sang record-global bằng cách
+            # cộng sent.start vào mỗi candidate span; đổi offset_scope.
+            cd["offset_scope"] = "record"
+            new_candidates: list[dict] = []
+            for cand in cd["candidates"]:
+                cand_copy = dict(cand)
+                if isinstance(cand_copy.get("start"), int):
+                    cand_copy["start"] = cand_copy["start"] + s.start
+                if isinstance(cand_copy.get("end"), int):
+                    cand_copy["end"] = cand_copy["end"] + s.start
+                new_candidates.append(cand_copy)
+            cd["candidates"] = new_candidates
+            all_conflicts.append(cd)
 
     result = dict(record)
     result["sentences"] = sentences
     result["entities"] = entities
+    result["unresolved_conflicts"] = all_conflicts
     result["annotation"] = {
         "sentence_guideline_version": "0.1",
         "ner_guideline_version": "0.1",
@@ -132,39 +193,119 @@ def annotate_record(record: dict) -> tuple[dict, Counter]:
     return result, counts
 
 
-def build(input_path: Path, output_path: Path, stats_path: Path) -> None:
+# Gold artifact root — resolve relative to repo root (script location), không
+# phụ thuộc CWD. annotate_corpus.py không được ghi đè.
+REPO_ROOT = Path(__file__).resolve().parent.parent
+GOLD_ROOT = (REPO_ROOT / "build" / "gold").resolve()
+
+
+def build(
+    input_path: Path,
+    output_path: Path,
+    stats_path: Path,
+    *,
+    sources: list,
+    merger: CandidateMerger,
+) -> None:
+    """Annotate corpus. KHÔNG ghi vào build/gold/ (Doccano CLI mới được ghi gold)."""
+    output_resolved = output_path.resolve()
+    try:
+        is_in_gold = output_resolved.is_relative_to(GOLD_ROOT)
+    except ValueError:
+        is_in_gold = False
+    if is_in_gold:
+        raise ValueError(
+            f"annotate_corpus.py không ghi vào {output_resolved} "
+            "(nằm trong build/gold/). Dùng scripts/doccano_io.py from-doccano."
+        )
+
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    totals = Counter()
+    tmp = output_path.with_suffix(output_path.suffix + ".tmp")
+    totals: Counter = Counter()
     records = 0
     sentences = 0
     entities = 0
-    with input_path.open(encoding="utf-8") as source, output_path.open("w", encoding="utf-8") as target:
+    with input_path.open(encoding="utf-8") as source, tmp.open("w", encoding="utf-8") as target:
         for line in source:
             record = json.loads(line)
-            annotated, counts = annotate_record(record)
+            annotated, counts = annotate_record(record, sources=sources, merger=merger)
             target.write(json.dumps(annotated, ensure_ascii=False) + "\n")
             records += 1
             sentences += len(annotated["sentences"])
             entities += len(annotated["entities"])
             totals.update(counts)
 
-    stats_path.write_text(json.dumps({
-        "records": records,
-        "sentences": sentences,
-        "entities": entities,
-        "entities_by_label": dict(totals),
-        "annotation_status": "preannotation_needs_review",
-    }, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    os.replace(tmp, output_path)
+
+    stats_path.parent.mkdir(parents=True, exist_ok=True)
+    stats_path.write_text(
+        json.dumps(
+            {
+                "records": records,
+                "sentences": sentences,
+                "entities": entities,
+                "entities_by_label": dict(totals),
+                "annotation_status": "preannotation_needs_review",
+                "sources": [s.name for s in sources],
+            },
+            ensure_ascii=False,
+            indent=2,
+        )
+        + "\n",
+        encoding="utf-8",
+    )
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--input", type=Path, default=Path("build/corpus.jsonl"))
-    parser.add_argument("--output", type=Path, default=Path("build/corpus_annotated.jsonl"))
-    parser.add_argument("--stats", type=Path, default=Path("build/annotation_statistics.json"))
+    parser.add_argument(
+        "--output",
+        type=Path,
+        default=Path("build/corpus_preannotated.jsonl"),
+        help="Output production. KHÔNG dùng build/gold/*.",
+    )
+    parser.add_argument(
+        "--stats",
+        type=Path,
+        default=Path("build/annotation_statistics.json"),
+    )
+    parser.add_argument(
+        "--no-seed",
+        action="store_true",
+        help="Không load SeedSource (chỉ dùng RegexSource).",
+    )
+    parser.add_argument(
+        "--kb-dir",
+        type=Path,
+        default=Path("build/kb"),
+        help="Thư mục chứa seed.jsonl.gz (nếu có).",
+    )
+    parser.add_argument(
+        "--mapping",
+        type=Path,
+        default=Path("config/mapping.toml"),
+        help="Mapping TOML cho CandidateMerger.",
+    )
     args = parser.parse_args()
-    build(args.input, args.output, args.stats)
+
+    try:
+        mapping = load_mapping(args.mapping)
+    except MappingError as e:
+        raise SystemExit(f"Mapping error: {e}")
+
+    sources = _build_sources(use_seed=not args.no_seed, kb_dir=args.kb_dir)
+    merger = CandidateMerger(mapping, critical_sources=("cbdb", "guwen_basic"))
+
+    build(
+        args.input,
+        args.output,
+        args.stats,
+        sources=sources,
+        merger=merger,
+    )
     print(f"Wrote annotated corpus to {args.output}")
+    print(f"Sources: {[s.name for s in sources]}")
 
 
 if __name__ == "__main__":

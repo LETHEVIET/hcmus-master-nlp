@@ -1,0 +1,40 @@
+# Mapping internal labels → submission labels.
+# Single source of truth: đọc bằng `tomllib` (stdlib 3.11+).
+# Loader: `hcmus_nlp.labels.load_mapping("config/mapping.toml")`.
+#
+# TODO(giảng viên xác nhận):
+#  - DYNASTY → ORG
+#  - POLITY  → ORG
+#  - OFFICIAL_TITLE → TITLE
+#  - BOOK   → TITLE
+# Khi xác nhận xong, đổi `confirmed = true` để cho phép `--mode final`.
+
+version = "0.2.0"
+confirmed = false
+
+[mapping]
+PERSON         = "PER"
+LOCATION       = "LOC"
+POLITY         = "ORG"
+DYNASTY        = "ORG"
+OFFICIAL_TITLE = "TITLE"
+BOOK           = "TITLE"
+TIME           = "TME"
+NUMBER         = "NUM"
+
+[policy]
+unresolved_conflict = "exclude"   # exclude | include_first | include_all (debug)
+
+[label_groups.compatible]
+# Hai label compatible: cùng nhóm policy → merger chỉ giữ 1 entity với
+# label theo priority_label_order, không nhân đôi.
+DYNASTY = ["POLITY"]
+BOOK    = ["OFFICIAL_TITLE"]
+
+[label_groups.priority_label_order]
+# Khi merger gặp hai label compatible, dùng label có priority thấp hơn
+# (priority 0 ưu tiên hơn priority 1).
+DYNASTY        = 0
+POLITY         = 1
+BOOK           = 0
+OFFICIAL_TITLE = 1

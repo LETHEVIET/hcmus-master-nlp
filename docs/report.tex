@@ -1,0 +1,378 @@
+% Compile with: xelatex -interaction=nonstopmode -halt-on-error report.tex
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[vietnamese]{babel}
+\usepackage{fontspec}
+\usepackage[a4paper,margin=2cm]{geometry}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{microtype}
+\usepackage{hyperref}
+
+\setmainfont{DejaVu Serif}
+\setsansfont{DejaVu Sans}
+\setmonofont{Noto Sans Mono}
+\newfontfamily\hanfont{Droid Sans Fallback}
+\newcommand{\han}[1]{{\hanfont #1}}
+
+% Điền thông tin nhóm trước khi nộp.
+\newcommand{\reportauthor}{Nhóm sinh viên: \textit{[Điền họ tên và MSSV]}}
+\newcommand{\coursename}{Học phần: \textit{[Điền tên học phần]}}
+
+\definecolor{linkblue}{HTML}{174A7E}
+\definecolor{bookcolor}{HTML}{DCEEFF}
+\definecolor{timecolor}{HTML}{FFF0C2}
+\definecolor{locationcolor}{HTML}{DDF4DF}
+\definecolor{titlecolor}{HTML}{F3DDF5}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=linkblue,
+  urlcolor=linkblue,
+  pdftitle={Báo cáo xây dựng ngữ liệu đơn ngữ chữ Hán cổ},
+  pdfauthor={Nhóm sinh viên}
+}
+
+\setlength{\parindent}{1.2em}
+\setlength{\parskip}{0.25em}
+\setlist{nosep,leftmargin=1.6em}
+\titleformat{\section}{\large\bfseries}{\thesection.}{0.5em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection.}{0.5em}{}
+\titlespacing*{\section}{0pt}{1.1em}{0.45em}
+\titlespacing*{\subsection}{0pt}{0.8em}{0.3em}
+\renewcommand{\arraystretch}{1.15}
+
+\begin{document}
+
+\begin{center}
+  {\Large\bfseries BÁO CÁO XÂY DỰNG NGỮ LIỆU ĐƠN NGỮ\\
+  CHỮ HÁN CỔ VỀ LỊCH SỬ TRUNG QUỐC}\par
+  \vspace{0.6em}
+  {\coursename}\par
+  {\reportauthor}\par
+  \vspace{0.35em}
+  {\small Tháng 7 năm 2026}
+\end{center}
+
+\noindent\textbf{Tóm tắt.}
+Báo cáo trình bày quy trình xây dựng ngữ liệu đơn ngữ chữ Hán cổ/văn ngôn thuộc
+lĩnh vực lịch sử Trung Quốc thời phong kiến. Từ tám tác phẩm đầu vào, hệ thống
+chuẩn hóa cấu trúc, làm sạch, tách câu và sinh tiền gán nhãn thực thể có tên
+(NER). Kết quả hiện tại gồm 57\,474 bản ghi, 271\,471 câu và 192\,109 thực thể
+tiền gán nhãn, được xuất thành 787 thư mục quyển. Đây là bản \emph{draft}: các
+offset và cấu trúc đã vượt qua kiểm tra tự động, nhưng nhãn thực thể chưa được
+xem là gold cho đến khi hoàn tất hiệu đính thủ công.
+
+\section{Giới thiệu}
+
+\subsection{Mục tiêu của đồ án}
+
+Mục tiêu là tạo một corpus có cấu trúc phục vụ nghiên cứu xử lý ngôn ngữ tự
+nhiên trên văn bản Hán cổ, tập trung vào sử liệu Trung Quốc thời phong kiến.
+``Đơn ngữ'' được hiểu là trường văn bản nghiên cứu chỉ chứa tiếng Hán, không
+ghép song song với bản dịch tiếng Việt. Thông tin tiếng Việt, nếu có, chỉ đóng
+vai trò metadata nhận diện tác phẩm và không được đưa vào nội dung câu.
+
+\subsection{Bài toán được giao}
+
+Đầu vào là các tệp văn bản thô, trong đó tiêu đề tác phẩm, tiêu đề quyển, dòng
+trống và nội dung chính còn trộn lẫn. Đồ án cần biến nguồn này thành dữ liệu
+JSONL theo từng quyển, tách câu và gán các nhãn thực thể theo schema nộp bài:
+\texttt{PER}, \texttt{LOC}, \texttt{ORG}, \texttt{TITLE}, \texttt{TME} và
+\texttt{NUM}. Trong nội bộ, hệ thống giữ nhãn chi tiết hơn như
+\texttt{BOOK}, \texttt{OFFICIAL\_TITLE}, \texttt{DYNASTY} và
+\texttt{POLITY}, sau đó ánh xạ sang schema đầu ra.
+
+\subsection{Phạm vi dữ liệu và kết quả mong đợi}
+
+Phạm vi gồm tám tác phẩm có trong thư mục \path{dataset/}, không tự động tải
+thêm nguồn bên ngoài và không thực hiện OCR. Sản phẩm mong đợi gồm corpus đã
+làm sạch, corpus tiền gán nhãn, tập pilot phục vụ hiệu đính, bản xuất theo từng
+quyển, manifest SHA-256 và báo cáo kiểm tra tuân thủ. Bản nộp cuối chỉ được tạo
+khi mapping nhãn đã được xác nhận và toàn bộ dữ liệu trong phạm vi nộp đã được
+con người duyệt.
+
+\section{Dữ liệu và công cụ sử dụng}
+
+\subsection{Mô tả và nguồn dữ liệu đầu vào}
+
+Nguồn thô gồm tám tệp UTF-8 do đề bài cung cấp. Mỗi tệp tương ứng một tác phẩm;
+các dòng dạng \han{卷一}, \han{卷上}, \han{卷}015b được dùng để xác định ranh
+giới quyển. Danh sách nguồn được thể hiện trong Bảng~\ref{tab:sources}.
+
+\begin{table}[ht]
+\centering
+\caption{Các tác phẩm trong dữ liệu đầu vào.}
+\label{tab:sources}
+\small
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}X l l}
+\toprule
+Tác phẩm & Giai đoạn & Thể loại/đặc trưng \\
+\midrule
+\han{北史} & Nam--Bắc triều & Chính sử \\
+\han{北齊書} & Bắc Tề & Chính sử \\
+\han{諸蕃志} & Tống & Địa lý, ngoại quốc \\
+\han{舊唐書} & Đường & Chính sử \\
+\han{舊五代史} & Ngũ Đại & Chính sử \\
+\han{東觀漢記（四庫全書本）} & Đông Hán & Sử thư \\
+\han{漢書} & Tây Hán & Chính sử \\
+\han{後漢書} & Đông Hán & Chính sử \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+Quy tắc làm sạch bảo toàn nguyên văn: không dịch, không chuyển giản thể/phồn
+thể và không tự sửa chữ nghi là lỗi OCR. Hệ thống chỉ loại tiêu đề công việc,
+heading quyển, dòng trống và boilerplate đã nhận diện; mọi quyết định loại bỏ
+được lưu trong \path{build/audit_decisions.jsonl}. Những đoạn chứa URL hoặc
+placeholder OCR được giữ lại nhưng đánh dấu \texttt{needs\_review}.
+
+\subsection{Công cụ, thư viện và mô hình}
+
+Pipeline được viết bằng Python 3.11 trở lên, quản lý môi trường bằng \texttt{uv}
+và cấu hình bằng TOML. Các thành phần chính gồm bộ tách câu dựa trên quy tắc,
+biểu thức chính quy, từ điển dạng trie, seed gazetteer và bộ hợp nhất ứng viên
+có thứ tự ưu tiên xác định. Dữ liệu duyệt được trao đổi theo định dạng tương
+thích Doccano 1.8.x. Kiểm thử dùng \texttt{pytest}; kiểm tra mã nguồn dùng
+\texttt{Ruff}.
+
+Các adapter cho CBDB và CHGIS đã được chuẩn bị để tạo seed cache có manifest,
+nhưng không tự tải dữ liệu và không tham gia nếu người chạy chưa cung cấp nguồn.
+Các dependency cho mô hình phân đoạn/NER cũng được khai báo ở dạng tùy chọn.
+Do đó, số liệu trong báo cáo này chỉ đến từ hai nguồn ứng viên
+\texttt{regex} và \texttt{seed}, không phải dự đoán của mô hình học máy.
+
+\section{Quy trình thực hiện}
+
+\subsection{Tổng quan}
+
+\begin{center}
+\small
+\fbox{Văn bản thô} $\rightarrow$
+\fbox{Làm sạch và tách quyển} $\rightarrow$
+\fbox{Tách câu} $\rightarrow$
+\fbox{Sinh và hợp nhất ứng viên} $\rightarrow$
+\fbox{Duyệt Doccano} $\rightarrow$
+\fbox{Xuất và kiểm tra}
+\end{center}
+
+Quy trình tách rõ dữ liệu nguồn, tiền gán nhãn và gold. Cách tổ chức này tránh
+việc xem kết quả heuristic là nhãn đúng, đồng thời cho phép truy vết từ thực thể
+đầu ra về tệp và dòng nguồn.
+
+\subsection{Các bước chính}
+
+\begin{enumerate}
+  \item \textbf{Chuẩn hóa và tách quyển.} Parser nhận diện nhiều biến thể heading,
+  chuẩn hóa khóa \texttt{(volume\_number, volume\_part)} và kiểm tra đường dẫn
+  đầu ra không va chạm.
+
+  \item \textbf{Làm sạch có kiểm toán.} Những dòng bị loại được ghi cùng lý do;
+  49 bản ghi có dấu hiệu URL/placeholder OCR được giữ lại để con người quyết định.
+
+  \item \textbf{Tách câu.} Văn bản được chia theo \han{。！？}, đồng thời bảo vệ
+  dấu câu nằm trong ngoặc. Mỗi câu có \texttt{sentence\_id}, offset bắt đầu/kết
+  thúc và trạng thái duyệt.
+
+  \item \textbf{Tiền gán nhãn.} Regex và seed gazetteer sinh ứng viên. Bộ merger
+  xử lý cùng span, lồng nhau, giao cắt và tie-break một cách xác định. Mỗi thực
+  thể giữ \texttt{sources}, \texttt{priority\_score} và danh sách nhãn đã hợp nhất.
+
+  \item \textbf{Lấy mẫu và hiệu đính.} Tập pilot ngẫu nhiên gồm 200 câu, phân tầng
+  đều theo tám tác phẩm (25 câu/tác phẩm, seed 42); 15\% được dành cho gán nhãn
+  kép. Một tập diagnostic riêng tập trung vào các trường hợp khó.
+
+  \item \textbf{Xuất dữ liệu.} Chế độ \texttt{draft} cho phép khảo sát tiền gán
+  nhãn. Chế độ \texttt{final} bắt buộc strict validation, mapping được xác nhận,
+  câu/thực thể đã duyệt và conflict đã giải quyết. Việc ghi output dùng staging
+  và đổi tên trong cùng filesystem để tránh submission dở dang.
+\end{enumerate}
+
+\section{Kết quả đạt được}
+
+\subsection{Khối lượng dữ liệu xử lý}
+
+\begin{table}[ht]
+\centering
+\caption{Thống kê của lần chạy hiện tại.}
+\label{tab:stats}
+\small
+\begin{tabular}{lr@{\qquad}lr}
+\toprule
+Chỉ tiêu & Số lượng & Chỉ tiêu & Số lượng \\
+\midrule
+Tệp/tác phẩm nguồn & 8 & Ký tự nội dung & 7\,359\,348 \\
+Bản ghi & 57\,474 & Câu & 271\,471 \\
+Quyển đầu ra & 787 & Thực thể tiền gán nhãn & 192\,109 \\
+Dòng audit & 3\,817 & Bản ghi cần xem lại làm sạch & 49 \\
+Conflict chưa giải quyết & 1\,362 & Bản ghi chứa conflict & 1\,224 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Phân bố nhãn nội bộ được trình bày ở Bảng~\ref{tab:labels}. Hai nhãn
+\texttt{PERSON} và \texttt{NUMBER} chưa có ứng viên trong lần chạy hiện tại;
+đây là thiếu hụt coverage, không phải bằng chứng rằng corpus không có người hay
+số lượng.
+
+\begin{table}[ht]
+\centering
+\caption{Phân bố 192\,109 thực thể tiền gán nhãn.}
+\label{tab:labels}
+\small
+\begin{tabular}{lr@{\qquad}lr}
+\toprule
+Nhãn & Số lượng & Nhãn & Số lượng \\
+\midrule
+\texttt{LOCATION} & 83\,061 & \texttt{OFFICIAL\_TITLE} & 63\,463 \\
+\texttt{TIME} & 26\,035 & \texttt{BOOK} & 14\,267 \\
+\texttt{DYNASTY} & 3\,034 & \texttt{POLITY} & 2\,249 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Các sản phẩm đầu ra}
+
+\begin{table}[ht]
+\centering
+\small
+\begin{tabularx}{\textwidth}{>{\ttfamily\raggedright\arraybackslash}p{0.42\textwidth} X}
+\toprule
+Artifact & Nội dung \\
+\midrule
+build/corpus.jsonl & Corpus đã chuẩn hóa và tách quyển/câu \\
+build/corpus\_preannotated.jsonl & Corpus có thực thể heuristic và provenance \\
+build/audit\_decisions.jsonl & Nhật ký quyết định làm sạch \\
+build/pilot/ & Mẫu random và diagnostic để hiệu đính \\
+build/submission/ & 787 thư mục quyển, manifest và validation report \\
+build/annotation\_samples.html & Trang HTML minh họa trực quan các nhãn \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+Manifest của bản draft ghi 271\,471 câu, 192\,109 thực thể, mapping phiên bản
+0.2.0 và checksum SHA-256 của corpus nguồn. Mỗi thực thể trong file nộp chỉ còn
+bốn trường tối thiểu: \texttt{text}, \texttt{label}, \texttt{start},
+\texttt{end}; provenance chỉ tồn tại trong artifact nội bộ.
+
+\subsection{Ví dụ minh họa}
+
+Ví dụ thực từ \han{北史}:
+
+\begin{quote}
+\han{\colorbox{timecolor}{二年}\,春正月癸卯，拜沮渠無諱為征西\colorbox{titlecolor}{大將軍}、
+\colorbox{locationcolor}{涼州}\,牧、酒泉王。}
+\end{quote}
+
+Trong đó \han{二年} được gán \texttt{TIME}, \han{大將軍} là
+\texttt{OFFICIAL\_TITLE}, và \han{涼州} là \texttt{LOCATION}. Ví dụ cũng cho
+thấy hạn chế quan trọng: tên người \han{沮渠無諱} chưa được nhận diện và địa danh
+\han{酒泉} có thể bị bỏ sót. Một ví dụ khác từ \han{諸蕃志} nhận diện
+\han{寶慶元年} là \texttt{TIME} và \han{大夫} là
+\texttt{OFFICIAL\_TITLE}. Vì đây là preannotation, các đoạn tô màu là đề xuất
+cho người gán nhãn, không phải đáp án gold.
+
+\section{Đánh giá và thảo luận}
+
+\subsection{Cách đánh giá}
+
+Đánh giá được chia thành hai tầng. Tầng cấu trúc kiểm tra offset, chuỗi
+\texttt{text[start:end]}, nhãn hợp lệ, phạm vi câu, đường dẫn quyển, shape đầu
+ra và chuỗi checksum. Tầng chất lượng NER dự kiến dùng tập gold pilot để tính
+precision, recall và F1 strict theo entity, F1 biên, kết quả theo từng nhãn,
+confusion matrix và độ chính xác nhãn trên các biên đã khớp.
+
+\subsection{Kết quả đánh giá hiện tại}
+
+\begin{table}[ht]
+\centering
+\small
+\begin{tabularx}{\textwidth}{X l X}
+\toprule
+Kiểm tra & Kết quả & Diễn giải \\
+\midrule
+Offset-only validation & Đạt & Offset và cấu trúc cơ bản hợp lệ \\
+Draft compliance & 0 fatal, 0 warning & Shape, thư mục và manifest hợp lệ \\
+Kiểm thử phần mềm & 190 test đạt & Bảo vệ hành vi parser, merger, I/O và export \\
+Ruff lint/format & Đạt & Mã nguồn vượt qua quality gate tĩnh \\
+Strict validation preannotation & 464\,853 fatal & Kỳ vọng vì chưa human-review \\
+Entity-level F1 & Chưa có & Chưa có gold pilot đã hiệu đính \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+Số lỗi strict gồm 271\,471 câu chưa duyệt, 192\,109 thực thể chưa duyệt,
+1\,224 bản ghi còn conflict và 49 bản ghi cần quyết định làm sạch. Các số này
+không nên được diễn giải là 464\,853 dự đoán sai; chúng là các cổng quy trình
+ngăn bản preannotation bị xuất nhầm thành final. Tương tự, 190 kiểm thử phần
+mềm chứng minh tính ổn định của implementation, không thay thế cho precision,
+recall hoặc F1 của dữ liệu.
+
+\subsection{Vấn đề gặp phải và phân tích nguyên nhân}
+
+\begin{itemize}
+  \item \textbf{Biến thể heading quyển.} Cùng một nguồn có nhiều cách ghi số và
+  phần quyển. Parser ban đầu có thể gộp nhầm; nguyên nhân là xem chuỗi heading
+  như tên tự do thay vì khóa chuẩn hóa.
+
+  \item \textbf{Nhập nhằng thực thể.} Một span có thể là triều đại, chính thể,
+  địa danh hoặc nằm trong chức danh dài. Regex chỉ quan sát bề mặt nên sinh cả
+  false positive, false negative và conflict.
+
+  \item \textbf{Coverage không cân bằng.} Gazetteer địa danh/chức quan phong phú
+  hơn tên người và số lượng; đồng thời tên người Hán cổ thường không có dấu hiệu
+  hình thức cố định. Đây là lý do \texttt{LOCATION} và
+  \texttt{OFFICIAL\_TITLE} chiếm ưu thế, còn \texttt{PERSON}/\texttt{NUMBER}
+  chưa được sinh trong lần chạy này.
+
+  \item \textbf{Nhiễu nguồn.} Placeholder OCR và URL nằm giữa dòng không thể loại
+  bằng quy tắc boilerplate mà không có nguy cơ xóa văn bản thật. Hệ thống vì vậy
+  giữ nguyên và chuyển sang hàng đợi duyệt.
+
+  \item \textbf{Thiếu gold.} Không thể báo cáo F1 đáng tin cậy bằng cách so
+  heuristic với chính nó. Cần gán nhãn độc lập, giải quyết bất đồng và khóa phiên
+  bản guideline trước khi đánh giá.
+\end{itemize}
+
+\section{Kết luận và hướng phát triển}
+
+Đồ án đã hoàn thành đường ống có thể tái lập từ tám tệp nguồn đến corpus JSONL,
+bao gồm tách 787 quyển, làm sạch có audit, tách 271\,471 câu, sinh 192\,109 thực
+thể tiền gán nhãn, lấy mẫu pilot, trao đổi Doccano, export nguyên tử và kiểm tra
+checksum. Source code vượt qua test và lint; bản draft vượt qua compliance.
+
+Hạn chế lớn nhất là chưa có gold corpus đã được người làm chuyên môn duyệt,
+mapping cuối chưa được xác nhận và coverage của \texttt{PERSON}/\texttt{NUMBER}
+còn thiếu. Vì vậy, hướng phát triển ưu tiên là: (1) hiệu đính 200 câu pilot và
+đo agreement giữa annotator; (2) phân tích lỗi theo nhãn để mở rộng gazetteer;
+(3) tích hợp CBDB/CHGIS có kiểm soát; (4) thử mô hình pretrained cho Hán cổ và
+so sánh với baseline regex--seed; (5) active learning để ưu tiên câu có conflict
+hoặc độ bất định cao. Chỉ sau các bước này mới xác nhận mapping, chạy strict
+validation và đóng gói bản final.
+
+\begin{thebibliography}{9}
+\small
+\bibitem{evahan2024}
+L. Li và cộng sự, ``EvaHan 2024: Overview of the First International Ancient
+Chinese Translation Bakeoff,'' ACL Anthology, 2024.
+\url{https://aclanthology.org/2024.lt4hala-1.15/}
+
+\bibitem{evahan2025}
+L. Li và cộng sự, ``EvaHan 2025: Overview of Named Entity Recognition and
+Sentence Segmentation Evaluation for Ancient Chinese,'' ACL Anthology, 2025.
+\url{https://aclanthology.org/2025.alp-1.17/}
+
+\bibitem{guner2023}
+Y. Xu và cộng sự, ``GuNER 2023: Ancient Chinese Named Entity Recognition
+Evaluation,'' ACL Anthology, 2023.
+\url{https://aclanthology.org/2023.lt4hala-1.18/}
+
+\bibitem{datasetreadme}
+Tài liệu nguồn của đồ án, \path{dataset/README.md} và các hướng dẫn trong
+\path{docs/}, phiên bản truy cập tháng 7 năm 2026.
+\end{thebibliography}
+
+\end{document}

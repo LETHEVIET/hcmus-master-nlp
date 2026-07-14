@@ -1,1 +1,34 @@
-# The generated corpus is versioned; large JSONL files use Git LFS.
+# Python/uv local state.
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Build intermediates are ignored by default.  The reproducible corpus,
+# submission package, review samples, and report are explicitly versioned.
+build/*
+!build/annotation_samples.html
+!build/annotation_statistics.json
+!build/audit_decisions.jsonl
+!build/corpus.jsonl
+!build/corpus_preannotated.jsonl
+!build/metadata.json
+!build/statistics.json
+!build/kb/
+!build/kb/**
+!build/pilot/
+!build/pilot/**
+!build/report/
+build/report/*
+!build/report/report.pdf
+!build/submission/
+!build/submission/**
+
+# External KB raw files (license ràng buộc; download opt-in).
+data/external/
+
+# Local scratch + Doccano atomic temp files.
+build/doccano/scratch/
+
+# Large generated JSONL files are versioned through Git LFS (see
+# .gitattributes).
